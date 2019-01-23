@@ -1,12 +1,21 @@
 ---
-Τίτλος: ms.author "1051 Antispam\4.7.500 η πρόσβαση, προσπαθήστε ξανά αργότερα": συντάκτη chrisda: Διαχείριση chrisda: serdars ms.date: ms.audience 28/9/2018: ITPro ms.topic: άρθρο ΑΝΙΧΝΕΥΤΏΝ: NOINDEX, NOFOLLOW localization_priority: προτεραιότητα
-
-MS.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-
+title: 1051 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 4.7.500 επιτρέπεται η πρόσβαση, προσπαθήστε ξανά αργότερα
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 9/28/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
+ms.openlocfilehash: d777bacb799bbe25c11b8ceaf92e2c3d0262026a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383276"
 ---
-
-
-
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 η πρόσβαση, προσπαθήστε ξανά αργότερα
 
 Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο βάσει της φήμης (ή έλλειψη φήμη) διεύθυνση IP προέλευσης.

@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383285"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [Διαγραφή χρηστών](/AlchemyInsights/deleting-users) | τροποποίηση |
 | 11/1/2019 | [Ανάπτυξη ομαλή καθολικής σύνδεσης](/AlchemyInsights/deploy-seamless-single-sign-on) | τροποποίηση |
 | 11/1/2019 | [Απενεργοποίηση της πρόσβασης σε Yammer](/AlchemyInsights/disable-access-to-yammer) | τροποποίηση |
+
+
+## <a name="week-of-january-14-2019"></a>Εβδομάδα του Ιανουαρίου 14 Μαΐου 2019
+
+
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+|------|------------|--------|
+| 14/1/2019 | "Alchemy" σύμβολο κράτησης θέσης | Κατάργηση |
+| 14/1/2019 | Προσθήκη τομέα "Alchemy" | Κατάργηση |
+| 14/1/2019 | [Κεντρική ιδέες "Alchemy"](/AlchemyInsights/index) | τροποποίηση |
+| 17/1/2019 | [ίδιο με το όνομα αρχείου είναι καλύτερη [ΚΑΝΌΝΑ #-περιγραφή]](/AlchemyInsights/1-alchemy-insight-template) | Προσθήκη |
