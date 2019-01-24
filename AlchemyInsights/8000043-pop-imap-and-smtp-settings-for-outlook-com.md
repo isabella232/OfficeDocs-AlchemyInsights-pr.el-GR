@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
 ms.openlocfilehash: b5b7609d6daee9afe43e9cb6bfe5f2766d1e7c39
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290933"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29471251"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a><span data-ttu-id="6bb8e-102">Ρυθμίσεις POP, IMAP και SMTP για Outlook.com</span><span class="sxs-lookup"><span data-stu-id="6bb8e-102">POP, IMAP, and SMTP settings for Outlook.com</span></span>
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a><span data-ttu-id="d5f33-102">Ρυθμίσεις POP, IMAP και SMTP για Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d5f33-102">POP, IMAP, and SMTP settings for Outlook.com</span></span>
 
-<span data-ttu-id="6bb8e-103">Εάν θέλετε να προσθέσετε το λογαριασμό σας Outlook.com σε μια άλλη εφαρμογή αλληλογραφίας που υποστηρίζει POP ή IMAP, ακολουθούν τις ρυθμίσεις διακομιστή με μη αυτόματο τρόπο, θα πρέπει:</span><span class="sxs-lookup"><span data-stu-id="6bb8e-103">If you want to add your Outlook.com account to another mail app that supports POP or IMAP, here are the manual server settings you'll need:</span></span>
+<span data-ttu-id="d5f33-103">Εάν θέλετε να προσθέσετε το λογαριασμό σας Outlook.com σε μια άλλη εφαρμογή αλληλογραφίας που υποστηρίζει POP ή IMAP, ακολουθούν τις ρυθμίσεις διακομιστή με μη αυτόματο τρόπο, θα πρέπει:</span><span class="sxs-lookup"><span data-stu-id="d5f33-103">If you want to add your Outlook.com account to another mail app that supports POP or IMAP, here are the manual server settings you'll need:</span></span>
   
-- <span data-ttu-id="6bb8e-104">**Όνομα διακομιστή IMAP:** imap mail.outlook.com</span><span class="sxs-lookup"><span data-stu-id="6bb8e-104">**IMAP server name:** imap-mail.outlook.com</span></span> 
+- <span data-ttu-id="d5f33-104">**Όνομα διακομιστή IMAP:** imap mail.outlook.com</span><span class="sxs-lookup"><span data-stu-id="d5f33-104">**IMAP server name:** imap-mail.outlook.com</span></span> 
     
-- <span data-ttu-id="6bb8e-105">**Θύρα IMAP:** 993</span><span class="sxs-lookup"><span data-stu-id="6bb8e-105">**IMAP port:** 993</span></span> 
+- <span data-ttu-id="d5f33-105">**Θύρα IMAP:** 993</span><span class="sxs-lookup"><span data-stu-id="d5f33-105">**IMAP port:** 993</span></span> 
     
-- <span data-ttu-id="6bb8e-106">**Μέθοδος κρυπτογράφησης IMAP:** TLS</span><span class="sxs-lookup"><span data-stu-id="6bb8e-106">**IMAP encryption method:** TLS</span></span> 
+- <span data-ttu-id="d5f33-106">**Μέθοδος κρυπτογράφησης IMAP:** TLS</span><span class="sxs-lookup"><span data-stu-id="d5f33-106">**IMAP encryption method:** TLS</span></span> 
     
-- <span data-ttu-id="6bb8e-107">**Όνομα διακομιστή POP:** pop-mail.outlook.com</span><span class="sxs-lookup"><span data-stu-id="6bb8e-107">**POP server name:** pop-mail.outlook.com</span></span> 
+- <span data-ttu-id="d5f33-107">**Όνομα διακομιστή POP:** pop-mail.outlook.com</span><span class="sxs-lookup"><span data-stu-id="d5f33-107">**POP server name:** pop-mail.outlook.com</span></span> 
     
-- <span data-ttu-id="6bb8e-108">**Θύρα POP:** 995</span><span class="sxs-lookup"><span data-stu-id="6bb8e-108">**POP port:** 995</span></span> 
+- <span data-ttu-id="d5f33-108">**Θύρα POP:** 995</span><span class="sxs-lookup"><span data-stu-id="d5f33-108">**POP port:** 995</span></span> 
     
-- <span data-ttu-id="6bb8e-109">**Μέθοδος κρυπτογράφησης POP:** TLS</span><span class="sxs-lookup"><span data-stu-id="6bb8e-109">**POP encryption method:** TLS</span></span> 
+- <span data-ttu-id="d5f33-109">**Μέθοδος κρυπτογράφησης POP:** TLS</span><span class="sxs-lookup"><span data-stu-id="d5f33-109">**POP encryption method:** TLS</span></span> 
     
-- <span data-ttu-id="6bb8e-110">**Όνομα διακομιστή SMTP:** smtp mail.outlook.com</span><span class="sxs-lookup"><span data-stu-id="6bb8e-110">**SMTP server name:** smtp-mail.outlook.com</span></span> 
+- <span data-ttu-id="d5f33-110">**Όνομα διακομιστή SMTP:** smtp mail.outlook.com</span><span class="sxs-lookup"><span data-stu-id="d5f33-110">**SMTP server name:** smtp-mail.outlook.com</span></span> 
     
-- <span data-ttu-id="6bb8e-111">**Θύρα SMTP:** 587</span><span class="sxs-lookup"><span data-stu-id="6bb8e-111">**SMTP port:** 587</span></span> 
+- <span data-ttu-id="d5f33-111">**Θύρα SMTP:** 587</span><span class="sxs-lookup"><span data-stu-id="d5f33-111">**SMTP port:** 587</span></span> 
     
-- <span data-ttu-id="6bb8e-112">**Μέθοδος κρυπτογράφησης SMTP:** STARTTLS</span><span class="sxs-lookup"><span data-stu-id="6bb8e-112">**SMTP encryption method:** STARTTLS</span></span> 
+- <span data-ttu-id="d5f33-112">**Μέθοδος κρυπτογράφησης SMTP:** STARTTLS</span><span class="sxs-lookup"><span data-stu-id="d5f33-112">**SMTP encryption method:** STARTTLS</span></span> 
     
-<span data-ttu-id="6bb8e-113">Διαβάστε περισσότερα σχετικά με τις [Ρυθμίσεις POP, IMAP, και SMTP για Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="6bb8e-113">Read more about [POP, IMAP, and SMTP settings for Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).</span></span>
+<span data-ttu-id="d5f33-113">Διαβάστε περισσότερα σχετικά με τις [Ρυθμίσεις POP, IMAP, και SMTP για Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="d5f33-113">Read more about [POP, IMAP, and SMTP settings for Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).</span></span>
   
 
