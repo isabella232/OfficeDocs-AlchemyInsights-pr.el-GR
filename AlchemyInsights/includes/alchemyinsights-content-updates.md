@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383285"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454430"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383285"
 ## <a name="week-of-january-07-2019"></a>Εβδομάδα του Ιανουαρίου 07 Μαΐου 2019
 
 
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή. |
 |------|------------|--------|
 | 7/1/2019 | [Αλλαγή του κωδικού πρόσβασης](/AlchemyInsights/change-your-password-in-outlook.com) | Προσθήκη |
 | 7/1/2019 | [Αλλαγή δικαιωμάτων για ένα γραμματοκιβώτιο](/AlchemyInsights/changing-permissions-on-a-mailbox) | Προσθήκη |
@@ -302,7 +302,7 @@ ms.locfileid: "29383285"
 | 10/1/2019 | [Δημιουργήστε μια τοποθεσία επικοινωνίας](/AlchemyInsights/create-a-communication-site) | Προσθήκη |
 | 10/1/2019 | [Δημιουργήστε μια ροή](/AlchemyInsights/create-a-flow) | Προσθήκη |
 | 10/1/2019 | [Δημιουργήστε μια τοποθεσία ομάδας σύγχρονα](/AlchemyInsights/create-a-modern-team-site) | Προσθήκη |
-| 10/1/2019 | [Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-a-shared-mailbox) | Προσθήκη |
+| 10/1/2019 | Δημιουργία κοινόχρηστου γραμματοκιβωτίου | Προσθήκη |
 | 10/1/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Προσθήκη |
 | 10/1/2019 | [Δημιουργία τοποθεσίας στο SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Προσθήκη |
 | 10/1/2019 | [Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | Προσθήκη |
@@ -599,7 +599,7 @@ ms.locfileid: "29383285"
 | 11/1/2019 | [Δημιουργήστε μια τοποθεσία επικοινωνίας](/AlchemyInsights/create-a-communication-site) | τροποποίηση |
 | 11/1/2019 | [Δημιουργήστε μια ροή](/AlchemyInsights/create-a-flow) | τροποποίηση |
 | 11/1/2019 | [Δημιουργήστε μια τοποθεσία ομάδας σύγχρονα](/AlchemyInsights/create-a-modern-team-site) | τροποποίηση |
-| 11/1/2019 | [Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-a-shared-mailbox) | τροποποίηση |
+| 11/1/2019 | Δημιουργία κοινόχρηστου γραμματοκιβωτίου | τροποποίηση |
 | 11/1/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | τροποποίηση |
 | 11/1/2019 | [Δημιουργία τοποθεσίας στο SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | τροποποίηση |
 | 11/1/2019 | [Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | τροποποίηση |
@@ -637,7 +637,7 @@ ms.locfileid: "29383285"
 ## <a name="week-of-january-14-2019"></a>Εβδομάδα του Ιανουαρίου 14 Μαΐου 2019
 
 
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή. |
 |------|------------|--------|
 | 14/1/2019 | "Alchemy" σύμβολο κράτησης θέσης | Κατάργηση |
 | 14/1/2019 | Προσθήκη τομέα "Alchemy" | Κατάργηση |
