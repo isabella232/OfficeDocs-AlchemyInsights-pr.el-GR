@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 5cdb7d8f-b456-446c-9ba4-1427c9bf545a
 description: Ξεκινήστε το άρθρο σας με μια πολύ μικρή Εισαγωγή (1 πρόταση). Τοποθετήστε τον εαυτό σας στη θέση του αναγνώστη - γιατί είναι εδώ; Τι πρέπει να κάνουν;
 ms.openlocfilehash: 13828d443e0d97adcd9d7d16e00c774cdd70297b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290361"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498050"
 ---
 Ξεκινήστε το άρθρο σας με μια πολύ μικρή Εισαγωγή (1 πρόταση). Τοποθετήστε τον εαυτό σας στη θέση του αναγνώστη - γιατί είναι εδώ; Τι πρέπει να κάνουν; 
   
