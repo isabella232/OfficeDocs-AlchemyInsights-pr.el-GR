@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 122c1faf54cdd72ca6d67088e113f23b9f1396b8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290651"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29471175"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Αγοράσετε μια συνδρομή στο Office 365 από ΔΩΡΕΑΝ δοκιμαστική έκδοση
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
 ms.openlocfilehash: 50f6e688917961eb4a7e212794b3d4685945d9fd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290408"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29471704"
 ---
 # <a name="office-365-for-enterprise-plan"></a>Office 365 για εταιρικό σχέδιο
 

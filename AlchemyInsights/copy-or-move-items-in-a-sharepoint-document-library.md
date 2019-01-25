@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290347"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470805"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Αντιγραφή ή μετακίνηση στοιχείων σε μια βιβλιοθήκη εγγράφων του SharePoint
 
@@ -37,6 +37,6 @@ ms.locfileid: "28290347"
 3. Κάντε κλικ **εδώ την αντιγραφή** ή **Μετακίνηση εδώ**.
     
 > [!NOTE]
->  Μπορείτε να αντιγράψετε έως 500 MB αρχεία και φακέλους ταυτόχρονα. > Όταν αντιγράφετε έγγραφα που έχουν ιστορικό εκδόσεων, αντιγράφεται μόνο την πιο πρόσφατη έκδοση. Κατά τη μετακίνηση εγγράφων, μεταφέρεται επίσης το ιστορικό τους. 
+>  Μπορείτε να αντιγράψετε έως 500 MB αρχεία και φακέλους ταυτόχρονα. Αντιγραφή > κατά την αντιγραφή εγγράφων που έχουν ιστορικό εκδόσεων, μόνο την πιο πρόσφατη έκδοση. Κατά τη μετακίνηση εγγράφων, μεταφέρεται επίσης το ιστορικό τους. 
   
 

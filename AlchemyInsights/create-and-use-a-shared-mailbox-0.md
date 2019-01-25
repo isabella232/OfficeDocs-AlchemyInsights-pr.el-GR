@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.openlocfilehash: 00ae64f6e2ac317844e6f8544c9d6fde7a3d8834
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28291434"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470835"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο
 
@@ -22,7 +22,7 @@ ms.locfileid: "28291434"
   
 [Δημιουργία κοινόχρηστο γραμματοκιβώτιο](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) εξηγεί πώς να: 
   
-- Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο
+- Δημιουργία κοινόχρηστου γραμματοκιβωτίου
     
 - Να δώσετε στους χρήστες δικαιώματα για να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο
     
