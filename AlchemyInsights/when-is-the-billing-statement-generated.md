@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
 ms.openlocfilehash: 9fa727141c2519e9b3ad747ac8641db562d6a37a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290990"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29471058"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="ebf28-102">Όταν δημιουργείται η δήλωση χρέωσης</span><span class="sxs-lookup"><span data-stu-id="ebf28-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="9a30e-102">Όταν δημιουργείται η δήλωση χρέωσης</span><span class="sxs-lookup"><span data-stu-id="9a30e-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="ebf28-p101">Κάθε μήνα θα λαμβάνετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου που θα σας ενημερώνει ότι είναι διαθέσιμη η νέα κατάσταση χρέωσης στο στο Κέντρο διαχείρισης του Office 365. Το προτιμολόγιό σας περιέχει δύο σελίδες. Σελίδα 1 είναι το τιμολόγιο σύνοψης και περιλαμβάνει γενικές πληροφορίες για το τιμολόγιο, παραγγελία, ποσό πληρωμής που μπορείτε να κάνετε μια πληρωμή, καθώς και τον τρόπο επικοινωνίας με την υποστήριξη. Σελίδα 2 περιέχει λεπτομέρειες σχετικά με τη δραστηριότητα χρέωσης για κάθε συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="ebf28-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Office 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="9a30e-p101">Κάθε μήνα θα λαμβάνετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου που θα σας ενημερώνει ότι είναι διαθέσιμη η νέα κατάσταση χρέωσης στο στο Κέντρο διαχείρισης του Office 365. Το προτιμολόγιό σας περιέχει δύο σελίδες. Σελίδα 1 είναι το τιμολόγιο σύνοψης και περιλαμβάνει γενικές πληροφορίες για το τιμολόγιο, παραγγελία, ποσό πληρωμής που μπορείτε να κάνετε μια πληρωμή, καθώς και τον τρόπο επικοινωνίας με την υποστήριξη. Σελίδα 2 περιέχει λεπτομέρειες σχετικά με τη δραστηριότητα χρέωσης για κάθε συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="9a30e-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Office 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
   
-<span data-ttu-id="ebf28-107">Για να μάθετε περισσότερα σχετικά με τις έννοιες χρέωσης, ανατρέξτε στο θέμα [Κατανόηση τιμολόγιό σας](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span><span class="sxs-lookup"><span data-stu-id="ebf28-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
+<span data-ttu-id="9a30e-107">Για να μάθετε περισσότερα σχετικά με τις έννοιες χρέωσης, ανατρέξτε στο θέμα [Κατανόηση τιμολόγιό σας](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span><span class="sxs-lookup"><span data-stu-id="9a30e-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
   
 

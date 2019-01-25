@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.openlocfilehash: f8822c17e90476f22832ce823b24930f1e71ce21
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28291173"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470778"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="c2ea2-102">Επαναφέρετε ή να αλλάξετε τους κωδικούς πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="c2ea2-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="d1d74-102">Επαναφέρετε ή να αλλάξετε τους κωδικούς πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="d1d74-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="c2ea2-103">Ο χρήστης μπορεί να αλλάξει δικό τους κωδικό πρόσβασης από [ο λογαριασμός μου, ασφάλεια &amp; απορρήτου](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="c2ea2-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="d1d74-103">Ο χρήστης μπορεί να αλλάξει δικό τους κωδικό πρόσβασης από [ο λογαριασμός μου, ασφάλεια &amp; απορρήτου](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="d1d74-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="c2ea2-104">Εάν ο χρήστης έχει ξεχάσει τον κωδικό πρόσβασής τους, ένας admin μπορεί να επαναφέρετε τον κωδικό πρόσβασης, μεταβαίνοντας στο [χρήστες \> ενεργούς χρήστες](https://portal.office.com/adminportal/home#/users), επιλέξτε τους χρήστες και κάντε κλικ στο κουμπί **Επαναφορά κωδικού πρόσβασης**.</span><span class="sxs-lookup"><span data-stu-id="c2ea2-104">If the user has forgotten their password, an admin can reset the password by going to [Users \> Active Users](https://portal.office.com/adminportal/home#/users), select the user(s) and click **Reset password**.</span></span> 
+<span data-ttu-id="d1d74-104">Εάν ο χρήστης έχει ξεχάσει τον κωδικό πρόσβασής τους, ένας admin μπορεί να επαναφέρετε τον κωδικό πρόσβασης, μεταβαίνοντας στο [χρήστες \> ενεργούς χρήστες](https://portal.office.com/adminportal/home#/users), επιλέξτε τους χρήστες και κάντε κλικ στο κουμπί **Επαναφορά κωδικού πρόσβασης**.</span><span class="sxs-lookup"><span data-stu-id="d1d74-104">If the user has forgotten their password, an admin can reset the password by going to [Users \> Active Users](https://portal.office.com/adminportal/home#/users), select the user(s) and click **Reset password**.</span></span> 
   
-<span data-ttu-id="c2ea2-105">[Κάντε κλικ εδώ για να μάθετε περισσότερα](https://support.office.com/en-us/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), ή για να επιτρέπουν στους χρήστες να επαναφέρετε τις δικές τους κωδικούς πρόσβασης που έχετε ξεχάσει.</span><span class="sxs-lookup"><span data-stu-id="c2ea2-105">[Click here to learn more](https://support.office.com/en-us/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="d1d74-105">[Κάντε κλικ εδώ για να μάθετε περισσότερα](https://support.office.com/en-us/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), ή για να επιτρέπουν στους χρήστες να επαναφέρετε τις δικές τους κωδικούς πρόσβασης που έχετε ξεχάσει.</span><span class="sxs-lookup"><span data-stu-id="d1d74-105">[Click here to learn more](https://support.office.com/en-us/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
   
 
