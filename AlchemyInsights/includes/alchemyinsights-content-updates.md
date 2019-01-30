@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454430"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454430"
 ## <a name="week-of-january-07-2019"></a>Εβδομάδα του Ιανουαρίου 07 Μαΐου 2019
 
 
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή. |
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
 |------|------------|--------|
 | 7/1/2019 | [Αλλαγή του κωδικού πρόσβασης](/AlchemyInsights/change-your-password-in-outlook.com) | Προσθήκη |
 | 7/1/2019 | [Αλλαγή δικαιωμάτων για ένα γραμματοκιβώτιο](/AlchemyInsights/changing-permissions-on-a-mailbox) | Προσθήκη |
@@ -302,7 +294,7 @@ ms.locfileid: "29454430"
 | 10/1/2019 | [Δημιουργήστε μια τοποθεσία επικοινωνίας](/AlchemyInsights/create-a-communication-site) | Προσθήκη |
 | 10/1/2019 | [Δημιουργήστε μια ροή](/AlchemyInsights/create-a-flow) | Προσθήκη |
 | 10/1/2019 | [Δημιουργήστε μια τοποθεσία ομάδας σύγχρονα](/AlchemyInsights/create-a-modern-team-site) | Προσθήκη |
-| 10/1/2019 | Δημιουργία κοινόχρηστου γραμματοκιβωτίου | Προσθήκη |
+| 10/1/2019 | [Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-a-shared-mailbox) | Προσθήκη |
 | 10/1/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Προσθήκη |
 | 10/1/2019 | [Δημιουργία τοποθεσίας στο SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Προσθήκη |
 | 10/1/2019 | [Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | Προσθήκη |
@@ -599,7 +591,7 @@ ms.locfileid: "29454430"
 | 11/1/2019 | [Δημιουργήστε μια τοποθεσία επικοινωνίας](/AlchemyInsights/create-a-communication-site) | τροποποίηση |
 | 11/1/2019 | [Δημιουργήστε μια ροή](/AlchemyInsights/create-a-flow) | τροποποίηση |
 | 11/1/2019 | [Δημιουργήστε μια τοποθεσία ομάδας σύγχρονα](/AlchemyInsights/create-a-modern-team-site) | τροποποίηση |
-| 11/1/2019 | Δημιουργία κοινόχρηστου γραμματοκιβωτίου | τροποποίηση |
+| 11/1/2019 | [Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-a-shared-mailbox) | τροποποίηση |
 | 11/1/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | τροποποίηση |
 | 11/1/2019 | [Δημιουργία τοποθεσίας στο SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | τροποποίηση |
 | 11/1/2019 | [Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | τροποποίηση |
@@ -637,9 +629,25 @@ ms.locfileid: "29454430"
 ## <a name="week-of-january-14-2019"></a>Εβδομάδα του Ιανουαρίου 14 Μαΐου 2019
 
 
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή. |
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
 |------|------------|--------|
 | 14/1/2019 | "Alchemy" σύμβολο κράτησης θέσης | Κατάργηση |
 | 14/1/2019 | Προσθήκη τομέα "Alchemy" | Κατάργηση |
 | 14/1/2019 | [Κεντρική ιδέες "Alchemy"](/AlchemyInsights/index) | τροποποίηση |
 | 17/1/2019 | [ίδιο με το όνομα αρχείου είναι καλύτερη [ΚΑΝΌΝΑ #-περιγραφή]](/AlchemyInsights/1-alchemy-insight-template) | Προσθήκη |
+
+
+## <a name="week-of-january-21-2019"></a>Εβδομάδα του Ιανουαρίου 21 Μαΐου 2019
+
+
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+|------|------------|--------|
+| 22/1/2019 | [1047 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 550 5.7.708 υπηρεσία δεν είναι διαθέσιμη. Δεν επιτρέπεται η κυκλοφορία που δεν γίνονται δεκτά από το IP πρόσβαση](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | τροποποίηση |
+| 22/1/2019 | [1049 αντιμετώπισης ανεπιθύμητης αλληλογραφίας σημείο 4.5.3 υπερβολικά πολλούς παραλήπτες (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | τροποποίηση |
+| 22/1/2019 | [1050 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 4.7.500 διακομιστής είναι απασχολημένος. Προσπαθήστε ξανά αργότερα από [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | τροποποίηση |
+| 22/1/2019 | [1051 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 4.7.500 επιτρέπεται η πρόσβαση, προσπαθήστε ξανά αργότερα](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | τροποποίηση |
+| 22/1/2019 | [Αναμετάδοσης ηλεκτρονικού ταχυδρομείου μέσω του Office 365](/AlchemyInsights/relay-email-through-office-365) | τροποποίηση |
+| 24/1/2019 | [Η δημιουργία στοιχείου ελέγχου των ομάδων](/AlchemyInsights/control-creation-of-groups) | τροποποίηση |
+| 24/1/2019 | [Ζητήματα του Outlook με το Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | Προσθήκη |
+| 24/1/2019 | [Επαναφορά μιας ομάδας 365 του Office χρησιμοποιώντας το Κέντρο διαχείρισης του Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Μετονομασία |
+| 24/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | Μετονομασία |
