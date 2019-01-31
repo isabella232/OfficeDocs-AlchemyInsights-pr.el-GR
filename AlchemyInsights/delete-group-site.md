@@ -3,31 +3,30 @@ title: Διαγραφή ομάδας τοποθεσιών
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471706"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660671"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a><span data-ttu-id="59746-102">Διαγραφή μιας τοποθεσίας του SharePoint που ανήκει σε μια ομάδα του Office 365</span><span class="sxs-lookup"><span data-stu-id="59746-102">Delete a SharePoint site that belongs to an Office 365 group</span></span>
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a><span data-ttu-id="7660d-102">Διαγραφή μιας τοποθεσίας του SharePoint που ανήκει σε μια ομάδα του Office 365</span><span class="sxs-lookup"><span data-stu-id="7660d-102">Delete a SharePoint site that belongs to an Office 365 group</span></span>
 
-<span data-ttu-id="59746-p101">Όταν οι χρήστες δημιουργούν μια νέα τοποθεσία ομάδας από το σπίτι του SharePoint (ή για να δημιουργήσετε μια νέα τοποθεσία ομάδας από το νέα προεπισκόπηση Κέντρο διαχείρισης του SharePoint), δημιουργείται αυτόματα μια αντίστοιχη ομάδα του Office 365. Office 365 ομάδας συνδεδεμένη ομάδα τοποθεσιών δημιουργούνται επίσης όταν δημιουργείτε μια ομάδα Office 365 ή μια ομάδα σε ομάδες της Microsoft. Για να διαγράψετε μια τοποθεσία του SharePoint που ανήκει σε μια ομάδα του Office 365, πρέπει να διαγράψετε την ίδια την ομάδα του Office 365.</span><span class="sxs-lookup"><span data-stu-id="59746-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="7660d-p101">Καθολικό διαχειριστών και διαχειριστών SharePoint τώρα να διαγράψετε τοποθεσίες που ανήκουν σε μια ομάδα του Office 365. Διαγραφή αυτών των τοποθεσιών θα διαγράψει την ομάδα και όλους τους πόρους, συμπεριλαμβανομένων στο γραμματοκιβώτιο του Outlook και το ημερολόγιο και τα κανάλια ομάδες.</span><span class="sxs-lookup"><span data-stu-id="7660d-p101">Global admins and SharePoint admins can now delete sites that belong to an Office 365 group. Deleting these sites will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels.</span></span>
   
-1. <span data-ttu-id="59746-106">Μεταβείτε στη [σελίδα ομάδες του στο Κέντρο διαχείρισης του Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="59746-106">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
-    
-2. <span data-ttu-id="59746-107">Επιλέξτε το πλαίσιο ελέγχου δίπλα στην ομάδα.</span><span class="sxs-lookup"><span data-stu-id="59746-107">Select the check box next to the group.</span></span>
-    
-3. <span data-ttu-id="59746-108">Επιλέξτε **Διαγραφή**.</span><span class="sxs-lookup"><span data-stu-id="59746-108">Select **Delete**.</span></span>
-    
-<span data-ttu-id="59746-109">ΣΗΜΕΊΩΣΗ: Όταν διαγράφετε μια ομάδα, μπορεί να υπάρξει καθυστέρηση πριν από την κατάργηση της τοποθεσίας από το SharePoint.</span><span class="sxs-lookup"><span data-stu-id="59746-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="7660d-105">Σημαντικό:</span><span class="sxs-lookup"><span data-stu-id="7660d-105">Important:</span></span>
+- <span data-ttu-id="7660d-p102">Μπορείτε να ανακτήσετε διαγραμμένα τοποθεσίες για 93 ημέρες. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Προβολή και να επαναφέρετε διαγραμμένα τοποθεσίες. Σημειώστε ότι πρέπει να γίνει επαναφορά διαγραμμένο ομάδες εντός 30 ημερών.</span><span class="sxs-lookup"><span data-stu-id="7660d-p102">You can recover deleted sites for 93 days. For more info, see View and restore deleted sites. Note that deleted groups must be restored within 30 days.</span></span> 
+- <span data-ttu-id="7660d-p103">Αν η τοποθεσία είναι μέρος μιας πολιτικής διατήρησης, ενδέχεται να μην έχετε τη δυνατότητα να το διαγράψετε μέχρι να καταργηθεί από την τοποθεσία της [ασφαλείας &amp; Κέντρο διαχείρισης συμμόρφωσης](https://protection.office.com/?rfr=AdminCenter#/retention). Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Επισκόπηση πολιτικές διατήρησης](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .</span><span class="sxs-lookup"><span data-stu-id="7660d-p103">If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
+  
+<span data-ttu-id="7660d-p104">[Προβολή και επαναφορά διαγραφή τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), επιλέξτε **Διαγραφή τοποθεσιών**. Επιλέξτε την τοποθεσία που έχει διαγραφεί και επιλέξτε "Επαναφορά" ή "Delete (η οποία θα διαγράψει οριστικά την τοποθεσία). Για να διαγράψετε μια ενεργή τοποθεσία, επιλέξτε **ενεργή** τοποθεσίες, επιλέξτε την τοποθεσία και επιλέξτε **Διαγραφή**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Διαχείριση τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="7660d-p104">To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. Select the site that has been deleted and choose either Restore or Delete (which will permanently delete the site). To delete an active site, select **Active** sites, select the site and select **Delete**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
 
