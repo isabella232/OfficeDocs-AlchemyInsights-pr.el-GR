@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baec2a01fe1bbc74a7005463bd2c52dbcfd298cf
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471606"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657863"
 ---
 # <a name="information-about-gdpr"></a>Πληροφορίες σχετικά με το ΑΕΓΧΠΠ
 
@@ -25,10 +25,10 @@ ms.locfileid: "29471606"
     
   - [Οι αναφορές ελέγχου](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
     
-- Πληροφορίες σχετικά με τις **Αιτήσεις θέμα δεδομένων** (DSR) - ανακαλύψετε, πρόσβαση, διόρθωση, περιορίζουν, διαγραφή, εξαγωγή είναι [εδώ.](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)
+- Πληροφορίες σχετικά με τις **Αιτήσεις θέμα δεδομένων** (DSR) - ανακαλύψετε, πρόσβαση, διόρθωση, περιορίζουν, διαγραφή, εξαγωγή είναι [εδώ.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
     
 - Πληροφορίες σχετικά με την **Ειδοποίηση παραβίασης δεδομένων** είναι [εδώ.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
     
-- Πληροφορίες σχετικά με τις **θέσεις δεδομένων** είναι [εδώ.](https://products.office.com/en-us/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Πληροφορίες σχετικά με τις **θέσεις δεδομένων** είναι [εδώ.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
     
 

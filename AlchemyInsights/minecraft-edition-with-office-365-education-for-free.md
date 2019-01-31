@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471424"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657539"
 ---
-[Δωρεάν εκπαίδευση για έκδοση Minecraft με το Office 365](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
+[Δωρεάν εκπαίδευση για έκδοση Minecraft με το Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: Edition εκπαίδευσης** απαιτεί Windows 10 
     
 - Δοκιμές ή συνδρομές του **Minecraft: Edition εκπαίδευσης** προσφέρονται σε ενοίκους εκπαίδευσης που διαχειρίζεται Azure Active Directory (Azure AD) 
     
-  - Εάν το σχολείο σας δεν διαθέτει ένα μισθωτών Azure AD, ο [διαχειριστής μπορεί να ορίσει μία](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft) ως μέρος της διαδικασίας λήψης **Minecraft: εκπαίδευσης έκδοση**.
+  - Εάν το σχολείο σας δεν διαθέτει ένα μισθωτών Azure AD, ο [διαχειριστής μπορεί να ορίσει μία](https://docs.microsoft.com/education/windows/school-get-minecraft) ως μέρος της διαδικασίας λήψης **Minecraft: εκπαίδευσης έκδοση**.
     
   - Office 365 εκπαίδευσης, η οποία περιλαμβάνει ηλεκτρονικές εκδόσεις των εφαρμογών του Office, καθώς και χώρο αποθήκευσης 1 TB στο δίκτυο είναι δωρεάν για καθηγητές και μαθητές. [Εγγραφείτε το σχολείο σας για την εκπαίδευση του Office 365](https://products.office.com/academic/office-365-education-plan).
     
   - Εάν το σχολείο σας έχει μια συνδρομή Office 365 εκπαίδευσης, περιλαμβάνει μια δωρεάν συνδρομή Azure AD. [Το μητρώο σας δωρεάν AD Azure συνδρομή](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
     
-[Μάθετε πώς δασκάλους να λάβετε και να διανείμετε Minecraft: εκπαίδευσης έκδοση](https://docs.microsoft.com/en-us/education/windows/teacher-get-minecraft).
+[Μάθετε πώς δασκάλους να λάβετε και να διανείμετε Minecraft: εκπαίδευσης έκδοση](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Μάθετε πώς οι διαχειριστές IT να λάβετε και να διανείμετε Minecraft: εκπαίδευσης έκδοση](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft), και πώς μπορείτε να διαχειριστείτε τα δικαιώματα για το Minecraft.
+[Μάθετε πώς οι διαχειριστές IT να λάβετε και να διανείμετε Minecraft: εκπαίδευσης έκδοση](https://docs.microsoft.com/education/windows/school-get-minecraft), και πώς μπορείτε να διαχειριστείτε τα δικαιώματα για το Minecraft.
   
 

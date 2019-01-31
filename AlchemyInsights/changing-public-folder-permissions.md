@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: 285a63971c8de14b3820282edf581029127caad9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 11ad0b865104712e6d7dd843505a6b30137da6bf
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498914"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661463"
 ---
 # <a name="changing-public-folder-permissions"></a>Αλλαγή των δικαιωμάτων του δημόσιου φακέλου
 
-Εσείς και οι χρήστες να αλλάξετε δικαιώματα δημόσιου φακέλου του Outlook. Ανατρέξτε στην ενότητα [Ορισμός ή αλλαγή των δικαιωμάτων για έναν δημόσιο φάκελο](https://support.office.com/en-us/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). "Διαχειριστές" επίσης να αλλάξετε τα δικαιώματα στο Κέντρο διαχείρισης Exchange:
+Εσείς και οι χρήστες να αλλάξετε δικαιώματα δημόσιου φακέλου του Outlook. Ανατρέξτε στην ενότητα [Ορισμός ή αλλαγή των δικαιωμάτων για έναν δημόσιο φάκελο](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). "Διαχειριστές" επίσης να αλλάξετε τα δικαιώματα στο Κέντρο διαχείρισης Exchange:
   
 - Σε στο Κέντρο διαχείρισης του Office 365, μεταβείτε στο **Κέντρο διαχείρισης** \> **Exchange**.
     

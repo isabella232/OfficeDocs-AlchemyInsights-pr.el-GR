@@ -5,25 +5,27 @@ author: pebaum
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: a09e8e6201a6cca20bbc752fdf727ccad8f07eab
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471268"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655775"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Έχετε νόμιμα μηνύματα που έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία;
 
-Δοκιμάστε το παραπάνω διαγνωστικό ή αυτός ο [Οδηγός βήμα προς βήμα για την αντιμετώπιση προβλημάτων επιθυμητά μηνύματα που έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία](https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+
+Δοκιμάστε το παραπάνω διαγνωστικό ή αυτός ο [Οδηγός βήμα προς βήμα για την αντιμετώπιση προβλημάτων επιθυμητά μηνύματα που έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
 Είναι ο καλύτερος τρόπος για να αναφέρετε αυτούς τους τύπους ζητημάτων:
   
-1. [Ενεργοποίηση της αναφοράς προσθέτου](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-the-report-message-add-in?redirectSourcePath=%252fen-us%252farticle%252fEnable-the-Report-Message-add-in-4250c4bc-6102-420b-9e0a-a95064837676#entireorg) για το χρήστη. 
+1. [Ενεργοποίηση της αναφοράς προσθέτου](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) για το χρήστη. 
     
-2. Έχετε το χρήστη [έκθεση το μήνυμα ως μη ανεπιθύμητο](https://support.office.com/en-us/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Έχετε το χρήστη [έκθεση το μήνυμα ως μη ανεπιθύμητο](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
 Εάν θέλετε να ανοίξετε ένα εισιτήριο υποστήριξης, επισυνάψτε την πλήρη κεφαλίδες ηλεκτρονικού ταχυδρομείου από τουλάχιστον **ένα ολόκληρο το αρχικό μήνυμα** παρακάτω. 
   

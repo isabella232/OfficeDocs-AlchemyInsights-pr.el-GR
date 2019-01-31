@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: eaad6c0d62011957a870943e8868787d7926376c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2dfb2b59fe78671980931d50a00a98af774a3df
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471317"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660995"
 ---
 # <a name="trying-to-remove-your-domain"></a>Όταν προσπαθείτε να καταργήσετε τον τομέα σας;
 
-Για να καταργήσετε τον τομέα από το Office 365, ακολουθήστε τα βήματα σε αυτό το άρθρο: [κατάργησης ενός τομέα από το Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+Για να καταργήσετε τον τομέα από το Office 365, ακολουθήστε τα βήματα σε αυτό το άρθρο: [κατάργησης ενός τομέα από το Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
   
 Θα πρέπει να ενημερώσετε οποιουσδήποτε χρήστες ή ομάδες που έχουν αντιστοιχιστεί σε αυτό το όνομα τομέα, πριν να καταργήσετε τον τομέα.
   

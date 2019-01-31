@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7c8af0a75beff194247fa445dc4566541e40f90f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 773805beea21453c2aeb0682d026afd3cfd8ccb9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470949"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656315"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Ακύρωση της συνδρομής σας Office 365;
 
@@ -28,6 +28,6 @@ ms.locfileid: "29470949"
     
 - Εάν έχετε περισσότερους από 25 άδειες που έχουν ανατεθεί, μπορείτε να καταργήσετε τους χρήστες μέχρι να έχετε λιγότερα από 25 ή χρησιμοποιήστε την επιλογή "ας γίνει κλήσης" για να συνομιλήσετε με έναν μηχανικό υποστήριξης.
     
-- Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή για οδηγίες βήμα προς βήμα, ανατρέξτε στο θέμα [Ακύρωση του Office 365 για επιχειρήσεις](https://support.office.com/article/https://support.office.com/en-us/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
+- Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή για οδηγίες βήμα προς βήμα, ανατρέξτε στο θέμα [Ακύρωση του Office 365 για επιχειρήσεις](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
     
 

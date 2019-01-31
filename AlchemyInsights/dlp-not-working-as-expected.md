@@ -6,23 +6,25 @@ manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0d50ac1aed1bd8168daa45e33b6e0bc37e95d1b7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470821"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661973"
 ---
 # <a name="dlp-not-working-as-expected"></a>Τεχνολογία DLP δεν λειτουργεί όπως αναμένεται
+
 
 Αντιμετωπίζετε προβλήματα με την **Αποτροπή απώλειας δεδομένων (DLP)** στο Office 365 δεν λειτουργεί όπως αναμένεται; Σε αυτή την περίπτωση, βεβαιωθείτε ότι η **τεχνολογία DLP πολιτική** έχει ρυθμιστεί σωστά και ότι τα δεδομένα σας περιέχουν ποια η **τεχνολογία DLP πολιτική** αναζητά όταν έχει αξιολογηθεί. 
   
  **Ορισμός DLP:**
   
-Τεχνολογία DLP πολιτικές σάς επιτρέπει την αναγνώριση και την προστασία των ευαίσθητων πληροφοριών στον οργανισμό σας. Για την παραμετροποίηση DLP πολιτικές, χρησιμοποιήστε τις πληροφορίες [εδώ](https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Τεχνολογία DLP πολιτικές σάς επιτρέπει την αναγνώριση και την προστασία των ευαίσθητων πληροφοριών στον οργανισμό σας. Για την παραμετροποίηση DLP πολιτικές, χρησιμοποιήστε τις πληροφορίες [εδώ](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
  **Ποιες πολιτικές DLP αναζήτηση για:**
   
@@ -30,16 +32,16 @@ ms.locfileid: "29470821"
   
 - **Τύποι ενσωματωμένη ευαίσθητες πληροφορίες:**
     
-    Για πληροφορίες σχετικά με τους τύπους ενσωματωμένων διάκριση πεζών-κεφαλαίων και τι μια πολιτική DLP αναζητά κατά τον εντοπισμό του τύπου διάκριση πεζών-κεφαλαίων, ανατρέξτε στο θέμα: [Αναζητήστε το ποιους τύπους ευαίσθητες πληροφορίες](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Για πληροφορίες σχετικά με τους τύπους ενσωματωμένων διάκριση πεζών-κεφαλαίων και τι μια πολιτική DLP αναζητά κατά τον εντοπισμό του τύπου διάκριση πεζών-κεφαλαίων, ανατρέξτε στο θέμα: [Αναζητήστε το ποιους τύπους ευαίσθητες πληροφορίες](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     
 - **Τύποι προσαρμοσμένων ευαίσθητες πληροφορίες:**
     
-    Εάν προσπαθείτε να δημιουργήσετε τύπους προσαρμοσμένων ευαίσθητες πληροφορίες, χρησιμοποιήστε το ακόλουθο άρθρο για πληροφορίες σχετικά με τον τρόπο για να δημιουργήσετε έναν προσαρμοσμένο τύπο διάκριση πεζών-κεφαλαίων: [Δημιουργία προσαρμοσμένου ευαίσθητες πληροφορίες τύπου](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Εάν προσπαθείτε να δημιουργήσετε τύπους προσαρμοσμένων ευαίσθητες πληροφορίες, χρησιμοποιήστε το ακόλουθο άρθρο για πληροφορίες σχετικά με τον τρόπο για να δημιουργήσετε έναν προσαρμοσμένο τύπο διάκριση πεζών-κεφαλαίων: [Δημιουργία προσαρμοσμένου ευαίσθητες πληροφορίες τύπου](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- Αναφορές
+ **Εκθέσεις:**
   
-- Λήψη ευαίσθητων δεδομένων ιδέες με [αναφορές DLP.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Λήψη ευαίσθητων δεδομένων ιδέες με [αναφορές DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
-- Δείτε συγκεκριμένες λεπτομέρειες του συμβάντος με μια [Αναφορά περιστατικού](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Δείτε συγκεκριμένες λεπτομέρειες του συμβάντος με μια [Αναφορά περιστατικού](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
     
 

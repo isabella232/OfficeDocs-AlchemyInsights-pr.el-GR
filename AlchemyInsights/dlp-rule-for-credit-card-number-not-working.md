@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4b8897c5cc8286bc4bd49860658a5a94ad17380d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471675"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657467"
 ---
 Αντιμετωπίζετε προβλήματα με την **Αποτροπή απώλειας δεδομένων (DLP)** δεν λειτουργεί για περιεχόμενο που περιέχει έναν **Αριθμό πιστωτικής κάρτας** , όταν χρησιμοποιείτε έναν τύπο ευαίσθητες πληροφορίες DLP σε O365; Σε αυτή την περίπτωση, βεβαιωθείτε ότι το περιεχόμενό σας περιέχει τις απαραίτητες πληροφορίες για την ενεργοποίηση της πολιτικής DLP όταν που αξιολογείται. Για παράδειγμα, για μια **πολιτική πιστωτικής κάρτας** έχει ρυθμιστεί με ένα επίπεδο εμπιστοσύνης του 85%, τα ακόλουθα αξιολογούνται και πρέπει να εντοπίζονται για τον κανόνα ενεργοποίησης: 
   
-- **[Μορφή:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 ψηφία, τα οποία μπορούν να διαμορφωθούν ή μη μορφοποιημένο (dddddddddddddddd) και πρέπει να περάσει τη δοκιμή Luhn. 
+- **[Μορφή:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 ψηφία, τα οποία μπορούν να διαμορφωθούν ή μη μορφοποιημένο (dddddddddddddddd) και πρέπει να περάσει τη δοκιμή Luhn. 
     
-- **[Μοτίβο:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Πολύ περίπλοκη και ισχυρή μοτίβο που εντοπίζει κάρτες από σε όλο τον κόσμο, συμπεριλαμβανομένης της θεώρησης, Mastercard, ανακαλύψετε κάρτα, JCB, American Express, δώρο κάρτες και κάρτες diner κύρια σήματα. 
+- **[Μοτίβο:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Πολύ περίπλοκη και ισχυρή μοτίβο που εντοπίζει κάρτες από σε όλο τον κόσμο, συμπεριλαμβανομένης της θεώρησης, Mastercard, ανακαλύψετε κάρτα, JCB, American Express, δώρο κάρτες και κάρτες diner κύρια σήματα. 
     
-- **[Αθροίσματος ελέγχου:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Ναι, το άθροισμα ελέγχου Luhn 
+- **[Αθροίσματος ελέγχου:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Ναι, το άθροισμα ελέγχου Luhn 
     
-- **[Ορισμός:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Μια πολιτική DLP είναι 85% βέβαιος ότι έχει εντοπίσει αυτόν τον τύπο των ευαίσθητων πληροφοριών εάν, μέσα σε μια απόσταση 300 χαρακτήρες: 
+- **[Ορισμός:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Μια πολιτική DLP είναι 85% βέβαιος ότι έχει εντοπίσει αυτόν τον τύπο των ευαίσθητων πληροφοριών εάν, μέσα σε μια απόσταση 300 χαρακτήρες: 
     
   - Η συνάρτηση Func_credit_card εντοπίζει περιεχομένου που ταιριάζει με το μοτίβο.
     
@@ -44,8 +44,8 @@ ms.locfileid: "29471675"
     
   - Λήξη: 2/2009
     
-Για περισσότερες πληροφορίες σχετικά με τι απαιτείται για έναν **Αριθμό πιστωτικής κάρτας** που θα εντοπιστούν για το περιεχόμενο, ανατρέξτε στην παρακάτω ενότητα σε αυτό το άρθρο: [Τι η διάκριση πεζών-κεφαλαίων τύπων πληροφοριών αναζητήστε πιστωτική κάρτα #](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Για περισσότερες πληροφορίες σχετικά με τι απαιτείται για έναν **Αριθμό πιστωτικής κάρτας** που θα εντοπιστούν για το περιεχόμενο, ανατρέξτε στην παρακάτω ενότητα σε αυτό το άρθρο: [Τι η διάκριση πεζών-κεφαλαίων τύπων πληροφοριών αναζητήστε πιστωτική κάρτα #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
-Χρησιμοποιώντας έναν τύπο διαφορετική ενσωματωμένη ευαίσθητες πληροφορίες, ανατρέξτε στο παρακάτω άρθρο για πληροφορίες σχετικά με τι απαιτείται για άλλους τύπους: [Αναζητήστε τι η διάκριση πεζών-κεφαλαίων τύπων πληροφοριών](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Χρησιμοποιώντας έναν τύπο διαφορετική ενσωματωμένη ευαίσθητες πληροφορίες, ανατρέξτε στο παρακάτω άρθρο για πληροφορίες σχετικά με τι απαιτείται για άλλους τύπους: [Αναζητήστε τι η διάκριση πεζών-κεφαλαίων τύπων πληροφοριών](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 

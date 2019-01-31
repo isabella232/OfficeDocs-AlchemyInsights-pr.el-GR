@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454214"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662930"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Απαιτείται πελάτη αντιμετωπίζουν H1, H2 δεν λειτουργεί
 Παράδειγμα κειμένου αποτροπή - να ακολουθήσετε αυτές τις οδηγίες:
 
-1. Αρχεία στο φάκελο **AlchemyInsights** πρέπει να έχουν Αναγνωριστικό κανόνα και το όνομα του κανόνα από την [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net) με το χαίτη.
+1. Αρχεία στο φάκελο **AlchemyInsights** πρέπει να έχουν Αναγνωριστικό κανόνα και το όνομα του κανόνα από την [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net) στο όνομα αρχείου.
     1. π.χ. ***976-How-to-enable-litigation-hold***
 1. Χρησιμοποιήστε τα μετα-δεδομένα στο επάνω μέρος αυτού του αρχείου ως προτύπου. Κανένα άλλο απαιτείται.
 1. Στην [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net), μετακινηθείτε προς τα κάτω, στην ενότητα **πελάτη πληροφορίες τίτλου:** και χρήση που παραπέμπουν ως μια έναρξης για τον τίτλο H1 σας για τις πληροφορίες. 
@@ -34,3 +34,8 @@ ms.locfileid: "29454214"
     1. Συνδέσεις πρέπει να είναι πάντοτε είτε **"συνδέσεις web" / εξωτερική** ή **deep-συνδέσεις σε στοιχεία περιβάλλοντος εργασίας Χρήστη**, όχι εσωτερικές συνδέσεις.
 
 Και αυτό είναι πραγματικά ήδη λίγο πολύ μεγάλη. Η καλύτερη πρακτική είναι περίπου 400 χαρακτήρες---
+
+Όταν το περιεχόμενο είναι έτοιμη, ελκυστική για το ζωντανό κλαδί. Στη συνέχεια, μεταβείτε στην [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net) και εισαγάγετε το όνομα του αρχείου στο πεδίο url. Βεβαιωθείτε ότι οι πληροφορίες για την αναθεώρηση και τη δημοσίευση αναφέρει ότι "Ναι" και, στη συνέχεια, κάντε κλικ στο κουμπί κανόνας ενημέρωσης. (Αυτό θα φαίνεται prettier στη νέα έκδοση της πύλης - αποδέσμευση σύντομα.)
+
+![το πεδίο διεύθυνσης URL](media/for-content-team.PNG)
+
