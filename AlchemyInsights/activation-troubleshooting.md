@@ -2,44 +2,28 @@
 title: Αντιμετώπιση προβλημάτων ενεργοποίησης
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Ξεκινήστε το άρθρο σας με μια πολύ μικρή Εισαγωγή (1 πρόταση). Τοποθετήστε τον εαυτό σας στη θέση του αναγνώστη - γιατί είναι εδώ; Τι πρέπει να κάνουν;
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498266"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646959"
 ---
-<span data-ttu-id="3d9e7-p102">Ξεκινήστε το άρθρο σας με μια πολύ μικρή Εισαγωγή (1 πρόταση). Τοποθετήστε τον εαυτό σας στη θέση του αναγνώστη - γιατί είναι εδώ; Τι πρέπει να κάνουν;</span><span class="sxs-lookup"><span data-stu-id="3d9e7-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
-  
-1. <span data-ttu-id="3d9e7-108">Λάβετε απευθείας στη μια γρήγορη λίστα των βημάτων για να ολοκληρώσετε την εργασία.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-108">Get straight to a quick list of steps to accomplish the task.</span></span>
-    
-    <span data-ttu-id="3d9e7-109">Εάν πρέπει να εξηγούν μια έννοια ή θα πρέπει να γίνει εκ των προτέρων τα αναγκαία βήματα, προσθέστε μια γρήγορη Σύνοψη κάτω από τη βαθμίδα, όπου χρειάζεται, και [σύνδεση](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) με την έννοια ή τα βήματα.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
-    
-2. <span data-ttu-id="3d9e7-110">Διατήρηση διαδικασιών σύντομη - κατά προτίμηση 5 ή λιγότερα βήματα, όχι περισσότερο από 8.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
-    
-3. <span data-ttu-id="3d9e7-111">Χρησιμοποιήστε **στυλ περιβάλλοντος εργασίας χρήστη** για στοιχεία του περιβάλλοντος εργασίας χρήστη ή για κείμενο άτομα χρειάζεται να εισαγάγουν.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
-    
-4. <span data-ttu-id="3d9e7-112">Χρησιμοποιήστε τα ρήματα επιλέξτε, επιλέξτε, ή εισαγάγετε ως δράσεις και μορφοποίηση μενού ως **μενού** \> **εντολή**.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
-    
-5. <span data-ttu-id="3d9e7-113">Προαιρετικά, προσθέστε ένα στιγμιότυπο οθόνης για το περιβάλλον (Εάν το περιβάλλον εργασίας Χρήστη είναι δύσκολο να εντοπίσετε ή απαιτείται για την ολοκλήρωση της εργασίας).</span><span class="sxs-lookup"><span data-stu-id="3d9e7-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
-    
-    <span data-ttu-id="3d9e7-p103">Μέγιστο πλάτος: 520 pixels. Χρησιμοποιήστε ένα τυπικό θέμα, να μην εμφανίζεται προσωπικές πληροφορίες, και περικοπή για να εμφανίσετε μόνο τι είναι σχετική.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
-    
-    ![Σύμβολο κράτησης θέσης - μέγιστο πλάτος για art άρθρο SOC είναι 520 pixel](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-<span data-ttu-id="3d9e7-117">Εάν θέλετε να προσθέσετε ένα βίντεο ή ένα στιγμιότυπο οθόνης, να χρησιμοποιήσετε ένα πλέγμα δύο στηλών και να έχουν τα βήματα στα αριστερά και το βίντεο ή το στιγμιότυπο οθόνης στην δεξιά - δείτε [βήματα και παράδειγμα βίντεο πλέγματος](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span><span class="sxs-lookup"><span data-stu-id="3d9e7-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
-  
-<span data-ttu-id="3d9e7-118">Στοχεύστε 500 λέξεις για ένα άρθρο.</span><span class="sxs-lookup"><span data-stu-id="3d9e7-118">Target no more than 500 words for an article.</span></span>
-  
-# <a name="example-article"></a><span data-ttu-id="3d9e7-119">Παράδειγμα άρθρου</span><span class="sxs-lookup"><span data-stu-id="3d9e7-119">Example article</span></span>
+# <a name="activation-troubleshooting"></a><span data-ttu-id="ab59e-102">Αντιμετώπιση προβλημάτων ενεργοποίησης</span><span class="sxs-lookup"><span data-stu-id="ab59e-102">Activation troubleshooting</span></span>
 
-[<span data-ttu-id="3d9e7-120">Αλλαγή μου φωτογραφιών</span><span class="sxs-lookup"><span data-stu-id="3d9e7-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+<span data-ttu-id="ab59e-p101">Στον **Πίνακα ελέγχου** \> **προγράμματα και δυνατότητες**, κάντε αναζήτηση για το Office. Θα πρέπει να δείτε το Microsoft Office 365 ProPlus ή επαγγελματική του Microsoft Office 365. Εάν δείτε περισσότερες από μία εκδόσεις του Office, στη λίστα, απεγκαταστήστε την έκδοση που χρησιμοποιείτε.</span><span class="sxs-lookup"><span data-stu-id="ab59e-p101">In **Control Panel** \> **Programs and Features**, search for Office. You should see Microsoft Office 365 ProPlus or Microsoft Office 365 Business. If you see more than one version of Office listed, uninstall the version you aren't using.</span></span> 
   
-
+<span data-ttu-id="ab59e-106">Αν δεν μπορείτε να απεγκαταστήσετε με επιτυχία χρησιμοποιώντας τον πίνακα ελέγχου, χρησιμοποιήστε την [υποστήριξη και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy) για να απεγκαταστήσετε την έκδοση που χρησιμοποιείτε.</span><span class="sxs-lookup"><span data-stu-id="ab59e-106">If you can't uninstall successfully using the Control Panel, use the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) to uninstall the version you aren't using.</span></span> 
+  
+<span data-ttu-id="ab59e-p102">Εάν το Office είναι ακόμη χωρίς άδεια, επιστρέψτε στον **Πίνακα ελέγχου** \> **προγράμματα και δυνατότητες**. Κάντε δεξιό κλικ την υπόλοιπη εγκατάσταση του Office, επιλέξτε **Τροποποίηση** (ή αλλαγή) και στη συνέχεια επιλέξτε **Ηλεκτρονική επιδιόρθωση**. Η ηλεκτρονική επιδιόρθωση ενδέχεται να διαρκέσει αρκετά. Στη συνέχεια, κάντε επανεκκίνηση του Office και εισέλθετε χρησιμοποιώντας την εργασία σας ή σχολείο λογαριασμού, εάν σας ζητηθεί.</span><span class="sxs-lookup"><span data-stu-id="ab59e-p102">If Office is still unlicensed, go back to the **Control Panel** \> **Programs and Features**. Right-click the remaining Office install, select **Modify** (or Change), and then select **Online Repair**. The online repair might take awhile. Then, restart Office and sign in using your work or school account, if prompted.</span></span>
+  
+<span data-ttu-id="ab59e-111">Αν το Office είναι ακόμη χωρίς άδεια χρήσης, κάντε λήψη και στη συνέχεια, εκτελέστε την [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) στον υπολογιστή που έχει επηρεαστεί για να διορθώσετε τα θέματα ενεργοποίησης.</span><span class="sxs-lookup"><span data-stu-id="ab59e-111">If Office is still unlicensed, download and then run the [Activation troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) on the affected machine to fix the activation issues.</span></span> 
+  
+<span data-ttu-id="ab59e-112">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα: [προϊόν χωρίς άδεια χρήσης και σφαλμάτων ενεργοποίησης του Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="ab59e-112">For more information, see: [Unlicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>
