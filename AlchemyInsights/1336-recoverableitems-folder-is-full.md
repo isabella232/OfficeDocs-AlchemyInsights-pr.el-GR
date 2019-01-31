@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471154"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655667"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Ο φάκελος στοιχείων με δυνατότητα ανάκτησης είναι πλήρης
 
@@ -36,7 +36,7 @@ ms.locfileid: "29471154"
     
 - [Αναζήτηση-γραμματοκιβώτιο](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Για τα γραμματοκιβώτια που βρίσκονται σε αναμονή, διαχειριστών πρέπει να καταργήσετε τη διατήρηση, πριν να μπορούν να τα διαγραμμένα στοιχεία από το φάκελο στοιχείων με δυνατότητα ανάκτησης. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαγραφή στοιχείων από το φάκελο της βασίζεται στο νέφος γραμματοκιβώτια σε κρατήστε στοιχείων με δυνατότητα ανάκτησης](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Για τα γραμματοκιβώτια που βρίσκονται σε αναμονή, διαχειριστών πρέπει να καταργήσετε τη διατήρηση, πριν να μπορούν να τα διαγραμμένα στοιχεία από το φάκελο στοιχείων με δυνατότητα ανάκτησης. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαγραφή στοιχείων από το φάκελο της βασίζεται στο νέφος γραμματοκιβώτια σε κρατήστε στοιχείων με δυνατότητα ανάκτησης](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Για να αποτρέψετε τη πλήρη φάκελο στοιχείων με δυνατότητα ανάκτησης, "διαχειριστές" μπορεί να αυξήσει το όριο αποθήκευσης του στοιχείων με δυνατότητα ανάκτησης φακέλων για τα γραμματοκιβώτια σε κρατήστε και ορίστε μια πολιτική διατήρησης γραμματοκιβωτίου που μετακινεί τα στοιχεία από το φάκελο στοιχείων με δυνατότητα ανάκτησης σε αρχείο αρχειοθέτησης του χρήστη γραμματοκιβώτιο. Δείτε [αυξήσετε το στόχο για γραμματοκιβώτια κρατήστε στοιχείων με δυνατότητα ανάκτησης](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

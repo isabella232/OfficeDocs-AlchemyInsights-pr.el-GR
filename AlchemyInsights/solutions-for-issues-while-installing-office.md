@@ -2,20 +2,22 @@
 title: Λύσεις για ζητήματα κατά την εγκατάσταση του Office
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: ff465b9805fb28be21ce2cc9e8cb8a0eecbdee6e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bd698704cca91a64e8044514b57ab397cb2d3377
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471176"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646023"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Λύσεις για ζητήματα κατά την εγκατάσταση του Office
+
 
 Δοκιμάστε μία από τις παρακάτω λύσεις για να διορθώσετε το σφάλμα του Office:
   
@@ -31,8 +33,8 @@ ms.locfileid: "29471176"
     
 3. Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό. 
     
-- [Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx) για την εγκατάσταση του Office 
+- [Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) για την εγκατάσταση του Office 
     
-Για περισσότερες λεπτομέρειες σχετικά με τις παραπάνω προτάσεις, δείτε: [δοκιμάστε αυτές τις λύσεις για να διορθώσετε το σφάλμα του Office](https://support.office.com/article/54554bb8-aa94-43c7-a685-408dd9868c0b?wt.mc_id=Alchemy_ClientDIA.aspx).
+Για περισσότερες πληροφορίες σχετικά με σφάλματα εγκατάστασης, ανατρέξτε στο θέμα [μηνύματα λάθους κατά την εγκατάσταση του Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   
 

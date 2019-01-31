@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 8fcb447042d2e4f1aa35fa1b7548d43615541028
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bd535218ec01f4b234e46bba9fe405f072dbf6ed
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470969"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661823"
 ---
 # <a name="outlook-search-not-indexing"></a>Αναζήτηση του Outlook δεν ευρετηρίου
 
@@ -30,6 +30,6 @@ ms.locfileid: "29470969"
     
 > [Έκδοση Windows 10 1703 - ενημέρωση 27 Ιουνίου 2017](https://support.office.com/article/https://support.microsoft.com/kb/4022716.aspx)
     
-Για τις πιο πρόσφατες πληροφορίες, ανατρέξτε στο άρθρο: [Outlook γνωστά ζητήματα με τις ενημερωμένες εκδόσεις ασφαλείας του Ιουνίου 2017](https://support.office.com/article/https://support.office.com/en-us/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) ζήτημα #5. 
+Για τις πιο πρόσφατες πληροφορίες, ανατρέξτε στο άρθρο: [Outlook γνωστά ζητήματα με τις ενημερωμένες εκδόσεις ασφαλείας του Ιουνίου 2017](https://support.office.com/article/https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) ζήτημα #5. 
   
 

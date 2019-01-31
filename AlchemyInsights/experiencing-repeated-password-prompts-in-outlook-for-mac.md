@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: db6bf22d5077805fefc44880478bf9cbae4d9538
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 400d7c269d4dc0dd43cf98ce4662c4c126e4570a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471236"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29654132"
 ---
 # <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Αντιμετωπίζετε επαναλαμβάνονται κωδικοί πρόσβασης στο Outlook για Mac;
 
@@ -21,6 +21,6 @@ ms.locfileid: "29471236"
   
 Μεταβείτε σε υπολογιστή Mac με το χρήστη που έχει επηρεαστεί, ανοίξτε το Outlook και κάντε κλικ στην εντολή **Βοήθεια** \> **Επικοινωνήστε με την υποστήριξη**.
   
-Για να μάθετε περισσότερα σχετικά με τη χρήση του Outlook για υποστήριξη πελατών-app Mac, ανατρέξτε στην ενότητα αυτού του άρθρου: [νέα επαφή υποστηρίζει τη δυνατότητα στο Outlook 2016 για Mac](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Για να μάθετε περισσότερα σχετικά με τη χρήση του Outlook για υποστήριξη πελατών-app Mac, ανατρέξτε στην ενότητα αυτού του άρθρου: [νέα επαφή υποστηρίζει τη δυνατότητα στο Outlook 2016 για Mac](https://support.office.com/article/https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 
