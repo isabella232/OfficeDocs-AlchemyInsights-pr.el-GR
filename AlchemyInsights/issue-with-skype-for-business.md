@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: 48dd2d51e34b2d10e1d331e578b8ee9d2e692dcc
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 12c2b74ca16849f8d887b3394025e162565334a9
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658305"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29757633"
 ---
 # <a name="issue-with-skype-for-business"></a>Πρόβλημα με το Skype για επιχειρήσεις;
 
@@ -21,12 +21,12 @@ ms.locfileid: "29658305"
   
 {HealthCheckString}
   
-Οι εγγραφές NS, CNAME και SRV, οι ρυθμίσεις τομέα (DNS) δεν έχουν ρυθμιστεί σωστά για το Skype για επιχειρήσεις. Μπορείτε να αναφερθείτε σε [εγγραφές DNS ενημέρωση στο Office 365](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) για λεπτομερείς οδηγίες. 
+Οι εγγραφές NS, CNAME και SRV, οι ρυθμίσεις τομέα (DNS) δεν έχουν ρυθμιστεί σωστά για το Skype για επιχειρήσεις. Μπορείτε να αναφερθείτε σε [εγγραφές DNS ενημέρωση στο Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) για λεπτομερείς οδηγίες. 
   
-Να το διορθώσετε, μεταβείτε στη σελίδα [τομείς](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) στο Κέντρο διαχείρισης του Office 365 και εμείς θα σας βοηθήσει με αυτό. 
+Να το διορθώσετε, μεταβείτε στη σελίδα [τομείς](https://admin.microsoft.com/adminportal/home#/Domains) στο Κέντρο διαχείρισης του Office 365 και εμείς θα σας βοηθήσει με αυτό. 
   
-Εάν αντιμετωπίζετε προβλήματα επικοινωνίας με τους χρήστες που είναι εξωτερικά για την εταιρεία σας, μπορείτε να αναφερθείτε για να [ρυθμίσετε το Skype για ηλεκτρονική επαγγελματική εξωτερικές επικοινωνίες](https://support.office.com/article/https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) για λεπτομερείς οδηγίες. 
+Εάν αντιμετωπίζετε προβλήματα επικοινωνίας με τους χρήστες που είναι εξωτερικά για την εταιρεία σας, μπορείτε να αναφερθείτε για να [ρυθμίσετε το Skype για ηλεκτρονική επαγγελματική εξωτερικές επικοινωνίες](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) για λεπτομερείς οδηγίες. 
   
-[Ελέγξτε τις συνήθεις Ερωτήσεις τομείς](https://support.office.com/article/https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) για άλλες κοινές λύσεις. 
+[Ελέγξτε τις συνήθεις Ερωτήσεις τομείς](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) για άλλες κοινές λύσεις. 
   
 
