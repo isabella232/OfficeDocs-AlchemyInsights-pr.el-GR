@@ -7,33 +7,33 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a3c980565059e47a297a812cd6e2e656b36becb6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 94203849c1cca9dc1d2d6207f2390a57ad3e9680
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470723"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923184"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="17928-102">Ανάκτηση διαγραμμένων στοιχείων από το SharePoint ή OneDrive</span><span class="sxs-lookup"><span data-stu-id="17928-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="f597d-102">Ανάκτηση διαγραμμένων στοιχείων από το SharePoint ή OneDrive</span><span class="sxs-lookup"><span data-stu-id="f597d-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="17928-103">Μεταβείτε το OneDrive σας ή την τοποθεσία του SharePoint.</span><span class="sxs-lookup"><span data-stu-id="17928-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="f597d-103">Μεταβείτε το OneDrive σας ή την τοποθεσία του SharePoint.</span><span class="sxs-lookup"><span data-stu-id="f597d-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="17928-104">Στο αριστερό τμήμα του παραθύρου, κάντε κλικ στο κουμπί " **Κάδος Ανακύκλωσης** ".</span><span class="sxs-lookup"><span data-stu-id="17928-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="f597d-104">Στο αριστερό τμήμα του παραθύρου, κάντε κλικ στο κουμπί " **Κάδος Ανακύκλωσης** ".</span><span class="sxs-lookup"><span data-stu-id="f597d-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="17928-105">Κάντε κλικ στα αριστερά των στοιχείων ή των αρχείων που θέλετε να επαναφέρετε.</span><span class="sxs-lookup"><span data-stu-id="17928-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="f597d-105">Κάντε κλικ στα αριστερά των στοιχείων ή των αρχείων που θέλετε να επαναφέρετε.</span><span class="sxs-lookup"><span data-stu-id="f597d-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="17928-106">Κάντε κλικ στο κουμπί **Επαναφορά**.</span><span class="sxs-lookup"><span data-stu-id="17928-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="f597d-106">Κάντε κλικ στο κουμπί **Επαναφορά**.</span><span class="sxs-lookup"><span data-stu-id="f597d-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="17928-p101">Όταν διαγραφούν αρχεία, φακέλους, βιβλιοθήκες, λίστες και στοιχεία λίστας από μια τοποθεσία του SharePoint, μεταβείτε στον Κάδο Ανακύκλωσης, όπου αυτές είναι διατηρούνται για 93 ημέρες εκτός εάν κάποιος διαγράφει από το φάκελο Κάδος Ανακύκλωσης. Αν τους έχετε διαγραφεί από αυτού του Κάδου Ανακύκλωσης (ονομάζεται Κάδο Ανακύκλωσης της τοποθεσίας), μπορούν, μεταβείτε στη συλλογή τοποθεσιών του Κάδου Ανακύκλωσης για το υπόλοιπο χρονικό διάστημα και, στη συνέχεια, διαγράφονται μόνιμα. Διαγραφή τοποθεσιών και συλλογών τοποθεσιών, μεταβείτε απευθείας στην τον Κάδο Ανακύκλωσης συλλογής τοποθεσιών για τις 93 ημέρες.</span><span class="sxs-lookup"><span data-stu-id="17928-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="f597d-p101">Όταν διαγραφούν αρχεία, φακέλους, βιβλιοθήκες, λίστες και στοιχεία λίστας από μια τοποθεσία του SharePoint, μεταβείτε στον Κάδο Ανακύκλωσης, όπου αυτές είναι διατηρούνται για 93 ημέρες εκτός εάν κάποιος διαγράφει από το φάκελο Κάδος Ανακύκλωσης. Αν τους έχετε διαγραφεί από αυτού του Κάδου Ανακύκλωσης (ονομάζεται Κάδο Ανακύκλωσης της τοποθεσίας), μπορούν, μεταβείτε στη συλλογή τοποθεσιών του Κάδου Ανακύκλωσης για το υπόλοιπο χρονικό διάστημα και, στη συνέχεια, διαγράφονται μόνιμα. Διαγραφή τοποθεσιών και συλλογών τοποθεσιών, μεταβείτε απευθείας στην τον Κάδο Ανακύκλωσης συλλογής τοποθεσιών για τις 93 ημέρες.</span><span class="sxs-lookup"><span data-stu-id="f597d-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="17928-110">[Επαναφορά στοιχείων από τον Κάδο Ανακύκλωσης συλλογής τοποθεσιών](https://go.microsoft.com/fwlink/?linkid=867800) ("διαχειριστές συλλογής τοποθεσιών")</span><span class="sxs-lookup"><span data-stu-id="17928-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="f597d-110">[Επαναφορά στοιχείων από τον Κάδο Ανακύκλωσης συλλογής τοποθεσιών](https://go.microsoft.com/fwlink/?linkid=867800) ("διαχειριστές συλλογής τοποθεσιών")</span><span class="sxs-lookup"><span data-stu-id="f597d-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="17928-111">[Ανάκτηση διαγραμμένων συλλογών τοποθεσιών](https://go.microsoft.com/fwlink/?linkid=867660) (καθολικό ή διαχειριστών SharePoint στο Office 365)</span><span class="sxs-lookup"><span data-stu-id="17928-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
+<span data-ttu-id="f597d-111">[Ανάκτηση διαγραμμένων συλλογών τοποθεσιών](https://go.microsoft.com/fwlink/?linkid=867660) (καθολικό ή διαχειριστών SharePoint στο Office 365)</span><span class="sxs-lookup"><span data-stu-id="f597d-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
   
-<span data-ttu-id="17928-p102">Για τοποθεσίες οι οποίες ανήκουν σε μια ομάδα του Office 365, πρέπει να επαναφέρετε την ομάδα για να επαναφέρετε την τοποθεσία. Δείτε [επαναφέρετε μια διαγραμμένη ομάδα Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (καθολικής διαχείρισης)</span><span class="sxs-lookup"><span data-stu-id="17928-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="f597d-p102">Για τοποθεσίες οι οποίες ανήκουν σε μια ομάδα του Office 365, πρέπει να επαναφέρετε την ομάδα για να επαναφέρετε την τοποθεσία. Δείτε [επαναφέρετε μια διαγραμμένη ομάδα Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (καθολικής διαχείρισης)</span><span class="sxs-lookup"><span data-stu-id="f597d-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
