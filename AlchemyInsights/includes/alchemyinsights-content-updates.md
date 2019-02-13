@@ -838,3 +838,57 @@
 | 30/1/2019 | [Σφάλμα στο OWA απενεργοποιημένη η 123 γρήγορα ένα λογαριασμό;](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | τροποποίηση |
 | 1/2/2019 | [ίδιο με το όνομα αρχείου είναι καλύτερη [ΚΑΝΌΝΑ #-περιγραφή]](/AlchemyInsights/1-alchemy-insight-template) | τροποποίηση |
 | 1/2/2019 | [Αλλαγή δικαιωμάτων για ένα γραμματοκιβώτιο](/AlchemyInsights/changing-permissions-on-a-mailbox) | τροποποίηση |
+
+
+## <a name="week-of-february-04-2019"></a>Εβδομάδα του Φεβρουαρίου 04, 2019
+
+
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+|------|------------|--------|
+| 4/2/2019 | [Προσθήκη χρηστών σε Office 365](/AlchemyInsights/add-users-to-office-365) | τροποποίηση |
+| 6/2/2019 | [Εργαζόμενος, αφήνοντας](/AlchemyInsights/employee-leaving) | τροποποίηση |
+| 6/2/2019 | [Εξαγοράς διαχείρισης](/AlchemyInsights/admin-takeover) | τροποποίηση |
+| 6/2/2019 | [127 γρήγορα ένα TenantAccessBlockedException σφάλμα κατά την πρόσβαση σε ηλεκτρονικό ταχυδρομείο;](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | τροποποίηση |
+| 6/2/2019 | [959 αλλαγή εμφανιζόμενο όνομα](/AlchemyInsights/959-change-display-name) | τροποποίηση |
+| 6/2/2019 | [Προσθέσετε ή να καταργήσετε ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου για ένα χρήστη](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | τροποποίηση |
+| 6/2/2019 | Προσθήκη καθισμάτων σε μια προπληρωμένη συνδρομή | Κατάργηση |
+| 6/2/2019 | [Προσθήκη χρηστών σε Office 365](/AlchemyInsights/add-users-to-office-365) | τροποποίηση |
+| 6/2/2019 | [Προσθήκη στους εξωτερικούς χρήστες σε μια ομάδα διανομής;](/AlchemyInsights/adding-external-users-to-a-distribution-group) | τροποποίηση |
+| 6/2/2019 | Admin - καθολική Office 365 Παραμετροποίηση και διαχείριση | Κατάργηση |
+| 6/2/2019 | Admin - Διαχείριση μου χρηστών, ομάδων και πόρων | Κατάργηση |
+| 6/2/2019 | Admin - εγκατάστασης τομέα και ρυθμίσεις DNS | Κατάργηση |
+| 6/2/2019 | Admin - είσοδος και ζητήματα κωδικού πρόσβασης | Κατάργηση |
+| 6/2/2019 | [Ακύρωση της συνδρομής του Office 365](/AlchemyInsights/cancel-office-365-subscription) | τροποποίηση |
+| 6/2/2019 | [Αλλάξτε το όνομα και διεύθυνση του χρήστη](/AlchemyInsights/change-a-user-s-name-and-email-address) | τροποποίηση |
+| 6/2/2019 | Ηλεκτρονικό εμπόριο - διαχειριστείτε λογαριασμούς, πληρωμές, εγγραφές και άδειες χρήσης | Κατάργηση |
+| 6/2/2019 | [Λαμβάνετε ένα σφάλμα TenantAccessBlockedException κατά την πρόσβαση σε ηλεκτρονικό ταχυδρομείο;](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | τροποποίηση |
+| 6/2/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues-0) | τροποποίηση |
+| 6/2/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues) | τροποποίηση |
+| 6/2/2019 | [Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | τροποποίηση |
+| 6/2/2019 | [Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;](/AlchemyInsights/having-issues-getting-outlook-to-connect) | τροποποίηση |
+| 6/2/2019 | Intune - λήψης, εγκατάστασης και χρήσης Intune | Κατάργηση |
+| 6/2/2019 | [Πρόβλημα με το Skype για επιχειρήσεις;](/AlchemyInsights/issue-with-skype-for-business) | τροποποίηση |
+| 6/2/2019 | ODSP | Κατάργηση |
+| 6/2/2019 | Πρόγραμμα-πελάτης Office - Excel | Κατάργηση |
+| 6/2/2019 | [Ανάκτηση διαγραμμένων χρήστη](/AlchemyInsights/restore-deleted-user) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress-0) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress-1) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress-2) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress-3) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress-4) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress-5) | τροποποίηση |
+| 6/2/2019 | [Υπηρεσία περιστατικό σε εξέλιξη](/AlchemyInsights/service-incident-in-progress) | τροποποίηση |
+| 6/2/2019 | [Ορισμός έργου](/AlchemyInsights/setting-up-project) | τροποποίηση |
+| 6/2/2019 | Το πρόγραμμα εγκατάστασης συμμόρφωσης δυνατότητες, όπως η αρχειοθέτηση, διατήρησης, δίκη, ηλεκτρονική ανακάλυψη και MDM | Κατάργηση |
+| 6/2/2019 | Χρησιμοποιώντας το πρόγραμμα εγκατάστασης χωρίς σύνδεση για το Office | Κατάργηση |
+| 6/2/2019 | Yammer - το πρόγραμμα εγκατάστασης και να χρησιμοποιούν τις υπηρεσίες του Yammer | Κατάργηση |
+| 7/2/2019 | [Διακόπτεται η λειτουργία του Excel;](/AlchemyInsights/excel-crashing) | τροποποίηση |
+| 7/2/2019 | [Πώς μπορείτε να προσθέσετε ή να επεξεργαστείτε μια VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | τροποποίηση |
+| 7/2/2019 | [Δωρεάν εκπαίδευση για έκδοση Minecraft με το Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | τροποποίηση |
+| 7/2/2019 | [606 πληροφορίες σχετικά με την ανάθεση](/AlchemyInsights/606-information-on-delegation) | τροποποίηση |
+| 7/2/2019 | [Ομάδα σας δεν εμφανίζεται στη λίστα "ομάδες"](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | τροποποίηση |
+| 2/8/2019 | [Συμβουλές πολιτικής DLP δεν λειτουργεί](/AlchemyInsights/dlp-policy-tips-not-working) | τροποποίηση |
+| 2/8/2019 | [Τεχνολογία DLP κανόνα για ΗΠΑ / Ηνωμένο Βασίλειο αριθμός διαβατηρίου δεν λειτουργεί](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | τροποποίηση |
+| 2/8/2019 | [Δωρεάν εκπαίδευση για Office 365](/AlchemyInsights/office-365-education-for-free) | τροποποίηση |
+| 2/8/2019 | [Απαιτούνται άδειες για Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | τροποποίηση |
+| 2/8/2019 | [Οι πολιτικές διατήρησης στο Κέντρο διαχείρισης του Exchange δεν λειτουργεί](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | τροποποίηση |
