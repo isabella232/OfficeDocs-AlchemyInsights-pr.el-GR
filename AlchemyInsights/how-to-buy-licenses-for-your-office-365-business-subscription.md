@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920016"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207973"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a><span data-ttu-id="37957-102">Πώς να αγοράσετε άδειες χρήσης για τη συνδρομή σας επαγγελματική Office 365</span><span class="sxs-lookup"><span data-stu-id="37957-102">How to buy licenses for your Office 365 business subscription</span></span>
+# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a><span data-ttu-id="a48fb-102">Πώς να αγοράσετε άδειες χρήσης για τη συνδρομή σας επαγγελματική Office 365</span><span class="sxs-lookup"><span data-stu-id="a48fb-102">How to buy licenses for your Office 365 business subscription</span></span>
 
-<span data-ttu-id="37957-p101">Κατά την εκχώρηση αδειών χρήσης του Office 365 στους χρήστες σας, ενδέχεται να διαπιστώσετε ότι έχετε την ανάγκη να αγοράσετε πρόσθετες άδειες χρήσης. Για να γίνει αυτό:</span><span class="sxs-lookup"><span data-stu-id="37957-p101">When assigning Office 365 licenses to your users, you may find you have the need to buy additional licenses. To do this:</span></span>
+<span data-ttu-id="a48fb-p101">Κατά την εκχώρηση αδειών χρήσης του Office 365 στους χρήστες σας, ενδέχεται να διαπιστώσετε ότι έχετε την ανάγκη να αγοράσετε πρόσθετες άδειες χρήσης. Για να γίνει αυτό:</span><span class="sxs-lookup"><span data-stu-id="a48fb-p101">When assigning Office 365 licenses to your users, you may find you have the need to buy additional licenses. To do this:</span></span>
   
-- <span data-ttu-id="37957-105">Στο στο Κέντρο διαχείρισης του Office 365, μεταβείτε στη σελίδα " [συνδρομές]( https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="37957-105">In the Office 365 admin center, go to the [Subscriptions]( https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+- <span data-ttu-id="a48fb-105">Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα " [συνδρομές]( https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="a48fb-105">In the Microsoft 365 admin center, go to the [Subscriptions]( https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-- <span data-ttu-id="37957-106">Στη σελίδα " **εγγραφές** ", επιλέξτε την εγγραφή που θέλετε να προσθέσετε άδειες χρήσης για την και, στη συνέχεια, επιλέξτε **Add/Remove άδειες χρήσης**.</span><span class="sxs-lookup"><span data-stu-id="37957-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="a48fb-106">Στη σελίδα " **εγγραφές** ", επιλέξτε την εγγραφή που θέλετε να προσθέσετε άδειες χρήσης για την και, στη συνέχεια, επιλέξτε **Add/Remove άδειες χρήσης**.</span><span class="sxs-lookup"><span data-stu-id="a48fb-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.</span></span>
     
-- <span data-ttu-id="37957-p102">Στο πλαίσιο της **συνολικής άδειες** , εισαγάγετε το συνολικό αριθμό των αδειών χρήσης που χρειάζεστε για αυτήν την εγγραφή και, στη συνέχεια, επιλέξτε **Υποβολή** \> **Κλείσιμο**. Για παράδειγμα, αν έχετε 100 άδειες χρήσης και θα πρέπει να προσθέσετε περισσότερες 5, πληκτρολογήστε 105.</span><span class="sxs-lookup"><span data-stu-id="37957-p102">In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
+- <span data-ttu-id="a48fb-p102">Στο πλαίσιο της **συνολικής άδειες** , εισαγάγετε το συνολικό αριθμό των αδειών χρήσης που χρειάζεστε για αυτήν την εγγραφή και, στη συνέχεια, επιλέξτε **Υποβολή** \> **Κλείσιμο**. Για παράδειγμα, αν έχετε 100 άδειες χρήσης και θα πρέπει να προσθέσετε περισσότερες 5, πληκτρολογήστε 105.</span><span class="sxs-lookup"><span data-stu-id="a48fb-p102">In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
     
-<span data-ttu-id="37957-109">Για περισσότερες πληροφορίες: [αγοράσετε άδειες χρήσης για το Office 365 για επαγγελματική συνδρομή](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span><span class="sxs-lookup"><span data-stu-id="37957-109">For more information: [Buy licenses for your Office 365 for business subscription](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span></span>
+<span data-ttu-id="a48fb-109">Για περισσότερες πληροφορίες: [αγοράσετε άδειες χρήσης για το Office 365 για επαγγελματική συνδρομή](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span><span class="sxs-lookup"><span data-stu-id="a48fb-109">For more information: [Buy licenses for your Office 365 for business subscription](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span></span>
   
 
