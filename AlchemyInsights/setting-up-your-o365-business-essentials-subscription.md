@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915300"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207865"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Ρύθμιση της συνδρομής σας βασικά στοιχεία για την επαγγελματική O365
 
@@ -21,7 +21,7 @@ ms.locfileid: "29915300"
   
 - Σε αυτό το βήμα, μπορείτε να χρησιμοποιήσετε τον "Οδηγό εγκατάστασης" για να δημιουργήσετε λογαριασμούς Office 365 για τους χρήστες σας και να προσθέσετε το δικό σας τομέα. Ο οδηγός σάς επιτρέπει να προσαρμόσετε το Αναγνωριστικό χρήστη και το μήνυμα ηλεκτρονικού ταχυδρομείου για την επιχείρησή σας, όπως [rob@contoso.com](mailto:rob@contoso.com)όλων των χρηστών.
     
-- Μεταβείτε στο [Κέντρο διαχείρισης του Office 365](https://login.partner.microsoftonline.cn/).
+- Μεταβείτε στο [Κέντρο διαχείρισης Microsoft 365](https://login.partner.microsoftonline.cn/).
     
 - Για να ξεκινήσετε τον οδηγό, επιλέξτε **μεταβείτε στην εγκατάσταση**. Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Προσθήκη χρηστών και τον τομέα στο Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     

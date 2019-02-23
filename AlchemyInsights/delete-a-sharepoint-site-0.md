@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926280"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210025"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Διαγραφή τοποθεσιών που ανήκουν σε μια ομάδα Office 365:
 
 Όταν οι χρήστες δημιουργούν μια νέα τοποθεσία ομάδας από το σπίτι του SharePoint (ή για να δημιουργήσετε μια νέα τοποθεσία ομάδας από το νέα προεπισκόπηση Κέντρο διαχείρισης του SharePoint), δημιουργείται αυτόματα μια αντίστοιχη ομάδα του Office 365. Office 365 ομάδας συνδεδεμένη ομάδα τοποθεσιών δημιουργούνται επίσης όταν δημιουργείτε μια ομάδα Office 365 ή μια ομάδα σε ομάδες της Microsoft. Για να διαγράψετε μια τοποθεσία του SharePoint που ανήκει σε μια ομάδα του Office 365, πρέπει να διαγράψετε την ίδια την ομάδα του Office 365. 
   
-1. Μεταβείτε στη [σελίδα ομάδες του στο Κέντρο διαχείρισης του Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Μεταβείτε στη [σελίδα ομάδες του κέντρου διαχείρισης Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Επιλέξτε το πλαίσιο ελέγχου δίπλα στην ομάδα.
     

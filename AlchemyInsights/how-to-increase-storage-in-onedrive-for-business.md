@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906408"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207757"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>ΔΙΑΔΙΚΑΣΙΕΣ: αύξηση του χώρου αποθήκευσης στο OneDrive για την επιχείρηση
 
@@ -27,7 +27,7 @@ ms.locfileid: "29906408"
   
 Για να αυξήσετε το χώρο αποθήκευσης στο OneDrive για την επιχείρηση, επιλέξτε ένα σχέδιο του Office 365 που περιλαμβάνει **OneDrive για επαγγελματική σχέδιο 2** ή **E3 Enterprise του Office 365**. 
   
-Για να αλλάξετε σχέδια στο στο Κέντρο διαχείρισης του Office 365, μεταβείτε στην **χρέωσης** \> **εγγραφές**, και στη συνέχεια επιλέξτε **Εναλλαγή σχέδια.**
+Για να αλλάξετε σχέδια στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην **χρέωσης** \> **εγγραφές**, και στη συνέχεια επιλέξτε **Εναλλαγή σχέδια.**
   
 Για περισσότερες πληροφορίες σχετικά με την εναλλαγή σχέδια και OneDrive για την αποθήκευση για επιχειρήσεις, ανατρέξτε στην ενότητα [Μετάβαση σε ένα διαφορετικό Office 365 για επιχειρηματικό πρόγραμμα](https://go.microsoft.com/fwlink/?LinkId=2031117) και το [OneDrive για επαγγελματική περιγραφή υπηρεσίας](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

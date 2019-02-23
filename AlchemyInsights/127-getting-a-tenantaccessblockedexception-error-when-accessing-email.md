@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5f36f6a793cc0290ead1bf555d2d6e681104f745
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66d78ded76e0534369758ec66def655fb3d5c910
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900360"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209089"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Λαμβάνετε ένα σφάλμα TenantAccessBlockedException κατά την πρόσβαση σε ηλεκτρονικό ταχυδρομείο;
 
 Υπάρχουν μερικές διαφορετικές αιτίες γιατί μπορεί να λάβετε αυτό το σφάλμα. Για παράδειγμα:
   
-- Βεβαιωθείτε ότι η συνδρομή σας είναι έγκυρη η **χρέωσης** \> σελίδα **συνδρομές** στο στο Κέντρο διαχείρισης του Office 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
+- Βεβαιωθείτε ότι η συνδρομή σας είναι έγκυρη η **χρέωσης** \> σελίδα **συνδρομές** στο Κέντρο διαχείρισης Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- Ελέγχου για οποιαδήποτε ληξιπρόθεσμες ειδοποιήσεις της **χρέωσης** \> σελίδα **λογαριασμών** στο στο Κέντρο διαχείρισης του Office 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
+- Έλεγχος για οποιαδήποτε ληξιπρόθεσμες ειδοποιήσεις της **χρέωσης** \> **τεχνικές** σελίδα στο Κέντρο διαχείρισης Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
 - Εάν το χρέωσης και συνδρομές για το λογαριασμό σας έχουν ενημερωθεί πρόσφατα, μπορεί να χρειαστούν χρόνο για τις αλλαγές για τη μετάδοση. Δοκιμάστε ξανά σε λίγα λεπτά και αν το ζήτημα εξακολουθεί να υφίσταται, επικοινωνήστε μαζί μας.
     

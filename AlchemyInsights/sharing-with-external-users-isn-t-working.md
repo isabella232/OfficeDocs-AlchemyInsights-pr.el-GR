@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900870"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207685"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Επιδιόρθωση προβλημάτων, κοινή χρήση περιεχομένου SharePoint με εξωτερικούς χρήστες
 
 Βεβαιωθείτε ότι η εξωτερική κοινή χρήση είναι ενεργοποιημένη για την εταιρεία σας:
   
-1. Μεταβείτε το [υπηρεσίες &amp; σελίδα προσθέτων στο στο Κέντρο διαχείρισης του Office 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), και κάντε κλικ στο κουμπί **τοποθεσίες**.
+1. Μεταβείτε το [υπηρεσίες &amp; σελίδα προσθέτων στο Κέντρο διαχείρισης Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), και κάντε κλικ στο κουμπί **τοποθεσίες**.
     
-2. Βεβαιωθείτε ότι η ρύθμιση είναι ενεργοποιημένη σε "Ενεργή". Εάν έχει επιλεγεί "Μόνο υπάρχοντες χρήστες εξωτερικό", βεβαιωθείτε ότι παρατίθεται το εξωτερικό χρήστη στο στο Κέντρο διαχείρισης του Office 365.
+2. Βεβαιωθείτε ότι η ρύθμιση είναι ενεργοποιημένη σε "Ενεργή". Εάν έχει επιλεγεί "Μόνο υπάρχοντες χρήστες εξωτερικό", βεβαιωθείτε ότι το εξωτερικό χρήστη έχει καταχωρηθεί στο Κέντρο διαχείρισης Microsoft 365.
     
 Βεβαιωθείτε ότι το εξωτερικό την κοινή χρήση του ενεργοποιημένο για την τοποθεσία. Για μια συλλογή τοποθεσιών κλασική:
   

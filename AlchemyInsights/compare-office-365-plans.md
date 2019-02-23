@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919440"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208083"
 ---
 # <a name="compare-office-365-plans"></a>Συγκρίνετε τα σχέδια Office 365
 
@@ -26,7 +26,7 @@ ms.locfileid: "29919440"
   
 Εάν ο οργανισμός σας ενδιαφέρεται να συγκρίνει όλα τα σχέδια και τις τιμές, εξετάστε [συγκρίνει όλα τα σχέδια του Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Εάν ο οργανισμός σας έχει ήδη αγοράσει ένα σχέδιο του Office 365 και ενδιαφέρεται να μεταβείτε σε ένα διαφορετικό σχέδιο που να τόσο από το Κέντρο διαχείρισης του Office 365, μεταβείτε στην τις [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054)ή επιλέξτε **χρέωσης** \> **εγγραφές**. Επιλέξτε **σχέδια διακόπτη** , για να προβάλετε τη λίστα των νέων σχεδίων που είναι διαθέσιμες. 
+Εάν ο οργανισμός σας έχει ήδη αγοράσει ένα σχέδιο του Office 365 και ενδιαφέρεται να μεταβείτε σε ένα διαφορετικό σχέδιο που να έτσι από το Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην τις [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054)ή επιλέξτε **χρέωσης** \> **εγγραφές**. Επιλέξτε **σχέδια διακόπτη** , για να προβάλετε τη λίστα των νέων σχεδίων που είναι διαθέσιμες. 
   
 Ο οργανισμός σας επίσης να αναμειγνύεται και συμφωνεί με τα σχέδια Office 365 ώστε να ανταποκρίνεται στις ανάγκες και τις απαιτήσεις των λειτουργιών των χρηστών. Από της διαχείρισης του Office 365, μεταβείτε στη σελίδα [Υπηρεσιών αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) ή επιλέξτε **χρέωσης** \> **Υπηρεσίες αγοράς**.
   

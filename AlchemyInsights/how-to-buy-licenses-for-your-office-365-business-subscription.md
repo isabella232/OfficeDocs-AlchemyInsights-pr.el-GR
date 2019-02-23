@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920016"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207973"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Πώς να αγοράσετε άδειες χρήσης για τη συνδρομή σας επαγγελματική Office 365
 
 Κατά την εκχώρηση αδειών χρήσης του Office 365 στους χρήστες σας, ενδέχεται να διαπιστώσετε ότι έχετε την ανάγκη να αγοράσετε πρόσθετες άδειες χρήσης. Για να γίνει αυτό:
   
-- Στο στο Κέντρο διαχείρισης του Office 365, μεταβείτε στη σελίδα " [συνδρομές]( https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.
+- Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα " [συνδρομές]( https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.
     
 - Στη σελίδα " **εγγραφές** ", επιλέξτε την εγγραφή που θέλετε να προσθέσετε άδειες χρήσης για την και, στη συνέχεια, επιλέξτε **Add/Remove άδειες χρήσης**.
     

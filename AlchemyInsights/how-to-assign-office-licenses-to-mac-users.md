@@ -10,16 +10,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: f27198496cbcbef502e33f6c4c3125077bd3f23e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909450"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207793"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Τρόπος εκχώρησης αδειών χρήσης του Office για χρήστες Mac
 
-- Στο Κέντρο διαχείρισης του Office 365, μεταβείτε στη σελίδα " [ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) " ή επιλέξτε **χρήστες** \> **ενεργοί χρήστες**.
+- Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα " [ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) " ή επιλέξτε **χρήστες** \> **ενεργοί χρήστες**.
     
 - Επιλέξτε το πλαίσιο δίπλα από το όνομα του χρήστη στον οποίο θέλετε να αναθέσετε μια άδεια χρήσης.
     
