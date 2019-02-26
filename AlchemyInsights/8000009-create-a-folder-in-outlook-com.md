@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 03b4600945196449a4bdcd28898c1869bf7bdac8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5a2c370fba7e00dc5c6367d070176c08f31fbd7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918612"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244113"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="11ec2-102">Δημιουργήστε ένα φάκελο</span><span class="sxs-lookup"><span data-stu-id="11ec2-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="8778f-102">Δημιουργήστε ένα φάκελο</span><span class="sxs-lookup"><span data-stu-id="8778f-102">Create a folder</span></span>
 
-1. <span data-ttu-id="11ec2-103">Στο αριστερό τμήμα του παραθύρου, επιλέξτε **Δημιουργία νέου φακέλου**![η δημιουργία νέου κουμπιού φακέλου](media/d8e28612-fbdb-4d28-a4d0-14f7834cfd97.png) δίπλα από **τους φακέλους**.</span><span class="sxs-lookup"><span data-stu-id="11ec2-103">In the left pane, select **Create New Folder**![The Create new folder button](media/d8e28612-fbdb-4d28-a4d0-14f7834cfd97.png) next to **Folders**.</span></span> 
+1. <span data-ttu-id="8778f-103">Στο αριστερό τμήμα του παραθύρου, επιλέξτε **Δημιουργία νέου φακέλου** δίπλα από **τους φακέλους**.</span><span class="sxs-lookup"><span data-stu-id="8778f-103">In the left pane, select **Create New Folder** next to **Folders**.</span></span> 
     
-2. <span data-ttu-id="11ec2-104">Στο νέο πλαίσιο φακέλου, πληκτρολογήστε ένα όνομα για το φάκελο και πατήστε το πλήκτρο Enter.</span><span class="sxs-lookup"><span data-stu-id="11ec2-104">In the new folder box, enter a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="8778f-104">Στο νέο πλαίσιο φακέλου, πληκτρολογήστε ένα όνομα για το φάκελο και πατήστε το πλήκτρο Enter.</span><span class="sxs-lookup"><span data-stu-id="8778f-104">In the new folder box, enter a name for the folder and press Enter.</span></span>
     
-<span data-ttu-id="11ec2-105">Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Δημιουργία ενός φακέλου στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span><span class="sxs-lookup"><span data-stu-id="11ec2-105">To learn more, see [Create a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span></span>
+<span data-ttu-id="8778f-105">Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Δημιουργία ενός φακέλου στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span><span class="sxs-lookup"><span data-stu-id="8778f-105">To learn more, see [Create a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span></span>
   
 
