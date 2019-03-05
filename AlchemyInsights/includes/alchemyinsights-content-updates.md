@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Εβδομάδα του Ιανουαρίου 21 Μαΐου 2019
-
-
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
-|------|------------|--------|
-| 22/1/2019 | [1047 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 550 5.7.708 υπηρεσία δεν είναι διαθέσιμη. Δεν επιτρέπεται η κυκλοφορία που δεν γίνονται δεκτά από το IP πρόσβαση](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | τροποποίηση |
-| 22/1/2019 | [1049 αντιμετώπισης ανεπιθύμητης αλληλογραφίας σημείο 4.5.3 υπερβολικά πολλούς παραλήπτες (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | τροποποίηση |
-| 22/1/2019 | [1050 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 4.7.500 διακομιστής είναι απασχολημένος. Προσπαθήστε ξανά αργότερα από [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | τροποποίηση |
-| 22/1/2019 | [1051 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 4.7.500 επιτρέπεται η πρόσβαση, προσπαθήστε ξανά αργότερα](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | τροποποίηση |
-| 22/1/2019 | [Αναμετάδοσης ηλεκτρονικού ταχυδρομείου μέσω του Office 365](/AlchemyInsights/relay-email-through-office-365) | τροποποίηση |
-| 24/1/2019 | [Η δημιουργία στοιχείου ελέγχου των ομάδων](/AlchemyInsights/control-creation-of-groups) | τροποποίηση |
-| 24/1/2019 | [Ζητήματα του Outlook με το Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | Προσθήκη |
-| 24/1/2019 | [Επαναφορά μιας ομάδας 365 του Office χρησιμοποιώντας το Κέντρο διαχείρισης του Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Μετονομασία |
-| 24/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | Μετονομασία |
-
-
 ## <a name="week-of-january-28-2019"></a>Εβδομάδα του Ιανουαρίου 28 Μαΐου 2019
 
 
@@ -734,3 +718,57 @@
 | 22/2/2019 | [Δικαιώματα χρήστη](/AlchemyInsights/user-permissions) | τροποποίηση |
 | 22/2/2019 | [Όταν δημιουργείται η δήλωση χρέωσης;](/AlchemyInsights/when-is-the-billing-statement-generated) | τροποποίηση |
 | 22/2/2019 | [Πώς μπορείτε να επαληθεύσετε τον τομέα σας με Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | τροποποίηση |
+
+
+## <a name="week-of-february-25-2019"></a>Εβδομάδα του 25 Φεβρουαρίου 2019
+
+
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+|------|------------|--------|
+| 25/2/2019 | [1800014 λήψης υποστήριξης-app για το Outlook εφαρμογής για κινητές συσκευές](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | τροποποίηση |
+| 25/2/2019 | [1800014 σύνολο ηλεκτρονικού ταχυδρομείου με το Outlook εφαρμογής για κινητές συσκευές](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | τροποποίηση |
+| 25/2/2019 | [8000001 απενεργοποιήσετε εστιάζει "Εισερχόμενα"](/AlchemyInsights/8000001-turn-off-focused-inbox) | τροποποίηση |
+| 25/2/2019 | [8000009, δημιουργήστε ένα φάκελο στο Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000012 Διαγραφή επαφής στο Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000013 Αλλαγή γραμματοσειράς στο Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000014 τρόπος για να αλλάξετε τη γλώσσα στο Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000015 αποκλεισμός ή κατάργηση αποκλεισμού αποστολέων](/AlchemyInsights/8000015-block-or-unblock-senders) | τροποποίηση |
+| 25/2/2019 | [8000015 παραλαβή ηλεκτρονικού ταχυδρομείου από Αποκλεισμένοι αποστολείς στη Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [Αντιμετώπιση ηλεκτρονικού "ψαρέματος" σε Outlook.com 8000029](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000029 αντιμετώπιση ανεπιθύμητης ηλεκτρονικής αλληλογραφίας στο Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000029 αντιμετώπιση ανεπιθύμητης αλληλογραφίας ή ηλεκτρονικού "ψαρέματος" στο Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000033 τρόπος να απαντήσετε ή προώθηση μηνυμάτων με την έκδοση beta του Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | τροποποίηση |
+| 25/2/2019 | [8000034 αποδεικτικά ανάγνωσης στο Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000036 αλλάξετε το όνομα του ηλεκτρονικού ταχυδρομείου σας στο Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000046 εκτύπωση ηλεκτρονικού ταχυδρομείου και ημερολογίων στο Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000047 ΔΙΑΔΙΚΑΣΙΕΣ: Δημιουργία υπογραφής ηλεκτρονικού ταχυδρομείου στο Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000052 επισύναψη αρχείων στο Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | τροποποίηση |
+| 25/2/2019 | [8000059 Τρόπος αλλαγής θέματος ενέργεια (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | τροποποίηση |
+| 25/2/2019 | [Συνιστώμενα βήματα εάν παραβιαστεί ένας λογαριασμός](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | τροποποίηση |
+| 26/2/2019 | [Επαναφέρετε μια διαγραμμένη ομάδα του Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | τροποποίηση |
+| 26/2/2019 | [9000215 Outlook.com εγγραφές](/AlchemyInsights/9000215-outlook-com-subscriptions) | Προσθήκη |
+| 27/2/2019 | [9000199 αρχεία PST στο Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | Προσθήκη |
+| 27/2/2019 | [9000202 επιλογές Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | Προσθήκη |
+| 27/2/2019 | [Τα φίλτρα 9000203 Outlook.com](/AlchemyInsights/9000203-outlook-com-filters) | Προσθήκη |
+| 28/2/2019 | [8000036 αλλάξετε pic/όνομα προφίλ στο Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | Προσθήκη |
+| 28/2/2019 | [8000049 Skype εικονίδιο λείπει στο Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | Προσθήκη |
+| 28/2/2019 | [8000088 αποθήκευση ηλεκτρονικού ταχυδρομείου στο Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | Προσθήκη |
+| 28/2/2019 | [9000071 δεν είναι δυνατό να πληκτρολογήσετε το σύμβολο @ σύμβολο σε υπολογιστή Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | Προσθήκη |
+| 28/2/2019 | [9000193 Αναίρεση μετακίνησης ή διαγραφή στο Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | Προσθήκη |
+| 28/2/2019 | [9000198 Outlook.com ημερολόγιο Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | Προσθήκη |
+| 1/3/2019 | [8000035 αίτηση για να επανέλθετε από έκδοση beta του Outlook.com σε κλασική Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | Προσθήκη |
+| 1/3/2019 | [8000035 τρόπος για να κάνετε τη νέα εμφάνιση Outlook.com με την παλιά](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | Προσθήκη |
+| 1/3/2019 | [8000043 οι ρυθμίσεις POP, IMAP και SMTP για Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | Προσθήκη |
+| 1/3/2019 | [8000090 Outlook.com επιλογή όλων](/AlchemyInsights/8000090-outlook-com-select-all) | Προσθήκη |
+| 1/3/2019 | [8000091 Outlook.com αντιδρά αναδυόμενων](/AlchemyInsights/8000091-outlook-com-react-pop-up) | Προσθήκη |
+| 1/3/2019 | [8000092 Outlook.com προβολή μηνύματος προέλευσης](/AlchemyInsights/8000092-outlook-com-view-message-source) | Προσθήκη |
+| 1/3/2019 | [8000093 δικαιώματα λογαριασμού Outlook.com συνδεδεμένος](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | Προσθήκη |
+| 1/3/2019 | [1800009Outlook για την υποστήριξη του app Mac](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | τροποποίηση |
+| 1/3/2019 | [8000057 ασφαλείς συνδέσεις στο Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | τροποποίηση |
+| 1/3/2019 | [9000232 βιβλίο διευθύνσεων Outlook.com](/AlchemyInsights/9000232-outlook-com-address-book) | Προσθήκη |
+| 1/3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | Προσθήκη |
+| 1/3/2019 | [9000234 το σφάλμα εσωτερικού διακομιστή Outlook.com](/AlchemyInsights/9000234-outlook-com-internal-server-error) | Προσθήκη |
+| 1/3/2019 | [9000236 Outlook.com Προσθήκη λογαριασμού](/AlchemyInsights/9000236-outlook-com-add-account) | Προσθήκη |
+| 1/3/2019 | [Προσθήκη ψευδωνύμου 9000238 Outlook.com](/AlchemyInsights/9000238-outlook-com-add-alias) | Προσθήκη |
+| 1/3/2019 | [9000239 προώθηση Outlook.com](/AlchemyInsights/9000239-outlook-com-forwarding) | Προσθήκη |
+| 1/3/2019 | [9000240 Outlook.com απαντήσεις](/AlchemyInsights/9000240-outlook-com-replies) | Προσθήκη |

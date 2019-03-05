@@ -9,25 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 7d8b0d2a98f71dbc973c3e46783c01d09bdab259
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30244149"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376108"
 ---
 # <a name="how-to-create-an-email-signature"></a>Πώς μπορείτε να δημιουργήσετε μια υπογραφή ηλεκτρονικού ταχυδρομείου
 
-Εάν χρησιμοποιείτε την έκδοση beta του Outlook.com:
+Μεταβείτε στις [Ρυθμίσεις σύνθεση και απάντηση](https://go.microsoft.com/fwlink/?linkid=2006164) (**Ρυθμίσεις** \> **προβάλετε όλες τις ρυθμίσεις Outlook** \> **σύνθεση και απάντηση**). 
   
-- Στην κορυφή της σελίδας, επιλέξτε **Ρυθμίσεις** \> **Ρυθμίσεις πλήρους προβολής** \> **σύνθεση και απάντηση**. 
-    
-Εάν χρησιμοποιείτε την κλασική Outlook.com:
-  
-- Στην κορυφή της σελίδας, επιλέξτε **Ρυθμίσεις** \> **Επιλογές** \> **Mail** \> **διάταξη** \> **υπογραφής ηλεκτρονικού ταχυδρομείου**. 
-    
  **Σημείωση:** Μπορείτε να έχετε μόνο μία υπογραφή ανά λογαριασμό. 
   
 Μάθετε περισσότερα σχετικά με τον τρόπο για να [δημιουργήσετε και να προσθέσετε μια υπογραφή ηλεκτρονικού ταχυδρομείου στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).
-  
-
