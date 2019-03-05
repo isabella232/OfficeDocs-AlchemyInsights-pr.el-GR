@@ -7,21 +7,21 @@ ms.date: 12/11/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bfae9ce987c670d1159ed7df6823e201e49710e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899856"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404711"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="cbb54-102">Υποβολή αιτήσεων για υποστήριξη Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="cbb54-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="47113-102">Υποβολή αιτήσεων για υποστήριξη Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="47113-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="cbb54-103">Εάν είστε πελάτης της **Microsoft Dynamics πελάτη αρραβώνα** υποβάλετε το εισιτήριο μέσω της νέας [ενέργειας πλατφόρμα Κέντρο διαχείρισης](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="cbb54-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="47113-103">Εάν είστε πελάτης της **Microsoft Dynamics πελάτη αρραβώνα** υποβάλετε το εισιτήριο μέσω της νέας [ενέργειας πλατφόρμα Κέντρο διαχείρισης](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="47113-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="cbb54-104">Η νέα πύλη παρέχει μια πιο απευθείας διαδρομή για υποστήριξη που είναι βελτιστοποιημένη για την πρόσληψη πελάτη Dynamics και σε άλλα προϊόντα πλατφόρμα ενέργειας.</span><span class="sxs-lookup"><span data-stu-id="cbb54-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="47113-104">Η νέα πύλη παρέχει μια πιο απευθείας διαδρομή για υποστήριξη που είναι βελτιστοποιημένη για την πρόσληψη πελάτη Dynamics και σε άλλα προϊόντα πλατφόρμα ενέργειας.</span><span class="sxs-lookup"><span data-stu-id="47113-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   
 
