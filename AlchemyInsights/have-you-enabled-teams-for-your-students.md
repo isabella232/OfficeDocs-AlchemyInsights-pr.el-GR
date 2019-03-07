@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927756"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468555"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="fd82b-102">Έχετε ενεργοποιήσει ομάδες για τους φοιτητές σας;</span><span class="sxs-lookup"><span data-stu-id="fd82b-102">Have you enabled Teams for your students?</span></span>
+# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="15288-102">Έχετε ενεργοποιήσει ομάδες για τους φοιτητές σας;</span><span class="sxs-lookup"><span data-stu-id="15288-102">Have you enabled Teams for your students?</span></span>
 
 
-<span data-ttu-id="fd82b-p101">Έχουν τη δυνατότητα πρόσβασης σε ομάδες Σχολή και του προσωπικού, αλλά δεν τους φοιτητές σας; Ομάδες πρέπει να ενεργοποιούνται ρητά για τους μαθητές, καθώς και για τη σχολή και το προσωπικό. Για να το κάνετε αυτό, ανατρέξτε στο θέμα σχήμα 2 βήμα 5 το άρθρο βρέθηκε [εδώ](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="fd82b-p101">Are faculty and staff able to access Teams, but your students can't? Teams needs to be explicitly enabled for your students, as well as for faculty and staff. To do this, please see Figure 2 of Step 5 in the article found [here](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
+<span data-ttu-id="15288-103">Έχουν τη δυνατότητα πρόσβασης σε ομάδες Σχολή και του προσωπικού, αλλά δεν τους φοιτητές σας;</span><span class="sxs-lookup"><span data-stu-id="15288-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="15288-104">Ομάδες πρέπει να ενεργοποιούνται ρητά για τους μαθητές, καθώς και για τη σχολή και το προσωπικό.</span><span class="sxs-lookup"><span data-stu-id="15288-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="15288-105">Για να το κάνετε αυτό, δείτε: [Ενεργοποίηση ομάδες της Microsoft για το σχολείο σας](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="15288-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
   
 
