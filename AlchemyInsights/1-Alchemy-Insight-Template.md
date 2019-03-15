@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939291"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634504"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Απαιτείται "Alchemy" Επικεφαλίδα H1, H2 του δεν λειτουργούν.
 Βέλτιστες πρακτικές και οδηγίες για τη σύνταξη "Alchemy":
 
 1. **Η ένθεση δεν είναι "Alchemy" ιδέες σε φακέλους**- αυτό θα διακόψει τη δομή της διεύθυνσης url. Κοιτάζουμε στον καθορισμό αυτό.
 1. Αρχεία στο φάκελο **AlchemyInsights** πρέπει να έχουν Αναγνωριστικό κανόνα και το όνομα του κανόνα από την [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net) στο όνομα αρχείου.
-    1. π.χ. ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-How-to-Enable-litigation-Hold***
 1. Χρησιμοποιήστε τα μετα-δεδομένα στο επάνω μέρος αυτού του αρχείου ως προτύπου. Κανένα άλλο απαιτείται.
 1. Στην [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net), μετακινηθείτε προς τα κάτω, στην ενότητα **πελάτη πληροφορίες τίτλου:** και χρήση που παραπέμπουν ως μια έναρξης για τον τίτλο H1 σας για τις πληροφορίες. 
     > [!NOTE]

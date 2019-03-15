@@ -3,191 +3,84 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>Εβδομάδα του Ιανουαρίου 28 Μαΐου 2019
+## <a name="week-of-march-04-2019"></a>Εβδομάδα του Μαρτίου 04, 2019
 
 
 | Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
 |------|------------|--------|
-| 29/1/2019 | [Κεντρική ιδέες "Alchemy"](/AlchemyInsights/index) | τροποποίηση |
-| 29/1/2019 | [Αντιμετώπιση προβλημάτων ενεργοποίησης](/AlchemyInsights/activation-troubleshooting) | τροποποίηση |
-| 29/1/2019 | [Λαμβάνετε πάρα πολλά μηνύματα spam και ψαρεύουν στο γραμματοκιβώτιό σας;](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | τροποποίηση |
-| 29/1/2019 | [Δεν είναι δυνατή η προσθήκη προεπιλεγμένη ροή εργασίας έγκρισης 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | τροποποίηση |
-| 29/1/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | τροποποίηση |
-| 29/1/2019 | [Διαγραφή μιας τοποθεσίας του SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | τροποποίηση |
-| 29/1/2019 | [Διαγραφή μιας τοποθεσίας του SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | τροποποίηση |
-| 29/1/2019 | [Τεχνολογία DLP δεν λειτουργεί όπως αναμένεται](/AlchemyInsights/dlp-not-working-as-expected) | τροποποίηση |
-| 29/1/2019 | [Έχετε νόμιμα μηνύματα που έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία;](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | τροποποίηση |
-| 29/1/2019 | [Κωδικός σφάλματος 30125-4 ή 30125-1011 κατά την εγκατάσταση του Office](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | τροποποίηση |
-| 29/1/2019 | [Έχετε ενεργοποιήσει ομάδες για τους φοιτητές σας;](/AlchemyInsights/have-you-enabled-teams-for-your-students) | τροποποίηση |
-| 29/1/2019 | [Πώς να ενεργοποιήσετε το Office](/AlchemyInsights/how-to-activate-office) | τροποποίηση |
-| 29/1/2019 | [Πώς να εγκαταστήσετε το Mac Office από την πύλη](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | τροποποίηση |
-| 29/1/2019 | [Πώς να εγκαταστήσετε το Office σε μια συσκευή iPad](/AlchemyInsights/how-to-install-office-on-an-ipad) | τροποποίηση |
-| 29/1/2019 | [Πώς να εγκαταστήσετε το Office σε ένα iPhone](/AlchemyInsights/how-to-install-office-on-an-iphone) | τροποποίηση |
-| 29/1/2019 | [Πώς μπορείτε να επαληθεύσετε τον τομέα σας με Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | τροποποίηση |
-| 29/1/2019 | [Εγκατάστασης σταματά να ανταποκρίνεται ή να εισέρχεται](/AlchemyInsights/installation-hangs-or-gets-stuck) | τροποποίηση |
-| 29/1/2019 | [Ομάδες της Microsoft - η πρόσβαση ως Guest](/AlchemyInsights/microsoft-teamsguest-access) | τροποποίηση |
-| 29/1/2019 | [Επιλογές πληρωμής](/AlchemyInsights/payment-options) | τροποποίηση |
-| 29/1/2019 | [Υποδομή δημοσίευσης του με μια τοποθεσία επικοινωνίας](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | τροποποίηση |
-| 29/1/2019 | [Ερωτήσεις που αφορούν το Office 2019](/AlchemyInsights/questions-related-to-office-2019) | τροποποίηση |
-| 29/1/2019 | [Λύσεις για το σφάλμα 30015-4](/AlchemyInsights/solutions-for-error-30015-4) | τροποποίηση |
-| 29/1/2019 | [Λύσεις για το σφάλμα 30016-4](/AlchemyInsights/solutions-for-error-30016-4) | τροποποίηση |
-| 29/1/2019 | [Λύσεις για το σφάλμα 30174-4](/AlchemyInsights/solutions-for-error-30174-4) | τροποποίηση |
-| 29/1/2019 | [Λύσεις για ζητήματα κατά την εγκατάσταση του Office](/AlchemyInsights/solutions-for-issues-while-installing-office) | τροποποίηση |
-| 29/1/2019 | [Λύσεις για ' δεν ήταν δυνατό να είναι εγκατεστημένο το Office (64-bit ή 32-bit)](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | τροποποίηση |
-| 29/1/2019 | [Λύσεις για 'Μη υποστηριζόμενο λειτουργικό σύστημα'](/AlchemyInsights/solutions-for-unsupported-operating-system) | τροποποίηση |
-| 29/1/2019 | [Βήματα για την επίλυση σφαλμάτων ενεργοποίησης του office 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | Προσθήκη |
-| 29/1/2019 | [Βήματα για την επίλυση σφαλμάτων ενεργοποίησης του Office 0xc004b100](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | Προσθήκη |
-| 29/1/2019 | [Προτάσεις για την επίλυση σφαλμάτων "Προϊόν χωρίς άδεια χρήσης"](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | τροποποίηση |
-| 29/1/2019 | [Υποστηριζόμενη έκδοση του εργαλείου μετεγκατάστασης του SharePoint](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | τροποποίηση |
-| 29/1/2019 | [Αντιμετώπιση προβλημάτων της συμβουλής ασφάλειας για την ανίχνευση της απάτης ελέγχει](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | τροποποίηση |
-| 29/1/2019 | [Καταργήστε την εγκατάσταση του Office](/AlchemyInsights/uninstall-office) | τροποποίηση |
-| 29/1/2019 | [Ενημέρωση εγγραφών DNS](/AlchemyInsights/update-dns-records) | τροποποίηση |
-| 29/1/2019 | [Πού μπορείτε να εγκαταστήσετε το Office από](/AlchemyInsights/where-to-install-office-from) | τροποποίηση |
-| 30/1/2019 | [1336 RecoverableItems φάκελος είναι πλήρης](/AlchemyInsights/1336-recoverableitems-folder-is-full) | τροποποίηση |
-| 30/1/2019 | [1800014 αντιμετώπιση προβλημάτων κινητή εγκατάσταση του Outlook για το κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | τροποποίηση |
-| 30/1/2019 | [1800014 χρησιμοποιώντας ένα κοινόχρηστο γραμματοκιβώτιο σε μια φορητή συσκευή](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | τροποποίηση |
-| 30/1/2019 | [Προσθήκη 1800018/σύνολο λογαριασμών ηλεκτρονικού ταχυδρομείου](/AlchemyInsights/1800018-add-set-up-email-accounts) | τροποποίηση |
-| 30/1/2019 | [1800018 να βρείτε τις ρυθμίσεις του διακομιστή POP και IMAP](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | τροποποίηση |
-| 30/1/2019 | [1800029 συνδεδεμένους λογαριασμούς που δεν υποστηρίζεται στο Outlook στο web](/AlchemyInsights/1800029-connected-accounts-not-supported-in-outlook-on-the-web) | τροποποίηση |
-| 30/1/2019 | [204 Τρόπος εύρεσης λείπει ή ανάκτηση αλληλογραφίας του Outlook, ημερολογίου ή επαφές που λείπουν](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | τροποποίηση |
-| 30/1/2019 | [App 597 Microsoft κρατήσεις](/AlchemyInsights/597-microsoft-bookings-app) | τροποποίηση |
-| 30/1/2019 | [Αλλαγή δικαιωμάτων για ένα γραμματοκιβώτιο](/AlchemyInsights/changing-permissions-on-a-mailbox) | τροποποίηση |
-| 30/1/2019 | [Διακόπτεται η λειτουργία του Excel;](/AlchemyInsights/excel-crashing) | τροποποίηση |
-| 30/1/2019 | [Κατάργηση τομέα](/AlchemyInsights/remove-domain) | τροποποίηση |
-| 30/1/2019 | [Ενεργοποίηση του Office](/AlchemyInsights/activate-office) | τροποποίηση |
-| 30/1/2019 | [Προσθέστε ένα άλλο ψευδώνυμο ηλεκτρονικού ταχυδρομείου](/AlchemyInsights/add-another-email-alias) | τροποποίηση |
-| 30/1/2019 | [Προσθήκη στους εξωτερικούς χρήστες](/AlchemyInsights/adding-external-users) | τροποποίηση |
-| 30/1/2019 | [Ομοσπονδία ADFS πιστοποιητικού που λήγει](/AlchemyInsights/adfs-federation-certificate-expiring) | τροποποίηση |
-| 30/1/2019 | [Ρόλος διαχείρισης και τον τρόπο αντιστοίχισης](/AlchemyInsights/admin-role-and-how-to-assign) | τροποποίηση |
-| 30/1/2019 | [Εξαγοράς διαχείρισης](/AlchemyInsights/admin-takeover) | τροποποίηση |
-| 30/1/2019 | ["Alchemy" - Διακοπή λειτουργίας του Outlook βήματα αντιμετώπισης προβλημάτων](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | τροποποίηση |
-| 30/1/2019 | [' Alchemy "- Outlook σφάλμα"δεν είναι δυνατή εκκίνηση του Microsoft Outlook'](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | τροποποίηση |
-| 30/1/2019 | ["Alchemy" - Outlook αναζήτησης δεν idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | τροποποίηση |
-| 30/1/2019 | [Αντιστοίχιση ή κατάργηση αδειών χρηστών](/AlchemyInsights/assign-or-remove-users-licenses) | τροποποίηση |
-| 30/1/2019 | [Ακύρωση της συνδρομής του Office 365](/AlchemyInsights/cancel-office-365-subscription) | τροποποίηση |
-| 30/1/2019 | [Ακυρώσετε τη συνδρομή σας Office 365;](/AlchemyInsights/canceling-your-office-365-subscription-0) | τροποποίηση |
-| 30/1/2019 | [Ακυρώσετε τη συνδρομή σας Office 365;](/AlchemyInsights/canceling-your-office-365-subscription-2) | τροποποίηση |
-| 30/1/2019 | [Αλλάξτε το όνομα και διεύθυνση του χρήστη](/AlchemyInsights/change-a-user-s-name-and-email-address) | τροποποίηση |
-| 30/1/2019 | [Αλλαγή NameServers](/AlchemyInsights/change-nameservers) | τροποποίηση |
-| 30/1/2019 | [Αλλάξετε την εναλλακτική διεύθυνση ηλεκτρονικού ταχυδρομείου για χρέωσης ειδοποιήσεων](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | τροποποίηση |
-| 30/1/2019 | [Αλλαγή UPN](/AlchemyInsights/change-upn) | τροποποίηση |
-| 30/1/2019 | [Αλλαγή μεγέθους μήνυμα ή συνημμένο](/AlchemyInsights/changing-message-or-attachment-size) | τροποποίηση |
-| 30/1/2019 | [Αλλαγή των δικαιωμάτων του δημόσιου φακέλου](/AlchemyInsights/changing-public-folder-permissions) | τροποποίηση |
-| 30/1/2019 | [Αλλαγή κοινόχρηστο γραμματοκιβώτιο Αποστολή ως συμπεριφορά](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | τροποποίηση |
-| 30/1/2019 | [Συγκρίνετε τα σχέδια Office 365](/AlchemyInsights/compare-office-365-plans) | τροποποίηση |
-| 30/1/2019 | [Υπό όρους πρόσβασης με Intune](/AlchemyInsights/conditional-access-with-intune) | τροποποίηση |
-| 30/1/2019 | [ConsistencyGuid / sourceAnchor συμπεριφορά](/AlchemyInsights/consistencyguidsourceanchor-behavior) | τροποποίηση |
-| 30/1/2019 | [Το περιεχόμενο δεν εμφανίζεται στα αποτελέσματα αναζήτησης του SharePoint](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | τροποποίηση |
-| 30/1/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | τροποποίηση |
-| 30/1/2019 | [Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-and-use-a-shared-mailbox) | τροποποίηση |
-| 30/1/2019 | [Δημιουργία κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/create-shared-mailbox) | τροποποίηση |
-| 30/1/2019 | [Δημιουργία δημόσιων φακέλων](/AlchemyInsights/creating-public-folders) | τροποποίηση |
-| 30/1/2019 | [Δικαιώματα γραμματοκιβωτίου που έχουν ανατεθεί σε ένα περιβάλλον υβριδική](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | τροποποίηση |
-| 30/1/2019 | [Διαγραφή μιας τοποθεσίας του SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | τροποποίηση |
-| 30/1/2019 | [Διαγραφή ομάδας τοποθεσιών](/AlchemyInsights/delete-group-site) | τροποποίηση |
-| 30/1/2019 | [Τεχνολογία DLP δεν λειτουργεί όπως αναμένεται](/AlchemyInsights/dlp-not-working-as-expected) | τροποποίηση |
-| 30/1/2019 | [Συμβουλές πολιτικής DLP δεν λειτουργεί](/AlchemyInsights/dlp-policy-tips-not-working) | τροποποίηση |
-| 30/1/2019 | [Τεχνολογία DLP κανόνα για τον αριθμό της πιστωτικής κάρτας που δεν λειτουργεί](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | τροποποίηση |
-| 30/1/2019 | [Τεχνολογία DLP κανόνα για Ασφάλισης δεν λειτουργεί](/AlchemyInsights/dlp-rule-for-ssn-not-working) | τροποποίηση |
-| 30/1/2019 | [Τεχνολογία DLP κανόνα για ΕΜΆΣ αριθμός τραπεζικού λογαριασμού δεν λειτουργεί](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | τροποποίηση |
-| 30/1/2019 | [Τεχνολογία DLP κανόνα για ΗΠΑ / Ηνωμένο Βασίλειο αριθμός διαβατηρίου δεν λειτουργεί](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | τροποποίηση |
-| 30/1/2019 | [Έχετε νόμιμα μηνύματα που έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία;](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | τροποποίηση |
-| 30/1/2019 | [Κάντε λήψη και εγκατάσταση του Office](/AlchemyInsights/download-and-install-office) | τροποποίηση |
-| 30/1/2019 | [Εργαζόμενος, αφήνοντας](/AlchemyInsights/employee-leaving) | τροποποίηση |
-| 30/1/2019 | [Ενεργοποίηση ομάδες της Microsoft](/AlchemyInsights/enable-microsoft-teams) | τροποποίηση |
-| 30/1/2019 | [Αντιμετωπίζετε επαναλαμβάνονται κωδικοί πρόσβασης στο Outlook για Mac;](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | τροποποίηση |
-| 30/1/2019 | [Το αρχείο ανοίγει μόνο για ανάγνωση](/AlchemyInsights/file-open-read-only-0) | τροποποίηση |
-| 30/1/2019 | [Το αρχείο ανοίγει μόνο για ανάγνωση](/AlchemyInsights/file-open-read-only-1) | τροποποίηση |
-| 30/1/2019 | [Το αρχείο ανοίγει μόνο για ανάγνωση](/AlchemyInsights/file-open-read-only) | τροποποίηση |
-| 30/1/2019 | [Έχετε ενεργοποιήσει ομάδες για τους φοιτητές σας;](/AlchemyInsights/have-you-enabled-teams-for-your-students) | τροποποίηση |
-| 30/1/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues-0) | τροποποίηση |
-| 30/1/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues) | τροποποίηση |
-| 30/1/2019 | [Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | τροποποίηση |
-| 30/1/2019 | [Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;](/AlchemyInsights/having-issues-getting-outlook-to-connect) | τροποποίηση |
-| 30/1/2019 | [Πώς μπορώ να αλλάξω από πληρωμές πιστωτικών καρτών για να τιμολογήσετε;](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | τροποποίηση |
-| 30/1/2019 | [Τρόπος απενεργοποίησης της εξωτερικής ομάδες](/AlchemyInsights/how-to-disable-external-groups-0) | τροποποίηση |
-| 30/1/2019 | [Τρόπος απενεργοποίησης της εξωτερικής ομάδες](/AlchemyInsights/how-to-disable-external-groups) | τροποποίηση |
-| 30/1/2019 | [Πώς μπορείτε να ενεργοποιήσετε την ομαλή SSO](/AlchemyInsights/how-to-enable-seamless-sso) | τροποποίηση |
-| 30/1/2019 | [Πώς να εγκαταστήσετε το Mac Office από την πύλη](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | τροποποίηση |
-| 30/1/2019 | [Πώς μπορείτε να επαληθεύσετε τον τομέα σας με Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | τροποποίηση |
-| 30/1/2019 | [Ο Οδηγός ρύθμισης παραμέτρων υβριδική](/AlchemyInsights/hybrid-configuration-wizard) | τροποποίηση |
-| 30/1/2019 | [Προσδιορίζει διατηρήσεων τοποθετούνται σε γραμματοκιβώτια](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | τροποποίηση |
-| 30/1/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου για Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | τροποποίηση |
-| 30/1/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου για SKU SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | τροποποίηση |
-| 30/1/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου](/AlchemyInsights/increase-mailbox-size) | τροποποίηση |
-| 30/1/2019 | [Πληροφορίες σχετικά με το ΑΕΓΧΠΠ](/AlchemyInsights/information-about-gdpr) | τροποποίηση |
-| 30/1/2019 | [Πληροφορίες σχετικά με τη διατήρηση δίκη ή στον τόπο πατήματος](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | τροποποίηση |
-| 30/1/2019 | [Εγκατάσταση του Office 2013 ειδοποίηση](/AlchemyInsights/install-office-2013-notification) | τροποποίηση |
-| 30/1/2019 | [Εγκατάσταση του Skype για επιχειρήσεις](/AlchemyInsights/install-skype-for-business) | τροποποίηση |
-| 30/1/2019 | [Πρόβλημα με το Skype για επιχειρήσεις;](/AlchemyInsights/issue-with-skype-for-business) | τροποποίηση |
-| 30/1/2019 | [Διαχείριση ομάδων στο Yammer](/AlchemyInsights/manage-groups-in-yammer) | τροποποίηση |
-| 30/1/2019 | [Διαχείριση λογαριασμών χρήστη συγχρονίζονται](/AlchemyInsights/manage-synchronized-user-accounts) | τροποποίηση |
-| 30/1/2019 | [Βιβλιοθήκη του SharePoint αντιστοίχιση σε μονάδα δίσκου δικτύου](/AlchemyInsights/map-sharepoint-library-to-network-drive) | τροποποίηση |
-| 30/1/2019 | [Ομάδες της Microsoft - η πρόσβαση ως Guest](/AlchemyInsights/microsoft-teamsguest-access) | τροποποίηση |
-| 30/1/2019 | [Μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από Γ οικογένεια προγραμμάτων του Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | τροποποίηση |
-| 30/1/2019 | [Μετεγκατάσταση των γραμματοκιβωτίων μεταξύ των δύο διαφορετικές μισθωτών](/AlchemyInsights/migrate-mailboxes-between-two-different-tenants) | τροποποίηση |
-| 30/1/2019 | [Μετεγκατάσταση δεδομένων δημόσιου φακέλου στο Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365-0) | τροποποίηση |
-| 30/1/2019 | [Μετεγκατάσταση δεδομένων δημόσιου φακέλου στο Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365) | τροποποίηση |
-| 30/1/2019 | [Δωρεάν εκπαίδευση για έκδοση Minecraft με το Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | τροποποίηση |
-| 30/1/2019 | [Παρακολούθηση υπό όρους πρόσβασης](/AlchemyInsights/monitoring-conditional-access) | τροποποίηση |
-| 30/1/2019 | [Η εποπτεία Intune υπό όρους πρόσβασης](/AlchemyInsights/monitoring-intune-conditional-access) | τροποποίηση |
-| 30/1/2019 | [Μετακίνηση μηνυμάτων ηλεκτρονικού ταχυδρομείου στο γραμματοκιβώτιο αρχειοθέτησης](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | τροποποίηση |
-| 30/1/2019 | [Δωρεάν εκπαίδευση για Office 365](/AlchemyInsights/office-365-education-for-free) | τροποποίηση |
-| 30/1/2019 | [Office 365 για επιχειρηματικά σχέδια και τιμολόγησης](/AlchemyInsights/office-365-for-business-plans-and-pricing) | τροποποίηση |
-| 30/1/2019 | [Office 365 για σχέδια εκπαίδευσης και τιμολόγησης](/AlchemyInsights/office-365-for-education-plans-and-pricing) | τροποποίηση |
-| 30/1/2019 | [Office 365 για εταιρικό σχέδιο](/AlchemyInsights/office-365-for-enterprise-plan) | τροποποίηση |
-| 30/1/2019 | [Office 365 για σχέδια κυβέρνησης και τιμολόγησης](/AlchemyInsights/office-365-for-government-plans-and-pricing) | τροποποίηση |
-| 30/1/2019 | [Office 365 για μη κερδοσκοπικό σχέδια και τιμολόγησης](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | τροποποίηση |
-| 30/1/2019 | [Διευθύνσεις IP και διευθύνσεις URL του Office 365](/AlchemyInsights/office-365-urls-and-ip-addresses) | τροποποίηση |
-| 30/1/2019 | [Ένα από τα πιστοποιητικά σας υπηρεσία Ομοσπονδία εσωτερικής εγκατάστασης λήγει](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | τροποποίηση |
-| 30/1/2019 | [Επιλογές πληρωμής](/AlchemyInsights/payment-options) | τροποποίηση |
-| 30/1/2019 | [Θέματα δικαιωμάτων κατά τη μετεγκατάσταση](/AlchemyInsights/permissions-issues-while-migrating) | τροποποίηση |
-| 30/1/2019 | [Προβλήματα με Microsoft Skype για επιχειρήσεις, κατά την είσοδο στην υπηρεσία Office 365](/AlchemyInsights/problems-with-microsoft-skype-for-business-when-signing-in-to-the-office-365-ser) | τροποποίηση |
-| 30/1/2019 | [Εσφαλμένες ProxyAddress](/AlchemyInsights/proxyaddress-incorrect) | τροποποίηση |
-| 30/1/2019 | [Πρόσβαση σε δημόσιους φακέλους από φορητές συσκευές](/AlchemyInsights/public-folder-access-from-mobile-devices-0) | τροποποίηση |
-| 30/1/2019 | [Υποδομή δημοσίευσης του με μια τοποθεσία επικοινωνίας](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | τροποποίηση |
-| 30/1/2019 | [Κατάργηση μιας τοποθεσίας διανομέα](/AlchemyInsights/remove-a-hub-site) | τροποποίηση |
-| 30/1/2019 | [Η κατάργηση του τελευταίου διακομιστή Exchange εσωτερικής εγκατάστασης](/AlchemyInsights/removing-the-last-on-premises-exchange-server) | τροποποίηση |
-| 30/1/2019 | [Απαιτούνται άδειες για Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | τροποποίηση |
-| 30/1/2019 | [Επαναφέρετε ή να αλλάξετε τους κωδικούς πρόσβασης](/AlchemyInsights/reset-or-change-passwords) | τροποποίηση |
-| 30/1/2019 | [Ανάκτηση διαγραμμένων χρήστη](/AlchemyInsights/restore-deleted-user) | τροποποίηση |
-| 30/1/2019 | [Οι πολιτικές διατήρησης στο Κέντρο διαχείρισης του Exchange δεν λειτουργεί](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | τροποποίηση |
-| 30/1/2019 | [Αναζήτηση για μηνύματα ηλεκτρονικού ταχυδρομείου στο γραμματοκιβώτιο αρχειοθέτησης](/AlchemyInsights/search-for-email-in-archive-mailbox) | τροποποίηση |
-| 30/1/2019 | [Αποστολή ηλεκτρονικού ταχυδρομείου ως το κοινόχρηστο γραμματοκιβώτιο](/AlchemyInsights/sending-email-as-the-shared-mailbox) | τροποποίηση |
-| 30/1/2019 | [Ορισμός κωδικών πρόσβασης χωρίς λήξη](/AlchemyInsights/set-passwords-to-never-expire) | τροποποίηση |
-| 30/1/2019 | [Ορίσετε προώθησης ηλεκτρονικού ταχυδρομείου](/AlchemyInsights/set-up-email-forwarding) | τροποποίηση |
-| 30/1/2019 | [Ορίσετε SPF](/AlchemyInsights/set-up-spf) | τροποποίηση |
-| 30/1/2019 | [Ρύθμιση της συνδρομής σας βασικά στοιχεία για την επαγγελματική O365](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | τροποποίηση |
-| 30/1/2019 | [Ρύθμιση της συνδρομής σας πριμοδότηση επαγγελματική O365](/AlchemyInsights/setting-up-your-o365-business-premium-subscription) | τροποποίηση |
-| 30/1/2019 | [Κοινόχρηστο γραμματοκιβώτιο ή το ημερολόγιο ζήτημα στο Outlook για Mac;](/AlchemyInsights/shared-mailbox-or-calendar-issue-in-outlook-for-mac) | τροποποίηση |
-| 30/1/2019 | [Ειδοποίηση εγγραφής υπολογιστή-πελάτη του Office](/AlchemyInsights/subscription-notice-on-office-client) | τροποποίηση |
-| 30/1/2019 | [Οδηγίες αναβάθμισης ομάδων](/AlchemyInsights/teams-upgrade-guidance) | τροποποίηση |
-| 30/1/2019 | [Ο τομέας είναι ήδη σε χρήση](/AlchemyInsights/the-domain-is-already-in-use) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων με το άνοιγμα με την Εξερεύνηση](/AlchemyInsights/troubleshoot-issues-using-open-with-explorer) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με το πιστοποιητικό Ώθηση MDM Apple στο Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με τη δυνατότητα DEP εγγραφής στο Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-dep-enrollment-in-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με την εγγραφή Android συσκευές στη Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με την εγγραφή συσκευών iOS στο Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με την εγγραφή συσκευές macOS στη Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με την εγγραφή συσκευών των Windows στα Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων με τις επιλογές εγγραφής Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune-0) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων με τις επιλογές εγγραφής Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων σχετικά με Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων συγχρονισμού κωδικού πρόσβασης](/AlchemyInsights/troubleshoot-password-synchronization) | τροποποίηση |
-| 30/1/2019 | [Αντιμετώπιση προβλημάτων της συμβουλής ασφάλειας για την ανίχνευση της απάτης ελέγχει](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | τροποποίηση |
-| 30/1/2019 | [Όταν προσπαθείτε να καταργήσετε τον τομέα σας;](/AlchemyInsights/trying-to-remove-your-domain) | τροποποίηση |
-| 30/1/2019 | [Προσπάθεια για να επαληθεύσετε τον τομέα σας;](/AlchemyInsights/trying-to-verify-your-domain) | τροποποίηση |
-| 30/1/2019 | [Κατάργηση εγκατάστασης προγράμματος-πελάτη Office](/AlchemyInsights/uninstall-office-client) | τροποποίηση |
-| 30/1/2019 | [Ενημέρωση εγγραφών DNS για να διατηρήσετε την τοποθεσία σας στο Web με την τρέχουσα υπηρεσία παροχής φιλοξενίας](/AlchemyInsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider) | τροποποίηση |
-| 30/1/2019 | [Ενημέρωση εγγραφών DNS](/AlchemyInsights/update-dns-records) | τροποποίηση |
-| 30/1/2019 | [Ενημέρωση του nameservers τομέα στο Office 365](/AlchemyInsights/update-your-domain-nameservers-to-office-365) | τροποποίηση |
-| 30/1/2019 | [Συγχρονισμός UPN απενεργοποιημένη](/AlchemyInsights/upn-sync-disabled) | τροποποίηση |
-| 30/1/2019 | [Επαλήθευση του τομέα](/AlchemyInsights/verify-domain) | τροποποίηση |
-| 30/1/2019 | [Προβάλετε το λογαριασμό μου](/AlchemyInsights/view-my-bill) | τροποποίηση |
-| 30/1/2019 | [122, πρέπει να δημιουργήσετε μια υπογραφή στο Outlook στο web;](/AlchemyInsights/122-need-to-create-a-signature-in-outlook-on-the-web) | τροποποίηση |
-| 30/1/2019 | [Σφάλμα στο OWA απενεργοποιημένη η 123 γρήγορα ένα λογαριασμό;](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | τροποποίηση |
-| 1/2/2019 | [ίδιο με το όνομα αρχείου είναι καλύτερη [ΚΑΝΌΝΑ #-περιγραφή]](/AlchemyInsights/1-alchemy-insight-template) | τροποποίηση |
-| 1/2/2019 | [Αλλαγή δικαιωμάτων για ένα γραμματοκιβώτιο](/AlchemyInsights/changing-permissions-on-a-mailbox) | τροποποίηση |
+| 4/3/2019 | 8000011 Outlook.com ανάκτηση διαγραμμένων ηλεκτρονικού ταχυδρομείου | Προσθήκη |
+| 4/3/2019 | [8000034 αποδεικτικά ανάγνωσης στο Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | τροποποίηση |
+| 4/3/2019 | [8000047 ΔΙΑΔΙΚΑΣΙΕΣ: Δημιουργία υπογραφής ηλεκτρονικού ταχυδρομείου στο Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | τροποποίηση |
+| 4/3/2019 | [8000086 Outlook.com Εισαγωγή εικόνας](/AlchemyInsights/80000860-outlook-com-insert-image) | Προσθήκη |
+| 4/3/2019 | [8000087 συντομεύσεις πληκτρολογίου Outlook.com](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | Προσθήκη |
+| 4/3/2019 | [8000088 αποθήκευση ηλεκτρονικού ταχυδρομείου στο Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | τροποποίηση |
+| 4/3/2019 | [8000089 Outlook.com ασφαλών αποστολέων](/AlchemyInsights/8000089-outlook-com-safe-senders) | Προσθήκη |
+| 4/3/2019 | 8000011 Outlook.com ανάκτηση διαγραμμένων ηλεκτρονικού ταχυδρομείου | Κατάργηση |
+| 4/3/2019 | 1575 PowerApps και ροής της Microsoft Σχεδιασμός επέκταση | Προσθήκη |
+| 4/3/2019 | [Αλλαγή τομέα για την ομάδα του Office 365](/AlchemyInsights/change-domain-for-group) | Μετονομασία |
+| 4/3/2019 | [1575 PowerApps και ροής της Microsoft Σχεδιασμός επέκταση](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | Μετονομασία |
+| 4/3/2019 | [Ενεργοποίηση έλεγχο ταυτότητας πολλαπλών παραγόντων](/AlchemyInsights/enable-multifactor-authentication) | τροποποίηση |
+| 4/3/2019 | [8000054 υπέρβαση ορίου αποθήκευσης του Outlook.com](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | Προσθήκη |
+| 4/3/2019 | [Ασφάλεια 423 Org - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | τροποποίηση |
+| 4/3/2019 | [8000029 αντιμετώπιση ανεπιθύμητης αλληλογραφίας ή ηλεκτρονικού "ψαρέματος" στο Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | τροποποίηση |
+| 4/3/2019 | [Κατάργηση τομέα](/AlchemyInsights/remove-domain) | τροποποίηση |
+| 4/3/2019 | [Προσθήκη χρηστών σε Office 365](/AlchemyInsights/add-users-to-office-365) | τροποποίηση |
+| 4/3/2019 | [Λαμβάνετε πάρα πολλά μηνύματα spam και ψαρεύουν στο γραμματοκιβώτιό σας;](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | τροποποίηση |
+| 4/3/2019 | [Αλλαγή NameServers](/AlchemyInsights/change-nameservers) | τροποποίηση |
+| 4/3/2019 | [Δημιουργία εφαρμογών σε PowerApps](/AlchemyInsights/create-apps-in-powerapps) | τροποποίηση |
+| 4/3/2019 | [Cutover μετεγκαταστάσεις στο Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | τροποποίηση |
+| 4/3/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues-0) | τροποποίηση |
+| 4/3/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues) | τροποποίηση |
+| 4/3/2019 | [Πώς μπορώ να προσθέσω μια πιστωτική κάρτα;](/AlchemyInsights/how-do-i-add-a-credit-card) | τροποποίηση |
+| 4/3/2019 | [Πώς μπορώ να ενημερώσω τις πληροφορίες της πιστωτικής κάρτας μου;](/AlchemyInsights/how-do-i-update-my-credit-card-information) | τροποποίηση |
+| 4/3/2019 | [Πώς να εγκαταστήσετε το Office](/AlchemyInsights/how-to-install-office) | τροποποίηση |
+| 4/3/2019 | [Μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από το IMAP](/AlchemyInsights/migrate-email-from-imap) | τροποποίηση |
+| 4/3/2019 | [Επιλογές πληρωμής](/AlchemyInsights/payment-options) | τροποποίηση |
+| 4/3/2019 | [Συνιστώμενα βήματα εάν παραβιαστεί ένας λογαριασμός](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | τροποποίηση |
+| 4/3/2019 | [Αποστολέας αποκλειστεί για αποστολή πάρα πολύ ανεπιθύμητης αλληλογραφίας](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | τροποποίηση |
+| 4/3/2019 | [Υποβολή αιτήσεων για υποστήριξη Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | τροποποίηση |
+| 4/3/2019 | [Ο τομέας είναι ήδη σε χρήση](/AlchemyInsights/the-domain-is-already-in-use) | τροποποίηση |
+| 4/3/2019 | [Προβλήματα με την ολοκλήρωση μιας αγοράς στην πύλη του Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | τροποποίηση |
+| 4/3/2019 | [Ενημέρωση εγγραφών DNS](/AlchemyInsights/update-dns-records-0) | τροποποίηση |
+| 4/3/2019 | [Ενημέρωση εγγραφών DNS](/AlchemyInsights/update-dns-records) | τροποποίηση |
+| 4/3/2019 | [Ενημέρωση λεπτομερειών πληρωμής](/AlchemyInsights/update-payment-details) | τροποποίηση |
+| 4/3/2019 | [Επαλήθευση του τομέα](/AlchemyInsights/verify-domain) | τροποποίηση |
+| 4/3/2019 | [Ρύθμιση προώθησης σε πολλές διευθύνσεις ηλεκτρονικού ταχυδρομείου](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | τροποποίηση |
+| 4/3/2019 | [Επίλυση του 'Όχι μια αποδεκτή τομέα' σφάλμα](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | τροποποίηση |
+| 6/3/2019 | [1581 ανοίξετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο στο Outlook από το web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | τροποποίηση |
+| 6/3/2019 | [Ομάδες βάρδιες](/AlchemyInsights/1686-teams-shifts) | Προσθήκη |
+| 6/3/2019 | [1703 χρειάζεστε πληροφορίες σχετικά με ομάδες και τηλέφωνα Polycom](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | Προσθήκη |
+| 6/3/2019 | [Εγκατάσταση λειτουργικής μονάδας ομάδες PS και αναφοράς](/AlchemyInsights/1787-teams-ps-module-install-ref) | Προσθήκη |
+| 6/3/2019 | [615 τύποι της κοινής χρήσης και πώς να τις ρυθμίσετε.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | τροποποίηση |
+| 6/3/2019 | [Freemium ομάδες](/AlchemyInsights/997-teams-freemium) | Προσθήκη |
+| 6/3/2019 | [Έχετε νόμιμα μηνύματα που έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία;](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | τροποποίηση |
+| 6/3/2019 | [Ενεργοποίηση ομάδες της Microsoft](/AlchemyInsights/enable-microsoft-teams) | τροποποίηση |
+| 6/3/2019 | [Έχετε ενεργοποιήσει ομάδες για τους φοιτητές σας;](/AlchemyInsights/have-you-enabled-teams-for-your-students) | τροποποίηση |
+| 6/3/2019 | [Πώς να ενεργοποιήσετε εκ νέου μια συνδρομή](/AlchemyInsights/how-to-reactivate-a-subscription) | τροποποίηση |
+| 6/3/2019 | Ανάπτυξη Intune App - 991 αναγνωριστικό κανόνα | Κατάργηση |
+| 6/3/2019 | [Πρόβλημα με το Skype για επιχειρήσεις;](/AlchemyInsights/issue-with-skype-for-business) | τροποποίηση |
+| 6/3/2019 | [Ομάδες της Microsoft - η πρόσβαση ως Guest](/AlchemyInsights/microsoft-teamsguest-access) | τροποποίηση |
+| 6/3/2019 | [Ομάδες της Microsoft - επαναφορά διαγραμμένων ομάδας τοποθεσίας](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | τροποποίηση |
+| 6/3/2019 | [Αναμετάδοσης ηλεκτρονικού ταχυδρομείου μέσω του Office 365](/AlchemyInsights/relay-email-through-office-365) | τροποποίηση |
+| 6/3/2019 | [Συγχρονισμός αρχείων του SharePoint με το πρόγραμμα-πελάτης συγχρονισμού νέα OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | τροποποίηση |
+| 6/3/2019 | [Αναβάθμιση στην πλήρη έκδοση ομάδες της Microsoft](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | τροποποίηση |
+| 7/3/2019 | [8000064 ηλεκτρονικού ταχυδρομείου Outlook.com δεν μπορεί να συγχρονίσει - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | Προσθήκη |
+| 7/3/2019 | [8000065 Outlook.com ανεπιθύμητη ανεπιθύμητα μηνύματα - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | Προσθήκη |
+| 7/3/2019 | [8000066 - έγινε εισβολή κανόνα 1 - Outlook.com - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | Προσθήκη |
+| 7/3/2019 | [8000066 - κανόνα 2 - Outlook.com έγινε εισβολή - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | Προσθήκη |
+| 7/3/2019 | [8000067 - Κλείσιμο λογαριασμού Outlook.com - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | Προσθήκη |
+| 7/3/2019 | [8000068 - Outlook.com Προσθήκη λογαριασμού - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | Προσθήκη |
+| 7/3/2019 | [8000069 - Αποκλεισμός αποστολέα Outlook.com - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | Προσθήκη |
+| 7/3/2019 | [8000070 - Outlook.com δεν είναι δυνατό να εισέλθετε - ΙΣΠΑΝΙΚΆ](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | Προσθήκη |
+| 7/3/2019 | [Ανάκτηση διαγραμμένων χρήστη](/AlchemyInsights/restore-deleted-user) | τροποποίηση |
+| 3/8/2019 | 8000043 οι ρυθμίσεις POP, IMAP και SMTP για Outlook.com | Κατάργηση |
+| 3/8/2019 | [8000043 οι ρυθμίσεις POP, IMAP και SMTP για Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | Μετονομασία |
+| 3/8/2019 | [8000071 Outlook.com επιδιόρθωση ηλεκτρονικού ταχυδρομείου συγχρονισμού - ΓΑΛΛΙΚΆ](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | Προσθήκη |
+| 3/8/2019 | [8000072 Outlook.com ανεπιθύμητης αλληλογραφίας - ΓΑΛΛΙΚΆ](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | Προσθήκη |
+| 3/8/2019 | [Έγινε εισβολή 8000073 λογαριασμού Outlook.com - ΓΑΛΛΙΚΆ](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | Προσθήκη |
+| 3/8/2019 | [8000074 Outlook.com Κλείσιμο λογαριασμού - ΓΑΛΛΙΚΆ](/AlchemyInsights/8000074-outlook-com-close-account-french) | Προσθήκη |
+| 3/8/2019 | [8000075 Outlook.com αλλαγή κωδικού - ΓΑΛΛΙΚΆ](/AlchemyInsights/8000075-outlook-com-change-password-french) | Προσθήκη |
+| 3/8/2019 | [8000076 Outlook.com Αποκλεισμός αποστολέα - ΓΑΛΛΙΚΆ](/AlchemyInsights/8000076-outlook-com-block-sender-french) | Προσθήκη |
 
 
 ## <a name="week-of-february-04-2019"></a>Εβδομάδα του Φεβρουαρίου 04, 2019
@@ -592,7 +485,7 @@
 | 11/2/2019 | [Το αρχείο ανοίγει μόνο για ανάγνωση](/AlchemyInsights/file-open-read-only) | τροποποίηση |
 | 11/2/2019 | [Βρείτε χαθεί ή λείπουν αρχεία στο OneDrive ή στο SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | τροποποίηση |
 | 11/2/2019 | [Διόρθωση μιας ροής απέτυχε](/AlchemyInsights/fix-a-failed-flow) | τροποποίηση |
-| 11/2/2019 | [Επιδιόρθωση ζητημάτων συγχρονισμού του OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | τροποποίηση |
+| 11/2/2019 | [Διορθώνει ζητήματα συγχρονισμού OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | τροποποίηση |
 | 11/2/2019 | [Επιδιόρθωση προβλημάτων συγχρονισμού του OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | τροποποίηση |
 | 11/2/2019 | [Επιδιόρθωση προβλημάτων με αποστολή αρχείων στο OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | τροποποίηση |
 | 11/2/2019 | [Προβλήματα μορφοποίησης γραμματοσειράς στο Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | τροποποίηση |
@@ -638,7 +531,7 @@
 | 2/12/2019. | ["Alchemy" - Outlook αναζήτησης δεν idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | τροποποίηση |
 | 2/12/2019. | ["Alchemy" - Δημιουργήστε πάλι το προφίλ του Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | τροποποίηση |
 | 2/12/2019. | [Βρείτε χαθεί ή λείπουν αρχεία στο OneDrive ή στο SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | τροποποίηση |
-| 2/12/2019. | [Επιδιόρθωση ζητημάτων συγχρονισμού του OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | τροποποίηση |
+| 2/12/2019. | [Διορθώνει ζητήματα συγχρονισμού OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | τροποποίηση |
 | 2/12/2019. | [Επιδιόρθωση προβλημάτων συγχρονισμού του OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | τροποποίηση |
 | 2/12/2019. | [Επιδιόρθωση προβλημάτων με αποστολή αρχείων στο OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | τροποποίηση |
 | 2/12/2019. | [Εγκατάσταση και ρύθμιση παραμέτρων OneDrive](/AlchemyInsights/install-and-configure-onedrive) | τροποποίηση |
