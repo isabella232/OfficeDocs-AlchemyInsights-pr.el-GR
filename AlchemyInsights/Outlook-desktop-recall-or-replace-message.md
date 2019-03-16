@@ -1,0 +1,40 @@
+---
+title: Το Outlook στην επιφάνεια εργασίας ανάκλησης ή αντικατάστασης ενός μηνύματος ηλεκτρονικού ταχυδρομείου
+ms.author: daeite
+author: daeite
+manager: joallard
+ms.date: 3/13/2019
+ms.audience: Admin
+ms.topic: article
+ms.custom: 9000260
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
+ms.sourcegitcommit: aad9f863bc9fd7d5522c480bd1a7d15f3a80ff4f
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "30657044"
+---
+# <a name="recall-or-replace-an-email-message"></a><span data-ttu-id="7d37b-102">Ανάκληση ή αντικατάσταση ενός μηνύματος ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="7d37b-102">Recall or replace an email message</span></span>
+
+- <span data-ttu-id="7d37b-103">Όπως το admin, μπορείτε να κάνετε **ανάκληση μηνυμάτων εκ μέρους των χρηστών χρησιμοποιώντας PowerShell**.</span><span class="sxs-lookup"><span data-stu-id="7d37b-103">As the admin, you can **recall messages on behalf of users using PowerShell**.</span></span> <span data-ttu-id="7d37b-104">Δεν μπορείτε να θυμηθείτε τα μηνύματα από το Κέντρο διαχείρισης.</span><span class="sxs-lookup"><span data-stu-id="7d37b-104">You can't recall messages from the admin center.</span></span>
+- <span data-ttu-id="7d37b-105">Μπορείτε να κάνετε **μόνο ανάκληση μηνύματα, που αποστέλλονται σε άτομα στον οργανισμό σας**.</span><span class="sxs-lookup"><span data-stu-id="7d37b-105">You can **only recall messages that are sent to people in your organization**.</span></span> <span data-ttu-id="7d37b-106">Αν το μήνυμα έχει σταλεί σε μια διεύθυνση Gmail, για παράδειγμα, δεν μπορείτε να θυμηθείτε το.</span><span class="sxs-lookup"><span data-stu-id="7d37b-106">If the message was sent to a Gmail address, for example, you can't recall it.</span></span>
+- <span data-ttu-id="7d37b-107">Μπορείτε να κάνετε **μόνο μήνυμα ανάκλησης που αποστέλλονται από το Outlook 2016 στον Υπολογιστή**.</span><span class="sxs-lookup"><span data-stu-id="7d37b-107">You can **only recall messages sent from Outlook 2016 on the PC**.</span></span> <span data-ttu-id="7d37b-108">Εάν ένας χρήστης στέλνει ένα μήνυμα χρησιμοποιώντας το Outlook για Mac ή του Outlook στο web, δεν μπορείτε να την θυμηθείτε.</span><span class="sxs-lookup"><span data-stu-id="7d37b-108">If a user sends a message using Outlook for Mac or Outlook on the web, you can't recall it.</span></span>
+
+<span data-ttu-id="7d37b-109">Για να ανακαλέσετε ή να αντικαταστήσετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου:</span><span class="sxs-lookup"><span data-stu-id="7d37b-109">To recall or replace an email message:</span></span>
+
+1. <span data-ttu-id="7d37b-110">Στο παράθυρο φακέλων στην αριστερή πλευρά του παραθύρου του Outlook, επιλέξτε το φάκελο "Απεσταλμένα".</span><span class="sxs-lookup"><span data-stu-id="7d37b-110">In the folder pane on the left of the Outlook window, select the Sent Items folder.</span></span>
+1. <span data-ttu-id="7d37b-111">Κάντε διπλό κλικ στο μήνυμα που θέλετε να ανακαλέσετε για να την ανοίξετε.</span><span class="sxs-lookup"><span data-stu-id="7d37b-111">Double-click the message you want to recall to open it.</span></span>
+1. <span data-ttu-id="7d37b-112">Επιλέξτε την καρτέλα " **μήνυμα** " και, στη συνέχεια, επιλέξτε **Ενέργειες** > **Ανάκληση του μηνύματος**.</span><span class="sxs-lookup"><span data-stu-id="7d37b-112">Select the **Message** tab, and then select **Actions** > **Recall This Message**.</span></span>
+1. <span data-ttu-id="7d37b-113">Επιλέξτε **Διαγραφή μη αναγνωσμένων αντιγράφων του μηνύματος** ή **Διαγραφή μη αναγνωσμένων αντιγράφων και αντικατάστασή τους με νέο μήνυμα**και, στη συνέχεια, επιλέξτε **OK**.</span><span class="sxs-lookup"><span data-stu-id="7d37b-113">Select **Delete unread copies of this message** or **Delete unread copies and replace with a new message**, and then select **OK**.</span></span>
+1. <span data-ttu-id="7d37b-114">Εάν στέλνετε ένα μήνυμα αντικατάστασης, συντάξτε το μήνυμα και, στη συνέχεια, επιλέξτε **Αποστολή**.</span><span class="sxs-lookup"><span data-stu-id="7d37b-114">If you're sending a replacement message, compose the message, and then select **Send**.</span></span>
+1. <span data-ttu-id="7d37b-115">Η επιτυχία ή αποτυχία της ανάκληση μηνύματος εξαρτάται από ρυθμίσεις του παραλήπτη στο Outlook.</span><span class="sxs-lookup"><span data-stu-id="7d37b-115">The success or failure of a message recall depends on the recipient's settings in Outlook.</span></span> <span data-ttu-id="7d37b-116">Για τα βήματα για να ελέγξετε την ανάκληση, ανατρέξτε στην ενότητα [αυτού του άρθρου](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).</span><span class="sxs-lookup"><span data-stu-id="7d37b-116">For steps to check on the recall, see [this article](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).</span></span>
+
+<span data-ttu-id="7d37b-117">Αναζητήστε και διαγράψτε μηνύματα ηλεκτρονικού ταχυδρομείου στην εταιρεία σας</span><span class="sxs-lookup"><span data-stu-id="7d37b-117">Search for and delete email messages in your organization</span></span>
+
+- <span data-ttu-id="7d37b-118">Εάν δεν είστε διαχειριστής της κύριας, πρέπει να προστεθεί ο λογαριασμός σας στην ηλεκτρονική ανακάλυψη ρόλος διαχείρισης ή ρόλο διαχείρισης συμμόρφωσης αναζήτησης για να αναζητήσετε μηνύματα.</span><span class="sxs-lookup"><span data-stu-id="7d37b-118">If you're not a global admin, your account must be added to the eDiscovery Manager role or Compliance Search management role to search for messages.</span></span> <span data-ttu-id="7d37b-119">Για να διαγράψετε μηνύματα, θα χρειαστεί να συμμετάσχετε στην ομάδα ρόλου διαχείρισης εταιρείας ή ο ρόλος διαχείρισης αναζήτησης και εκκαθάριση.</span><span class="sxs-lookup"><span data-stu-id="7d37b-119">To delete messages, you'll need to join the Organization Management role group or the Search and Purge management role.</span></span> <span data-ttu-id="7d37b-120">Στο [Κέντρο ασφάλειας και συμμόρφωσης](https://go.microsoft.com/fwlink/?linkid=2083731)εκχωρούνται δικαιώματα για αυτούς τους ρόλους.</span><span class="sxs-lookup"><span data-stu-id="7d37b-120">Permissions for these roles are assigned in the [Security and compliance center](https://go.microsoft.com/fwlink/?linkid=2083731).</span></span>
+- <span data-ttu-id="7d37b-121">[Δημιουργία ενός περιεχομένου αναζήτησης](https://docs.microsoft.com/office365/securitycompliance/content-search) για να βρείτε το μήνυμα για να διαγράψετε.</span><span class="sxs-lookup"><span data-stu-id="7d37b-121">[Create a content search](https://docs.microsoft.com/office365/securitycompliance/content-search) to find the message to delete.</span></span>
+- <span data-ttu-id="7d37b-122">[Συνδεθείτε με ασφάλεια και συμμόρφωση παραγωγής PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="7d37b-122">[Connect to Security and Compliance Center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).</span></span>
+
+<span data-ttu-id="7d37b-123">Εάν χρησιμοποιείτε έλεγχο ταυτότητας πολλών παραγόντων, ανατρέξτε στο θέμα [σύνδεση σε Office 365 ασφάλειας και συμμόρφωσης κέντρο PowerShell χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="7d37b-123">If you're using multi-factor authentication, see [Connect to Office 365 Security and Compliance Center PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).</span></span>
