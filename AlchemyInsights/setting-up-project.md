@@ -9,19 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Στοχεύστε 500 λέξεις για ένα άρθρο.
-ms.openlocfilehash: dd256212cc85298c62124e9311ede856ee695977
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940356"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683813"
 ---
 # <a name="setting-up-project"></a>Ορισμός έργου
 
 Φαίνεται ότι χρειάζεστε βοήθεια για τη δημιουργία έργου σας συνδρομή Office 365.
-  
 Ειδοποίηση για χρήστες Mac: αυτήν τη στιγμή δεν είναι διαθέσιμη για MacOS προϊόντος του έργου. Εάν έχετε έναν Υπολογιστή θα πρέπει να εγκαταστήσετε το λογισμικό ακολουθώντας τα παρακάτω βήματα.
   
-Μπορείτε να ακολουθήσετε τα βήματα [αυτού του άρθρου ](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx), για να λάβετε το πρόγραμμα εγκατάστασης ολοκληρώθηκε.
+Μπορείτε να ακολουθήσετε τα βήματα [αυτού του άρθρου](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx), για να λάβετε το πρόγραμμα εγκατάστασης ολοκληρώθηκε.
   
-
+Εάν εκτελείτε σε σφάλματα κατά την εγκατάσταση, [εγκαταστήστε το έργο χρησιμοποιώντας το υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SaRA-ProjectSetupScenario)
