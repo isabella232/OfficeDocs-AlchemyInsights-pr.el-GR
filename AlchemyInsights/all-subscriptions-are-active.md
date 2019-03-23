@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 30dcd5d66baecaf55cce3cbb3ae2f6d2e50fa6f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bef24376d9cffbc9eed3adf05efdff6229157bd8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905940"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764368"
 ---
-# <a name="all-subscriptions-are-active"></a><span data-ttu-id="1f796-102">Όλες οι εγγραφές είναι ενεργή</span><span class="sxs-lookup"><span data-stu-id="1f796-102">All subscriptions are Active</span></span>
+# <a name="all-subscriptions-are-active"></a><span data-ttu-id="a7e53-102">Όλες οι εγγραφές είναι ενεργή</span><span class="sxs-lookup"><span data-stu-id="a7e53-102">All subscriptions are Active</span></span>
 
-<span data-ttu-id="1f796-p101">Οι εγγραφές σας είναι ενεργή. Αυτό μπορεί να επαληθευτεί, μεταβαίνοντας στη σελίδα " [εγγραφές](https://go.microsoft.com/fwlink/p/?linkid=842054) ", ή με την επιλογή **χρέωσης** \> **εγγραφές**. Συνδρομές σας ταξινομούνται κατά κατάσταση, με τις ενεργές εγγραφές στην κορυφή. Πρόσθετες πληροφορίες, όπως άδεια πλήθος και τη μέθοδο πληρωμής, μπορείτε να δείτε, επιλέγοντας τη συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="1f796-p101">Your subscriptions are Active. This can be verified by going to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or by choosing **Billing** \> **Subscriptions**. Your subscriptions are ordered by status, with Active subscriptions at the top. Additional information, such as license count and payment method, can be seen by choosing the subscription.</span></span>
+<span data-ttu-id="a7e53-103">Οι εγγραφές σας είναι ενεργή.</span><span class="sxs-lookup"><span data-stu-id="a7e53-103">Your subscriptions are Active.</span></span> <span data-ttu-id="a7e53-104">Αυτό μπορεί να επαληθευτεί, μεταβαίνοντας στη σελίδα " [εγγραφές](https://go.microsoft.com/fwlink/p/?linkid=842054) ", ή με την επιλογή **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="a7e53-104">This can be verified by going to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or by choosing **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="a7e53-105">Συνδρομές σας ταξινομούνται κατά κατάσταση, με τις ενεργές εγγραφές στην κορυφή.</span><span class="sxs-lookup"><span data-stu-id="a7e53-105">Your subscriptions are ordered by status, with Active subscriptions at the top.</span></span> <span data-ttu-id="a7e53-106">Πρόσθετες πληροφορίες, όπως άδεια πλήθος και τη μέθοδο πληρωμής, μπορείτε να δείτε, επιλέγοντας τη συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="a7e53-106">Additional information, such as license count and payment method, can be seen by choosing the subscription.</span></span>
   
-<span data-ttu-id="1f796-107">Εάν αντιμετωπίζετε προβλήματα με την υπηρεσία σας, χρησιμοποιήστε την επιλογή "ας καλέσουν" για να συνομιλήσετε με έναν μηχανικό υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="1f796-107">If you're having problems with your service, use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="a7e53-107">Εάν αντιμετωπίζετε προβλήματα με την υπηρεσία σας, χρησιμοποιήστε την επιλογή "ας καλέσουν" για να συνομιλήσετε με έναν μηχανικό υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="a7e53-107">If you're having problems with your service, use the "Let us call you" option to talk to a support engineer.</span></span>
   
 

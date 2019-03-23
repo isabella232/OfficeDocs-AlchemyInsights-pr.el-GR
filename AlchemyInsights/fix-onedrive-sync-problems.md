@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 8cbb56016643502838e33ab4a6482e84c2b26212
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969677"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759438"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="2b052-102">Επιδιόρθωση προβλημάτων συγχρονισμού του OneDrive</span><span class="sxs-lookup"><span data-stu-id="2b052-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="f209c-102">Επιδιόρθωση προβλημάτων συγχρονισμού του OneDrive</span><span class="sxs-lookup"><span data-stu-id="f209c-102">Fix OneDrive sync problems</span></span>
 
-- <span data-ttu-id="2b052-103">Ελέγχου που μπορείτε να αποκτήσετε πρόσβαση σας OneDrive λογαριασμού online: κάντε κλικ στο εικονίδιο launcher app επάνω αριστερά και, στη συνέχεια, κάντε κλικ στο κουμπί OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2b052-103">Check that you can access your OneDrive account online: Click the app launcher icon in the upper left, and then click OneDrive.</span></span>
+- <span data-ttu-id="f209c-103">Ελέγχου που μπορείτε να αποκτήσετε πρόσβαση σας OneDrive λογαριασμού online: κάντε κλικ στο εικονίδιο launcher app επάνω αριστερά και, στη συνέχεια, κάντε κλικ στο κουμπί OneDrive.</span><span class="sxs-lookup"><span data-stu-id="f209c-103">Check that you can access your OneDrive account online: Click the app launcher icon in the upper left, and then click OneDrive.</span></span>
     
-- <span data-ttu-id="2b052-104">Βεβαιωθείτε ότι ο υπολογιστής σας είναι ενημερωμένος: [κάντε λήψη των τελευταίων ενημερωμένων εκδόσεων των Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), να [κάνετε λήψη της τελευταίας έκδοσης του OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span><span class="sxs-lookup"><span data-stu-id="2b052-104">Make sure your computer is up to date: [Download the latest Windows updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download the latest version of OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span></span>
+- <span data-ttu-id="f209c-104">Βεβαιωθείτε ότι ο υπολογιστής σας είναι ενημερωμένος: [κάντε λήψη των τελευταίων ενημερωμένων εκδόσεων των Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), να [κάνετε λήψη της τελευταίας έκδοσης του OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span><span class="sxs-lookup"><span data-stu-id="f209c-104">Make sure your computer is up to date: [Download the latest Windows updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download the latest version of OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span></span>
     
-- <span data-ttu-id="2b052-p101">Κατάργηση σύνδεσης OneDrive και εκτελέστε πάλι την εγκατάσταση OneDrive: κάντε δεξιό κλικ στο μπλε εικονίδιο σύννεφο OneDrive στην περιοχή ειδοποιήσεων, στο δεξιότερο άκρο της γραμμής εργασιών. Κάντε κλικ στην επιλογή **Ρυθμίσεις**και στη συνέχεια κάντε κλικ στο κουμπί **Αποσύνδεση αυτού του Υπολογιστή**. Ακολουθήστε τα βήματα από το Καλώς ορίσατε στον "Οδηγό" OneDrive για να ρυθμίσετε ξανά το OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2b052-p101">Unlink OneDrive and run OneDrive setup again: Right-click the blue OneDrive cloud icon in the notification area, at the far right of the taskbar. Click **Settings**, and then click **Unlink this PC**. Follow the steps in the Welcome to OneDrive wizard to set up OneDrive again.</span></span>
+- <span data-ttu-id="f209c-105">Κατάργηση σύνδεσης OneDrive και εκτελέστε πάλι την εγκατάσταση OneDrive: κάντε δεξιό κλικ στο μπλε εικονίδιο σύννεφο OneDrive στην περιοχή ειδοποιήσεων, στο δεξιότερο άκρο της γραμμής εργασιών.</span><span class="sxs-lookup"><span data-stu-id="f209c-105">Unlink OneDrive and run OneDrive setup again: Right-click the blue OneDrive cloud icon in the notification area, at the far right of the taskbar.</span></span> <span data-ttu-id="f209c-106">Κάντε κλικ στην επιλογή **Ρυθμίσεις**και στη συνέχεια κάντε κλικ στο κουμπί **Αποσύνδεση αυτού του Υπολογιστή**.</span><span class="sxs-lookup"><span data-stu-id="f209c-106">Click **Settings**, and then click **Unlink this PC**.</span></span> <span data-ttu-id="f209c-107">Ακολουθήστε τα βήματα από το Καλώς ορίσατε στον "Οδηγό" OneDrive για να ρυθμίσετε ξανά το OneDrive.</span><span class="sxs-lookup"><span data-stu-id="f209c-107">Follow the steps in the Welcome to OneDrive wizard to set up OneDrive again.</span></span>
     
-[<span data-ttu-id="2b052-108">Τα βήματα για την αντιμετώπιση προβλημάτων συγχρονισμού</span><span class="sxs-lookup"><span data-stu-id="2b052-108">More steps for troubleshooting sync problems</span></span>](https://go.microsoft.com/fwlink/?linkid=866431)
+[<span data-ttu-id="f209c-108">Τα βήματα για την αντιμετώπιση προβλημάτων συγχρονισμού</span><span class="sxs-lookup"><span data-stu-id="f209c-108">More steps for troubleshooting sync problems</span></span>](https://go.microsoft.com/fwlink/?linkid=866431)
   
 
