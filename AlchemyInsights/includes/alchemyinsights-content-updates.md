@@ -472,62 +472,16 @@
 | 22/3/2019 | [1488-Perform-eDiscovery-and-Content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | Μετονομασία |
 
 
-## <a name="week-of-february-18-2019"></a>Εβδομάδα του στις 18 Φεβρουαρίου 2019
+## <a name="week-of-march-25-2019"></a>Εβδομάδα του Μαρτίου 25 Μαΐου 2019
 
 
 | Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
 |------|------------|--------|
-| 19/2/2019 | [Παρουσιάστηκε ένα σφάλμα 'Δεν μπορεί να βρεθεί η παράμετρος';](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | τροποποίηση |
-| 19/2/2019 | [Μετακίνηση μηνύματος ηλεκτρονικού ταχυδρομείου στο Office 365](/AlchemyInsights/move-email-to-office-365) | τροποποίηση |
-| 19/2/2019 | [Ανάκτηση διαγραμμένων γραμματοκιβωτίου](/AlchemyInsights/restore-deleted-mailbox) | τροποποίηση |
-| 21/2/2019 | [Πώς να εγκαταστήσετε το Mac Office από την πύλη](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | Μετονομασία |
-| 22/2/2019 | [1048 5.7.750 υπηρεσία δεν είναι διαθέσιμη. Υπολογιστής-πελάτης που στέλνετε από τομείς που δεν έχουν καταχωρηθεί](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | τροποποίηση |
-| 22/2/2019 | [125 γρήγορα ένα σφάλμα μη έγκυρης άδειας χρήσης του Outlook στο web;](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | τροποποίηση |
-| 22/2/2019 | [126 γρήγορα ένα γραμματοκιβώτιο δεν μπορεί να βρεθεί σφάλμα στο OWA;](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | τροποποίηση |
-| 22/2/2019 | [127 γρήγορα ένα TenantAccessBlockedException σφάλμα κατά την πρόσβαση σε ηλεκτρονικό ταχυδρομείο;](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | τροποποίηση |
-| 22/2/2019 | [128 γρήγορα ένα TenantAccessBlockedException σφάλμα κατά την πρόσβαση σε ηλεκτρονικό ταχυδρομείο;](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | τροποποίηση |
-| 22/2/2019 | [711 δημιουργώντας μια λίστα διανομής ή μια ομάδα](/AlchemyInsights/711-creating-a-distribution-list-or-group) | τροποποίηση |
-| 22/2/2019 | [912 Εισερχόμενα Focused ρύθμιση για όλους τους χρήστες στον οργανισμό σας](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | τροποποίηση |
-| 22/2/2019 | [Κατάργηση τομέα](/AlchemyInsights/remove-domain) | τροποποίηση |
-| 22/2/2019 | [Προσθήκη μιας ομάδας σε μια τοποθεσία του SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | τροποποίηση |
-| 22/2/2019 | [Προσθέστε ένα άλλο ψευδώνυμο ηλεκτρονικού ταχυδρομείου](/AlchemyInsights/add-another-email-alias) | τροποποίηση |
-| 22/2/2019 | [Προσθήκη επαφών σε ομάδα O365](/AlchemyInsights/add-contacts-to-o365-group) | τροποποίηση |
-| 22/2/2019 | [Αλλαγή UPN](/AlchemyInsights/change-upn) | τροποποίηση |
-| 22/2/2019 | [Αλλαγή των δικαιωμάτων του δημόσιου φακέλου](/AlchemyInsights/changing-public-folder-permissions) | τροποποίηση |
-| 22/2/2019 | [Αλλαγή κοινόχρηστο γραμματοκιβώτιο Αποστολή ως συμπεριφορά](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | τροποποίηση |
-| 22/2/2019 | [Έλεγχος κατάστασης συγχρονισμού AAD ταυτότητας](/AlchemyInsights/check-aad-identity-sync-status) | τροποποίηση |
-| 22/2/2019 | [Συγκρίνετε τα σχέδια Office 365](/AlchemyInsights/compare-office-365-plans) | τροποποίηση |
-| 22/2/2019 | [Δημιουργήστε μια τοποθεσία κλασικό](/AlchemyInsights/create-a-classic-site) | τροποποίηση |
-| 22/2/2019 | [Δημιουργία τοποθεσίας στο SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | τροποποίηση |
-| 22/2/2019 | [Δημιουργία δημόσιων φακέλων](/AlchemyInsights/creating-public-folders) | τροποποίηση |
-| 22/2/2019 | [Διαγραφή μιας τοποθεσίας του SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | τροποποίηση |
-| 22/2/2019 | [Παραχωρήσετε στους χρήστες πρόσβαση στο SharePoint και OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | τροποποίηση |
-| 22/2/2019 | [Παρουσιάστηκε ένα σφάλμα 'Δεν μπορεί να βρεθεί η παράμετρος';](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | τροποποίηση |
-| 22/2/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues-0) | τροποποίηση |
-| 22/2/2019 | [Αντιμετωπίζετε ζητήματα παράδοσης ηλεκτρονικού ταχυδρομείου;](/AlchemyInsights/having-email-delivery-issues) | τροποποίηση |
-| 22/2/2019 | [Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | τροποποίηση |
-| 22/2/2019 | [Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;](/AlchemyInsights/having-issues-getting-outlook-to-connect) | τροποποίηση |
-| 22/2/2019 | [Τρόπος εκχώρησης αδειών χρήσης του Office για χρήστες Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | τροποποίηση |
-| 22/2/2019 | [Πώς να αγοράσετε άδειες χρήσης για τη συνδρομή σας επαγγελματική Office 365](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | τροποποίηση |
-| 22/2/2019 | [ΔΙΑΔΙΚΑΣΙΕΣ: αύξηση του χώρου αποθήκευσης στο OneDrive για την επιχείρηση](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | τροποποίηση |
-| 22/2/2019 | [Πώς να ενεργοποιήσετε εκ νέου μια συνδρομή](/AlchemyInsights/how-to-reactivate-a-subscription) | τροποποίηση |
-| 22/2/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου για Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | τροποποίηση |
-| 22/2/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου για SKU SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | τροποποίηση |
-| 22/2/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου](/AlchemyInsights/increase-mailbox-size) | τροποποίηση |
-| 22/2/2019 | [Πρόβλημα με το Skype για επιχειρήσεις;](/AlchemyInsights/issue-with-skype-for-business) | τροποποίηση |
-| 22/2/2019 | [Διαχείριση λογαριασμών χρήστη συγχρονίζονται](/AlchemyInsights/manage-synchronized-user-accounts) | τροποποίηση |
-| 22/2/2019 | [Παρακολούθηση χρήσης του OneDrive και του SharePoint και δραστηριότητα](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | τροποποίηση |
-| 22/2/2019 | [Επανενεργοποίηση της συνδρομής](/AlchemyInsights/reactivate-a-subscription) | τροποποίηση |
-| 22/2/2019 | [Επαναφορά ενός διαγραμμένου OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | τροποποίηση |
-| 22/2/2019 | [Επαναφορά μιας ομάδας 365 του Office χρησιμοποιώντας το Κέντρο διαχείρισης του Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | τροποποίηση |
-| 22/2/2019 | [Ρύθμιση της συνδρομής σας βασικά στοιχεία για την επαγγελματική O365](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | τροποποίηση |
-| 22/2/2019 | [Κοινή χρήση με εξωτερικούς χρήστες δεν λειτουργεί](/AlchemyInsights/sharing-with-external-users-isn-t-working) | τροποποίηση |
-| 22/2/2019 | [Προσπαθείτε να βρείτε μια δοκιμαστική έκδοση;](/AlchemyInsights/trying-to-find-a-trial) | τροποποίηση |
-| 22/2/2019 | [Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | τροποποίηση |
-| 22/2/2019 | [Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | τροποποίηση |
-| 22/2/2019 | [Δικαιώματα χρήστη](/AlchemyInsights/user-permissions) | τροποποίηση |
-| 22/2/2019 | [Όταν δημιουργείται η δήλωση χρέωσης;](/AlchemyInsights/when-is-the-billing-statement-generated) | τροποποίηση |
-| 22/2/2019 | [Πώς μπορείτε να επαληθεύσετε τον τομέα σας με Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | τροποποίηση |
+| 25/3/2019 | [Αλλαγή γλώσσας Outlook.com](/AlchemyInsights/outlook-com-change-language) | τροποποίηση |
+| 27/3/2019 | [Διαγραφή μιας τοποθεσίας του SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | τροποποίηση |
+| 28/3/2019 | Περιορισμός του SharePoint Online σε κλασική προβολή | Προσθήκη |
+| 28/3/2019 | [Δεν είναι δυνατή η προσθήκη προεπιλεγμένη ροή εργασίας έγκρισης 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | τροποποίηση |
+| 28/3/2019 | [Περιορισμός του SharePoint Online σε κλασική προβολή](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | Μετονομασία |
 
 
 ## <a name="week-of-february-25-2019"></a>Εβδομάδα του 25 Φεβρουαρίου 2019
