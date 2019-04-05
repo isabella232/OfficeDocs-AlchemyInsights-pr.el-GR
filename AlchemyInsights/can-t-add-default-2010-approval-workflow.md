@@ -9,14 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: fd630f0f3411b2c65fbd88fffedca3ec80f50c33
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8c6dabcc63ff45be8811fe109517be3098b3ecee
+ms.sourcegitcommit: b14aa00b42ce4ca9d7dc3aa1fd57e66eae115447
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936251"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30951109"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Δεν είναι δυνατή η προσθήκη προεπιλεγμένη ροή εργασίας έγκρισης 2010
 
 Σε μια συλλογή τοποθεσιών του Microsoft SharePoint, δεν μπορείτε να προσθέσετε μια ροή εργασίας με δυνατότητα επανάληψης χρήσης καθολικά, (όπως "έγκριση - SharePoint 2010") σε μια λίστα ή βιβλιοθήκη. Η ροή εργασίας έγκρισης μπορεί να λείπει. Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε για να [είναι δυνατή η προσθήκη μιας ροής εργασίας με δυνατότητα επανάληψης χρήσης καθολικά, για μια λίστα ή βιβλιοθήκη SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
+
+Για περισσότερες πληροφορίες σχετικά με τις εγκρίσεις ροής εργασίας, ανατρέξτε στην ενότητα [για ροές εργασίας έγκρισης] (https://support.office.com/en-us/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+ 
+Μάθετε περισσότερα σχετικά με το [σύγχρονη εγκρίσεις ροής] (https://flow.microsoft.com/en-us/blog/introducing-modern-approvals). 
   
