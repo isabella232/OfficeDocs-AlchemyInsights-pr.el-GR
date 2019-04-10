@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 81f966e1c759003765a6a6a82988a5fbb456e3c0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759762"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747922"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Διαχειριστείτε το χώρο αποθήκευσης στο δίκτυο του SharePoint
 
 Για τις περισσότερες εταιρείες, τα χώρο αποθήκευσης SharePoint γίνεται αυτόματα, επομένως δεν χρειάζεται να ορίσετε όρια ανά συλλογή τοποθεσιών. Για να ελέγξετε πόσο χώρο αποθήκευσης SharePoint που έχετε:
   
-- Στο κλασικό στο Κέντρο διαχείρισης του SharePoint, στην επάνω δεξιά πλευρά της σελίδας συλλογές της τοποθεσίας, αναζητήστε το διαθέσιμο και το συνολικό χώρο αποθήκευσης.
+- Στο νέο στο Κέντρο διαχείρισης του SharePoint, στην επάνω δεξιά πλευρά της σελίδα "τοποθεσίες", αναζητήστε το διαθέσιμο και το συνολικό χώρο αποθήκευσης.
     
 Για πληροφορίες σχετικά με τον τρόπο υπολογισμού του ορίου, ανατρέξτε στην ενότητα [Ορίων σύνδεσης του SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Για να αγοράσετε επιπλέον χώρο αποθήκευσης, ανατρέξτε στο θέμα [Αλλαγή αποθηκευτικού χώρου για τη συνδρομή σας](https://go.microsoft.com/fwlink/?linkid=866428).
   

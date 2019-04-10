@@ -1,6 +1,6 @@
 ---
 title: Δημιουργία τοποθεσίας στο SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764584"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747742"
 ---
 # <a name="create-a-site"></a>Δημιουργία μιας τοποθεσίας
 
-Μπορείτε να δημιουργήσετε διαφορετικούς τύπους τοποθεσιών στο SharePoint Online. Για να δημιουργήσετε έναν νέο τύπο τοποθεσίας, ανατρέξτε στα παρακάτω θέματα.
-  
-- [Δημιουργήστε μια τοποθεσία ομάδας που έχει μια ομάδα Office 365](https://go.microsoft.com/fwlink/?linkid=866292)
+Μπορείτε να δημιουργήσετε διαφορετικούς τύπους τοποθεσιών στο SharePoint Online. Για να μάθετε πώς να το κάνετε αυτό στο νέο κέντρο διαχείρισης του SharePoint, ανατρέξτε στην ενότητα " [Δημιουργία τοποθεσίας](https://go.microsoft.com/fwlink/?linkid=866295)". Για πληροφορίες σχετικά με τη δυνατότητα στους χρήστες να δημιουργούν τις δικές τους τοποθεσίες, ανατρέξτε στο θέμα [Διαχείριση δημιουργίας τοποθεσίας στο SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+Για πληροφορίες σχετικά με τους νέους τύπους τοποθεσιών, ανατρέξτε στην ενότητα [ομάδας συνδεδεμένη ομάδα τοποθεσιών](https://go.microsoft.com/fwlink/?linkid=866292) ή [τοποθεσίες επικοινωνίας](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Δημιουργήστε μια τοποθεσία επικοινωνίας με την ηλεκτρονική του SharePoint](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-Μπορείτε επίσης να δημιουργήσετε αυτές τις τοποθεσίες από την νέα προεπισκόπηση Κέντρο διαχείρισης του SharePoint.
-  
-Για να δημιουργήσετε μια τοποθεσία classic, κάντε ένα από τα εξής:
-  
-- Μεταβείτε στη [σελίδα "τοποθεσίες" στο Κέντρο διαχείρισης Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)και, στη συνέχεια, επιλέξτε **Προσθήκη μιας τοποθεσίας**.
-    
-- Στο κλασικό στο Κέντρο διαχείρισης του SharePoint, στη σελίδα "συλλογές τοποθεσιών", επιλέξτε **νέα** \> **Ιδιωτικό συλλογής τοποθεσιών**.
-    
-Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Δημιουργία μιας συλλογής τοποθεσιών](https://go.microsoft.com/fwlink/?linkid=866295). Για πληροφορίες σχετικά με τη δυνατότητα στους χρήστες να δημιουργούν τις δικές τους τοποθεσίες, ανατρέξτε στο θέμα [Διαχείριση δημιουργίας τοποθεσίας στο SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 
