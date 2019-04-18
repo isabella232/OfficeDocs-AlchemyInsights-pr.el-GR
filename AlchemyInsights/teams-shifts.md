@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1686
-ms.openlocfilehash: 64327d37216a3fbf379f52fcb9e723676edbe1a1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 77d5e2d924197fb529fe23a3f496d828000c951c
+ms.sourcegitcommit: 31fad829e53a293e5ec474785f16ccc23494aa8d
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781927"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31914738"
 ---
 # <a name="using-teams-shifts"></a>Χρησιμοποιώντας ομάδες βάρδιες
 
 Η εφαρμογή βάρδιες σε ομάδες επιτρέπει χρόνο γρήγορη και αποτελεσματική διαχείριση και ανακοίνωση για ομάδες πρώτης γραμμής. Με αυτόν τον τρόπο οι διαχειριστές και οι υπάλληλοι χρησιμοποιούν τις φορητές συσκευές για τη Διαχείριση χρονοδιαγραμμάτων και κρατήστε επαφή.
 
-Για να μάθετε περισσότερα ανατρέξτε στην ενότητα [Διαχείριση του app βάρδιες για τον οργανισμό σας σε ομάδες της Microsoft](https://docs.microsoft.com/en-us/microsoftteams/manage-the-shifts-app-for-your-organization-in-teams). Θα μπορείτε να λάβετε πληροφορίες σχετικά με τον τρόπο για να λάβετε τις βάρδιες και να τη ρυθμίσετε.
+Για να μάθετε περισσότερα ανατρέξτε [μεταφέρεται σε ομάδες](https://docs.microsoft.com/en-us/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Θα μπορείτε να λάβετε πληροφορίες σχετικά με τον τρόπο για να λάβετε τις βάρδιες και να τη ρυθμίσετε.
 
 Εάν έχετε ήδη ενεργοποιήσει τις βάρδιες, ανάγνωση [Γρήγορα αποτελέσματα σε βάρδιες](https://support.office.com/en-us/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) για να μάθετε πώς μπορείτε να δημιουργήσετε χρονοδιαγράμματα.
 
