@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 77e9a6f21702189aa7ec4b56323b92eb0766bd08
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775487"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903664"
 ---
 # <a name="change-your-language"></a>Αλλαγή της γλώσσας
 
-1. Στην επάνω δεξιά γωνία, επιλέξτε **Ρυθμίσεις** \> **Επιλογές**.
+1. Στην επάνω δεξιά γωνία, επιλέξτε **Ρυθμίσεις** \> **προβάλετε όλες τις ρυθμίσεις Outlook**.
     
-2. Στην ενότητα **Επιλογές**, επιλέξτε **Γενική** \> **περιοχής και ζώνης ώρας**.
+2. Στην περιοχή **Γενικά**, επιλέξτε [**γλώσσα και την ώρα**](https://outlook.live.com/mail/options/general/timeAndLanguage).
     
-3. Στην περιοχή **Τοπικές ρυθμίσεις και ρυθμίσεις ζώνης ώρας**, επιλέξτε τη γλώσσα σας.
+3. Επιλέξτε τη γλώσσα σας.
     
 4. Επιλέξτε **Αποθήκευση**.
     

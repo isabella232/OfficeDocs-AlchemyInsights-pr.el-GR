@@ -10,15 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: 4b76cc006933a266d51ad06f6f5d2cf1a460a840
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7e28c8593639a759876f2a91c7d6ffefdeef77a4
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781577"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903628"
 ---
 # <a name="how-to-change-your-layout"></a>Πώς μπορείτε να αλλάξετε τη διάταξη
 
-Είναι εύκολο να αλλάξετε τις ρυθμίσεις στο Outlook.com έτσι φαίνεται και συμπεριφέρεται όπως θέλετε να. Επιλέξτε τις **Ρυθμίσεις** της γραμμής εργαλείων για να δείτε τις επιλογές σας. 
+Είναι εύκολο να αλλάξετε τις ρυθμίσεις στο Outlook.com έτσι φαίνεται και συμπεριφέρεται όπως θέλετε να. Επιλέξτε τις **Ρυθμίσεις** της γραμμής εργαλείων για τις πιο δημοφιλείς επιλογές. 
+
+Για να δείτε όλες τις επιλογές διάταξης, επιλέξτε **Ρυθμίσεις** > **Mail** > [**διάταξη**](https://outlook.live.com/mail/options/mail/layout). 
   
 
