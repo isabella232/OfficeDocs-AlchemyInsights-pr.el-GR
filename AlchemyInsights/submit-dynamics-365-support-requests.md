@@ -1,5 +1,5 @@
 ---
-title: Υποβολή αιτήσεων για υποστήριξη Dynamics 365
+title: Υποβολή αιτήσεων υποστήριξης του Dynamics 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404711"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767140"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>Υποβολή αιτήσεων για υποστήριξη Dynamics 365
+# <a name="submit-dynamics-365-support-requests"></a>Υποβολή αιτήσεων υποστήριξης του Dynamics 365
 
-Εάν είστε πελάτης της **Microsoft Dynamics πελάτη αρραβώνα** υποβάλετε το εισιτήριο μέσω της νέας [ενέργειας πλατφόρμα Κέντρο διαχείρισης](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+Εάν είστε πελάτης του **Microsoft Dynamics Customer Engagement**, υποβάλετε το δελτίο σας μέσω του νέου [Κέντρου διαχείρισης της πλατφόρμας Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-Η νέα πύλη παρέχει μια πιο απευθείας διαδρομή για υποστήριξη που είναι βελτιστοποιημένη για την πρόσληψη πελάτη Dynamics και σε άλλα προϊόντα πλατφόρμα ενέργειας.
+Η νέα πύλη παρέχει μια πιο άμεση διαδρομή προς την υποβοηθούμενη υποστήριξη που έχει βελτιστοποιηθεί για το Dynamics Customer Engagement και άλλα προϊόντα της πλατφόρμας Power.
   
 

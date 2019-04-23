@@ -1,5 +1,5 @@
 ---
-title: Προσθήκη χρηστών σε Office 365
+title: Προσθήκη χρηστών στο Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404783"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753462"
 ---
-# <a name="add-a-user-to-office-365"></a>Προσθέσετε ένα χρήστη στο Office 365
+# <a name="add-a-user-to-office-365"></a>Προσθήκη ενός χρήστη στο Office 365
 
-Χρησιμοποιήστε αυτά τα βήματα για να προσθέσετε ένα χρήστη στο Office 365:
+Ακολουθήστε τα παρακάτω βήματα για να προσθέσετε έναν χρήστη στο Office 365:
   
-1. Μετάβαση σε [Ενεργούς χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (ή από το αριστερό nav επιλογή **χρηστών** \> **ενεργοί χρήστες**).
+1. Μεταβείτε στην περιοχή [Ενεργοί χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (εναλλακτικά, στο αριστερό παράθυρο περιήγησης επιλέξτε **Χρήστες** \> **Ενεργοί χρήστες**).
     
 2. Κάντε κλικ στην επιλογή **Προσθήκη χρήστη**.
     
-3. Συμπληρώστε τις πληροφορίες για το χρήστη. Όταν τελειώσετε, επιλέξτε **Προσθήκη** . 
+3. Συμπληρώστε τις πληροφορίες για το χρήστη. Επιλέξτε **Προσθήκη** όταν τελειώσετε. 
     
 [Διαβάστε περισσότερα...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   

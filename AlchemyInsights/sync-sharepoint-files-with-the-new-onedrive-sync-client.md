@@ -1,5 +1,5 @@
 ---
-title: Συγχρονισμός αρχείων του SharePoint με το πρόγραμμα-πελάτης συγχρονισμού νέα OneDrive
+title: Συγχρονισμός αρχείων του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού για το OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469023"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747346"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Συγχρονισμός αρχείων του SharePoint με το πρόγραμμα-πελάτης συγχρονισμού νέα OneDrive
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Συγχρονισμός αρχείων του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού για το OneDrive
 
-1. Στο κλασικό Κέντρο διαχείρισης του SharePoint, επιλέξτε " **Ρυθμίσεις**".
+1. Στο νέο κέντρο διαχείρισης SharePoint, κάντε κλικ στην επιλογή **Ρυθμίσεις**.
     
-2. Βεβαιωθείτε ότι το "Κουμπί συγχρονισμού OneDrive" έχει οριστεί σε "Εμφάνιση το κουμπί συγχρονισμού".
+2. Βεβαιωθείτε ότι στη ρύθμιση "Κουμπί συγχρονισμού του OneDrive" έχει οριστεί η τιμή "Εμφάνιση του κουμπιού Συγχρονισμός". 
     
-3. Για το "Συγχρονισμός προγράμματος-πελάτη για SharePoint," επιλέξτε **Έναρξη το νέο πρόγραμμα-πελάτη**.
+3. Για το στοιχείο "Πρόγραμμα-πελάτης συγχρονισμού για το SharePoint", επιλέξτε **Έναρξη του νέου προγράμματος-πελάτη**.
     
     > [!NOTE]
-    > Εάν αυτή η επιλογή δεν εμφανίζεται, ο οργανισμός σας είναι ρυθμισμένη να χρησιμοποιήσετε τον υπολογιστή-πελάτη συγχρονισμού νέα OneDrive για το συγχρονισμό αρχείων του SharePoint. 
+    > Εάν αυτή η επιλογή δεν εμφανίζεται, ο οργανισμός σας έχει ρυθμιστεί ήδη ώστε να χρησιμοποιεί το νέο πρόγραμμα-πελάτη συγχρονισμού OneDrive για τον συγχρονισμό αρχείων του SharePoint. 
   
 4. Κάντε κλικ στο κουμπί **OK**.
     
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [επιτρέπουν στους χρήστες να συγχρονίσετε αρχεία του SharePoint με το πρόγραμμα-πελάτης συγχρονισμού νέα OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Για οδηγίες για να δώσετε στους χρήστες σας, δείτε [αρχεία συγχρονισμού του SharePoint με τον υπολογιστή-πελάτη συγχρονισμού νέα OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Επιτρέψτε στους χρήστες να συγχρονίζουν αρχεία του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Για οδηγίες που μπορείτε να δώσετε στους χρήστες, ανατρέξτε στο θέμα [Συγχρονισμός αρχείων του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
   
 
