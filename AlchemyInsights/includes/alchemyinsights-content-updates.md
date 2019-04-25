@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Εβδομάδα του Μαρτίου 11 Μαΐου 2019
-
-
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
-|------|------------|--------|
-| 3/12/2019. | 8000054 Outlook.com εισερχομένων δεν πραγματοποιεί φόρτωση | Προσθήκη |
-| 3/12/2019. | [8000078 Outlook.com εισερχομένων δεν πραγματοποιεί φόρτωση](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | Μετονομασία |
-| 3/12/2019. | [8000078 Outlook.com εισερχομένων δεν πραγματοποιεί φόρτωση](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | τροποποίηση |
-| 13/3/2019 | [Μεταγωγή ηλεκτρονικού ταχυδρομείου μέσω του Office 365](/AlchemyInsights/relay-email-through-office-365) | τροποποίηση |
-| 14/3/2019 | [ίδιο με το όνομα αρχείου είναι καλύτερη [ΚΑΝΌΝΑ #-περιγραφή]](/AlchemyInsights/1-alchemy-insight-template) | τροποποίηση |
-| 14/3/2019 | [Αύξηση του μεγέθους του γραμματοκιβωτίου](/AlchemyInsights/increase-mailbox-size) | τροποποίηση |
-| 15/3/2019 | [Το Outlook στην επιφάνεια εργασίας ανάκλησης ή αντικατάστασης ενός μηνύματος ηλεκτρονικού ταχυδρομείου](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | Προσθήκη |
-
-
 ## <a name="week-of-march-18-2019"></a>Εβδομάδα του Μαρτίου 18 Μαΐου 2019
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [932 AADConnect αναβάθμιση](/AlchemyInsights/upgrading-aadconnect) | τροποποίηση |
 | 12/4/2019 | [725 το ψευδώνυμο ηλεκτρονικού ταχυδρομείου χρήση σε κινητή συσκευή](/AlchemyInsights/using-email-alias-on-mobile-device) | τροποποίηση |
 | 12/4/2019 | [Σφάλμα Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | τροποποίηση |
+
+
+## <a name="week-of-april-15-2019"></a>Εβδομάδα του στις 15 Απριλίου 2019
+
+
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+|------|------------|--------|
+| 15/4/2019 | ["Alchemy" - διαγνώσετε και να επιλύσετε ζητήματα συνδεσιμότητας στο Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | τροποποίηση |
+| 15/4/2019 | ["Alchemy" - Δημιουργήστε πάλι το προφίλ του Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | τροποποίηση |
+| 15/4/2019 | [Τεχνολογία DLP ίσως χρειαστεί έναν προσαρμοσμένο τύπο](/AlchemyInsights/dlp-might-need-custom-type) | Προσθήκη |
+| 15/4/2019 | [Τεχνολογία DLP δεν λειτουργεί όπως αναμένεται](/AlchemyInsights/dlp-not-working-as-expected) | τροποποίηση |
+| 15/4/2019 | [Συμβουλές πολιτικής DLP δεν λειτουργεί](/AlchemyInsights/dlp-policy-tips-not-working) | τροποποίηση |
+| 15/4/2019 | [Outlook.com σφάλμα 550](/AlchemyInsights/outlook-com-error-550) | Προσθήκη |
+| 15/4/2019 | [Outlook.com πάνω από το όριο](/AlchemyInsights/outlook-com-over-quota) | Προσθήκη |
+| 15/4/2019 | [Κατάργηση Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | Προσθήκη |
+| 15/4/2019 | [Κατάργηση Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | Προσθήκη |
+| 15/4/2019 | [Εκτελέστε SaRA για να διαγνώσετε το 182 &amp; επιλύσετε ζητήματα ελέγχου ταυτότητας του Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | τροποποίηση |
+| 16/4/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | τροποποίηση |
+| 16/4/2019 | [Κατάργηση Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | τροποποίηση |
+| 16/4/2019 | [8000088 αποθήκευση ηλεκτρονικού ταχυδρομείου στο Outlook.com](/AlchemyInsights/outlook-com-save-emails) | τροποποίηση |
+| 16/4/2019 | [8000052 επισύναψη αρχείων στο Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | τροποποίηση |
+| 16/4/2019 | [8000015 αποκλεισμός ή κατάργηση αποκλεισμού αποστολέων](/AlchemyInsights/block-or-unblock-senders) | τροποποίηση |
+| 16/4/2019 | [8000014 τρόπος για να αλλάξετε τη γλώσσα στο Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | τροποποίηση |
+| 16/4/2019 | [8000059 τρόπος να αλλάξετε τη διάταξη](/AlchemyInsights/how-to-change-your-layout) | τροποποίηση |
+| 16/4/2019 | [8000033 τρόπος να απαντήσετε ή προώθηση μηνυμάτων με την έκδοση beta του Outlook.com](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | τροποποίηση |
+| 16/4/2019 | [8000055 τρόπος για να εισέλθετε σε ή από Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | τροποποίηση |
+| 16/4/2019 | [8000062 η μετακίνηση ενός φακέλου στο Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | τροποποίηση |
+| 16/4/2019 | [Αυτόματη εφαρμογή ετικετών ευαισθησίας](/AlchemyInsights/auto-apply-sensitivity-labels) | Προσθήκη |
+| 16/4/2019 | [Ετικέτες ευαισθησία δεν εμφανίζονται](/AlchemyInsights/sensitivity-labels-not-appearing) | Προσθήκη |
+| 16/4/2019 | [Νέες ετικέτες διατήρησης που δημιουργούνται αυτόματα](/AlchemyInsights/new-retention-labels-created-automatically) | Προσθήκη |
+| 16/4/2019 | [Του SharePoint και τα αρχεία καταγραφής ελέγχου OneDrive](/AlchemyInsights/classic-sharepoint-audit-log-reports) | Προσθήκη |
+| 16/4/2019 | [Προσδιορισμός συμβάντα μήνυμα διαγραφής αρχείων καταγραφής ελέγχου](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | Προσθήκη |
+| 16/4/2019 | [Προσδιορισμός προώθησης ηλεκτρονικού ταχυδρομείου εξωτερικών σε γραμματοκιβώτια στα αρχεία καταγραφής ελέγχου](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | Προσθήκη |
+| 16/4/2019 | [Προσδιορισμός δραστηριότητας κανόνα εισερχομένων αρχείων καταγραφής ελέγχου](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | Προσθήκη |
+| 16/4/2019 | [Προσδιορίστε τη διεύθυνση IP και υπολογιστή-πελάτη, αρχείων καταγραφής ελέγχου](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | Προσθήκη |
+| 16/4/2019 | [Επιδιόρθωση αρχείου .pst πριν από την εισαγωγή](/AlchemyInsights/repair-pst-before-importing) | Προσθήκη |
+| 16/4/2019 | [Κλασική αναφορές αρχείου καταγραφής ελέγχου του SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | Προσθήκη |
+| 16/4/2019 | [Κλασική αναφορές αρχείου καταγραφής ελέγχου του SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | τροποποίηση |
+| 16/4/2019 | [Προσδιορισμός προώθησης ηλεκτρονικού ταχυδρομείου εξωτερικών σε γραμματοκιβώτια στα αρχεία καταγραφής ελέγχου](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | τροποποίηση |
+| 16/4/2019 | [Προσδιορισμός δραστηριότητας κανόνα εισερχομένων αρχείων καταγραφής ελέγχου](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | τροποποίηση |
+| 16/4/2019 | [Κλασική αναφορές αρχείου καταγραφής ελέγχου του SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | τροποποίηση |
+| 17/4/2019 | [Επιδιορθώστε προβλήματα παράδοσης ηλεκτρονικού ταχυδρομείου για δημόσιους φακέλους με δυνατότητα αλληλογραφίας](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | Προσθήκη |
+| 17/4/2019 | [Ομάδες βάρδιες](/AlchemyInsights/teams-shifts) | τροποποίηση |
+| 18/4/2019 | [8000011 ανάκτηση διαγραμμένων ηλεκτρονικού ταχυδρομείου στο Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | τροποποίηση |

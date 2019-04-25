@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 7419c95c10808dac0bf203df307be1124a52fcb7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763612"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417601"
 ---
 # <a name="how-to-purchase-education-offer"></a>Πώς να αγοράσετε την προσφορά εκπαίδευσης
 
 Που έχουν εγκριθεί για την εκπαίδευση του Office 365. Για να προμηθευτείτε:
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) ή επιλέξτε **Χρέωση** \> **Συνδρομές**.
     
 2. Επιλέξτε τη δοκιμαστική έκδοση για **μαθητές ή πανεπιστημιακής σχολής**.
     
