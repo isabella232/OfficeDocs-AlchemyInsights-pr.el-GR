@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: bf6d6736eaf281bcd03f2fe8a204c8e42c81822f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766636"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398150"
 ---
-# <a name="change-your-password"></a><span data-ttu-id="ae18b-102">Αλλαγή του κωδικού πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="ae18b-102">Change your password</span></span>
+# <a name="change-your-password"></a><span data-ttu-id="187c0-102">Αλλαγή του κωδικού πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="187c0-102">Change your password</span></span>
 
-<span data-ttu-id="ae18b-103">Εάν ξεχάσατε τον κωδικό πρόσβασής σας, μεταβείτε στο [λογαριασμό Microsoft σελίδα επαναφοράς κωδικού πρόσβασης](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="ae18b-103">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span> <span data-ttu-id="ae18b-104">Διαφορετικά, ακολουθήστε τις παρακάτω οδηγίες.</span><span class="sxs-lookup"><span data-stu-id="ae18b-104">Otherwise, follow the instructions below.</span></span>
+<span data-ttu-id="187c0-103">Εάν ξεχάσατε τον κωδικό πρόσβασής σας, μεταβείτε στο [λογαριασμό Microsoft σελίδα επαναφοράς κωδικού πρόσβασης](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="187c0-103">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span> <span data-ttu-id="187c0-104">Διαφορετικά, ακολουθήστε τις παρακάτω οδηγίες.</span><span class="sxs-lookup"><span data-stu-id="187c0-104">Otherwise, follow the instructions below.</span></span>
   
-1. <span data-ttu-id="ae18b-105">Επιλέξτε την εικόνα ή το όνομα προφίλ σας στην επάνω δεξιά γωνία και επιλέξτε **Προβολή λογαριασμού**.</span><span class="sxs-lookup"><span data-stu-id="ae18b-105">Select your name or profile picture in the top right corner and select **View account**.</span></span> 
+1. <span data-ttu-id="187c0-105">Επιλέξτε την εικόνα ή το όνομα προφίλ σας στην επάνω δεξιά γωνία και επιλέξτε **Προβολή λογαριασμού**.</span><span class="sxs-lookup"><span data-stu-id="187c0-105">Select your name or profile picture in the top right corner and select **View account**.</span></span> 
     
-2. <span data-ttu-id="ae18b-106">Στην περιοχή του Hello!</span><span class="sxs-lookup"><span data-stu-id="ae18b-106">Under the Hello!</span></span> <span data-ttu-id="ae18b-107">πανό, επιλέξτε **Αλλαγή κωδικού πρόσβασης**.</span><span class="sxs-lookup"><span data-stu-id="ae18b-107">banner, select **Change password**.</span></span> 
+2. <span data-ttu-id="187c0-106">Στην περιοχή του Hello!</span><span class="sxs-lookup"><span data-stu-id="187c0-106">Under the Hello!</span></span> <span data-ttu-id="187c0-107">πανό, επιλέξτε **Αλλαγή κωδικού πρόσβασης**.</span><span class="sxs-lookup"><span data-stu-id="187c0-107">banner, select **Change password**.</span></span> 
     
-3. <span data-ttu-id="ae18b-108">Επιλέξτε έναν νέο κωδικό πρόσβασης και επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="ae18b-108">Choose a new password and select **Save**.</span></span> 
+3. <span data-ttu-id="187c0-108">Επιλέξτε έναν νέο κωδικό πρόσβασης και επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="187c0-108">Choose a new password and select **Save**.</span></span> 
     
-<span data-ttu-id="ae18b-109">Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αλλαγή του κωδικού πρόσβασής μου στο Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span><span class="sxs-lookup"><span data-stu-id="ae18b-109">To learn more, see [Change my password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span></span>
+<span data-ttu-id="187c0-109">Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αλλαγή του κωδικού πρόσβασής μου στο Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span><span class="sxs-lookup"><span data-stu-id="187c0-109">To learn more, see [Change my password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span></span>
   
 

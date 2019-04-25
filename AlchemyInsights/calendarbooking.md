@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 398
 ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
 ms.openlocfilehash: 7bf3891186e5d5f5a56011bafad2c907fc048562
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857952"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396326"
 ---
-# <a name="issues-with-microsoft-bookings"></a><span data-ttu-id="06f9c-102">Ζητήματα με το Microsoft κρατήσεις</span><span class="sxs-lookup"><span data-stu-id="06f9c-102">Issues with Microsoft Bookings</span></span>
+# <a name="issues-with-microsoft-bookings"></a><span data-ttu-id="188d6-102">Ζητήματα με το Microsoft κρατήσεις</span><span class="sxs-lookup"><span data-stu-id="188d6-102">Issues with Microsoft Bookings</span></span>
 
-<span data-ttu-id="06f9c-103">Για να αντιμετωπίσετε ζητήματα με τη νέα δυνατότητα του Microsoft κρατήσεις, ανατρέξτε [στα άρθρα κρατήσεις](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span><span class="sxs-lookup"><span data-stu-id="06f9c-103">To troubleshoot issues with the new Microsoft Bookings feature, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span></span>
+<span data-ttu-id="188d6-103">Για να αντιμετωπίσετε ζητήματα με τη νέα δυνατότητα του Microsoft κρατήσεις, ανατρέξτε [στα άρθρα κρατήσεις](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span><span class="sxs-lookup"><span data-stu-id="188d6-103">To troubleshoot issues with the new Microsoft Bookings feature, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span></span>
