@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.openlocfilehash: 8deaeb9eb4ac53dfb0f81167ddda896f3ae50b4f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901008"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371406"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="018fb-102">Κατάργηση τομέα σας GoDaddy από το Office 365</span><span class="sxs-lookup"><span data-stu-id="018fb-102">Remove your GoDaddy domain from Office 365</span></span>
+# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="5fa5e-102">Κατάργηση τομέα σας GoDaddy από το Office 365</span><span class="sxs-lookup"><span data-stu-id="5fa5e-102">Remove your GoDaddy domain from Office 365</span></span>
 
-<span data-ttu-id="018fb-p101">Εμείς δεν καταργήσετε τομέα σας GoDaddy από το Office 365 για εσάς. Καλέστε [GoDaddy εξυπηρέτησης πελατών](https://www.godaddy.com/contact-us.aspx.aspx) για βοήθεια.</span><span class="sxs-lookup"><span data-stu-id="018fb-p101">We can't remove your GoDaddy domain from Office 365 for you. Call [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) for help.</span></span> 
+<span data-ttu-id="5fa5e-103">Εμείς δεν καταργήσετε τομέα σας GoDaddy από το Office 365 για εσάς.</span><span class="sxs-lookup"><span data-stu-id="5fa5e-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="5fa5e-104">Καλέστε [GoDaddy εξυπηρέτησης πελατών](https://www.godaddy.com/contact-us.aspx.aspx) για βοήθεια.</span><span class="sxs-lookup"><span data-stu-id="5fa5e-104">Call [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) for help.</span></span> 
   
 

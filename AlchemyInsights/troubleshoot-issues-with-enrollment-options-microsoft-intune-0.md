@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.openlocfilehash: 03677ad3e2b9183796890fe993a305476521eae8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924804"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420412"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="ea277-102">Αντιμετώπιση προβλημάτων με τις επιλογές εγγραφής Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="ea277-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="4c53b-102">Αντιμετώπιση προβλημάτων με τις επιλογές εγγραφής Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="4c53b-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="ea277-103">Εξετάστε τους πόρους που αναφέρονται παρακάτω για να επιλύσετε το θέμα σας τώρα.</span><span class="sxs-lookup"><span data-stu-id="ea277-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="4c53b-103">Εξετάστε τους πόρους που αναφέρονται παρακάτω για να επιλύσετε το θέμα σας τώρα.</span><span class="sxs-lookup"><span data-stu-id="4c53b-103">Review the resources listed below to resolve your issue now.</span></span> 
   
-- <span data-ttu-id="ea277-104">[Αναθεώρηση Intune TechNet για να βρείτε απαντήσεις και λύσεις σε συνηθισμένα προβλήματα](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="ea277-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="4c53b-104">[Αναθεώρηση Intune TechNet για να βρείτε απαντήσεις και λύσεις σε συνηθισμένα προβλήματα](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="4c53b-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
     
-- <span data-ttu-id="ea277-p101">Χρησιμοποιήστε [Πύλη του Intune αντιμετώπιση προβλημάτων](https://aka.ms/intunetroubleshooting) για να διαγνώσετε και να επιλύσετε συνηθισμένα σφάλματα εγγραφής. Αναθεωρήστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.</span><span class="sxs-lookup"><span data-stu-id="ea277-p101">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+- <span data-ttu-id="4c53b-105">Χρησιμοποιήστε [Πύλη του Intune αντιμετώπιση προβλημάτων](https://aka.ms/intunetroubleshooting) για να διαγνώσετε και να επιλύσετε συνηθισμένα σφάλματα εγγραφής.</span><span class="sxs-lookup"><span data-stu-id="4c53b-105">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="4c53b-106">Αναθεωρήστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.</span><span class="sxs-lookup"><span data-stu-id="4c53b-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-- <span data-ttu-id="ea277-107">Αναθεωρήστε [αυτό το έγγραφο](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) για μια λίστα κοινών σφαλμάτων που εμποδίζουν εγγραφής και λύσεις για κάθε μία.</span><span class="sxs-lookup"><span data-stu-id="ea277-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+- <span data-ttu-id="4c53b-107">Αναθεωρήστε [αυτό το έγγραφο](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) για μια λίστα κοινών σφαλμάτων που εμποδίζουν εγγραφής και λύσεις για κάθε μία.</span><span class="sxs-lookup"><span data-stu-id="4c53b-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-- <span data-ttu-id="ea277-108">[Μάθετε σχετικά με τις επιλογές εγγραφής στο Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="ea277-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="4c53b-108">[Μάθετε σχετικά με τις επιλογές εγγραφής στο Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="4c53b-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
     
 
