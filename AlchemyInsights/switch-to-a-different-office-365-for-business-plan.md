@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: eda1feb55a22a21849b6d017600b7c47e49b5174
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753642"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420900"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Μεταβείτε σε ένα διαφορετικό Office 365 για Επιχειρησιακό σχέδιο
 
 Όταν η επιχειρηματική σας δραστηριότητα αλλάξει ή χρειάζεται περισσότερες δυνατότητες στο Office 365, μπορείτε να μεταβείτε σχέδια.
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) ή επιλέξτε **Χρέωση** \> **Συνδρομές**.
     
 2. Επιλέξτε **σχέδια διακόπτη** , για να προβάλετε τη λίστα των νέων σχεδίων που είναι διαθέσιμες. 
     
