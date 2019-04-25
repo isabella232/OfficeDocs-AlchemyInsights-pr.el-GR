@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
 ms.openlocfilehash: 2d284dd4b53fcd1c2b0d094cd16662d3686c6912
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899784"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406522"
 ---
-# <a name="data-location"></a><span data-ttu-id="339f0-102">Θέση δεδομένων</span><span class="sxs-lookup"><span data-stu-id="339f0-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="d5f7a-102">Θέση δεδομένων</span><span class="sxs-lookup"><span data-stu-id="d5f7a-102">Data location</span></span>
 
-<span data-ttu-id="339f0-p101">Εμείς διατηρεί πολλά αντίγραφα των δεδομένων σας σε κέντρα δεδομένων για πλεονασμό. [Δείτε όπου βρίσκεται τα δεδομένα σας](https://office.com/datamaps). Εάν μας αναπτύξετε τη θέση των δεδομένων σας σε μια νέα χώρα ή περιοχή, θα σας δώσουμε προειδοποίηση ενός μηνός.</span><span class="sxs-lookup"><span data-stu-id="339f0-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
+<span data-ttu-id="d5f7a-103">Εμείς διατηρεί πολλά αντίγραφα των δεδομένων σας σε κέντρα δεδομένων για πλεονασμό.</span><span class="sxs-lookup"><span data-stu-id="d5f7a-103">We maintain multiple copies of your data across datacenters for redundancy.</span></span> <span data-ttu-id="d5f7a-104">[Δείτε όπου βρίσκεται τα δεδομένα σας](https://office.com/datamaps).</span><span class="sxs-lookup"><span data-stu-id="d5f7a-104">[See where your data is located](https://office.com/datamaps).</span></span> <span data-ttu-id="d5f7a-105">Εάν μας αναπτύξετε τη θέση των δεδομένων σας σε μια νέα χώρα ή περιοχή, θα σας δώσουμε προειδοποίηση ενός μηνός.</span><span class="sxs-lookup"><span data-stu-id="d5f7a-105">If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
   
-<span data-ttu-id="339f0-106">Για περισσότερες πληροφορίες σχετικά με την ασφάλεια, προστασία προσωπικών δεδομένων και συμμόρφωσης Office 365, ανατρέξτε στο [Κέντρο αξιοπιστίας του Office 365](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="339f0-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
+<span data-ttu-id="d5f7a-106">Για περισσότερες πληροφορίες σχετικά με την ασφάλεια, προστασία προσωπικών δεδομένων και συμμόρφωσης Office 365, ανατρέξτε στο [Κέντρο αξιοπιστίας του Office 365](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="d5f7a-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
   
 
