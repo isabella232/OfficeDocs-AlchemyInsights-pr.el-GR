@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 1047
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
 ms.openlocfilehash: 907f74c5a20a45ef8bf111de5f7671485e189e91
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859608"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397116"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="4ae64-103">Δεν επιτρέπεται η πρόσβαση 550 5.7.708, κυκλοφορία δεν γίνονται δεκτές από IP</span><span class="sxs-lookup"><span data-stu-id="4ae64-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="e0b78-103">Δεν επιτρέπεται η πρόσβαση 550 5.7.708, κυκλοφορία δεν γίνονται δεκτές από IP</span><span class="sxs-lookup"><span data-stu-id="e0b78-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="4ae64-104">Αυτό το σφάλμα παρουσιάζεται κατά την αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου από γνωστή, χαμηλή φήμη διευθύνσεις IP που χρησιμοποιούνται συνήθως από νέους πελάτες.</span><span class="sxs-lookup"><span data-stu-id="4ae64-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="e0b78-104">Αυτό το σφάλμα παρουσιάζεται κατά την αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου από γνωστή, χαμηλή φήμη διευθύνσεις IP που χρησιμοποιούνται συνήθως από νέους πελάτες.</span><span class="sxs-lookup"><span data-stu-id="e0b78-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="4ae64-105">Αν πρέπει να στείλετε μήνυμα ηλεκτρονικού ταχυδρομείου από αυτές τις διευθύνσεις IP, πριν να αγοράσετε άδειες χρήσης, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση, μέχρι να είστε σε θέση να αγοράσετε άδειες χρήσης.</span><span class="sxs-lookup"><span data-stu-id="4ae64-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="e0b78-105">Αν πρέπει να στείλετε μήνυμα ηλεκτρονικού ταχυδρομείου από αυτές τις διευθύνσεις IP, πριν να αγοράσετε άδειες χρήσης, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση, μέχρι να είστε σε θέση να αγοράσετε άδειες χρήσης.</span><span class="sxs-lookup"><span data-stu-id="e0b78-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
