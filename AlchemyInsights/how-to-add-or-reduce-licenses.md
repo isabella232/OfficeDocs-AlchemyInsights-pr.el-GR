@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767428"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400023"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Πώς μπορείτε να προσθέσετε ή να μειώσετε τις άδειες χρήσης
 
 Ακολουθεί ο τρόπος για να καταργήσετε ή να αγοράσετε περισσότερες άδειες χρήσης.
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή επιλέξτε **χρέωσης** \> **εγγραφές**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) ή επιλέξτε **Χρέωση** \> **Συνδρομές**.
     
 2. Στα αριστερά, επιλέξτε την εγγραφή από την οποία θέλετε να προσθέσετε/καταργήσετε άδειες χρήσης
     

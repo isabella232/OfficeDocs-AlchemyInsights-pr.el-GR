@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
 ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 601aec31e6556286fe5e0fd62827a037cbb6fe17
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31030976"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420303"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Αντιμετώπιση προβλημάτων σχετικά με το Office 365 ATP
 
