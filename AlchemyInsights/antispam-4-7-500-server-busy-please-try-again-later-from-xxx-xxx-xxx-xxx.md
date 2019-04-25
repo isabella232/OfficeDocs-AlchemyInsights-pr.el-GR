@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 1050
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
 ms.openlocfilehash: a06614e3f5995099c3b38c1836712cb3d396b6b5
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858240"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397152"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="efada-103">4.7.500 ο διακομιστής είναι απασχολημένος, δοκιμάστε ξανά αργότερα</span><span class="sxs-lookup"><span data-stu-id="efada-103">4.7.500 Server busy, please try again later</span></span>
+# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="f27fd-103">4.7.500 ο διακομιστής είναι απασχολημένος, δοκιμάστε ξανά αργότερα</span><span class="sxs-lookup"><span data-stu-id="f27fd-103">4.7.500 Server busy, please try again later</span></span>
 
-<span data-ttu-id="efada-104">Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο βάσει της φήμης (ή έλλειψη φήμη) διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="efada-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="f27fd-104">Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο βάσει της φήμης (ή έλλειψη φήμη) διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="f27fd-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="efada-105">Αποκλεισμός ηλεκτρονικό ταχυδρομείο από τη διεύθυνση IP προέλευσης θα λήξει μέσα σε μία ώρα.</span><span class="sxs-lookup"><span data-stu-id="efada-105">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="efada-106">Εάν η διεύθυνση IP προέλευσης είναι ένας διακομιστής ηλεκτρονικού ταχυδρομείου εσωτερικής εγκατάστασης που ανήκει σε εσάς, επαληθεύστε τις ρυθμίσεις παραμέτρων της υπηρεσίας σύνδεσης ροή αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="efada-106">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="efada-107">Εάν η συμπεριφορά εξακολουθεί για περισσότερο από μία ώρα, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση για τη διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="efada-107">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="f27fd-105">Αποκλεισμός ηλεκτρονικό ταχυδρομείο από τη διεύθυνση IP προέλευσης θα λήξει μέσα σε μία ώρα.</span><span class="sxs-lookup"><span data-stu-id="f27fd-105">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="f27fd-106">Εάν η διεύθυνση IP προέλευσης είναι ένας διακομιστής ηλεκτρονικού ταχυδρομείου εσωτερικής εγκατάστασης που ανήκει σε εσάς, επαληθεύστε τις ρυθμίσεις παραμέτρων της υπηρεσίας σύνδεσης ροή αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="f27fd-106">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="f27fd-107">Εάν η συμπεριφορά εξακολουθεί για περισσότερο από μία ώρα, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση για τη διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="f27fd-107">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
