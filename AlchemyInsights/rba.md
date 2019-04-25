@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
 ms.openlocfilehash: ab392a174358fc9c3da7a3c7272973743a6c4002
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857736"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371118"
 ---
-# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="5abe8-102">Ζητήματα με τα γραμματοκιβώτια δωμάτιο</span><span class="sxs-lookup"><span data-stu-id="5abe8-102">Issues with room mailboxes</span></span>
+# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="323f1-102">Ζητήματα με τα γραμματοκιβώτια δωμάτιο</span><span class="sxs-lookup"><span data-stu-id="323f1-102">Issues with room mailboxes</span></span>
 
-<span data-ttu-id="5abe8-103">Για περισσότερες πληροφορίες σχετικά με τα γραμματοκιβώτια δωμάτιο, ανατρέξτε στην ενότητα [Δημιουργία και διαχείριση γραμματοκιβώτια δωμάτιο](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="5abe8-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="323f1-103">Για περισσότερες πληροφορίες σχετικά με τα γραμματοκιβώτια δωμάτιο, ανατρέξτε στην ενότητα [Δημιουργία και διαχείριση γραμματοκιβώτια δωμάτιο](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="323f1-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
