@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401184"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867938"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="db769-102">Διορθώνει ζητήματα αναζήτησης με την ανακατασκευή του καταλόγου σας άμεση αναζήτηση</span><span class="sxs-lookup"><span data-stu-id="db769-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="eb857-102">Αντιμετώπιση προβλημάτων αναζήτησης</span><span class="sxs-lookup"><span data-stu-id="eb857-102">Troubleshoot search issues</span></span>
 
-1. <span data-ttu-id="db769-103">Κλείστε το Outlook και ανοίξτε **Τον πίνακα ελέγχου**.</span><span class="sxs-lookup"><span data-stu-id="db769-103">Close Outlook and open **Control Panel**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="db769-104">Ανάλογα με την έκδοση του Office που χρησιμοποιείτε, ίσως χρειαστεί να κάνετε κλικ στο κουμπί **Έναρξη** και στο μενού " **Έναρξη** ", κάντε δεξιό κλικ στο **Πίνακα ελέγχου**.</span><span class="sxs-lookup"><span data-stu-id="db769-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
-  
-2. <span data-ttu-id="db769-105">Κάντε ένα από τα εξής:</span><span class="sxs-lookup"><span data-stu-id="db769-105">Do one of the following:</span></span>
-    
-  - <span data-ttu-id="db769-106">Επιλέξτε " **Επιλογές ευρετηρίου**".</span><span class="sxs-lookup"><span data-stu-id="db769-106">Choose **Indexing Options**.</span></span>
-    
-  - <span data-ttu-id="db769-107">Στο πλαίσιο **αναζήτησης** , πληκτρολογήστε *ευρετηρίου* και, στη συνέχεια, επιλέξτε **Επιλογές ευρετηρίου**.</span><span class="sxs-lookup"><span data-stu-id="db769-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
-    
-3. <span data-ttu-id="db769-108">Στο παράθυρο διαλόγου " **Θέσεις ευρετηρίου** ", στην περιοχή **Αλλαγή επιλεγμένων θέσεων**, επιλέξτε το πλαίσιο ελέγχου για τη θέση που θέλετε να τροποποιήσετε και, στη συνέχεια, κάντε κλικ στο κουμπί **OK**.</span><span class="sxs-lookup"><span data-stu-id="db769-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
-    
-4. <span data-ttu-id="db769-109">Στο παράθυρο διαλόγου **Επιλογές για προχωρημένους** , στην καρτέλα " **Ρυθμίσεις ευρετηρίου** ", στην ενότητα **Αντιμετώπιση προβλημάτων**, κάντε κλικ στο κουμπί **αναδόμηση**.</span><span class="sxs-lookup"><span data-stu-id="db769-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="db769-110">Ένα **Αναδόμηση ευρετηρίου** παράθυρο διαλόγου ανοίγει προειδοποίηση που το "ευρετήριο μπορεί να διαρκέσει πολύ χρόνο για να ολοκληρωθεί."</span><span class="sxs-lookup"><span data-stu-id="db769-110">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete."</span></span> <span data-ttu-id="db769-111">Επιλέξτε **OK** για να ξεκινήσει η αναδημιουργία του ευρετηρίου.</span><span class="sxs-lookup"><span data-stu-id="db769-111">Choose **OK** to start rebuilding the index.</span></span> 
-  
-<span data-ttu-id="db769-112">Για περισσότερες πληροφορίες, δείτε το γνωστό θέμα [αποτελέσματα αναζήτησης για λογαριασμούς POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="db769-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
-  
+<span data-ttu-id="eb857-103">Εάν αντιμετωπίζετε προβλήματα με την αναζήτηση, ανατρέξτε στις συνδέσεις κάτω από για την αντιμετώπιση προβλημάτων στη Βοήθεια.</span><span class="sxs-lookup"><span data-stu-id="eb857-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
 
+<span data-ttu-id="eb857-104">Αυτά είναι τα πιο συνηθισμένα ζητήματα, και είναι ένα καλό σημείο για να ξεκινήσετε:</span><span class="sxs-lookup"><span data-stu-id="eb857-104">These are the most common issues, and are a good place to start:</span></span>
+- [<span data-ttu-id="eb857-105">Αναζήτηση του Outlook επιστρέφει κανένα αποτέλεσμα</span><span class="sxs-lookup"><span data-stu-id="eb857-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="eb857-106">Outlook αναζήτηση επιστρέφει μη ολοκληρωμένα αποτελέσματα</span><span class="sxs-lookup"><span data-stu-id="eb857-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="eb857-107">Αναζήτηση του Outlook δεν μπορεί να βρει παλαιότερα μηνύματα ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="eb857-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+<span data-ttu-id="eb857-108">Εδώ, μπορείτε να βρείτε πιθανές λύσεις για λιγότερο συνηθισμένα προβλήματα:</span><span class="sxs-lookup"><span data-stu-id="eb857-108">Possible solutions for less common problems can be found here:</span></span>
+- [<span data-ttu-id="eb857-109">Μόνο το Outlook 2016: γκρίζο χρώμα καρτέλα "Αναζήτηση"</span><span class="sxs-lookup"><span data-stu-id="eb857-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="eb857-110">Κοινόχρηστο γραμματοκιβώτιο: Προβλήματα με αποτελέσματα αναζήτησης</span><span class="sxs-lookup"><span data-stu-id="eb857-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="eb857-111">Σφάλμα: Απόδοση αναζήτησης θα να επηρεαστεί εξαιτίας ενός προβλήματος με τη ρύθμιση παραμέτρων του Outlook</span><span class="sxs-lookup"><span data-stu-id="eb857-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="eb857-112">Φάκελοι αναζήτησης εμφανίζονται μη αναμενόμενα στοιχεία PersonMetadata με κανένα θέμα</span><span class="sxs-lookup"><span data-stu-id="eb857-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
