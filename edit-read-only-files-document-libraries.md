@@ -1,0 +1,21 @@
+---
+title: Επεξεργασία ενός αρχείου μόνο για ανάγνωση
+ms.author: kirks
+author: Techwriter40
+ms.date: 9/10/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
+ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34718957"
+---
+# <a name="edit-a-read-only-file"></a>Επεξεργασία ενός αρχείου μόνο για ανάγνωση
+
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Ενδέχεται να διαπιστώσετε ότι όταν ανοίγετε αρχεία, ανοίγουν ως μόνο για ανάγνωση. Σε ορισμένες περιπτώσεις, αυτό είναι για πρόσθετη ασφάλεια, όπως όταν ανοίγετε αρχεία από το internet και άλλες φορές, αυτό μπορεί να οφείλεται σε μια ρύθμιση που μπορεί να αλλάξει. Στο άρθρο &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">Γιατί ανοιχτό στο αρχείο μόνο για ανάγνωση</span></a> &rdquo; παραθέτουμε ορισμένα σενάρια όπου ένα αρχείο ανοίγει μόνο για ανάγνωση και ορισμένα βήματα που μπορείτε να ακολουθήσετε για να το αλλάξετε.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Εδώ&rsquo;s τρόπος για να ανοίξετε το office αρχεία για επεξεργασία.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Αντί να κάνετε κλικ στον τίτλο του εγγράφου, κάντε κλικ στο <strong>Μενού "Άνοιγμα"</strong> (τις τρεις τελείες) και, στη συνέχεια, κάντε κλικ στο κουμπί <strong>Επεξεργασία</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Σημειώσεις:</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Εάν έχετε&rsquo;d έχετε αρκετά έγγραφα ανοιχτά για επεξεργασία στο Office Online, όταν κάνετε κλικ στον τίτλο, μπορείτε να ρυθμίσετε τη βιβλιοθήκη για να γίνει αυτό, (με την προϋπόθεση ότι έχετε δικαίωμα να αλλάξετε τις ρυθμίσεις της βιβλιοθήκης):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Εάν έχετε βιβλιοθήκες με <strong style="box-sizing: border-box;">ανάληψη ελέγχου</strong>, <strong style="box-sizing: border-box;">απαιτούμενες </strong>στήλες/μεταδεδομένα,&nbsp;ή όταν <strong style="box-sizing: border-box;">Ασφάλεια στοιχείου Προχείρου</strong> έχει οριστεί είτε σε&nbsp;<strong style="box-sizing: border-box;">μόνο τους χρήστες ποιος μπορεί να επεξεργαστεί</strong> ή&nbsp;<strong style="box-sizing: border-box;">μόνο οι χρήστες που μπορούν να εγκρίνουν στοιχεία</strong> στην έκδοση Ρυθμίσεις από μια βιβλιοθήκη εγγράφων του SharePoint, τα στοιχεία αυτά θα συγχρονιστούν ως <strong style="mso-bidi-font-weight: normal;">μόνο για ανάγνωση.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Ένα έγγραφο του Office ανοίγει σε προστατευμένη προβολή, ακόμα και αν ενεργοποιήσετε τη ρύθμιση πολιτικής "Open Office documents ως μόνο για ανάγνωση κατά την περιήγηση". Για περισσότερες πληροφορίες, ανατρέξτε σε αυτό το <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">άρθρο.</span></a></span></li> </ul>
+
