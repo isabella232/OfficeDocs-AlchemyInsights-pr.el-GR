@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.openlocfilehash: 045c29520ec60f9f093d3c9f129213213826466e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243368"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757678"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Αντιμετώπιση προβλημάτων σφάλματος 404, το αρχείο δεν βρέθηκε
 
@@ -20,13 +20,13 @@ ms.locfileid: "33243368"
 
 Για να επιλύσετε το σφάλμα 404 για μια τοποθεσία που έχει μετονομαστεί, μετακινηθεί ή διαγραφεί:
 
-Για κλασική τοποθεσίες που υπάρχουν στο Κέντρο διαχείρισης κλασικό, δείτε [Επαναφορά μιας συλλογής τοποθεσιών διαγράφηκε](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Για κλασική τοποθεσίες που υπάρχουν στο Κέντρο διαχείρισης κλασικό, δείτε [Επαναφορά μιας συλλογής τοποθεσιών διαγράφηκε](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 
-Για τα σύγχρονα τοποθεσίες (επικοινωνίας, ομάδα συνδεδεμένος, ή άλλες τοποθεσίες) που υπάρχουν στο νέο κέντρο διαχείρισης του SharePoint, ανατρέξτε στο θέμα [Προβολή και επαναφορά διαγραφή τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Για τα σύγχρονα τοποθεσίες (επικοινωνίας, ομάδα συνδεδεμένος, ή άλλες τοποθεσίες) που υπάρχουν στο νέο κέντρο διαχείρισης του SharePoint, ανατρέξτε στο θέμα [Προβολή και επαναφορά διαγραφή τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 Για να επιλύσετε το σφάλμα 404 για ένα αρχείο (ή άλλο στοιχείο) που έχει μετονομαστεί, μετακινηθεί ή διαγραφεί:
 
-Μεταβείτε στην τοποθεσία του SharePoint ή OneDrive και να προβάλετε τον Κάδο Ανακύκλωσης από το περιεχόμενο της τοποθεσίας. Δείτε [Επαναφορά στοιχείων από τον Κάδο Ανακύκλωσης μιας τοποθεσίας του SharePoint](https://support.office.com/en-us/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Μεταβείτε στην τοποθεσία του SharePoint ή OneDrive και να προβάλετε τον Κάδο Ανακύκλωσης από το περιεχόμενο της τοποθεσίας. Δείτε [Επαναφορά στοιχείων από τον Κάδο Ανακύκλωσης μιας τοποθεσίας του SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Εάν εξακολουθείτε να μην μπορείτε να βρείτε το στοιχείο που μπορείτε να κάνετε αναζήτηση στο αρχείο καταγραφής ελέγχου, εάν η καταγραφή ενεργοποιείται δείτε, [Αναζήτηση ελέγχου σύνδεσης του & ασφαλείας για το Office 365 κέντρο συμμόρφωσης](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Εάν εξακολουθείτε να μην μπορείτε να βρείτε το στοιχείο που μπορείτε να κάνετε αναζήτηση στο αρχείο καταγραφής ελέγχου, εάν η καταγραφή ενεργοποιείται δείτε, [Αναζήτηση ελέγχου σύνδεσης του & ασφαλείας για το Office 365 κέντρο συμμόρφωσης](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

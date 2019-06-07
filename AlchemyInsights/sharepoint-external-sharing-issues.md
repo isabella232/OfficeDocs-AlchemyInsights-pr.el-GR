@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: c97e9d2b8c14bbff8215b28933ebf36b0e3b2c04
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 091d134e99ab82f0a08b3c8e3a150d96fe03dc5d
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735948"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760166"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ενεργοποιήσετε την κοινή χρήση εξωτερικών στο SharePoint Online
 
 Εάν το εξωτερικό χρήστη έχει προσκληθεί και δεν είναι δυνατή η πρόσβαση στο περιεχόμενο, Παρακαλώ δοκιμάστε να επισκεφθείτε τις παρακάτω συνδέσεις.
 
-- [Μήνυμα λάθους όταν εξωτερικό χρήστη αποδέχεται μια πρόσκληση σε ηλεκτρονική SharePoint χρησιμοποιώντας έναν άλλο λογαριασμό](https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Μήνυμα λάθους όταν εξωτερικό χρήστη αποδέχεται μια πρόσκληση σε ηλεκτρονική SharePoint χρησιμοποιώντας έναν άλλο λογαριασμό](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
 
 - [Η πρόσβαση σε έναν κοινόχρηστο φάκελο](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
 
-- [OSE κοινή χρήση σφάλματα στο Sharepoint και OneDrive](https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message)
+- [OSE κοινή χρήση σφάλματα στο Sharepoint και OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
