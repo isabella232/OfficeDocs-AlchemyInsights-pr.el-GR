@@ -2,7 +2,7 @@
 title: 615 Τύποι κοινής χρήσης και πώς μπορείτε να τους ρυθμίσετε.
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.custom:
 - "615"
 - "878"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: feaa70c077f50cfd76ac2efedd8760462482a840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 30861fe6ae092d18dbe6fe47e722ea32f47dc425
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389723"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757642"
 ---
-# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a><span data-ttu-id="240b4-102">Διαφορετικοί τύποι κοινόχρηστων ημερολογίων και πώς μπορείτε να τα ρυθμίσετε.</span><span class="sxs-lookup"><span data-stu-id="240b4-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a><span data-ttu-id="76148-102">Διαφορετικοί τύποι κοινόχρηστων ημερολογίων και πώς μπορείτε να τα ρυθμίσετε.</span><span class="sxs-lookup"><span data-stu-id="76148-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="240b4-103">Δημιουργία κοινόχρηστου γραμματοκιβωτίου</span><span class="sxs-lookup"><span data-stu-id="240b4-103">Create a shared mailbox</span></span>](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
+- [<span data-ttu-id="76148-103">Δημιουργία κοινόχρηστου γραμματοκιβωτίου</span><span class="sxs-lookup"><span data-stu-id="76148-103">Create a shared mailbox</span></span>](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
 
-- [<span data-ttu-id="240b4-104">Γραμματοκιβώτια αίθουσας και εξοπλισμού</span><span class="sxs-lookup"><span data-stu-id="240b4-104">Room and equipment mailboxes</span></span>](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)
+- [<span data-ttu-id="76148-104">Γραμματοκιβώτια αίθουσας και εξοπλισμού</span><span class="sxs-lookup"><span data-stu-id="76148-104">Room and equipment mailboxes</span></span>](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)
 
-- [<span data-ttu-id="240b4-105">Δημιουργία ομάδας ημερολογίου</span><span class="sxs-lookup"><span data-stu-id="240b4-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="76148-105">Δημιουργία ομάδας ημερολογίου</span><span class="sxs-lookup"><span data-stu-id="76148-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="240b4-106">Κοινή χρήση ημερολογίου του Outlook με άλλους</span><span class="sxs-lookup"><span data-stu-id="240b4-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="76148-106">Κοινή χρήση ημερολογίου του Outlook με άλλους</span><span class="sxs-lookup"><span data-stu-id="76148-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="240b4-107">Εάν δεν μπορείτε να δείτε πληροφορίες διαθεσιμότητας ημερολογίου σε άλλα ημερολόγια ή, εάν άλλα άτομα δεν μπορούν να δουν τις πληροφορίες διαθεσιμότητας στο ημερολόγιό σας, χρησιμοποιήστε το εργαλείο [Βοηθός υποστήριξης και αποκατάστασης του Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="240b4-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="76148-107">Εάν δεν μπορείτε να δείτε πληροφορίες διαθεσιμότητας ημερολογίου σε άλλα ημερολόγια ή, εάν άλλα άτομα δεν μπορούν να δουν τις πληροφορίες διαθεσιμότητας στο ημερολόγιό σας, χρησιμοποιήστε το εργαλείο [Βοηθός υποστήριξης και αποκατάστασης του Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="76148-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
