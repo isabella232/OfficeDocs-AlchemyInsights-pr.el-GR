@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716857"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760741"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ενεργοποιήσετε την κοινή χρήση εξωτερικών στο SharePoint Online
 
-Εάν ο οργανισμός σας εκτελεί κάποια λειτουργία που περιλαμβάνει την κοινή χρήση εγγράφων ή συνεργασία απευθείας με προμηθευτές, πελάτες ή πελάτες και, στη συνέχεια, μπορείτε να χρησιμοποιήσετε το <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">εξωτερικό δυνατότητες του SharePoint Online κοινής χρήσης</span></a> για την κοινή χρήση περιεχομένου με άτομα εκτός του ο οργανισμός.
+Εάν ο οργανισμός σας εκτελεί κάποια λειτουργία που περιλαμβάνει την κοινή χρήση εγγράφων ή συνεργασία απευθείας με προμηθευτές, πελάτες ή πελάτες και, στη συνέχεια, μπορείτε να χρησιμοποιήσετε το [εξωτερικό δυνατότητες του SharePoint Online κοινής χρήσης](https://docs.microsoft.com/sharepoint/external-sharing-overview) για την κοινή χρήση περιεχομένου με άτομα εκτός του ο οργανισμός.
 
-Για περισσότερες πληροφορίες σχετικά με την κοινή εξωτερική χρήση, επισκεφθείτε τις παρακάτω συνδέσεις.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Τι είναι το εξωτερικό χρήστη;</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Τι συμβαίνει όταν κάνω κοινή χρήση σε μια τοποθεσία ή ένα έγγραφο;</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint Online</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Ενεργοποίηση εξωτερικής κοινής χρήσης ή να απενεργοποιήσετε για μια τοποθεσία</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Χρήση του Sharepoint Online ως λύση extranet business to business (B2B)</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">Κοινή χρήση αρχείων του SharePoint ή ένα φάκελο</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Διακοπή της κοινής χρήσης αρχείων OneDrive ή SharePoint ή φακέλους ή να αλλάξετε τα δικαιώματα</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Διαγράψτε έναν εξωτερικό χρήστη</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Για περισσότερες πληροφορίες σχετικά με την κοινή εξωτερική χρήση, επισκεφθείτε τις παρακάτω συνδέσεις.
 
-Λαμβάνετε ένα σφάλμα με έναν εξωτερικό χρήστη; &nbsp;Ελέγξτε τις παρακάτω συνδέσεις. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Μήνυμα λάθους όταν εξωτερικό χρήστη αποδέχεται μια πρόσκληση σε ηλεκτρονική SharePoint χρησιμοποιώντας έναν άλλο λογαριασμό</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Η πρόσβαση σε έναν κοινόχρηστο φάκελο</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">OSE κοινή χρήση σφάλματα στο Sharepoint και OneDrive</span></a></span></li> </ul>
+[Τι είναι το εξωτερικό χρήστη;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Τι συμβαίνει όταν κάνω κοινή χρήση σε μια τοποθεσία ή ένα έγγραφο;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Ενεργοποίηση εξωτερικής κοινής χρήσης ή να απενεργοποιήσετε για μια τοποθεσία](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Χρήση του Sharepoint Online ως λύση extranet business to business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Κοινή χρήση αρχείων του SharePoint ή ένα φάκελο](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Διακοπή της κοινής χρήσης αρχείων OneDrive ή SharePoint ή φακέλους ή να αλλάξετε τα δικαιώματα](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Διαγράψτε έναν εξωτερικό χρήστη](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Λαμβάνετε ένα σφάλμα με έναν εξωτερικό χρήστη; &nbsp;Ελέγξτε τις παρακάτω συνδέσεις.
+
+- [Μήνυμα λάθους όταν εξωτερικό χρήστη αποδέχεται μια πρόσκληση σε ηλεκτρονική SharePoint χρησιμοποιώντας έναν άλλο λογαριασμό](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Η πρόσβαση σε έναν κοινόχρηστο φάκελο](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [OSE κοινή χρήση σφάλματα στο Sharepoint και OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
