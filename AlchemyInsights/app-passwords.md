@@ -2,7 +2,7 @@
 title: 500 κωδικούς πρόσβασης app
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4d87e1d5ee477d6aa0fe7d0cb41daa2c2750d4c3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397004"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755527"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="d8b5a-102">Εφαρμογή κωδικών πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="d8b5a-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="8ccec-102">Εφαρμογή κωδικών πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="8ccec-102">App passwords</span></span>
 
-<span data-ttu-id="d8b5a-103">Κωδικός πρόσβασης app είναι ένας κωδικός που σας δίνει μια εφαρμογή ή συσκευή δικαίωμα πρόσβασης την εργασία σας Office 365 ή σχολείο λογαριασμό.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="d8b5a-104">Εάν ο λογαριασμός σας απαιτεί έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ) και η εφαρμογή συνδέεται με το λογαριασμό σας, πρέπει να δημιουργήσετε έναν κωδικό πρόσβασης app, έτσι ώστε η εφαρμογή να συνδεθείτε στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="d8b5a-105">Για παράδειγμα, το Outlook 2016 και παλαιότερες εκδόσεις Outlook του απαιτεί έναν κωδικό πρόσβασης app.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
+<span data-ttu-id="8ccec-103">Κωδικός πρόσβασης app είναι ένας κωδικός που σας δίνει μια εφαρμογή ή συσκευή δικαίωμα πρόσβασης την εργασία σας Office 365 ή σχολείο λογαριασμό.</span><span class="sxs-lookup"><span data-stu-id="8ccec-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="8ccec-104">Εάν ο λογαριασμός σας απαιτεί έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ) και η εφαρμογή συνδέεται με το λογαριασμό σας, πρέπει να δημιουργήσετε έναν κωδικό πρόσβασης app, έτσι ώστε η εφαρμογή να συνδεθείτε στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="8ccec-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="8ccec-105">Για παράδειγμα, το Outlook 2016 και παλαιότερες εκδόσεις Outlook του απαιτεί έναν κωδικό πρόσβασης app.</span><span class="sxs-lookup"><span data-stu-id="8ccec-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
 
- <span data-ttu-id="d8b5a-106">**Σημείωση**: πριν δοκιμάσετε τα παρακάτω βήματα, επαληθεύστε με το διαχειριστή του Office 365 ότι απαιτείται ΣΠΙ για λογαριασμό σας.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="d8b5a-107">Εάν δεν είναι, οι επιλογές που περιγράφονται στα βήματα δεν είναι διαθέσιμος σε εσάς.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+ <span data-ttu-id="8ccec-106">**Σημείωση**: πριν δοκιμάσετε τα παρακάτω βήματα, επαληθεύστε με το διαχειριστή του Office 365 ότι απαιτείται ΣΠΙ για λογαριασμό σας.</span><span class="sxs-lookup"><span data-stu-id="8ccec-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="8ccec-107">Εάν δεν είναι, οι επιλογές που περιγράφονται στα βήματα δεν είναι διαθέσιμος σε εσάς.</span><span class="sxs-lookup"><span data-stu-id="8ccec-107">If it isn't, the options described in the steps won't be available to you.</span></span>
 
-1. <span data-ttu-id="d8b5a-108">Εισέλθετε στο Office 365 με την εργασία σας ή σχολείο λογαριασμού και τον κωδικό πρόσβασής σας.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+1. <span data-ttu-id="8ccec-108">Εισέλθετε στο Office 365 με την εργασία σας ή σχολείο λογαριασμού και τον κωδικό πρόσβασής σας.</span><span class="sxs-lookup"><span data-stu-id="8ccec-108">Sign in to Office 365 with your work or school account and your password.</span></span>
 
-2. <span data-ttu-id="d8b5a-109">Επιλέξτε να **ρυθμίσετε τώρα**.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-109">Choose **Set it up now**.</span></span>
+2. <span data-ttu-id="8ccec-109">Επιλέξτε να **ρυθμίσετε τώρα**.</span><span class="sxs-lookup"><span data-stu-id="8ccec-109">Choose **Set it up now**.</span></span>
 
-3. <span data-ttu-id="d8b5a-110">Επιλέξτε τη μέθοδο ελέγχου ταυτότητας και ακολουθήστε τις οδηγίες.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-110">Select your authentication method and follow the prompts.</span></span>
+3. <span data-ttu-id="8ccec-110">Επιλέξτε τη μέθοδο ελέγχου ταυτότητας και ακολουθήστε τις οδηγίες.</span><span class="sxs-lookup"><span data-stu-id="8ccec-110">Select your authentication method and follow the prompts.</span></span>
 
-4. <span data-ttu-id="d8b5a-111">Αφού επιβεβαιώσετε την εναλλακτική μέθοδο επαφής, επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-111">After you verify your alternate contact method, choose **Next**.</span></span>
+4. <span data-ttu-id="8ccec-111">Αφού επιβεβαιώσετε την εναλλακτική μέθοδο επαφής, επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="8ccec-111">After you verify your alternate contact method, choose **Next**.</span></span>
 
-5. <span data-ttu-id="d8b5a-112">Θα λάβετε έναν κωδικό πρόσβασης app που μπορείτε να χρησιμοποιήσετε με το Outlook, Apple Mail και άλλες εφαρμογές που την απαιτούν.</span><span class="sxs-lookup"><span data-stu-id="d8b5a-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="d8b5a-113">Επιλέξτε **Αντιγραφή** για να αντιγράψετε τον κωδικό πρόσβασης, ώστε να μπορείτε να το επικολλήσετε σε άλλη θέση (δεν χρειάζεται να τον απομνημονεύσετε).</span><span class="sxs-lookup"><span data-stu-id="d8b5a-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
+5. <span data-ttu-id="8ccec-112">Θα λάβετε έναν κωδικό πρόσβασης app που μπορείτε να χρησιμοποιήσετε με το Outlook, Apple Mail και άλλες εφαρμογές που την απαιτούν.</span><span class="sxs-lookup"><span data-stu-id="8ccec-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="8ccec-113">Επιλέξτε **Αντιγραφή** για να αντιγράψετε τον κωδικό πρόσβασης, ώστε να μπορείτε να το επικολλήσετε σε άλλη θέση (δεν χρειάζεται να τον απομνημονεύσετε).</span><span class="sxs-lookup"><span data-stu-id="8ccec-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
