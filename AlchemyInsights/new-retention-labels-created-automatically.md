@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418122"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771200"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Νέες ετικέτες διατήρησης που δημιουργούνται αυτόματα
 
-Ενδέχεται να δείτε [τρεις νέες ετικέτες διατήρησης](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) που δημιουργήθηκαν αυτόματα στην εταιρεία σας στην περιοχή **ετικέτες διατήρησης** στο Κέντρο διαχείρισης συμμόρφωσης ή τις ρυθμίσεις ασφαλείας. Τα ονόματα των ετικετών είναι:
+Ενδέχεται να δείτε [τρεις νέες ετικέτες διατήρησης](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) που δημιουργήθηκαν αυτόματα στην εταιρεία σας στην περιοχή **ετικέτες διατήρησης** στο Κέντρο διαχείρισης συμμόρφωσης ή τις ρυθμίσεις ασφαλείας. Τα ονόματα των ετικετών είναι:
 
 - Επιχειρησιακή διαδικασία
 - Γενική επαγγελματική
@@ -30,4 +30,4 @@ ms.locfileid: "32418122"
 
 1. Επιλέξτε τις ετικέτες διατήρησης που θέλετε να καταργήσετε > **Κατάργηση της ετικέτας** > **Ναι** για να διαγράψετε την ετικέτα.
 
-Με διαχείριση σχεδίου αρχείων, μπορείτε να διαχειριστείτε τις ετικέτες διατήρησης και πολιτικές της εταιρείας σας - για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Επισκόπηση της διαχείρισης σχεδίου αρχείου](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Με διαχείριση σχεδίου αρχείων, μπορείτε να διαχειριστείτε τις ετικέτες διατήρησης και πολιτικές της εταιρείας σας - για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Επισκόπηση της διαχείρισης σχεδίου αρχείου](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

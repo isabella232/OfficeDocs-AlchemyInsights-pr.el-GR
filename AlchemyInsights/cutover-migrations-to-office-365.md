@@ -1,23 +1,23 @@
 ---
-title: Cutover μετεγκαταστάσεις στο Office 365
+title: Μετεγκατάσταση με πλήρη μεταφορά στο Office 365
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: a48304c7f654af5b040c0b8ce8b78c7f25a35f7d
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 00ea61d7931c6016fa1e1019a1cc83bf78ff8f58
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405251"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753135"
 ---
-# <a name="cutover-migrations-to-office-365"></a>Cutover μετεγκαταστάσεις στο Office 365
+# <a name="cutover-migrations-to-office-365"></a>Μετεγκατάσταση με πλήρη μεταφορά στο Office 365
 
-Όταν εγγραφείτε για το Office 365, μπορείτε να μετεγκαταστήσετε το περιεχόμενο των γραμματοκιβωτίων του χρήστη από μια εταιρεία Exchange εσωτερικής εγκατάστασης στο Office 365. Όταν κάνετε όλα αυτά κάθε φορά, ονομάζεται cutover μετεγκατάστασης. Cutover μετεγκατάστασης μπορεί να είναι κατάλληλο για εσάς, εάν εκτελείτε μια υποστηριζόμενη έκδοση του διακομιστή Exchange και έχουν λιγότερα από 2.000 γραμματοκιβώτια. Για να μάθετε περισσότερα σχετικά με τις μετεγκαταστάσεις cutover, Ρίξτε μια ματιά στο: [Cutover μετεγκατάστασης στο Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
+Κατά την εγγραφή σας στο Office 365, μπορείτε να μετεγκαταστήσετε τα περιεχόμενα των γραμματοκιβωτίων χρηστών από έναν οργανισμό Exchange εσωτερικής εγκατάστασης στο Office 365. Όταν προβείτε σε όλες αυτές τις ενέργειες ταυτόχρονα, η διαδικασία λέγεται μετεγκατάσταση με πλήρη μεταφορά. Μια μετεγκατάσταση με πλήρη μεταφορά θα μπορούσε να αποδειχθεί κατάλληλη για εσάς εάν χρησιμοποιείτε μια υποστηριζόμενη έκδοση του Exchange και έχετε λιγότερα από 2.000 γραμματοκιβώτια. Για να μάθετε περισσότερα σχετικά με τις μετεγκαταστάσεις με πλήρη μεταφορά, ρίξτε μια ματιά στο: [Μετεγκατάσταση με πλήρη μεταφορά στο Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
   
 

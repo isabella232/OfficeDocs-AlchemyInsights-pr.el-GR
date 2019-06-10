@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096510"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770809"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Ανάκληση ή αντικατάσταση ενός μηνύματος ηλεκτρονικού ταχυδρομείου
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096510"
 
 ***Αναζήτηση και διαγραφή μηνυμάτων ηλεκτρονικού ταχυδρομείου στον οργανισμό σας*** Για να αναζητήσετε και να διαγράφετε μηνύματα ηλεκτρονικού ταχυδρομείου στην εταιρεία σας, είναι ευκολότερος Εάν είστε ένα καθολικό διαχειριστή. Εάν δεν είστε διαχειριστής της κύριας, ο λογαριασμός σας πρέπει να προστεθεί στην ομάδα ρόλου διαχείρισης ανακάλυψης ή ο ρόλος διαχείρισης αναζήτησης συμμόρφωσης. Για να διαγράψετε μηνύματα, θα χρειαστεί να συμμετάσχετε στην ομάδα ρόλου διαχείρισης εταιρείας ή ο ρόλος διαχείρισης αναζήτησης και εκκαθάριση. Αντιστοιχίζονται δικαιώματα για αυτούς τους ρόλους στο [Κέντρο συμμόρφωσης ασφαλείας &](https://protection.office.com/).
 
-1. [Δημιουργία ενός περιεχομένου αναζήτησης](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) για να βρείτε το μήνυμα για να διαγράψετε.
-2. [Συνδεθείτε με PowerShell συμμόρφωση παραγωγής & ασφαλείας](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Δημιουργία ενός περιεχομένου αναζήτησης](https://docs.microsoft.com/office365/securitycompliance/content-search) για να βρείτε το μήνυμα για να διαγράψετε.
+2. [Συνδεθείτε με PowerShell συμμόρφωση παραγωγής & ασφαλείας](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Εάν χρησιμοποιείτε ΣΠΙ, ανατρέξτε στο θέμα [σύνδεση σε & ασφαλείας για το Office 365 συμμόρφωση παραγωγής PowerShell χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Εάν χρησιμοποιείτε ΣΠΙ, ανατρέξτε στο θέμα [σύνδεση σε & ασφαλείας για το Office 365 συμμόρφωση παραγωγής PowerShell χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

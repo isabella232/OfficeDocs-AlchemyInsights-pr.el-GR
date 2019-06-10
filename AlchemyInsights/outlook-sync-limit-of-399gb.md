@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000169
-ms.openlocfilehash: 31e89c9d77abd669dac52dfe26e0f91f5d553b75
-ms.sourcegitcommit: 8e5b9ee3f8ef10c6d973923f955c23fa436adb84
+ms.openlocfilehash: 172b2b11791d7bfd4e4e7a52cdc4d66b48ccd4c9
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33470925"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771130"
 ---
 # <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Γραμμή κατάστασης συγχρονισμού Outlook παραμένει στη 3.99 GB
 
 Δοκιμάστε να μειώσετε το μέγεθος των περιεχομένων του φακέλου ή να δημιουργήσετε ένα φίλτρο συγχρονισμού για μεγάλη φακέλους σε ή κοντά σε 4 GB.
 
-Δείτε την κατάσταση γραμμή προόδου εμφανίζει ποτέ περισσότερα από 3.99 GB που απομένει στο αρχικό [συγχρονισμό των μεγάλων φακέλων για περισσότερες πληροφορίες](https://support.microsoft.com/en-us/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Δείτε την κατάσταση γραμμή προόδου εμφανίζει ποτέ περισσότερα από 3.99 GB που απομένει στο αρχικό [συγχρονισμό των μεγάλων φακέλων για περισσότερες πληροφορίες](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).

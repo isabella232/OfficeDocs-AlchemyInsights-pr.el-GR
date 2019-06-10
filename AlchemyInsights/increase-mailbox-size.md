@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412483"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769895"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Σχεδιάζει το διακόπτη για να αυξήσετε το μέγεθος του γραμματοκιβωτίου
 
@@ -34,4 +34,4 @@ ms.locfileid: "32412483"
     
 Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Μετάβαση σε ένα διαφορετικό σχέδιο του Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Εάν έχετε ένα [σχέδιο O365 που υποστηρίζει στην αρχειοθήκη](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), μπορείτε επίσης να λάβετε πρόσθετες ηλεκτρονικού ταχυδρομείου αποθήκευσης, ενεργοποιώντας ένα γραμματοκιβώτιο αρχειοθέτησης.  Ένα γραμματοκιβώτιο αρχειοθέτησης σάς παρέχει επιπλέον χώρο αποθήκευσης και σας επιτρέπει να μετακινείτε, αντίγραφο και να αναζητήσετε μηνύματα σε δύο κύρια και αρχειοθέτησης γραμματοκιβωτίου. Για τα βήματα σχετικά με την ενεργοποίηση ενός γραμματοκιβωτίου αρχειοθέτησης, δείτε την ενότητα [Ενεργοποίηση ένα γραμματοκιβώτιο αρχειοθέτησης](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Εάν έχετε ένα [σχέδιο O365 που υποστηρίζει στην αρχειοθήκη](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), μπορείτε επίσης να λάβετε πρόσθετες ηλεκτρονικού ταχυδρομείου αποθήκευσης, ενεργοποιώντας ένα γραμματοκιβώτιο αρχειοθέτησης.  Ένα γραμματοκιβώτιο αρχειοθέτησης σάς παρέχει επιπλέον χώρο αποθήκευσης και σας επιτρέπει να μετακινείτε, αντίγραφο και να αναζητήσετε μηνύματα σε δύο κύρια και αρχειοθέτησης γραμματοκιβωτίου. Για τα βήματα σχετικά με την ενεργοποίηση ενός γραμματοκιβωτίου αρχειοθέτησης, δείτε την ενότητα [Ενεργοποίηση ένα γραμματοκιβώτιο αρχειοθέτησης](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

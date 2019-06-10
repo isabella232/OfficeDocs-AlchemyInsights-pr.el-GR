@@ -10,12 +10,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399106"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770317"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>Τεχνολογία DLP ίσως χρειαστεί έναν προσαρμοσμένο τύπο
 
@@ -25,14 +25,14 @@ ms.locfileid: "32399106"
   
  **Προσαρμογή ενός τύπου ενσωματωμένο ευαίσθητες πληροφορίες**
   
-Εάν ένας τύπος ενσωματωμένη ευαίσθητες πληροφορίες θα ικανοποιεί τις ανάγκες σας με μερικές προσαρμογές, μπορείτε να [προσαρμόσετε έναν τύπο ενσωματωμένη ευαίσθητες πληροφορίες](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Για παράδειγμα, μπορείτε να προσθέσετε ή να καταργήσετε λέξεις-κλειδιά, ή να προσθέσετε ή να καταργήσετε αποδεικτικά στοιχεία, όπως μια ημερομηνία ή μια διεύθυνση.
+Εάν ένας τύπος ενσωματωμένη ευαίσθητες πληροφορίες θα ικανοποιεί τις ανάγκες σας με μερικές προσαρμογές, μπορείτε να [προσαρμόσετε έναν τύπο ενσωματωμένη ευαίσθητες πληροφορίες](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Για παράδειγμα, μπορείτε να προσθέσετε ή να καταργήσετε λέξεις-κλειδιά, ή να προσθέσετε ή να καταργήσετε αποδεικτικά στοιχεία, όπως μια ημερομηνία ή μια διεύθυνση.
   
  **Δημιουργία ενός τύπου προσαρμοσμένου ευαίσθητες πληροφορίες**
   
-Αλλά εάν χρειάζεστε για την αναγνώριση και την προστασία εντελώς διαφορετικό τύπο ευαίσθητες πληροφορίες, μπορείτε να [δημιουργήσετε έναν τύπο προσαρμοσμένου ευαίσθητων πληροφοριών](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type) στο περιβάλλον εργασίας Χρήστη για το & ασφαλείας κέντρο συμμόρφωσης. 
+Αλλά εάν χρειάζεστε για την αναγνώριση και την προστασία εντελώς διαφορετικό τύπο ευαίσθητες πληροφορίες, μπορείτε να [δημιουργήσετε έναν τύπο προσαρμοσμένου ευαίσθητων πληροφοριών](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) στο περιβάλλον εργασίας Χρήστη για το & ασφαλείας κέντρο συμμόρφωσης. 
   
 **Δημιουργία ενός τύπου προσαρμοσμένου ευαίσθητες πληροφορίες σε & ασφαλείας PowerShell κέντρο συμμόρφωσης**
 
-Τέλος, εάν το περιβάλλον εργασίας Χρήστη δεν παρέχει όλες τις επιλογές που θέλετε, μπορείτε να [δημιουργήσετε έναν τύπο προσαρμοσμένου ευαίσθητες πληροφορίες σε & ασφαλείας PowerShell κέντρο συμμόρφωσης](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Ξεκινώντας με ένα αρχείο XML, μπορείτε να χρησιμοποιήσετε κάθε επιλογή που είναι διαθέσιμη.
+Τέλος, εάν το περιβάλλον εργασίας Χρήστη δεν παρέχει όλες τις επιλογές που θέλετε, μπορείτε να [δημιουργήσετε έναν τύπο προσαρμοσμένου ευαίσθητες πληροφορίες σε & ασφαλείας PowerShell κέντρο συμμόρφωσης](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Ξεκινώντας με ένα αρχείο XML, μπορείτε να χρησιμοποιήσετε κάθε επιλογή που είναι διαθέσιμη.
 
     

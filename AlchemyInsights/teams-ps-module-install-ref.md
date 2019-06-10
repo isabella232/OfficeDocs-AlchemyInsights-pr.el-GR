@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1787
-ms.openlocfilehash: b5b964392e1e53fa3fcee0fa5777cec3204badfc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 206acdff8763d75e46473db6531adba7d5122aa1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370290"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771342"
 ---
 # <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Τι μπορείτε να κάνετε με τη μονάδα PowerShell ομάδες της Microsoft
 
 Εάν θέλετε να μάθετε πώς να εγκαταστήσετε τη λειτουργική μονάδα PowerShell ομάδες, μπορείτε να αποσύρετε [αυτό το ιστολόγιο](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
 
-Ακολουθεί μια λεπτομερή [Αναφορά εντολών PowerShell ομάδες της Microsoft](https://docs.microsoft.com/en-us/powershell/module/teams/?view=teams-ps).
+Ακολουθεί μια λεπτομερή [Αναφορά εντολών PowerShell ομάδες της Microsoft](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps).
