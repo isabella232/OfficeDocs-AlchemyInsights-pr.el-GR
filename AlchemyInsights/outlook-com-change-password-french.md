@@ -1,26 +1,29 @@
 ---
-title: 8000075 Outlook.com αλλαγή κωδικού - ΓΑΛΛΙΚΆ
+title: Αλλαγή κωδικού Outlook.com - ΓΑΛΛΙΚΆ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388445"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820184"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Συσκευή εναλλαγής σας mot de passe στο Outlook.com
 
 Σας mot de passe Outlook.com est le ίδια ότι σας mot de passe υπόψη της Microsoft.
 
-1. Accédez στο [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Τροποποιητικό le mot de passe**.
+1. Accédez του [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) και sélectionnez **Sécurité du mot de passe**.
 2. Ονομαστική αξία μόνον de sécurité, θα να να invité στο confirmer σας identité με τη βοήθεια από κωδικό de sécurité.
 3. Entrez σας mot de passe actuel, σας nouveau mot de passe, sélectionnez στη συνέχεια **Enregistrer**.
 
