@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760658"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223820"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ενεργοποιήσετε την κοινή χρήση εξωτερικών στο SharePoint Online
 
@@ -20,25 +20,25 @@ ms.locfileid: "34760658"
 
 Για περισσότερες πληροφορίες σχετικά με την εξωτερική κοινή χρήση (επισκέπτες), επισκεφθείτε τις παρακάτω συνδέσεις.
 
-[Τι είναι το εξωτερικό χρήστη;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Τι είναι το εξωτερικό χρήστη;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[Τι συμβαίνει όταν κάνω κοινή χρήση σε μια τοποθεσία ή ένα έγγραφο;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Τι συμβαίνει όταν κάνω κοινή χρήση σε μια τοποθεσία ή ένα έγγραφο;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-[Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Ενεργοποίηση εξωτερικής κοινής χρήσης ή να απενεργοποιήσετε για μια τοποθεσία](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Ενεργοποίηση εξωτερικής κοινής χρήσης ή να απενεργοποιήσετε για μια τοποθεσία](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Διαχείριση της πρόσβασης επισκεπτών σε ομάδες του Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Διαχείριση της πρόσβασης επισκεπτών σε ομάδες του Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-[Χρήση του Sharepoint Online ως λύση extranet business to business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Χρήση του Sharepoint Online ως λύση extranet business to business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Κοινή χρήση αρχείων του SharePoint ή ένα φάκελο](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Κοινή χρήση αρχείων του SharePoint ή ένα φάκελο](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Διακοπή της κοινής χρήσης αρχείων OneDrive ή SharePoint ή φακέλους ή να αλλάξετε τα δικαιώματα](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Διακοπή της κοινής χρήσης αρχείων OneDrive ή SharePoint ή φακέλους ή να αλλάξετε τα δικαιώματα](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Διαγράψτε έναν εξωτερικό χρήστη](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Διαγράψτε έναν εξωτερικό χρήστη](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-Λαμβάνετε ένα σφάλμα με έναν εξωτερικό χρήστη (guest);
+**Λαμβάνετε ένα σφάλμα με έναν εξωτερικό χρήστη (guest);**
 
 Ελέγξτε τις συνδέσεις πιο κάτω. 
 
