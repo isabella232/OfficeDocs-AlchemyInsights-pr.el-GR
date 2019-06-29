@@ -7,46 +7,48 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "917"
+- "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410122"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381729"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Την εγκατάσταση του Office σε ένα διακομιστή τερματικού
 
 Για την ανάπτυξη του Office 365 ProPlus σε ένα διακομιστή των Windows χρησιμοποιώντας τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS), παλιότερα με το όνομα των υπηρεσιών Terminal Services:
   
 - Πρέπει να έχετε ένα πρόγραμμα Office 365 που περιλαμβάνει το Office 365 ProPlus, όπως E3 Enterprise του Office 365 ή εταιρικού E5. Τα σχέδια Office 365 επιχειρήσεων και πριμοδότηση επαγγελματική του Office 365 δεν περιλαμβάνουν Office 365 ProPlus.
-    
+
 - Πρέπει να ενεργοποιήσετε την [Ενεργοποίηση κοινόχρηστο υπολογιστή](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
-    
-Εάν θέλετε να εγκαταστήσετε το Office 365 ProPlus σε RDS από την πύλη Office 365, ** *που χρησιμοποιούν τις προεπιλεγμένες ρυθμίσεις εγκατάστασης* **, ακολουθήστε τα εξής βήματα: 
+
+Εάν θέλετε να εγκαταστήσετε το Office 365 ProPlus σε RDS από την πύλη Office 365, ** *που χρησιμοποιούν τις προεπιλεγμένες ρυθμίσεις εγκατάστασης* **, ακολουθήστε τα εξής βήματα:
   
 1. Ελέγξτε τι σχέδιο Office 365 που έχετε. [Μάθετε πώς](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
-    
+
 2. Εάν είναι απαραίτητο, μεταβείτε σε ένα διαφορετικό Office 365 σχεδιασμό. [Μάθετε πώς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
-    
-3. Αν το Office είναι ήδη εγκατεστημένο στο διακομιστή RDS, χρησιμοποιώντας οποιαδήποτε άλλα σχέδια Office 365, καταργήσετε την εγκατάστασή του. Για παράδειγμα, μεταβαίνοντας τον πίνακα ελέγχου \> κατάργηση εγκατάστασης ενός προγράμματος. Καταργήστε την εγκατάσταση χρησιμοποιώντας την [υπηρεσία υποστήριξης της Microsoft και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy) εάν εκτελείτε σε θέματα. 
-    
+
+3. Αν το Office είναι ήδη εγκατεστημένο στο διακομιστή RDS, χρησιμοποιώντας οποιαδήποτε άλλα σχέδια Office 365, καταργήσετε την εγκατάστασή του. Για παράδειγμα, μεταβαίνοντας τον πίνακα ελέγχου \> κατάργηση εγκατάστασης ενός προγράμματος. Καταργήστε την εγκατάσταση χρησιμοποιώντας την [υπηρεσία υποστήριξης της Microsoft και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy) εάν εκτελείτε σε θέματα.
+
 4. Στο διακομιστή RDS, εισέλθετε στην πύλη Office 365 με το λογαριασμό διαχειριστή και να [εγκαταστήσετε το Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
-    
-5. Μετά την εγκατάσταση του Office, ** *δεν ανοίξετε ή να εισέλθετε* ** για τις εφαρμογές του Office. 
-    
+
+5. Μετά την εγκατάσταση του Office, ** *δεν ανοίξετε ή να εισέλθετε* ** για τις εφαρμογές του Office.
+
 6. Στο διακομιστή RDS, δυνατή Ενεργοποίηση κοινόχρηστο υπολογιστή με επεξεργασία του μητρώου ακολουθώντας τα εξής βήματα:
-    
-1. Κάντε δεξιό κλικ στο κουμπί των Windows στην κάτω αριστερή γωνία της οθόνης σας και επιλέξτε εκτέλεση. Στο πλαίσιο Άνοιγμα, πληκτρολογήστε **regedit**και, στη συνέχεια, επιλέξτε OK. 
-    
+
+1. Κάντε δεξιό κλικ στο κουμπί των Windows στην κάτω αριστερή γωνία της οθόνης σας και επιλέξτε εκτέλεση. Στο πλαίσιο Άνοιγμα, πληκτρολογήστε **regedit**και, στη συνέχεια, επιλέξτε OK.
+
 2. Επιλέξτε Ναι όταν σας ζητηθεί να επιτρέψετε τον Επεξεργαστή μητρώου για να κάνετε αλλαγές στη συσκευή σας.
-    
-3. Στον επεξεργαστή μητρώου, προσθέστε μια τιμή συμβολοσειράς **SharedComputerLicensing** με ρύθμιση 1 στην περιοχή HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration. 
-    
+
+3. Στον επεξεργαστή μητρώου, προσθέστε μια τιμή συμβολοσειράς **SharedComputerLicensing** με ρύθμιση 1 στην περιοχή HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+
 7. Στο διακομιστή RDS, ** *εισέλθετε ως ένας τελικός χρήστης* ** και [Βεβαιωθείτε ότι είναι ενεργοποιημένη η ενεργοποίηση κοινόχρηστο υπολογιστή για Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
-    
+
 Για περισσότερες λεπτομέρειες σχετικά με προϋποθέσεις, οδηγίες και κατευθύνσεις σχετικά με προσαρμοσμένες εγκαταστάσεις, χρησιμοποιώντας το εργαλείο ανάπτυξης του Office, ανατρέξτε [Αναπτύσσουν Office 365 ProPlus, χρησιμοποιώντας τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
 Για να διορθώσετε τα σφάλματα που αφορούν την ενεργοποίηση κοινόχρηστο υπολογιστή, ανατρέξτε στην [Αντιμετώπιση προβλημάτων με ενεργοποίηση κοινόχρηστο υπολογιστή για Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   
-

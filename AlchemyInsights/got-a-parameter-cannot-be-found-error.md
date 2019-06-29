@@ -7,20 +7,25 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "683"
+- "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 60e747792eced6b07a6cc58744b8abb62336e314
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 74c076417645bc85e508ed976e4247ef2da595f1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769467"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386553"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από το σύστημα ηλεκτρονικού ταχυδρομείου IMAP στο Office 365
 
 Για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από ένα σύστημα αλληλογραφίας IMAP, ακολουθήστε αυτήν τη διαδικασία: [μετεγκατάσταση IMAP στο Κέντρο διαχείρισης Microsoft 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
   
-Πολλοί μεγάλοι οργανισμοί θα πρέπει να σχεδιάζει προσεκτικά για να διαχειριστείτε τις προσδοκίες του χρήστη. Το άρθρο [αυτό θα πρέπει να γνωρίζετε σχετικά με τη μετεγκατάσταση των γραμματοκιβωτίων σας IMAP στο Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) θα σας βοηθήσει να διαχειριστείτε την αλλαγή. 
+Πολλοί μεγάλοι οργανισμοί θα πρέπει να σχεδιάζει προσεκτικά για να διαχειριστείτε τις προσδοκίες του χρήστη. Το άρθρο [αυτό θα πρέπει να γνωρίζετε σχετικά με τη μετεγκατάσταση των γραμματοκιβωτίων σας IMAP στο Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) θα σας βοηθήσει να διαχειριστείτε την αλλαγή.
 
-Ελέγξτε επίσης το [εγκρίνει Office 365 με FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) σελίδα για assited Βοήθεια σχετικά με την μετεγκατάσταση, εάν είναι επιλέξιμα.
+Ελέγξτε επίσης το [εγκρίνει Office 365 με FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) σελίδα για βοήθεια Βοήθεια σχετικά με τη μετεγκατάσταση, εάν είναι επιλέξιμα.
   
 
+Ελέγξτε επίσης το [εγκρίνει Office 365 με FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) σελίδα για βοήθεια Βοήθεια σχετικά με τη μετεγκατάσταση, εάν είναι επιλέξιμα.
+  
