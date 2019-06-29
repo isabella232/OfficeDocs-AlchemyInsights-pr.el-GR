@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "640"
+- "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 940a42679f482a77e2f4ac93b1cd127fdd0c443f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e85b0af127ff7c92c7c9e0a42f5084de5de689c6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418068"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379425"
 ---
-# <a name="move-email-to-office-365"></a><span data-ttu-id="9ff0a-102">Μετακίνηση μηνύματος ηλεκτρονικού ταχυδρομείου στο Office 365</span><span class="sxs-lookup"><span data-stu-id="9ff0a-102">Move email to Office 365</span></span>
+# <a name="move-email-to-office-365"></a><span data-ttu-id="06397-102">Μετακίνηση μηνύματος ηλεκτρονικού ταχυδρομείου στο Office 365</span><span class="sxs-lookup"><span data-stu-id="06397-102">Move email to Office 365</span></span>
 
-<span data-ttu-id="9ff0a-103">Έχετε διάφορες επιλογές για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="9ff0a-103">You have several options for migrating email to Office 365.</span></span> <span data-ttu-id="9ff0a-104">Ο [σύμβουλος μετεγκατάστασης αλληλογραφίας του Office 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) σάς βοηθά να επιλέξετε το καλύτερο για το περιβάλλον σας και επίσης σας καθοδηγεί τη μετεγκατάσταση της αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="9ff0a-104">The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span> 
+<span data-ttu-id="06397-103">Έχετε διάφορες επιλογές για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="06397-103">You have several options for migrating email to Office 365.</span></span> <span data-ttu-id="06397-104">Ο [σύμβουλος μετεγκατάστασης αλληλογραφίας του Office 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) σάς βοηθά να επιλέξετε το καλύτερο για το περιβάλλον σας και επίσης σας καθοδηγεί τη μετεγκατάσταση της αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="06397-104">The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span>
   
-<span data-ttu-id="9ff0a-105">Για να διαβάσετε σχετικά με τις επιλογές σας χωρίς να κάνετε εκκίνηση της μετεγκατάστασης, δείτε: [τρόποι για τη μετεγκατάστασή πολλούς λογαριασμούς ηλεκτρονικού ταχυδρομείου στο Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842).</span><span class="sxs-lookup"><span data-stu-id="9ff0a-105">To read about your options without starting the migration, please see [Ways to migrate multiple email accounts to Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842).</span></span>
+<span data-ttu-id="06397-105">Για να διαβάσετε σχετικά με τις επιλογές σας χωρίς να κάνετε εκκίνηση της μετεγκατάστασης, ανατρέξτε [αποφασίσει σε μια διαδρομή μετεγκατάστασης](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path).</span><span class="sxs-lookup"><span data-stu-id="06397-105">To read about your options without starting the migration, please see [Decide on a migration path](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path).</span></span>
 
-<span data-ttu-id="9ff0a-106">Ελέγξτε επίσης το [εγκρίνει Office 365 με FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) σελίδα για assited Βοήθεια σχετικά με την μετεγκατάσταση, εάν είναι επιλέξιμα.</span><span class="sxs-lookup"><span data-stu-id="9ff0a-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assited help with migration, if eligible.</span></span>
+<span data-ttu-id="06397-106">Ελέγξτε επίσης το [εγκρίνει Office 365 με FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) σελίδα για βοήθεια Βοήθεια σχετικά με τη μετεγκατάσταση, εάν είναι επιλέξιμα.</span><span class="sxs-lookup"><span data-stu-id="06397-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   
-

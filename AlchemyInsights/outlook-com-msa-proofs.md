@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA δοκίμια
+title: Δοκίμια Outlook.com MSA
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392343"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373881"
 ---
-# <a name="security-info-and-security-codes"></a><span data-ttu-id="143b1-102">Πληροφορίες ασφαλείας και κωδικών ασφαλείας</span><span class="sxs-lookup"><span data-stu-id="143b1-102">Security info and security codes</span></span>
+# <a name="security-info-and-security-codes"></a><span data-ttu-id="26807-102">Πληροφορίες ασφαλείας και κωδικών ασφαλείας</span><span class="sxs-lookup"><span data-stu-id="26807-102">Security info and security codes</span></span>
 
-1. <span data-ttu-id="143b1-103">Συνδεθείτε με τη σελίδα [βασικά στοιχεία ασφαλείας](https://account.microsoft.com/security) με το λογαριασμό Microsoft.</span><span class="sxs-lookup"><span data-stu-id="143b1-103">Sign in to your [Security basics](https://account.microsoft.com/security) page with your Microsoft account.</span></span> 
-    
-2. <span data-ttu-id="143b1-104">Επιλέξτε **Ενημέρωση πληροφοριών**.</span><span class="sxs-lookup"><span data-stu-id="143b1-104">Select **Update info**.</span></span> 
-    
-3. <span data-ttu-id="143b1-105">Ενδέχεται να σας ζητηθεί να εισαγάγετε έναν κωδικό ασφαλείας για να συνεχίσετε.</span><span class="sxs-lookup"><span data-stu-id="143b1-105">You may be asked to enter a security code to continue.</span></span> <span data-ttu-id="143b1-106">Εάν δεν έχετε πρόσβαση στο εναλλακτικό ηλεκτρονικού ταχυδρομείου ή τον αριθμό τηλεφώνου, επιλέξτε **δεν έχω κάποιο από αυτά** και ακολουθήστε τις οδηγίες για να αντικαταστήσετε το πληροφορίες ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="143b1-106">If you don't have access to your alternate email or phone number, choose **I don't have any of these** and follow the instructions to replace your security info.</span></span> 
-    
-4. <span data-ttu-id="143b1-107">Επιλέξτε **Προσθήκη πληροφοριών ασφαλείας** και στη συνέχεια ακολουθήστε τις οδηγίες για να εισαγάγετε ένα νέο μήνυμα ηλεκτρονικού ταχυδρομείου ή τον αριθμό τηλεφώνου.</span><span class="sxs-lookup"><span data-stu-id="143b1-107">Select **Add security info** then follow the instructions to enter a new email or phone number.</span></span> 
-    
-5. <span data-ttu-id="143b1-108">Θα σας στείλουμε έναν κωδικό ασφαλείας για το νέο μήνυμα ηλεκτρονικού ταχυδρομείου ή τον αριθμό τηλεφώνου.</span><span class="sxs-lookup"><span data-stu-id="143b1-108">We'll send a security code to that new email or phone number.</span></span> <span data-ttu-id="143b1-109">Εισαγάγετε τον κωδικό ασφαλείας και επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="143b1-109">Enter that security code, and select **Next**.</span></span> <span data-ttu-id="143b1-110">Σας νέες πληροφορίες ασφαλείας θα εμφανίζονται στη λίστα.</span><span class="sxs-lookup"><span data-stu-id="143b1-110">Your new security info will appear in your list.</span></span> 
-    
-6. <span data-ttu-id="143b1-111">Για κάποιον που θέλετε να καταργήσετε την επιλογή **Κατάργηση** .</span><span class="sxs-lookup"><span data-stu-id="143b1-111">Choose **Remove** for any you want to remove.</span></span> 
-    
-7. <span data-ttu-id="143b1-112">Εάν θέλετε να ενημερώσετε τις πληροφορίες ασφαλείας που θα σας στείλουμε ειδοποιήσεις, επιλέξτε **Αλλαγή των επιλογών ειδοποίησης** και καταργήστε την επιλογή στο πλαίσιο ελέγχου για εκείνο που δεν είναι πλέον θέλετε να λαμβάνετε ειδοποιήσεις, εκτός αν είναι κρίσιμη.</span><span class="sxs-lookup"><span data-stu-id="143b1-112">If you want to update which security info we'll send alerts to, select **Change alert options** and deselect the checkbox for the one you no longer want to receive alerts for, unless they're critical.</span></span> 
-    
-<span data-ttu-id="143b1-113">Διαβάστε περισσότερα σχετικά με τις [πληροφορίες ασφαλείας και κωδικοί ασφαλείας](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="143b1-113">Read more about [Security info and security codes](https://support.microsoft.com/help/12428/).</span></span>
-  
+<span data-ttu-id="26807-103">Για να προσθέσετε πληροφορίες ασφαλείας του λογαριασμού σας:</span><span class="sxs-lookup"><span data-stu-id="26807-103">To add security info to your account:</span></span>
 
+1. <span data-ttu-id="26807-104">Εισέλθετε στο [βασικά στοιχεία ασφάλειας](https://account.microsoft.com/security) με το λογαριασμό Microsoft.</span><span class="sxs-lookup"><span data-stu-id="26807-104">Sign in to [Security basics](https://account.microsoft.com/security) with your Microsoft account.</span></span>
+1. <span data-ttu-id="26807-105">Επιλέξτε **πληροφορίες επικοινωνίας ασφαλείας**.</span><span class="sxs-lookup"><span data-stu-id="26807-105">Select **Security contact info**.</span></span>
+1. <span data-ttu-id="26807-106">Επιλέξτε **Προσθήκη πληροφοριών ασφαλείας** και ακολουθήστε τις οδηγίες για να εισαγάγετε μια διεύθυνση τηλεφωνικό αριθμό ή το ηλεκτρονικό ταχυδρομείο.</span><span class="sxs-lookup"><span data-stu-id="26807-106">Select **Add security info** and follow the instructions to enter a phone number or email address.</span></span>
+1. <span data-ttu-id="26807-107">Θα λάβετε έναν κωδικό ασφαλείας στη διεύθυνση στον αριθμό ή το ηλεκτρονικό ταχυδρομείο το τηλέφωνο.</span><span class="sxs-lookup"><span data-stu-id="26807-107">You will receive a security code at that phone number or email address.</span></span> <span data-ttu-id="26807-108">Εισαγάγετε τον κωδικό ασφαλείας που λάβατε στο παράθυρο **Προσθήκη πληροφοριών ασφαλείας** και επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="26807-108">Enter the security code you received in the **Add security info** window and select **Next**.</span></span>
+
+<span data-ttu-id="26807-109">Εάν θέλετε να καταργήσετε μια διεύθυνση τηλεφωνικό αριθμό ή το ηλεκτρονικό ταχυδρομείο, επιλέξτε **Κατάργηση** δίπλα του.</span><span class="sxs-lookup"><span data-stu-id="26807-109">If you want to remove a phone number or email address, select **Remove** next to it.</span></span>
+
+<span data-ttu-id="26807-110">Εάν θέλετε να αλλάξετε τον αριθμό τηλεφώνου ή διεύθυνση ηλεκτρονικού ταχυδρομείου λαμβάνει ειδοποιήσεις ασφαλείας, επιλέξτε την **Αλλαγή των επιλογών ειδοποίησης**.</span><span class="sxs-lookup"><span data-stu-id="26807-110">If you want to change which phone number or email address receives security alerts, select **Change alert options**.</span></span>
+
+<span data-ttu-id="26807-111">Για να μάθετε περισσότερα, διαβάστε [Microsoft λογαριασμό πληροφοριών και επαλήθευσης κωδικών ασφαλείας](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="26807-111">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
