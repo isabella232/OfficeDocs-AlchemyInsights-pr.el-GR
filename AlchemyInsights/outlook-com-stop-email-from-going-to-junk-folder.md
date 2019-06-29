@@ -1,26 +1,34 @@
 ---
-title: Outlook.com μηνύματα διακοπής από μεταβαίνοντας στο φάκελο ανεπιθύμητης αλληλογραφίας
+title: Διακοπή μηνύματα από μεταβαίνοντας στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου στο Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373244"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371793"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a><span data-ttu-id="16f30-102">Διακοπή μηνύματα, μεταβαίνοντας στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="16f30-102">Stop messages going to your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="33496-102">Διακοπή μηνύματα από μεταβαίνοντας στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="33496-102">Stop messages from going to your Junk Email folder</span></span>
 
-<span data-ttu-id="16f30-103">Εάν ανακαλύψετε ότι ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο φάκελο ανεπιθύμητης αλληλογραφίας δεν ήταν spam ή την ανεπιθύμητη αλληλογραφία:</span><span class="sxs-lookup"><span data-stu-id="16f30-103">If you discover that an email message in your Junk Email folder was not spam or junk:</span></span>
+<span data-ttu-id="33496-103">Εάν ανακαλύψετε ότι ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο φάκελο ανεπιθύμητης αλληλογραφίας δεν είναι ανεπιθύμητη:</span><span class="sxs-lookup"><span data-stu-id="33496-103">If you discover that an email message in your Junk Email folder isn't junk:</span></span>
 
-1. <span data-ttu-id="16f30-104">Ανοίξτε το [φάκελο ανεπιθύμητης αλληλογραφίας ηλεκτρονικού ταχυδρομείου](https://outlook.live.com/mail/junkemail) και επιλέξτε το μήνυμα.</span><span class="sxs-lookup"><span data-stu-id="16f30-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select the message.</span></span> <span data-ttu-id="16f30-105">(Τα στοιχεία στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου διαγράφονται μετά από 30 ημέρες.)</span><span class="sxs-lookup"><span data-stu-id="16f30-105">(Items in your Junk Email folder are deleted after 30 days.)</span></span>
-1. <span data-ttu-id="16f30-106">Πάνω από τη λίστα μηνυμάτων, επιλέξτε το **μη ανεπιθύμητα** > **μη ανεπιθύμητη αλληλογραφία**.</span><span class="sxs-lookup"><span data-stu-id="16f30-106">Above the message list, select **Not junk** > **Not junk**.</span></span>
-1. <span data-ttu-id="16f30-107">Ανοίξτε τις [Ρυθμίσεις ηλεκτρονικού ταχυδρομείου ανεπιθύμητης αλληλογραφίας](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="16f30-107">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-1. <span data-ttu-id="16f30-108">Στην περιοχή **Ασφαλείς αποστολείς**, εισαγάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου ή τον τομέα που θέλετε να προσθέσετε και επιλέξτε **Προσθήκη**.</span><span class="sxs-lookup"><span data-stu-id="16f30-108">Under **Safe senders**, enter the email address or domain you want to add, and select **Add**.</span></span> <span data-ttu-id="16f30-109">Μήνυμα ηλεκτρονικού ταχυδρομείου από διευθύνσεις ή τομείς στη λίστα δεν μεταφέρονται στο φάκελο ανεπιθύμητης αλληλογραφίας ηλεκτρονικού ταχυδρομείου ασφαλών αποστολέων.</span><span class="sxs-lookup"><span data-stu-id="16f30-109">Email from addresses or domains on the safe senders list don't get moved to your Junk Email folder.</span></span>
+1. <span data-ttu-id="33496-104">Ανοίξτε το [φάκελο ανεπιθύμητης αλληλογραφίας ηλεκτρονικού ταχυδρομείου](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="33496-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
+1. <span data-ttu-id="33496-105">Επιλέξτε το μήνυμα.</span><span class="sxs-lookup"><span data-stu-id="33496-105">Select the message.</span></span> <span data-ttu-id="33496-106">(*Σημείωση:* στοιχεία στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου διαγράφονται μετά από 30 ημέρες.)</span><span class="sxs-lookup"><span data-stu-id="33496-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="33496-107">Πάνω από τη λίστα μηνυμάτων, επιλέξτε το **μη ανεπιθύμητα** > **μη ανεπιθύμητη αλληλογραφία**.</span><span class="sxs-lookup"><span data-stu-id="33496-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
+
+<span data-ttu-id="33496-108">Εάν θέλετε να αποτρέψετε μεταβαίνοντας στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου μηνύματα από τον αποστολέα, προσθέστε τον αποστολέα στη λίστα ασφαλών αποστολέων:</span><span class="sxs-lookup"><span data-stu-id="33496-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
+
+1. <span data-ttu-id="33496-109">Ανοίξτε τις [Ρυθμίσεις ηλεκτρονικού ταχυδρομείου ανεπιθύμητης αλληλογραφίας](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="33496-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+1. <span data-ttu-id="33496-110">Στην περιοχή **Ασφαλείς αποστολείς και τομείς**, επιλέξτε **Προσθήκη**, πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου ή τον τομέα που θέλετε να προσθέσετε και επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="33496-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
+
+<span data-ttu-id="33496-111">Για να μάθετε περισσότερα, διαβάστε τη [Σήμανση μηνύματος ηλεκτρονικού ταχυδρομείου ως αποστολείς ανεπιθύμητης αλληλογραφίας "ή" Αποκλεισμός στο Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="33496-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
