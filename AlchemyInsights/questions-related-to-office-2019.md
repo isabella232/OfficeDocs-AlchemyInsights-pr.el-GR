@@ -8,28 +8,30 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1251"
+- "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: d4d116a1d6ad43922c892b93ec9fbf316f8796ce
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 289dd4abd5b529f43f01ba03ba2314ecd368dee1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388596"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356669"
 ---
-# <a name="about-office-2019"></a><span data-ttu-id="77c97-102">Σχετικά με το Office 2019</span><span class="sxs-lookup"><span data-stu-id="77c97-102">About Office 2019</span></span>
+# <a name="about-office-2019"></a><span data-ttu-id="a6a3a-102">Σχετικά με το Office 2019</span><span class="sxs-lookup"><span data-stu-id="a6a3a-102">About Office 2019</span></span>
 
-<span data-ttu-id="77c97-103">Office 2019 απευθύνεται σε πελάτες οι οποίοι δεν είναι έτοιμη για το σύννεφο ακόμα ή υπάρχει κάποια συγκεκριμένη ανάγκη για εσωτερικής εγκατάστασης ή υβριδικές ανάπτυξης του Office.</span><span class="sxs-lookup"><span data-stu-id="77c97-103">Office 2019 is for customers who aren't ready for the cloud yet or have a specific need for on-premises or hybrid Office deployment.</span></span> <span data-ttu-id="77c97-104">Περιλαμβάνει ένα χαρακτηριστικό υποσύνολο των δυνατοτήτων που έχετε ήδη προσθέσει στο Office 365 κατά τα τελευταία τρία χρόνια, αλλά δεν αποτελεί μέρος του Office 365.</span><span class="sxs-lookup"><span data-stu-id="77c97-104">It includes a meaningful subset of features that have already been added to Office 365 over the last three years, but it's not part of Office 365.</span></span>
+<span data-ttu-id="a6a3a-103">Office 2019 απευθύνεται σε πελάτες οι οποίοι δεν είναι έτοιμη για το σύννεφο ακόμα ή υπάρχει κάποια συγκεκριμένη ανάγκη για εσωτερικής εγκατάστασης ή υβριδικές ανάπτυξης του Office.</span><span class="sxs-lookup"><span data-stu-id="a6a3a-103">Office 2019 is for customers who aren't ready for the cloud yet or have a specific need for on-premises or hybrid Office deployment.</span></span> <span data-ttu-id="a6a3a-104">Περιλαμβάνει ένα χαρακτηριστικό υποσύνολο των δυνατοτήτων που έχετε ήδη προσθέσει στο Office 365 κατά τα τελευταία τρία χρόνια, αλλά δεν αποτελεί μέρος του Office 365.</span><span class="sxs-lookup"><span data-stu-id="a6a3a-104">It includes a meaningful subset of features that have already been added to Office 365 over the last three years, but it's not part of Office 365.</span></span>
   
-<span data-ttu-id="77c97-105">Office 365 ProPlus, το σύννεφο συνδεδεμένη έκδοση του Office, προσφέρει πιο παραγωγικοί και πιο ασφαλή εμπειρία με το Office.</span><span class="sxs-lookup"><span data-stu-id="77c97-105">Office 365 ProPlus, the cloud-connected version of Office, delivers the most productive and most secure Office experience.</span></span> <span data-ttu-id="77c97-106">Παρέχει πρόσβαση σε μια οικογένεια υπηρεσιών πέρα από ό, τι χρειάζεται τις εκδόσεις εσωτερικής εγκατάστασης και λαμβάνει νέα δυνατότητα ενημερώσεις σε συνεχή βάση.</span><span class="sxs-lookup"><span data-stu-id="77c97-106">It provides access to a suite of services beyond what the on-premises versions have and receives new feature updates on an ongoing basis.</span></span>
+<span data-ttu-id="a6a3a-105">Office 365 ProPlus, το σύννεφο συνδεδεμένη έκδοση του Office, προσφέρει πιο παραγωγικοί και πιο ασφαλή εμπειρία με το Office.</span><span class="sxs-lookup"><span data-stu-id="a6a3a-105">Office 365 ProPlus, the cloud-connected version of Office, delivers the most productive and most secure Office experience.</span></span> <span data-ttu-id="a6a3a-106">Παρέχει πρόσβαση σε μια οικογένεια υπηρεσιών πέρα από ό, τι χρειάζεται τις εκδόσεις εσωτερικής εγκατάστασης και λαμβάνει νέα δυνατότητα ενημερώσεις σε συνεχή βάση.</span><span class="sxs-lookup"><span data-stu-id="a6a3a-106">It provides access to a suite of services beyond what the on-premises versions have and receives new feature updates on an ongoing basis.</span></span>
   
-<span data-ttu-id="77c97-107">Έτσι, εάν έχετε τις εφαρμογές επιφάνειας εργασίας του Office ως μέρος της συνδρομής του Office 365 σας έχετε ήδη την πιο πρόσφατη έκδοση του Office.</span><span class="sxs-lookup"><span data-stu-id="77c97-107">So, if you have the Office desktop apps as part of your Office 365 subscription you already have the latest version of Office.</span></span>
+<span data-ttu-id="a6a3a-107">Έτσι, εάν έχετε τις εφαρμογές επιφάνειας εργασίας του Office ως μέρος της συνδρομής του Office 365 σας έχετε ήδη την πιο πρόσφατη έκδοση του Office.</span><span class="sxs-lookup"><span data-stu-id="a6a3a-107">So, if you have the Office desktop apps as part of your Office 365 subscription you already have the latest version of Office.</span></span>
   
-<span data-ttu-id="77c97-108">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα:</span><span class="sxs-lookup"><span data-stu-id="77c97-108">For more information, see:</span></span>
+<span data-ttu-id="a6a3a-108">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα:</span><span class="sxs-lookup"><span data-stu-id="a6a3a-108">For more information, see:</span></span>
   
-[<span data-ttu-id="77c97-109">Office 2019 εμπορικά για Windows και Mac, συνήθεις ερωτήσεις</span><span class="sxs-lookup"><span data-stu-id="77c97-109">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312)
+[<span data-ttu-id="a6a3a-109">Office 2019 εμπορικά για Windows και Mac, συνήθεις ερωτήσεις</span><span class="sxs-lookup"><span data-stu-id="a6a3a-109">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312)
   
-[<span data-ttu-id="77c97-110">Αριθμό κύριας έκδοσης του Office 2019 διαμένει σε 16.0</span><span class="sxs-lookup"><span data-stu-id="77c97-110">The major version number of Office 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/deployoffice/office2019/overview)
+[<span data-ttu-id="a6a3a-110">Αριθμό κύριας έκδοσης του Office 2019 διαμένει σε 16.0</span><span class="sxs-lookup"><span data-stu-id="a6a3a-110">The major version number of Office 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[<span data-ttu-id="77c97-111">Περιγραφή του έτους στο Office 2016 και Office 365 εφαρμογές προγραμμάτων-πελατών θα καταργηθούν από καταχωρήσεις του μενού Έναρξη</span><span class="sxs-lookup"><span data-stu-id="77c97-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="a6a3a-111">Περιγραφή του έτους στο Office 2016 και Office 365 εφαρμογές προγραμμάτων-πελατών θα καταργηθούν από καταχωρήσεις του μενού Έναρξη</span><span class="sxs-lookup"><span data-stu-id="a6a3a-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
-
