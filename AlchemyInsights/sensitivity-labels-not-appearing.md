@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770774"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355733"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Ετικέτες ευαισθησία δεν εμφανίζονται
 
@@ -25,8 +28,7 @@ ms.locfileid: "34770774"
 - Βεβαιωθείτε ότι η ετικέτα ευαισθησία έχει [δημοσιευθεί](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) για τους χρήστες και τις ομάδες που θέλετε.
 
 - Βεβαιωθείτε ότι ο χρήστης χρησιμοποιεί μια εφαρμογή που υποστηρίζει ετικέτες ευαισθησία - δείτε [τις ετικέτες ευαισθησία στο έγγραφό σας](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
- 
- 
+
 - Εάν είστε [τη μετεγκατάσταση ετικέτες Azure πληροφορίες προστασίας](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), να γνωρίζουν τα θέματα που παρατίθενται [εδώ](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Πρόληψη απώλειας δεδομένων (DLP) υποστηρίζει: αυτήν τη στιγμή, μόνο ετικέτες διατήρησης μπορεί να χρησιμοποιηθεί ως συνθήκη στις πολιτικές DLP.  Υποστήριξη για ετικέτες ευαισθησία σε μια πολιτική DLP δεν είναι ακόμη διαθέσιμη, αλλά εργαζόμαστε σε αυτό.

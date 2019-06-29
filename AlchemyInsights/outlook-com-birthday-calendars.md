@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000229"
 - "1811"
-ms.openlocfilehash: 5908474649dbf3eb77e7b91f8df6a508e36f8080
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+- "9000229"
+ms.openlocfilehash: 1006351fcfd84cc8ab5f4c83739ed3f56f71cded
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643413"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377265"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Προσθήκη ενός ημερολογίου γενεθλίων στο Outlook.com
 
-1. Στο κάτω μέρος της σελίδας, επιλέξτε το εικονίδιο του ημερολογίου για να μεταβείτε στο ημερολόγιο.
+1. Στο κάτω μέρος της σελίδας, επιλέξτε το εικονίδιο του ημερολογίου για να [μεταβείτε στο ημερολόγιο](https://outlook.live.com/mail/calendar).
 1. Στο αριστερό τμήμα του παραθύρου, κάντε δεξιό κλικ στο **Γενέθλια** και επιλέξτε **νέα ημερομηνία γέννησης**.
 1. Εισαγάγετε το όνομα του ατόμου και την ημερομηνία γέννησης και επιλέξτε **Δημιουργία**.
 1. Επιλέξτε το ημερολόγιο **γενεθλίων** για εναλλαγή υπενθυμίσεις και αποσύνδεση.
