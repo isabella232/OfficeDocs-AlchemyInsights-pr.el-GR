@@ -9,21 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 2006
+ms.custom:
+- "2006"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 82dffaa1ba950a73f967502f932d28272d24b99a
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: a20f00653dcde4ce0f133ab3cf400550315c090c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770212"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388785"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="9d64d-102">Ηλεκτρονικός εντοπισμός ρυθμίσεων</span><span class="sxs-lookup"><span data-stu-id="9d64d-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="5eb18-102">Ηλεκτρονικός εντοπισμός ρυθμίσεων</span><span class="sxs-lookup"><span data-stu-id="5eb18-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="9d64d-103">αναζητήσεις ανακάλυψης/περιεχόμενο στο Office 365 σάς επιτρέπουν να κάνετε αναζήτηση, κρατήστε και εξαγωγή περιεχομένου από τα γραμματοκιβώτια του Exchange Online, ηλεκτρονική SharePoint και OneDrive για επαγγελματικές τοποθεσίες, Skype για επαγγελματική συνομιλίες, ομάδες της Microsoft και ομάδες του Office 365.</span><span class="sxs-lookup"><span data-stu-id="9d64d-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="5eb18-103">αναζητήσεις ανακάλυψης/περιεχόμενο στο Office 365 σάς επιτρέπουν να κάνετε αναζήτηση, κρατήστε και εξαγωγή περιεχομένου από τα γραμματοκιβώτια του Exchange Online, ηλεκτρονική SharePoint και OneDrive για επαγγελματικές τοποθεσίες, Skype για επαγγελματική συνομιλίες, ομάδες της Microsoft και ομάδες του Office 365.</span><span class="sxs-lookup"><span data-stu-id="5eb18-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="9d64d-104">Εάν αναζητάτε τις επιλογές μενού αναζήτηση περιεχομένου ή ανακάλυψης, ανατρέξτε στην ενότητα [ζητήματα ανακάλυψης](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="9d64d-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="9d64d-105">Πληροφορίες σχετικά με τα δικαιώματα που απαιτούνται για την εκτέλεση αναζητήσεων ανακάλυψης από τα [απαιτούμενα δικαιώματα για αναζητήσεις ανακάλυψης](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="9d64d-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="9d64d-106">Εάν η αναζήτησή σας δεν επιστρέφει τα αναμενόμενα αποτελέσματα, ανατρέξτε στην ενότητα [αναζήτησης δεν επιστρέφει αναμενόμενα αποτελέσματα](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="9d64d-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="5eb18-104">Εάν αναζητάτε τις επιλογές μενού αναζήτηση περιεχομένου ή ανακάλυψης, ανατρέξτε στην ενότητα [ζητήματα ανακάλυψης](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="5eb18-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="5eb18-105">Πληροφορίες σχετικά με τα δικαιώματα που απαιτούνται για την εκτέλεση αναζητήσεων ανακάλυψης από τα [απαιτούμενα δικαιώματα για αναζητήσεις ανακάλυψης](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="5eb18-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="5eb18-106">Εάν η αναζήτησή σας δεν επιστρέφει τα αναμενόμενα αποτελέσματα, ανατρέξτε στην ενότητα [αναζήτησης δεν επιστρέφει αναμενόμενα αποτελέσματα](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="5eb18-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="9d64d-107">Για περισσότερες πληροφορίες σχετικά με την ηλεκτρονική ανακάλυψη στο Office 365, ανατρέξτε στο θέμα [ηλεκτρονική ανακάλυψη στο Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="9d64d-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="5eb18-107">Για περισσότερες πληροφορίες σχετικά με την ηλεκτρονική ανακάλυψη στο Office 365, ανατρέξτε στο θέμα [ηλεκτρονική ανακάλυψη στο Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="5eb18-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
