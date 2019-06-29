@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372632"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360773"
 ---
 # <a name="payment-options"></a>Επιλογές πληρωμής
 
@@ -27,7 +30,7 @@ ms.locfileid: "32372632"
   
 Εάν πληρώσετε με πιστωτική κάρτα ή με τραπεζικό λογαριασμό, θα χρεωθείτε αυτόματα για τη συνδρομή σας την επόμενη ημέρα από την ημερομηνία του τιμολογίου, μέχρι τη λήξη της περιόδου ισχύος της συνδρομής σας. Μπορείτε να [ενημερώσετε τα στοιχεία της πιστωτικής κάρτας ή του τραπεζικού λογαριασμού σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) όποτε χρειάζεται. Μπορείτε επίσης να επιλέξετε [Να λαμβάνετε ένα αντίγραφο της κατάστασης χρέωσής σας με ηλεκτρονικό ταχυδρομείο](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Εάν η πιστωτική κάρτα σας έχει απορριφθεί ή έχει εκπρόθεσμο οφειλόμενο υπόλοιπο, μπορείτε να επιλέξετε τη δυνατότητα **Πληρωμή τώρα** στη σελίδα **Χρεώσεις** \> [Συνδρομές](https://portal.office.com/adminportal/home#/subscriptions). 
+Εάν η πιστωτική κάρτα σας έχει απορριφθεί ή έχει εκπρόθεσμο οφειλόμενο υπόλοιπο, μπορείτε να επιλέξετε τη δυνατότητα **Πληρωμή τώρα** στη σελίδα **Χρεώσεις** \> [Συνδρομές](https://portal.office.com/adminportal/home#/subscriptions).
   
  **Πληρωμή με τιμολόγιο (επιταγή ή ηλεκτρονική μεταφορά κεφαλαίων)**
   
@@ -43,4 +46,3 @@ ms.locfileid: "32372632"
   
 [Πληρωμή για τη συνδρομή σας στο Office 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
