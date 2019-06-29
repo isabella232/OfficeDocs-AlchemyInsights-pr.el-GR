@@ -8,26 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "639"
+- "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755849"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380001"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Μετεγκατάσταση δεδομένων δημόσιου φακέλου στο Office 365
 
-Εάν δεν έχετε πολλά δημόσιους φακέλους για να μεταφέρετε στο Office 365, ο ευκολότερος τρόπος για να τα φέρετε θα είναι να αντιγράψετε τα δεδομένα σε. PST αρχεία και, στη συνέχεια, να τις εισαγάγετε στο Office 365. Για μικρούς όγκους δεδομένων, μια απλή μεταφορά και απόθεση του δημόσιου φακέλου σε ένα. Αρχείο PST μπορεί να είναι επαρκείς. Εάν έχετε περισσότερα δεδομένα από αυτό (μέχρι 30GB), έχουμε [τεκμηριώνονται μια διαδικασία](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) που μπορείτε να χρησιμοποιήσετε για την εξαγωγή των φακέλων σε αρχεία PST. 
+Εάν δεν έχετε πολλά δημόσιους φακέλους για να μεταφέρετε στο Office 365, ο ευκολότερος τρόπος για να τα φέρετε θα είναι να αντιγράψετε τα δεδομένα σε. PST αρχεία και, στη συνέχεια, να τις εισαγάγετε στο Office 365. Για μικρούς όγκους δεδομένων, μια απλή μεταφορά και απόθεση του δημόσιου φακέλου σε ένα. Αρχείο PST μπορεί να είναι επαρκείς. Εάν έχετε περισσότερα δεδομένα από αυτό (μέχρι 30GB), έχουμε [τεκμηριώνονται μια διαδικασία](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) που μπορείτε να χρησιμοποιήσετε για την εξαγωγή των φακέλων σε αρχεία PST.
   
 Για μεγαλύτερες εταιρείες που κυκλοφορούν δημόσιους φακέλους στο Office 365, έχουμε πολλά οδηγών:
   
-- [Μετεγκατάσταση παλαιού τύπου οι δημόσιοι φάκελοι](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 και προηγούμενες) 
-    
+- [Μετεγκατάσταση παλαιού τύπου οι δημόσιοι φάκελοι](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 και προηγούμενες)
+
 - [Μετεγκαταστήσετε δημόσιους φακέλους του Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
-    
-- [Mirate δημόσιους φακέλους του Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-    
+
+- [Μετεγκαταστήσετε δημόσιους φακέλους του Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+
 Έχετε επίσης τη δυνατότητα να [μετεγκαταστήσετε δημόσιους φακέλους σε ομάδες του Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
   
-

@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392535"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372549"
 ---
 # <a name="replying-in-outlookcom"></a>Απάντηση στο Outlook.com
 
 Για να απαντήσετε σε ένα μήνυμα κάθε φορά:
 
-1. Στη λίστα μηνυμάτων, επιλέξτε το μήνυμα που θέλετε να προωθήσετε.
+1. Στη λίστα μηνυμάτων, επιλέξτε το μήνυμα που θέλετε να απαντήσετε.
 2. Στο επάνω δεξιό μέρος του παραθύρου μηνύματος, επιλέξτε το βέλος **Απάντηση** ή τα βέλη **Απάντηση σε όλους** .
 3. Πληκτρολογήστε το μήνυμά σας και, στη συνέχεια, επιλέξτε **Αποστολή**.
 
 Για να απαντήσετε αυτόματα σε όλα τα μηνύματα:
 
-1. Ανοίξτε τις [Ρυθμίσεις αυτόματες απαντήσεις](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Μεταβείτε στις **Ρυθμίσεις** > **προβάλετε όλες τις ρυθμίσεις Outlook** > **Mail** > **Αυτόματες απαντήσεις** για να ανοίξετε τις [Ρυθμίσεις αυτόματες απαντήσεις](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Επιλέξτε την εναλλαγή **ενεργοποίησης αυτόματες απαντήσεις** .
 3. Επιλέγοντας το πλαίσιο ελέγχου **αποστολή απαντήσεων μόνο κατά τη διάρκεια μιας χρονικής περιόδου** , σας επιτρέπει να:
     - Μόνο αποστολή απαντήσεων όταν επιλέγετε. Εάν δεν μπορείτε να ορίσετε μια χρονική περίοδο, την αυτόματη απάντηση παραμένει στο μέχρι να την απενεργοποιήσετε.

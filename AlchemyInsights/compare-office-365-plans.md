@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408252"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362213"
 ---
 # <a name="compare-office-365-plans"></a>Συγκρίνετε τα σχέδια Office 365
 
@@ -26,8 +28,7 @@ ms.locfileid: "32408252"
   
 Εάν ο οργανισμός σας ενδιαφέρεται να συγκρίνει όλα τα σχέδια και τις τιμές, εξετάστε [συγκρίνει όλα τα σχέδια του Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Εάν ο οργανισμός σας έχει ήδη αγοράσει ένα σχέδιο του Office 365 και ενδιαφέρεται να μεταβείτε σε ένα διαφορετικό σχέδιο που να έτσι από το Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην τις [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054)ή επιλέξτε **χρέωσης** \> **εγγραφές**. Επιλέξτε **σχέδια διακόπτη** , για να προβάλετε τη λίστα των νέων σχεδίων που είναι διαθέσιμες. 
+Εάν ο οργανισμός σας έχει ήδη αγοράσει ένα σχέδιο του Office 365 και ενδιαφέρεται να μεταβείτε σε ένα διαφορετικό σχέδιο που να έτσι από το Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην τις [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054)ή επιλέξτε **χρέωσης** \> **εγγραφές**. Επιλέξτε **σχέδια διακόπτη** , για να προβάλετε τη λίστα των νέων σχεδίων που είναι διαθέσιμες.
   
 Ο οργανισμός σας επίσης να αναμειγνύεται και συμφωνεί με τα σχέδια Office 365 ώστε να ανταποκρίνεται στις ανάγκες και τις απαιτήσεις των λειτουργιών των χρηστών. Από της διαχείρισης του Office 365, μεταβείτε στη σελίδα [Υπηρεσιών αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) ή επιλέξτε **χρέωσης** \> **Υπηρεσίες αγοράς**.
   
-
