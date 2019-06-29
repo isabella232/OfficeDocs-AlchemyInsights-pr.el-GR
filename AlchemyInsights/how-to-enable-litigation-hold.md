@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 976
+ms.custom:
+- "976"
+- "3100023"
 ms.assetid: ''
-ms.openlocfilehash: bf450ed6e619c46b7fc4d867284fe5b18854e769
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408683"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384753"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Τοποθετήστε ένα γραμματοκιβώτιο σε αναμονή νομική
 
@@ -25,4 +27,3 @@ ms.locfileid: "32408683"
 - Για να ενεργοποιήσετε τη δίκη κρατήστε πατημένο για ένα χρήστη, [ακολουθήστε τα εξής βήματα](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Όταν είναι ενεργοποιημένη η δίκη κρατήστε, διατηρούνται όλα τα περιεχόμενα του γραμματοκιβωτίου.
 
 - Για να τοποθετήσετε μια διατήρηση σε όλα τα γραμματοκιβώτια στον οργανισμό σας, μπορείτε να χρησιμοποιήσετε μια πολιτική διατήρησης του Office 365, [ακολουθώντας τα εξής βήματα](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Σημειώστε ότι για πολιτικές διατήρησης όλη την εταιρεία, νέους χρήστες θα εκχωρούνται αυτόματα στην πολιτική.
-

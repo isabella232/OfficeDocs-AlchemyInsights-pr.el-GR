@@ -9,13 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000088
-ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1398"
+- "1399"
+- "1626"
+- "8000088"
+ms.openlocfilehash: 897ee4d4708ce7cec352dbc50b8c7ded3214a971
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391618"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372297"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Αποθήκευση μηνυμάτων σε Outlook.com
 
@@ -30,3 +34,5 @@ ms.locfileid: "32391618"
 5. Πληκτρολογήστε ένα όνομα αρχείου και στη συνέχεια επιλέξτε **Αποθήκευση**.
 
 **Σημείωση:** Δεν συνιστάται σε δημόσιους ή κοινόχρηστους υπολογιστές όπως οι άλλοι χρήστες να έχουν πρόσβαση σε όλα τα PDF αποθήκευση στον υπολογιστή και να μην διαγράψετε.
+
+Για περισσότερες πληροφορίες σχετικά με την εκτύπωση, ανατρέξτε στην ενότητα [Εκτύπωση μηνυμάτων ηλεκτρονικού ταχυδρομείου, συνημμένα, και τα ημερολόγια στο Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855).
