@@ -1,34 +1,37 @@
 ---
-title: 8000043 οι ρυθμίσεις POP, IMAP και SMTP για Outlook.com
+title: Ρυθμίσεις POP, IMAP και SMTP για Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000043
+ms.custom:
+- "780"
+- "1415"
+- "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 0fb770a3dc34da662410d8992ce53fba32006cd1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4098e453deb081c8ac9dd7ee76938bbdfe2432c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392292"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373377"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Ρυθμίσεις POP, IMAP και SMTP για Outlook.com
 
-Εάν θέλετε να προσθέσετε το λογαριασμό σας Outlook.com σε μια άλλη εφαρμογή αλληλογραφίας που υποστηρίζει POP ή IMAP, ακολουθούν τις ρυθμίσεις διακομιστή με μη αυτόματο τρόπο, θα πρέπει:
+Εάν θέλετε να προσθέσετε το λογαριασμό σας Outlook.com σε μια εφαρμογή αλληλογραφίας που υποστηρίζει POP ή IMAP, ακολουθούν τις ρυθμίσεις του διακομιστή θα πρέπει:
   
-- **Όνομα διακομιστή IMAP:** outlook.office365.com 
-- **Θύρα IMAP:** 993   
-- **Μέθοδος κρυπτογράφησης IMAP:** TLS   
+- **Όνομα διακομιστή IMAP:** outlook.office365.com
+- **Θύρα IMAP:** 993
+- **Μέθοδος κρυπτογράφησης IMAP:** TLS
 - **Όνομα διακομιστή POP:** outlook.office365.com  
 - **Θύρα POP:** 995  
 - **Μέθοδος κρυπτογράφησης POP:** TLS  
-- **Όνομα διακομιστή SMTP:** smtp.office365.com 
-- **Θύρα SMTP:** 587 
-- **Μέθοδος κρυπτογράφησης SMTP:** STARTTLS 
+- **Όνομα διακομιστή SMTP:** smtp.office365.com
+- **Θύρα SMTP:** 587
+- **Μέθοδος κρυπτογράφησης SMTP:** STARTTLS
 
-Διαβάστε περισσότερα σχετικά με τις [Ρυθμίσεις POP, IMAP, και SMTP για Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).
+Μάθετε περισσότερα σχετικά με την [Προσθήκη του λογαριασμού σας Outlook.com σε άλλο αλληλογραφίας app ή έξυπνων συσκευών](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970).

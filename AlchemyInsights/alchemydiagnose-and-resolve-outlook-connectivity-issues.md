@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "167"
+- "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b1edf5063c46e0957d61c9a112c12d33a5117009
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 526b256dce0c0944f9d91bc586a98212f7963e11
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398042"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357533"
 ---
 # <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Διαγνώσετε και να επιλύσετε ζητήματα συνδεσιμότητας στο Outlook
 
-Για να διαγνώσετε και να διορθώσετε τα ζητήματα συνδεσιμότητας Outlook, μπορείτε να εκτελέσετε το [εργαλείο συνδεσιμότητας Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) στον υπολογιστή που επηρεάζεται. 
+Για να διαγνώσετε και να διορθώσετε τα ζητήματα συνδεσιμότητας Outlook, μπορείτε να εκτελέσετε το [εργαλείο συνδεσιμότητας Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) στον υπολογιστή που επηρεάζεται.
   
 Αυτό το εργαλείο θα εκτέλεση διαγνωστικών ελέγχων και προτείνει πιθανές λύσεις για να αντιμετωπίσει το θέμα συνδεσιμότητας του Outlook.
   
-

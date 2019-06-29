@@ -9,15 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 763
+ms.custom:
+- "763"
+- "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 3c4e9ebc8aaa99350544ca3e5fa0d058a95ad16b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e1f56de26e6ccebce49770224138256ad6794664
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756380"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359549"
 ---
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Αποκλεισμός πρόσβασης Exchange Online PowerShell για χρήστες
 Ως ένας admin, έχετε τη δυνατότητα να αποκλείσετε την πρόσβαση με το Exchange Online PowerShell για τους χρήστες σας. Για περισσότερες πληροφορίες, ανατρέξτε στα παρακάτω θέματα:
 
 - [Ενεργοποίηση ή απενεργοποίηση της πρόσβασης σε PowerShell ηλεκτρονική ανταλλαγή](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)

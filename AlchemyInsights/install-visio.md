@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914107"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381873"
 ---
 # <a name="install-visio"></a>Εγκατάσταση του Visio
 
 Visio πωλείται ως ανεξάρτητη εφαρμογή επομένως εάν δεν διαθέτετε αυτό ακόμα, [αγορά ή δοκιμάστε το Visio](https://products.office.com/visio). 
 
-Εάν έχετε μια συνδρομή στο Visio Online Σχεδιασμός 2, οι χρήστες δεν θα βλέπουν μια επιλογή για να εγκαταστήσετε το Visio από **μου εγκαθιστά** στην [μου πύλη λογαριασμό](https://portal.office.com/account#installs) εκτός και αν έχετε [αντιστοιχίσει τους μια άδεια χρήσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Σημείωση**: ηλεκτρονική σχέδιο Visio 1 δεν περιλαμβάνει μια έκδοση του στην επιφάνεια εργασίας του Visio, ώστε να είναι δυνατό χωρίς καμία εγκατάσταση.
 
-Για συγκεκριμένες οδηγίες σχετικά με τη λήψη και την εγκατάσταση του Visio, ανατρέξτε στην ενότητα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Εάν έχετε μια συνδρομή στο Visio Online Σχεδιασμός 2, θα πρέπει να [αναθέσετε μια άδεια χρήσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) σε έναν χρήστη ή δεν θα έχουν μια επιλογή για να εγκαταστήσετε το Visio από **μου εγκαθιστά** στην [μου λογαριασμού πύλης](https://portal.office.com/account#installs). 
 
-Εάν έχετε μια έγκυρη συνδρομή/άδεια και εκτελούνται σε θέματα στη διάρκεια της εγκατάστασης, προσπαθήστε να εγκαταστήσετε το Visio χρήση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SaRA-VisioSetupScenario).
+Άδεια χρήσης βάσει ποσότητας μη εκδόσεις του Visio Standard ή Visio Professional σχετίζονται με λογαριασμούς Microsoft και δεν είναι δυνατό να γίνεται στο Κέντρο διαχείρισης. Για να εγκαταστήσετε αυτές τις εκδόσεις, οι χρήστες πρέπει να εισέλθετε στο [account.microsoft.com](https://account.microsoft.com) με το λογαριασμό Microsoft που σχετίζεται με αυτήν την έκδοση του Visio.
+
+Για περισσότερες πληροφορίες ανατρέξτε στην ενότητα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) και ακολουθήστε τα βήματα για την έκδοση του Visio.
 
 Για περισσότερες πληροφορίες δείτε:<br>
 [Οδηγός ανάπτυξης για το Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
