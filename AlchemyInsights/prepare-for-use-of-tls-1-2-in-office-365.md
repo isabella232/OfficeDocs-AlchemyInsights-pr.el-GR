@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471343"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370927"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a><span data-ttu-id="e1334-102">Προετοιμασία για χρήση του TLS 1.2 στο Office 365</span><span class="sxs-lookup"><span data-stu-id="e1334-102">Prepare for use of TLS 1.2 in Office 365</span></span>
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a><span data-ttu-id="f6807-102">Προετοιμασία για χρήση του TLS 1.2 στο Office 365</span><span class="sxs-lookup"><span data-stu-id="f6807-102">Prepare for use of TLS 1.2 in Office 365</span></span>
 
-<span data-ttu-id="e1334-p101">Από την 31η Οκτωβρίου 2018, Office 365 θα συνεχίσει να μεταβαίνουν σε TLS 1.2. Αυτό σημαίνει ότι η Microsoft δεν θα επιδιόρθωση νέα ζητήματα που εντοπίζονται σε υπολογιστές-πελάτες, συσκευές ή υπηρεσίες που συνδέονται με το Office 365 με τη χρήση του TLS 1.0 και 1.1. **Αυτό σημαίνει Office 365 αποκλείει TLS 1.0 και 1.1 συνδέσεις.** Την ενδεχόμενη αποδοκιμασία ημερομηνία εξαρτάται από τη χρήση του πελάτη και της τρέχουσας κατάστασης του παλαιού τύπου TLS ασφαλείας. Αφού ληφθεί η απόφαση, θα υπάρχει μια ανακοίνωση έξι μήνες εκ των προτέρων εκτός εάν μας διαπιστώνουν γνωστά διαρροής, οπότε μπορεί να έχουμε να ενεργούν κατά λιγότερο από έξι μήνες για να προστατευθούν οι πελάτες που χρησιμοποιούν τις υπηρεσίες.</span><span class="sxs-lookup"><span data-stu-id="e1334-p101">As of October 31st, 2018, Office 365 will continue transitioning to TLS 1.2. This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Office 365 by using TLS 1.0 and 1.1. **This does not mean Office 365 will block TLS 1.0 and 1.1 connections.** The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security. After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span> 
+<span data-ttu-id="f6807-103">Από τις 31 Οκτωβρίου 2018, το Office 365 θα συνεχίσει τη μετάβαση σε TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="f6807-103">As of October 31st, 2018, Office 365 will continue transitioning to TLS 1.2.</span></span> <span data-ttu-id="f6807-104">Αυτό σημαίνει ότι η Microsoft δεν θα διορθώνει νέα προβλήματα που βρίσκονται σε προγράμματα-πελάτες, συσκευές και υπηρεσίες που συνδέονται στο Office 365 χρησιμοποιώντας τα TLS 1.0 και 1.1.</span><span class="sxs-lookup"><span data-stu-id="f6807-104">This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Office 365 by using TLS 1.0 and 1.1.</span></span> <span data-ttu-id="f6807-105">**Αυτό δεν σημαίνει ότι το Office 365 θα αποκλείει τις συνδέσεις TLS 1.0 και 1.1.**</span><span class="sxs-lookup"><span data-stu-id="f6807-105">**This does not mean Office 365 will block TLS 1.0 and 1.1 connections.**</span></span> <span data-ttu-id="f6807-106">Η τελική ημερομηνία απόσυρσης θα εξαρτηθεί από τη χρήση των πελατών και την τρέχουσα κατάσταση της ασφάλειας παλαιού τύπου TLS.</span><span class="sxs-lookup"><span data-stu-id="f6807-106">The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security.</span></span> <span data-ttu-id="f6807-107">Όταν ληφθεί η απόφαση, θα υπάρξει ανακοίνωση έξι μήνες πριν, εκτός εάν διαπιστώσουμε κάποια γνωστή παραβίαση, οπότε ενδέχεται να πρέπει να ενεργήσουμε σε λιγότερο από έξι μήνες για την προστασία των πελατών που χρησιμοποιούν τις υπηρεσίες.</span><span class="sxs-lookup"><span data-stu-id="f6807-107">After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span>
   
-<span data-ttu-id="e1334-108">Συνιστάται ότι οι διακομιστές και οι πελάτες που συνδέονται με το Office 365, πρέπει να ενεργοποιήσετε TLS 1.2 όσο το δυνατόν συντομότερα.</span><span class="sxs-lookup"><span data-stu-id="e1334-108">It is strongly suggested that any servers and clients connecting with Office 365 need to enable TLS 1.2 as soon as possible.</span></span>
+<span data-ttu-id="f6807-108">Συνιστάται η ενεργοποίηση του TLS 1.2 από όλους τους διακομιστές και τα προγράμματα-πελάτες που συνδέονται με το Office 365, το συντομότερο δυνατόν.</span><span class="sxs-lookup"><span data-stu-id="f6807-108">It is strongly suggested that any servers and clients connecting with Office 365 need to enable TLS 1.2 as soon as possible.</span></span>
   
-<span data-ttu-id="e1334-109">Για περισσότερες πληροφορίες ανατρέξτε στο θέμα [Προετοιμασία για TLS 1.2 στο Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="e1334-109">For more information see [Preparing for TLS 1.2 in Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
+<span data-ttu-id="f6807-109">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προετοιμασία για το TLS 1.2 στο Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="f6807-109">For more information see [Preparing for TLS 1.2 in Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
   
-
