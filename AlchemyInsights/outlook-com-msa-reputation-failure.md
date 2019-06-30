@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000345
-ms.openlocfilehash: ff194e3ec13fda9a409c6d932427385c74191ea6
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.custom:
+- "1979"
+- "9000345"
+ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510154"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373809"
 ---
 # <a name="account-locked"></a>Κλείδωμα λογαριασμού
 
@@ -22,3 +24,5 @@ ms.locfileid: "33510154"
 
 1. Μετάβαση σε [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) και να εισέλθετε στο λογαριασμό σας κλειδωμένο.Για να ξεκλειδώσετε το λογαριασμό σας, πρέπει να εισαγάγετε τον κωδικό ασφαλείας που παρέχεται στο μήνυμα κειμένου από τη Microsoft. Για να λάβετε το μήνυμα κειμένου, πρέπει να έχετε ένα τηλέφωνο που υποστηρίζει την ανταλλαγή μηνυμάτων κειμένου. Εάν το τηλέφωνό σας δεν υποστηρίζει την ανταλλαγή μηνυμάτων κειμένου, μπορείτε να ζητήσετε από ένα φίλο ή μέλος της οικογένειας, να χρησιμοποιήσει το τηλέφωνό τους. Microsoft δεν αποθηκεύει αυτόν τον αριθμό τηλεφώνου, έτσι ώστε ο αριθμός τηλεφώνου που χρησιμοποιείτε για να λάβετε αυτό το μήνυμα κειμένου δεν πρέπει να συσχετίζονται με το λογαριασμό σας.
 2. Εάν δείτε το μήνυμα "Υπέρβαση ορίου χρήσης", μεταβείτε στο [Λογαριασμό αποκατάστασης που](https://go.microsoft.com/fwlink/?linkid=2090483) και μία μας παραγόντων θα επανεξετάσει το λογαριασμό σας.
+
+Για να μάθετε περισσότερα, διαβάστε την [Άρση αποκλεισμού λογαριασμού μου Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 

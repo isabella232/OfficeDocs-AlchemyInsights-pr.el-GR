@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "913"
+- "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422751"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365165"
 ---
 # <a name="install-office"></a>Εγκατάσταση του Office
 
@@ -23,12 +26,11 @@ ms.locfileid: "32422751"
 Στη συνέχεια, να είναι εγκατεστημένο το Office ακολουθώντας τα παρακάτω βήματα:
   
 1. Μετάβαση σε [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
-    
+
 2. Στην κεντρική σελίδα του Office, επιλέξτε τη γλώσσα που θέλετε και, στη συνέχεια, επιλέξτε για προχωρημένους για να επιλέξετε μεταξύ της έκδοσης 64-bit ή 32-bit
-    
+
 3. Επιλέξτε την **εγκατάσταση του Office**.
-    
+
 Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [λήψη και να εγκαταστήσετε ή να επανεγκαταστήσετε το Office σε έναν Υπολογιστή ή Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
 Για συγκεκριμένες οδηγίες σχετικά με το Visio ή το έργο, ανατρέξτε στην ενότητα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ή ένα [έργο](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)
-

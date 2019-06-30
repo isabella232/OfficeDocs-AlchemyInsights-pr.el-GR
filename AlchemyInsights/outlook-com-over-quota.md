@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632080"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373665"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Μηνύματα ηλεκτρονικού ταχυδρομείου και αποθήκευσης ποσόστωσης που εμφαίνεται στο Outlook.com
 
@@ -24,4 +26,6 @@ ms.locfileid: "33632080"
 
 **Όρια αποθήκευσης**
 
-Εάν το φάκελο "Εισερχόμενα" είναι γεμάτος, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε μηνύματα και τα άτομα που σας στέλνουν ηλεκτρονική αλληλογραφία, θα λάβετε ένα μήνυμα λάθους ότι τα Εισερχόμενά σας είναι πλήρης. Μπορείτε να [δείτε πόσο χώρο αποθήκευσης που χρησιμοποιείτε](https://go.microsoft.com/fwlink/?linkid=2052089)ή μπορείτε να [Μάθετε πώς μπορείτε να ελευθερώσετε χώρο στο γραμματοκιβώτιό σας](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Εάν το φάκελο "Εισερχόμενα" είναι γεμάτος, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε μηνύματα και τα άτομα που σας στέλνουν ηλεκτρονική αλληλογραφία, θα λάβετε ένα μήνυμα λάθους ότι τα Εισερχόμενά σας είναι πλήρης. Μπορείτε να δείτε πόσο χώρο αποθήκευσης που είναι διαθέσιμες από [ **Ρυθμίσεις** > **προβάλετε όλες τις ρυθμίσεις Outlook** > **Γενικά**> αποθήκευσης](https://outlook.live.com/mail/options/general/storage), ή μπορείτε να [Μάθετε πώς μπορείτε να ελευθερώσετε χώρο στο γραμματοκιβώτιό σας](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Εάν έχετε ένα λογαριασμό υψηλής ποιότητας, μπορείτε να προβάλετε το χώρο αποθήκευσης, μεταβαίνοντας στο [ **Ρυθμίσεις** > **προβάλετε όλες τις ρυθμίσεις Outlook** > **πριμοδότηση**> δυνατότητες](https://outlook.live.com/mail/options/premium/features).

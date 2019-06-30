@@ -8,17 +8,21 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1386"
+- "2303"
+- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407614"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364553"
 ---
 # <a name="create-a-sharepoint-site"></a>Δημιουργία μιας τοποθεσίας του SharePoint
 
-Για επιλογές για τη δημιουργία τοποθεσιών, ανατρέξτε στην ενότητα [Διαχείριση τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Επιλέξτε για να δημιουργήσετε μια [τοποθεσία ομάδας](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (η οποία θα δημιουργήσει μια ομάδα Office 365) ή μια [τοποθεσία επικοινωνίας](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Για να δημιουργήσετε μια [κλασική τοποθεσίας](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ή μια νέα τοποθεσία ομάδας που δεν περιλαμβάνει μια ομάδα Office 365, κάντε κλικ στις **άλλες επιλογές**. 
+Για επιλογές για τη δημιουργία τοποθεσιών, ανατρέξτε στην ενότητα [Διαχείριση τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Επιλέξτε για να δημιουργήσετε μια [τοποθεσία ομάδας](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (η οποία θα δημιουργήσει μια ομάδα Office 365) ή μια [τοποθεσία επικοινωνίας](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Για να δημιουργήσετε μια [κλασική τοποθεσίας](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ή μια νέα τοποθεσία ομάδας που δεν περιλαμβάνει μια ομάδα Office 365, κάντε κλικ στις **άλλες επιλογές**.
   
 Συμβουλές:
 - *Δεν μπορείτε να δημιουργήσετε μια τοποθεσία με την ίδια διεύθυνση URL μιας υπάρχουσας τοποθεσίας. Εάν διαγράψετε μια τοποθεσία και που επιθυμεί να χρησιμοποιήσει ξανά τη διεύθυνση URL, είναι δυνατή τη διαγραμμένη τοποθεσία εξακολουθεί να υπάρχει στην περιοχή **τοποθεσιών διαγράφηκε**. Για να διαχειριστείτε διαγραφή δείτε τοποθεσίες, [Διαγραφή μιας τοποθεσίας](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Για να καταργήσετε πλήρως μια τοποθεσία με Powershell, δείτε το παράδειγμα cmdlet [Remove SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
