@@ -9,37 +9,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "349"
+- "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 2d9eca47bae44034573844c16af17229e16871e5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416791"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383529"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="b777c-102">Πώς να ενεργοποιήσετε εκ νέου και να διαχειριστείτε επαναλαμβανόμενες χρέωσης</span><span class="sxs-lookup"><span data-stu-id="b777c-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="e45f5-102">Πώς να ενεργοποιήσετε εκ νέου και να διαχειριστείτε επαναλαμβανόμενες χρέωσης</span><span class="sxs-lookup"><span data-stu-id="e45f5-102">How to reactivate and manage recurring billing</span></span>
 
-<span data-ttu-id="b777c-103">Φαίνεται έχετε μια συνδρομή που έχει λήξει.</span><span class="sxs-lookup"><span data-stu-id="b777c-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="b777c-104">Εάν θέλετε να το ενεργοποιήσετε ξανά, εδώ του πώς.</span><span class="sxs-lookup"><span data-stu-id="b777c-104">If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="e45f5-103">Φαίνεται έχετε μια συνδρομή που έχει λήξει.</span><span class="sxs-lookup"><span data-stu-id="e45f5-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="e45f5-104">Εάν θέλετε να το ενεργοποιήσετε ξανά, εδώ του πώς.</span><span class="sxs-lookup"><span data-stu-id="e45f5-104">If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="b777c-105">Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή μεταβείτε στην **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="b777c-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="b777c-106">Επιλέξτε τη συνδρομή που **έληξε** ή **απενεργοποιημένο**.</span><span class="sxs-lookup"><span data-stu-id="b777c-106">Choose the subscription that is **Expired** or **Disabled**.</span></span>
-    
-3. <span data-ttu-id="b777c-107">Επιλέξτε να **ενεργοποιήσετε ξανά**.</span><span class="sxs-lookup"><span data-stu-id="b777c-107">Choose **Reactivate**.</span></span>
-    
-    <span data-ttu-id="b777c-108">Εάν δεν βλέπετε **Επανενεργοποίηση** ως επιλογή, θα πρέπει να χρησιμοποιήσετε την επιλογή "ας γίνει κλήσης" για να συνομιλήσετε με έναν μηχανικό υποστήριξης για να ενεργοποιήσετε ξανά τη συνδρομή σας.</span><span class="sxs-lookup"><span data-stu-id="b777c-108">If you do not see **Reactivate** as an option, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span> 
-    
-4. <span data-ttu-id="b777c-109">Για να ενεργοποιήσετε ξανά, θα σας ζητηθεί να ενημερώσετε τα στοιχεία πληρωμής σας.</span><span class="sxs-lookup"><span data-stu-id="b777c-109">In order to reactivate, you'll be asked to update your payment details.</span></span> <span data-ttu-id="b777c-110">Πληκτρολογήστε τις λεπτομέρειες της πληρωμής σας και επιλέξτε **Υποβολή**.</span><span class="sxs-lookup"><span data-stu-id="b777c-110">Enter your payment details and choose **Submit**.</span></span>
-    
-<span data-ttu-id="b777c-111">Για να διαχειριστείτε μηνιαία ή ετήσια χρέωσης μπορείτε να κάνετε εναλλαγή **επαναλαμβανόμενο χρέωσης** ή να απενεργοποιήσετε.</span><span class="sxs-lookup"><span data-stu-id="b777c-111">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span> 
-  
-1. <span data-ttu-id="b777c-112">Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή μεταβείτε στην **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="b777c-112">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="b777c-113">Επιλέξτε τη συνδρομή για το οποίο θέλετε να διαχειριστείτε επαναλαμβανόμενες χρέωσης.</span><span class="sxs-lookup"><span data-stu-id="b777c-113">Choose the subscription for which you want to manage recurring billing.</span></span>
-    
-3. <span data-ttu-id="b777c-114">Μεταβείτε το **επαναλαμβανόμενο χρέωσης** εναλλαγής για να **ενεργοποιήσετε** ή να **απενεργοποιήσετε**.</span><span class="sxs-lookup"><span data-stu-id="b777c-114">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
-    
-<span data-ttu-id="b777c-115">Για περισσότερες πληροφορίες, δείτε: [Διαχείριση επαναλαμβανόμενες χρέωσης για τη συνδρομή σας](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="b777c-115">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
-  
+1. <span data-ttu-id="e45f5-105">Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή μεταβείτε στην **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="e45f5-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
 
+2. <span data-ttu-id="e45f5-106">Επιλέξτε τη συνδρομή που **έληξε** ή **απενεργοποιημένο**.</span><span class="sxs-lookup"><span data-stu-id="e45f5-106">Choose the subscription that is **Expired** or **Disabled**.</span></span>
+
+3. <span data-ttu-id="e45f5-107">Επιλέξτε να **ενεργοποιήσετε ξανά**.</span><span class="sxs-lookup"><span data-stu-id="e45f5-107">Choose **Reactivate**.</span></span>
+
+    <span data-ttu-id="e45f5-108">Εάν δεν βλέπετε **Επανενεργοποίηση** ως επιλογή, θα πρέπει να χρησιμοποιήσετε την επιλογή "ας γίνει κλήσης" για να συνομιλήσετε με έναν μηχανικό υποστήριξης για να ενεργοποιήσετε ξανά τη συνδρομή σας.</span><span class="sxs-lookup"><span data-stu-id="e45f5-108">If you do not see **Reactivate** as an option, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span>
+
+4. <span data-ttu-id="e45f5-109">Για να ενεργοποιήσετε ξανά, θα σας ζητηθεί να ενημερώσετε τα στοιχεία πληρωμής σας.</span><span class="sxs-lookup"><span data-stu-id="e45f5-109">In order to reactivate, you'll be asked to update your payment details.</span></span> <span data-ttu-id="e45f5-110">Πληκτρολογήστε τις λεπτομέρειες της πληρωμής σας και επιλέξτε **Υποβολή**.</span><span class="sxs-lookup"><span data-stu-id="e45f5-110">Enter your payment details and choose **Submit**.</span></span>
+
+<span data-ttu-id="e45f5-111">Για να διαχειριστείτε μηνιαία ή ετήσια χρέωσης μπορείτε να κάνετε εναλλαγή **επαναλαμβανόμενο χρέωσης** ή να απενεργοποιήσετε.</span><span class="sxs-lookup"><span data-stu-id="e45f5-111">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span>
+  
+1. <span data-ttu-id="e45f5-112">Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) " ή μεταβείτε στην **χρέωσης** \> **εγγραφές**.</span><span class="sxs-lookup"><span data-stu-id="e45f5-112">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
+
+2. <span data-ttu-id="e45f5-113">Επιλέξτε τη συνδρομή για το οποίο θέλετε να διαχειριστείτε επαναλαμβανόμενες χρέωσης.</span><span class="sxs-lookup"><span data-stu-id="e45f5-113">Choose the subscription for which you want to manage recurring billing.</span></span>
+
+3. <span data-ttu-id="e45f5-114">Μεταβείτε το **επαναλαμβανόμενο χρέωσης** εναλλαγής για να **ενεργοποιήσετε** ή να **απενεργοποιήσετε**.</span><span class="sxs-lookup"><span data-stu-id="e45f5-114">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
+
+<span data-ttu-id="e45f5-115">Για περισσότερες πληροφορίες, δείτε: [Διαχείριση επαναλαμβανόμενες χρέωσης για τη συνδρομή σας](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="e45f5-115">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
+  

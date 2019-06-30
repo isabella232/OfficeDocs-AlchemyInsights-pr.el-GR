@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419017"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375249"
 ---
-# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="fa149-102">Σφάλμα 550/553 στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="fa149-102">Error 550/553 in Outlook.com</span></span>
+# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="c8372-102">Σφάλμα 550/553 στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c8372-102">Error 550/553 in Outlook.com</span></span>
 
-<span data-ttu-id="fa149-103">Όταν είστε μακριά από το σπίτι και στέλνετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου από το συνδεδεμένο λογαριασμό χρησιμοποιώντας Outlook.com, μηνύματος ηλεκτρονικού ταχυδρομείου μπορεί να επιστραφεί με ένα 550, 553 ή σφάλμα απαγόρευσης αναμετάδοσης μηνυμάτων.</span><span class="sxs-lookup"><span data-stu-id="fa149-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
-1. <span data-ttu-id="fa149-104">Ελέγξτε τις [ρυθμίσεις συγχρονισμού του ηλεκτρονικού ταχυδρομείου](https://go.microsoft.com/fwlink/?linkid=2031283) , για να εξασφαλίσετε την προεπιλεγμένη από διεύθυνση είναι το ίδιο με το όνομα τομέα του ηλεκτρονικού ταχυδρομείου σας.</span><span class="sxs-lookup"><span data-stu-id="fa149-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) to ensure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="fa149-105">Εάν έχετε δικό σας τομέα ηλεκτρονικού ταχυδρομείου που περιλαμβάνονται, αλλαγή στη διεύθυνση του outlook.com/live.com/hotmail.com σας.</span><span class="sxs-lookup"><span data-stu-id="fa149-105">If you have your own email domain included, change it to your outlook.com/live.com/hotmail.com address.</span></span>
-2. <span data-ttu-id="fa149-106">Ελέγξτε το [συνδεδεμένοι ρυθμίσεις λογαριασμού](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) για να βεβαιωθείτε ότι έχετε ενεργοποιημένο τον έλεγχο ταυτότητας.</span><span class="sxs-lookup"><span data-stu-id="fa149-106">Check your [connected account settings](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) to ensure you have authentication enabled.</span></span>
+<span data-ttu-id="c8372-103">Όταν είστε μακριά από το σπίτι και στέλνετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου από το συνδεδεμένο λογαριασμό χρησιμοποιώντας Outlook.com, μηνύματος ηλεκτρονικού ταχυδρομείου μπορεί να επιστραφεί με ένα 550, 553 ή σφάλμα απαγόρευσης αναμετάδοσης μηνυμάτων.</span><span class="sxs-lookup"><span data-stu-id="c8372-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
+
+1. <span data-ttu-id="c8372-104">Ελέγξτε τις [ρυθμίσεις συγχρονισμού του ηλεκτρονικού ταχυδρομείου](https://go.microsoft.com/fwlink/?linkid=2031283) στις **Ρυθμίσεις** > **προβάλετε όλες τις ρυθμίσεις Outlook** > **Mail** > **συγχρονισμό ηλεκτρονικού ταχυδρομείου**.</span><span class="sxs-lookup"><span data-stu-id="c8372-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) at **Settings** > **View all Outlook settings** > **Mail** > **Sync email**.</span></span>
+1. <span data-ttu-id="c8372-105">Βεβαιωθείτε ότι το προεπιλεγμένο από διεύθυνση είναι το ίδιο με το όνομα τομέα του ηλεκτρονικού ταχυδρομείου σας.</span><span class="sxs-lookup"><span data-stu-id="c8372-105">Make sure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="c8372-106">Εάν έχετε δικό σας τομέα ηλεκτρονικού ταχυδρομείου που περιλαμβάνονται, αλλαγή για να σας outlook.com, live.com ή διεύθυνση hotmail.com.</span><span class="sxs-lookup"><span data-stu-id="c8372-106">If you have your own email domain included, change it to your outlook.com, live.com, or hotmail.com address.</span></span>
