@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: e3640f6792410551aef2b9d22b8dc6922c04027f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4bcf87b2914c22b522dd29b2e754a16a7a31e28c
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373305"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614026"
 ---
-# <a name="outlookcom-premium"></a><span data-ttu-id="ea463-102">Πριμοδότηση Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ea463-102">Outlook.com Premium</span></span>
+# <a name="outlookcom-premium"></a><span data-ttu-id="543a1-102">Πριμοδότηση Outlook.com</span><span class="sxs-lookup"><span data-stu-id="543a1-102">Outlook.com Premium</span></span>
 
-<span data-ttu-id="ea463-103">**Υπάρχοντες συνδρομητές πριμοδότηση**</span><span class="sxs-lookup"><span data-stu-id="ea463-103">**Existing Premium Subscribers**</span></span>
+<span data-ttu-id="543a1-103">**Υπάρχοντες συνδρομητές πριμοδότηση**</span><span class="sxs-lookup"><span data-stu-id="543a1-103">**Existing Premium Subscribers**</span></span>
 
-- <span data-ttu-id="ea463-104">Εάν έχετε ήδη μια συνδρομή πριμοδότηση Outlook.com, διαβάστε τις [Συνήθεις ερωτήσεις πριμοδότηση Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b).</span><span class="sxs-lookup"><span data-stu-id="ea463-104">If you already have an Outlook.com Premium subscription, read the [Outlook.com Premium FAQs](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b).</span></span>
+- <span data-ttu-id="543a1-104">Εάν έχετε ήδη μια συνδρομή πριμοδότηση Outlook.com, διαβάστε τις [Συνήθεις ερωτήσεις πριμοδότηση Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="543a1-104">If you already have an Outlook.com Premium subscription, read the [Outlook.com Premium FAQs](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="ea463-105">**Νέα συνδρομητές**</span><span class="sxs-lookup"><span data-stu-id="ea463-105">**New subscribers**</span></span>
+<span data-ttu-id="543a1-105">**Νέα συνδρομητές**</span><span class="sxs-lookup"><span data-stu-id="543a1-105">**New subscribers**</span></span>
 
-- <span data-ttu-id="ea463-106">Λυπούμαστε, αλλά η πριμοδότηση Outlook.com είναι τώρα κλειστός στους νέους συνδρομητές.</span><span class="sxs-lookup"><span data-stu-id="ea463-106">We're sorry, but Outlook.com Premium is now closed to new subscribers.</span></span>
-- <span data-ttu-id="ea463-107">Πολλές από τις [δυνατότητες και τα πλεονεκτήματα](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) είναι τώρα περιλαμβάνεται [συνδρομές Office 365 Home και Office 365 προσωπικά](https://go.microsoft.com/fwlink/?linkid=2017122).</span><span class="sxs-lookup"><span data-stu-id="ea463-107">Many of the [features and benefits](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) are now included with [subscriptions to Office 365 Home and Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).</span></span>
+- <span data-ttu-id="543a1-106">Λυπούμαστε, αλλά η πριμοδότηση Outlook.com είναι τώρα κλειστός στους νέους συνδρομητές.</span><span class="sxs-lookup"><span data-stu-id="543a1-106">We're sorry, but Outlook.com Premium is now closed to new subscribers.</span></span>
+- <span data-ttu-id="543a1-107">Πολλές από τις [δυνατότητες και τα πλεονεκτήματα](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) είναι τώρα περιλαμβάνεται [συνδρομές Office 365 Home και Office 365 προσωπικά](https://go.microsoft.com/fwlink/?linkid=2017122).</span><span class="sxs-lookup"><span data-stu-id="543a1-107">Many of the [features and benefits](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) are now included with [subscriptions to Office 365 Home and Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).</span></span>
