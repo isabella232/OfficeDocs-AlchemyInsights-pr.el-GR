@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377625"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614170"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Προσθέσετε λογαριασμό Gmail στο Outlook.com
 
@@ -30,4 +30,4 @@ ms.locfileid: "35377625"
 
 Μπορείτε να στείλετε μήνυμα ηλεκτρονικού ταχυδρομείου στο Outlook.com από το συνδεδεμένο λογαριασμό Gmail. Κατά τη σύνθεση ενός μηνύματος ηλεκτρονικού ταχυδρομείου, επιλέξτε **από** και επιλέξτε τη διεύθυνση Gmail ή να [ενημερώσετε την προεπιλεγμένη από διεύθυνση](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη σας άλλους λογαριασμούς ηλεκτρονικού ταχυδρομείου στο Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη σας άλλους λογαριασμούς ηλεκτρονικού ταχυδρομείου στο Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
