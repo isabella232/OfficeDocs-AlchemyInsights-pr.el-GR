@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377409"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697047"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Προσθήκη σημαίες και τις υπενθυμίσεις στο Outlook.com
 
@@ -32,4 +32,4 @@ ms.locfileid: "35377409"
 1. Στη λίστα μηνυμάτων, καταδείξτε το μήνυμα για να δείτε την επιλογή σημαίας.
 1. Επιλέξτε το εικονίδιο σημαίας για να επισημάνετε το μήνυμα. Για να δείτε όλα τα μηνύματα με σημαία, επιλέξτε το σημάδι ελέγχου στην κάτω αριστερή γωνία της σελίδας για να μεταβείτε στις εργασίες.
  
-Για να μάθετε περισσότερα, διαβάστε [σημαία ή του αριθμού pin ένα μήνυμα στο Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).
+Για να μάθετε περισσότερα, διαβάστε [σημαία ή του αριθμού pin ένα μήνυμα στο Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).

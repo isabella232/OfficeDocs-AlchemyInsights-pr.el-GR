@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: 910e42770cd7269444e6286d44bd60d50885a220
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d81a4c575b5b47dbc16ce425163865cb04ecabab
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375465"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701359"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>Καθυστέρηση ή προγραμματισμός της αποστολής μηνυμάτων ηλεκτρονικού ταχυδρομείου
 
@@ -27,4 +27,4 @@ ms.locfileid: "35375465"
 
 Μπορείτε να αλλάξετε τις ρυθμίσεις Outlook.com για να καθυστερήσει την αποστολή ενός μηνύματος για έως και 10 δευτερόλεπτα. Μπορείτε να ακυρώσετε την αποστολή του μηνύματος κατά την περίοδο αυτή. Για να ενεργοποιήσετε αυτήν τη δυνατότητα, ανοίξτε τις ρυθμίσεις [Αναίρεση αποστολής](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
 
-Μάθετε περισσότερα σχετικά με την [ανάκληση μηνύματος ηλεκτρονικού ταχυδρομείου στο Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Μάθετε περισσότερα σχετικά με την [ανάκληση μηνύματος ηλεκτρονικού ταχυδρομείου στο Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

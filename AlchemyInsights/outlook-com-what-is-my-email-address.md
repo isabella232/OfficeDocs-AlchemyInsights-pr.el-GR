@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360989"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701323"
 ---
 # <a name="see-your-own-email-address"></a>Δείτε τη δική σας διεύθυνση ηλεκτρονικού ταχυδρομείου
 
@@ -28,4 +28,4 @@ ms.locfileid: "35360989"
 1. Επιλέξτε τις τρεις τελείες στο κάτω μέρος του παραθύρου του σύνθεση και επιλέξτε **Εμφάνιση από** για να δείτε το "από".
 2. Πάνω από τη γραμμή "προς", επιλέξτε το **από το** και επιλέξτε ποια διεύθυνση ηλεκτρονικού ταχυδρομείου που θέλετε να χρησιμοποιήσετε.
 
-Μάθετε περισσότερα σχετικά με την [Αποστολή ηλεκτρονικού ταχυδρομείου από διαφορετική διεύθυνση στο Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Μάθετε περισσότερα σχετικά με την [Αποστολή ηλεκτρονικού ταχυδρομείου από διαφορετική διεύθυνση στο Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

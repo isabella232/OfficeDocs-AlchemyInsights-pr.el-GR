@@ -11,12 +11,12 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d837096640d951e7fec289440f56b3339caf3680
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373557"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697299"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>Πώς μπορείτε να αντιμετωπίσετε με ένα μήνυμα ηλεκτρονικού ταχυδρομείου "ψαρέματος"
 
@@ -24,6 +24,6 @@ ms.locfileid: "35373557"
 
 Εάν λάβετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου που μοιάζει με μια απάτη ηλεκτρονικού "ψαρέματος", μπορείτε να το αναφέρετε επιλέγοντας το μήνυμα και, στη συνέχεια, επιλέγοντας **ανεπιθύμητης** > **ηλεκτρονικού "ψαρέματος"**.
 
-*Σημείωση:* Όταν επισημαίνετε ένα μήνυμα ως ηλεκτρονικού "ψαρέματος", αναφέρει μόνο τον αποστολέα.Να μην εμποδίζει αυτόν τον αποστολέα να στείλει μηνύματα στο μέλλον. Για να αποκλείσετε τον αποστολέα, πρέπει να προσθέσετε τον αποστολέα στη λίστα αποκλεισμένων αποστολέων. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [αποκλεισμός αποστολείς ή κατάργηση αποκλεισμού αποστολέων στο Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+*Σημείωση:* Όταν επισημαίνετε ένα μήνυμα ως ηλεκτρονικού "ψαρέματος", αναφέρει μόνο τον αποστολέα.Να μην εμποδίζει αυτόν τον αποστολέα να στείλει μηνύματα στο μέλλον. Για να αποκλείσετε τον αποστολέα, πρέπει να προσθέσετε τον αποστολέα στη λίστα αποκλεισμένων αποστολέων. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [αποκλεισμός αποστολείς ή κατάργηση αποκλεισμού αποστολέων στο Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Πληροφορίες σχετικά με την [Αντιμετώπιση καταχρήσεων, ηλεκτρονικού "ψαρέματος", ή η πλαστογράφηση στο Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) και [ασφαλείας για προχωρημένους Outlook.com για τους συνδρομητές του Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Πληροφορίες σχετικά με την [Αντιμετώπιση καταχρήσεων, ηλεκτρονικού "ψαρέματος", ή η πλαστογράφηση στο Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) και [ασφαλείας για προχωρημένους Outlook.com για τους συνδρομητές του Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

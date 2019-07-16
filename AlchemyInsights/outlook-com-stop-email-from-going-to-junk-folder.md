@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371793"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696939"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Διακοπή μηνύματα από μεταβαίνοντας στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου
 
@@ -31,4 +31,4 @@ ms.locfileid: "35371793"
 1. Ανοίξτε τις [Ρυθμίσεις ηλεκτρονικού ταχυδρομείου ανεπιθύμητης αλληλογραφίας](https://go.microsoft.com/fwlink/?linkid=2035804).
 1. Στην περιοχή **Ασφαλείς αποστολείς και τομείς**, επιλέξτε **Προσθήκη**, πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου ή τον τομέα που θέλετε να προσθέσετε και επιλέξτε **Αποθήκευση**.
 
-Για να μάθετε περισσότερα, διαβάστε τη [Σήμανση μηνύματος ηλεκτρονικού ταχυδρομείου ως αποστολείς ανεπιθύμητης αλληλογραφίας "ή" Αποκλεισμός στο Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Για να μάθετε περισσότερα, διαβάστε τη [Σήμανση μηνύματος ηλεκτρονικού ταχυδρομείου ως αποστολείς ανεπιθύμητης αλληλογραφίας "ή" Αποκλεισμός στο Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
