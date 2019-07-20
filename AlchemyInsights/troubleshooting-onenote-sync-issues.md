@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 07b60aa96a42511f3bfbfe0d63b8107a0cfd87e2
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752871"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800117"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Αντιμετώπιση προβλημάτων συγχρονισμού του OneNote
+
+* Για να αντιμετωπίσει το πιο σύνηθες ζητήματα που σχετίζονται με το OneNote συγχρονισμό, χρησιμοποιήστε τα βήματα στην [επίλυση ζητημάτων, όταν δεν μπορείτε να συγχρονίσετε το OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
 Εάν το Σημειωματάριο, το οποίο δεν θα συγχρονιστούν είναι αποθηκευμένα σε OneDrive ή σε νεότερες εκδόσεις του SharePoint, προσπαθήστε να ανοίξετε το σημειωματάριο στο OneNote Online (στο www.onenote.com). Αυτό μπορεί να βοηθήσει να προσδιορίσετε εάν το ζήτημα προκαλείται από το διακομιστή ή από το OneNote.
 
@@ -33,5 +35,3 @@ ms.locfileid: "35752871"
 Εάν δεν μπορείτε να ανοίξετε το σημειωματάριο στο OneNote Online και τις αλλαγές που εμφανίζονται, το πρόβλημα ενδέχεται να προκαλείται από την επιφάνεια εργασίας έκδοση του OneNote. Κλείσιμο και εκ νέου άνοιγμα του σημειωματαρίου συνήθως καταργεί και επαναφέρει με επιτυχία η σύνδεση.
 
 * Συνιστάται μετά την [εγκατάσταση του Office ενημερώνει](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) τα βήματα για να εγκαταστήσετε τις τελευταίες ενημερωμένες εκδόσεις του OneNote στον Υπολογιστή σας. Εάν είστε σε έναν υπολογιστή Mac, ακολουθήστε τα βήματα στο [Αυτόματος έλεγχος για το Office για Mac ενημερωμένες εκδόσεις](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
-
-* Για να αντιμετωπίσει τα περισσότερα κοινά ζητήματα που σχετίζονται με OneeNote συγχρονισμού, ακολουθήστε τα βήματα στην [επίλυση ζητημάτων, όταν δεν μπορείτε να συγχρονίσετε το OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).

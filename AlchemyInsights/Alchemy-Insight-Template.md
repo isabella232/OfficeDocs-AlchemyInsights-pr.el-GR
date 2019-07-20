@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
-ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
+ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35786413"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800045"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Απαιτείται "Alchemy" Επικεφαλίδα H1, H2 του δεν λειτουργούν.
 Βέλτιστες πρακτικές και οδηγίες για τη σύνταξη "Alchemy":
@@ -38,5 +38,3 @@ ms.locfileid: "35786413"
 Και αυτό είναι πραγματικά ήδη λίγο πολύ μεγάλη. Η καλύτερη πρακτική είναι περίπου 400 χαρακτήρες---
 
 Όταν το περιεχόμενο είναι έτοιμη, ελκυστική για το ζωντανό κλαδί. Στη συνέχεια, μεταβείτε στην [πύλη συνεργάτη "Alchemy"](https://alchemyportal.azurewebsites.net) και εισαγάγετε το όνομα του αρχείου στο πεδίο url. 
-
-
