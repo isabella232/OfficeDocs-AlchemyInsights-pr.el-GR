@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 8902ae75c667e8a95da2950facfd70a3773a2ff6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fda78891486aa17efee91ca6653227e639006ba6
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373089"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35612487"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>PST αρχεία δεδομένων σε Outlook.com
 
 Δεν είναι δυνατή η εισαγωγή του Outlook. Αρχείο δεδομένων PST στο λογαριασμό σας Outlook.com, χρησιμοποιώντας ένα πρόγραμμα περιήγησης.
 
-Για να εισαγάγετε ένα. PST αρχείο δεδομένων, πρέπει να χρησιμοποιήσετε το Outlook app στην επιφάνεια εργασίας. Για να μάθετε περισσότερα, διαβάστε την [Εισαγωγή ηλεκτρονικού ταχυδρομείου, επαφών και ημερολογίου από ένα .pst του Outlook.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Για να εισαγάγετε ένα. PST αρχείο δεδομένων, πρέπει να χρησιμοποιήσετε το Outlook app στην επιφάνεια εργασίας. Για να μάθετε περισσότερα, διαβάστε την [Εισαγωγή ηλεκτρονικού ταχυδρομείου, επαφών και ημερολογίου από ένα .pst του Outlook.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
