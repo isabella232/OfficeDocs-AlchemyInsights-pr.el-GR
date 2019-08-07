@@ -1,5 +1,5 @@
 ---
-title: Δημιουργία εφαρμογών σε PowerApps
+title: Δημιουργία εφαρμογών στο PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404963"
 ---
-# <a name="create-apps-with-powerapps"></a><span data-ttu-id="d21ed-102">Δημιουργία εφαρμογών με PowerApps</span><span class="sxs-lookup"><span data-stu-id="d21ed-102">Create apps with PowerApps</span></span>
+# <a name="create-apps-with-powerapps"></a><span data-ttu-id="4ff30-102">Δημιουργία εφαρμογών με το PowerApps</span><span class="sxs-lookup"><span data-stu-id="4ff30-102">Create apps with PowerApps</span></span>
 
-<span data-ttu-id="d21ed-p101">PowerApps είναι μια πλατφόρμα ανάπτυξης για επιχειρηματικές εφαρμογές. Έχει τρία κύρια στοιχεία:</span><span class="sxs-lookup"><span data-stu-id="d21ed-p101">PowerApps is a development platform for business apps. It has three major components:</span></span> 
+<span data-ttu-id="4ff30-103">Το PowerApps είναι μια πλατφόρμα ανάπτυξης για επιχειρηματικές εφαρμογές.</span><span class="sxs-lookup"><span data-stu-id="4ff30-103">PowerApps is a development platform for business apps.</span></span> <span data-ttu-id="4ff30-104">Διαθέτει τρία κύρια στοιχεία:</span><span class="sxs-lookup"><span data-stu-id="4ff30-104">It has three major components:</span></span> 
   
-- <span data-ttu-id="d21ed-p102">[Εφαρμογές του καμβά](https://go.microsoft.com/fwlink/?linkid=874495) , ξεκινήστε με την εμπειρία του χρήστη, δημιουργία μια μεγάλη προσαρμοσμένη διασύνδεση με τη δύναμη του έναν κενό καμβά και να τη συνδέσετε με την επιλογή σας για αρχεία προέλευσης δεδομένων 200. Μπορείτε να δημιουργήσετε εφαρμογές καμβά για το web, κινητών τηλεφώνων και tablet εφαρμογές.</span><span class="sxs-lookup"><span data-stu-id="d21ed-p102">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources. You can build canvas apps for web, mobile, and tablet applications.</span></span> 
+- <span data-ttu-id="4ff30-105">[Οι εφαρμογές καμβά](https://go.microsoft.com/fwlink/?linkid=874495) ξεκινούν με το περιβάλλον χρήστη σας, δημιουργώντας ένα εξαιρετικά προσαρμοσμένο περιβάλλον εργασίας με την ισχύ ενός κενού καμβά και συνδέοντάς το με 200 προελεύσεις δεδομένων της επιλογής σας.</span><span class="sxs-lookup"><span data-stu-id="4ff30-105">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources.</span></span> <span data-ttu-id="4ff30-106">Μπορείτε να δημιουργήσετε εφαρμογές καμβά για το Web, για κινητές συσκευές και για tablet.</span><span class="sxs-lookup"><span data-stu-id="4ff30-106">You can build canvas apps for web, mobile, and tablet applications.</span></span> 
     
-- <span data-ttu-id="d21ed-p103">[Εφαρμογές που βασίζονται σε μοντέλο](https://go.microsoft.com/fwlink/?linkid=874496) , ξεκινήστε με το μοντέλο δεδομένων - Δημιουργία από το σχήμα των βασικών επιχειρηματικών δεδομένων και διαδικασιών στην κοινή υπηρεσία δεδομένων σε μοντέλο φόρμες, προβολές και άλλα στοιχεία. Εφαρμογές που βασίζονται σε μοντέλο δημιουργεί αυτόματα το ιδανικό περιβάλλον Εργασίας που είναι ανταποκρίνεται σε όλες τις συσκευές.</span><span class="sxs-lookup"><span data-stu-id="d21ed-p103">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components. Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
+- <span data-ttu-id="4ff30-107">Οι [εφαρμογές βάσει μοντέλου](https://go.microsoft.com/fwlink/?linkid=874496) ξεκινούν με το μοντέλο δεδομένων σας, οικοδομώντας επάνω στο σχήμα των βασικών επιχειρηματικών δεδομένων και διεργασιών σας στην Common Data Service για τη μοντελοποίηση φορμών, προβολών και άλλων στοιχείων.</span><span class="sxs-lookup"><span data-stu-id="4ff30-107">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components.</span></span> <span data-ttu-id="4ff30-108">Οι εφαρμογές βάσει μοντέλου δημιουργούν αυτόματα εξαιρετικό περιβάλλον εργασίας χρήστη που ανταποκρίνεται γρήγορα σε όλες τις συσκευές.</span><span class="sxs-lookup"><span data-stu-id="4ff30-108">Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
     
-- <span data-ttu-id="d21ed-p104">[Κοινή υπηρεσία δεδομένων](https://go.microsoft.com/fwlink/?linkid=874497) είναι η πλατφόρμα δεδομένων που συνοδεύεται από PowerApps και σας επιτρέπει να αποθηκεύσετε και διαμόρφωσης επιχειρηματικών δεδομένων. Πρόκειται για την πλατφόρμα στην οποία Dynamics 365 εφαρμογές δημιουργούνται. Εάν είστε πελάτης Dynamics, τα δεδομένα σας είναι ήδη στην κοινή υπηρεσία δεδομένων.</span><span class="sxs-lookup"><span data-stu-id="d21ed-p104">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data. It's the platform on which Dynamics 365 applications are built. If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
+- <span data-ttu-id="4ff30-109">Η [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) είναι η πλατφόρμα δεδομένων που παρέχεται με το PowerApps και επιτρέπει την αποθήκευση και τη μοντελοποίηση δεδομένων.</span><span class="sxs-lookup"><span data-stu-id="4ff30-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data.</span></span> <span data-ttu-id="4ff30-110">Είναι η πλατφόρμα στην οποία βασίζονται οι εφαρμογές του Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="4ff30-110">It's the platform on which Dynamics 365 applications are built.</span></span> <span data-ttu-id="4ff30-111">Εάν είστε πελάτης του Dynamics, τα δεδομένα σας βρίσκονται ήδη στην Common Data Service.</span><span class="sxs-lookup"><span data-stu-id="4ff30-111">If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
     
-[<span data-ttu-id="d21ed-112">Περισσότερες πληροφορίες σχετικά με το PowerApps</span><span class="sxs-lookup"><span data-stu-id="d21ed-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
+[<span data-ttu-id="4ff30-112">Περισσότερες πληροφορίες σχετικά με το PowerApps</span><span class="sxs-lookup"><span data-stu-id="4ff30-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

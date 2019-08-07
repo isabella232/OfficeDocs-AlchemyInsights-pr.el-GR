@@ -13,21 +13,22 @@ ms.custom:
 - "8000019"
 - "2002"
 ms.assetid: ''
-ms.openlocfilehash: 687b9972e7c32833913a85bc52abdd5d7ebbe7c2
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: 6de04d2b608fd9d9560da4c72a81a6858d14dbe2
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34422913"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171106"
 ---
-# <a name="import-contacts"></a><span data-ttu-id="0daf8-102">Εισαγωγή επαφών</span><span class="sxs-lookup"><span data-stu-id="0daf8-102">Import contacts</span></span>
+# <a name="import-contacts"></a><span data-ttu-id="13830-102">Εισαγωγή επαφών</span><span class="sxs-lookup"><span data-stu-id="13830-102">Import contacts</span></span>
 
-<span data-ttu-id="0daf8-103">Πριν την εισαγωγή επαφών στο Outlook στο web, θα πρέπει να τα εξαγάγετε από τον παροχέα ηλεκτρονικού ταχυδρομείου ως αρχείου .csv.</span><span class="sxs-lookup"><span data-stu-id="0daf8-103">Before importing contacts to Outlook on the web, you'll need to export them from your other email provider as a .csv file.</span></span> <span data-ttu-id="0daf8-104">Στη συνέχεια, ακολουθήστε τις παρακάτω οδηγίες.</span><span class="sxs-lookup"><span data-stu-id="0daf8-104">Then, follow the instructions below.</span></span>
+<span data-ttu-id="13830-103">Πριν την εισαγωγή επαφών στο Outlook στο web, θα πρέπει να τα εξαγάγετε από τον παροχέα ηλεκτρονικού ταχυδρομείου ως αρχείου .csv.</span><span class="sxs-lookup"><span data-stu-id="13830-103">Before importing contacts to Outlook on the web, you'll need to export them from your other email provider as a .csv file.</span></span> <span data-ttu-id="13830-104">Στη συνέχεια, ακολουθήστε τις παρακάτω οδηγίες.</span><span class="sxs-lookup"><span data-stu-id="13830-104">Then, follow the instructions below.</span></span>
 
-1. <span data-ttu-id="0daf8-105">Στο κάτω μέρος της σελίδας, επιλέξτε το εικονίδιο άτομα για να μεταβείτε στη σελίδα "άτομα".</span><span class="sxs-lookup"><span data-stu-id="0daf8-105">At the bottom of the page, select the people icon to go to the People page.</span></span>
-2. <span data-ttu-id="0daf8-106">Στη γραμμή εργαλείων, επιλέξτε **Διαχείριση** > **Εισαγωγή επαφών**.</span><span class="sxs-lookup"><span data-stu-id="0daf8-106">On the toolbar, select **Manage** > **Import contacts**.</span></span>
-3. <span data-ttu-id="0daf8-107">Επιλέξτε **Αναζήτηση**, επιλέξτε το αρχείο CSV και, στη συνέχεια, επιλέξτε **Άνοιγμα**.</span><span class="sxs-lookup"><span data-stu-id="0daf8-107">Select **Browse**, choose your CSV file, and then select **Open**.</span></span>
-4. <span data-ttu-id="0daf8-108">Επιλέξτε **Εισαγωγή**.</span><span class="sxs-lookup"><span data-stu-id="0daf8-108">Select **Import**.</span></span>
+1. <span data-ttu-id="13830-105">Στο κάτω μέρος της σελίδας, επιλέξτε</span><span class="sxs-lookup"><span data-stu-id="13830-105">At the bottom of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+ <span data-ttu-id="13830-106">**Άτομα**.</span><span class="sxs-lookup"><span data-stu-id="13830-106">**People**.</span></span>
+2. <span data-ttu-id="13830-107">Στη γραμμή εργαλείων, επιλέξτε **Διαχείριση** > **Εισαγωγή επαφών**.</span><span class="sxs-lookup"><span data-stu-id="13830-107">On the toolbar, select **Manage** > **Import contacts**.</span></span>
+3. <span data-ttu-id="13830-108">Επιλέξτε **Αναζήτηση**, επιλέξτε το αρχείο CSV και, στη συνέχεια, επιλέξτε **Άνοιγμα**.</span><span class="sxs-lookup"><span data-stu-id="13830-108">Select **Browse**, choose your CSV file, and then select **Open**.</span></span>
+4. <span data-ttu-id="13830-109">Επιλέξτε **Εισαγωγή**.</span><span class="sxs-lookup"><span data-stu-id="13830-109">Select **Import**.</span></span>
 
-<span data-ttu-id="0daf8-109">Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Εισαγωγή των επαφών στο Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web).</span><span class="sxs-lookup"><span data-stu-id="0daf8-109">To learn more, see [Import contacts to Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web).</span></span>
+<span data-ttu-id="13830-110">Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Εισαγωγή των επαφών στο Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web).</span><span class="sxs-lookup"><span data-stu-id="13830-110">To learn more, see [Import contacts to Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web).</span></span>
 
