@@ -13,18 +13,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385653"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388816"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Πώς μπορείτε να προσθέσετε ή να μειώσετε τις άδειες χρήσης
 
 Ακολουθεί ο τρόπος για να καταργήσετε ή να αγοράσετε περισσότερες άδειες χρήσης.
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) ή επιλέξτε **Χρέωση** \> **Συνδρομές**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Στα αριστερά, επιλέξτε την εγγραφή από την οποία θέλετε να προσθέσετε/καταργήσετε άδειες χρήσης
 
@@ -38,13 +38,15 @@ ms.locfileid: "35385653"
 
 > [!NOTE]
 > Οποιαδήποτε νέα χρέωση (αύξηση άδειας χρήσης) ή πιστωτικό (μείωση άδειας χρήσης) θα εμφανιστεί στον επόμενο λογαριασμό σας.
-  
+
+Μπορείτε να χρησιμοποιείτε το νέο κέντρο διαχείρισης; Για νέα βήματα, ανατρέξτε στην ενότητα [αγοράσετε άδειες χρήσης για το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+
  **Πόροι**
   
-- [Κατάργηση αδειών χρήσης από το Office 365 για επαγγελματική συνδρομή](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [Κατάργηση αδειών χρήσης από το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Αγορά αδειών χρήσης για το Office 365 για επαγγελματική συνδρομή](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Αγορά αδειών χρήσης για το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
 
-- [Ακύρωση του Office 365 για επιχειρήσεις](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Ακύρωση του Office 365 για επιχειρήσεις](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Αγορά άλλο Office 365 για επαγγελματική συνδρομή](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Αγορά άλλο Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)

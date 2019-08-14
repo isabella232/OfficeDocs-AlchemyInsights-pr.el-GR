@@ -14,18 +14,18 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 8b125fb798829f7e67ffc670d9d38dc50bb2d21a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383889"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390908"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Πώς να αγοράσετε σχέδια εκπαίδευσης του Office 365
 
 Που έχουν εγκριθεί για την εκπαίδευση του Office 365. Για να προμηθευτείτε:
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Υπηρεσιών αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) ή επιλέξτε **χρέωσης** \> **Υπηρεσίες αγοράς**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [Υπηρεσιών αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 2. Επιλέξτε από τη λίστα στην περιοχή **Σχέδια εκπαίδευσης**.
 

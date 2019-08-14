@@ -13,16 +13,16 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358541"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385612"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Προσθήκη καθισμάτων σε μια προπληρωμένη συνδρομή
 
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) ή επιλέξτε **Χρέωση** \> **Συνδρομές**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Επιλέξτε το προπληρωμένο συνδρομή που θα θέλατε να προσθέσετε χρήστες.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358541"
 6. Εισαγάγετε τον αριθμό-κλειδί προϊόντος και στη συνέχεια επιλέξτε **Επόμενο**.
 
 7. Ενεργοποιήστε την επιλογή για να προσθέσετε περισσότερους χρήστες, επιλέξτε **Επόμενο**και, στη συνέχεια, επιλέξτε **Redeem**.
+
+Μπορείτε να χρησιμοποιείτε το νέο κέντρο διαχείρισης; Για νέα βήματα, ανατρέξτε στην ενότητα [Προσθήκη αδειών να ή να επεκτείνετε μια συνδρομή καταβάλλεται για τη χρήση του αριθμού-κλειδιού προϊόντος](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

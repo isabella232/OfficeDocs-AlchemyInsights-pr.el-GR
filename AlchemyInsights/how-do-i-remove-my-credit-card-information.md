@@ -13,16 +13,16 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: b91c6260542577c9cb4775eb3b518ee07e98b7f4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386085"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390296"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Πώς μπορώ να καταργήσω τις πληροφορίες της πιστωτικής κάρτας μου;
 
-1. Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) ή επιλέξτε **Χρέωση** \> **Συνδρομές**.
+1. Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Επιλέξτε οποιαδήποτε εγγραφή και, στη συνέχεια, επιλέξτε **Ενημέρωση λεπτομερειών πληρωμής**.
 
@@ -32,3 +32,5 @@ ms.locfileid: "35386085"
 
 > [!NOTE]
 > Μπορείτε να καταργήσετε μια πιστωτική κάρτα ή τραπεζικό λογαριασμό, με την προϋπόθεση ότι δεν έχετε ένα εκκρεμές υπόλοιπο στην πιστωτική κάρτα ή τραπεζικό λογαριασμό και δεν την χρησιμοποιείτε για να πληρώσετε για ενεργό συνδρομή.
+
+Μπορείτε να χρησιμοποιείτε το νέο κέντρο διαχείρισης; Για νέα βήματα, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση, ή την κατάργηση μιας πιστωτικής κάρτας ή του τραπεζικού λογαριασμού στο Office 365 για επιχειρήσεις](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

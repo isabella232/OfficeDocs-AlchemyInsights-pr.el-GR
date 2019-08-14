@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Εβδομάδα του Ιουλίου 01 Μαΐου 2019
-
-
-| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
-|------|------------|--------|
-| 1/7/2019 | [Κλασική αναφορές αρχείου καταγραφής ελέγχου του SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | τροποποίηση |
-| 2/7/2019 | [Περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης](/AlchemyInsights/office-security-compliance-retention-policy) | τροποποίηση |
-
-
 ## <a name="week-of-july-08-2019"></a>Εβδομάδα του Ιουλίου 08 Μαΐου 2019
 
 
@@ -220,3 +211,69 @@
 | 2/8/2019 | [Οργάνωση ηλεκτρονικού ταχυδρομείου του Outlook στο web](/AlchemyInsights/owa-organize-email) | τροποποίηση |
 | 2/8/2019 | [Εκτύπωση, ηλεκτρονικό ταχυδρομείο, ημερολόγια και τα συνημμένα του Outlook στο web](/AlchemyInsights/owa-print-email-calendars-attachments) | τροποποίηση |
 | 2/8/2019 | [Τα αποδεικτικά ανάγνωσης του Outlook στο web](/AlchemyInsights/owa-read-receipts) | τροποποίηση |
+
+
+## <a name="week-of-august-05-2019"></a>Εβδομάδα του Αυγούστου 05 Μαΐου 2019
+
+
+| Δημοσιεύτηκε στο |Τίτλος θέματος | Αλλαγή |
+|------|------------|--------|
+| 5/8/2019 | [Πώς να απαντήσετε ή προώθηση μηνυμάτων του Outlook στο web](/AlchemyInsights/owa-reply-forward-messages) | τροποποίηση |
+| 5/8/2019 | [8000003 Αναζήτηση αλληλογραφίας και άτομα στο Outlook στο web](/AlchemyInsights/owa-search-mail-and-people) | τροποποίηση |
+| 5/8/2019 | [Για να δημιουργήσετε μια υπογραφή στο Outlook στο web](/AlchemyInsights/owa-signature) | τροποποίηση |
+| 5/8/2019 | [S/MIME στο Outlook στο web](/AlchemyInsights/owa-smime) | τροποποίηση |
+| 5/8/2019 | [Διακοπή μηνύματα από μεταβαίνοντας στο φάκελο Ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου του Outlook στο web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | τροποποίηση |
+| 5/8/2019 | [Απενεργοποιήστε την επιλογή "Εισερχόμενα" εστιάζει](/AlchemyInsights/owa-turn-off-focused-inbox) | τροποποίηση |
+| 5/8/2019 | [1332 OWA - κανόνες εισερχομένων δεν εκτελούνται για ένα γραμματοκιβώτιο](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | τροποποίηση |
+| 6/8/2019 | [Δοκιμή ενσωματωμένες εικόνες "Alchemy"](/AlchemyInsights/testing-alchemy-inline-images) | τροποποίηση |
+| 6/8/2019 | [Προστασία απειλή για προχωρημένους στο SharePoint και OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | τροποποίηση |
+| 6/8/2019 | [Ransomware επίθεση στο SharePoint ή OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | τροποποίηση |
+| 6/8/2019 | [Σύγχρονη τοποθεσία ως τη ριζική τοποθεσία](/AlchemyInsights/modern-site-as-the-root-site) | τροποποίηση |
+| 6/8/2019 | [Ζητήματα κατά τη μετεγκατάσταση δεδομένων στο SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | τροποποίηση |
+| 6/8/2019 | [Λήψη ή αποτροπή λήψης αρχείων από OneDrive ή στο SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | τροποποίηση |
+| 6/8/2019 | [Αντιμετώπιση προβλημάτων πρόσβασης επιτρέπονται μηνύματα για OneDrive για επαγγελματικές τοποθεσίες](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | τροποποίηση |
+| 6/8/2019 | [Επαναφορά ενός διαγραμμένου αρχείου ή φακέλου](/AlchemyInsights/sharepoint-deleted-items-restore) | τροποποίηση |
+| 6/8/2019 | [Τήρηση ιστορικού εκδόσεων στο SharePoint και OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | τροποποίηση |
+| 6/8/2019 | [OneDrive πληροφορίες διατήρησης και διαγραφή](/AlchemyInsights/one-drive-retention-and-deletion) | τροποποίηση |
+| 7/8/2019 | [Εμποδίζει τη λήψη από το SharePoint ή OneDrive αρχείων](/AlchemyInsights/prevent-download) | τροποποίηση |
+| 7/8/2019 | [Επαναφορά ενός διαγραμμένου αρχείου ή φακέλου](/AlchemyInsights/sharepoint-deleted-items-restore) | τροποποίηση |
+| 7/8/2019 | [Ενεργοποιήσετε την κοινή χρήση εξωτερικών στο SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | τροποποίηση |
+| 7/8/2019 | [Διορθώνει ζητήματα συγχρονισμού OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | τροποποίηση |
+| 7/8/2019 | [Επιδιόρθωση προβλημάτων συγχρονισμού του OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | τροποποίηση |
+| 7/8/2019 | [Δεν γίνεται αποστολή email ροής εργασίας](/AlchemyInsights/workflow-email-not-being-sent) | τροποποίηση |
+| 7/8/2019 | [Δεν γίνεται εκκίνηση της ροής εργασίας](/AlchemyInsights/workflow-is-not-starting) | τροποποίηση |
+| 7/8/2019 | [Προστασία απειλή για προχωρημένους στο SharePoint και OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | τροποποίηση |
+| 7/8/2019 | [Συσχέτιση μιας τοποθεσίας διανομέα](/AlchemyInsights/associate-a-hub-site) | τροποποίηση |
+| 7/8/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | τροποποίηση |
+| 7/8/2019 | [Σύγχρονη τοποθεσία ως τη ριζική τοποθεσία](/AlchemyInsights/modern-site-as-the-root-site) | τροποποίηση |
+| 7/8/2019 | [OneDrive διατήρησης και διαγραφή](/AlchemyInsights/one-drive-retention-and-deletion) | τροποποίηση |
+| 7/8/2019 | [OneDrive κοινά θέματα και λύσεις](/AlchemyInsights/onedrive-common-issues-and-resolutions) | τροποποίηση |
+| 7/8/2019 | [Ransomware επίθεση στο SharePoint ή OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | τροποποίηση |
+| 7/8/2019 | [Εξωτερικό κοινής χρήσης στο SharePoint ηλεκτρονικά](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | τροποποίηση |
+| 7/8/2019 | [Τήρηση ιστορικού εκδόσεων στο SharePoint και OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | τροποποίηση |
+| 7/8/2019 | [Εξωτερική επαφή δεν είναι δυνατό να αποδεχτεί μια πρόσκληση κοινής χρήσης](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | τροποποίηση |
+| 7/8/2019 | [Ηλεκτρονική SharePoint κοινά θέματα και λύσεις](/AlchemyInsights/sharepoint-get-started-faq) | τροποποίηση |
+| 7/8/2019 | [Σύγχρονη τοποθεσία ως τη ριζική τοποθεσία](/AlchemyInsights/sharepoint-modernize-classic-site) | τροποποίηση |
+| 7/8/2019 | [Λήψη ή αποτροπή λήψης αρχείων από OneDrive ή στο SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | τροποποίηση |
+| 7/8/2019 | [Εγκατάσταση, το πρόγραμμα εγκατάστασης, και να συγχρονίσετε αρχεία OneDrive ή SharePoint σε Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | τροποποίηση |
+| 7/8/2019 | [Αντιμετώπιση προβλημάτων "Άνοιγμα με Εξερεύνησης" στο SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | τροποποίηση |
+| 8/8/2019 | [Προστασία απειλή για προχωρημένους στο SharePoint και OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | τροποποίηση |
+| 8/8/2019 | [Συσχέτιση μιας τοποθεσίας διανομέα](/AlchemyInsights/associate-a-hub-site) | τροποποίηση |
+| 8/8/2019 | [Δημιουργία μιας τοποθεσίας του SharePoint](/AlchemyInsights/create-a-sharepoint-site) | τροποποίηση |
+| 8/8/2019 | [Σφάλμα 404: Δεν βρέθηκε το αρχείο](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | τροποποίηση |
+| 8/8/2019 | [Διορθώνει ζητήματα συγχρονισμού OneDrive σε Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | τροποποίηση |
+| 8/8/2019 | [Αντιστοιχίστε μια βιβλιοθήκη του SharePoint σε μια μονάδα δίσκου δικτύου](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | τροποποίηση |
+| 8/8/2019 | [Σύγχρονη τοποθεσία ως τη ριζική τοποθεσία](/AlchemyInsights/modern-site-as-the-root-site) | τροποποίηση |
+| 8/8/2019 | [OneDrive διατήρησης και διαγραφή](/AlchemyInsights/one-drive-retention-and-deletion) | τροποποίηση |
+| 8/8/2019 | [Ransomware επίθεση στο SharePoint ή OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | τροποποίηση |
+| 8/8/2019 | [Επαναφορά ενός διαγραμμένου αρχείου ή φακέλου](/AlchemyInsights/sharepoint-deleted-items-restore) | τροποποίηση |
+| 8/8/2019 | [Εξωτερικό χρήστη δεν είναι δυνατό να αποκτήσει πρόσβαση σε περιεχόμενο με την ηλεκτρονική του SharePoint](/AlchemyInsights/sharepoint-external-sharing-issues) | τροποποίηση |
+| 8/8/2019 | [Επισκόπηση τοποθεσίες του SharePoint διανομέα](/AlchemyInsights/sharepoint-hub-sites) | τροποποίηση |
+| 8/8/2019 | [Λήψη ή αποτροπή λήψης αρχείων από OneDrive ή στο SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | τροποποίηση |
+| 8/8/2019 | [Διαχείριση σχήμα αναζήτησης στο SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | τροποποίηση |
+| 8/8/2019 | [Βήματα για τη δημιουργία μιας ροής εργασίας του SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | τροποποίηση |
+| 8/8/2019 | [Εναλλαγή σας κλασικό ριζική τοποθεσία με μια σύγχρονη τοποθεσία](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | τροποποίηση |
+| 8/8/2019 | [Αντιμετώπιση προβλημάτων "Άνοιγμα με Εξερεύνησης" στο SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | τροποποίηση |
+| 8/8/2019 | [Αντιμετώπιση προβλημάτων ροής εργασίας](/AlchemyInsights/workflow-troubleshooting) | τροποποίηση |
+| 8/8/2019 | [Ενεργοποίηση και ελέγχου αναζήτησης αρχείου καταγραφής](/AlchemyInsights/enable-auditing) | τροποποίηση |
+| 8/8/2019 | [Ενεργοποίηση και αναζητήστε το αρχείο καταγραφής ελέγχου](/AlchemyInsights/enable-auditing) | τροποποίηση |
