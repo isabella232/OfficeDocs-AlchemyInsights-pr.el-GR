@@ -13,19 +13,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bfee2039e20f69ceffec5946fdbf3f7ec15c8396
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365453"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387748"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="99497-102">Προβάλετε το λογαριασμό μου</span><span class="sxs-lookup"><span data-stu-id="99497-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="332f9-102">Προβάλετε το λογαριασμό μου</span><span class="sxs-lookup"><span data-stu-id="332f9-102">View my bill</span></span>
 
-1. <span data-ttu-id="99497-103">Στο Κέντρο διαχείρισης, μεταβείτε στη σελίδα " [Λογαριασμοί](https://go.microsoft.com/fwlink/p/?linkid=848039) " ή επιλέξτε **χρέωσης** \> **λογαριασμούς**.</span><span class="sxs-lookup"><span data-stu-id="99497-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
+1. <span data-ttu-id="332f9-103">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [λογαριασμών](https://go.microsoft.com/fwlink/p/?linkid=848039) .</span><span class="sxs-lookup"><span data-stu-id="332f9-103">In the admin center, go to the **Billing** \> [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="99497-104">Επιλέξτε το μήνα και την ημερομηνία του τιμολογίου που θέλετε και στη συνέχεια επιλέξτε **Προβολή**.</span><span class="sxs-lookup"><span data-stu-id="99497-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="332f9-104">Επιλέξτε το μήνα και την ημερομηνία του τιμολογίου που θέλετε και στη συνέχεια επιλέξτε **Προβολή**.</span><span class="sxs-lookup"><span data-stu-id="332f9-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
 
-3. <span data-ttu-id="99497-105">Επιλέξτε μια παραγγελία και στη συνέχεια επιλέξτε **Προβολή λεπτομερειών**.</span><span class="sxs-lookup"><span data-stu-id="99497-105">Choose an order, and then choose **View Details**.</span></span>
+3. <span data-ttu-id="332f9-105">Επιλέξτε μια παραγγελία και στη συνέχεια επιλέξτε **Προβολή λεπτομερειών**.</span><span class="sxs-lookup"><span data-stu-id="332f9-105">Choose an order, and then choose **View Details**.</span></span>
 
-<span data-ttu-id="99497-106">Για περισσότερες πληροφορίες ανατρέξτε στο θέμα [προβολή σας λογαριασμό ή ένα τιμολόγιο](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span><span class="sxs-lookup"><span data-stu-id="99497-106">For more information see [View your bill or invoice](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
+<span data-ttu-id="332f9-106">Για περισσότερες πληροφορίες ανατρέξτε στο θέμα [προβολή σας λογαριασμό ή ένα τιμολόγιο](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="332f9-106">For more information see [View your bill or invoice](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
