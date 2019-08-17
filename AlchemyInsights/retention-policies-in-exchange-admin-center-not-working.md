@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369665"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444808"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Οι πολιτικές διατήρησης στο Κέντρο διαχείρισης του Exchange
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369665"
   ```
 
  **Σημείωση:** Εάν ένα γραμματοκιβώτιο είναι μικρότερο από 10 MB, η διαχείριση Βοηθός φακέλου θα γίνει αυτόματα επεξεργασία στο γραμματοκιβώτιο.
-  
+ 
+Για περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης στο Κέντρο διαχείρισης Exchange, ανατρέξτε στο θέμα:
+- [Ετικέτες διατήρησης και πολιτικές διατήρησης](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Εφαρμογή πολιτικής διατήρησης σε γραμματοκιβώτια](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Προσθήκη ή κατάργηση ετικετών διατήρησης](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Τον τρόπο αναγνώρισης του τύπου των παραδιδόμενων τοποθετείται σε ένα γραμματοκιβώτιο](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
