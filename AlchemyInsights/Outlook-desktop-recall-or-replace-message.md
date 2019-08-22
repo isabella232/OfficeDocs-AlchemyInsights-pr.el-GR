@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389695"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496111"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Ανάκληση ή αντικατάσταση ενός μηνύματος ηλεκτρονικού ταχυδρομείου
+# <a name="recall-or-replace-an-outlook-email-message"></a>Ανάκληση ή αντικατάσταση ενός μηνύματος ηλεκτρονικού ταχυδρομείου του Outlook
 
 - Όπως το admin, μπορείτε να κάνετε **ανάκληση μηνυμάτων εκ μέρους των χρηστών χρησιμοποιώντας PowerShell**. Δεν μπορείτε να θυμηθείτε τα μηνύματα από το Κέντρο διαχείρισης.
 - Μπορείτε να κάνετε **μόνο ανάκληση μηνύματα, που αποστέλλονται σε άτομα στον οργανισμό σας**. Αν το μήνυμα έχει σταλεί σε μια διεύθυνση Gmail, για παράδειγμα, δεν μπορείτε να θυμηθείτε το.
