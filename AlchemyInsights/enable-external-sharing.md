@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404049"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527651"
 ---
 # <a name="enable-external-sharing"></a>Ενεργοποίηση εξωτερικής κοινής χρήσης
 
- **Με τη διασφάλιση της κοινής χρήσης είναι ενεργοποιημένη:**
+ Για να βεβαιωθείτε ότι είναι ενεργοποιημένη η κοινή χρήση για το SharePoint Online:
   
 - **Καθολική κοινή χρήση**
     
@@ -27,7 +27,7 @@ ms.locfileid: "32404049"
     
 - **Κοινή χρήση διαχείρισης - Κέντρο διαχείρισης του SharePoint**
     
-- Εξωτερική κοινή χρήση - βεβαιωθείτε είναι επιλεγμένη οποιαδήποτε από τις δύο επιλογές:
+    Εξωτερική κοινή χρήση - βεβαιωθείτε είναι επιλεγμένη οποιαδήποτε από τις δύο επιλογές:
     
   - "Να επιτρέπεται στους εξωτερικούς χρήστες που αποδέχονται την κοινή χρήση προσκλήσεις και είσοδος ως χρήστες με έλεγχο ταυτότητας"
     
