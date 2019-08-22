@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388184"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501365"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="61911-102">Περιοδική χρέωση εγγραφής</span><span class="sxs-lookup"><span data-stu-id="61911-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="3202f-102">Περιοδική χρέωση εγγραφής</span><span class="sxs-lookup"><span data-stu-id="3202f-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="61911-103">Εάν θέλετε να γνωρίζετε όταν σας μηνιαία ή ετήσια συνδρομή θα χρεώνεστε (εάν είναι ενεργοποιημένη η επιλογή **χρέωσης επαναλαμβανόμενο** ) ή λήξει (εάν είναι απενεργοποιημένη η επιλογή **επαναλαμβανόμενο χρέωση** ):</span><span class="sxs-lookup"><span data-stu-id="61911-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
+<span data-ttu-id="3202f-103">Εάν θέλετε να γνωρίζετε όταν σας μηνιαία ή ετήσια συνδρομή Office 365 θα χρεώνεστε (εάν είναι ενεργοποιημένη η επιλογή **χρέωσης επαναλαμβανόμενο** ) ή λήξει (εάν είναι απενεργοποιημένη η επιλογή **επαναλαμβανόμενο χρέωση** ):</span><span class="sxs-lookup"><span data-stu-id="3202f-103">If you want to know when your monthly or yearly Office 365 subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
   
-1. <span data-ttu-id="61911-104">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="61911-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="3202f-104">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="3202f-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="61911-105">Επιλέξτε την εγγραφή που θέλετε να μάθετε περισσότερα.</span><span class="sxs-lookup"><span data-stu-id="61911-105">Choose the subscription that you want to know more about.</span></span>
+2. <span data-ttu-id="3202f-105">Για την εγγραφή που θέλετε να μάθετε περισσότερα σχετικά με το, στην περιοχή **χρέωσης**, δείτε την ημερομηνία **Renews σε** ή **Expiring σε** .</span><span class="sxs-lookup"><span data-stu-id="3202f-105">For the subscription that you want to know more about, under **Billing**, see the **Renews on** or **Expiring on** date.</span></span>
 
-3. <span data-ttu-id="61911-106">Στη δεξιά πλευρά της καρτέλας συνδρομή είναι πληροφορίες σχετικά με την κατάσταση της εγγραφής, η ρύθμιση **επαναλαμβανόμενο χρέωσης** και την επόμενη ημερομηνία τιμολόγησης ή λήξης.</span><span class="sxs-lookup"><span data-stu-id="61911-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span>
+4. <span data-ttu-id="3202f-106">Για να κάνετε μια αλλαγή, επιλέξτε **Επεξεργασία** και στη συνέχεια, στο παράθυρο ρυθμίσεις **επαναλαμβανόμενο χρέωσης** , επιλέξτε **ΑΠΕΝΕΡΓΟΠΟΊΗΣΗ** για να απενεργοποιήσετε αυτήν τη δυνατότητα.</span><span class="sxs-lookup"><span data-stu-id="3202f-106">To make a change, select **edit** and then, in the **Recurring billing** settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="3202f-107">Εάν είναι ήδη εκτός λειτουργίας περιοδικής χρέωσης, επιλέξτε **Μηνιαία** ή **μία φορά** για να την ενεργοποιήσετε.</span><span class="sxs-lookup"><span data-stu-id="3202f-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-4. <span data-ttu-id="61911-107">Για να συνεχίσετε να χρησιμοποιείτε την υπηρεσία μετά την ημερομηνία αυτή, μεταβείτε το **επαναλαμβανόμενο χρέωσης ρυθμίσεις** εναλλαγής **σε**.</span><span class="sxs-lookup"><span data-stu-id="61911-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="61911-108">Η κατάσταση θα εμφανιστούν την επόμενη ημερομηνία χρέωσης για τη συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="61911-108">The status will show the next billing date for the subscription.</span></span>
-
-5. <span data-ttu-id="61911-109">Για να διακόψετε την υπηρεσία για τη συγκεκριμένη ημερομηνία, εναλλαγή η εναλλαγή **επαναλαμβανόμενο χρέωσης** σε **Off**.</span><span class="sxs-lookup"><span data-stu-id="61911-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="61911-110">Η κατάσταση θα εμφανίσει την ημερομηνία, τη λήξη της συνδρομής.</span><span class="sxs-lookup"><span data-stu-id="61911-110">The status will show the date the subscription expires.</span></span>
-
-<span data-ttu-id="61911-111">Μπορείτε να χρησιμοποιείτε το νέο κέντρο διαχείρισης;</span><span class="sxs-lookup"><span data-stu-id="61911-111">Are you using the new admin center?</span></span> <span data-ttu-id="61911-112">Για νέα βήματα, ανατρέξτε στο θέμα [Ενεργοποίηση επανάληψης χρέωσης ή απενεργοποίηση](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="61911-112">For new steps, see [Turn recurring billing off or on](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>
+<span data-ttu-id="3202f-108">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ενεργοποίηση επανάληψης χρέωσης ή απενεργοποίηση](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="3202f-108">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>

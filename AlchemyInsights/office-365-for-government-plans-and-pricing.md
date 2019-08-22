@@ -13,15 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389360"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522119"
 ---
-<span data-ttu-id="ada8a-102">Σχέδια κυβέρνηση των η.π.α. του Office 365 έχουν σχεδιαστεί για τις μοναδικές ανάγκες των οργανισμών κυβέρνηση των Η.Π.Α.</span><span class="sxs-lookup"><span data-stu-id="ada8a-102">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="ada8a-103">Παρέχουν όλες τις δυνατότητες και τις λειτουργίες των υπηρεσιών του Office 365 σε μια Κοινότητα νέφους τμηματική κυβέρνηση που επιτρέπει στις επιχειρήσεις να πληρούν συμμόρφωση των η.π.α. και τα πρότυπα ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="ada8a-103">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
-  
-- [<span data-ttu-id="ada8a-104">Εξετάστε τα σχέδια της κυβέρνησης</span><span class="sxs-lookup"><span data-stu-id="ada8a-104">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+# <a name="office-365-government-plans"></a><span data-ttu-id="a00fe-102">Σχέδια της κυβέρνησης του Office 365</span><span class="sxs-lookup"><span data-stu-id="a00fe-102">Office 365 Government plans</span></span>
 
-- [<span data-ttu-id="ada8a-105">Συγκρίνετε όλα τα σχέδια του Office 365</span><span class="sxs-lookup"><span data-stu-id="ada8a-105">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+<span data-ttu-id="a00fe-103">Σχέδια κυβέρνηση των η.π.α. του Office 365 έχουν σχεδιαστεί για τις μοναδικές ανάγκες των οργανισμών κυβέρνηση των Η.Π.Α.</span><span class="sxs-lookup"><span data-stu-id="a00fe-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="a00fe-104">Παρέχουν όλες τις δυνατότητες και τις λειτουργίες των υπηρεσιών του Office 365 σε μια Κοινότητα νέφους τμηματική κυβέρνηση που επιτρέπει στις επιχειρήσεις να πληρούν συμμόρφωση των η.π.α. και τα πρότυπα ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="a00fe-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+  
+- [<span data-ttu-id="a00fe-105">Εξετάστε τα σχέδια της κυβέρνησης</span><span class="sxs-lookup"><span data-stu-id="a00fe-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+
+- [<span data-ttu-id="a00fe-106">Συγκρίνετε όλα τα σχέδια του Office 365</span><span class="sxs-lookup"><span data-stu-id="a00fe-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

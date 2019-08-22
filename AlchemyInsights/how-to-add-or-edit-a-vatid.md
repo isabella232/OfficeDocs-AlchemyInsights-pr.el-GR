@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386404"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522611"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="802fd-102">Πώς μπορείτε να προσθέσετε ή να επεξεργαστείτε μια VatID</span><span class="sxs-lookup"><span data-stu-id="802fd-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="974d4-102">Πώς μπορείτε να προσθέσετε ή να επεξεργαστείτε μια VatID</span><span class="sxs-lookup"><span data-stu-id="974d4-102">How to add or edit a VatID</span></span>
 
-- <span data-ttu-id="802fd-103">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="802fd-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1.  <span data-ttu-id="974d4-103">Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην **χρέωσης** \> [servicces & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) σελίδα.</span><span class="sxs-lookup"><span data-stu-id="974d4-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-- <span data-ttu-id="802fd-104">Στη σελίδα " **εγγραφές** ", επιλέξτε την εγγραφή που θέλετε να επεξεργαστείτε και, στη συνέχεια, επιλέξτε **Περισσότερες ενέργειες** \> **Επεξεργασία ΑΦΜ**.</span><span class="sxs-lookup"><span data-stu-id="802fd-104">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
+2. <span data-ttu-id="974d4-104">Βρείτε την κάρτα συνδρομής για τη συνδρομή που θέλετε να ενημερώσετε.</span><span class="sxs-lookup"><span data-stu-id="974d4-104">Find the subscription card for the subscription you want to update.</span></span>
 
-- <span data-ttu-id="802fd-105">Στο κάτω μέρος του παραθύρου **επεξεργασίας σας διεύθυνση χρήση της υπηρεσίας** , εισαγάγετε ή επεξεργαστείτε το Αναγνωριστικό ΦΠΑ στο πλαίσιο **αριθμός ΦΠΑ** και, στη συνέχεια, επιλέξτε **Υποβολή**.</span><span class="sxs-lookup"><span data-stu-id="802fd-105">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
+3. <span data-ttu-id="974d4-105">Στην ενότητα **Ρυθμίσεις & ενέργειες** , επιλέξτε **Επεξεργασία διεύθυνσης χρήσης της υπηρεσίας**.</span><span class="sxs-lookup"><span data-stu-id="974d4-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
 
-    <span data-ttu-id="802fd-106">Όταν ολοκληρωθεί η εγκατάσταση, ΦΠΑ δεν θα χρεωθεί στον επόμενο λογαριασμό σας.</span><span class="sxs-lookup"><span data-stu-id="802fd-106">When complete, VAT will not be charged on your next bill.</span></span>
+4. <span data-ttu-id="974d4-106">Στη σελίδα **Επεξεργασία σας διεύθυνση χρήση της υπηρεσίας** , καταχωρήστε το Αναγνωριστικό ΦΠΑ στο πλαίσιο **αριθμός ΦΠΑ** και, στη συνέχεια, επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="974d4-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
 
-<span data-ttu-id="802fd-107">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι φόρο θα θα χρεωθεί για Office 365;](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="802fd-107">For more information, see [What tax will I be charged for Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+    <span data-ttu-id="974d4-107">Όταν ολοκληρωθεί η εγκατάσταση, ΦΠΑ δεν θα χρεωθεί στον επόμενο λογαριασμό σας.</span><span class="sxs-lookup"><span data-stu-id="974d4-107">When complete, VAT will not be charged on your next bill.</span></span>
 
-<span data-ttu-id="802fd-108">Μπορείτε να χρησιμοποιείτε το νέο κέντρο διαχείρισης;</span><span class="sxs-lookup"><span data-stu-id="802fd-108">Are you using the new admin center?</span></span> <span data-ttu-id="802fd-109">Για νέα βήματα, ανατρέξτε στο θέμα [Προσθήκη σας Αναγνωριστικό ΦΠΑ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="802fd-109">For new steps, see [Add your VAT ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
+<span data-ttu-id="974d4-108">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι φόρο θα θα χρεωθεί για Office 365;](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) ή [Προσθήκη σας Αναγνωριστικό ΦΠΑ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="974d4-108">For more information, see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) or [Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
