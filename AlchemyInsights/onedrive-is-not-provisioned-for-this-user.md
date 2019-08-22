@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 056e80f1f24bd32f3d2fdad996fc3169d755b435
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419656"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543632"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a><span data-ttu-id="cceab-102">Δεν έχει γίνει προμήθεια της OneDrive για αυτόν το χρήστη</span><span class="sxs-lookup"><span data-stu-id="cceab-102">OneDrive is not provisioned for this user</span></span>
+# <a name="onedrive-is-not-provisioned-for-this-user"></a><span data-ttu-id="35690-102">Δεν έχει γίνει προμήθεια της OneDrive για αυτόν το χρήστη</span><span class="sxs-lookup"><span data-stu-id="35690-102">OneDrive is not provisioned for this user</span></span>
 
-<span data-ttu-id="cceab-103">Για λογαριασμούς που δημιουργήθηκε πρόσφατα, οι χρήστες χρειάζεται να εισέλθετε στην πύλη Office 365 με το δικό του λογαριασμό και κάντε κλικ στην επιλογή OneDrive για να ξεκινήσετε με μη αυτόματο τρόπο την παροχή της τοποθεσίας του OneDrive.</span><span class="sxs-lookup"><span data-stu-id="cceab-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="35690-103">Για λογαριασμούς που δημιουργήθηκε πρόσφατα, οι χρήστες χρειάζεται να εισέλθετε στην πύλη Office 365 με το δικό του λογαριασμό και κάντε κλικ στην επιλογή OneDrive για να ξεκινήσετε με μη αυτόματο τρόπο την παροχή της τοποθεσίας του OneDrive.</span><span class="sxs-lookup"><span data-stu-id="35690-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="cceab-104">Ωστόσο, εάν ο χρήστης έχει ήδη κλικ στο OneDrive και δεν έχει γίνει προμήθεια της προσωπικής του τοποθεσίας μέσα σε 24 ώρες, συνδεθείτε ένα εισιτήριο υποστήριξης για περαιτέρω βοήθεια.</span><span class="sxs-lookup"><span data-stu-id="cceab-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="35690-104">Ωστόσο, εάν ο χρήστης έχει ήδη κλικ στο OneDrive και δεν έχει γίνει προμήθεια της προσωπικής του τοποθεσίας μέσα σε 24 ώρες, συνδεθείτε ένα εισιτήριο υποστήριξης για περαιτέρω βοήθεια.</span><span class="sxs-lookup"><span data-stu-id="35690-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 

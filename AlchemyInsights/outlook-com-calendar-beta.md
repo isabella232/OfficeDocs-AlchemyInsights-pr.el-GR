@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 10df70e027efb099f663d6e79dff6e73c6ff6140
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376905"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548139"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a><span data-ttu-id="1db04-102">Νέο ημερολόγιο εμπειρίες που έρχονται για να Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1db04-102">New Calendar experiences coming to Outlook.com</span></span>
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a><span data-ttu-id="01d66-102">Νέο ημερολόγιο εμπειρίες που έρχονται για να Outlook.com</span><span class="sxs-lookup"><span data-stu-id="01d66-102">New Calendar experiences coming to Outlook.com</span></span>
 
-<span data-ttu-id="1db04-103">Η νέα εμφάνιση φέρνει τα καλύτερα σχέδια και learnings από την αλληλογραφία εμπειρία στο ημερολόγιο.</span><span class="sxs-lookup"><span data-stu-id="1db04-103">The new look brings the best designs and learnings from the Mail experience to the Calendar.</span></span>
+<span data-ttu-id="01d66-103">Η νέα εμφάνιση φέρνει τα καλύτερα σχέδια και learnings από την αλληλογραφία εμπειρία στο ημερολόγιο.</span><span class="sxs-lookup"><span data-stu-id="01d66-103">The new look brings the best designs and learnings from the Mail experience to the Calendar.</span></span>
 
-<span data-ttu-id="1db04-104">Μπορείτε να έχετε μια σύγχρονη σχεδίαση που μειώνει οπτική ακαταστασία και σας παρέχει ταχύτερη τρόπους για να περιηγηθείτε το ημερολόγιό σας.</span><span class="sxs-lookup"><span data-stu-id="1db04-104">You’ll enjoy a modern design that reduces visual clutter and gives you faster ways to navigate your calendar.</span></span> <span data-ttu-id="1db04-105">Επίσης, είναι πιο εύκολο να βρείτε ενδιαφέροντες ημερολόγια για τις αγαπημένες σας δραστηριότητες — από Τηλεοπτικών εκπομπών σε αθλητικών ομάδων και συμβάντα.</span><span class="sxs-lookup"><span data-stu-id="1db04-105">It’s also easier to find interesting calendars for your favorite activities—from TV shows to sports teams and events.</span></span>
+<span data-ttu-id="01d66-104">Μπορείτε να έχετε μια σύγχρονη σχεδίαση που μειώνει οπτική ακαταστασία και σας παρέχει ταχύτερη τρόπους για να περιηγηθείτε το ημερολόγιό σας.</span><span class="sxs-lookup"><span data-stu-id="01d66-104">You’ll enjoy a modern design that reduces visual clutter and gives you faster ways to navigate your calendar.</span></span> <span data-ttu-id="01d66-105">Επίσης, είναι πιο εύκολο να βρείτε ενδιαφέροντες ημερολόγια για τις αγαπημένες σας δραστηριότητες — από Τηλεοπτικών εκπομπών σε αθλητικών ομάδων και συμβάντα.</span><span class="sxs-lookup"><span data-stu-id="01d66-105">It’s also easier to find interesting calendars for your favorite activities—from TV shows to sports teams and events.</span></span>
 
-<span data-ttu-id="1db04-106">Έχουμε εκτεταμένη συλλογή μας από εικονίδια συμβάντων και ενημέρωση της εμφάνισης και αίσθησης του υπάρχοντα — και τώρα αυτόματα προσθέσουμε σχετικών εικονιδίων σε συμβάντα σας, ώστε να μπορείτε εύκολα να δείτε τι συμβαίνει με μια ματιά.</span><span class="sxs-lookup"><span data-stu-id="1db04-106">We expanded our collection of event icons and updated the look and feel of existing ones—and we now automatically add relevant icons to your events, so you can easily see what is going on at a glance.</span></span>
+<span data-ttu-id="01d66-106">Έχουμε εκτεταμένη συλλογή μας από εικονίδια συμβάντων και ενημέρωση της εμφάνισης και αίσθησης του υπάρχοντα — και τώρα αυτόματα προσθέσουμε σχετικών εικονιδίων σε συμβάντα σας, ώστε να μπορείτε εύκολα να δείτε τι συμβαίνει με μια ματιά.</span><span class="sxs-lookup"><span data-stu-id="01d66-106">We expanded our collection of event icons and updated the look and feel of existing ones—and we now automatically add relevant icons to your events, so you can easily see what is going on at a glance.</span></span>
 
-<span data-ttu-id="1db04-107">Μπορείτε να δώσετε σχολίων μέσω του [καναλιού Outlook.com UserVoice ημερολόγιο](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197)των νέων δυνατοτήτων.</span><span class="sxs-lookup"><span data-stu-id="1db04-107">You can give feedback on new features through the [Outlook.com Calendar UserVoice channel](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).</span></span>
+<span data-ttu-id="01d66-107">Μπορείτε να δώσετε σχολίων μέσω του [καναλιού Outlook.com UserVoice ημερολόγιο](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197)των νέων δυνατοτήτων.</span><span class="sxs-lookup"><span data-stu-id="01d66-107">You can give feedback on new features through the [Outlook.com Calendar UserVoice channel](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).</span></span>
