@@ -12,15 +12,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: 841691026560692942dfd78442e91f2b57fcbb63
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d8bd1e91fdc7975b128ee5d53198585cc97de418
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357029"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516887"
 ---
-# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="e5890-102">4.5.3 πάρα πολλοί παραλήπτες (AS780090)</span><span class="sxs-lookup"><span data-stu-id="e5890-102">4.5.3 Too many recipients (AS780090)</span></span>
+# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="69255-102">4.5.3 πάρα πολλοί παραλήπτες (AS780090)</span><span class="sxs-lookup"><span data-stu-id="69255-102">4.5.3 Too many recipients (AS780090)</span></span>
 
-<span data-ttu-id="e5890-103">Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο βάσει της φήμης (ή έλλειψη φήμη) διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="e5890-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="69255-103">Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο βάσει της φήμης (ή έλλειψη φήμη) διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="69255-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="e5890-104">Αποκλεισμός ηλεκτρονικό ταχυδρομείο από τη διεύθυνση IP προέλευσης θα λήξει μέσα σε μία ώρα.</span><span class="sxs-lookup"><span data-stu-id="e5890-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="e5890-105">Εάν η διεύθυνση IP προέλευσης είναι ένας διακομιστής ηλεκτρονικού ταχυδρομείου εσωτερικής εγκατάστασης που ανήκει σε εσάς, επαληθεύστε τις ρυθμίσεις παραμέτρων της υπηρεσίας σύνδεσης ροή αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="e5890-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="e5890-106">Εάν η συμπεριφορά εξακολουθεί για περισσότερο από μία ώρα, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση για τη διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="e5890-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="69255-104">Αποκλεισμός ηλεκτρονικό ταχυδρομείο από τη διεύθυνση IP προέλευσης θα λήξει μέσα σε μία ώρα.</span><span class="sxs-lookup"><span data-stu-id="69255-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="69255-105">Εάν η διεύθυνση IP προέλευσης είναι ένας διακομιστής ηλεκτρονικού ταχυδρομείου εσωτερικής εγκατάστασης που ανήκει σε εσάς, επαληθεύστε τις ρυθμίσεις παραμέτρων της υπηρεσίας σύνδεσης ροή αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="69255-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="69255-106">Εάν η συμπεριφορά εξακολουθεί για περισσότερο από μία ώρα, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση για τη διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="69255-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
