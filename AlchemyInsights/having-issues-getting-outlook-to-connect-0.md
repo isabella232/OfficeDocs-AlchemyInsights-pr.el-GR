@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9fc653723e873ca11d83b363af938589b1a5a87b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400407"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523259"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Αντιμετωπίζετε ζητήματα γρήγορα το Outlook για να συνδεθείτε;
 
@@ -21,10 +21,10 @@ ms.locfileid: "32400407"
   
 {HealthCheckString}
   
-Οι εγγραφές NS ή CNAME από τις ρυθμίσεις τομέα (DNS) δεν έχουν ρυθμιστεί σωστά. Μπορείτε να αναφερθείτε σε [εγγραφές DNS ενημέρωση στο Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) για λεπτομερείς οδηγίες. 
+Οι εγγραφές NS ή CNAME από τις ρυθμίσεις τομέα (DNS) δεν έχουν ρυθμιστεί σωστά. Μπορείτε να ανατρέξετε στην ενότητα [Ενημέρωση εγγραφών DNS στο Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) για λεπτομερείς οδηγίες. 
   
-Να το διορθώσετε, μεταβείτε στη σελίδα [τομείς](https://admin.microsoft.com/adminportal/home#/Domains) στο Κέντρο διαχείρισης Microsoft 365 και εμείς θα σας βοηθήσει με αυτό. 
+Για να το διορθώσετε, μεταβείτε στη σελίδα [Τομείς](https://admin.microsoft.com/adminportal/home#/Domains) στο Κέντρο διαχείρισης Microsoft 365 και θα σας βοηθήσουμε. 
   
-[Ελέγξτε τις συνήθεις Ερωτήσεις τομείς](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) για άλλες κοινές λύσεις. 
+Για άλλες κοινές λύσεις, ανατρέξτε στις [Συνήθεις ερωτήσεις για τους τομείς](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 

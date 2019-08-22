@@ -13,13 +13,15 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389360"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522119"
 ---
+# <a name="office-365-government-plans"></a>Σχέδια της κυβέρνησης του Office 365
+
 Σχέδια κυβέρνηση των η.π.α. του Office 365 έχουν σχεδιαστεί για τις μοναδικές ανάγκες των οργανισμών κυβέρνηση των Η.Π.Α. Παρέχουν όλες τις δυνατότητες και τις λειτουργίες των υπηρεσιών του Office 365 σε μια Κοινότητα νέφους τμηματική κυβέρνηση που επιτρέπει στις επιχειρήσεις να πληρούν συμμόρφωση των η.π.α. και τα πρότυπα ασφαλείας.
   
 - [Εξετάστε τα σχέδια της κυβέρνησης](https://products.office.com/government/compare-office-365-government-plans)

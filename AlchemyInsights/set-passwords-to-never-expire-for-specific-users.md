@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369053"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509108"
 ---
 # <a name="set-passwords-to-never-expire"></a>Ορισμός κωδικών πρόσβασης χωρίς λήξη
 
-Για να ορίσετε ΌΛΟΥΣ τους κωδικούς πρόσβασης χωρίς λήξη, μεταβείτε στην [ασφαλείας &amp; απορρήτου](https://portal.office.com/adminportal/home#/settings/security). Κάντε κλικ στο κουμπί " **Επεξεργασία** " δίπλα στην **Πολιτική κωδικού πρόσβασης**και ενεργοποιήστε το ρυθμιστικό **στο**.
+Για να ορίσετε ΌΛΟΥΣ τους κωδικούς πρόσβασης χωρίς λήξη στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στις **Ρυθμίσεις** > [ασφαλείας &amp; απορρήτου](https://portal.office.com/adminportal/home#/settings/security) σελίδας. Επιλέξτε " **Επεξεργασία** " δίπλα στην **Πολιτική κωδικού πρόσβασης**και ενεργοποιήστε το ρυθμιστικό **στο**.
   
 Για πιο αναλυτικές πληροφορίες, δείτε: [οριστεί η πολιτική λήξης του κωδικού πρόσβασης για τον οργανισμό σας.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

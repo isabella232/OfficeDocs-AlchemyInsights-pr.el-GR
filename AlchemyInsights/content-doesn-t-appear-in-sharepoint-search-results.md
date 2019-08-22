@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363806"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517031"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Το περιεχόμενο δεν εμφανίζεται στα αποτελέσματα αναζήτησης του SharePoint
 
@@ -28,7 +28,7 @@ ms.locfileid: "35363806"
 
 3. Βεβαιωθείτε ότι η σελίδα, το έγγραφο ή τη διάταξη σελίδας προσαρμοσμένου δημοσιεύεται ως μια **κύρια έκδοση.** Ακολουθήστε το βήμα 3 για [Αναζήτηση δεν επιστρέφει όλα τα αποτελέσματα στο SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Βεβαιωθείτε ότι ο χρήστης έχει **δικαιώματα** για να προβάλετε το περιεχόμενο. Ακολουθήστε τα βήματα στην [Κατανόηση των επιπέδων δικαιωμάτων στο SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Βεβαιωθείτε ότι ο χρήστης έχει **δικαιώματα** για να προβάλετε το περιεχόμενο. Ακολουθήστε τα βήματα στην [Κατανόηση των επιπέδων δικαιωμάτων στο SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Εάν έχει αλλάξει το σχήμα αναζήτησης, προσθέτοντας μια νέα ιδιότητα διαχείρισης, με την επεξεργασία μιας διαχειριζόμενης ιδιότητας ή με την κατάργηση μιας διαχειριζόμενης ιδιότητας στη συνέχεια ζητά μια ανίχνευση και αναδιοργανώστε σε μορφή ευρετηρίου θα είναι απαραίτητη. **Αναδιοργανώστε σε μορφή ευρετηρίου** περιεχομένου, ακολουθώντας τα βήματα στην [αίτηση με μη αυτόματο τρόπο ανίχνευσης και εκ νέου δημιουργία ευρετηρίου για μια τοποθεσία, μια βιβλιοθήκη ή λίστα](https://docs.microsoft.com/sharepoint/crawl-site-content). Αυτό μπορεί να διαρκέσει μερικά λεπτά, περιμένετε 24 ώρες πριν να ελέγξετε ξανά τα αποτελέσματα.
 

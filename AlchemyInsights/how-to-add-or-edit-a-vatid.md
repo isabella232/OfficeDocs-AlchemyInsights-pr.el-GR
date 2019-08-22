@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386404"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522611"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Πώς μπορείτε να προσθέσετε ή να επεξεργαστείτε μια VatID
 
-- Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην **χρέωσης** \> [servicces & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) σελίδα.
 
-- Στη σελίδα " **εγγραφές** ", επιλέξτε την εγγραφή που θέλετε να επεξεργαστείτε και, στη συνέχεια, επιλέξτε **Περισσότερες ενέργειες** \> **Επεξεργασία ΑΦΜ**.
+2. Βρείτε την κάρτα συνδρομής για τη συνδρομή που θέλετε να ενημερώσετε.
 
-- Στο κάτω μέρος του παραθύρου **επεξεργασίας σας διεύθυνση χρήση της υπηρεσίας** , εισαγάγετε ή επεξεργαστείτε το Αναγνωριστικό ΦΠΑ στο πλαίσιο **αριθμός ΦΠΑ** και, στη συνέχεια, επιλέξτε **Υποβολή**.
+3. Στην ενότητα **Ρυθμίσεις & ενέργειες** , επιλέξτε **Επεξεργασία διεύθυνσης χρήσης της υπηρεσίας**.
+
+4. Στη σελίδα **Επεξεργασία σας διεύθυνση χρήση της υπηρεσίας** , καταχωρήστε το Αναγνωριστικό ΦΠΑ στο πλαίσιο **αριθμός ΦΠΑ** και, στη συνέχεια, επιλέξτε **Αποθήκευση**.
 
     Όταν ολοκληρωθεί η εγκατάσταση, ΦΠΑ δεν θα χρεωθεί στον επόμενο λογαριασμό σας.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι φόρο θα θα χρεωθεί για Office 365;](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Μπορείτε να χρησιμοποιείτε το νέο κέντρο διαχείρισης; Για νέα βήματα, ανατρέξτε στο θέμα [Προσθήκη σας Αναγνωριστικό ΦΠΑ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι φόρο θα θα χρεωθεί για Office 365;](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) ή [Προσθήκη σας Αναγνωριστικό ΦΠΑ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

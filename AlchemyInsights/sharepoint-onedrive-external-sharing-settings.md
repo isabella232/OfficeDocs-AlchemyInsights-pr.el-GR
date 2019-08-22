@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059179"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507883"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Εξωτερική κοινή χρήση ρυθμίσεων για SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Προειδοποιητικό μήνυμα: πολιτικές της εταιρείας σας δεν σας επιτρέπουν να χρησιμοποιείτε από κοινού με αυτούς τους χρήστες
 
 Οι χρήστες ενδέχεται να αντιμετωπίσετε ένα προειδοποιητικό μήνυμα όταν προσπαθείτε να κάνετε κοινή χρήση με εξωτερικούς χρήστες του οργανισμού σας. Το μήνυμα είναι **πολιτικές της εταιρείας σας δεν σας επιτρέπουν να χρησιμοποιείτε από κοινού με αυτούς τους χρήστες. Μεταβείτε στην εξωτερική κοινόχρηστης στα στο Κέντρο διαχείρισης του Office 365, για να την ενεργοποιήσετε**. Αυτό συχνά συμβαίνει την πρώτη φορά που προσπαθεί να κάνετε κοινή χρήση με εξωτερικούς χρήστες ή κατά την κοινή χρήση με νέους χρήστες του εξωτερικού.
 
