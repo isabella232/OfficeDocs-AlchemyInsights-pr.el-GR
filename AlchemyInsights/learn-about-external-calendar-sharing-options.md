@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381297"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497803"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="ca4c5-102">Πληροφορίες σχετικά με την εξωτερική ημερολογίου, επιλογές για κοινή χρήση</span><span class="sxs-lookup"><span data-stu-id="ca4c5-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="dce95-102">Πληροφορίες σχετικά με την εξωτερική ημερολογίου, επιλογές για κοινή χρήση</span><span class="sxs-lookup"><span data-stu-id="dce95-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="ca4c5-103">Ανατρέξτε στην ενότητα [κοινή χρήση ημερολογίων με εξωτερικούς χρήστες](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="ca4c5-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="dce95-103">Εάν χρειάζεται να προγραμματίσετε συσκέψεις με άτομα εκτός της εταιρείας σας, Office 365 σάς επιτρέπει να διαθέσετε ημερολόγια σε "εξωτερικούς χρήστες" όσους θα χρειαστεί για να δείτε τη διαθεσιμότητα χρόνου, αλλά δεν έχετε λογαριασμούς χρήστη για το περιβάλλον σας Office 365.</span><span class="sxs-lookup"><span data-stu-id="dce95-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="dce95-104">Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [κοινή χρήση ημερολογίων με εξωτερικούς χρήστες](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="dce95-104">For more information, see [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>

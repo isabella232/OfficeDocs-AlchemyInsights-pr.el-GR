@@ -13,17 +13,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1c3f929a319b5f6ef52f5469f2e60eb481b66165
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f8b62ce98c125360bb48c36339f9b9593fc5a55b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602035"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511595"
 ---
-# <a name="cant-download-files-in-chrome"></a><span data-ttu-id="5f308-102">Δεν είναι δυνατή η λήψη αρχείων στο Chrome</span><span class="sxs-lookup"><span data-stu-id="5f308-102">Can't download files in Chrome</span></span>
+# <a name="cant-download-files-in-chrome"></a><span data-ttu-id="4881b-102">Δεν είναι δυνατή η λήψη αρχείων στο Chrome</span><span class="sxs-lookup"><span data-stu-id="4881b-102">Can't download files in Chrome</span></span>
 
-<span data-ttu-id="5f308-103">**Το ζήτημα** Είμαστε ενήμεροι για ένα ζήτημα που εμποδίζει ορισμένους πελάτες μπορούν να κάνουν λήψη αρχείων, όταν χρησιμοποιείτε το πρόγραμμα περιήγησης Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="5f308-103">**Issue** We're aware of an issue that is preventing some customers from being able to download files when using Google Chrome browser.</span></span> 
+<span data-ttu-id="4881b-103">**Το ζήτημα** Είμαστε ενήμεροι για ένα ζήτημα που εμποδίζει ορισμένους πελάτες μπορούν να κάνουν λήψη αρχείων, όταν χρησιμοποιείτε το πρόγραμμα περιήγησης Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="4881b-103">**Issue** We're aware of an issue that is preventing some customers from being able to download files when using Google Chrome browser.</span></span> 
 
-<span data-ttu-id="5f308-104">**Εναλλακτικός τρόπος αντιμετώπισης** Χρησιμοποιήστε το [Άκρο της Microsoft](https://www.microsoft.com/en-gb/windows/microsoft-edge) ή ένα άλλο πρόγραμμα περιήγησης στο web.</span><span class="sxs-lookup"><span data-stu-id="5f308-104">**Workaround** Use [Microsoft Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge) or another web browser.</span></span>
-<span data-ttu-id="5f308-105">Μάθετε περισσότερα σχετικά με τον τρόπο [λήψης αρχείων και συνημμένων Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5f308-105">Learn more about how to [download files and Outlook.com attachments](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="4881b-104">**Εναλλακτικός τρόπος αντιμετώπισης** Χρησιμοποιήστε το [Άκρο της Microsoft](https://www.microsoft.com/en-gb/windows/microsoft-edge) ή ένα άλλο πρόγραμμα περιήγησης στο web.</span><span class="sxs-lookup"><span data-stu-id="4881b-104">**Workaround** Use [Microsoft Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge) or another web browser.</span></span>
+<span data-ttu-id="4881b-105">Μάθετε περισσότερα σχετικά με τον τρόπο [λήψης αρχείων και συνημμένων Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="4881b-105">Learn more about how to [download files and Outlook.com attachments](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 

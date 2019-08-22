@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 509b539b80d9dcbb10ec3b7ed294cbc2280b7f7f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388353"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527507"
 ---
-# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="e9ea7-102">Σφάλμα 0-1036 κατά την εγκατάσταση του office</span><span class="sxs-lookup"><span data-stu-id="e9ea7-102">Error 0-1036 when installing office</span></span>
+# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="96bbd-102">Σφάλμα 0-1036 κατά την εγκατάσταση του office</span><span class="sxs-lookup"><span data-stu-id="96bbd-102">Error 0-1036 when installing office</span></span>
 
-<span data-ttu-id="e9ea7-103">Δοκιμάστε τις παρακάτω λύσεις για να διορθώσετε το σφάλμα 0 1036 του Office:</span><span class="sxs-lookup"><span data-stu-id="e9ea7-103">Try these solutions to fix your Office error 0-1036:</span></span>
+<span data-ttu-id="96bbd-103">Δοκιμάστε τις παρακάτω λύσεις για να διορθώσετε το σφάλμα 0 1036 του Office:</span><span class="sxs-lookup"><span data-stu-id="96bbd-103">Try these solutions to fix your Office error 0-1036:</span></span>
   
-- <span data-ttu-id="e9ea7-104">Επανεκκινήστε τον υπολογιστή σας και δοκιμάστε ξανά την [εγκατάσταση του Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="e9ea7-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
+- <span data-ttu-id="96bbd-104">Επανεκκινήστε τον υπολογιστή σας και δοκιμάστε ξανά την [εγκατάσταση του Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="96bbd-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
 
-- <span data-ttu-id="e9ea7-105">Λήψη και εγκατάσταση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e9ea7-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="96bbd-105">Λήψη και εγκατάσταση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="96bbd-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="e9ea7-106">Κατά το άνοιγμα, από **προϊόντα καταργήσετε την εγκατάσταση του Office** , επιλέξτε την έκδοση που θέλετε να απεγκαταστήσετε και επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="e9ea7-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
+1. <span data-ttu-id="96bbd-106">Κατά το άνοιγμα, από **προϊόντα καταργήσετε την εγκατάσταση του Office** , επιλέξτε την έκδοση που θέλετε να απεγκαταστήσετε και επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="96bbd-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
 
-2. <span data-ttu-id="e9ea7-107">Συνεχίστε μεταβαίνοντας σε οθόνες και κάντε επανεκκίνηση του υπολογιστή σας, όταν σας ζητηθεί.</span><span class="sxs-lookup"><span data-stu-id="e9ea7-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="96bbd-107">Συνεχίστε μεταβαίνοντας σε οθόνες και κάντε επανεκκίνηση του υπολογιστή σας, όταν σας ζητηθεί.</span><span class="sxs-lookup"><span data-stu-id="96bbd-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="e9ea7-108">Μετά την επανεκκίνηση, την υποστήριξη και αποκατάστασης του Βοηθού εκ νέου ανοίγει αυτόματα για να ολοκληρωθεί η διαδικασία απεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="e9ea7-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="96bbd-108">Μετά την επανεκκίνηση, την υποστήριξη και αποκατάστασης του Βοηθού εκ νέου ανοίγει αυτόματα για να ολοκληρωθεί η διαδικασία απεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="96bbd-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="e9ea7-109">Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό.</span><span class="sxs-lookup"><span data-stu-id="e9ea7-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="96bbd-109">Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό.</span><span class="sxs-lookup"><span data-stu-id="96bbd-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-- <span data-ttu-id="e9ea7-110">[Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) για την εγκατάσταση του Office</span><span class="sxs-lookup"><span data-stu-id="e9ea7-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
+- <span data-ttu-id="96bbd-110">[Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) για την εγκατάσταση του Office</span><span class="sxs-lookup"><span data-stu-id="96bbd-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
