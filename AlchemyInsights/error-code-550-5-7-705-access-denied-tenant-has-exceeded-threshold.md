@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388065"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527219"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="ef321-102">Επιτρέπεται η πρόσβαση 550 5.7.705, μίσθωσης έχει υπερβεί το όριο</span><span class="sxs-lookup"><span data-stu-id="ef321-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="9c263-102">Επιτρέπεται η πρόσβαση 550 5.7.705, μίσθωσης έχει υπερβεί το όριο</span><span class="sxs-lookup"><span data-stu-id="9c263-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="ef321-103">Αυτό το μήνυμα εμφανίζεται όταν πάρα πολύ ανεπιθύμητων μηνυμάτων ή μαζικής αλληλογραφίας έχει αποσταλεί από τον οργανισμό σας και ενδέχεται να θέσουμε ένα μπλοκ για εξερχόμενη αλληλογραφία.</span><span class="sxs-lookup"><span data-stu-id="ef321-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="ef321-104">Κοινές αιτίες είναι εκτεθειμένο σε χώρους διακομιστές ή έχει παραβιαστεί διαχείρισης λογαριασμών που έχουν χρησιμοποιηθεί για τη δημιουργία συνδέσεων.</span><span class="sxs-lookup"><span data-stu-id="ef321-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="ef321-105">Μία από τις συνθήκες να επιτρέψετε ανεπιθύμητης αλληλογραφίας να περάσει από την εταιρεία σας.</span><span class="sxs-lookup"><span data-stu-id="ef321-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="9c263-103">Αυτό το μήνυμα εμφανίζεται όταν πάρα πολύ ανεπιθύμητων μηνυμάτων ή μαζικής αλληλογραφίας έχει αποσταλεί από τον οργανισμό σας και ενδέχεται να θέσουμε ένα μπλοκ για εξερχόμενη αλληλογραφία.</span><span class="sxs-lookup"><span data-stu-id="9c263-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="9c263-104">Κοινές αιτίες είναι εκτεθειμένο σε χώρους διακομιστές ή έχει παραβιαστεί διαχείρισης λογαριασμών που έχουν χρησιμοποιηθεί για τη δημιουργία συνδέσεων.</span><span class="sxs-lookup"><span data-stu-id="9c263-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="9c263-105">Μία από τις συνθήκες να επιτρέψετε ανεπιθύμητης αλληλογραφίας να περάσει από την εταιρεία σας.</span><span class="sxs-lookup"><span data-stu-id="9c263-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="ef321-106">Για να καταργήσετε αυτό το στοιχείο, θα πρέπει να κατανοήσετε και να εξηγούν την αιτία σε έναν εκπρόσωπο της υπηρεσίας υποστήριξης, καθώς και να Διορθώστε το υποκείμενο πρόβλημα.</span><span class="sxs-lookup"><span data-stu-id="ef321-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="ef321-107">Όταν είστε έτοιμοι, κάντε κλικ στο κουμπί **Επικοινωνήστε μαζί μας** παρακάτω.</span><span class="sxs-lookup"><span data-stu-id="ef321-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="9c263-106">Για να καταργήσετε αυτό το στοιχείο, θα πρέπει να κατανοήσετε και να εξηγούν την αιτία σε έναν εκπρόσωπο της υπηρεσίας υποστήριξης, καθώς και να Διορθώστε το υποκείμενο πρόβλημα.</span><span class="sxs-lookup"><span data-stu-id="9c263-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="9c263-107">Όταν είστε έτοιμοι, κάντε κλικ στο κουμπί **Επικοινωνήστε μαζί μας** παρακάτω.</span><span class="sxs-lookup"><span data-stu-id="9c263-107">Click **Contact us** below once you're ready.</span></span>
