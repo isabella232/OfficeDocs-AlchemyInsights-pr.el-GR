@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 3198113aea314252399c98f5654654663366b0a1
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045435"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543097"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>Σημειωματάριο του OneNote κλάσης θέματα και λύσεις
 
@@ -28,7 +28,7 @@ ms.locfileid: "36045435"
 
 - **Καταργήσετε μαθητές:** Ξεκινήστε με την [Κατάργηση των σπουδαστών σε κλάση Σημειωματάριο, το OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Για ζητήματα που σχετίζονται με την κατάργηση των σπουδαστών, δείτε [μαθητές διαγράφηκε, αλλά εξακολουθεί να εμφανίζεται το φάκελό τους](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
 
-- **Νέα καθηγητές:** Για την νέα καθηγητές ορίσει τους Σημειωματάριο κλάσης, εξετάστε [Προσθήκη ή κατάργηση συνεργάτες καθηγητές σε κλάση Σημειωματάριο, το OneNote](https://support.office.com/en-us/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) ή τη [μεταφορά κλάση σημειωματάριο σε μια νέα καθηγητές](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
+- **Νέα καθηγητές:** Για την νέα καθηγητές ορίσει τους Σημειωματάριο κλάσης, εξετάστε [Προσθήκη ή κατάργηση συνεργάτες καθηγητές σε κλάση Σημειωματάριο, το OneNote](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) ή τη [μεταφορά κλάση σημειωματάριο σε μια νέα καθηγητές](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
 
 Εάν το ζήτημα που αντιμετωπίζετε δεν εμφανίζεται εδώ, ανατρέξτε στην ενότητα [αντιμετώπισης προβλημάτων](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) του [Σημειωματαρίου κλάσης](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
 
