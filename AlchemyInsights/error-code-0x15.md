@@ -12,13 +12,15 @@ ms.custom:
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Αν λαμβάνετε ένα σφάλμα κατά την ενεργοποίηση του Office 2013 σε υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) αναπτύξεις, εξετάστε το ενδεχόμενο να Ενεργοποίηση ADAL με επεξεργασία του μητρώου.
-ms.openlocfilehash: e2249d8ebbd2313c64dda5656a3243fa76d97a9a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ef2943e5a529368fa2c614e4431cf180924fbb8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388245"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526995"
 ---
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Παρουσιάστηκε σφάλμα κατά την ενεργοποίηση Office 2013 σε υπηρεσίες απομακρυσμένης επιφάνειας εργασίας
+
 Αν λαμβάνετε ένα σφάλμα κατά την ενεργοποίηση του Office 2013 σε υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) αναπτύξεις, εξετάστε το ενδεχόμενο να Ενεργοποίηση ADAL με επεξεργασία του μητρώου.
   
 |**Κλειδί μητρώου**|**Τύπος**|**Τιμή**|
@@ -28,5 +30,5 @@ ms.locfileid: "35388245"
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ενεργοποίηση σύγχρονη ελέγχου ταυτότητας για το Office 2013 σε συσκευές των Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
   
 > [!NOTE]
->  ADAL είναι ενεργοποιημένη από προεπιλογή στο Office 365 ProPlus και Office 2016. > Υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) ήταν προηγουμένως με το όνομα των υπηρεσιών Terminal Services.
+>  ADAL είναι ενεργοποιημένη από προεπιλογή στο Office 365 ProPlus και Office 2016. Υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) ήταν προηγουμένως με το όνομα των υπηρεσιών Terminal Services.
   
