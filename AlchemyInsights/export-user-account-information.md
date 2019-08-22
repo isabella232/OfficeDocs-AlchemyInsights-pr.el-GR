@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526211"
 ---
 # <a name="export-user-account-information"></a>Εξαγωγή πληροφοριών λογαριασμού χρήστη
 
-Για να εξαγάγετε το λογαριασμό χρήστη πληροφορίες, συμπεριλαμβανομένων πληροφοριών για τις άδειες χρήσης, πολιτική κωδικών πρόσβασης, δεσμευμένων λογαριασμών, κατάσταση συγχρονισμού AAD και πολλά άλλα, μεταβείτε στους **χρήστες** > [ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) της σελίδας και στη συνέχεια επιλέξτε **Εξαγωγή χρήστες**.
+Για να εξαγάγετε πληροφορίες λογαριασμού χρήστη από το Microsoft 365 admin κέντρο, συμπεριλαμβανομένων πληροφοριών για τις άδειες χρήσης, πολιτική κωδικών πρόσβασης, δεσμευμένων λογαριασμών, κατάσταση συγχρονισμού AAD και πολλά άλλα, μεταβείτε στους **χρήστες** > σελίδα[ενεργούς χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) , και στη συνέχεια επιλέξτε **εξαγωγής Οι χρήστες**.

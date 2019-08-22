@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270744"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501079"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Εναλλαγή σας κλασικό ριζική τοποθεσία με μια σύγχρονη τοποθεσία
 
 Εάν το περιβάλλον σας έχει οριστεί πριν από Απριλίου 2019, μπορείτε να αλλάξετε τη βασική τοποθεσία σε μια σύγχρονη τοποθεσία χρησιμοποιώντας Microsoft PowerShell:
 
 - Εάν έχετε μια διαφορετική τοποθεσία που θέλετε να χρησιμοποιήσετε ως τη βασική τοποθεσία, μπορείτε να αντικαταστήσετε την τοποθεσία (μετάθεσης) στη ρίζα με αυτό. 
-    - Χρησιμοποιήστε [Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) να αλλάξετε τη θέση μιας τοποθεσίας με άλλη τοποθεσία κατά την αρχειοθέτηση στην αρχική τοποθεσία. Διαθέσιμο για τοποθεσία ομάδας (που δεν είναι συνδεδεμένοι σε μια ομάδα) και τοποθεσία επικοινωνίας. 
+    - Χρησιμοποιήστε [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) να αλλάξετε τη θέση μιας τοποθεσίας με άλλη τοποθεσία κατά την αρχειοθέτηση στην αρχική τοποθεσία. Διαθέσιμο για τοποθεσία ομάδας (που δεν είναι συνδεδεμένοι σε μια ομάδα) και τοποθεσία επικοινωνίας. 
 
 - Πρόσθετες δυνατότητες θα εμφανιστούν σύντομα που θα σας επιτρέψει να διατηρήσετε χρησιμοποιώντας το περιεχόμενο της τοποθεσίας, αλλά να μετατρέψετε την υπάρχουσα τοποθεσία σε μια τοποθεσία επικοινωνίας. 
 >[!Important]

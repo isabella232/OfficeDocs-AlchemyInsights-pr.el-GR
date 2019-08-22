@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 472386634e3a2c0b6f7886cc449df53fee313942
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510587"
 ---
-# <a name="change-your-account-information"></a>Αλλαγής των πληροφοριών λογαριασμού
+# <a name="change-account-information-in-outlook-on-the-web"></a>Αλλαγή των πληροφοριών λογαριασμού στο Outlook στο web
 
 1. Στην κορυφή της σελίδας, επιλέξτε την εικόνα ή το όνομα προφίλ σας.
 1. Επιλέξτε **το λογαριασμό μου**.
