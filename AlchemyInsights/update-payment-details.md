@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 174d4f364b9266f8ba8d51522b0956eddc61ea9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387752"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532583"
 ---
-# <a name="update-payment-details"></a><span data-ttu-id="ff09a-102">Ενημέρωση λεπτομερειών πληρωμής</span><span class="sxs-lookup"><span data-stu-id="ff09a-102">Update payment details</span></span>
+# <a name="update-payment-details"></a><span data-ttu-id="049e7-102">Ενημέρωση λεπτομερειών πληρωμής</span><span class="sxs-lookup"><span data-stu-id="049e7-102">Update payment details</span></span>
 
-1. <span data-ttu-id="ff09a-103">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση** \> [Μέθοδοι πληρωμής](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="ff09a-103">In the Admin center, go to the **Payment methods** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=2018806) Payment methods.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="ff09a-104">Εάν αντιμετωπίσετε μια κατάσταση συνεχόμενης επανάληψης που σας στέλνει πίσω στην Αρχική σελίδα διαχειριστών προτού ολοκληρωθούν οι ενημερώσεις σας, δοκιμάστε τις λειτουργίες Inprivate ή Incognito.</span><span class="sxs-lookup"><span data-stu-id="ff09a-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
-  
-2. <span data-ttu-id="ff09a-105">Επιλέξτε την πιστωτική κάρτα που θέλετε να ενημερώσετε.</span><span class="sxs-lookup"><span data-stu-id="ff09a-105">Choose the credit card you would like to update.</span></span>
+1. <span data-ttu-id="049e7-103">Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα **Χρέωση** \> [Μέθοδοι πληρωμής](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="049e7-103">In the Admin center, go to the **Payment methods** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=2018806) Payment methods.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="ff09a-106">Εάν κάποιος άλλος διαχειριστής έχει προσθέσει τη μέθοδο πληρωμής, δεν θα μπορέσετε να ενημερώσετε τις πληροφορίες πιστωτικής κάρτας ή τραπεζικού λογαριασμού για αυτήν.</span><span class="sxs-lookup"><span data-stu-id="ff09a-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="ff09a-107">Εάν η πιστωτική κάρτα πρόκειται να λήξει και ο άλλος διαχειριστής δεν μπορεί να την ενημερώσει, μπορείτε να εμποδίσετε τη διακοπή της υπηρεσίας προσθέτοντας μια άλλη πιστωτική κάρτα ή έναν νέο τραπεζικό λογαριασμό για τη συνδρομή, επιλέγοντας **Προσθήκη μεθόδου πληρωμής**.</span><span class="sxs-lookup"><span data-stu-id="ff09a-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+    > <span data-ttu-id="049e7-104">Εάν αντιμετωπίσετε μια κατάσταση συνεχόμενης επανάληψης που σας στέλνει πίσω στην Αρχική σελίδα διαχειριστών προτού ολοκληρωθούν οι ενημερώσεις σας, δοκιμάστε τις λειτουργίες Inprivate ή Incognito.</span><span class="sxs-lookup"><span data-stu-id="049e7-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
   
-3. <span data-ttu-id="ff09a-108">Στη σελίδα **Λεπτομέρειες πληρωμής**, επιλέξτε **Επεξεργασία λεπτομερειών πληρωμής**.</span><span class="sxs-lookup"><span data-stu-id="ff09a-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
+2. <span data-ttu-id="049e7-105">Επιλέξτε την πιστωτική κάρτα που θέλετε να ενημερώσετε.</span><span class="sxs-lookup"><span data-stu-id="049e7-105">Choose the credit card you would like to update.</span></span>
 
-4. <span data-ttu-id="ff09a-109">Εκτελέστε τις ενημερώσεις και, στη συνέχεια, επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="ff09a-109">Make the updates, and then choose **Save**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="049e7-106">Εάν κάποιος άλλος διαχειριστής έχει προσθέσει τη μέθοδο πληρωμής, δεν θα μπορέσετε να ενημερώσετε τις πληροφορίες πιστωτικής κάρτας ή τραπεζικού λογαριασμού για αυτήν.</span><span class="sxs-lookup"><span data-stu-id="049e7-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="049e7-107">Εάν η πιστωτική κάρτα πρόκειται να λήξει και ο άλλος διαχειριστής δεν μπορεί να την ενημερώσει, μπορείτε να εμποδίσετε τη διακοπή της υπηρεσίας προσθέτοντας μια άλλη πιστωτική κάρτα ή έναν νέο τραπεζικό λογαριασμό για τη συνδρομή, επιλέγοντας **Προσθήκη μεθόδου πληρωμής**.</span><span class="sxs-lookup"><span data-stu-id="049e7-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+  
+3. <span data-ttu-id="049e7-108">Στο παράθυρο **Λεπτομέρειες μεθόδου πληρωμής**, επιλέξτε **Επεξεργασία**. </span><span class="sxs-lookup"><span data-stu-id="049e7-108">In the **Payment method details** pane, select **Edit**.</span></span>
 
-5. <span data-ttu-id="ff09a-110">Για να καταργήσετε αυτή τη μέθοδο πληρωμής, επιλέξτε **Διαγραφή**.</span><span class="sxs-lookup"><span data-stu-id="ff09a-110">To remove this payment method, choose **Delete**.</span></span>
+4. <span data-ttu-id="049e7-109">Εκτελέστε τις ενημερώσεις και, στη συνέχεια, επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="049e7-109">Make the updates, and then choose **Save**.</span></span>
 
-<span data-ttu-id="ff09a-111">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση πιστωτικής κάρτας ή τραπεζικού λογαριασμού στο Office 365 για Επιχειρήσεις](https://docs.microsoft.com/el-GR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) και [Αντιμετώπιση προβλημάτων με πιστωτικές κάρτες και τραπεζικούς λογαριασμούς](https://docs.microsoft.com/el-GR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span><span class="sxs-lookup"><span data-stu-id="ff09a-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and [Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span></span>
+5. <span data-ttu-id="049e7-110">Για να καταργήσετε αυτή τη μέθοδο πληρωμής, επιλέξτε **Διαγραφή**.</span><span class="sxs-lookup"><span data-stu-id="049e7-110">To remove this payment method, choose **Delete**.</span></span>
+
+<span data-ttu-id="049e7-111">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση πιστωτικής κάρτας ή τραπεζικού λογαριασμού στο Office 365 για Επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) και [Αντιμετώπιση προβλημάτων με πιστωτικές κάρτες και τραπεζικούς λογαριασμούς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span><span class="sxs-lookup"><span data-stu-id="049e7-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and [Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span></span>
