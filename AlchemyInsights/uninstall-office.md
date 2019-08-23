@@ -13,24 +13,24 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Τα παρακάτω βήματα περιγράφουν τον τρόπο για να καταργήσετε την εγκατάσταση του Office από έναν Υπολογιστή.
-ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366389"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558437"
 ---
-# <a name="uninstall-office"></a><span data-ttu-id="930a3-103">Καταργήστε την εγκατάσταση του Office</span><span class="sxs-lookup"><span data-stu-id="930a3-103">Uninstall Office</span></span>
+# <a name="uninstall-office"></a><span data-ttu-id="41cbe-103">Καταργήστε την εγκατάσταση του Office</span><span class="sxs-lookup"><span data-stu-id="41cbe-103">Uninstall Office</span></span>
 
-<span data-ttu-id="930a3-104">Λήψη και εγκατάσταση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="930a3-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="41cbe-104">Λήψη και εγκατάσταση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="41cbe-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="930a3-105">Κατά το άνοιγμα, από **προϊόντα καταργήσετε την εγκατάσταση του Office** , επιλέξτε την έκδοση που θέλετε να απεγκαταστήσετε και επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="930a3-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="41cbe-105">Κατά το άνοιγμα, από **προϊόντα καταργήσετε την εγκατάσταση του Office** , επιλέξτε την έκδοση που θέλετε να απεγκαταστήσετε και επιλέξτε **Επόμενο**.</span><span class="sxs-lookup"><span data-stu-id="41cbe-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="930a3-106">Συνεχίστε μεταβαίνοντας σε οθόνες και κάντε επανεκκίνηση του υπολογιστή σας, όταν σας ζητηθεί.</span><span class="sxs-lookup"><span data-stu-id="930a3-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="41cbe-106">Συνεχίστε μεταβαίνοντας σε οθόνες και κάντε επανεκκίνηση του υπολογιστή σας, όταν σας ζητηθεί.</span><span class="sxs-lookup"><span data-stu-id="41cbe-106">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="930a3-107">Μετά την επανεκκίνηση, την υποστήριξη και αποκατάστασης του Βοηθού εκ νέου ανοίγει αυτόματα για να ολοκληρωθεί η διαδικασία απεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="930a3-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="41cbe-107">Μετά την επανεκκίνηση, την υποστήριξη και αποκατάστασης του Βοηθού εκ νέου ανοίγει αυτόματα για να ολοκληρωθεί η διαδικασία απεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="41cbe-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="930a3-108">Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό.</span><span class="sxs-lookup"><span data-stu-id="930a3-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="41cbe-108">Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό.</span><span class="sxs-lookup"><span data-stu-id="41cbe-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-<span data-ttu-id="930a3-109">Για μια λίστα από άλλες επιλογές κατάργησης της εγκατάστασης, επιλέξτε [Καταργήστε την εγκατάσταση του Office από έναν Υπολογιστή](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="930a3-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="41cbe-109">Για μια λίστα από άλλες επιλογές κατάργησης της εγκατάστασης, επιλέξτε [Καταργήστε την εγκατάσταση του Office από έναν Υπολογιστή](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="41cbe-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
