@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388456"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553576"
 ---
-# <a name="question-about-licenses"></a><span data-ttu-id="5ac81-102">Ερώτηση σχετικά με άδειες χρήσης</span><span class="sxs-lookup"><span data-stu-id="5ac81-102">Question about licenses</span></span>
+# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="2f0bc-102">Ερωτήσεις σχετικά με την άδεια χρήσης του Office 365</span><span class="sxs-lookup"><span data-stu-id="2f0bc-102">Questions about your Office 365 license</span></span>
 
-<span data-ttu-id="5ac81-103">Εάν θέλετε να γνωρίζετε τον αριθμό αδειών χρήσης που έχετε αγοράσει ή πόσες άδειες που έχουν ανατεθεί από μια εγγραφή:</span><span class="sxs-lookup"><span data-stu-id="5ac81-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="2f0bc-103">Εάν θέλετε να γνωρίζετε τον αριθμό αδειών χρήσης που έχετε αγοράσει ή πόσες άδειες που έχουν ανατεθεί από μια εγγραφή:</span><span class="sxs-lookup"><span data-stu-id="2f0bc-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="5ac81-104">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="5ac81-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="2f0bc-104">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="2f0bc-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="5ac81-105">Επιλέξτε την εγγραφή που θέλετε να μάθετε περισσότερα σχετικά με.</span><span class="sxs-lookup"><span data-stu-id="5ac81-105">Choose the subscription you want to know more about.</span></span>
+2. <span data-ttu-id="2f0bc-105">Κάτω από το όνομα της εγγραφής που θέλετε να μάθετε περισσότερα, μπορείτε να δείτε τον αριθμό των αδειών χρήσης που πληρώνετε για και πόσα είναι διαθέσιμη προς ανάθεση.</span><span class="sxs-lookup"><span data-stu-id="2f0bc-105">Under the name of the subscription you want to know more about, you can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-3. <span data-ttu-id="5ac81-106">Στην αριστερή πλευρά της κάρτας συνδρομή είναι πληροφορίες σχετικά με τις άδειες χρήσης σας:</span><span class="sxs-lookup"><span data-stu-id="5ac81-106">On the left side of the subscription card is information about your licenses:</span></span>
-
-  - <span data-ttu-id="5ac81-107">Ο αριθμός **αγοράστηκε** είναι ο αριθμός των αδειών που πληρώνετε για.</span><span class="sxs-lookup"><span data-stu-id="5ac81-107">The **Purchased** number is the number of licenses you are paying for.</span></span>
-
-  - <span data-ttu-id="5ac81-108">Ο αριθμός **ανάθεση** είναι ο αριθμός των αδειών που εκχωρούνται σε ένα χρήστη.</span><span class="sxs-lookup"><span data-stu-id="5ac81-108">The **Assigned** number is the number of licenses assigned to a user.</span></span>
-
-4. <span data-ttu-id="5ac81-109">Εάν θέλετε να προσθέσετε περισσότερες άδειες χρήσης ή εάν έχετε πάρα πολλά, επιλέξτε **Add/Remove άδειες χρήσης** για να προσαρμόσετε το ποσό που έχει αγοραστεί.</span><span class="sxs-lookup"><span data-stu-id="5ac81-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="2f0bc-106">Εάν θέλετε να προσθέσετε περισσότερες άδειες χρήσης ή εάν έχετε πάρα πολλά, επιλέξτε **Add/Remove άδειες χρήσης** για να προσαρμόσετε το ποσό που έχει αγοραστεί.</span><span class="sxs-lookup"><span data-stu-id="2f0bc-106">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>

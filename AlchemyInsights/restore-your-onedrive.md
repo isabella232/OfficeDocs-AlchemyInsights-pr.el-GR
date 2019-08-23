@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370470"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551667"
 ---
-# <a name="restore-your-onedrive"></a><span data-ttu-id="74c36-102">Επαναφορά σας OneDrive</span><span class="sxs-lookup"><span data-stu-id="74c36-102">Restore your OneDrive</span></span>
+# <a name="restore-your-onedrive"></a><span data-ttu-id="6468c-102">Επαναφορά σας OneDrive</span><span class="sxs-lookup"><span data-stu-id="6468c-102">Restore your OneDrive</span></span>
 
-<span data-ttu-id="74c36-103">Εάν πολλά αρχεία σας OneDrive να διαγραφεί, overwritted, καταστραφεί ή έχει μολυνθεί από κακόβουλο λογισμικό, μπορείτε να επαναφέρετε το σύνολο OneDrive σε προηγούμενη χρονική στιγμή μέσα στις τελευταίες 30 ημέρες.</span><span class="sxs-lookup"><span data-stu-id="74c36-103">If lots of your OneDrive files get deleted, overwritted, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time within the last 30 days.</span></span>
+<span data-ttu-id="6468c-103">Εάν πολλά αρχεία σας OneDrive να διαγραφεί, overwritted, καταστραφεί ή έχει μολυνθεί από κακόβουλο λογισμικό, μπορείτε να επαναφέρετε το σύνολο OneDrive σε προηγούμενη χρονική στιγμή μέσα στις τελευταίες 30 ημέρες.</span><span class="sxs-lookup"><span data-stu-id="6468c-103">If lots of your OneDrive files get deleted, overwritted, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time within the last 30 days.</span></span>
   
-1. <span data-ttu-id="74c36-104">Μεταβείτε το OneDrive στο πρόγραμμα περιήγησης web.</span><span class="sxs-lookup"><span data-stu-id="74c36-104">Go to your OneDrive in your web browser.</span></span>
+1. <span data-ttu-id="6468c-104">Μεταβείτε το OneDrive στο πρόγραμμα περιήγησης web.</span><span class="sxs-lookup"><span data-stu-id="6468c-104">Go to your OneDrive in your web browser.</span></span>
     
-2. <span data-ttu-id="74c36-105">Κάντε κλικ στο εικονίδιο ρυθμίσεων στην επάνω δεξιά γωνία και στη συνέχεια, επιλέξτε **Επαναφορά σας OneDrive**.</span><span class="sxs-lookup"><span data-stu-id="74c36-105">Click the Settings icon in the upper right, and then select **Restore your OneDrive**.</span></span>
+2. <span data-ttu-id="6468c-105">Κάντε κλικ στο εικονίδιο ρυθμίσεων στην επάνω δεξιά γωνία και στη συνέχεια, επιλέξτε **Επαναφορά σας OneDrive**.</span><span class="sxs-lookup"><span data-stu-id="6468c-105">Click the Settings icon in the upper right, and then select **Restore your OneDrive**.</span></span>
     
-3. <span data-ttu-id="74c36-106">Επιλέξτε μια ημερομηνία από τη λίστα ή επιλέξτε **προσαρμοσμένη ημερομηνία και ώρα**.</span><span class="sxs-lookup"><span data-stu-id="74c36-106">Select a date from the list, or choose **Custom date and time**.</span></span>
+3. <span data-ttu-id="6468c-106">Επιλέξτε μια ημερομηνία από τη λίστα ή επιλέξτε **προσαρμοσμένη ημερομηνία και ώρα**.</span><span class="sxs-lookup"><span data-stu-id="6468c-106">Select a date from the list, or choose **Custom date and time**.</span></span>
     
-4. <span data-ttu-id="74c36-107">Κάντε κλικ στο κουμπί **Επαναφορά** για να αναιρέσετε όλες τις δραστηριότητες μετά την ημερομηνία που έχετε επιλέξει.</span><span class="sxs-lookup"><span data-stu-id="74c36-107">Click **Restore** to undo all the activities after the date you selected.</span></span> 
+4. <span data-ttu-id="6468c-107">Κάντε κλικ στο κουμπί **Επαναφορά** για να αναιρέσετε όλες τις δραστηριότητες μετά την ημερομηνία που έχετε επιλέξει.</span><span class="sxs-lookup"><span data-stu-id="6468c-107">Click **Restore** to undo all the activities after the date you selected.</span></span> 
     
-[<span data-ttu-id="74c36-108">Περισσότερη βοήθεια σχετικά με την επαναφορά αρχείων</span><span class="sxs-lookup"><span data-stu-id="74c36-108">More help using Files Restore</span></span>](https://go.microsoft.com/fwlink/?linkid=872874)
+[<span data-ttu-id="6468c-108">Περισσότερη βοήθεια σχετικά με την επαναφορά αρχείων</span><span class="sxs-lookup"><span data-stu-id="6468c-108">More help using Files Restore</span></span>](https://go.microsoft.com/fwlink/?linkid=872874)
   
 
