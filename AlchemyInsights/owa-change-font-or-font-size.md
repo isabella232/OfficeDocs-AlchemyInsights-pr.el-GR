@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 907cb0a0fcc111f993dbc0d580ff397340eab8ab
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 28efa991c3449716af7453051e2cfd7ceea56467
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171149"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557400"
 ---
-# <a name="change-font-or-font-size"></a>Αλλαγή γραμματοσειράς ή μεγέθους γραμματοσειράς
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Αλλαγή γραμματοσειράς ή μεγέθους γραμματοσειράς στο Outlook στο web
 
 Κατά την ανάγνωση ηλεκτρονικού ταχυδρομείου, μπορείτε να χρησιμοποιήσετε τη λειτουργία "Ζουμ" του προγράμματος περιήγησής σας για να κάνετε το κείμενο στην οθόνη σας, μεγαλύτερο ή μικρότερο.
   
