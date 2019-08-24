@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522431"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574942"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Πώς μπορείτε να προσθέσετε ή να μειώσετε τις άδειες χρήσης
 
@@ -39,7 +39,7 @@ ms.locfileid: "36522431"
 > [!NOTE]
 > Οποιαδήποτε νέα χρέωση (αύξηση άδειας χρήσης) ή πιστωτικό (μείωση άδειας χρήσης) θα εμφανιστεί στον επόμενο λογαριασμό σας.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά αδειών χρήσης για το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Χρησιμοποιείτε το παλιό Κέντρο διαχείρισης; Για παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στο θέμα [αγοράσετε άδειες χρήσης για το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Πρόσθετοι πόροι**
   

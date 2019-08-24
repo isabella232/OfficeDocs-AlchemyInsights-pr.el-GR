@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518039"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575948"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Αγορά πρόσθετων αδειών χρήσης του Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518039"
 
     > [!NOTE]
     > Αν πληρώνετε για τη συνδρομή σας, πιστωτικής κάρτας ή του τραπεζικού λογαριασμού, τυχόν νέες άδειες χρήσης που αγοράζετε είναι διαθέσιμες αμέσως μόλις λάβετε επιβεβαίωση της παραγγελίας. Αν πληρώνετε από το τιμολόγιο, ίσως χρειαστεί να περιμένετε για πιστωτικό έλεγχο πριν τις νέες άδειες χρήσης είναι διαθέσιμα για χρήση.
-  
+
+Χρησιμοποιείτε το παλιό Κέντρο διαχείρισης; Για παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στο θέμα [αγοράσετε άδειες χρήσης για το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Πρόσθετοι πόροι**
 
 - [Εκχώρηση αδειών σε χρήστες στο Office 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά αδειών χρήσης για το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
