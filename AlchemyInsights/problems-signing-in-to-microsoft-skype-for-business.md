@@ -1,9 +1,8 @@
 ---
-title: Προβλήματα κατά την είσοδο Microsoft Skype για επιχειρήσεις
+title: Προβλήματα κατά την είσοδο στο Microsoft Skype για επιχειρήσεις
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: 3325d5e331cb1d9cf0168ba4fd744a4f42aaad36
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afe4228d38bf93984be8dece3146c5ce072b6fdc
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509920"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666624"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="d6d24-102">Προβλήματα κατά την είσοδο Microsoft Skype για επιχειρήσεις</span><span class="sxs-lookup"><span data-stu-id="d6d24-102">Problems Signing in to Microsoft Skype for Business</span></span>
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="5f295-102">Προβλήματα κατά την είσοδο στο Microsoft Skype για επιχειρήσεις</span><span class="sxs-lookup"><span data-stu-id="5f295-102">Problems Signing in to Microsoft Skype for Business</span></span>
 
-<span data-ttu-id="d6d24-103">Κάντε λήψη και χρησιμοποιήστε την [υποστήριξη και Βοηθός αποκατάστασης (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="d6d24-103">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
-<span data-ttu-id="d6d24-104">Αυτό το εργαλείο μπορεί να σας βοηθήσει στην αυτόματη διάγνωση και επιδιόρθωση μιας περιοχής γνωστών θεμάτων που σχετίζονται με την είσοδό σας στο Skype για επιχειρήσεις.</span><span class="sxs-lookup"><span data-stu-id="d6d24-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
+<span data-ttu-id="5f295-103">Κατεβάστε και χρησιμοποιήστε τον [Βοηθό υποστήριξης και αποκατάστασης (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="5f295-103">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
+<span data-ttu-id="5f295-104">Αυτό το εργαλείο μπορεί να σας βοηθήσει να διαγνώσετε και να διορθώσετε αυτόματα μια περιοχή γνωστών ζητημάτων που σχετίζονται με την είσοδο στο Skype για επιχειρήσεις.</span><span class="sxs-lookup"><span data-stu-id="5f295-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
