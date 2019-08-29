@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: e6d6d694c6743bb42d7d8e467a82b2d05fa9e553
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: baf967c2f5c8678802bdca6f303ba73d56deb320
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525229"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664968"
 ---
-# <a name="fix-onedrive-sync-issues-on-a-mac"></a><span data-ttu-id="786aa-102">Διορθώνει ζητήματα συγχρονισμού OneDrive σε Mac</span><span class="sxs-lookup"><span data-stu-id="786aa-102">Fix OneDrive sync issues on a Mac</span></span>
+# <a name="fix-onedrive-sync-issues-on-a-mac"></a><span data-ttu-id="6d044-102">Διορθώνει ζητήματα συγχρονισμού OneDrive σε Mac</span><span class="sxs-lookup"><span data-stu-id="6d044-102">Fix OneDrive sync issues on a Mac</span></span>
 
-<span data-ttu-id="786aa-103">Εάν OneDrive δεν συγχρονισμό αρχείων όπως αναμένεται σε έναν υπολογιστή Mac, μπορείτε να [διορθώσετε ζητήματα συγχρονισμού OneDrive σε έναν υπολογιστή Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span><span class="sxs-lookup"><span data-stu-id="786aa-103">If OneDrive isn't syncing files the way you expect on a Mac, you can [fix OneDrive sync issues on a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
+<span data-ttu-id="6d044-103">Εάν OneDrive δεν συγχρονισμό αρχείων όπως αναμένεται σε έναν υπολογιστή Mac, ανατρέξτε στο θέμα [Επιδιόρθωση προβλημάτων συγχρονισμού OneDrive σε έναν υπολογιστή Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span><span class="sxs-lookup"><span data-stu-id="6d044-103">If OneDrive isn't syncing files the way you expect on a Mac, see [fix OneDrive sync problems on a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
 
 
 

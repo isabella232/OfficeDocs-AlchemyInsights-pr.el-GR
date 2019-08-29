@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575759"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665537"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="650c1-102">Ακυρώσετε τη συνδρομή σας Office 365;</span><span class="sxs-lookup"><span data-stu-id="650c1-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="7fa95-102">Ακυρώσετε τη συνδρομή σας Office 365;</span><span class="sxs-lookup"><span data-stu-id="7fa95-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="650c1-103">Λυπούμαστε για να δείτε που Μετάβαση!</span><span class="sxs-lookup"><span data-stu-id="650c1-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="7fa95-103">Λυπούμαστε για να δείτε που Μετάβαση!</span><span class="sxs-lookup"><span data-stu-id="7fa95-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="650c1-104">Με βάση τα δεδομένα του οργανισμού σας, πιστεύουμε ότι όλες τις τρέχουσες συνδρομές έχουν τουλάχιστον 25 καθίσματα.</span><span class="sxs-lookup"><span data-stu-id="650c1-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="650c1-105">Για να ακυρώσετε τη συνδρομή σας ηλεκτρονικά, μεταβείτε το **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="650c1-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="650c1-106">Στην ενότητα **Ρυθμίσεις & ενέργειες** , επιλέξετε να **ακυρώσετε τη συνδρομή**.</span><span class="sxs-lookup"><span data-stu-id="650c1-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="7fa95-104">Με βάση τα δεδομένα του οργανισμού σας, πιστεύουμε ότι όλες τις τρέχουσες συνδρομές έχουν τουλάχιστον 25 καθίσματα.</span><span class="sxs-lookup"><span data-stu-id="7fa95-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="7fa95-105">Για να ακυρώσετε τη συνδρομή σας ηλεκτρονικά, μεταβείτε το **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="7fa95-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="7fa95-106">Στην ενότητα **Ρυθμίσεις & ενέργειες** , επιλέξετε να **ακυρώσετε τη συνδρομή**.</span><span class="sxs-lookup"><span data-stu-id="7fa95-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="650c1-107">Χρησιμοποιείτε το παλιό Κέντρο διαχείρισης;</span><span class="sxs-lookup"><span data-stu-id="650c1-107">Are you using the old admin center?</span></span> <span data-ttu-id="650c1-108">Για τα παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="650c1-108">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+<span data-ttu-id="7fa95-107">Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="7fa95-107">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
