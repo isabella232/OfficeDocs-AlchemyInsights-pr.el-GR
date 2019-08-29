@@ -1,5 +1,5 @@
 ---
-title: "\"Alchemy\" - διαγνώσετε και να επιλύσετε ζητήματα συνδεσιμότητας στο Outlook"
+title: Αλχημεία-διάγνωση και επίλυση ζητημάτων συνδεσιμότητας του Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 1072e12a74f708007cf9b89c989a9cc96510c2b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505464"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664608"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Διαγνώσετε και να επιλύσετε ζητήματα συνδεσιμότητας στο Outlook
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Διάγνωση και επίλυση ζητημάτων συνδεσιμότητας του Outlook
 
-Για να διαγνώσετε και να διορθώσετε τα ζητήματα συνδεσιμότητας Outlook, μπορείτε να εκτελέσετε το [εργαλείο συνδεσιμότητας Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) στον υπολογιστή που επηρεάζεται.
+Για να διαγνώσετε και να διορθώσετε τα προβλήματα συνδεσιμότητας του Outlook, μπορείτε να εκτελέσετε το [εργαλείο συνδεσιμότητας του Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) στον υπολογιστή που επηρεάζεται.
   
-Αυτό το εργαλείο θα εκτέλεση διαγνωστικών ελέγχων και προτείνει πιθανές λύσεις για να αντιμετωπίσει το θέμα συνδεσιμότητας του Outlook.
+Αυτό το εργαλείο θα εκτελέσει διαγνωστικούς ελέγχους και θα προτείνει πιθανές λύσεις για να αντιμετωπίσετε το ζήτημα συνδεσιμότητας του Outlook.
   

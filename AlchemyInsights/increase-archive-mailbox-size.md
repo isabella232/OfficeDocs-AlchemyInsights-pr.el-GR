@@ -3,25 +3,24 @@ title: 305 αυξάνουν το μέγεθος του γραμματοκιβω�
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391297"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661800"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Αύξηση του μεγέθους του γραμματοκιβωτίου αρχειοθέτησης
 
 Office 365 [όρια](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) στο μέγεθος των γραμματοκιβωτίων αρχειοθέτησης με βάση την άδεια χρήσης που έχει αντιστοιχιστεί στο λογαριασμό χρήστη. Όταν το γραμματοκιβώτιο αρχειοθέτησης φτάσει το 90% του επιτρεπόμενου μεγέθους, ο χρήστης λαμβάνει μια ειδοποίηση ηλεκτρονικού ταχυδρομείου. Όταν ένα γραμματοκιβώτιο αρχειοθέτησης φθάσει στο όριο μεγέθους, ο χρήστης δεν είναι δυνατό να μετακινήσετε περισσότερα στοιχεία στο γραμματοκιβώτιο αρχειοθέτησης. Office 365 δεν θα αυξήσει το μέγεθος του ένα γραμματοκιβώτιο αρχειοθέτησης όταν συμπληρωθεί το όριο μεγέθους. Αντί για αυτό, οι χρήστες μπορούν να λαμβάνουν τις ακόλουθες ενέργειες για να ελευθερώσετε χώρο στο γραμματοκιβώτιο αρχειοθέτησης:
 
-- Εξαγάγετε το τα στοιχεία σε ένα αρχείο .pst με το Outlook
+- Εξαγάγετε το τα στοιχεία σε ένα αρχείο .pst με το Outlook.
 
 - Διαγραφή στοιχείων από το γραμματοκιβώτιο αρχειοθέτησης.
 

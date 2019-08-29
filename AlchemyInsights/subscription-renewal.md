@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501365"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666012"
 ---
 # <a name="subscription-recurring-billing"></a>Περιοδική χρέωση εγγραφής
 
@@ -30,4 +30,4 @@ ms.locfileid: "36501365"
 
 4. Για να κάνετε μια αλλαγή, επιλέξτε **Επεξεργασία** και στη συνέχεια, στο παράθυρο ρυθμίσεις **επαναλαμβανόμενο χρέωσης** , επιλέξτε **ΑΠΕΝΕΡΓΟΠΟΊΗΣΗ** για να απενεργοποιήσετε αυτήν τη δυνατότητα. Εάν είναι ήδη εκτός λειτουργίας περιοδικής χρέωσης, επιλέξτε **Μηνιαία** ή **μία φορά** για να την ενεργοποιήσετε.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ενεργοποίηση επανάληψης χρέωσης ή απενεργοποίηση](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Ενεργοποίηση επανάληψης χρέωσης ή απενεργοποίηση](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

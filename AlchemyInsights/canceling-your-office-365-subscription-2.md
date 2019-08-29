@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576092"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665472"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Ακυρώσετε τη συνδρομή σας Office 365;
 
@@ -28,4 +28,4 @@ ms.locfileid: "36576092"
   
 Εναλλακτικά, επιλέξτε **χρειάζεστε βοήθεια** για να συνομιλήσετε με έναν μηχανικό υποστήριξης.
   
-Χρησιμοποιείτε το παλιό Κέντρο διαχείρισης; Για τα παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

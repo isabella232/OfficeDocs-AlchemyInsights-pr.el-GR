@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575759"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665537"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Ακυρώσετε τη συνδρομή σας Office 365;
 
@@ -26,4 +26,4 @@ ms.locfileid: "36575759"
   
 Με βάση τα δεδομένα του οργανισμού σας, πιστεύουμε ότι όλες τις τρέχουσες συνδρομές έχουν τουλάχιστον 25 καθίσματα. Για να ακυρώσετε τη συνδρομή σας ηλεκτρονικά, μεταβείτε το **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) . Στην ενότητα **Ρυθμίσεις & ενέργειες** , επιλέξετε να **ακυρώσετε τη συνδρομή**.
   
-Χρησιμοποιείτε το παλιό Κέντρο διαχείρισης; Για τα παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στην ενότητα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

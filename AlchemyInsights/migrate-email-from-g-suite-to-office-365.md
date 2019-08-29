@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544585"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666912"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>Μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από Γ οικογένεια προγραμμάτων του Office 365
 
-Για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από ομάδα Γ στο Office 365, χρησιμοποιήστε μας εργαλεία μετεγκατάστασης για να μετεγκαταστήσετε το ηλεκτρονικό ταχυδρομείο, το ημερολόγιο και τις επαφές: [Εκτέλεση μετεγκατάστασης Suite Γ](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από ομάδα Γ στο Office 365, χρησιμοποιήστε μας εργαλεία μετεγκατάστασης για μετεγκατάσταση ηλεκτρονικού ταχυδρομείου, το ημερολόγιο και τις επαφές: [Εκτέλεση μετεγκατάστασης Suite Γ](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   

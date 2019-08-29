@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549075"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665940"
 ---
 # <a name="too-many-licenses"></a>Πάρα πολλές άδειες χρήσης;
 
@@ -32,4 +32,4 @@ ms.locfileid: "36549075"
 
 3. Στο πλαίσιο της **συνολικής άδειες** , εισαγάγετε το συνολικό αριθμό των αδειών χρήσης που θα χρειαστείτε για αυτήν την εγγραφή και, στη συνέχεια, επιλέξτε **Αλλαγή υποβολής**. Για παράδειγμα, εάν έχετε 110 άδειες χρήσης και θέλετε να καταργήσετε 5 από αυτές, εισαγάγετε 105.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Κατάργηση αδειών χρήσης από το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Κατάργηση αδειών χρήσης από το Office 365 για επαγγελματική συνδρομή](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
