@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529631"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665126"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Έχετε νόμιμα μηνύματα που επισημαίνονται ως ανεπιθύμητη ηλεκτρονική αλληλογραφία;
 
-Δοκιμάστε το παραπάνω διαγνωστικό εργαλείο ή δοκιμάστε αυτές τις [οδηγίες βήμα προς βήμα για την αντιμετώπιση του προβλήματος όπου τα έγκυρα μηνύματα επισημαίνονται ως ανεπιθύμητη ηλεκτρονική αλληλογραφία](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Δοκιμάστε το παραπάνω διαγνωστικό εργαλείο ή δοκιμάστε αυτές τις [οδηγίες βήμα προς βήμα για την αντιμετώπιση του προβλήματος όπου τα έγκυρα μηνύματα επισημαίνονται ως ανεπιθύμητη ηλεκτρονική αλληλογραφία στο Office 365](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
 Ο καλύτερος τρόπος για να αναφέρετε τέτοιου είδους προβλήματα είναι:
   

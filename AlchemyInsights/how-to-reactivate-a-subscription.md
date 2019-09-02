@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574762"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663996"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Επανενεργοποίηση μιας συνδρομής
 
@@ -32,4 +32,4 @@ ms.locfileid: "36574762"
 
 3. Επιβεβαιώστε τα στοιχεία πληρωμής σας. Μπορείτε να ενημερώσετε τα υπάρχοντα στοιχεία πληρωμής εδώ. Όταν ολοκληρώσετε την εισαγωγή της μεθόδου πληρωμής, επιλέξτε **Επανενεργοποίηση**.
 
-Χρησιμοποιείτε το παλιό κέντρο διαχείρισης; Για τα παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

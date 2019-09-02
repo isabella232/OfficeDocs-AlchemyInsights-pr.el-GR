@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903073"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660684"
 ---
 # <a name="add-a-user-to-office-365"></a>Προσθήκη ενός χρήστη στο Office 365
 
-Ακολουθήστε τα παρακάτω βήματα για να προσθέσετε έναν χρήστη στο Office 365:
-  
-1. Μεταβείτε στην περιοχή [Ενεργοί χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (εναλλακτικά, στο αριστερό παράθυρο περιήγησης επιλέξτε **Χρήστες** \> **Ενεργοί χρήστες**).
+1. Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην ενότητα **Χρήστες** >  [Ενεργοί χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Κάντε κλικ στην επιλογή **Προσθήκη χρήστη**.
 
-3. Συμπληρώστε τις πληροφορίες για το χρήστη. Επιλέξτε **Προσθήκη** όταν τελειώσετε.
+3. Συμπληρώστε τις πληροφορίες για το χρήστη. Επιλέξτε **Τέλος προσθήκης** όταν τελειώσετε.
 
-[Διαβάστε περισσότερα...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Χρησιμοποιείτε το παλιό κέντρο διαχείρισης; Για τα παλιά βήματα ή για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Προσθήκη χρηστών μεμονωμένα ή μαζικά στο Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   
