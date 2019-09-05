@@ -1,5 +1,5 @@
 ---
-title: Ημερολόγιο 1081 - RBA CatchAll
+title: 1081 ημερολόγιο-RBA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505867"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737621"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="59b71-102">Δημιουργήστε και διαχειριστείτε τα γραμματοκιβώτια δωμάτιο</span><span class="sxs-lookup"><span data-stu-id="59b71-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="b3b01-102">Δημιουργία και διαχείριση γραμματοκιβωτίων δωματίων</span><span class="sxs-lookup"><span data-stu-id="b3b01-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="59b71-103">Για να δημιουργήσετε και να τροποποιήσετε τα γραμματοκιβώτια δωμάτιο, ανατρέξτε στην ενότητα [Δημιουργία και διαχείριση γραμματοκιβώτια δωμάτιο](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="59b71-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="b3b01-103">Για να δημιουργήσετε και να τροποποιήσετε γραμματοκιβώτια δωμάτιο, δείτε [δημιουργία και Διαχείριση γραμματοκιβώτια δωμάτιο](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="b3b01-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="59b71-104">Για να μάθετε περισσότερα σχετικά με τα γραμματοκιβώτια δωμάτιο και του εξοπλισμού (που είναι επίσης γνωστή ως γραμματοκιβώτια πόρων), ανατρέξτε στην ενότητα [γραμματοκιβώτια δωμάτιο και του εξοπλισμού](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="59b71-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="b3b01-104">Για να μάθετε περισσότερα σχετικά με τα γραμματοκιβώτια δωματίων και εξοπλισμού (γνωστά και ως γραμματοκιβώτια πόρων), δείτε τα [γραμματοκιβώτια δωματίων και εξοπλισμού](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="b3b01-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>

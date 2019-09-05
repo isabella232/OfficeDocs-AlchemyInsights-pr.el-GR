@@ -1,5 +1,5 @@
 ---
-title: 726 αποκλεισμός ηλεκτρονικό ταχυδρομείο προώθησης
+title: 726 αποκλεισμός προώθησης ηλεκτρονικού ταχυδρομείου
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517607"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737729"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="315b2-102">Αποκλεισμός προώθησης ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="315b2-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="10402-102">Αποκλεισμός προώθησης ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="10402-102">Block email forwarding</span></span>
 
-<span data-ttu-id="315b2-103">Για να απενεργοποιήσετε το μήνυμα ηλεκτρονικού ταχυδρομείου προώθησης για ένα συγκεκριμένο γραμματοκιβώτιο, ανατρέξτε στην ενότητα [Ρύθμιση προώθησης ηλεκτρονικού ταχυδρομείου](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span><span class="sxs-lookup"><span data-stu-id="315b2-103">To disable email forwarding for a specific mailbox, see [Set up email forwarding](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span></span>
+<span data-ttu-id="10402-103">Για να απενεργοποιήσετε την προώθηση ηλεκτρονικού ταχυδρομείου για ένα συγκεκριμένο γραμματοκιβώτιο, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων προώθησης ηλεκτρονικού ταχυδρομείου](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="10402-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="315b2-104">Για να αποκλείσετε προώθησης ηλεκτρονικού ταχυδρομείου για ολόκληρο τον οργανισμό, [πολλοί τρόποι για να αποκλείσετε αυτόματης ηλεκτρονικού ταχυδρομείου προώθησης στο Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="315b2-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="10402-104">Για να αποκλείσετε την προώθηση ηλεκτρονικού ταχυδρομείου για ολόκληρο τον οργανισμό, [Οι πολλοί τρόποι για να αποκλείσετε την αυτόματη προώθηση ηλεκτρονικού ταχυδρομείου στο Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="10402-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
