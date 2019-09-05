@@ -1,5 +1,5 @@
 ---
-title: Δημιουργία κοινόχρηστο γραμματοκιβώτιο
+title: Δημιουργία κοινόχρηστου γραμματοκιβωτίου
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631803"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740933"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="9cb21-102">Δημιουργία κοινόχρηστου γραμματοκιβωτίου</span><span class="sxs-lookup"><span data-stu-id="9cb21-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="29d67-102">Δημιουργία κοινόχρηστου γραμματοκιβωτίου</span><span class="sxs-lookup"><span data-stu-id="29d67-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="9cb21-103">Κοινόχρηστο γραμματοκιβώτιο επιτρέπει περισσότερα από ένα άτομα, αποστολή και λήψη μηνυμάτων ηλεκτρονικού ταχυδρομείου για ένα ψευδώνυμο, όπως sales@contoso.com, χωρίς να αναθέσετε μια νέα άδεια.</span><span class="sxs-lookup"><span data-stu-id="9cb21-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
+<span data-ttu-id="29d67-103">Ένα κοινόχρηστο γραμματοκιβώτιο επιτρέπει σε περισσότερα από ένα άτομα να στέλνουν και να λαμβάνουν μηνύματα ηλεκτρονικού ταχυδρομείου για ένα ψευδώνυμο, όπως το sales@contoso.com, χωρίς να εκχωρήσουν άλλη άδεια χρήσης.</span><span class="sxs-lookup"><span data-stu-id="29d67-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
 
-<span data-ttu-id="9cb21-104">Ανατρέξτε στο άρθρο [Δημιουργία κοινόχρηστο γραμματοκιβώτιο](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) για συμβουλές και περισσότερες πληροφορίες σχετικά με τη χρήση κοινόχρηστο γραμματοκιβώτιο.</span><span class="sxs-lookup"><span data-stu-id="9cb21-104">See the article [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) for tips and more info about using a shared mailbox.</span></span> 
+<span data-ttu-id="29d67-104">Δείτε το άρθρο [Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) για συμβουλές και περισσότερες πληροφορίες σχετικά με τη χρήση ενός κοινόχρηστου γραμματοκιβωτίου.</span><span class="sxs-lookup"><span data-stu-id="29d67-104">See the article [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) for tips and more info about using a shared mailbox.</span></span> 
   
 

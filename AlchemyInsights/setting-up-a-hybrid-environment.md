@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση ενός περιβάλλοντος υβριδική
+title: Δημιουργία ενός υβριδικού περιβάλλοντος
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509144"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741005"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="73bad-102">Ρύθμιση ενός περιβάλλοντος υβριδική</span><span class="sxs-lookup"><span data-stu-id="73bad-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="73904-102">Δημιουργία ενός υβριδικού περιβάλλοντος</span><span class="sxs-lookup"><span data-stu-id="73904-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="73bad-103">Για να επιτρέψετε στους χρήστες σας να συνεργάζονται ομαλά ανεξάρτητα αν τα δεδομένα είναι αποθηκευμένα σε διακομιστές εσωτερικής εγκατάστασης ή στο Office 365, ίσως χρειαστεί να ρυθμίσετε ένα περιβάλλον υβριδική.</span><span class="sxs-lookup"><span data-stu-id="73bad-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="73bad-104">Για να δείτε μια επισκόπηση των επιλογών, δείτε [Office 365 ενοποίησης με το περιβάλλον εσωτερικής εγκατάστασης](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="73bad-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="73904-103">Για να αφήσετε τους χρήστες σας να εργαστούν απρόσκοπτα μαζί δεν έχει σημασία αν τα δεδομένα τους είναι αποθηκευμένα σε διακομιστές εσωτερικής εγκατάστασης ή στο Office 365, ίσως χρειαστεί να ορίσετε ένα περιβάλλον υβριδική.</span><span class="sxs-lookup"><span data-stu-id="73904-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="73904-104">Για να λάβετε μια επισκόπηση των επιλογών σας, ελέγξτε την [ενοποίηση του Office 365 με περιβάλλοντα εσωτερικής εγκατάστασης](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="73904-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
