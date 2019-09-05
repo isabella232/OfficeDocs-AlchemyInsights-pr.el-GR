@@ -1,26 +1,25 @@
 ---
-title: Δεν μπορείτε να ανοίξετε έγγραφα στο SharePoint
-ms.author: kirks
+title: Δεν είναι δυνατό το άνοιγμα εγγράφων στο SharePoint
+ms.author: pebaum
 author: Techwriter40
-ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ba9cb05aec6718b5aa347be9d0300600a2f7395c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9534aaa07e54d35f6600053e88f2072936c1c461
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533200"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748522"
 ---
-# <a name="unable-to-open-documents-in-sharepoint"></a><span data-ttu-id="5f3d3-102">Δεν μπορείτε να ανοίξετε έγγραφα στο SharePoint</span><span class="sxs-lookup"><span data-stu-id="5f3d3-102">Unable to open documents in SharePoint</span></span>
+# <a name="unable-to-open-documents-in-sharepoint"></a><span data-ttu-id="f94d6-102">Δεν είναι δυνατό το άνοιγμα εγγράφων στο SharePoint</span><span class="sxs-lookup"><span data-stu-id="f94d6-102">Unable to open documents in SharePoint</span></span>
 
-<span data-ttu-id="5f3d3-103">Εάν έχετε δυσκολίες με το άνοιγμα αρχείων του Office και έγγραφα από βιβλιοθήκες εγγράφων του SharePoint ή OneDrive, ακολουθούν μερικές προτάσεις για να σας βοηθήσει να διορθώσετε:</span><span class="sxs-lookup"><span data-stu-id="5f3d3-103">If you have problems opening Office files and documents from SharePoint or OneDrive document libraries, here are some suggestions to help you fix them:</span></span>
+<span data-ttu-id="f94d6-103">Εάν έχετε προβλήματα με το άνοιγμα αρχείων και εγγράφων του Office από βιβλιοθήκες εγγράφων του SharePoint ή του OneDrive, ακολουθούν ορισμένες προτάσεις που θα σας βοηθήσουν να τις διορθώσετε:</span><span class="sxs-lookup"><span data-stu-id="f94d6-103">If you have problems opening Office files and documents from SharePoint or OneDrive document libraries, here are some suggestions to help you fix them:</span></span>
 
-- [<span data-ttu-id="5f3d3-104">Ελέγξτε το αρχείο περιορισμούς για να εξασφαλίσετε το αρχείο υποστηρίζεται</span><span class="sxs-lookup"><span data-stu-id="5f3d3-104">Check file limitations to ensure the file is supported</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
-- [<span data-ttu-id="5f3d3-105">Διαγράψτε το cache εγγράφων του office</span><span class="sxs-lookup"><span data-stu-id="5f3d3-105">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
-- [<span data-ttu-id="5f3d3-106">Εκτελέστε επιδιόρθωση του Office</span><span class="sxs-lookup"><span data-stu-id="5f3d3-106">Run a repair on Office</span></span>](https://support.office.com/en-US/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [<span data-ttu-id="f94d6-104">Ελέγξτε τους περιορισμούς των αρχείων για να διασφαλίσετε ότι το αρχείο υποστηρίζεται</span><span class="sxs-lookup"><span data-stu-id="f94d6-104">Check file limitations to ensure the file is supported</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [<span data-ttu-id="f94d6-105">Διαγραφή της μνήμης cache εγγράφων του Office</span><span class="sxs-lookup"><span data-stu-id="f94d6-105">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [<span data-ttu-id="f94d6-106">Εκτέλεση επισκευής στο Office</span><span class="sxs-lookup"><span data-stu-id="f94d6-106">Run a repair on Office</span></span>](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-<span data-ttu-id="5f3d3-107">Για περισσότερες πληροφορίες ή λεπτομέρειες ανατρέξτε στη [Διόρθωση προβλημάτων άνοιγμα εγγράφων σε βιβλιοθήκες του SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span><span class="sxs-lookup"><span data-stu-id="5f3d3-107">For more information or details see [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span></span>
+<span data-ttu-id="f94d6-107">Για περισσότερες πληροφορίες ή λεπτομέρειες, ανατρέξτε [στο θέμα επιδιόρθωση προβλημάτων ανοίγματος εγγράφων σε βιβλιοθήκες του SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span><span class="sxs-lookup"><span data-stu-id="f94d6-107">For more information or details see [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span></span>

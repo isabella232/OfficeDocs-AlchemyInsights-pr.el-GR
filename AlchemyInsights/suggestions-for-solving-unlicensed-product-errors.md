@@ -1,5 +1,5 @@
 ---
-title: Προτάσεις για την επίλυση σφαλμάτων "Προϊόν χωρίς άδεια χρήσης"
+title: Προτάσεις για την επίλυση σφαλμάτων "προϊόν χωρίς άδεια"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501043"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743273"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="5cc69-102">Προτάσεις για την επίλυση σφαλμάτων "Προϊόν χωρίς άδεια χρήσης"</span><span class="sxs-lookup"><span data-stu-id="5cc69-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="4cc97-102">Προτάσεις για την επίλυση σφαλμάτων "προϊόν χωρίς άδεια"</span><span class="sxs-lookup"><span data-stu-id="4cc97-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="5cc69-103">Βεβαιωθείτε ότι έχετε μια συνδρομή που επιτρέπει την άδειες χρήσης, όπως Office 365 Business ή Business Premium και [εξασφαλίζεται ο χρήστης έχει εκχωρηθεί άδεια χρήσης](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)προγράμματος-πελάτη.</span><span class="sxs-lookup"><span data-stu-id="5cc69-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="5cc69-104">[Απενεργοποίηση μιας εγκατάστασης](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) , για να ελέγξετε εάν έχετε υπερβεί τον αριθμό των εγκαταστάσεων που υποστηρίζεται από τη συνδρομή σας.</span><span class="sxs-lookup"><span data-stu-id="5cc69-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="4cc97-103">Βεβαιωθείτε ότι έχετε μια συνδρομή που επιτρέπει άδειες χρήσης υπολογιστή-πελάτη, όπως το Office 365 Business ή Business Premium και [Βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί μια άδεια χρήσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="4cc97-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="4cc97-104">[Απενεργοποιήστε μια εγκατάσταση](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) για να ελέγξετε αν έχετε υπερβεί τον αριθμό των εγκαταστάσεων που υποστηρίζονται από τη συνδρομή σας.</span><span class="sxs-lookup"><span data-stu-id="4cc97-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="5cc69-105">Βεβαιωθείτε ότι ο χρήστης είσοδο με τον ίδιο λογαριασμό που έχει εκχωρηθεί άδεια χρήσης.</span><span class="sxs-lookup"><span data-stu-id="5cc69-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="4cc97-105">Βεβαιωθείτε ότι ο χρήστης συνδέεται με τον ίδιο λογαριασμό στον οποίο έχει εκχωρηθεί η άδεια χρήσης.</span><span class="sxs-lookup"><span data-stu-id="4cc97-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="5cc69-106">Εκτελέστε την [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5cc69-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="4cc97-106">Εκτελέστε το [πρόγραμμα αντιμετώπισης προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="4cc97-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="5cc69-107">Ελέγξτε εάν έχει λήξει την κατάσταση της συνδρομής σας</span><span class="sxs-lookup"><span data-stu-id="5cc69-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="4cc97-107">Ελέγξτε αν η κατάσταση της συνδρομής σας έχει λήξει</span><span class="sxs-lookup"><span data-stu-id="4cc97-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="5cc69-108">Ελέγξτε τη [σελίδα κατάστασης υπηρεσίας του Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) , για να δείτε εάν υπάρχουν γνωστά προβλήματα με την υπηρεσία.</span><span class="sxs-lookup"><span data-stu-id="5cc69-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="4cc97-108">Ελέγξτε τη [σελίδα εύρυθμης λειτουργίας της υπηρεσίας Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε αν υπάρχουν γνωστά προβλήματα με την υπηρεσία.</span><span class="sxs-lookup"><span data-stu-id="4cc97-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="5cc69-109">[Εκτελέστε μια ηλεκτρονική επιδιόρθωση του Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="5cc69-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="4cc97-109">[Εκτελέστε μια ηλεκτρονική επισκευή του Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="4cc97-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="5cc69-110">Για πρόσθετες λύσεις αντιμετώπισης προβλημάτων, ανατρέξτε στο θέμα: [προϊόν χωρίς άδεια χρήσης και σφαλμάτων ενεργοποίησης του Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="5cc69-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="4cc97-110">Για πρόσθετες λύσεις αντιμετώπισης προβλημάτων, ανατρέξτε [στην ενότητα: σφάλματα προϊόντος και ενεργοποίησης χωρίς άδεια στο Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="4cc97-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

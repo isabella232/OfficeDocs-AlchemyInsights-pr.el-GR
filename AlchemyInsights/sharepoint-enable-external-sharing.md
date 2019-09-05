@@ -1,5 +1,5 @@
 ---
-title: Ενεργοποιήσετε την κοινή χρήση εξωτερικών στο SharePoint Online
+title: Ενεργοποίηση εξωτερικής κοινής χρήσης στο SharePoint Online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503887"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744425"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="4711f-102">Ενεργοποιήσετε την κοινή χρήση εξωτερικών στο SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4711f-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="fd8dd-102">Ενεργοποίηση εξωτερικής κοινής χρήσης στο SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="fd8dd-102">Enable external sharing in SharePoint Online</span></span>
 
-<span data-ttu-id="4711f-103">Εάν ο οργανισμός σας εκτελεί κάποια λειτουργία που περιλαμβάνει την κοινή χρήση εγγράφων ή συνεργασία απευθείας με προμηθευτές, πελάτες ή πελάτες και, στη συνέχεια, μπορείτε να χρησιμοποιήσετε το [εξωτερικό δυνατότητες του SharePoint Online κοινής χρήσης](https://docs.microsoft.com/sharepoint/external-sharing-overview) για την κοινή χρήση περιεχομένου με άτομα εκτός του ο οργανισμός.</span><span class="sxs-lookup"><span data-stu-id="4711f-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
+<span data-ttu-id="fd8dd-103">Εάν ο οργανισμός σας εκτελεί εργασία που περιλαμβάνει την κοινή χρήση εγγράφων ή συνεργάζεται απευθείας με προμηθευτές, υπολογιστές-πελάτες ή πελάτες, τότε μπορείτε να χρησιμοποιήσετε τις [εξωτερικές δυνατότητες κοινής χρήσης του SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) για να μοιραστείτε περιεχόμενο με άτομα εκτός του Οργάνωση.</span><span class="sxs-lookup"><span data-stu-id="fd8dd-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
 
-<span data-ttu-id="4711f-104">Για περισσότερες πληροφορίες σχετικά με την εξωτερική κοινή χρήση (επισκέπτες), επισκεφθείτε τις παρακάτω συνδέσεις.</span><span class="sxs-lookup"><span data-stu-id="4711f-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
+<span data-ttu-id="fd8dd-104">Για περισσότερες πληροφορίες σχετικά με την εξωτερική κοινή χρήση (επισκέπτες), επισκεφτείτε τους παρακάτω συνδέσμους.</span><span class="sxs-lookup"><span data-stu-id="fd8dd-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
 
-- [<span data-ttu-id="4711f-105">Τι είναι το εξωτερικό χρήστη;</span><span class="sxs-lookup"><span data-stu-id="4711f-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [<span data-ttu-id="fd8dd-105">Τι είναι ένας εξωτερικός χρήστης;</span><span class="sxs-lookup"><span data-stu-id="fd8dd-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [<span data-ttu-id="4711f-106">Τι συμβαίνει όταν κάνω κοινή χρήση σε μια τοποθεσία ή ένα έγγραφο;</span><span class="sxs-lookup"><span data-stu-id="4711f-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [<span data-ttu-id="fd8dd-106">Τι συμβαίνει όταν μοιράζομαι μια τοποθεσία ή ένα έγγραφο;</span><span class="sxs-lookup"><span data-stu-id="fd8dd-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [<span data-ttu-id="4711f-107">Ενεργοποίηση εξωτερικής κοινής χρήσης ή να την απενεργοποιήσετε για το SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4711f-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="fd8dd-107">Ενεργοποίηση ή απενεργοποίηση εξωτερικής κοινής χρήσης για το SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="fd8dd-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [<span data-ttu-id="4711f-108">Ενεργοποίηση εξωτερικής κοινής χρήσης ή να απενεργοποιήσετε για μια τοποθεσία</span><span class="sxs-lookup"><span data-stu-id="4711f-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [<span data-ttu-id="fd8dd-108">Ενεργοποίηση ή απενεργοποίηση εξωτερικής κοινής χρήσης για μια τοποθεσία</span><span class="sxs-lookup"><span data-stu-id="fd8dd-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [<span data-ttu-id="4711f-109">Διαχείριση της πρόσβασης επισκεπτών σε ομάδες του Office 365</span><span class="sxs-lookup"><span data-stu-id="4711f-109">Manage guest access in Office 365 Groups</span></span>](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [<span data-ttu-id="fd8dd-109">Διαχείριση πρόσβασης επισκεπτών στο Office 365 ομάδες</span><span class="sxs-lookup"><span data-stu-id="fd8dd-109">Manage guest access in Office 365 Groups</span></span>](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [<span data-ttu-id="4711f-110">Χρήση του Sharepoint Online ως λύση extranet business to business (B2B)</span><span class="sxs-lookup"><span data-stu-id="4711f-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [<span data-ttu-id="fd8dd-110">Χρήση του SharePoint Online ως λύσης μεταξύ επιχειρήσεων (Β2Β)</span><span class="sxs-lookup"><span data-stu-id="fd8dd-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [<span data-ttu-id="4711f-111">Κοινή χρήση αρχείων του SharePoint ή ένα φάκελο</span><span class="sxs-lookup"><span data-stu-id="4711f-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="fd8dd-111">Κοινή χρήση αρχείων ή φακέλων του SharePoint</span><span class="sxs-lookup"><span data-stu-id="fd8dd-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [<span data-ttu-id="4711f-112">Διακοπή της κοινής χρήσης αρχείων OneDrive ή SharePoint ή φακέλους ή να αλλάξετε τα δικαιώματα</span><span class="sxs-lookup"><span data-stu-id="4711f-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [<span data-ttu-id="fd8dd-112">Διακοπή κοινής χρήσης αρχείων ή φακέλων του OneDrive ή του SharePoint ή αλλαγή δικαιωμάτων</span><span class="sxs-lookup"><span data-stu-id="fd8dd-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [<span data-ttu-id="4711f-113">Διαγράψτε έναν εξωτερικό χρήστη</span><span class="sxs-lookup"><span data-stu-id="4711f-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [<span data-ttu-id="fd8dd-113">Διαγραφή εξωτερικού χρήστη</span><span class="sxs-lookup"><span data-stu-id="fd8dd-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-<span data-ttu-id="4711f-114">**Λαμβάνετε ένα σφάλμα με έναν εξωτερικό χρήστη (guest);**</span><span class="sxs-lookup"><span data-stu-id="4711f-114">**Receiving an error with an external user (guest)?**</span></span>
+<span data-ttu-id="fd8dd-114">**Λήψη σφάλματος με εξωτερικό χρήστη (επισκέπτης);**</span><span class="sxs-lookup"><span data-stu-id="fd8dd-114">**Receiving an error with an external user (guest)?**</span></span>
 
-<span data-ttu-id="4711f-115">Ελέγξτε τις συνδέσεις πιο κάτω.</span><span class="sxs-lookup"><span data-stu-id="4711f-115">Check the links below.</span></span> 
+<span data-ttu-id="fd8dd-115">Ελέγξτε τους παρακάτω συνδέσμους.</span><span class="sxs-lookup"><span data-stu-id="fd8dd-115">Check the links below.</span></span> 
 
-- [<span data-ttu-id="4711f-116">Κοινή χρήση OSE σφάλματα στο Sharepoint ή OneDrive</span><span class="sxs-lookup"><span data-stu-id="4711f-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="fd8dd-116">Σφάλματα κοινής χρήσης OSE στο SharePoint ή στο OneDrive</span><span class="sxs-lookup"><span data-stu-id="fd8dd-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [<span data-ttu-id="4711f-117">Μήνυμα λάθους όταν εξωτερικό χρήστη αποδέχεται μια πρόσκληση σε ηλεκτρονική SharePoint χρησιμοποιώντας έναν άλλο λογαριασμό</span><span class="sxs-lookup"><span data-stu-id="4711f-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [<span data-ttu-id="fd8dd-117">Μήνυμα λάθους όταν ένας εξωτερικός χρήστης αποδέχεται μια πρόσκληση του SharePoint Online χρησιμοποιώντας έναν άλλο λογαριασμό</span><span class="sxs-lookup"><span data-stu-id="fd8dd-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="4711f-118">Η πρόσβαση σε έναν κοινόχρηστο φάκελο</span><span class="sxs-lookup"><span data-stu-id="4711f-118">Access denied to a shared folder</span></span>](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [<span data-ttu-id="fd8dd-118">Δεν επιτρέπεται η πρόσβαση σε έναν κοινόχρηστο φάκελο</span><span class="sxs-lookup"><span data-stu-id="fd8dd-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
