@@ -1,6 +1,6 @@
 ---
-title: Δυσκολίες με το άνοιγμα αρχείων από το Sharepoint ή OneDrive
-ms.author: kirks
+title: Προβλήματα ανοίγματος αρχείων από το SharePoint ή το OneDrive
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/5/2018
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 5602212d4426d3f8cfb5a9f627fdaa47f5926532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548391"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753040"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Δυσκολίες με το άνοιγμα αρχείων από το Sharepoint ή OneDrive 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Προβλήματα ανοίγματος αρχείων από το SharePoint ή το OneDrive 
 
 
-Εάν έχετε δυσκολίες με το άνοιγμα αρχείων του Office και έγγραφα από βιβλιοθήκες εγγράφων του SharePoint ή OneDrive, ακολουθούν μερικές προτάσεις για να τις διορθώσετε.
+Εάν έχετε προβλήματα με το άνοιγμα αρχείων και εγγράφων του Office από βιβλιοθήκες εγγράφων του SharePoint ή του OneDrive, ακολουθούν ορισμένες προτάσεις που θα σας βοηθήσουν να τις διορθώσετε.
 
-- [Ελέγξτε το αρχείο περιορισμούς για να εξασφαλίσετε το αρχείο υποστηρίζεται](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Ελέγξτε τους περιορισμούς των αρχείων για να διασφαλίσετε ότι το αρχείο υποστηρίζεται](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [Κάντε λήψη και έλεγχος για κατεστραμμένο αρχείο στον τοπικό υπολογιστή σας](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [Λήψη και έλεγχος για καταστροφή αρχείων στον τοπικό σας υπολογιστή](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [Διαγράψτε το cache εγγράφων του office](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Διαγραφή της μνήμης cache εγγράφων του Office](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [Εκτελέστε επιδιόρθωση του Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Εκτέλεση επισκευής στο Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Για περισσότερες πληροφορίες ή λεπτομέρειες, ελέγξτε το άρθρο [Επιδιόρθωση προβλημάτων άνοιγμα εγγράφων σε βιβλιοθήκες του SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Για περισσότερες πληροφορίες ή λεπτομέρειες, ελέγξτε το άρθρο [Fix προβλήματα ανοίγοντας έγγραφα σε βιβλιοθήκες του SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 

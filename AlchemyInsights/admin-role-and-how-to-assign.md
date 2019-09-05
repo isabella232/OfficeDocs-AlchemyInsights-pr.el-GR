@@ -1,5 +1,5 @@
 ---
-title: Ρόλος διαχείρισης και τον τρόπο αντιστοίχισης
+title: Ρόλος διαχειριστή και Τρόπος εκχώρησης
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493916"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737081"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Τι είναι οι ρόλοι διαχείρισης και πώς μπορείτε να το αναθέσετε;
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Τι είναι οι ρόλοι διαχείρισης και πώς τους εκχωρείτε;
 
-Φαίνεται να έχετε κάποιες ερωτήσεις σχετικά με τους ρόλους διαχείρισης. Τα άρθρα αυτά πρέπει να απαντήσετε σε όλες τις ερωτήσεις σας.
+Φαίνεται ότι έχετε κάποιες ερωτήσεις σχετικά με τους ρόλους διαχειριστή. Αυτά τα άρθρα πρέπει να απαντήσουν σε όλες τις ερωτήσεις σας.
   
-- [Σχετικά με τους ρόλους διαχείρισης του Office 365](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Πληροφορίες για τους ρόλους διαχειριστών](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Ανάθεση ρόλων διαχειριστή](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Εκχώρηση ρόλων διαχειριστή](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Δεν έχετε απαντήσει στην ερώτησή σας; Κανένα πρόβλημα! Χρησιμοποιήστε την επιλογή "ας γίνει κλήσης" για να συνομιλήσετε με έναν μηχανικό υποστήριξης.
+Δεν απάντησες στην ερώτησή σου; Κανένα πρόβλημα! Χρησιμοποιήστε την επιλογή "Ας μας καλέσετε" για να μιλήσετε με έναν μηχανικό υποστήριξης.
   

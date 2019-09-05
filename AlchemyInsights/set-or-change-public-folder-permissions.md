@@ -1,5 +1,5 @@
 ---
-title: Ορίσετε ή να αλλάξετε τα δικαιώματα σε δημόσιους φακέλους
+title: Ορισμός ή αλλαγή δικαιωμάτων δημόσιου φακέλου
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550155"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734669"
 ---
-# <a name="permissions-and-public-folders"></a>Τα δικαιώματα και οι δημόσιοι φάκελοι
+# <a name="permissions-and-public-folders"></a>Δικαιώματα και δημόσιοι φάκελοι
 
-Μπορείτε να αλλάξετε τα δικαιώματα σε δημόσιους φακέλους σας με το Outlook, στο Κέντρο διαχείρισης Exchange (ΕΚΟ) ή PowerShell:
+Μπορείτε να αλλάξετε τα δικαιώματα στους δημόσιους φακέλους σας χρησιμοποιώντας το Outlook, το κέντρο διαχείρισης Exchange (ΕΚΟ) ή PowerShell:
   
-- Για οδηγίες Outlook, [κάντε κλικ εδώ](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Για οδηγίες του Outlook, [κάντε κλικ εδώ](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- Για ΕΚΟ, ανατρέξτε σε [αυτό το άρθρο](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) για οδηγίες. Μπορείτε να κάνετε κλικ [εδώ](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) για να μεταβείτε σε ΕΚΟ. 
+- Για την ΑΗΚ, ανατρέξτε σε [αυτό το άρθρο](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) για οδηγίες. 
     
-- Για Powershell, ανατρέξτε σε [αυτό το άρθρο](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) για οδηγίες σχετικά με την προσθήκη PublicFolderClientPermission commandlet. Εάν χρειάζεστε οδηγίες για να συνδεθείτε με το Exchange Powershell, κάντε κλικ [εδώ](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Για PowerShell, ανατρέξτε σε [αυτό το άρθρο](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) για οδηγίες σχετικά με τη χρήση της εντολής Add-Δημοσιήςαρχείων άδειας χρήσης. Εάν χρειάζεστε οδηγίες για να συνδεθείτε με το Exchange PowerShell, κάντε κλικ [εδώ](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Εάν οι **εξωτερικοί χρήστες δεν μπορεί να στείλει μηνύματα ηλεκτρονικού ταχυδρομείου σε έναν δημόσιο φάκελο με δυνατότητα αλληλογραφίας**, η αιτία μπορεί να είναι ότι ο δημόσιος φάκελος δεν διαθέτει δικαιώματα απαιτούνται για παράδοση εξωτερικό μήνυμα ηλεκτρονικού ταχυδρομείου. Μπορείτε να διορθώσετε αυτό το πρόβλημα χρησιμοποιώντας τις οδηγίες του Outlook [εδώ](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)ή τις οδηγίες PowerShell [εδώ](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Εάν οι **εξωτερικοί χρήστες δεν μπορούν να στείλουν μηνύματα ηλεκτρονικού ταχυδρομείου σε έναν δημόσιο φάκελο με δυνατότητα αλληλογραφίας**, ο λόγος μπορεί να είναι ότι λείπουν τα δικαιώματα που απαιτούνται για την εξωτερική παράδοση ηλεκτρονικού ταχυδρομείου από τον δημόσιο φάκελο. Μπορείτε να διορθώσετε αυτό χρησιμοποιώντας τις οδηγίες του Outlook [εδώ](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), ή τις οδηγίες PowerShell [εδώ](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

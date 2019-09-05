@@ -1,24 +1,24 @@
 ---
-title: Σύνδεση του SharePoint ή OneDrive 'Ορισμός'
-ms.author: kirks
+title: Ηλεκτρονική SharePoint ή OneDrive ' ρύθμιση '
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535142"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750448"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>Σύνδεση του SharePoint ή OneDrive "Ορισμός"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>Ηλεκτρονική SharePoint ή OneDrive "ρύθμιση"
 
-Όταν ένας χρήστης προστίθεται σε ένα υπάρχον μισθωτών του Office 365, ενδέχεται να μπορούν να δουν την ηλεκτρονική του SharePoint ή OneDrive για επαγγελματική εικονίδια που αναφέρονται ως "Εγκατάσταση", μέχρι να ολοκληρωθεί η διαδικασία προετοιμασίας.
+Όταν ένας χρήστης προστίθεται σε έναν υπάρχοντα μισθωτή του Office 365, ενδέχεται να δείτε το SharePoint Online ή OneDrive για επαγγελματική εικονίδια που αναφέρονται ως "ρύθμιση" μέχρι να ολοκληρωθεί η διαδικασία προμήθειας.
 
-Εάν έχουν περάσει περισσότερες από 24 ώρες, από τη στιγμή που είδατε πρώτα αυτό το ζήτημα, συνδεθείτε μια υπόθεση υποστήριξης.
+Εάν έχουν περάσει περισσότερες από 24 ώρες από την πρώτη φορά που είδατε αυτό το ζήτημα, παρακαλούμε να καταγράψετε μια υπόθεση υποστήριξης.
 
-Καταλαβαίνουμε 24 ώρες μπορεί να φαίνεται πολύ χρόνο. Σε πολλές περιπτώσεις, εργαζόμαστε ήδη σε μια λύση. Παρακαλούμε να μας δώσετε τουλάχιστον 24 ώρες για να ολοκληρωθεί μια λύση.
+Καταλαβαίνουμε ότι 24 ώρες μπορεί να φαίνεται σαν ένα μεγάλο χρονικό διάστημα. Σε πολλές περιπτώσεις, ήδη εργαζόμαστε για μια λύση. Παρακαλώ δώστε μας τουλάχιστον 24 ώρες για να ολοκληρώσουμε μια λύση.
 
