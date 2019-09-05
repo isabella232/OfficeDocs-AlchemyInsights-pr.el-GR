@@ -1,6 +1,6 @@
 ---
-title: Κοινή χρήση OSE σφάλματα στο SharePoint και OneDrive
-ms.author: kirks
+title: Σφάλματα κοινής χρήσης OSE στο SharePoint και στο OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543133"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752968"
 ---
-# <a name="ose-sharing-errors"></a>Κοινή χρήση OSE σφάλματα
+# <a name="ose-sharing-errors"></a>Σφάλματα κοινής χρήσης OSE
 
-Το άρθρο αυτό καλύπτει τα διάφορα σφάλματα που ενδέχεται να συναντήσετε κατά την κοινή χρήση αρχείων ή φακέλων από το SharePoint Online ή OneDrive για επιχειρήσεις στο Office 365. Θα πρέπει να είναι ένα καθολικό ή διαχείρισης SharePoint στην εταιρεία σας για να διορθώσετε αυτά τα σφάλματα. Εάν δεν είστε διαχειριστής, επικοινωνήστε με το γραφείο υποστήριξης και να τους δώσετε ο κωδικός σφάλματος.
+Το άρθρο καλύπτει τα διαφορετικά σφάλματα που ενδέχεται να αντιμετωπίσετε κατά την κοινή χρήση αρχείων ή φακέλων από το SharePoint Online ή OneDrive για επιχειρήσεις στο Office 365. Πρέπει να είστε καθολικός ή διαχειριστής του SharePoint στον οργανισμό σας για να διορθώσετε αυτά τα σφάλματα. Αν δεν είστε διαχειριστής, επικοινωνήστε με το γραφείο βοήθειας και δώστε τους τον κωδικό σφάλματος.
 
-Για περισσότερες πληροφορίες σχετικά με τους κωδικούς σφαλμάτων του OSE, ανατρέξτε στην ενότητα [κοινή χρήση σφάλματα στο SharePoint και OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Για περισσότερες πληροφορίες σχετικά με τους κωδικούς σφαλμάτων OSE, ανατρέξτε [στο στοιχείο σφάλματα κοινής χρήσης στο SharePoint και OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

@@ -1,5 +1,5 @@
 ---
-title: 912 Εισερχόμενα Focused ρύθμιση για όλους τους χρήστες στον οργανισμό σας
+title: 912 ρύθμιση παραμέτρων εστιασμένα Εισερχόμενα για όλους στον οργανισμό σας
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504715"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738413"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Ενεργοποίηση εστιάζει στο φάκελο "Εισερχόμενα" ή απενεργοποίηση για όλους τους χρήστες
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Ενεργοποίηση ή απενεργοποίηση των εστιασμένης εισερχομένων για όλους
 
-Για οδηγίες, ανατρέξτε στην ενότητα [Ρύθμιση παραμέτρων εστιάζει στο φάκελο "Εισερχόμενα" για όλους τους χρήστες στον οργανισμό σας](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Για οδηγίες, ανατρέξτε [στο θέμα Ρύθμιση παραμέτρων εστιασμένα Εισερχόμενα για όλους στον οργανισμό σας](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Σημείωση**: Αυτή η διαδικασία απαιτεί το Exchange Online PowerShell. Θέλετε να το κάνετε αυτό στο Κέντρο διαχείρισης Microsoft 365; [Ψηφίστε εδώ!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Σημείωση**: αυτή η διαδικασία απαιτεί Exchange Online PowerShell. Θέλετε να το κάνετε αυτό στο κέντρο διαχείρισης της Microsoft 365 αντί για αυτό; [Ψηφίστε εδώ!](https://go.microsoft.com/fwlink/p/?linkid=862489)

@@ -1,5 +1,5 @@
 ---
-title: Διαχείριση που μπορεί να δημιουργήσει ομάδες του Office 365
+title: Διαχείριση των ομάδων που μπορούν να δημιουργήσουν ομάδες 365 του Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 35896132521d822578a6d8cd2a6e1aa200550263
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0856b811f2366b4161387fc5b5c929a382ba9948
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541945"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738917"
 ---
-# <a name="manage-who-can-create-office-365-groups"></a>Διαχείριση που μπορεί να δημιουργήσει ομάδες του Office 365
+# <a name="manage-who-can-create-office-365-groups"></a>Διαχείριση των ομάδων που μπορούν να δημιουργήσουν ομάδες 365 του Office
 
-Από προεπιλογή, όλα τα άτομα στον οργανισμό σας να δημιουργήσετε ομάδες O365.
+Από προεπιλογή, οποιοσδήποτε στον οργανισμό σας μπορεί να δημιουργήσει ομάδες O365.
   
-Εάν θέλετε να το αλλάξετε, μπορείτε να δημιουργήσετε μια ομάδα ασφαλείας με PowerShell που περιορίζει τη δημιουργία της ομάδας σε ένα υποσύνολο των χρηστών.
+Εάν θέλετε να το αλλάξετε αυτό, μπορείτε να δημιουργήσετε μια ομάδα ασφαλείας με PowerShell που περιορίζει τη δημιουργία ομάδας σε ένα υποσύνολο των χρηστών.
   
-Ακολουθήστε τις οδηγίες βήμα προς βήμα: [Διαχείριση που μπορεί να δημιουργήσει ομάδες του Office 365](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618)
+Ακολουθήστε τις παρακάτω οδηγίες βήμα προς βήμα: [διαχειριστείτε ποιος μπορεί να δημιουργήσει ομάδες 365 του Office](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
   
 

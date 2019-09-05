@@ -1,5 +1,5 @@
 ---
-title: Την εγκατάσταση του office σε ένα διακομιστή τερματικού - χωρίς άδεια χρήσης
+title: Εγκατάσταση του Office σε διακομιστή τερματικού-χωρίς άδεια χρήσης
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498415"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735389"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Την εγκατάσταση του Office σε ένα διακομιστή τερματικού
+# <a name="installing-office-on-a-terminal-server"></a>Εγκατάσταση του Office σε διακομιστή τερματικού
 
-Για την ανάπτυξη του Office 365 ProPlus σε ένα διακομιστή των Windows χρησιμοποιώντας τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS), παλιότερα με το όνομα των υπηρεσιών Terminal Services:
+Για την ανάπτυξη του Office 365 ProPlus σε ένα διακομιστή των Windows χρησιμοποιώντας υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS), παλαιότερα ονομαζόταν υπηρεσίες Terminal Services:
   
-- Πρέπει να έχετε ένα πρόγραμμα Office 365 που περιλαμβάνει το Office 365 ProPlus, όπως E3 Enterprise του Office 365 ή εταιρικού E5. Τα σχέδια Office 365 επιχειρήσεων και πριμοδότηση επαγγελματική του Office 365 δεν περιλαμβάνουν Office 365 ProPlus.
+- Πρέπει να έχετε ένα σχέδιο 365 του Office που περιλαμβάνει το Office 365 ProPlus, όπως το Office 365 Enterprise ε ή Enterprise Ε+. Τα σχέδια Office 365 Business και Office 365 Business Premium δεν περιλαμβάνουν το Office 365 ProPlus.
 
-- Πρέπει να ενεργοποιήσετε την [Ενεργοποίηση κοινόχρηστο υπολογιστή](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Πρέπει να ενεργοποιήσετε την [Ενεργοποίηση του κοινόχρηστου υπολογιστή](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Εάν θέλετε να εγκαταστήσετε το Office 365 ProPlus σε RDS από την πύλη Office 365, το ***οποίο χρησιμοποιεί τις προεπιλεγμένες ρυθμίσεις εγκατάστασης***, ακολουθήστε τα εξής βήματα:
+Εάν θέλετε να εγκαταστήσετε το Office 365 ProPlus σε RDS από το κέντρο διαχείρισης της Microsoft 365, το ***οποίο χρησιμοποιεί τις προεπιλεγμένες ρυθμίσεις εγκατάστασης***, ακολουθήστε τα εξής βήματα:
   
-1. Ελέγξτε τι σχέδιο Office 365 που έχετε. [Μάθετε πώς](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Ελέγξτε το σχέδιο 365 του Office που έχετε. [Μάθετε πώς](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Εάν είναι απαραίτητο, μεταβείτε σε ένα διαφορετικό Office 365 σχεδιασμό. [Μάθετε πώς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Εάν είναι απαραίτητο, μεταβείτε σε διαφορετικό σχέδιο του Office 365. [Μάθετε πώς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Αν το Office είναι ήδη εγκατεστημένο στο διακομιστή RDS, χρησιμοποιώντας οποιαδήποτε άλλα σχέδια Office 365, καταργήσετε την εγκατάστασή του. Για παράδειγμα, μεταβαίνοντας τον πίνακα ελέγχου \> κατάργηση εγκατάστασης ενός προγράμματος. Καταργήστε την εγκατάσταση χρησιμοποιώντας την [υπηρεσία υποστήριξης της Microsoft και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy) εάν εκτελείτε σε θέματα.
+3. Εάν το Office είναι ήδη εγκατεστημένο στο διακομιστή RDS χρησιμοποιώντας οποιαδήποτε άλλα σχέδια του Office 365, απεγκαταστήστε το. Για παράδειγμα, πηγαίνοντας στον πίνακα \> ελέγχου απεγκατάσταση ενός προγράμματος. Κατάργηση εγκατάστασης χρησιμοποιώντας [την υποστήριξη της Microsoft και τον βοηθό αποκατάστασης](https://aka.ms/SARA-OfficeUninstall-Alchemy) , εάν εκτελείτε ζητήματα.
 
-4. Στο διακομιστή RDS, εισέλθετε στην πύλη Office 365 με το λογαριασμό διαχειριστή και να [εγκαταστήσετε το Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Στο διακομιστή RDS, εισέλθετε στο κέντρο διαχείρισης Microsoft 365 με το λογαριασμό διαχειριστή σας και εγκαταστήστε το [Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Μετά την εγκατάσταση του Office, ***μην ανοίξετε ή να εισέλθετε*** για τις εφαρμογές του Office.
+5. Μετά την εγκατάσταση του Office, ***Μην ανοίξετε ή εισέλθετε*** σε οποιεσδήποτε εφαρμογές του Office.
 
-6. Στο διακομιστή RDS, δυνατή Ενεργοποίηση κοινόχρηστο υπολογιστή με επεξεργασία του μητρώου ακολουθώντας τα εξής βήματα:
+6. Στο διακομιστή RDS, ενεργοποιήστε την ενεργοποίηση του κοινόχρηστου υπολογιστή με την επεξεργασία του μητρώου, ακολουθώντας τα εξής βήματα:
 
 1. Κάντε δεξιό κλικ στο κουμπί των Windows στην κάτω αριστερή γωνία της οθόνης σας και επιλέξτε εκτέλεση. Στο πλαίσιο Άνοιγμα, πληκτρολογήστε **regedit**και, στη συνέχεια, επιλέξτε OK.
 
-2. Επιλέξτε Ναι όταν σας ζητηθεί να επιτρέψετε τον Επεξεργαστή μητρώου για να κάνετε αλλαγές στη συσκευή σας.
+2. Επιλέξτε Yes όταν σας ζητηθεί να επιτρέψετε στον επεξεργαστή μητρώου να κάνει αλλαγές στη συσκευή σας.
 
-3. Στον επεξεργαστή μητρώου, προσθέστε μια τιμή συμβολοσειράς **SharedComputerLicensing** με ρύθμιση 1 στην περιοχή HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Στο πρόγραμμα επεξεργασίας μητρώου, προσθέστε μια τιμή συμβολοσειράς της κοινής **χρήσης υπολογιστή** με ρύθμιση 1 κάτω από το HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office
 
-7. Στο διακομιστή RDS, ***εισέλθετε ως ένας τελικός χρήστης*** και [Βεβαιωθείτε ότι είναι ενεργοποιημένη η ενεργοποίηση κοινόχρηστο υπολογιστή για Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Στο διακομιστή RDS, ***εισέλθετε ως τελικός χρήστης*** και [Επιβεβαιώστε ότι η ενεργοποίηση του κοινόχρηστου υπολογιστή είναι ενεργοποιημένη για το Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Για περισσότερες λεπτομέρειες σχετικά με προϋποθέσεις, οδηγίες και κατευθύνσεις σχετικά με προσαρμοσμένες εγκαταστάσεις, χρησιμοποιώντας το εργαλείο ανάπτυξης του Office, ανατρέξτε [Αναπτύσσουν Office 365 ProPlus, χρησιμοποιώντας τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Για περισσότερες λεπτομέρειες σχετικά με τις προϋποθέσεις, οδηγίες εγκατάστασης και οδηγίες σχετικά με προσαρμοσμένες εγκαταστάσεις, χρησιμοποιώντας το εργαλείο ανάπτυξης του Office, ανατρέξτε στην ενότητα [ανάπτυξη Office 365 ProPlus, χρησιμοποιώντας τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Για να διορθώσετε τα σφάλματα που αφορούν την ενεργοποίηση κοινόχρηστο υπολογιστή, ανατρέξτε στην [Αντιμετώπιση προβλημάτων με ενεργοποίηση κοινόχρηστο υπολογιστή για Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Για να διορθώσετε σφάλματα που σχετίζονται με την ενεργοποίηση του κοινόχρηστου υπολογιστή, ανατρέξτε στο [θέμα Αντιμετώπιση προβλημάτων με την ενεργοποίηση του κοινόχρηστου υπολογιστή για το Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559697"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743093"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Αντιμετώπιση ζητημάτων "Άνοιγμα με την Εξερεύνηση" στο SharePoint Online
 
@@ -25,7 +25,7 @@ ms.locfileid: "36559697"
 
 Εάν επιλέξατε να χρησιμοποιήσετε την προβολή Εξερεύνησης των Windows αντί να χρησιμοποιήσετε το νέο πρόγραμμα-πελάτη συγχρονισμού OneDrive, βεβαιωθείτε ότι ακολουθείτε τα βήματα και τις βέλτιστες πρακτικές που περιγράφονται στα παρακάτω άρθρα:
 
-- [Πώς μπορείτε να χρησιμοποιήσετε την εντολή "Άνοιγμα με την Εξερεύνηση" για την αντιμετώπιση προβλημάτων στο SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
+- [Πώς μπορείτε να χρησιμοποιήσετε την εντολή "Άνοιγμα με την Εξερεύνηση" για την αντιμετώπιση προβλημάτων στο SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
 - [Αντιγραφή ή μετακίνηση αρχείων βιβλιοθήκης με χρήση της εντολής "Άνοιγμα με την Εξερεύνηση"](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 

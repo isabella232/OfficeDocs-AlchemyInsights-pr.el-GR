@@ -1,6 +1,6 @@
 ---
 title: Ζητήματα επιδόσεων-SharePoint ή OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535175"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750556"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>Του SharePoint ή OneDrive αργή, μη προσβάσιμο ή μη διαθέσιμη για πολλούς χρήστες
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>Το SharePoint ή το OneDrive αργή, μη προσβάσιμη ή μη διαθέσιμη για πολλαπλούς χρήστες
 
-Εάν μια τοποθεσία OneDrive ή SharePoint δεν είναι διαθέσιμες σε πολλούς χρήστες που προηγουμένως είχαν πρόσβαση, ίσως υπάρχει κάποιο ζήτημα προσωρινής υπηρεσίας. [Ελέγξτε τον πίνακα εργαλείων υγείας υπηρεσία](https://portal.office.com/adminportal/home#/servicehealth).
+Εάν μια τοποθεσία OneDrive ή SharePoint δεν είναι διαθέσιμη σε πολλούς χρήστες που είχαν προηγουμένως πρόσβαση, ενδέχεται να υπάρχει ένα ζήτημα προσωρινής υπηρεσίας. [Ελέγξτε τον πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Προσθέστε και άδεια χρήσης χρήστη**
+**Προσθήκη και άδεια χρήσης του χρήστη**
 
-Βεβαιωθείτε ότι θα [αναθέσετε άδειες χρήσης σε χρήστες στο Office 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Βεβαιωθείτε ότι [εκχωρείτε άδειες χρήσης σε χρήστες του Office 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
 **Εκχώρηση δικαιωμάτων**
 
-Εάν ο χρήστης έχει αντιστοιχιστεί μια άδεια χρήσης του Sharepoint και εξακολουθεί να λαμβάνει ένα μήνυμα απαγόρευσης πρόσβασης, βεβαιωθείτε ότι να έχουν το [κατάλληλο επίπεδο δικαιωμάτων](https://docs.microsoft.com/sharepoint/understanding-permission-levels) που έχουν εκχωρηθεί.
+Εάν ο χρήστης έχει εκχωρηθεί μια άδεια χρήσης του SharePoint και εξακολουθεί να λαμβάνει ένα μήνυμα άρνησης πρόσβασης, βεβαιωθείτε ότι έχουν εκχωρηθεί το [κατάλληλο επίπεδο δικαιωμάτων](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
 
-**Μπορείτε να χρησιμοποιήσετε τη δυνατότητα της αίτησης πρόσβασης**
+**Εξετάστε το ενδεχόμενο να χρησιμοποιήσετε τη δυνατότητα αίτησης πρόσβασης**
 
-Η [δυνατότητα αίτησης πρόσβασης](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) επιτρέπει στους χρήστες να ζητούν πρόσβαση σε περιεχόμενο που δεν έχουν αυτήν τη στιγμή δικαίωμα να τις δείτε.
+Η [δυνατότητα αίτησης πρόσβασης](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) επιτρέπει στους χρήστες να ζητήσουν πρόσβαση σε περιεχόμενο που δεν έχουν αυτήν τη στιγμή δικαίωμα να δουν.
 
-**Να επιτρέπεται η προσαρμοσμένη δέσμη ενεργειών ενδέχεται να προκαλέσει ζητήματα η πρόσβαση**
+**Να επιτρέπεται η προσαρμοσμένη δέσμη ενεργειών μπορεί να προκαλέσει ζητήματα άρνησης πρόσβασης**
 
-Υπάρχουν ορισμένα σενάρια όπου η δυνατότητα *προσαρμοσμένης δέσμης ενεργειών επιτρέπεται* μπορεί να παρουσιάσετε μια δεν επιτρέπεται η πρόσβαση. Για μια λίστα με τις δυνατότητες που επηρεάζονται, ζητήματα ασφαλείας και για τη δυνατότητα να απενεργοποιήσετε τη δυνατότητα. Επισκεφθείτε [επιτρέπεται ή να απαγορεύεται η προσαρμοσμένη δέσμη ενεργειών](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Υπάρχουν ορισμένα σενάρια όπου η δυνατότητα *προσαρμοσμένης δέσμης ενεργειών* μπορεί να παρουσιάζει μια πρόσβαση δεν επιτρέπεται. Για μια λίστα με τις δυνατότητες που επηρεάζονται, ζητήματα ασφαλείας και τη δυνατότητα απενεργοποίησης της δυνατότητας. Παρακαλούμε επισκεφθείτε την [Αποδοχή ή την αποτροπή προσαρμοσμένης δέσμης ενεργειών](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

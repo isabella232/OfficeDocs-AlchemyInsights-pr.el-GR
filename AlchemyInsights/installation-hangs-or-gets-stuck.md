@@ -1,5 +1,5 @@
 ---
-title: Εγκατάστασης σταματά να ανταποκρίνεται ή να εισέρχεται
+title: Η εγκατάσταση σταματά να ανταποκρίνεται ή κολλάει
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498631"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735425"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Εγκατάσταση του Office σταματά να ανταποκρίνεται ή να εισέρχεται
+# <a name="office-installation-hangs-or-gets-stuck"></a>Η εγκατάσταση του Office σταματά να ανταποκρίνεται ή κολλάει
 
-Ενδέχεται να μπορείτε να δείτε αυτήν τη συμπεριφορά οφείλεται σε σύνδεση δικτύου, λογισμικό προστασίας από ιούς ή ρυθμίσεις του Windows Update στον υπολογιστή σας. Ακολουθούν ορισμένες συμβουλές που μπορείτε να δοκιμάσετε να διορθώσετε το πρόβλημα.
+Μπορεί να δείτε αυτήν τη συμπεριφορά λόγω της συνδεσιμότητας δικτύου, του λογισμικού προστασίας από ιούς ή των ρυθμίσεων του Windows Update στον υπολογιστή σας. Ακολουθούν ορισμένα πράγματα που μπορείτε να προσπαθήσετε να διορθώσετε το πρόβλημα.
   
-- Επανεκκινήστε τον υπολογιστή σας και ελέγξτε αν η εγκατάσταση του Office
+- Επανεκκινήστε τον υπολογιστή σας και ελέγξτε αν έχει εγκατασταθεί το Office
 
-- Χρησιμοποιήστε μια ενσύρματη σύνδεση
+- Χρήση ενσύρματου συνδέσμου
 
-- Εάν βρίσκεστε σε μια αργή σύνδεση στο internet, εγκαταστήσετε το Office [χρησιμοποιώντας το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Εάν βρίσκεστε σε αργή σύνδεση στο Internet, εγκαταστήστε το Office [χρησιμοποιώντας το πρόγραμμα εγκατάστασης χωρίς σύνδεση του Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Απενεργοποιήστε προσωρινά το λογισμικό προστασίας από ιούς
+- Προσωρινή απενεργοποίηση λογισμικού προστασίας από ιούς
 
-- Εκτέλεση επιδιόρθωσης με σύνδεση από τον πίνακα ελέγχου
+- Εκτέλεση ηλεκτρονικής επιδιόρθωσης από τον πίνακα ελέγχου
 
 - Κατάργηση και επανεγκατάσταση του Office
 
-[Χρειάζεται χρόνο για να εγκαταστήσετε το Office](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Το Office παίρνει πολύ χρόνο για την εγκατάσταση](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

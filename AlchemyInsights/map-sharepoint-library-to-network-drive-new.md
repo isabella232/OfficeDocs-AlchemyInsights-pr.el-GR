@@ -1,5 +1,5 @@
 ---
-title: Αντιστοιχίστε μια βιβλιοθήκη του SharePoint σε μια μονάδα δίσκου δικτύου
+title: Αντιστοίχιση βιβλιοθήκης του SharePoint σε μονάδα δίσκου δικτύου
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497013"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734885"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Αντιστοιχίστε μια βιβλιοθήκη του SharePoint σε μια μονάδα δίσκου δικτύου
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Αντιστοίχιση βιβλιοθήκης του SharePoint σε μονάδα δίσκου δικτύου
 
-Αντιστοίχιση μιας βιβλιοθήκης ως μια μονάδα δίσκου δικτύου είναι προσωρινή και υποστηρίζεται μόνο μέσω του Internet Explorer. Περιστασιακά πρέπει να ανοίξετε την τοποθεσία SharePoint στον Internet Explorer και επιλέξτε " **Διατήρηση της σύνδεσης** " για να αποτρέψετε τη λήξη της περιόδου λειτουργίας. Αντί για αυτό, [συγχρονισμό αρχείων του SharePoint με το νέο πελάτη συγχρονισμού OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> που παρέχει [Τα αρχεία On-Demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Πρόσβαση σε όλα τα αρχεία σας στο OneDrive χωρίς χρησιμοποιώντας τοπικό αποθηκευτικό χώρο.
+Η αντιστοίχιση μιας βιβλιοθήκης ως μονάδας δίσκου δικτύου είναι προσωρινή και υποστηρίζεται μόνο μέσω του Internet Explorer. Πρέπει περιστασιακά να ανοίξετε την τοποθεσία του SharePoint στον Internet Explorer και να επιλέξετε να **παραμείνετε συνδεδεμένοι** για να αποτρέψετε τη λήξη της περιόδου λειτουργίας. Αντί για αυτό,</a> [Συγχρονίστε τα αρχεία του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) που παρέχει [αρχεία κατ ' απαίτηση](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Αποκτήστε πρόσβαση σε όλα τα αρχεία σας στο OneDrive χωρίς να χρησιμοποιείτε τοπικό αποθηκευτικό χώρο.
 
-Εάν θέλετε να αντιστοιχίσετε μια μονάδα δίσκου, αντί να [χρησιμοποιήσετε τον υπολογιστή-πελάτη συγχρονισμού νέα OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), βεβαιωθείτε ότι ακολουθείτε τα βήματα στο παρακάτω άρθρο. 
-
-
-**Τρόπος ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένες μονάδες δίσκων δικτύου**
+Εάν επιλέξετε να αντιστοιχίσετε μια μονάδα δίσκου αντί να [χρησιμοποιήσετε το νέο πρόγραμμα-πελάτη συγχρονισμού OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), βεβαιωθείτε ότι ακολουθείτε τα βήματα του παρακάτω άρθρου. 
 
 
-Ανατρέξτε στην ενότητα [ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένες μονάδες δίσκων δικτύου](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+**Τρόπος ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένων μονάδων δικτύου**
 
-ΣΗΜΕΊΩΣΗ: Εάν χρησιμοποιείτε Internet Explorer 10 με Windows 8 ή Windows 7, και εμφανίζεται **η πρόσβαση** ή **η διαδρομή δεν είναι δεν είναι δυνατή η πρόσβαση** κατά την αντιστοίχιση μιας μονάδας δίσκου, να εγκαταστήσετε [αυτήν την επείγουσα επιδιόρθωση](https://support.microsoft.com/help/2846960) για να επιλύσετε αυτό το ζήτημα. 
+
+Ανατρέξτε [στο θέμα Αντιμετώπιση προβλημάτων αντιστοιχισμένων μονάδων δίσκου δικτύου που συνδέονται με το SharePoint onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+
+ΣΗΜΕΙΩΣΗ: Εάν χρησιμοποιείτε τον Internet Explorer 10 με Windows 8 ή Windows 7 και λάβετε **πρόσβαση δεν επιτρέπεται** ή **διαδρομή δεν είναι προσβάσιμη** κατά την αντιστοίχιση μιας μονάδας δίσκου, εγκαταστήστε [αυτήν την επείγουσα επιδιόρθωση](https://support.microsoft.com/help/2846960) για να επιλύσετε αυτό το ζήτημα. 
