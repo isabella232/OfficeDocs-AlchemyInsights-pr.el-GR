@@ -1,5 +1,5 @@
 ---
-title: Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο
+title: Δημιουργία και χρήση κοινόχρηστου γραμματοκιβωτίου
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515951"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736505"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Δημιουργήσετε και να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο
+# <a name="create-and-use-a-shared-mailbox"></a>Δημιουργία και χρήση κοινόχρηστου γραμματοκιβωτίου
 
-Κοινόχρηστο γραμματοκιβώτιο επιτρέπει περισσότερα από ένα άτομα, αποστολή και λήψη μηνυμάτων ηλεκτρονικού ταχυδρομείου για ένα ψευδώνυμο, όπως **sales@contoso.com**, χωρίς να αναθέσετε μια νέα άδεια.
+Ένα κοινόχρηστο γραμματοκιβώτιο επιτρέπει σε περισσότερα από ένα άτομα να στέλνουν και να λαμβάνουν μηνύματα ηλεκτρονικού ταχυδρομείου για ένα ψευδώνυμο, όπως το **sales@contoso.com**, χωρίς να εκχωρήσουν άλλη άδεια χρήσης.
   
-[Δημιουργία κοινόχρηστο γραμματοκιβώτιο](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) εξηγεί πώς να: 
+[Δημιουργήστε ένα κοινόχρηστο γραμματοκιβώτιο](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) εξηγεί πώς να: 
   
 - Δημιουργία κοινόχρηστου γραμματοκιβωτίου
     
-- Να δώσετε στους χρήστες δικαιώματα για να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο
+- Δώστε στους χρήστες δικαιώματα για να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο
     
-- Η πρόσβαση στο κοινόχρηστο γραμματοκιβώτιο στο Outlook ή το Outlook στο web
+- Πρόσβαση στο κοινόχρηστο γραμματοκιβώτιο στο Outlook ή στο Outlook στο Web
     
 

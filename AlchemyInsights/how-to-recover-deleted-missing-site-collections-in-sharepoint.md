@@ -1,6 +1,6 @@
 ---
-title: Επαναφέρετε μια διαγραμμένη τοποθεσία
-ms.author: kirks
+title: Επαναφορά διαγραμμένης τοποθεσίας
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: c6e0bfdbe3684163f1c35a74182e809f4c26cca4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540073"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756136"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Ανάκτηση των συλλογών τοποθεσιών λείπουν ή έχουν διαγραφεί
+# <a name="recover-missing-or-deleted-site-collections"></a>Ανάκτηση συλλογών τοποθεσιών που λείπουν ή διαγράφονται
 
-Τρόπος ανάκτησης συλλογές τοποθεσιών λείπουν ή έχουν διαγραφεί.
+Πώς να ανακτήσετε συλλογές τοποθεσιών που λείπουν ή έχουν διαγραφεί.
 
-[Ανάκτηση διαγραμμένων τοποθεσίες](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Επαναφορά διαγραμμένων τοποθεσιών](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Επαναφορά χρησιμοποιώντας SPO PowerShell λειτουργική μονάδα](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Επαναφορά χρησιμοποιώντας τη μονάδα](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Εάν δεν μπορείτε να βρείτε την τοποθεσία που μπορεί να θέλετε να [Αναζήτηση στο αρχείο καταγραφής ελέγχου ασφαλείας του Office 365 &amp; συμμόρφωση παραγωγής](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Εάν δεν μπορείτε να βρείτε την τοποθεσία, ίσως θελήσετε να [αναζητήσετε το αρχείο καταγραφής ελέγχου στο κέντρο συμμόρφωσης &amp; ασφαλείας του Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Σημείωση**: τοποθεσίες ομάδας "Σύγχρονη" δεν είναι ορατά σε το **Κλασικό** διαχείρισης SharePoint περιβάλλοντος εργασίας Χρήστη. Μπορείτε να έχετε πρόσβαση στη λίστα των τοποθεσιών "σύγχρονη" από το [Κέντρο διαχείρισης του Sharepoint νέα](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Σημείωση**: "σύγχρονες" τοποθεσίες ομάδας δεν είναι ορατές στο **κλασικό** περιβάλλον χρήστη του SharePoint admin. Μπορείτε να αποκτήσετε πρόσβαση στη λίστα των "σύγχρονων" τοποθεσιών από το [νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

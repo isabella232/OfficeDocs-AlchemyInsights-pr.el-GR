@@ -1,5 +1,5 @@
 ---
-title: Ετικέτες ευαισθησία δεν εμφανίζονται
+title: Οι ετικέτες ευαισθησίας δεν εμφανίζονται
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504535"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744821"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Ετικέτες ευαισθησία δεν εμφανίζονται
+# <a name="sensitivity-labels-not-appearing"></a>Οι ετικέτες ευαισθησίας δεν εμφανίζονται
 
-Ετικέτες ευαισθησία σας επιτρέπουν να ταξινομείτε και να βοηθήσετε στην προστασία του ευαίσθητου περιεχομένου. Για να μάθετε περισσότερα σχετικά με αυτήν τη δυνατότητα, δείτε το θέμα [Επισκόπηση των ετικετών ευαισθησίας](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Οι ετικέτες ευαισθησίας σάς επιτρέπουν να ταξινομείτε και να προστατεύετε το ευαίσθητο περιεχόμενό σας. Για να μάθετε περισσότερα σχετικά με αυτήν τη δυνατότητα, ανατρέξτε στην [ενότητα Επισκόπηση ετικετών ευαισθησίας](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Εάν έχετε ρυθμίσει τις παραμέτρους των ετικετών ευαισθησία, αλλά αυτές δεν εμφανίζονται στο τις εφαρμογές του Office, ελέγξτε τα εξής:
+Εάν έχετε ρυθμίσει τις παραμέτρους των ετικετών ευαισθησίας, αλλά δεν εμφανίζονται στις εφαρμογές του Office, ελέγξτε τα εξής:
 
-- Βεβαιωθείτε ότι η ετικέτα ευαισθησία έχει [δημοσιευθεί](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) για τους χρήστες και τις ομάδες που θέλετε.
+- Επιβεβαιώστε ότι η ετικέτα ευαισθησίας έχει [δημοσιευτεί](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) στους χρήστες και τις ομάδες που θέλετε.
 
-- Βεβαιωθείτε ότι ο χρήστης χρησιμοποιεί μια εφαρμογή που υποστηρίζει ετικέτες ευαισθησία - δείτε [τις ετικέτες ευαισθησία στο έγγραφό σας](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Επιβεβαιώστε ότι ο χρήστης χρησιμοποιεί μια εφαρμογή που υποστηρίζει ετικέτες ευαισθησίας-Δείτε τις [Ετικέτες ευαισθησίας στο έγγραφό σας](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Εάν είστε [τη μετεγκατάσταση ετικέτες Azure πληροφορίες προστασίας](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), να γνωρίζουν τα θέματα που παρατίθενται [εδώ](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Εάν κάνετε [μετεγκατάσταση ετικετών προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), έχετε επίγνωση των ζητημάτων που παρατίθενται [εδώ](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Πρόληψη απώλειας δεδομένων (DLP) υποστηρίζει: αυτήν τη στιγμή, μόνο ετικέτες διατήρησης μπορεί να χρησιμοποιηθεί ως συνθήκη στις πολιτικές DLP.  Υποστήριξη για ετικέτες ευαισθησία σε μια πολιτική DLP δεν είναι ακόμη διαθέσιμη, αλλά εργαζόμαστε σε αυτό.
+- Υποστήριξη αποτροπής απώλειας δεδομένων: επί του παρόντος, μόνο οι ετικέτες διατήρησης μπορούν να χρησιμοποιηθούν ως προϋπόθεση στις πολιτικές του  Η υποστήριξη για ετικέτες ευαισθησίας σε μια πολιτική του Γιεκ δεν είναι ακόμα διαθέσιμη, αλλά το εργαζόμαστε.
 
-Για περισσότερες πληροφορίες σχετικά με πιθανά ζητήματα, ανατρέξτε στην ενότητα " [Γνωστά ζητήματα με ετικέτες ευαισθησία](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US)".
+Για περισσότερες πληροφορίες σχετικά με πιθανά ζητήματα, ανατρέξτε στο [θέμα γνωστά ζητήματα με ετικέτες ευαισθησίας](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

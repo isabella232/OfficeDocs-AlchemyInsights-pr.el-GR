@@ -1,5 +1,5 @@
 ---
-title: Μετεγκατάσταση των γραμματοκιβωτίων μεταξύ των δύο διαφορετικές μισθωτών
+title: Μετεγκατάσταση γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544647"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734453"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Μετεγκατάσταση των γραμματοκιβωτίων μεταξύ των δύο διαφορετικές μισθωτών
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Μετεγκατάσταση γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών
 
-Ίσως χρειαστεί να την μετεγκατάσταση των γραμματοκιβωτίων μεταξύ των δύο διαφορετικές μισθωτών στο Office 365, για παράδειγμα, όταν υπάρχουν συγχωνεύσεις οργανισμού. Οι μετεγκαταστάσεις αυτές πρέπει να προγραμματίζονται προσεκτικά. Δείτε τις παρακάτω οδηγίες:
+Ίσως χρειαστεί να μετεγκαταστήσετε γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών στο Office 365, για παράδειγμα, όταν υπάρχουν συγχωνεύσεις οργανισμού. Αυτές οι μετεγκαταστάσεις θα πρέπει να σχεδιάζονται προσεκτικά. Παρακαλείσθε να δείτε τις ακόλουθες οδηγίες:
   
-[Τρόπος μετεγκατάσταση των γραμματοκιβωτίων από ένα Office 365 μισθωτών σε άλλο](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Πώς να μετεγκαταστήσετε γραμματοκιβώτια από ένα Office 365 μισθωτών σε ένα άλλο](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

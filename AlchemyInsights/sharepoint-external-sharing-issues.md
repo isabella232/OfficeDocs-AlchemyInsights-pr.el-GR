@@ -1,5 +1,5 @@
 ---
-title: Εξωτερικό χρήστη δεν είναι δυνατό να αποκτήσει πρόσβαση σε περιεχόμενο με την ηλεκτρονική του SharePoint
+title: Εξωτερικός χρήστης δεν είναι δυνατό να πρόσβαση σε περιεχόμενο στο SharePoint Online
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503923"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744101"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Εξωτερικό χρήστη δεν είναι δυνατό να αποκτήσει πρόσβαση σε περιεχόμενο με την ηλεκτρονική του SharePoint
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Εξωτερικός χρήστης δεν είναι δυνατό να πρόσβαση σε περιεχόμενο στο SharePoint Online
 
-Εάν το εξωτερικό χρήστη έχει προσκληθεί και δεν είναι δυνατή η πρόσβαση στο περιεχόμενο, Παρακαλώ δοκιμάστε να επισκεφθείτε τις παρακάτω συνδέσεις.
+Εάν ένας εξωτερικός χρήστης έχει προσκληθεί και δεν είναι σε θέση να αποκτήσει πρόσβαση σε περιεχόμενο, δοκιμάστε να επισκεφτείτε τους παρακάτω συνδέσμους.
 
-- [Μήνυμα λάθους όταν εξωτερικό χρήστη αποδέχεται μια πρόσκληση σε ηλεκτρονική SharePoint χρησιμοποιώντας έναν άλλο λογαριασμό](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Μήνυμα λάθους όταν ένας εξωτερικός χρήστης αποδέχεται μια πρόσκληση του SharePoint Online χρησιμοποιώντας έναν άλλο λογαριασμό](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Η πρόσβαση σε έναν κοινόχρηστο φάκελο](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Δεν επιτρέπεται η πρόσβαση σε έναν κοινόχρηστο φάκελο](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE κοινή χρήση σφάλματα στο Sharepoint και OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Σφάλματα κοινής χρήσης OSE στο SharePoint και στο OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

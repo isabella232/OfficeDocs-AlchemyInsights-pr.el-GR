@@ -1,30 +1,30 @@
 ---
-title: Επισκόπηση απώλεια πρόληψης (DLP) δεδομένων
-ms.author: kirks
+title: Επισκόπηση της αποτροπής απώλειας δεδομένων
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514403"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755128"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Επισκόπηση απώλεια πρόληψης (DLP) δεδομένων
+# <a name="data-loss-prevention-dlp-overview"></a>Επισκόπηση της αποτροπής απώλειας δεδομένων
 
-Με μια πολιτική DLP, μπορείτε:
+Με μια πολιτική της πολιτικής, μπορείτε:
 
-- Προσδιορισμός ευαίσθητων πληροφοριών σε πολλές θέσεις, όπως ηλεκτρονική ανταλλαγή, ηλεκτρονική SharePoint και OneDrive για την επιχείρηση.
-
-
-Για παράδειγμα, μπορείτε να προσδιορίσετε οποιοδήποτε έγγραφο που περιέχει έναν αριθμό πιστωτικής κάρτας που είναι αποθηκευμένο σε κάθε OneDrive για επαγγελματική τοποθεσία, ή μπορείτε να παρακολουθείτε μόνο τις τοποθεσίες OneDrive από συγκεκριμένα άτομα.
-
-- Αποτρέπεται η ακούσια κοινή χρήση των ευαίσθητων πληροφοριών.
+- Προσδιορίστε ευαίσθητες πληροφορίες σε πολλές τοποθεσίες, όπως το Exchange Online, ηλεκτρονική SharePoint και OneDrive για την επιχείρηση.
 
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο ακόλουθο [άρθρο](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Για παράδειγμα, μπορείτε να αναγνωρίσετε οποιοδήποτε έγγραφο περιέχει έναν αριθμό πιστωτικής κάρτας που είναι αποθηκευμένο σε οποιαδήποτε OneDrive για επαγγελματική τοποθεσία ή μπορείτε να εποπτεύετε μόνο τις τοποθεσίες του OneDrive συγκεκριμένων ατόμων.
+
+- Αποτρέψτε την ακούσια ανταλλαγή ευαίσθητων πληροφοριών.
+
+
+Για περισσότερες πληροφορίες, διαβάστε το ακόλουθο [άρθρο](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

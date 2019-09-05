@@ -1,5 +1,5 @@
 ---
-title: Ομοσπονδία ADFS πιστοποιητικού που λήγει
+title: ADFS πιστοποιητικού Ομοσπονδίας που λήγει
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499891"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737189"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>Ομοσπονδία ADFS πιστοποιητικού που λήγει
+# <a name="adfs-federation-certificate-expiring"></a>ADFS πιστοποιητικού Ομοσπονδίας που λήγει
 
 Για να επιλύσετε αυτό το ζήτημα, ακολουθήστε τα εξής βήματα:
   
-1. Εγκαταστήστε το Microsoft Azure Active Directory λειτουργική μονάδα για Windows PowerShell στον υπολογιστή (Εάν η λειτουργική μονάδα δεν είναι ήδη εγκατεστημένο). Για να γίνει αυτό, μεταβείτε στην [Διαχείριση AD Azure χρησιμοποιώντας το Windows PowerShell](https://aka.ms/aadposh).
+1. Εγκαταστήστε τη λειτουργική μονάδα καταλόγου Active Directory Microsoft Azure για Windows PowerShell στον υπολογιστή (εάν η λειτουργική μονάδα δεν είναι ήδη εγκατεστημένη). Για να γίνει αυτό, μεταβείτε στη [Διαχείριση AD Azure χρησιμοποιώντας το Windows PowerShell](https://aka.ms/aadposh).
 
-2. Ακολουθήστε τα βήματα του "σενάριο 1: λήξει το πιστοποιητικό υπογραφής διακριτικό AD FS" ενότητα ["Παρουσιάστηκε ένα πρόβλημα κατά την πρόσβαση στην τοποθεσία" σφάλμα από AD FS όταν μια ομόσπονδη χρήστης υπογράφει Office 365, Azure, ή Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Ακολουθήστε τα βήματα στο "σενάριο 1: το πιστοποιητικό AD FS διακριτικού υπογραφής έληξε" ενότητα ["Παρουσιάστηκε ένα πρόβλημα κατά την πρόσβαση στην τοποθεσία" σφάλμα από AD FS όταν μια ομόσπονδης χρήστης υπογράφει στο Office 365, Azure ή Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Ακολουθήστε τα βήματα στο [πώς μπορείτε να ενημερώσετε ή να επιδιορθώσετε τις ρυθμίσεις ομόσπονδη τομέα στο Office 365, Azure, ή Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Ακολουθήστε τα βήματα στην [ενημερωμένη έκδοση ή να επιδιορθώσετε τις ρυθμίσεις ενός ομόσπονδη τομέα στο Office 365, Azure ή Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Για να μάθετε περισσότερα σχετικά με την ανανέωση πιστοποιητικών Ομοσπονδία, ανατρέξτε στην ενότητα " [Ανανέωση πιστοποιητικών Ομοσπονδία για Office 365 και Azure υπηρεσίας καταλόγου Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)".
+    Για να μάθετε περισσότερα σχετικά με την ανανέωση πιστοποιητικών Ομοσπονδία, ανατρέξτε [στο θέμα ανανέωση πιστοποιητικών Ομοσπονδία για το Office 365 και Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

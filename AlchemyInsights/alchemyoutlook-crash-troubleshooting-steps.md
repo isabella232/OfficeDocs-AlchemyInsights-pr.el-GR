@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664572"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737117"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Βήματα αντιμετώπισης προβλημάτων του Outlook αιφνίδια διακοπή λειτουργίας
 
-Εάν αντιμετωπίζετε ζητήματα αιφνίδια διακοπή λειτουργίας της επιφάνειας εργασίας του Outlook, ξεκινήστε ακολουθώντας τα παρακάτω τρία βήματα, τα οποία παρατίθενται λεπτομερώς σε αυτό το άρθρο: [Πώς να αντιμετωπίσετε ζητήματα που προκαλούν το Outlook να διακοπεί η διαδικασία ή να σταματήσει να ανταποκρίνεται όταν χρησιμοποιείται με το Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Εάν αντιμετωπίζετε ζητήματα αιφνίδια διακοπή λειτουργίας της επιφάνειας εργασίας του Outlook, ξεκινήστε ακολουθώντας τα παρακάτω τρία βήματα, τα οποία παρατίθενται λεπτομερώς σε αυτό το άρθρο: [Πώς να αντιμετωπίσετε ζητήματα που προκαλούν το Outlook να διακοπεί η διαδικασία ή να σταματήσει να ανταποκρίνεται όταν χρησιμοποιείται με το Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Βήμα 1: διερεύνηση πιθανών ζητημάτων με τα πρόσθετα.
   
