@@ -1,6 +1,6 @@
 ---
-title: Υποδομή δημοσίευσης του με μια τοποθεσία επικοινωνίας
-ms.author: kirks
+title: Δημοσίευση υποδομής με τοποθεσία επικοινωνίας
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,27 +8,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 10a5f2f1d01d4b49bbcbe35b71aaeb6cc0f28c74
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502951"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750074"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>SharePoint δημοσίευσης υποδομής
+# <a name="sharepoint-publishing-infrastructure"></a>Υποδομή δημοσίευσης του SharePoint
 
 
-Το SharePoint περιλαμβάνει ένα κλασικό σύνολο δυνατοτήτων που σας επιτρέπουν να συντάσσετε και να δημοσιεύετε εμπλουτισμένου ιστοσελίδες για το intranet σας. Ενεργοποίηση του SharePoint δημοσίευσης υποδομής σε επίπεδο συλλογής τοποθεσιών για να τα ενεργοποιήσετε.
+Το SharePoint περιλαμβάνει ένα κλασικό σύνολο δυνατοτήτων που σας επιτρέπουν να συντάξετε και να δημοσιεύσετε πλούσιες ιστοσελίδες για το intranet σας. Ενεργοποιήστε την υποδομή δημοσίευσης του SharePoint στο επίπεδο συλλογής τοποθεσιών για να τις ενεργοποιήσετε.
 
-Για περισσότερες πληροφορίες, επισκεφθείτε τις παρακάτω συνδέσεις.
+Για περισσότερες πληροφορίες επισκεφτείτε τους παρακάτω συνδέσμους.
 
 [Ενεργοποίηση δυνατοτήτων δημοσίευσης](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
-[Οι δυνατότητες δημοσίευσης](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+[Δυνατότητες δημοσίευσης](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
 Σημειώσεις:
 
 - Τα κλασικά πρότυπα τοποθεσίας δημοσίευσης περιλαμβάνουν τις δυνατότητες δημοσίευσης από προεπιλογή.
 
-- Κλασική δυνατότητες δημοσίευσης δεν είναι διαθέσιμες σε σύγχρονα τοποθεσίες. Από προεπιλογή, οι τοποθεσίες σύγχρονα παρέχουν μια νεότερη εναλλακτική λύση.
+- Οι κλασικές δυνατότητες δημοσίευσης δεν είναι διαθέσιμες σε σύγχρονες τοποθεσίες. Οι σύγχρονοι ιστότοποι παρέχουν μια νεότερη εναλλακτική λύση από προεπιλογή.
 

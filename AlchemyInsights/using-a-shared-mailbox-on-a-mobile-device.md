@@ -1,5 +1,5 @@
 ---
-title: 1800014 χρησιμοποιώντας ένα κοινόχρηστο γραμματοκιβώτιο σε μια φορητή συσκευή
+title: 1800014 χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531863"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741833"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Χρησιμοποιώντας ένα κοινόχρηστο γραμματοκιβώτιο σε μια φορητή συσκευή
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή
 
-Δεν μπορείτε να αποκτήσετε πρόσβαση κοινόχρηστο γραμματοκιβώτιο από το app του Outlook που είναι εγκατεστημένη στη φορητή συσκευή. Θέλετε αυτήν τη δυνατότητα; Σας επιτρέπουν να γνωρίζετε ομάδας προγραμματισμού Outlook. [Ψηφοφορία εδώ](https://go.microsoft.com/fwlink/?linked=862116)!
+Δεν μπορείτε να αποκτήσετε πρόσβαση σε ένα κοινόχρηστο γραμματοκιβώτιο από την εφαρμογή του Outlook που είναι εγκατεστημένη στην κινητή συσκευή. Θέλετε αυτό το χαρακτηριστικό; Ενημερώστε την ομάδα μηχανικών του Outlook. [Ψηφίστε εδώ](https://go.microsoft.com/fwlink/?linked=862116)!
   
-Μπορείτε να χρησιμοποιήσετε μόνο ένα κοινόχρηστο γραμματοκιβώτιο σε μια φορητή συσκευή, ανοίγοντας το πρόγραμμα περιήγησής σας, εισέλθετε στο Office 365 και, στη συνέχεια, μεταβείτε στο Outlook στο web. Για οδηγίες, ανατρέξτε στο θέμα [Προσθήκη κοινόχρηστο γραμματοκιβώτιο στο Outlook από το web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+Μπορείτε να χρησιμοποιήσετε μόνο ένα κοινόχρηστο γραμματοκιβώτιο σε μια κινητή συσκευή, ανοίγοντας το πρόγραμμα περιήγησής σας, συνδεθείτε στο Office 365 και, στη συνέχεια, πηγαίνοντας στο Outlook στο Web. Για οδηγίες, ανατρέξτε στην [Προσθήκη κοινόχρηστου γραμματοκιβωτίου στο Outlook στο Web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Εάν πρέπει να έχετε πρόσβαση σε κοινόχρηστα γραμματοκιβώτια χρησιμοποιώντας το Outlook app σε μια φορητή συσκευή, μπορείτε να δημιουργήσετε μια ομάδα 365 Office αντί να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [σύγκριση ομάδων](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Εάν πρέπει να έχετε πρόσβαση σε κοινόχρηστα γραμματοκιβώτια χρησιμοποιώντας την εφαρμογή του Outlook σε μια κινητή συσκευή, εξετάστε το ενδεχόμενο να δημιουργήσετε μια ομάδα Office 365 αντί να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο. Για περισσότερες πληροφορίες, ανατρέξτε στο στοιχείο [σύγκριση ομάδων](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
   
-Μάθετε περισσότερα: [Βοήθεια - app για το Outlook για iOS και Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Μάθετε περισσότερα: [Αποκτήστε βοήθεια in-app για το Outlook για iOS και Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   

@@ -1,5 +1,5 @@
 ---
-title: Αντιμετώπιση προβλημάτων εγκατάστασης για ροή - Διαχείριση αδειών χρήσης ροής
+title: Αντιμετώπιση προβλημάτων εγκατάστασης για ροή-διαχείριση αδειών ροής
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533339"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742697"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Διαχείριση αδειών χρήσης της Microsoft ροής
+# <a name="managing-microsoft-stream-licenses"></a>Διαχείριση αδειών χρήσης του Microsoft Stream
 
-**Σημαντικό:** Θα πρέπει να είναι στο ρόλο διαχείρισης μισθωτών για την εκτέλεση λειτουργιών που περιγράφονται σε αυτό το θέμα.
+**Σημαντικό:** Πρέπει να είστε στο ρόλο διαχειριστή μισθωτών για να εκτελέσετε τις λειτουργίες που περιγράφονται σε αυτό το θέμα.
 
-Πρέπει να είστε διαχειριστής της κύριας ή ένα διαχειριστή Διαχείριση χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [σχετικά με το Office 365 διαχείρισης ρόλων](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Πρέπει να είστε είτε καθολικός διαχειριστής είτε διαχειριστής διαχείρισης χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα σχετικά με τους ρόλους διαχείρισης](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Μπορείτε να εκχωρήσετε τις [άδειες χρήσης για λογαριασμούς χρηστών με το Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Μπορείτε να αντιστοιχίσετε [άδειες χρήσης σε λογαριασμούς χρηστών με το Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
