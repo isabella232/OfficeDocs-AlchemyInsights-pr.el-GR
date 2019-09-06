@@ -1,5 +1,5 @@
 ---
-Title: Ανανέωση με χρήση Web σύνδεσης δεν λειτουργεί σωστά
+title: Η ανανέωση με χρήση της σύνδεσης Web δεν λειτουργεί σωστά
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753290"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748900"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Ανανέωση με χρήση Web σύνδεσης δεν λειτουργεί σωστά
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Η ανανέωση με χρήση της σύνδεσης Web δεν λειτουργεί σωστά
 
-Εάν έχετε μια δέσμη ενεργειών σύνδεσης web που χρησιμοποιεί τη συνάρτηση [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) και έχετε ενημερώσει το dataset ή την αναφορά μετά 18ο Νοεμβρίου 2016, πρέπει να χρησιμοποιήσετε μια πύλη για ανανέωση, για να λειτουργήσει σωστά.
+Εάν έχετε μια δέσμη ενεργειών σύνδεσης Web που χρησιμοποιεί τη συνάρτηση [Web. Page](https://msdn.microsoft.com/library/mt260924.aspx) και έχετε ενημερώσει το σύνολο δεδομένων ή την αναφορά σας μετά τις 18 νοεμβρίου, 2016, πρέπει να χρησιμοποιήσετε μια πύλη για να λειτουργήσει σωστά η ανανέωση.
 
 Για περισσότερες πληροφορίες:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
