@@ -1,5 +1,5 @@
 ---
-title: Ειδοποιήσεις Outlook.com Facebook
+title: Ειδοποιήσεις Outlook.com στο Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536975"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822082"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Ειδοποιήσεις Facebook χρησιμοποιώντας Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Ειδοποιήσεις στο Facebook χρησιμοποιώντας το Outlook.com
 
-Εάν δεν θέλετε να λαμβάνετε ειδοποιήσεις από το Facebook, μπορείτε να αλλάξετε τις [ρυθμίσεις του Facebook](https://www.facebook.com/settings?tab=notifications) ή να ορίσετε έναν κανόνα εισερχομένων.
+Αν δεν θέλετε να λαμβάνετε ειδοποιήσεις από το Facebook, μπορείτε να αλλάξετε τις [ρυθμίσεις του Facebook](https://aka.ms/facebook-notifications-settings) ή να ορίσετε έναν κανόνα εισερχομένων.
 
-1. Μεταβείτε στις [Ρυθμίσεις κανόνες](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Μεταβείτε στις [ρυθμίσεις κανόνων](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Επιλέξτε **Προσθήκη νέου κανόνα**.
-1. Το όνομα του κανόνα "Facebook".
-1. Προσθέστε μια κατάσταση "Από" και πληκτρολογήστε "notification@facebookmail.com"
-1. Προσθέστε μια ενέργεια "Διαγραφή". Επιλογή Διαγραφή σημαίνει ότι τα μηνύματα παραμένουν στο σας Διαγραμμένα στοιχεία και είναι δυνατό να ανακτηθεί. Εάν επιλέξετε "Σήμανση ως ανεπιθύμητη αλληλογραφία", τα μηνύματα θα διαγράφονται αυτόματα και δεν είναι δυνατό να ανακτηθεί.
+1. Ονομάστε τον κανόνα σας "Facebook".
+1. Προσθέστε μια συνθήκη "από" και πληκτρολογήστε "notification@facebookmail.com"
+1. Προσθέστε μια ενέργεια "Διαγραφή". Η επιλογή διαγραφής σημαίνει ότι τα μηνύματα παραμένουν στα διαγραμμένα στοιχεία και μπορούν να ανακτηθούν. Εάν επιλέξετε "σήμανση ως ανεπιθύμητης αλληλογραφίας", τα μηνύματα θα διαγραφούν αυτόματα και δεν θα είναι δυνατή η ανάκτησή τους.
 1. Επιλέξτε **Αποθήκευση**.
