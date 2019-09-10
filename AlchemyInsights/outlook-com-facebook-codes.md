@@ -1,5 +1,5 @@
 ---
-title: Κωδικοί Outlook.com Facebook
+title: Outlook.com κωδικοί Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546771"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822306"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a><span data-ttu-id="6798d-102">Δεν λαμβάνετε κωδικούς Facebook χρησιμοποιώντας Outlook.com</span><span class="sxs-lookup"><span data-stu-id="6798d-102">Not receiving Facebook codes using Outlook.com</span></span>
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a><span data-ttu-id="bdecf-102">Δεν λαμβάνετε κωδικούς Facebook χρησιμοποιώντας το Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bdecf-102">Not receiving Facebook codes using Outlook.com</span></span>
 
-<span data-ttu-id="6798d-103">Εάν ζήτησε έναν νέο κωδικό πρόσβασης από το Facebook, αλλά δεν έλαβα μηνύματος επαναφοράς του κωδικού πρόσβασης:</span><span class="sxs-lookup"><span data-stu-id="6798d-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
+<span data-ttu-id="bdecf-103">Αν ζητήσατε έναν νέο κωδικό πρόσβασης από το Facebook, αλλά δεν λάβατε το email επαναφοράς του κωδικού πρόσβασής σας:</span><span class="sxs-lookup"><span data-stu-id="bdecf-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
 
-- <span data-ttu-id="6798d-104">Ελέγξτε το φάκελο [ανεπιθύμητης αλληλογραφίας ή το φάκελο ανεπιθύμητης αλληλογραφίας](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="6798d-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
-- <span data-ttu-id="6798d-105">Προσπαθήστε να [επαναφέρετε τον κωδικό πρόσβασης Facebook ξανά](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span><span class="sxs-lookup"><span data-stu-id="6798d-105">Try to [reset your Facebook password again](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span></span>
+- <span data-ttu-id="bdecf-104">Ελέγξτε το [φάκελο spam ή ανεπιθύμητης αλληλογραφίας](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="bdecf-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
+- <span data-ttu-id="bdecf-105">Προσπαθήστε να [επαναφέρετε ξανά τον κωδικό πρόσβασής σας στο Facebook](https://aka.ms/facebook-password-reset).</span><span class="sxs-lookup"><span data-stu-id="bdecf-105">Try to [reset your Facebook password again](https://aka.ms/facebook-password-reset).</span></span>
 
-<span data-ttu-id="6798d-106">Εάν δεν μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας, επειδή δεν είναι δυνατό να αποκτήσει πρόσβαση το μήνυμα ηλεκτρονικού ταχυδρομείου ή τον αριθμό κινητού τηλεφώνου στο λογαριασμό σας, δοκιμάστε να [Του Facebook κωδικός πρόσβασης Επαναφορά συμβουλών](https://www.facebook.com/help/218815984812734).</span><span class="sxs-lookup"><span data-stu-id="6798d-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://www.facebook.com/help/218815984812734).</span></span>
+<span data-ttu-id="bdecf-106">Αν δεν μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας, επειδή δεν έχετε πρόσβαση στο email ή στον αριθμό του κινητού τηλεφώνου στο λογαριασμό σας, δοκιμάστε τις [συμβουλές επαναφοράς κωδικού πρόσβασης του Facebook](https://aka.ms/facebook-password-help).</span><span class="sxs-lookup"><span data-stu-id="bdecf-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://aka.ms/facebook-password-help).</span></span>
