@@ -1,5 +1,5 @@
 ---
-title: 1374 επίλυση δύο γραμματοκιβώτια ΔΙΑΔΙΚΑΣΙΕΣ
+title: 1374 επίλυση δύο γραμματοκιβωτίων ΔΙΑΔΙΚΑΣΙΕΣ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369845"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992069"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="8374c-102">Ένας χρήστης διαθέτει δύο γραμματοκιβώτια</span><span class="sxs-lookup"><span data-stu-id="8374c-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="e53c7-102">Ένας χρήστης έχει δύο γραμματοκιβώτια</span><span class="sxs-lookup"><span data-stu-id="e53c7-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="8374c-103">Υβριδική περιβάλλοντα που χρησιμοποιούν Azure Active Directory σύνδεση (σύνδεση AAD) ή DirSync κατά λάθος μπορεί να προκαλέσει ένα χρήστη να έχει δύο γραμματοκιβώτια: ένα με την οργάνωση της εσωτερικής εγκατάστασης και ένα στο σύννεφο.</span><span class="sxs-lookup"><span data-stu-id="8374c-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one in the on-premises organization and one in the cloud.</span></span>
+<span data-ttu-id="e53c7-103">Υβριδική περιβάλλοντα που χρησιμοποιούν Azure Active Directory Connect (σύνδεση.) ή DirSync μπορεί κατά λάθος να προκαλέσει ένα χρήστη να έχει δύο γραμματοκιβώτια: μία εσωτερικής εγκατάστασης και μία στο σύννεφο.</span><span class="sxs-lookup"><span data-stu-id="e53c7-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="e53c7-104">Ένα διπλότυπο γραμματοκιβώτιο μπορεί να δημιουργηθεί σε κάθε θέση.</span><span class="sxs-lookup"><span data-stu-id="e53c7-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="8374c-104">Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε στην ενότητα [Μόνιμα Απαλοιφή προηγούμενη γραμματοκιβωτίου πληροφοριών](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span><span class="sxs-lookup"><span data-stu-id="8374c-104">To resolve this issue, see [Permanently Clear Previous Mailbox Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span></span>
+<span data-ttu-id="e53c7-105">Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε στο θέμα [Πώς να ανακτήσετε όταν υπάρχει ένα γραμματοκιβώτιο στο Exchange Online και εσωτερικής εγκατάστασης](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="e53c7-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="e53c7-106">Αν θέλετε να μάθετε περισσότερα σχετικά με το πώς να αποφύγετε να συμβεί αυτό στο μέλλον, ανατρέξτε στο [θέμα ο χρήστης μου έχει ένα γραμματοκιβώτιο τόσο εσωτερικής εγκατάστασης όσο και στο Exchange Online. Βοηθήστε με!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)</span><span class="sxs-lookup"><span data-stu-id="e53c7-106">If you want to learn more about how to avoid this from happening in the future, please see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
+
