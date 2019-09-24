@@ -15,20 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f8b2bcebf875df2ff64521b0a489aa1aff50e0be
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741833"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122147"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή
 
-Δεν μπορείτε να αποκτήσετε πρόσβαση σε ένα κοινόχρηστο γραμματοκιβώτιο από την εφαρμογή του Outlook που είναι εγκατεστημένη στην κινητή συσκευή. Θέλετε αυτό το χαρακτηριστικό; Ενημερώστε την ομάδα μηχανικών του Outlook. [Ψηφίστε εδώ](https://go.microsoft.com/fwlink/?linked=862116)!
+Για να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο στην κινητή συσκευή σας, θα πρέπει να [κάνετε λήψη του Outlook Mobile](https://products.office.com/en-us/outlook-mobile-for-android-and-ios) και, στη συνέχεια, [Προσθέστε ένα κοινόχρηστο γραμματοκιβώτιο στο Outlook Mobile](https://support.office.com/en-us/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-Μπορείτε να χρησιμοποιήσετε μόνο ένα κοινόχρηστο γραμματοκιβώτιο σε μια κινητή συσκευή, ανοίγοντας το πρόγραμμα περιήγησής σας, συνδεθείτε στο Office 365 και, στη συνέχεια, πηγαίνοντας στο Outlook στο Web. Για οδηγίες, ανατρέξτε στην [Προσθήκη κοινόχρηστου γραμματοκιβωτίου στο Outlook στο Web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
-  
-Εάν πρέπει να έχετε πρόσβαση σε κοινόχρηστα γραμματοκιβώτια χρησιμοποιώντας την εφαρμογή του Outlook σε μια κινητή συσκευή, εξετάστε το ενδεχόμενο να δημιουργήσετε μια ομάδα Office 365 αντί να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο. Για περισσότερες πληροφορίες, ανατρέξτε στο στοιχείο [σύγκριση ομάδων](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
-  
-Μάθετε περισσότερα: [Αποκτήστε βοήθεια in-app για το Outlook για iOS και Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Για να λάβετε βοήθεια: [Αποκτήστε βοήθεια in-app για το Outlook για iOS και Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
