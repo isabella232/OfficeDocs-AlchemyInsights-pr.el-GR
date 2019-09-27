@@ -1,8 +1,7 @@
 ---
-title: Θέση δεδομένων
+title: Τοποθεσία δεδομένων
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514131"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207261"
 ---
-# <a name="data-location"></a><span data-ttu-id="406c4-102">Θέση δεδομένων</span><span class="sxs-lookup"><span data-stu-id="406c4-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="35d15-102">Τοποθεσία δεδομένων</span><span class="sxs-lookup"><span data-stu-id="35d15-102">Data location</span></span>
 
-<span data-ttu-id="406c4-103">Εμείς διατηρεί πολλά αντίγραφα των δεδομένων σας σε κέντρα δεδομένων για πλεονασμό.</span><span class="sxs-lookup"><span data-stu-id="406c4-103">We maintain multiple copies of your data across datacenters for redundancy.</span></span> <span data-ttu-id="406c4-104">[Δείτε όπου βρίσκεται τα δεδομένα σας](https://office.com/datamaps).</span><span class="sxs-lookup"><span data-stu-id="406c4-104">[See where your data is located](https://office.com/datamaps).</span></span> <span data-ttu-id="406c4-105">Εάν μας αναπτύξετε τη θέση των δεδομένων σας σε μια νέα χώρα ή περιοχή, θα σας δώσουμε προειδοποίηση ενός μηνός.</span><span class="sxs-lookup"><span data-stu-id="406c4-105">If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
-  
-<span data-ttu-id="406c4-106">Για περισσότερες πληροφορίες σχετικά με την ασφάλεια, προστασία προσωπικών δεδομένων και συμμόρφωσης Office 365, ανατρέξτε στο [Κέντρο αξιοπιστίας του Office 365](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="406c4-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span>
-  
+<span data-ttu-id="35d15-103">Μπορείτε να προβάλετε τη θέση του μισθωτή Office 365 στο κέντρο διαχείρισης ή συνδέοντας με το Exchange Online μέσω PowerShell.</span><span class="sxs-lookup"><span data-stu-id="35d15-103">You can view the location of your Office 365 tenant in the admin center or by connecting to Exchange Online via PowerShell.</span></span>
+
+
+<span data-ttu-id="35d15-104">**Κέντρο διαχείρισης:**</span><span class="sxs-lookup"><span data-stu-id="35d15-104">**Admin center:**</span></span>
+1. <span data-ttu-id="35d15-105">Συνδεθείτε στο [Κέντρο διαχείρισης](https://admin.microsoft.com/Adminportal/Home).</span><span class="sxs-lookup"><span data-stu-id="35d15-105">Log in to the [admin center](https://admin.microsoft.com/Adminportal/Home).</span></span>
+2. <span data-ttu-id="35d15-106">Επιλέξτε \*\*\*\* > **προφίλ οργάνωσης**ρυθμίσεων.</span><span class="sxs-lookup"><span data-stu-id="35d15-106">Select **Settings** > **Organization profile**.</span></span>
+3. <span data-ttu-id="35d15-107">Στη **θέση δεδομένων**, επιλέξτε **Προβολή λεπτομερειών**.</span><span class="sxs-lookup"><span data-stu-id="35d15-107">Under **Data location**, select **View details**.</span></span>
+
+
+<span data-ttu-id="35d15-108">**Powershell:**</span><span class="sxs-lookup"><span data-stu-id="35d15-108">**PowerShell:**</span></span>
+1. <span data-ttu-id="35d15-109">Συνδεθείτε με το Exchange Online χρησιμοποιώντας το Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="35d15-109">Connect to Exchange Online by using Windows PowerShell.</span></span>
+2. <span data-ttu-id="35d15-110">Εκτελέστε το cmdlet [λήψη οργάνωση](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) για να εμφανίσετε μια λίστα των ιδιοτήτων του μισθωτή σας.</span><span class="sxs-lookup"><span data-stu-id="35d15-110">Execute the [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet to display a list of your tenant’s properties.</span></span> 
+3. <span data-ttu-id="35d15-111">Κοίτα την ιδιοκτησία.</span><span class="sxs-lookup"><span data-stu-id="35d15-111">Look at the OrganizationId property.</span></span>
+
+<span data-ttu-id="35d15-112">Όταν έχετε τη θέση δεδομένων για το εξω και το πο, μπορείτε να προσδιορίσετε τη θέση δεδομένων για άλλες υπηρεσίες που μπορείτε να χρησιμοποιήσετε από το [σημείο όπου βρίσκονται τα δεδομένα σας](https://products.office.com/where-is-your-data-located).</span><span class="sxs-lookup"><span data-stu-id="35d15-112">When you have the data location for EXO and SPO, you can determine the data location for other services you may use from [Where your data is located](https://products.office.com/where-is-your-data-located).</span></span>
