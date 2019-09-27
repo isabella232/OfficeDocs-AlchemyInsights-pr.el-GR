@@ -1,8 +1,7 @@
 ---
-title: Θέση δεδομένων
+title: Τοποθεσία δεδομένων
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514131"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207261"
 ---
-# <a name="data-location"></a>Θέση δεδομένων
+# <a name="data-location"></a>Τοποθεσία δεδομένων
 
-Εμείς διατηρεί πολλά αντίγραφα των δεδομένων σας σε κέντρα δεδομένων για πλεονασμό. [Δείτε όπου βρίσκεται τα δεδομένα σας](https://office.com/datamaps). Εάν μας αναπτύξετε τη θέση των δεδομένων σας σε μια νέα χώρα ή περιοχή, θα σας δώσουμε προειδοποίηση ενός μηνός.
-  
-Για περισσότερες πληροφορίες σχετικά με την ασφάλεια, προστασία προσωπικών δεδομένων και συμμόρφωσης Office 365, ανατρέξτε στο [Κέντρο αξιοπιστίας του Office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Μπορείτε να προβάλετε τη θέση του μισθωτή Office 365 στο κέντρο διαχείρισης ή συνδέοντας με το Exchange Online μέσω PowerShell.
+
+
+**Κέντρο διαχείρισης:**
+1. Συνδεθείτε στο [Κέντρο διαχείρισης](https://admin.microsoft.com/Adminportal/Home).
+2. Επιλέξτε **** > **προφίλ οργάνωσης**ρυθμίσεων.
+3. Στη **θέση δεδομένων**, επιλέξτε **Προβολή λεπτομερειών**.
+
+
+**Powershell:**
+1. Συνδεθείτε με το Exchange Online χρησιμοποιώντας το Windows PowerShell.
+2. Εκτελέστε το cmdlet [λήψη οργάνωση](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) για να εμφανίσετε μια λίστα των ιδιοτήτων του μισθωτή σας. 
+3. Κοίτα την ιδιοκτησία.
+
+Όταν έχετε τη θέση δεδομένων για το εξω και το πο, μπορείτε να προσδιορίσετε τη θέση δεδομένων για άλλες υπηρεσίες που μπορείτε να χρησιμοποιήσετε από το [σημείο όπου βρίσκονται τα δεδομένα σας](https://products.office.com/where-is-your-data-located).
