@@ -2,7 +2,6 @@
 title: Οδηγίες αναβάθμισης ομάδων
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533879"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305121"
 ---
-# <a name="upgrade-to-teams"></a>Αναβάθμιση σε ομάδες
+# <a name="microsoft-teams-upgrade"></a>Αναβάθμιση ομάδων της Microsoft
 
-Μπορείτε να βρείτε έναν οδηγό βήμα προς βήμα για τη μετακίνηση από το Skype για επαγγελματικές ομάδες της Microsoft [εδώ](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Είτε μόλις ξεκινήσατε με τις ομάδες, είτε χρησιμοποιείτε ήδη ομάδες μαζί με το Skype για επιχειρήσεις είτε είστε έτοιμοι για αναβάθμιση, θέλουμε να εξασφαλίσουμε ότι έχετε όλα όσα χρειάζεστε για να περιηγηθείτε σε ένα επιτυχημένο ταξίδι στις ομάδες. Για περισσότερες πληροφορίες επισκεφτείτε τους παρακάτω συνδέσμους.
+
+[Γρήγορα αποτελέσματα με την αναβάθμιση των ομάδων Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Προγραμματίστε την αναβάθμισή σας](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Κατανόηση των ομάδων της Microsoft και του Skype για επιχειρηματική συνύπαρξη](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Εκτέλεση της αναβάθμισης από το Skype για ηλεκτρονική επαγγελματική σε ομάδες](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Εκτέλεση της αναβάθμισης από το Skype για επαγγελματική εσωτερικής εγκατάστασης σε ομάδες](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
