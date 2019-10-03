@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350853"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373111"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Ομάδες κοινά ζητήματα και ψηφίσματα
+# <a name="teams-common-issues-and-resolutions"></a>Ομάδες κοινά ζητήματα και ψηφίσματα
 
 Για μια πιο συγκεκριμένη απάντηση σχετικά με ένα ζήτημα ομάδων της Microsoft, Αναδιατυπώστε εν συντομία την ερώτησή σας και συμπεριλάβετε τα σφάλματα που βλέπετε ή τις δυνατότητες που χρησιμοποιείτε.
 
@@ -32,7 +32,7 @@ ms.locfileid: "37350853"
     - Για να ανακτήσετε ένα διαγραμμένο κανάλι, ανατρέξτε [στην αρχειοθήκη ή επαναφέρετε μια ομάδα](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
 - **Επαναφορά διαγραμμένων αρχείων:** Δείτε [την ανάκτηση διαγραμμένων αρχείων σε ομάδες](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
 - **Αντιμετώπιση προβλημάτων ενός πληκτρολογίου κλήσης που λείπει:**  
-    1. Βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί μια [άδεια ομάδας](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    2. Βεβαιωθείτε ότι ο χρήστης έχει αντιστοιχίσει ένα [σχέδιο κλήσης](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    3. Ενεργοποίηση των χρηστών για [εταιρική φωνή](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί μια [άδεια ομάδας](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Βεβαιωθείτε ότι ο χρήστης έχει αντιστοιχίσει ένα [σχέδιο κλήσης](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
+    - Ενεργοποίηση των χρηστών για [εταιρική φωνή](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Γνωστά θέματα με τις ομάδες:** Ανάγνωση [γνωστών ζητημάτων για τις ομάδες της Microsoft](https://docs.microsoft.com/microsoftteams/known-issues).
