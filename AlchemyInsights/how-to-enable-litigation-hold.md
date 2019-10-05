@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-litigation-Hold
+title: 976-τρόπος ενεργοποίησης-διατήρηση διαφορών
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540757"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398627"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Τοποθετήστε ένα γραμματοκιβώτιο σε αναμονή νομική
+# <a name="place-a-mailbox-on-legal-hold"></a>Τοποθετήστε ένα γραμματοκιβώτιο σε νόμιμη αναμονή
 
-- Για να τοποθετήσετε ένα γραμματοκιβώτιο σε δίκες κρατήστε ή επιτόπιας κρατήστε, απαιτείται μια άδεια χρήσης Exchange Online Σχεδιασμός 2 [άδεια Exchange Online Σχεδιασμός 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Αν ένα γραμματοκιβώτιο εκχωρείται μια άδεια χρήσης Σχεδιασμός 1, μπορείτε να αντιστοιχίσετε ένα ξεχωριστό Exchange Online αρχειοθέτηση πρόσθετη άδεια χρήσης [Exchange Online αρχειοθέτηση πρόσθετη άδεια χρήσης](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Για να τοποθετήσετε ένα γραμματοκιβώτιο σε αναμονή δίκη ή στη θέση του, ένα Exchange Online σχέδιο 2 άδεια χρήσης [online σχέδιο 2 άδεια](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) είναι απαραίτητη. Εάν ένα γραμματοκιβώτιο έχει εκχωρηθεί μια άδεια χρήσης του σχεδίου 1, μπορείτε να αντιστοιχίσετε μια ξεχωριστή ηλεκτρονική αρχειοθέτηση του Exchange Online αρχειοθέτησης άδειας χρήσης [προσθέτου ηλεκτρονική αρχειοθέτηση](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Για να ενεργοποιήσετε τη δίκη κρατήστε πατημένο για ένα χρήστη, [ακολουθήστε τα εξής βήματα](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Όταν είναι ενεργοποιημένη η δίκη κρατήστε, διατηρούνται όλα τα περιεχόμενα του γραμματοκιβωτίου.
+- Για να ενεργοποιήσετε τη διατήρηση διαφοράς για ένα μεμονωμένο χρήστη, [ακολουθήστε τα εξής βήματα](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Όταν είναι ενεργοποιημένη η διατήρηση διαφορών, όλο το περιεχόμενο στο γραμματοκιβώτιο διατηρείται.
 
-- Για να τοποθετήσετε μια διατήρηση σε όλα τα γραμματοκιβώτια στον οργανισμό σας, μπορείτε να χρησιμοποιήσετε μια πολιτική διατήρησης του Office 365, [ακολουθώντας τα εξής βήματα](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Σημειώστε ότι για πολιτικές διατήρησης όλη την εταιρεία, νέους χρήστες θα εκχωρούνται αυτόματα στην πολιτική.
+- Για να διατηρήσετε το περιεχόμενο σε όλα τα γραμματοκιβώτια του οργανισμού σας, μπορείτε να χρησιμοποιήσετε μια [πολιτική διατήρησης 365 Office σε ολόκληρη την εταιρεία](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Σημειώστε ότι για πολιτικές διατήρησης σε όλο τον οργανισμό, οι νέοι χρήστες θα αντιστοιχιστούν αυτόματα στην πολιτική.
