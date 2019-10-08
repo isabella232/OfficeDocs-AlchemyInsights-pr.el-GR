@@ -1,5 +1,5 @@
 ---
-title: Outlook.com πάνω από το όριο
+title: Outlook.com πάνω από την ποσόστωση
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,23 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: b54c7d21dc3cc8f027f7c5d9136a361657d416f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bcfbe9cc479a36c4d1ffd9d19a403e146794f024
+ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546051"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "37414083"
 ---
-# <a name="email-and-storage-quota-in-outlookcom"></a>Μηνύματα ηλεκτρονικού ταχυδρομείου και αποθήκευσης ποσόστωσης που εμφαίνεται στο Outlook.com
+# <a name="email-and-storage-quota-in-outlookcom"></a>Όριο ηλεκτρονικού ταχυδρομείου και αποθήκευσης στο Outlook.com
 
-**Αποστολή όρια**
+**Όρια αποστολής**
 
-Για να μειώσετε τα ανεπιθύμητα μηνύματα, Outlook.com έχει μια καθημερινή ηλεκτρονικού ταχυδρομείου αποστολή όριο. Για να μάθετε πώς μπορείτε να αυξήσετε το ημερήσιο όριο αποστολής, ανατρέξτε στο θέμα [Αποστολή όρια στο Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Για να μειώσετε τα ανεπιθύμητα μηνύματα, το Outlook.com έχει ένα ημερήσιο όριο αποστολής email. Για να μάθετε πώς μπορείτε να αυξήσετε το ημερήσιο όριο αποστολής, ανατρέξτε [στα όρια αποστολής στο Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Όρια αποθήκευσης**
 
-Εάν το φάκελο "Εισερχόμενα" είναι γεμάτος, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε μηνύματα και τα άτομα που σας στέλνουν ηλεκτρονική αλληλογραφία, θα λάβετε ένα μήνυμα λάθους ότι τα Εισερχόμενά σας είναι πλήρης. Μπορείτε να δείτε πόσο χώρο αποθήκευσης που είναι διαθέσιμες από <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+Αν τα Εισερχόμενά σας είναι γεμάτα, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε μηνύματα και τα άτομα που σας στέλνουν email θα λαμβάνουν ένα μήνυμα σφάλματος ότι τα Εισερχόμενά σας είναι γεμάτα. Μπορείτε να δείτε πόσος χώρος αποθήκευσης έχετε διαθέσιμο <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
  [**Ρυθμίσεις**
- > **Προβάλετε όλες τις ρυθμίσεις Outlook** > **Γενικά**> **αποθήκευσης**] (https://outlook.live.com/mail/options/general/storage), ή μπορείτε να [Μάθετε πώς μπορείτε να ελευθερώσετε χώρο στο γραμματοκιβώτιό σας](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
+ > **Προβολή όλων των ρυθμίσεων** > του Outlook**Γενική**> **Αποθήκευση**] (https://outlook.live.com/mail/options/general/storage)ή μπορείτε να [Μάθετε πώς να κάνετε χώρο στο γραμματοκιβώτιό σας](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Εάν έχετε ένα λογαριασμό υψηλής ποιότητας, μπορείτε να προβάλετε το χώρο αποθήκευσης, μεταβαίνοντας στο [ **Ρυθμίσεις** > **προβάλετε όλες τις ρυθμίσεις Outlook** > **πριμοδότηση**> δυνατότητες](https://outlook.live.com/mail/options/premium/features).
+**Αδειάστε τα διαγραμμένα στοιχεία σας** Το μήνυμα ηλεκτρονικού ταχυδρομείου στα διαγραμμένα στοιχεία μετράει προς το μέγεθος του γραμματοκιβωτίου σας. Μπορείτε να αδειάσετε το [φάκελο "Διαγραμμένα](https://go.microsoft.com/fwlink/?linkid=2029241) ", επιλέγοντας το φάκελο και επιλέγοντας " **κενός φάκελος**".
+
+**Τρόπος οριστικής διαγραφής ηλεκτρονικού ταχυδρομείου** Για να διαγράψετε οριστικά το email, επιλέξτε ή επισημάνετε το μήνυμα και πατήστε **SHIFT** και **del** στο πληκτρολόγιό σας.
+
+Αν έχετε έναν Premium λογαριασμό, μπορείτε να δείτε τον αποθηκευτικό χώρο σας πηγαίνοντας στις [ **Ρυθμίσεις** > για να προβάλετε όλες τις δυνατότητες**Premium**> **του Outlook** > ](https://outlook.live.com/mail/options/premium/features).
