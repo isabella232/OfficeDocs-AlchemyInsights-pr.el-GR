@@ -1,5 +1,5 @@
 ---
-title: Συνιστούμε να λύσεις για ζητήματα αποθήκευσης Dynamics 365
+title: Συνιστάται λύσεις για θέματα αποθήκευσης Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,20 @@ ms.custom:
 - "1429"
 - "6200006"
 ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36509866"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Συνιστούμε να λύσεις για ζητήματα αποθήκευσης Dynamics 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Συνιστούμε λύσεις για θέματα αποθήκευσης Dynamics 365
 
-* Ως διαχειριστής του καθολικού, προβάλετε αποθήκευσης κατανομή ανά περιβάλλον, οι 10 πρώτες πίνακες και άλλα
+* Ως καθολικός διαχειριστής, δείτε την ανάλυση της αποθήκευσης από το περιβάλλον, τους κορυφαίους 10 πίνακες και άλλα
 
-* [Αποθήκευση ερωτήσεις χρέωσης και συνδρομής](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Ερωτήσεις χρέωσης και συνδρομής αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Τιμολόγηση Dynamics 365 και την άδεια χρήσης του οδηγού](https://dynamics.microsoft.com/pricing/)
+* [Οδηγός τιμολόγησης και αδειοδότησης Dynamics 365](https://dynamics.microsoft.com/pricing/)
 
 * [Πώς να αγοράσετε περισσότερο χώρο αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Τον τρόπο απελευθέρωσης χώρου αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Πώς να ελευθερώσετε χώρο αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

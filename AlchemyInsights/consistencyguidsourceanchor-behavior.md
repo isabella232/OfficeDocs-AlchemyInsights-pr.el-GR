@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor συμπεριφορά
+title: Συμπεριφορά αγκύρωσης/προέλευσης
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516981"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor συμπεριφορά
+# <a name="consistencyguid--sourceanchor-behavior"></a>Συμπεριφορά αγκύρωσης/προέλευσης
 
-Σύνδεση AD Azure (έκδοση 1.1.524.0 και μετά) τώρα διευκολύνει τη χρήση msDS-ConsistencyGuid ως χαρακτηριστικό sourceAnchor. Όταν χρησιμοποιείτε αυτήν τη δυνατότητα, σύνδεση AD Azure ρυθμίζει αυτόματα τις παραμέτρους των κανόνων συγχρονισμού για να:
+Σύνδεση AD Azure (έκδοση 1.1.524.0 και μετά) τώρα διευκολύνει τη χρήση των ΜΣΠ-συνεπή Encyguid ως χαρακτηριστικό sourceAnchor. Όταν χρησιμοποιείτε αυτήν τη δυνατότητα, σύνδεση AD Azure ρυθμίζει αυτόματα τους κανόνες συγχρονισμού για να:
   
-- Χρησιμοποιήστε msDS-ConsistencyGuid με το χαρακτηριστικό sourceAnchor για αντικείμενα χρήστη. ObjectGUID χρησιμοποιείται για άλλους τύπους αντικειμένου.
+- Χρησιμοποιήστε τη χρήση ΜΣΠ-Ενκύμ_guid ως το χαρακτηριστικό Sourceαγκυρα για αντικείμενα χρήστη. Η Object GUID χρησιμοποιείται για άλλους τύπους αντικειμένων.
     
-- Για οποιαδήποτε λόγω εσωτερικής εγκατάστασης χρήστη AD αντικείμενο του οποίου το χαρακτηριστικό msDS-ConsistencyGuid δεν είναι συμπληρωμένη, Azure AD σύνδεση εγγράφει την τιμή objectGUID πίσω στο χαρακτηριστικό msDS-ConsistencyGuid εσωτερικής εγκατάστασης υπηρεσίας καταλόγου Active Directory. Αφού συμπληρωθεί το χαρακτηριστικό msDS-ConsistencyGuid, σύνδεση AD Azure εξάγει, στη συνέχεια, το αντικείμενο Azure AD.
+- Για οποιαδήποτε δεδομένη εσωτερικής εγκατάστασης αντικείμενο AD χρήστη του οποίου το χαρακτηριστικό ΜΣΠ-συνέπειας Encyguid δεν συμπληρώνεται, σύνδεση AD Azure εγγράφει την τιμή αντικειμένου αντικειμένων του πίσω στο χαρακτηριστικό ΜΣΠ-συνεπή Encyguid σε εσωτερικής εγκατάστασης Active Directory. Αφού συμπληρωθεί το χαρακτηριστικό ΜΣΠ-συνέπειας GUID, σύνδεση AD Azure, στη συνέχεια, εξάγει το αντικείμενο σε Azure AD.
     
- **Σημείωση:** Μία φορά μια ενδοεταιρική αντικείμενο AD εισάγεται στη σύνδεση AD Azure (δηλαδή, εισάγονται στο χώρο της σύνδεσης AD και πρόβλεψη σε το Metaverse), δεν μπορείτε να αλλάξετε την τιμή της sourceAnchor πλέον. Για να καθορίσετε την τιμή sourceAnchor για μια λόγω εσωτερικής εγκατάστασης AD αντικειμένων, να ρυθμίσετε τις παραμέτρους του χαρακτηριστικού msDS-ConsistencyGuid, πριν από την εισαγωγή σε σύνδεση AD Azure. 
+ **Σημείωση:** Όταν ένα αντικείμενο AD εσωτερικής εγκατάστασης εισάγεται σε σύνδεση AD Azure (δηλαδή, εισάγεται στο χώρο σύνδεσης AD και προπροβάλλεται σε το Mevce), δεν μπορείτε να αλλάξετε την τιμή του sourceAnchor πλέον. Για να καθορίσετε την τιμή Υποαγκύρωσης για ένα δεδομένο αντικείμενο AD εσωτερικής εγκατάστασης, ρυθμίστε το χαρακτηριστικό του ΜΣΠ-συνέπειας Encyto GUID πριν να εισαχθεί σε σύνδεση AD Azure. 
   
-Για περισσότερες πληροφορίες σχετικά με SourceAnchor και ConsistencyGuid, ανατρέξτε στα παρακάτω: [σύνδεση AD Azure: Σχεδίαση έννοιες](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Για περισσότερες πληροφορίες σχετικά με την Αγκυρα αγκύρωσης και τη συνεπή Encyguid, ανατρέξτε στα ακόλουθα: [Azure AD Connect: έννοιες σχεδίασης](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

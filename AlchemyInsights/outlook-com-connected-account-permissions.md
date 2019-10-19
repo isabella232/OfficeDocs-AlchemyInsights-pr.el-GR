@@ -1,5 +1,5 @@
 ---
-title: 8000093 δικαιώματα λογαριασμού Outlook.com συνδεδεμένος
+title: 8000093 Outlook.com δικαιώματα συνδεδεμένου λογαριασμού
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546880"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Πώς να διορθώσετε "Φαίνεται ότι δεν έχουμε το δικαίωμα"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Πώς να διορθώσετε "φαίνεται ότι δεν έχουμε άδεια"
 
-Εάν εμφανιστεί το μήνυμα λάθους "φαίνεται ότι δεν έχουμε το δικαίωμα λήψης μηνυμάτων ηλεκτρονικού ταχυδρομείου για..." Κάντε τα εξής:
+Εάν εμφανιστεί το μήνυμα λάθους "φαίνεται ότι δεν έχουμε δικαίωμα να πάρουμε email για..." Κάντε τα εξής:
 
-1. Ανοίξτε τις [Ρυθμίσεις λογαριασμού συνδεδεμένοι](https://outlook.live.com/mail/options/mail/accounts) και να καταργήσετε ή να διαγράψετε το συνδεδεμένο λογαριασμό που παρατίθενται στο σφάλμα.
-2. Προσθέστε ξανά το συνδεδεμένο λογαριασμό.
-3. Μετάβαση [προς τα πίσω στο γραμματοκιβώτιό σας](https://outlook.live.com/mail/inbox).
+1. Ανοίξτε τις [ρυθμίσεις του συνδεδεμένου λογαριασμού](https://outlook.live.com/mail/options/mail/accounts) σας και αφαιρέστε ή διαγράψτε τον συνδεδεμένο λογαριασμό που παρατίθεται στο σφάλμα.
+2. Προσθέστε ξανά τον συνδεδεμένο λογαριασμό.
+3. Πήγαινε [πίσω στο γραμματοκιβώτιό σου](https://outlook.live.com/mail/inbox).
 
-Αυτό μπορεί να διαρκέσει αρκετή ώρα για όλα μηνύματα ηλεκτρονικού ταχυδρομείου, για να επαναλάβετε το συγχρονισμό από το συνδεδεμένο λογαριασμό.
+Μπορεί να χρειαστεί λίγος χρόνος για την επανάληψη του συγχρονισμού όλων των μηνυμάτων ηλεκτρονικού ταχυδρομείου από τον συνδεδεμένο λογαριασμό σας.
 
-Μάθετε περισσότερα σχετικά με την [Κατάργηση](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) και την [Προσθήκη](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) τους συνδεδεμένους λογαριασμούς.
+Μάθετε περισσότερα σχετικά με την [Κατάργηση](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) και την [Προσθήκη](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) συνδεδεμένων λογαριασμών.

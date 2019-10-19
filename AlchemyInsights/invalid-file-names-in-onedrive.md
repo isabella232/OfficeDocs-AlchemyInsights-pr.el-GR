@@ -1,5 +1,5 @@
 ---
-title: Μη έγκυρων ονομάτων αρχείων στο OneDrive
+title: Μη έγκυρα ονόματα αρχείων στο OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498199"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Μη έγκυρη ονόματα αρχείων και φακέλων στο OneDrive και του SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Μη έγκυρα ονόματα αρχείων και φακέλων στο OneDrive και το SharePoint
 
-Αυτοί οι χαρακτήρες δεν επιτρέπονται στα ονόματα αρχείων και φακέλων " \* : \< \> ; / \ | 
+Αυτοί οι χαρακτήρες δεν επιτρέπονται στα ονόματα αρχείων και φακέλων \* " \< \> :? / \ | 
   
-Ορισμένοι οργανισμοί δεν έχει ακόμα υποστήριξη για # και % ενεργοποιημένη. Για να μάθετε πώς μπορείτε να επιτρέψετε αυτούς τους χαρακτήρες στον οργανισμό σας, ανατρέξτε στο θέμα [Ενεργοποίηση # και % υποστήριξης](https://go.microsoft.com/fwlink/?linkid=862611). 
+Ορισμένες εταιρείες δεν έχουν ακόμη υποστήριξη για # και% ενεργοποιημένες. Για να μάθετε πώς μπορείτε να επιτρέψετε αυτούς τους χαρακτήρες στον οργανισμό σας, ανατρέξτε στο εξής [Ενεργοποίηση # και% υποστήριξης](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Περισσότερες πληροφορίες σχετικά με τους περιορισμούς όνομα αρχείων και φακέλων](https://go.microsoft.com/fwlink/?linkid=866430)
+[Περισσότερες πληροφορίες σχετικά με τους περιορισμούς ονομάτων αρχείων και φακέλων](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

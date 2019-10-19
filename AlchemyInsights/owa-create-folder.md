@@ -1,5 +1,5 @@
 ---
-title: Δημιουργήστε ένα φάκελο στο Outlook στο web
+title: Δημιουργία φακέλου στο Outlook στο Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557249"
 ---
-# <a name="create-a-folder"></a>Δημιουργήστε ένα φάκελο
+# <a name="create-a-folder"></a>Δημιουργία φακέλου
 
-1. Στο κάτω μέρος του παραθύρου φακέλων του Outlook στο web, επιλέξτε **νέο φάκελο**. Ίσως χρειαστεί να μετακινηθείτε προς τα κάτω στο παράθυρο φακέλων για να δείτε το κουμπί " **Νέος φάκελος** ".
-1. Στο πλαίσιο κειμένου, πληκτρολογήστε ένα όνομα για το φάκελο και, στη συνέχεια, πιέστε το πλήκτρο Enter.
+1. Στο κάτω μέρος του παραθύρου φακέλων στο Outlook στο Web, επιλέξτε **νέο φάκελο**. Ίσως χρειαστεί να μετακινηθείτε προς τα κάτω στο παράθυρο φακέλων για να δείτε το κουμπί **νέου φακέλου** .
+1. Στο πλαίσιο κειμένου, πληκτρολογήστε ένα όνομα για το φάκελο και, στη συνέχεια, πιέστε το πλήκτρο ENTER.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [εργασία με φακέλους μηνυμάτων του Outlook στο web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Για να μάθετε περισσότερα, ανατρέξτε στην [εργασία με φακέλους μηνυμάτων στο Outlook στο Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

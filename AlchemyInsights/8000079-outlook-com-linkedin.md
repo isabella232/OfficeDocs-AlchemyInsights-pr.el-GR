@@ -1,5 +1,5 @@
 ---
-title: Outlook.com LinkedIn
+title: Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494347"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Ζητήματα που αφορούν την ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου που ισχυρίζεται ότι είναι από LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Ζητήματα με ανεπιθύμητη αλληλογραφία ηλεκτρονικού ταχυδρομείου που ισχυρίζονται ότι είναι από το
 
-Αν λαμβάνετε ανεπιθύμητης αλληλογραφίας που ισχυρίζεται ότι είναι από LinkedIn, μπορείτε να δημιουργήσετε έναν κανόνα για να φιλτράρετε τα μηνύματα ηλεκτρονικού ταχυδρομείου.
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Χρήση κανόνες για τα Εισερχόμενα στο Outlook.com](https://aka.ms/OutlookComInboxRules) .
+Αν λαμβάνετε ανεπιθύμητη αλληλογραφία που ισχυρίζεται ότι προέρχεται από το Λινκ, μπορείτε να δημιουργήσετε έναν κανόνα για να φιλτράρετε αυτά τα μηνύματα ηλεκτρονικού ταχυδρομείου.
+Ανατρέξτε [στο στοιχείο χρήση κανόνων εισερχομένων στο Outlook.com](https://aka.ms/OutlookComInboxRules) για περισσότερες πληροφορίες.
 
 

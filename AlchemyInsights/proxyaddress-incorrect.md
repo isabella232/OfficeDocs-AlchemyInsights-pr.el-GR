@@ -1,5 +1,5 @@
 ---
-title: Εσφαλμένες ProxyAddress
+title: Εσφαλμένη διεύθυνση
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
 ms.openlocfilehash: 1f908b6fca813ff6cbc4d05d08ee2eb9c49f3515
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554224"
 ---
-# <a name="proxyaddress-incorrect"></a>Εσφαλμένες ProxyAddress
+# <a name="proxyaddress-incorrect"></a>Εσφαλμένη διεύθυνση
 
-Όταν ένα αντικείμενο είναι συγχρονισμένη με Azure AD, τις τιμές που έχουν καθοριστεί στο χαρακτηριστικό proxyAddresses στο Active Directory συγκρίνονται με κανόνες Azure AD και, στη συνέχεια, συμπληρώνεται το χαρακτηριστικό proxyAddresses στο Azure AD. Επομένως, οι τιμές του χαρακτηριστικού proxyAddresses για το αντικείμενο υπηρεσίας καταλόγου Active Directory ενδέχεται να μην τις ίδιες με τις τιμές του χαρακτηριστικού proxyAddresses σε Azure AD.
+Όταν ένα αντικείμενο συγχρονίζεται με Azure AD, οι τιμές που καθορίζονται στο χαρακτηριστικό proxyAddresses στην υπηρεσία καταλόγου Active Directory συγκρίνονται με κανόνες AD Azure και, στη συνέχεια, το χαρακτηριστικό proxyAddresses συμπληρώνεται στο Azure AD. Επομένως, οι τιμές του χαρακτηριστικού proxyAddresses για το αντικείμενο στην υπηρεσία καταλόγου Active Directory ενδέχεται να μην είναι το ίδιο με τις τιμές του χαρακτηριστικού proxyAddresses στο Azure AD.
   
-Για να μάθετε περισσότερα σχετικά με το πώς συμπληρώνεται το proxyaddress, ανατρέξτε στο θέμα [Πώς συμπληρώνεται το χαρακτηριστικό proxyAddress στο Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Για να μάθετε περισσότερα σχετικά με τον τρόπο που συμπληρώνεται η proxyAddress, ανατρέξτε στο θέμα [Πώς συμπληρώνεται το χαρακτηριστικό proxyAddress στο Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 
