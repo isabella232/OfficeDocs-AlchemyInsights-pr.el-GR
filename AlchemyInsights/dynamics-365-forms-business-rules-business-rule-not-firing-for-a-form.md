@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 αποτελεί επιχειρησιακών κανόνων - επιχειρησιακός κανόνας δεν γίνεται πυροδότηση για μια φόρμα
+title: Dynamics 365 φόρμες επιχειρηματικές κανόνες-κανόνας επιχείρησης δεν πυροδότηση για μια φόρμα
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.custom:
 - "1467"
 - "6200018"
 ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528913"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="4b151-102">Κανόνας της επιχείρησης δεν γίνεται πυροδότηση για μια φόρμα</span><span class="sxs-lookup"><span data-stu-id="4b151-102">Business rule not firing for a form</span></span>
+# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="c9244-102">Ο κανόνας της επιχείρησης δεν πυροβολεί για μια φόρμα</span><span class="sxs-lookup"><span data-stu-id="c9244-102">Business rule not firing for a form</span></span>
 
-* [<span data-ttu-id="4b151-103">Κανόνας της επιχείρησης δεν ενεργοποιείται σε μια φόρμα;</span><span class="sxs-lookup"><span data-stu-id="4b151-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+* [<span data-ttu-id="c9244-103">Είναι ο κανόνας της επιχείρησής σας δεν πυροβολούν για μια φόρμα;</span><span class="sxs-lookup"><span data-stu-id="c9244-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
