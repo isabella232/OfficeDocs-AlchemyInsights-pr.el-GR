@@ -1,5 +1,5 @@
 ---
-title: Σύγχρονη τοποθεσία ως τη ριζική τοποθεσία
+title: Σύγχρονη τοποθεσία ως η ριζική τοποθεσία
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503491"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576678"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernize τοποθεσία SharePoint κλασικό
+# <a name="modernize-your-classic-sharepoint-site"></a>Εκσυγχρονισμός της κλασικής τοποθεσίας SharePoint
 
-Δείτε την παρακάτω για λεπτομέρειες σχετικά με τη χρήση της νέας εμπειρίας σύγχρονα:
+Για να κάνετε τη μετάβαση σε ένα σύγχρονο περιβάλλον εργασίας χρήστη, πρέπει να εστιάσετε στα εξής:
 
-- Για μια βήμα προς βήμα Επισκόπηση του εκσυγχρονισμού των τις κλασικές τοποθεσίες SharePoint στην εμπειρία των σύγχρονων, ανατρέξτε στην ενότητα [Modernize τις κλασικές τοποθεσίες του SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Μετάβαση των **λιστών και των βιβλιοθηκών** σας για χρήση του σύγχρονου περιβάλλοντος εργασίας χρήστη (αναφέρεται επίσης ως η σύγχρονη εμπειρία λίστας και βιβλιοθήκης).
+- Μετασχηματισμός των **σελίδων της τοποθεσίας** σας από κλασικές σελίδες του wiki και του Τμήματος Web σε σύγχρονες σελίδες υπολογιστή-πελάτη.
+- Δημιουργία **σύγχρονων τοποθεσιών** (τοποθεσία ομάδας ή ιστότοπος επικοινωνίας).
 
-- Για να μεγιστοποιήσετε τη χρήση του περιβάλλοντος εργασίας χρήστη σύγχρονα σας σελίδες της τοποθεσίας και η λίστα και η βιβλιοθήκη σελίδων, ανατρέξτε στην ενότητα [Modernize του περιβάλλοντος εργασίας χρήστη](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Εκσυγχρονισμός της εμπειρίας σας:
+- [Ενεργοποίηση λιστών και βιβλιοθηκών που θα εμφανίζονται στο σύγχρονο περιβάλλον εργασίας χρήστη](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) αντικαθιστώντας τις προσαρμογές, καταργώντας τις μη συμβατές στήλες από τις χρησιμοποιούμενες προβολές ή (ως έσχατη λύση) μετακινώντας δεδομένα σε έναν σύγχρονο τύπο λίστας συμβατό με το περιβάλλον εργασίας χρήστη.
+- [Σύνδεση της τοποθεσίας σας σε μια ομάδα του Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), η οποία παρέχει στην τοποθεσία σας μια σύγχρονη κεντρική σελίδα και επιτρέπει στην τοποθεσία σας να χρησιμοποιεί, για παράδειγμα, ένα γραμματοκιβώτιο ή προγραμματιστή της Microsoft. Αυτό σας επιτρέπει να χρησιμοποιήσετε μια σύγχρονη έκδοση ενός ημερολογίου και μια λίστα εργασιών.
+- Η [δημιουργία σύγχρονων σελίδων](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), είναι ένας πολύ καλός τρόπος για να μοιράζεστε ιδέες χρησιμοποιώντας εικόνες, έγγραφα του Excel, του Word και του PowerPoint, βίντεο και πολλά άλλα.
+- [Δημιουργώντας σύγχρονες σελίδες υπολογιστή-πελάτη](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) και ρυθμίζοντας αυτές τις παραμέτρους για να είναι "παρόμοιες" με το βασικό κλασικό wiki και τις σελίδες τμημάτων Web. Ο μετασχηματισμός της σελίδας προγραμματισμού θα πρέπει να γίνεται για τις βασικές σελίδες των τοποθεσιών σας, καθώς ο μετασχηματισμός όλων των σελίδων είναι έντασης πόρων και συχνά δεν απαιτείται. Για να βοηθήσετε σε αυτήν τη διαλογή, ο σαρωτής εκσυγχρονισμού του SharePoint μπορεί να σας δώσει πληροφορίες χρήσης σχετικά με το τρέχον wiki και τις σελίδες τμημάτων Web.
+- [Δημιουργώντας σύγχρονες τοποθεσίες](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Πρέπει να δημιουργήσω μια τοποθεσία ομάδας ή μια τοποθεσία επικοινωνίας;
 
-- Για να μάθετε περισσότερα σχετικά με το πώς μπορείτε να καταργήσετε τον αποκλεισμό των λιστών και βιβλιοθηκών, όταν χρησιμοποιείτε το περιβάλλον εργασίας χρήστη σύγχρονα, δείτε [Μεγιστοποίηση χρήση σύγχρονων λιστών και βιβλιοθηκών](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Πρόσθετες πληροφορίες: 
+- Για μια βήμα προς βήμα επισκόπηση του εκσυγχρονισμού των κλασικών τοποθεσιών SharePoint με τη σύγχρονη εμπειρία, ανατρέξτε στην ενότητα [εκσυγχρονισμός των κλασικών τοποθεσιών SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Δείτε έναν οδηγό για τη [σύγχρονη εμπειρία](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Ανατρέξτε στην [τοποθεσία του SharePoint Classic και σύγχρονες εμπειρίες](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Για περισσότερες πληροφορίες σχετικά με τη σύνδεση σε μια ομάδα του Office 365 και εκτελώντας μια σύνδεση ομάδας, ανατρέξτε στο θέμα [σύνδεση σε μια ομάδα του Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753760"
 ---
 # <a name="more-info-about-retention-policies"></a>Περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης
@@ -26,13 +26,13 @@ ms.locfileid: "36753760"
 
 ## <a name="a-from-security-and-compliance-center"></a>Α) από το κέντρο ασφάλειας και συμμόρφωσης
 
-- Μετάβαση στην ασφάλεια και συμμόρφωση _Pr_ διαχείριση δεδομένων _Pv_ διατήρηση
+- Μετάβαση στην ασφάλεια και συμμόρφωση > διαχείριση δεδομένων > διατήρηση
   - Δείτε [αυτό το](https://docs.microsoft.com/office365/securitycompliance/retention-policies) άρθρο
 
-- Μεταβείτε στην ασφάλεια και συμμόρφωση _Pi_ eDiscovery> σύνθετη ανακάλυψη 
+- Μεταβείτε στην ασφάλεια και συμμόρφωση > ανακάλυψης> σύνθετη ανακάλυψη 
   - Δείτε [αυτό το](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) άρθρο
 
-- Μετάβαση στην ασφάλεια και συμμόρφωση _Pi_ ταξινομήσεις _Pi_ διατήρηση
+- Μετάβαση στην ασφάλεια και συμμόρφωση > ταξινομήσεις > διατήρηση
   - Δείτε αυτά τα άρθρα
     - [Ετικέτες ευαισθησίας](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Επισκόπηση ετικετών](https://docs.microsoft.com/office365/securitycompliance/labels)
