@@ -1,5 +1,5 @@
 ---
-title: Εμφανίζεται ένα μαύρο φόντο ή μορφοποίηση των κελιών δεν εμφανίζεται σωστά
+title: Εμφανίζεται ένα μαύρο φόντο ή η μορφοποίηση κελιού δεν φαίνεται σωστά
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495967"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="0dc1e-102">Εμφανίζεται ένα μαύρο φόντο ή μορφοποίηση των κελιών δεν εμφανίζεται σωστά</span><span class="sxs-lookup"><span data-stu-id="0dc1e-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="de8a9-102">Εμφανίζεται ένα μαύρο φόντο ή η μορφοποίηση κελιού δεν φαίνεται σωστά</span><span class="sxs-lookup"><span data-stu-id="de8a9-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="0dc1e-103">Στο Excel 2016, ενδέχεται να εμφανιστεί ένα μη αναμενόμενο μαύρο φόντο ή ενδέχεται να δείτε που μορφοποίηση των κελιών δεν εμφανίζεται σωστά.</span><span class="sxs-lookup"><span data-stu-id="0dc1e-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="0dc1e-104">Αυτό μπορεί να συμβεί, αφού προσθέσετε μια κεφαλίδα ή υποσέλιδο σε προβολή διάταξης σελίδας, και εφαρμόσετε γέμισμα μοτίβου σε ένα κελί.</span><span class="sxs-lookup"><span data-stu-id="0dc1e-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="0dc1e-105">Το ζήτημα αυτό διορθώθηκε στην έκδοση 1708 (Build 8431.2094).</span><span class="sxs-lookup"><span data-stu-id="0dc1e-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="0dc1e-106">Για να διορθώσετε αυτό το πρόβλημα, ενημερώστε στην πιο πρόσφατη έκδοση του Office.</span><span class="sxs-lookup"><span data-stu-id="0dc1e-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="0dc1e-107">Επιλέξτε **το αρχείο** \> **λογαριασμού** \> **ενημερώσετε τις επιλογές** \> **Ενημέρωση τώρα**.</span><span class="sxs-lookup"><span data-stu-id="0dc1e-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="de8a9-103">Στο Excel 2016, ενδέχεται να δείτε ένα μη αναμενόμενο μαύρο φόντο ή μπορεί να δείτε μορφοποίηση κελιών που δεν εμφανίζεται σωστά.</span><span class="sxs-lookup"><span data-stu-id="de8a9-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="de8a9-104">Αυτό μπορεί να συμβεί μετά την προσθήκη μιας κεφαλίδας ή ενός υποσέλιδου στην προβολή διάταξης σελίδας και την εφαρμογή ενός μοτίβου γεμίσματος σε ένα κελί.</span><span class="sxs-lookup"><span data-stu-id="de8a9-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="de8a9-105">Αυτό το ζήτημα διορθώθηκε στην έκδοση 1708 (build 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="de8a9-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="de8a9-106">Για να διορθώσετε αυτό το πρόγραμμα, ενημερώστε την πιο πρόσφατη έκδοση του Office.</span><span class="sxs-lookup"><span data-stu-id="de8a9-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="de8a9-107">Επιλέξτε \*\*\*\* \> την ενημέρωση των **επιλογών** \> ενημέρωσης **λογαριασμού** \> αρχείου **τώρα**.</span><span class="sxs-lookup"><span data-stu-id="de8a9-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

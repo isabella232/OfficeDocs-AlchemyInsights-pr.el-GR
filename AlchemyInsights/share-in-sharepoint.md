@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549471"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="34044-102">Τρόπος κοινής χρήσης στο SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="34044-102">How to share in SharePoint Online</span></span>
+# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="01fe4-102">Τρόπος κοινής χρήσης στο SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="01fe4-102">How to share in SharePoint Online</span></span>
 
-<span data-ttu-id="34044-103">Για να κάνετε κοινή χρήση μιας τοποθεσίας:</span><span class="sxs-lookup"><span data-stu-id="34044-103">To share a site:</span></span>
+<span data-ttu-id="01fe4-103">Για να μοιραστείτε μια τοποθεσία:</span><span class="sxs-lookup"><span data-stu-id="01fe4-103">To share a site:</span></span>
   
-1. <span data-ttu-id="34044-104">Ανοίξτε την τοποθεσία σε ένα πρόγραμμα περιήγησης web.</span><span class="sxs-lookup"><span data-stu-id="34044-104">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="01fe4-104">Ανοίξτε την τοποθεσία σε ένα πρόγραμμα περιήγησης Web.</span><span class="sxs-lookup"><span data-stu-id="01fe4-104">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="34044-105">Εάν η τοποθεσία που ανήκει σε μια ομάδα του Office 365, κάντε κλικ στο εικονίδιο ρυθμίσεων στην επάνω δεξιά γωνία και, στη συνέχεια, κάντε κλικ στο κουμπί **δικαιώματα τοποθεσίας**.</span><span class="sxs-lookup"><span data-stu-id="34044-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="34044-106">Κάντε κλικ στο κουμπί **Πρόσκληση ατόμων**και στη συνέχεια επιλέξετε να προσθέσετε μέλη στην ομάδα του Office 365 ή να κάνετε κοινή χρήση μόνο στην τοποθεσία.</span><span class="sxs-lookup"><span data-stu-id="34044-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="01fe4-105">Εάν η τοποθεσία ανήκει σε μια ομάδα του Office 365, κάντε κλικ στο εικονίδιο Ρυθμίσεις στην επάνω δεξιά και, στη συνέχεια, κάντε κλικ στο κουμπί **δικαιώματα τοποθεσίας**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="01fe4-106">Κάντε κλικ στην επιλογή **Πρόσκληση ατόμων**και, στη συνέχεια, επιλέξτε να προσθέσετε μέλη στην ομάδα Office 365 ή να μοιραστείτε μόνο την τοποθεσία.</span><span class="sxs-lookup"><span data-stu-id="01fe4-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="34044-107">Μια τοποθεσία επικοινωνίας, κάντε κλικ στην **τοποθεσία κοινής χρήσης** στην επάνω δεξιά γωνία, πληκτρολογήστε το όνομα του ατόμου και, στη συνέχεια, επιλέξτε το επίπεδο δικαιωμάτων (ανάγνωση, επεξεργασία ή πλήρη έλεγχο).</span><span class="sxs-lookup"><span data-stu-id="34044-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="01fe4-107">Για μια τοποθεσία επικοινωνίας, κάντε κλικ στην επιλογή **κοινή χρήση τοποθεσίας** στην επάνω δεξιά θέση, πληκτρολογήστε το όνομα του ατόμου και, στη συνέχεια, επιλέξτε το επίπεδο δικαιωμάτων (ανάγνωση, επεξεργασία ή πλήρης έλεγχος).</span><span class="sxs-lookup"><span data-stu-id="01fe4-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="34044-108">Για μια τοποθεσία ομάδας classic, επιλέξτε " **κοινή χρήση** " στην επάνω δεξιά γωνία.</span><span class="sxs-lookup"><span data-stu-id="34044-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="34044-109">Πληκτρολογήστε το όνομα του ατόμου που θέλετε να προσκαλέσετε ή πληκτρολογήστε Everyone για κοινή χρήση με όλους τους χρήστες στον οργανισμό σας.</span><span class="sxs-lookup"><span data-stu-id="34044-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="34044-110">Κάντε κλικ στην εντολή **κοινή χρήση**.</span><span class="sxs-lookup"><span data-stu-id="34044-110">Click **Share**.</span></span>
+    <span data-ttu-id="01fe4-108">Για μια κλασική τοποθεσία ομάδας, κάντε κλικ στην επιλογή **κοινή χρήση** στην επάνω δεξιά περιοχή.</span><span class="sxs-lookup"><span data-stu-id="01fe4-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="01fe4-109">Πληκτρολογήστε το όνομα του ατόμου που θέλετε να προσκαλέσετε ή πληκτρολογήστε όλοι για κοινή χρήση με όλους τους χρήστες του οργανισμού σας.</span><span class="sxs-lookup"><span data-stu-id="01fe4-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="01fe4-110">Κάντε κλικ στην επιλογή **κοινή χρήση**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-110">Click **Share**.</span></span>
     
-[<span data-ttu-id="34044-111">Μάθετε πώς μπορείτε να κάνετε κοινή χρήση ενός αρχείου ή φακέλου</span><span class="sxs-lookup"><span data-stu-id="34044-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
+[<span data-ttu-id="01fe4-111">Μάθετε πώς μπορείτε να κάνετε κοινή χρήση ενός αρχείου ή φακέλου</span><span class="sxs-lookup"><span data-stu-id="01fe4-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Αλλάξτε το όνομα του προφίλ σας στο Outlook.com
+title: Αλλαγή του ονόματος προφίλ σας στο Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546720"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="8b140-102">Αλλάξτε το όνομα του προφίλ σας στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="8b140-102">Change your profile name in Outlook.com</span></span>
+# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="2a09f-102">Αλλαγή του ονόματος προφίλ σας στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="2a09f-102">Change your profile name in Outlook.com</span></span>
 
-1. <span data-ttu-id="8b140-103">Μεταβείτε στο [πληροφοριών του λογαριασμού σας Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="8b140-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="8b140-104">Επιλέξτε **Επεξεργασία ονόματος**.</span><span class="sxs-lookup"><span data-stu-id="8b140-104">Select **Edit name**.</span></span>
-3. <span data-ttu-id="8b140-105">Πληκτρολογήστε ένα όνομα και επώνυμο και επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="8b140-105">Enter a first name and last name, and select **Save**.</span></span>
+1. <span data-ttu-id="2a09f-103">Μεταβείτε στις [πληροφορίες του λογαριασμού Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="2a09f-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="2a09f-104">Επιλέξτε **Επεξεργασία ονόματος**.</span><span class="sxs-lookup"><span data-stu-id="2a09f-104">Select **Edit name**.</span></span>
+3. <span data-ttu-id="2a09f-105">Πληκτρολογήστε ένα όνομα και ένα επώνυμο και επιλέξτε **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="2a09f-105">Enter a first name and last name, and select **Save**.</span></span>
 
-<span data-ttu-id="8b140-106">Περιμένετε 24 ώρες για να το όνομα του προφίλ σας, για να τεθεί σε ισχύ οι αλλαγές.</span><span class="sxs-lookup"><span data-stu-id="8b140-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="2a09f-106">Αφήστε έως και 24 ώρες για να τεθούν σε ισχύ οι αλλαγές στο όνομα του προφίλ σας.</span><span class="sxs-lookup"><span data-stu-id="2a09f-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>

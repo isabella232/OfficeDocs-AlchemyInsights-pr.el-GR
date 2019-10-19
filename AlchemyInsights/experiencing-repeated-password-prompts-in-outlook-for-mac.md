@@ -1,5 +1,5 @@
 ---
-title: Αντιμετωπίζετε επαναλαμβάνονται κωδικοί πρόσβασης στο Outlook για Mac;
+title: Αντιμετωπίζετε επαναλαμβανόμενα μηνύματα κωδικού πρόσβασης στο Outlook για Mac;
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526607"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="d3743-102">Αντιμετωπίζετε επαναλαμβάνονται κωδικοί πρόσβασης στο Outlook για Mac;</span><span class="sxs-lookup"><span data-stu-id="d3743-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="db2d8-102">Αντιμετωπίζετε επαναλαμβανόμενα μηνύματα κωδικού πρόσβασης στο Outlook για Mac;</span><span class="sxs-lookup"><span data-stu-id="db2d8-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
 
-<span data-ttu-id="d3743-103">Μπορούμε να σας βοηθήσουμε παρέχουν πιο εξειδικευμένες Outlook για Mac Βοήθεια απευθείας από την εφαρμογή.</span><span class="sxs-lookup"><span data-stu-id="d3743-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
+<span data-ttu-id="db2d8-103">Μπορούμε να βοηθήσουμε να παρέχει πιο εξειδικευμένο Outlook για Mac βοήθεια απευθείας από την εφαρμογή.</span><span class="sxs-lookup"><span data-stu-id="db2d8-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
   
-<span data-ttu-id="d3743-104">Μεταβείτε σε υπολογιστή Mac με το χρήστη που έχει επηρεαστεί, ανοίξτε το Outlook και κάντε κλικ στην εντολή **Βοήθεια** \> **Επικοινωνήστε με την υποστήριξη**.</span><span class="sxs-lookup"><span data-stu-id="d3743-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
+<span data-ttu-id="db2d8-104">Μεταβείτε στο Mac του χρήστη που επηρεάζεται, ανοίξτε το Outlook και κάντε κλικ στην επιλογή **Βοήθεια** \> **επικοινωνήστε με την υποστήριξη**.</span><span class="sxs-lookup"><span data-stu-id="db2d8-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
   
-<span data-ttu-id="d3743-105">Για να μάθετε περισσότερα σχετικά με τη χρήση του Outlook για υποστήριξη πελατών-app Mac, ανατρέξτε στην ενότητα αυτού του άρθρου: [νέα επαφή υποστηρίζει τη δυνατότητα στο Outlook 2016 για Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="d3743-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="db2d8-105">Για να μάθετε περισσότερα σχετικά με τη χρήση του Outlook για Mac υποστήριξη πελατών εντός εφαρμογής, ανατρέξτε σε αυτό το άρθρο: [νέα δυνατότητα υποστήριξης επαφών στο Outlook 2016 για Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="db2d8-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 

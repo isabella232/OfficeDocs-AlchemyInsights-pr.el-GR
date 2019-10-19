@@ -1,5 +1,5 @@
 ---
-title: Πού μπορείτε να εγκαταστήσετε το Office από
+title: Πού να εγκαταστήσετε το Office από
 ms.author: janellem
 author: janellem
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.custom:
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
 ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36659532"
 ---
-# <a name="install-office"></a><span data-ttu-id="983ce-102">Εγκατάσταση του Office</span><span class="sxs-lookup"><span data-stu-id="983ce-102">Install Office</span></span>
+# <a name="install-office"></a><span data-ttu-id="40bed-102">Εγκατάσταση του Office</span><span class="sxs-lookup"><span data-stu-id="40bed-102">Install Office</span></span>
 
-<span data-ttu-id="983ce-103">Για να εγκαταστήσετε το Office, οι χρήστες πρέπει να έχουν ένα [προϊόν Office 365](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) που περιλαμβάνει τις εφαρμογές επιφάνειας εργασίας και [που έχουν εκχωρηθεί άδεια χρήσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="983ce-103">To install Office, users must have an [Office 365 business product](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) that includes the desktop applications and an [assigned license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+<span data-ttu-id="40bed-103">Για να εγκαταστήσετε το Office, οι χρήστες πρέπει να έχουν ένα [εταιρικό προϊόν office 365](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) που περιλαμβάνει τις εφαρμογές επιφάνειας εργασίας και μια [άδεια χρήσης που έχει εκχωρηθεί](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="40bed-103">To install Office, users must have an [Office 365 business product](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) that includes the desktop applications and an [assigned license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
   
-<span data-ttu-id="983ce-104">Στη συνέχεια, να είναι εγκατεστημένο το Office ακολουθώντας τα παρακάτω βήματα:</span><span class="sxs-lookup"><span data-stu-id="983ce-104">Office can then be installed following the steps below:</span></span>
+<span data-ttu-id="40bed-104">Στη συνέχεια, μπορείτε να εγκαταστήσετε το Office ακολουθώντας τα παρακάτω βήματα:</span><span class="sxs-lookup"><span data-stu-id="40bed-104">Office can then be installed following the steps below:</span></span>
   
-1. <span data-ttu-id="983ce-105">Μετάβαση σε [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span><span class="sxs-lookup"><span data-stu-id="983ce-105">Go to [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span></span>
+1. <span data-ttu-id="40bed-105">Μετάβαση στο [Portal.Office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span><span class="sxs-lookup"><span data-stu-id="40bed-105">Go to [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span></span>
 
-2. <span data-ttu-id="983ce-106">Στην κεντρική σελίδα του Office, επιλέξτε τη γλώσσα που θέλετε και, στη συνέχεια, επιλέξτε **για προχωρημένους** για να επιλέξετε μεταξύ της έκδοσης 64-bit ή 32 bit.</span><span class="sxs-lookup"><span data-stu-id="983ce-106">On the Office home page, select the language you want, and then select **Advanced** to choose between the 64-bit or 32-bit version.</span></span>
+2. <span data-ttu-id="40bed-106">Στην κεντρική σελίδα του Office, επιλέξτε τη γλώσσα που θέλετε και, στη συνέχεια, επιλέξτε για **προχωρημένους** για να επιλέξετε μεταξύ της έκδοσης 64-bit ή 32-bit.</span><span class="sxs-lookup"><span data-stu-id="40bed-106">On the Office home page, select the language you want, and then select **Advanced** to choose between the 64-bit or 32-bit version.</span></span>
 
-3. <span data-ttu-id="983ce-107">Επιλέξτε την **εγκατάσταση του Office**.</span><span class="sxs-lookup"><span data-stu-id="983ce-107">Select **Install Office**.</span></span>
+3. <span data-ttu-id="40bed-107">Επιλέξτε **εγκατάσταση του Office**.</span><span class="sxs-lookup"><span data-stu-id="40bed-107">Select **Install Office**.</span></span>
 
-<span data-ttu-id="983ce-108">Για περισσότερες λεπτομέρειες, ανατρέξτε στην ενότητα [λήψη και να εγκαταστήσετε ή να επανεγκαταστήσετε το Office σε έναν Υπολογιστή ή Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="983ce-108">For more details, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="40bed-108">Για περισσότερες λεπτομέρειες, ανατρέξτε [στο στοιχείο λήψη και εγκατάσταση ή επανεγκατάσταση του Office σε υπολογιστή ή Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="40bed-108">For more details, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="983ce-109">Για συγκεκριμένες οδηγίες σχετικά με το Visio ή το έργο, ανατρέξτε στην ενότητα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ή [Εγκατάσταση ενός έργου](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span><span class="sxs-lookup"><span data-stu-id="983ce-109">For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Install Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span></span>
+<span data-ttu-id="40bed-109">Για συγκεκριμένες οδηγίες σχετικά με το Visio ή το Project, ανατρέξτε στο θέμα [εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ή [εγκατάσταση έργου](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span><span class="sxs-lookup"><span data-stu-id="40bed-109">For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Install Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span></span>
