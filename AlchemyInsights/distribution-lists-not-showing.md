@@ -1,5 +1,5 @@
 ---
-title: Οι λίστες διανομής δεν εμφανίζεται
+title: Λίστες διανομής που δεν εμφανίζονται
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530459"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Ομάδα διανομής δεν εμφανίζεται στη λίστα "ομάδες"
+# <a name="distribution-group-not-showing-in-groups-list"></a>Ομάδα διανομής δεν εμφανίζεται στη λίστα ομάδες
 
-Μπορεί να χρειαστούν έως και 60 λεπτά πριν να εμφανιστεί η λίστα διανομής στο κέντρο κέντρο διαχείρισης Exchange.
+Μπορεί να διαρκέσει έως και 60 λεπτά πριν να εμφανιστεί η νέα λίστα διανομής στο κέντρο διαχείρισης του Exchange.
   
-Εάν θέλετε να προσθέσετε μέλη ή να κάνετε άλλες αλλαγές αυτήν τη στιγμή, χρησιμοποιήστε τη δυνατότητα "ομάδες" στο [Κέντρο διαχείρισης του Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Εάν θέλετε να προσθέσετε μέλη ή να κάνετε άλλες επεξεργασίες αυτή τη στιγμή, χρησιμοποιήστε τη δυνατότητα ομάδες στο [Κέντρο διαχείρισης του Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

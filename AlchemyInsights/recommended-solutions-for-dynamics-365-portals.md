@@ -1,5 +1,5 @@
 ---
-title: Συνιστώμενες λύσεις από πύλες Dynamics 365
+title: Dynamics 365 πύλες προτεινόμενες λύσεις
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553071"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745505"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Συνιστώμενες λύσεις από πύλες Dynamics 365
+# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 πύλες προτεινόμενες λύσεις
 
-* [Πώς μπορείτε να προβάλετε λεπτομέρειες σφάλματος διακομιστή που εμφανίζεται σε μου την πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Τρόπος προβολής λεπτομερών σφαλμάτων διακομιστή που εμφανίζονται στην πύλη μου](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Πώς μπορείτε να επαναφέρετε μια πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Πώς να επαναφέρετε μια πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Τον τρόπο εκκαθάρισης της μνήμης cache του διακομιστή για μια πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Τρόπος εκκαθάρισης της μνήμης cache του διακομιστή για μια πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Πώς μπορείτε να αλλάξετε το κοινό και τον τύπο πύλης Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Τρόπος αλλαγής του κοινού και του τύπου μιας πύλης Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Πώς μπορείτε να αλλάξετε τη βασική διεύθυνση URL πύλης](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Τρόπος αλλαγής της βάσης URL μιας πύλης](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Τρόπος ρύθμισης των παραμέτρων εξωτερική υπηρεσία παροχής ταυτότητας με την πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Τρόπος ρύθμισης παραμέτρων της εξωτερικής υπηρεσίας παροχής ταυτότητας με πύλη](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Συνήθεις ερωτήσεις](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Γρήγορα αποτελέσματα με την πύλη μου Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Γρήγορα αποτελέσματα με την πύλη My Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

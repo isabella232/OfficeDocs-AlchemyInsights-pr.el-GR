@@ -1,5 +1,5 @@
 ---
-title: Ζητήματα με ΣΠΙ
+title: Θέματα με τη ΜΧΣ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545166"
 ---
-# <a name="issues-with-mfa"></a>Ζητήματα με ΣΠΙ
-Υπάρχουν μερικά πράγματα που πρέπει να ελέγξετε αν οι χρήστες δεν είναι δυνατό να συνδεθεί χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ)
+# <a name="issues-with-mfa"></a>Θέματα με τη ΜΧΣ
+Υπάρχουν μερικά πράγματα για να ελέγξετε αν οι χρήστες δεν μπορούν να συνδεθούν χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ)
 
-1. Ο χρήστης που έχει επηρεαστεί μπορεί να έχει αποκλειστεί στο Active Directory Azure στο εμπόριο. Εάν συμβαίνει αυτό, ο έλεγχος ταυτότητας επιχειρεί ότι συγκεκριμένος χρήστης δεν θα έχει αυτόματα. [Ακολουθήστε τα βήματα σε αυτό το άρθρο για να καταργήσετε τον αποκλεισμό τους.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Ο χρήστης που επηρεάζεται ενδέχεται να αποκλειστεί στην πύλη Azure Active Directory. Σε αυτήν την περίπτωση, οι απόπειρες ελέγχου ταυτότητας για τον συγκεκριμένο χρήστη θα απορρίπτονται αυτόματα. [Ακολουθήστε τα βήματα σε αυτό το άρθρο για να καταργήσετε τον αποκλεισμό τους.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Εάν η κατάργηση του αποκλεισμού του χρήστη δεν σας βοήθησε ή ο χρήστης δεν αποκλείεται να δοκιμάσετε να επαναφέρετε ΣΠΙ για το χρήστη και θα μεταβούν στη διαδικασία εγγραφή ξανά. [Ακολουθήστε τα βήματα σε αυτό το άρθρο.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Εάν ξεμπλοκάρισμα ο χρήστης δεν βοήθησε ή ο χρήστης δεν είναι αποκλεισμένη μπορείτε να προσπαθήσετε να επαναφέρετε ΣΠΙ για το χρήστη και θα περάσουν από τη διαδικασία εγγραφής και πάλι. [Ακολουθήστε τα βήματα σε αυτό το άρθρο.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Εάν αυτή είναι η πρώτη φορά που δεν ΣΠΙ ενεργοποιημένο και οι χρήστες σας είναι δυνατό να συνδεθείτε στους υπολογιστές-πελάτες δεν είναι προγράμματα περιήγησης όπως το Outlook, Skype, κλπ, ίσως ADAL (βιβλιοθήκη ελέγχου ταυτότητας Active Directory) δεν είναι ενεργοποιημένη για τη συνδρομή σας O365. Στην περίπτωση αυτή θα πρέπει να συνδεθείτε με το Exchange Online Powershell και να εκτελέσετε αυτό το cmdlet:  *σύνολο-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Εάν αυτή είναι η πρώτη φορά που ενεργοποιήσατε τη ΜΧΣ και οι χρήστες σας δεν είναι σε θέση να συνδεθείτε σε προγράμματα-πελάτες που δεν είναι προγράμματα περιήγησης, όπως το Outlook, Skype, κλπ, ίσως δεν είναι ενεργοποιημένο (βιβλιοθήκη ελέγχου ταυτότητας Active Directory) στη συνδρομή σας O365. Σε αυτήν την περίπτωση θα πρέπει να συνδεθείτε με το Exchange Online PowerShell και να εκτελέσετε αυτό το cmdlet:  *set-οργάνωση config-OAuth2ClientProfileEnabled: $True*

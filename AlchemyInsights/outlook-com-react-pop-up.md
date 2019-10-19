@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com αντιδρά αναδυόμενων
+title: 8000091 Outlook.com αντιδρά pop up
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545475"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com είναι έτοιμη για χρονικό διάστημα τόνος
+# <a name="outlookcom-is-ready-for-prime-time"></a>Το Outlook.com είναι έτοιμο για τον πρώτο χρόνο
 
-Είμαστε γνωρίζει ότι ορισμένοι πελάτες ενδέχεται να εμφανιστεί το αναδυόμενο μενού "Outlook.com είναι έτοιμη για χρονικό διάστημα τόνος" κάθε φορά τους εισόδου και εργάζεστε σε μια ενημέρωση κώδικα.
+Γνωρίζουμε ότι ορισμένοι πελάτες ενδέχεται να δουν το αναδυόμενο παράθυρο "Outlook.com είναι έτοιμο για πρώτο χρόνο" κάθε φορά που υπογράφουν και εργαζόμαστε σε μια ενημέρωση κώδικα.
 
-Συγγνώμη.
+Συγγνώμη γι ' αυτό.
 
-[Μάθετε περισσότερα σχετικά με τη νέα Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Μάθετε περισσότερα για το νέο Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,5 +1,5 @@
 ---
-title: Πώς μπορείτε να αλλάξετε τη γλώσσα στο Outlook.com
+title: Πώς να αλλάξετε τη γλώσσα στο Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541666"
 ---
-# <a name="change-your-language"></a>Αλλαγή της γλώσσας
+# <a name="change-your-language"></a>Αλλαγή της γλώσσας σας
 
-1. Για την αλλαγή της γλώσσας στο Outlook, μεταβείτε στις ρυθμίσεις [**γλώσσας και την ώρα**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ρυθμίσεις** \> **προβάλετε όλες τις ρυθμίσεις Outlook** > **Γενικά** > **γλώσσα και χρόνου**).
+1. Για να δείτε τη γλώσσα στο Outlook, μεταβείτε στις ρυθμίσεις [**γλώσσας και ώρας**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ρυθμίσεις** \> **Προβολή όλων των ρυθμίσεων** > του Outlook**Γενική** > **γλώσσα και ώρα**).
 
 2. Επιλέξτε τη γλώσσα σας.
 
 3. Επιλέξτε **Αποθήκευση**.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αλλαγή της ζώνης ώρας και τις ρυθμίσεις γλώσσας στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Για να μάθετε περισσότερα, ανατρέξτε στην [ενότητα Αλλαγή των ρυθμίσεων ζώνης ώρας και γλώσσας στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

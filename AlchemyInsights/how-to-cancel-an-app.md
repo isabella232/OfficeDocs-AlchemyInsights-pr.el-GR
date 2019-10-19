@@ -1,5 +1,5 @@
 ---
-title: Πώς μπορείτε να ακυρώσετε μια εφαρμογή
+title: Πώς να ακυρώσετε μια εφαρμογή
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542105"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Τρόπος ακύρωσης-ως-a-υπηρεσία λογισμικού εφαρμογών 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Πώς να ακυρώσετε εφαρμογές λογισμικού ως υπηρεσία 
 
-1. Στο Κέντρο διαχείρισης Microsoft 365, για να το **χρέωσης** > [προϊόντα & υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) της σελίδας και, στη συνέχεια, επιλέξτε την καρτέλα **Apps** .
+1. Στο κέντρο διαχείρισης Microsoft 365, στη σελίδα προϊόντα **χρέωσης** > [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) και, στη συνέχεια, επιλέξτε την καρτέλα **εφαρμογές** .
 
 2. Βρείτε και επιλέξτε την εφαρμογή που θέλετε να διαχειριστείτε.
 
-3. Στην περιοχή **Ρυθμίσεις & ενέργειες**, επιλέξτε να **ακυρώσετε τη συνδρομή**.
+3. Στην περιοχή **ρυθμίσεις & ενέργειες**, επιλέξτε **Ακύρωση συνδρομής**.

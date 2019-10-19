@@ -1,5 +1,5 @@
 ---
-title: Ransomware επίθεση στο SharePoint ή OneDrive
+title: Επίθεση με λυτρισμικό στο SharePoint ή OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553396"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745541"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware επίθεση στο SharePoint ή OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Επίθεση με λυτρισμικό στο SharePoint ή OneDrive
 
-1.  Εάν αναζητάτε βοήθεια σχετικά με τι πρέπει να κάνετε όταν εντοπίζεται ένα κακόβουλο αρχείο στο OneDrive ή ή ομάδες του SharePoint, ανατρέξτε στην ενότητα [Τι πρέπει να κάνετε όταν εντοπίζεται ένα κακόβουλο αρχείο](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Εάν αναζητάτε τον τρόπο για να προστατεύσετε τα δεδομένα σας από ransomware, δείτε:
-    - [Προστασία των δεδομένων σας στο SharePoint και OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Προστασία απειλή Ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  Εάν αναζητάτε βοήθεια σχετικά με το τι πρέπει να κάνετε όταν βρεθεί ένα κακόβουλο αρχείο στο OneDrive ή στο SharePoint ή στις ομάδες σας, δείτε [Τι πρέπει να κάνετε όταν βρεθεί ένα κακόβουλο αρχείο](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Αν ψάχνετε για τον τρόπο διασφάλισης των δεδομένων σας από το λυτρισμικό, δείτε:
+    - [Διαφύλαξη των δεδομένων σας στο SharePoint και OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Προστασία απειλών με το λυτρισμικό](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Είναι όλα τα αρχεία στο OneDrive ή SharePoint επηρεάζεται από Ransomware ή κακόβουλο λογισμικό ή ιούς κρυπτογράφησης; 
+3.  Είναι όλα τα αρχεία στο OneDrive ή το SharePoint που επηρεάζονται από το Λυτρισμικό ή malware ή κρυπτο ιό; 
 
-Άμεση διακοπή/παύση του συγχρονισμού OneDrive (εάν υπάρχει) ή να αποσυνδέσετε προβολή Εξερεύνησης των Windows που έχει αντιστοιχιστεί στη βιβλιοθήκη από τον υπολογιστή που επηρεάζεται (αν υπάρχει), και, στη συνέχεια, μπορείτε να επαναφέρετε ολόκληρη τη βιβλιοθήκη OneDrive ή στο SharePoint σε προηγούμενη χρονική στιγμή με χρήση της δυνατότητας επαναφοράς αρχείων. 
+Άμεση διακοπή/παύση του OneDrive συγχρονισμού (εάν υπάρχει) ή αποσύνδεση της προβολής Εξερεύνησης που έχει αντιστοιχιστεί στη βιβλιοθήκη από τον υπολογιστή που επηρεάζεται (εάν υπάρχει) και, στη συνέχεια, μπορείτε να επαναφέρετε ολόκληρη τη βιβλιοθήκη του OneDrive ή του SharePoint σε μια προηγούμενη φορά, χρησιμοποιώντας τη δυνατότητα επαναφοράς αρχείων. 
 
-Για περισσότερες πληροφορίες σχετικά με τον τρόπο επαναφοράς, ανατρέξτε στο θέμα:
+Για περισσότερες πληροφορίες σχετικά με τον τρόπο επαναφοράς, ανατρέξτε στο εξής:
 
-- [Επαναφέρετε μια βιβλιοθήκη OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Επαναφορά μιας βιβλιοθήκης εγγράφων](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [Επαναφορά βιβλιοθήκης του OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Επαναφορά βιβλιοθήκης εγγράφων](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Για περισσότερες πληροφορίες σχετικά με το προστασία απειλή για προχωρημένους (ATP), ανατρέξτε στο θέμα:
-- [ATP για SharePoint, OneDrive και των ομάδων](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Προβολές Explorer απειλή](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+Για περισσότερες πληροφορίες σχετικά με την προηγμένη προστασία από απειλές (ATP), ανατρέξτε στο θέμα:
+- [ATP για το SharePoint, OneDrive και ομάδες](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Προβολές εξερεύνησης απειλών](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Πρόσθετες πληροφορίες:
 
-- [Εντοπισμού ιών στο SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Κρυπτογράφηση δεδομένων σε ODB και SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Ransomware ανίχνευση και ανάκτηση αρχείων](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Εντοπισμοί Explorer απειλή και πραγματικού χρόνου](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Ανίχνευση ιών στο ΜΠΊΣΠΟ](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Κρυπτογράφηση δεδομένων σε ODB και ΜΠΊΣΠΟ](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Εντοπισμός και ανάκτηση αρχείων από το λυτρισμικό](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Εξερευνητής απειλών και εντοπισμοί σε πραγματικό χρόνο](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

@@ -1,5 +1,5 @@
 ---
-title: Πριμοδότηση Outlook.com
+title: Outlook.com Premium
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "1831"
 - "9000243"
 ms.openlocfilehash: ad9d095803fae20865bf0161cf4ddc36f86dbaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545799"
 ---
-# <a name="outlookcom-premium"></a>Πριμοδότηση Outlook.com
+# <a name="outlookcom-premium"></a>Outlook.com Premium
 
-**Υπάρχοντες συνδρομητές πριμοδότηση**
+**Υπάρχοντες συνδρομητές Premium**
 
-- Εάν έχετε ήδη μια συνδρομή πριμοδότηση Outlook.com, διαβάστε τις [Συνήθεις ερωτήσεις πριμοδότηση Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Αν έχετε ήδη συνδρομή Outlook.com Premium, διαβάστε τις [Συχνές ερωτήσεις για το Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Νέα συνδρομητές**
+**Νέοι συνδρομητές**
 
-- Λυπούμαστε, αλλά η πριμοδότηση Outlook.com είναι τώρα κλειστός στους νέους συνδρομητές.
-- Πολλές από τις [δυνατότητες και τα πλεονεκτήματα](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) είναι τώρα περιλαμβάνεται [συνδρομές Office 365 Home και Office 365 προσωπικά](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Λυπούμαστε, αλλά η Outlook.com Premium είναι τώρα κλειστή για τους νέους συνδρομητές.
+- Πολλά από τα [χαρακτηριστικά και τα οφέλη](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) που περιλαμβάνονται τώρα με [συνδρομές στο Office 365 Αρχική σελίδα και Office 365 προσωπικό](https://go.microsoft.com/fwlink/?linkid=2017122).
