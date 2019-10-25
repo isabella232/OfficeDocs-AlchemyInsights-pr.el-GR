@@ -1,5 +1,5 @@
 ---
-title: OneDrive αποθήκευσης
+title: Χώρος αποθήκευσης στο OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661044"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658293"
 ---
-# <a name="manage-your-onedrive-storage"></a>Διαχείριση του χώρου αποθήκευσης του OneDrive
+# <a name="manage-your-onedrive-storage"></a>Διαχείριση του χώρου αποθήκευσης στο OneDrive
 
-Για να αλλάξετε την προεπιλεγμένη αποθήκευση για νέους και υπάρχοντες χρήστες του OneDrive:
-  
-- Μεταβείτε στη [σελίδα αποθήκευσης του κέντρου διαχείρισης OneDrive](https://admin.onedrive.com/?v=StorageSettings)και, στη συνέχεια, να εισαγάγετε ένα νέο ποσό στο GB.
+Ο χώρος αποθήκευσης του OneDrive δεν υπολογίζεται προς το συνολικό όριο μισθωτών. 
 
-Αυτή η ρύθμιση χώρου αποθήκευσης εφαρμόζεται σε όλους τους χρήστες για τους οποίους δεν έχετε ορίσει όρια αποθήκευσης συγκεκριμένων. Για να αλλάξετε το χώρο αποθήκευσης για συγκεκριμένους χρήστες, πρέπει να χρησιμοποιείτε Microsoft PowerShell. Για πληροφορίες σχετικά με τον τρόπο για να το κάνετε αυτό, ανατρέξτε στο θέμα [Αλλαγή χρηστών σας OneDrive αποθηκευτικό χώρο χρησιμοποιώντας PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Για να ελέγξετε πόσο χώρο αποθήκευσης που χρησιμοποιείτε στο δικό σας OneDrive, ανατρέξτε στο θέμα [Διαχείριση του OneDrive για την αποθήκευση για επιχειρήσεις](https://go.microsoft.com/fwlink/?linkid=866429). Για πληροφορίες σχετικά με το χώρο αποθήκευσης που συνοδεύει κάθε σχέδιο, ανατρέξτε στο θέμα [OneDrive για επαγγελματική περιγραφή υπηρεσίας](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Μάθετε [Πώς ο χώρος αποθήκευσης του OneDrive εκχωρείται ανά χρήστη/σχέδιο](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Μάθετε [πόσος χώρος αποθήκευσης χρησιμοποιείτε στο OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Μάθετε [Πώς μπορείτε να πάρετε το όριο αποθήκευσης του OneDrive χρησιμοποιώντας PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Η Microsoft θα παρέχει αρχικά 1 TB ανά χρήστη, τους οποίους οι διαχειριστές μπορούν να αυξήσουν σε έως 5 TB ανά χρήστη. Μάθετε πώς μπορείτε να [ορίσετε τον προεπιλεγμένο χώρο αποθήκευσης για τους χρήστες του OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Μάθετε [Πώς μπορείτε να αλλάξετε το χώρο αποθήκευσης του OneDrive ενός συγκεκριμένου χρήστη](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Μάθετε [Πώς οι παγκόσμιοι διαχειριστές μπορούν να ορίζουν το όριο αποθήκευσης του OneDrive για όλους τους χρήστες που χρησιμοποιούν PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

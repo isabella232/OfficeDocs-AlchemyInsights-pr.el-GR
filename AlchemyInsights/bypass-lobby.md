@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637777"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654256"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Έλεγχος των ρυθμίσεων του λόμπι και του επιπέδου συμμετοχής
 
@@ -24,7 +24,7 @@ ms.locfileid: "37637777"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Αυτό το cmdlet απαιτεί αυτήν τη στιγμή τη χρήση του Skype για επαγγελματική PowerShell λειτουργική μονάδα. Για να λάβετε το πρόγραμμα εγκατάστασης για να χρησιμοποιήσετε αυτό το cmdlet, ελέγξτε τη διαχείριση πολιτικών μέσω PowerShell.
+Αυτό το cmdlet απαιτεί αυτήν τη στιγμή τη χρήση του Skype για επαγγελματική PowerShell λειτουργική μονάδα. Για να λάβετε το πρόγραμμα εγκατάστασης για να χρησιμοποιήσετε αυτό το cmdlet, ελέγξτε τη [Διαχείριση πολιτικών μέσω PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Μπορείτε να ορίσετε μια νέα πολιτική, την οποία θα πρέπει να εφαρμόσετε στους χρήστες. Εάν τροποποιήσετε την καθολική πολιτική, θα εφαρμοστεί αυτόματα στους χρήστες. Για οποιαδήποτε αλλαγή πολιτικής πρέπει να περιμένετε τουλάχιστον 4 ώρες και έως και 24 ώρες για να ισχύσουν οι πολιτικές.
 
