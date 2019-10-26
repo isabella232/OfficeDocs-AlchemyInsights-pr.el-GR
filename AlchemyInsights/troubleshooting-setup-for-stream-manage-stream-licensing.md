@@ -12,16 +12,16 @@ ms.custom:
 - "1339"
 - "2800001"
 ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36742625"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="2ffa3-102">Διαχείριση αδειών χρήσης του Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="2ffa3-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="0785d-102">Διαχείριση αδειών χρήσης του Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0785d-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="2ffa3-103">**Σημαντικό:** Πρέπει να είστε στο ρόλο διαχειριστή μισθωτών για να εκτελέσετε τις λειτουργίες που περιγράφονται σε αυτό το θέμα.</span><span class="sxs-lookup"><span data-stu-id="2ffa3-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="0785d-103">**Σημαντικό:** Πρέπει να είστε στο ρόλο διαχειριστή μισθωτών για να εκτελέσετε τις λειτουργίες που περιγράφονται σε αυτό το θέμα.</span><span class="sxs-lookup"><span data-stu-id="0785d-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="2ffa3-104">Πρέπει να είστε είτε καθολικός διαχειριστής είτε διαχειριστής διαχείρισης χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα σχετικά με τους ρόλους διαχείρισης](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="2ffa3-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span></span>
+<span data-ttu-id="0785d-104">Πρέπει να είστε είτε καθολικός διαχειριστής είτε διαχειριστής διαχείρισης χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα σχετικά με τους ρόλους διαχείρισης](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="0785d-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span></span>
 
-<span data-ttu-id="2ffa3-105">Μπορείτε να αντιστοιχίσετε [άδειες χρήσης σε λογαριασμούς χρηστών με το Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="2ffa3-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="0785d-105">Μπορείτε να αντιστοιχίσετε [άδειες χρήσης σε λογαριασμούς χρηστών με το Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="0785d-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
