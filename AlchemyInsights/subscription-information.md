@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501208"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576876"
 ---
-# <a name="subscription-information"></a><span data-ttu-id="af88b-102">Πληροφορίες συνδρομής</span><span class="sxs-lookup"><span data-stu-id="af88b-102">Subscription information</span></span>
+# <a name="subscription-information"></a><span data-ttu-id="16638-102">Πληροφορίες συνδρομής</span><span class="sxs-lookup"><span data-stu-id="16638-102">Subscription information</span></span>
 
-<span data-ttu-id="af88b-103">Για πληροφορίες σχετικά με τις συνδρομές Office 365 που διαθέτετε, στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="af88b-103">For information about the Office 365 subscriptions you own, in the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="16638-103">Για πληροφορίες σχετικά με τις συνδρομές που έχετε, μεταβείτε στη σελίδα "προϊόντα **χρέωσης** \> [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) ".</span><span class="sxs-lookup"><span data-stu-id="16638-103">For information about the subscriptions you own, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
   
-<span data-ttu-id="af88b-104">Βασικές πληροφορίες σχετικά με κάθε εγγραφή:</span><span class="sxs-lookup"><span data-stu-id="af88b-104">Key information about each subscription:</span></span>
+<span data-ttu-id="16638-104">Βασικές πληροφορίες για κάθε συνδρομή:</span><span class="sxs-lookup"><span data-stu-id="16638-104">Key information about each subscription:</span></span>
   
-- <span data-ttu-id="af88b-105">Κατάσταση για κάθε</span><span class="sxs-lookup"><span data-stu-id="af88b-105">Status of each</span></span>
+- <span data-ttu-id="16638-105">Κατάσταση κάθε</span><span class="sxs-lookup"><span data-stu-id="16638-105">Status of each</span></span>
 
-- <span data-ttu-id="af88b-106">Άδειες χρήσης που αγοράσατε</span><span class="sxs-lookup"><span data-stu-id="af88b-106">Licenses purchased</span></span>
+- <span data-ttu-id="16638-106">Άδειες χρήσης που αγοράστηκαν</span><span class="sxs-lookup"><span data-stu-id="16638-106">Licenses purchased</span></span>
 
-- <span data-ttu-id="af88b-107">Άδειες που έχουν ανατεθεί</span><span class="sxs-lookup"><span data-stu-id="af88b-107">Licenses assigned</span></span>
+- <span data-ttu-id="16638-107">Άδειες χρήσης που έχουν εκχωρηθεί</span><span class="sxs-lookup"><span data-stu-id="16638-107">Licenses assigned</span></span>
 
-- <span data-ttu-id="af88b-108">Περιοδική κατάσταση χρέωσης</span><span class="sxs-lookup"><span data-stu-id="af88b-108">Recurring billing status</span></span>
+- <span data-ttu-id="16638-108">Κατάσταση περιοδικής χρέωσης</span><span class="sxs-lookup"><span data-stu-id="16638-108">Recurring billing status</span></span>
 
-- <span data-ttu-id="af88b-109">Υπόλοιπο</span><span class="sxs-lookup"><span data-stu-id="af88b-109">Balance</span></span>
+- <span data-ttu-id="16638-109">Ισορροπία</span><span class="sxs-lookup"><span data-stu-id="16638-109">Balance</span></span>
 
-- <span data-ttu-id="af88b-110">Μέθοδος πληρωμής</span><span class="sxs-lookup"><span data-stu-id="af88b-110">Payment method</span></span>
+- <span data-ttu-id="16638-110">Μέθοδος πληρωμής</span><span class="sxs-lookup"><span data-stu-id="16638-110">Payment method</span></span>
 
-- <span data-ttu-id="af88b-111">Επόμενη ημερομηνία τιμολόγησης ή λήξης</span><span class="sxs-lookup"><span data-stu-id="af88b-111">Next billing or expiration date</span></span>
+- <span data-ttu-id="16638-111">Επόμενη χρέωση ή ημερομηνία λήξης</span><span class="sxs-lookup"><span data-stu-id="16638-111">Next billing or expiration date</span></span>
