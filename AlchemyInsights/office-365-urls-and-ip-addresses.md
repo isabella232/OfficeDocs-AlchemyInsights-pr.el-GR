@@ -1,5 +1,5 @@
 ---
-title: Διευθύνσεις IP και διευθύνσεις URL του Office 365
+title: Διευθύνσεις URL 365 του Office και διευθύνσεις IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522035"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775315"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Διευθύνσεων IP και των διευθύνσεων URL του Office 365
+# <a name="office-365-urls-and-ip-address-ranges"></a>Διευθύνσεις URL 365 του Office και περιοχές διευθύνσεων IP
 
-Office 365 απαιτεί σύνδεση στο Internet. Τα τελικά σημεία σε αυτό το άρθρο, [διευθύνσεις URL του Office 365 και περιοχές διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), πρέπει να είναι δυνατή η πρόσβαση για τους χρήστες στην access Office 365.
+Το Office 365 απαιτεί συνδεσιμότητα στο Internet μέσω συγκεκριμένων διευθύνσεων IP που ονομάζονται *απολήξεις*.
+Για μια λίστα των τελικών σημείων που πρέπει να είναι προσπελάσιμες, δείτε [διευθύνσεις URL του Office 365 και περιοχές διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Η διεύθυνση IP του Office 365 και η υπηρεσία Web URL σάς βοηθούν να αναγνωρίζετε καλύτερα και να διαφοροποιείτε την κυκλοφορία δικτύου του Office 365, διευκολύνοντας την αξιολόγησή σας, τη ρύθμιση παραμέτρων και την ενημερωμένη ημερομηνία με τις αλλαγές. Ανατρέξτε στην [υπηρεσία Web διεύθυνση IP του Office 365 και διεύθυνση URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

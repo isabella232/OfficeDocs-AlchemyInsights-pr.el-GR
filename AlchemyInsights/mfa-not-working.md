@@ -11,14 +11,14 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545166"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768837"
 ---
-# <a name="issues-with-mfa"></a>Θέματα με τη ΜΧΣ
+# <a name="issues-with-azure-mfa"></a>Ζητήματα με τη ΜΧΣ Azure
 Υπάρχουν μερικά πράγματα για να ελέγξετε αν οι χρήστες δεν μπορούν να συνδεθούν χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ)
 
 1. Ο χρήστης που επηρεάζεται ενδέχεται να αποκλειστεί στην πύλη Azure Active Directory. Σε αυτήν την περίπτωση, οι απόπειρες ελέγχου ταυτότητας για τον συγκεκριμένο χρήστη θα απορρίπτονται αυτόματα. [Ακολουθήστε τα βήματα σε αυτό το άρθρο για να καταργήσετε τον αποκλεισμό τους.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)

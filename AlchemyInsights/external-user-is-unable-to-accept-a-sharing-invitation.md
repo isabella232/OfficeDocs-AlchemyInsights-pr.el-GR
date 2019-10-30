@@ -2,7 +2,6 @@
 title: Εξωτερικός χρήστης δεν είναι δυνατό να αποδεχθεί μια πρόσκληση κοινής χρήσης
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735893"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769123"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Εξωτερικός χρήστης δεν είναι δυνατό να αποδεχθεί μια πρόσκληση κοινής χρήσης
 
-Εάν ένας εξωτερικός χρήστης δεν είναι σε θέση να αποδεχθεί μια πρόσκληση κοινής χρήσης, δοκιμάστε να επισκεφτείτε τους παρακάτω συνδέσμους: 
+Εάν ένας εξωτερικός χρήστης δεν είναι δυνατό να αποδεχτεί μια πρόσκληση κοινής χρήσης του SharePoint ή του OneDrive, δοκιμάστε να επισκεφθείτε τις παρακάτω συνδέσεις: 
 
 - ["Δεν επιτρέπεται η πρόσβαση", "χρειάζεστε δικαιώματα για να αποκτήσετε πρόσβαση σε αυτήν την τοποθεσία", ή "χρήστης δεν βρέθηκε στον κατάλογο" σφάλματα στο SharePoint Online και OneDrive για την επιχείρηση](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - [Εμφανίζεται το μήνυμα λάθους "οι πολιτικές του οργανισμού σας δεν σας επιτρέπουν να κάνετε κοινή χρήση με αυτούς τους χρήστες" κατά την κοινή χρήση ενός στοιχείου ή τοποθεσίας στο SharePoint Online ή OneDrive για την επιχείρηση](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

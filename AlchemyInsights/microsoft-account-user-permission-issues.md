@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754192"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768801"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Αντιμετώπιση προβλήματος-ο χρήστης δεν βρέθηκε στον κατάλογο
 
-Εάν οι χρήστες λαμβάνουν μήνυμα λάθους "δεν είναι δυνατή η εύρεση του χρήστη" στον κατάλογο. Προσπαθήστε ξανά, όπου ο τύπος θέματος είναι ο χρήστης δεν στον κατάλογο.
+Εάν οι χρήστες λαμβάνουν μήνυμα λάθους "ο χρήστης δεν μπορεί να βρεθεί" στον κατάλογο, δοκιμάστε ξανά όπου ο τύπος θέματος είναι χρήστης δεν στον κατάλογο.
 
 Μπορείτε να ολοκληρώσετε τα παρακάτω βήματα για να αντιμετωπίσετε το ζήτημα.
 
@@ -27,9 +27,9 @@ ms.locfileid: "36754192"
 
 - Περιηγηθείτε σε κάθε τοποθεσία (ες) στην οποία ο χρήστης λαμβάνει το σφάλμα. 
 
-Προσθέστε την επιλογή "/_layett/15/doli.asx/melts_fimc = 0" (μέσα στα διπλά εισαγωγικά) στο τέλος της διεύθυνσης URL της τοποθεσίας. 
+Προσθέστε την επιλογή "/_layouts/15/OLL.asx/metessfl = 0" (μέσα στα διπλά εισαγωγικά) στο τέλος της διεύθυνσης URL της τοποθεσίας. 
 
-Παράδειγμα: https: contoso">. SharePoint. com/_layett/15/People. aspx/κράτος μέλους = 0.
+Παράδειγμα: https://< "Ηλιοτεχνική >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Επιλέξτε το χρήστη από τη λίστα.
 

@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756136"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769015"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Ανάκτηση συλλογών τοποθεσιών που λείπουν ή διαγράφονται
 
-Πώς να ανακτήσετε συλλογές τοποθεσιών που λείπουν ή έχουν διαγραφεί.
+Ανατρέξτε στα ακόλουθα άρθρα για πληροφορίες σχετικά με τον τρόπο ανάκτησης συλλογών τοποθεσιών που λείπουν ή έχουν διαγραφεί στο SharePoint.
 
 [Επαναφορά διαγραμμένων τοποθεσιών](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ ms.locfileid: "36756136"
 
 Εάν δεν μπορείτε να βρείτε την τοποθεσία, ίσως θελήσετε να [αναζητήσετε το αρχείο καταγραφής ελέγχου στο κέντρο συμμόρφωσης &amp; ασφαλείας του Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Σημείωση**: "σύγχρονες" τοποθεσίες ομάδας δεν είναι ορατές στο **κλασικό** περιβάλλον χρήστη του SharePoint admin. Μπορείτε να αποκτήσετε πρόσβαση στη λίστα των "σύγχρονων" τοποθεσιών από το [νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Σημείωση:** Οι τοποθεσίες ομάδας "σύγχρονα" δεν είναι ορατές στο περιβάλλον εργασίας χρήστη του **κλασικού** SharePoint admin. Μπορείτε να αποκτήσετε πρόσβαση στη λίστα των "σύγχρονων" τοποθεσιών από το [νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 
