@@ -1,5 +1,5 @@
 ---
-title: 975 θα θέλατε να αναφέρετε θετικής ανεπιθύμητης αλληλογραφίας στη Microsoft;
+title: 975 θα θέλατε να αναφέρετε μια ανεπιθύμητη αλληλογραφία ψευδώς θετική στη Microsoft;
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: dcae6f9b0a98d360e541309fd7017d864ace5959
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a35b7217b28001bbe23fab0d78f855b50c353bc4
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666444"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911595"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Θα θέλατε να αναφέρετε θετικής ανεπιθύμητης αλληλογραφίας στη Microsoft;
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Θέλετε να αναφέρετε μια ανεπιθύμητη αλληλογραφία ψευδώς θετική στη Microsoft;
 
-Ένας admin, ο καλύτερος τρόπος για να προσδιορίσετε γιατί παραδόθηκε μήνυμα ηλεκτρονικού "ψαρέματος" ή ανεπιθύμητης αλληλογραφίας είναι να υποβάλει το δείγμα στη Microsoft στην [Εξερεύνηση υποβολές](https://protection.office.com/reportsubmission). Για να easer, μπορείτε να επιτρέψετε στους χρήστες να αναφέρουν απευθείας στη Microsoft μέσω [προσθέτου μήνυμα αναφοράς](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Ως διαχειριστής, ο καλύτερος τρόπος για να προσδιορίσετε γιατί παραδόθηκε ένα μήνυμα phishing ή spam είναι να υποβάλετε το δείγμα στη Microsoft στην [Εξερεύνηση υποβολών](https://protection.office.com/reportsubmission). Για να το κάνετε αυτό, μπορείτε να επιτρέψετε στους χρήστες σας να αναφέρουν απευθείας στη Microsoft μέσω του [πρόσθετου μηνύματος αναφοράς](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Σας συμβουλεύουμε προσοχή αν αποφασίσετε να [παρακάμπτουν τα φίλτρα ανεπιθύμητης ηλεκτρονικής αλληλογραφίας του Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Σας συμβουλεύουμε να προσέχετε αν αποφασίσετε να [παρακάμψετε τα φίλτρα ανεπιθύμητης αλληλογραφίας του Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+
+**Το ξέρατε;**: μπορείτε τώρα να υποβάλετε δείγματα απευθείας από την [Παρακολούθηση μηνυμάτων](https://protection.office.com/messagetrace) και οι ΠΕΛΆΤΕς Ε2/ATP σχέδιο 2μπορούν να υποβάλουν δείγματα από την [Εξερεύνηση απειλών](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
