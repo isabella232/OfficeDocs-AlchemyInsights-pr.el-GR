@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660936"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921814"
 ---
 # <a name="update-payment-details"></a>Ενημέρωση λεπτομερειών πληρωμής
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660936"
 4. Εκτελέστε τις ενημερώσεις και, στη συνέχεια, επιλέξτε **Αποθήκευση**.
 
 5. Για να καταργήσετε αυτή τη μέθοδο πληρωμής, επιλέξτε **Διαγραφή**.
+
+**Αντιμετώπιση προβλημάτων**
+
+Εάν αντιμετωπίζετε προβλήματα με τη φόρτωση της σελίδας, δοκιμάστε να ανοίξετε την ιστοσελίδα με ένα διαφορετικό πρόγραμμα περιήγησης ή δοκιμάστε να ανοίξετε τη σελίδα σε ένα παράθυρο ιδιωτικής περιήγησης, όπως ένα παράθυρο InPrivate στο Microsoft Edge ή ένα παράθυρο ανώνυμης περιήγησης στο Google Chrome. 
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση πιστωτικής κάρτας ή τραπεζικού λογαριασμού στο Office 365 για Επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) και [Αντιμετώπιση προβλημάτων με πιστωτικές κάρτες και τραπεζικούς λογαριασμούς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
