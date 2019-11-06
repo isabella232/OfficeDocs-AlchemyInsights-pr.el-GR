@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: f5ba4a914096efc5849dbbcf9ca8cde43b9b7d38
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
+ms.sourcegitcommit: 3f50cd10aac418ef38a1782312b24588b49cefd9
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964170"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37976053"
 ---
 # <a name="troubleshoot-your-printer"></a>Αντιμετώπιση προβλημάτων του εκτυπωτή σας
 
-Εάν αντιμετωπίζετε προβλήματα με τον εκτυπωτή, δοκιμάστε να εκτελέσετε έναν **κύκλο ισχύος εκτυπωτή**. Ακολουθήστε τα εξής βήματα:
+Εάν αντιμετωπίζετε προβλήματα με τον εκτυπωτή, δοκιμάστε πρώτα να εκτελέσετε έναν **κύκλο ισχύος εκτυπωτή**. Ακολουθήστε τα εξής βήματα:
 
 1. Απενεργοποιήστε τον εκτυπωτή σας και αποσυνδέστε το καλώδιο τροφοδοσίας του.
 2. Περίμενε 30 δευτερόλεπτα.
