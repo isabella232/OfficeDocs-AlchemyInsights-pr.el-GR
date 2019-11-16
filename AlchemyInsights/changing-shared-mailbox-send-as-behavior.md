@@ -13,17 +13,17 @@ ms.custom:
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
 ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769627"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="1e794-102">Αλλαγή κοινόχρηστου γραμματοκιβωτίου αποστολή ως συμπεριφορά</span><span class="sxs-lookup"><span data-stu-id="1e794-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="0a024-102">Αλλαγή κοινόχρηστου γραμματοκιβωτίου αποστολή ως συμπεριφορά</span><span class="sxs-lookup"><span data-stu-id="0a024-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="1e794-103">Από προεπιλογή, τα μηνύματα που αποστέλλονται από το κοινόχρηστο γραμματοκιβώτιο δεν αποθηκεύονται στο φάκελο "Απεσταλμένα" του κοινόχρηστου γραμματοκιβωτίου.</span><span class="sxs-lookup"><span data-stu-id="1e794-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="1e794-104">Αντίθετα, αποθηκεύονται στο φάκελο "Απεσταλμένα" του ατόμου που έστειλε το μήνυμα.</span><span class="sxs-lookup"><span data-stu-id="1e794-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="0a024-103">Από προεπιλογή, τα μηνύματα που αποστέλλονται από το κοινόχρηστο γραμματοκιβώτιο δεν αποθηκεύονται στο φάκελο "Απεσταλμένα" του κοινόχρηστου γραμματοκιβωτίου.</span><span class="sxs-lookup"><span data-stu-id="0a024-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="0a024-104">Αντίθετα, αποθηκεύονται στο φάκελο "Απεσταλμένα" του ατόμου που έστειλε το μήνυμα.</span><span class="sxs-lookup"><span data-stu-id="0a024-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="1e794-105">Εάν θέλετε όλα τα μέλη να δουν το Απεσταλμένα μηνύματα ηλεκτρονικού ταχυδρομείου, στο κέντρο διαχείρισης Microsoft 365, επεξεργαστείτε τις λεπτομέρειες του κοινόχρηστου γραμματοκιβωτίου και επιλέξτε τα **Απεσταλμένα στοιχεία** \> **Επεξεργασία**.</span><span class="sxs-lookup"><span data-stu-id="1e794-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="0a024-105">Εάν θέλετε όλα τα μέλη να δουν το Απεσταλμένα μηνύματα ηλεκτρονικού ταχυδρομείου, στο κέντρο διαχείρισης Microsoft 365, επεξεργαστείτε τις λεπτομέρειες του κοινόχρηστου γραμματοκιβωτίου και επιλέξτε τα **Απεσταλμένα στοιχεία** \> **Επεξεργασία**.</span><span class="sxs-lookup"><span data-stu-id="0a024-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="1e794-106">Για να διαβάσετε περισσότερα, δείτε [Δημιουργία κοινόχρηστου γραμματοκιβωτίου](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="1e794-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="0a024-106">Για να διαβάσετε περισσότερα, δείτε [Δημιουργία κοινόχρηστου γραμματοκιβωτίου](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="0a024-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

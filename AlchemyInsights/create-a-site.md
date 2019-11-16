@@ -8,22 +8,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
 ms.openlocfilehash: fd09c720f8f2eae7233d07c287a9c03b8793b2b2
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769555"
 ---
-# <a name="create-a-site"></a><span data-ttu-id="11525-102">Δημιουργία τοποθεσίας</span><span class="sxs-lookup"><span data-stu-id="11525-102">Create a site</span></span>
+# <a name="create-a-site"></a><span data-ttu-id="f6424-102">Δημιουργία τοποθεσίας</span><span class="sxs-lookup"><span data-stu-id="f6424-102">Create a site</span></span>
 
-- <span data-ttu-id="11525-103">Μεταβείτε στη [σελίδα τοποθεσίες στο κέντρο διαχείρισης Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)και, στη συνέχεια, επιλέξτε **Προσθήκη τοποθεσίας**.</span><span class="sxs-lookup"><span data-stu-id="11525-103">Go to the [Sites page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span> 
+- <span data-ttu-id="f6424-103">Μεταβείτε στη [σελίδα τοποθεσίες στο κέντρο διαχείρισης Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)και, στη συνέχεια, επιλέξτε **Προσθήκη τοποθεσίας**.</span><span class="sxs-lookup"><span data-stu-id="f6424-103">Go to the [Sites page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span> 
     
-- <span data-ttu-id="11525-104">Στο νέο κέντρο διαχείρισης του SharePoint, στη σελίδα "τοποθεσίες", κάντε κλικ στο κουμπί **Δημιουργία**.</span><span class="sxs-lookup"><span data-stu-id="11525-104">In the new SharePoint admin center, on the Sites page, click **Create**.</span></span> 
+- <span data-ttu-id="f6424-104">Στο νέο κέντρο διαχείρισης του SharePoint, στη σελίδα "τοποθεσίες", κάντε κλικ στο κουμπί **Δημιουργία**.</span><span class="sxs-lookup"><span data-stu-id="f6424-104">In the new SharePoint admin center, on the Sites page, click **Create**.</span></span> 
     
-<span data-ttu-id="11525-105">**Σημείωση:** Δεν μπορείτε να δημιουργήσετε μια νέα τοποθεσία που έχει την ίδια διεύθυνση URL με μια υπάρχουσα τοποθεσία.</span><span class="sxs-lookup"><span data-stu-id="11525-105">**Note:** You cannot create a new site that has the same URL with an existing site.</span></span> 
+<span data-ttu-id="f6424-105">**Σημείωση:** Δεν μπορείτε να δημιουργήσετε μια νέα τοποθεσία που έχει την ίδια διεύθυνση URL με μια υπάρχουσα τοποθεσία.</span><span class="sxs-lookup"><span data-stu-id="f6424-105">**Note:** You cannot create a new site that has the same URL with an existing site.</span></span> 
   
-<span data-ttu-id="11525-106">Για περισσότερες πληροφορίες σχετικά με τη δημιουργία μιας τοποθεσίας, ανατρέξτε στο θέμα [Δημιουργία τοποθεσίας](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="11525-106">For more info about creating a site, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span>
+<span data-ttu-id="f6424-106">Για περισσότερες πληροφορίες σχετικά με τη δημιουργία μιας τοποθεσίας, ανατρέξτε στο θέμα [Δημιουργία τοποθεσίας](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="f6424-106">For more info about creating a site, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span>
   
-<span data-ttu-id="11525-107">Για πληροφορίες σχετικά με το να επιτρέψετε στους χρήστες να δημιουργήσουν τις δικές τους τοποθεσίες, ανατρέξτε [στο θέμα Διαχείριση τοποθεσίας δημιουργίας στο SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="11525-107">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+<span data-ttu-id="f6424-107">Για πληροφορίες σχετικά με το να επιτρέψετε στους χρήστες να δημιουργήσουν τις δικές τους τοποθεσίες, ανατρέξτε [στο θέμα Διαχείριση τοποθεσίας δημιουργίας στο SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="f6424-107">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Κεντρική ιδέες "Alchemy"
+title: Αλχημεία Αρχική σελίδα
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.openlocfilehash: 3f89d9ef2d6961db7bd2bc9bf68f6a59eb6da5f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "32412535"
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="1b4f0-102">Ιδέες "Alchemy"</span><span class="sxs-lookup"><span data-stu-id="1b4f0-102">Alchemy Insights</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="752c6-102">Αλχημεία στατιστικά</span><span class="sxs-lookup"><span data-stu-id="752c6-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="1b4f0-103">Αυτή η βιβλιοθήκη έχει δεσμευτεί για περιεχόμενο Βοήθειας-app.</span><span class="sxs-lookup"><span data-stu-id="1b4f0-103">This library is reserved for in-app help content.</span></span>
+<span data-ttu-id="752c6-103">Αυτή η βιβλιοθήκη είναι δεσμευμένη για περιεχόμενο βοήθειας εντός εφαρμογής.</span><span class="sxs-lookup"><span data-stu-id="752c6-103">This library is reserved for in-app help content.</span></span>
