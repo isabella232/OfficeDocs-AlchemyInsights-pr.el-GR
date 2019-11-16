@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36557825"
 ---
-# <a name="yammer---possible-service-issue"></a><span data-ttu-id="e7ae0-102">Yammer-πιθανό ζήτημα υπηρεσίας</span><span class="sxs-lookup"><span data-stu-id="e7ae0-102">Yammer - possible service issue</span></span>
+# <a name="yammer---possible-service-issue"></a><span data-ttu-id="fe278-102">Yammer-πιθανό ζήτημα υπηρεσίας</span><span class="sxs-lookup"><span data-stu-id="fe278-102">Yammer - possible service issue</span></span>
 
-<span data-ttu-id="e7ae0-103">Ενδέχεται να υπάρχει ένα προσωρινό ζήτημα όπου οι χρήστες ενδέχεται να αντιμετωπίσετε σφάλματα κατά την πρόσβαση στο Yammer.</span><span class="sxs-lookup"><span data-stu-id="e7ae0-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="e7ae0-104">Ελέγξτε τον [πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) για να δείτε αν αυτό επηρεάζει το δίκτυό σας.</span><span class="sxs-lookup"><span data-stu-id="e7ae0-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
+<span data-ttu-id="fe278-103">Ενδέχεται να υπάρχει ένα προσωρινό ζήτημα όπου οι χρήστες ενδέχεται να αντιμετωπίσετε σφάλματα κατά την πρόσβαση στο Yammer.</span><span class="sxs-lookup"><span data-stu-id="fe278-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="fe278-104">Ελέγξτε τον [πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) για να δείτε αν αυτό επηρεάζει το δίκτυό σας.</span><span class="sxs-lookup"><span data-stu-id="fe278-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>

@@ -12,21 +12,21 @@ ms.custom:
 - "1078"
 - "6200003"
 ms.openlocfilehash: 0c705cda207c7696840a2cb1c773c643c60814b5
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36528443"
 ---
-# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="81ffa-102">Λύσεις εισαγωγής του Dynamics CRM</span><span class="sxs-lookup"><span data-stu-id="81ffa-102">Dynamics CRM Import Solutions</span></span>
+# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="6326a-102">Λύσεις εισαγωγής του Dynamics CRM</span><span class="sxs-lookup"><span data-stu-id="6326a-102">Dynamics CRM Import Solutions</span></span>
 
-* [<span data-ttu-id="81ffa-103">Δεν είναι δυνατή η διαγραφή της λύσης λόγω εξαρτήσεων</span><span class="sxs-lookup"><span data-stu-id="81ffa-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [<span data-ttu-id="6326a-103">Δεν είναι δυνατή η διαγραφή της λύσης λόγω εξαρτήσεων</span><span class="sxs-lookup"><span data-stu-id="6326a-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [<span data-ttu-id="81ffa-104">Σφάλμα έκδοση συγκρότησης Εισαγωγή λύσης</span><span class="sxs-lookup"><span data-stu-id="81ffa-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [<span data-ttu-id="6326a-104">Σφάλμα έκδοση συγκρότησης Εισαγωγή λύσης</span><span class="sxs-lookup"><span data-stu-id="6326a-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [<span data-ttu-id="81ffa-105">Απέτυχε η εξαγωγή σφάλματος επιχειρηματικής διαδικασίας</span><span class="sxs-lookup"><span data-stu-id="81ffa-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [<span data-ttu-id="6326a-105">Απέτυχε η εξαγωγή σφάλματος επιχειρηματικής διαδικασίας</span><span class="sxs-lookup"><span data-stu-id="6326a-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [<span data-ttu-id="81ffa-106">Η εγκατάσταση ή η κατάργηση της λύσης απέτυχε λόγω της εγκατάστασης ή της κατάργησης μιας άλλης λύσης την ίδια στιγμή</span><span class="sxs-lookup"><span data-stu-id="81ffa-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [<span data-ttu-id="6326a-106">Η εγκατάσταση ή η κατάργηση της λύσης απέτυχε λόγω της εγκατάστασης ή της κατάργησης μιας άλλης λύσης την ίδια στιγμή</span><span class="sxs-lookup"><span data-stu-id="6326a-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
-* [<span data-ttu-id="81ffa-107">Εγκατάσταση, ενημέρωση ή κατάργηση μιας προτιμώμενης λύσης</span><span class="sxs-lookup"><span data-stu-id="81ffa-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
+* [<span data-ttu-id="6326a-107">Εγκατάσταση, ενημέρωση ή κατάργηση μιας προτιμώμενης λύσης</span><span class="sxs-lookup"><span data-stu-id="6326a-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   
