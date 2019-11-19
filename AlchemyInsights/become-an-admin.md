@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768368"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704353"
 ---
 # <a name="become-an-admin"></a>Γίνετε διαχειριστής
 
 Για να αναλάβετε το ρόλο διαχειριστή για τον οργανισμό σας, θα πρέπει να αναλάβετε τον μισθωτή στο Office 365.
   
-Ακολουθήστε τις οδηγίες σε αυτόν τον οδηγό: [Κάντε μια εξαγορά διαχειριστή στο Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+Ακολουθήστε τις οδηγίες σε αυτόν τον οδηγό: [εξαγορά διαχειριστή](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
