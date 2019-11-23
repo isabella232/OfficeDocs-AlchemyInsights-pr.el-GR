@@ -3,7 +3,6 @@ title: Μετεγκατάσταση δεδομένων δημόσιου φακέ
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
+ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544358"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "39202594"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Μετεγκατάσταση δεδομένων δημόσιου φακέλου στο Office 365
 
-Εάν δεν έχετε πολλά δημόσιους φακέλους για να μεταφέρετε στο Office 365, ο ευκολότερος τρόπος για να τα φέρετε θα είναι να αντιγράψετε τα δεδομένα σε. PST αρχεία και, στη συνέχεια, να τις εισαγάγετε στο Office 365. Για μικρούς όγκους δεδομένων, μια απλή μεταφορά και απόθεση του δημόσιου φακέλου σε ένα. Αρχείο PST μπορεί να είναι επαρκείς. Εάν έχετε περισσότερα δεδομένα από αυτό (μέχρι 30GB), έχουμε [τεκμηριώνονται μια διαδικασία](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) που μπορείτε να χρησιμοποιήσετε για την εξαγωγή των φακέλων σε αρχεία PST.
+Εάν δεν έχετε πολλούς δημόσιους φακέλους για να φέρετε στο Office 365, ο ευκολότερος τρόπος για να τους φέρετε είναι να αντιγράψετε τα δεδομένα στο. PST αρχεία και στη συνέχεια να τα εισαγάγετε στο Office 365. Για μικρές ποσότητες δεδομένων, μια απλή μεταφορά και απόθεση του δημόσιου φακέλου σε ένα. Αρχείο PST μπορεί να είναι επαρκής. Εάν έχετε περισσότερα δεδομένα από αυτό (έως 30GB), έχουμε [τεκμηριώσει μια διαδικασία](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) που μπορείτε να χρησιμοποιήσετε για να εξαγάγετε φακέλους σε αρχεία PST.
   
-Για μεγαλύτερες εταιρείες που κυκλοφορούν δημόσιους φακέλους στο Office 365, έχουμε πολλά οδηγών:
+Για μεγαλύτερους οργανισμούς που μετακινούνται δημόσιους φακέλους στο Office 365, έχουμε διαθέσιμους οδηγούς:
   
-- [Μετεγκατάσταση παλαιού τύπου οι δημόσιοι φάκελοι](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 και προηγούμενες)
+- [Μετεγκατάσταση δημόσιων φακέλων παλαιού τύπου](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Μετεγκαταστήσετε δημόσιους φακέλους του Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Μετεγκατάσταση Exchange 2013, Exchange 2016 ή Exchange 2019 δημόσιους φακέλους](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-- [Μετεγκαταστήσετε δημόσιους φακέλους του Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-
-Έχετε επίσης τη δυνατότητα να [μετεγκαταστήσετε δημόσιους φακέλους σε ομάδες του Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
+Έχετε επίσης την επιλογή να [μετεγκαταστήσετε δημόσιους φακέλους στο Office 365 ομάδες](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   
