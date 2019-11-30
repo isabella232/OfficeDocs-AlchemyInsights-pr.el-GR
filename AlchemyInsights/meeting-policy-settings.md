@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376652"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627574"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Διαχείριση πολιτικών συσκέψεων σε ομάδες της Microsoft
 
@@ -24,7 +24,7 @@ ms.locfileid: "37376652"
 
 Για περισσότερες πληροφορίες σχετικά με τις πολιτικές συσκέψεων, ανατρέξτε στους ακόλουθους πόρους:
 
-- Για να μάθετε σχετικά με τη δημιουργία πολιτικών, την πραγματοποίηση αλλαγών και την εκχώρηση χρηστών στην πολιτική, ανατρέξτε [στο θέμα Διαχείριση πολιτικών συσκέψεων σε ομάδες](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Για να μάθετε σχετικά με τη δημιουργία πολιτικών, την πραγματοποίηση αλλαγών και την εκχώρηση χρηστών στην πολιτική, ανατρέξτε [στο θέμα Διαχείριση πολιτικών συσκέψεων σε ομάδες](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Για να κάνετε αλλαγές πολιτικής χρησιμοποιώντας cmdlet PowerShell, ανατρέξτε στο [ενότητα Επισκόπηση PowerShell ομάδων](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Πρέπει να χρησιμοποιήσετε το [Skype για επιχειρηματική λειτουργική μονάδα PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) για ομάδες συσκέψεων πολιτικές. 

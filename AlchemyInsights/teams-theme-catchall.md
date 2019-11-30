@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37373111"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626384"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Ομάδες κοινά ζητήματα και ψηφίσματα
 
@@ -34,5 +34,5 @@ ms.locfileid: "37373111"
 - **Αντιμετώπιση προβλημάτων ενός πληκτρολογίου κλήσης που λείπει:**  
     - Βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί μια [άδεια ομάδας](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
     - Βεβαιωθείτε ότι ο χρήστης έχει αντιστοιχίσει ένα [σχέδιο κλήσης](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Ενεργοποίηση των χρηστών για [εταιρική φωνή](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Ενεργοποίηση των χρηστών για [εταιρική φωνή](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Γνωστά θέματα με τις ομάδες:** Ανάγνωση [γνωστών ζητημάτων για τις ομάδες της Microsoft](https://docs.microsoft.com/microsoftteams/known-issues).
