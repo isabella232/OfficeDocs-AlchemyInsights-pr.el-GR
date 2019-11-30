@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: f1caff9ef112042b2bd39e47ec03c587cc87e421
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654436"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39625808"
 ---
 # <a name="add-users-to-intune"></a>Προσθήκη χρηστών στο Intune
 
@@ -26,4 +26,4 @@ ms.locfileid: "37654436"
 
 Για περισσότερες πληροφορίες σχετικά με τη χρήση του κέντρου διαχείρισης Microsoft 365, ανατρέξτε στο [άρθρο Προσθήκη χρηστών μεμονωμένα ή μαζικά στο κέντρο διαχείρισης της microsoft 365](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-Για περισσότερες πληροφορίες σχετικά με τη χρήση της πύλης Intune, ανατρέξτε στο στοιχείο [Προσθήκη χρηστών και εκχώρηση δικαιωμάτων διαχείρισης στο Intune](https://docs.microsoft.com/en-us/intune/fundamentals/users-add).
+Για περισσότερες πληροφορίες σχετικά με τη χρήση της πύλης Intune, ανατρέξτε στο στοιχείο [Προσθήκη χρηστών και εκχώρηση δικαιωμάτων διαχείρισης στο Intune](https://docs.microsoft.com/intune/fundamentals/users-add).
