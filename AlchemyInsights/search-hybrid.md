@@ -1,7 +1,7 @@
 ---
 title: Αναζήτηση και υβριδική
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504823"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048688"
 ---
-# <a name="search-and-hybrid"></a><span data-ttu-id="21910-102">Αναζήτηση και υβριδική</span><span class="sxs-lookup"><span data-stu-id="21910-102">Search and hybrid</span></span>
+# <a name="search-and-hybrid"></a><span data-ttu-id="31f50-102">Αναζήτηση και υβριδική</span><span class="sxs-lookup"><span data-stu-id="31f50-102">Search and hybrid</span></span>
 
-- <span data-ttu-id="21910-103">Χρειάζεστε πληροφορίες σχετικά με την υβριδική και ομόσπονδης αναζήτησης στο SharePoint Online;</span><span class="sxs-lookup"><span data-stu-id="21910-103">Do you need information about hybrid and federated search in SharePoint Online?</span></span> <span data-ttu-id="21910-104">Εάν συμβαίνει αυτό, ανατρέξτε στην ενότητα [αυτού του άρθρου](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="21910-104">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+- <span data-ttu-id="31f50-103">Χρειάζεστε πληροφορίες σχετικά με την υβριδική και ομόσπονδη αναζήτηση στο SharePoint Online;</span><span class="sxs-lookup"><span data-stu-id="31f50-103">Do you need information about hybrid and federated search in SharePoint Online?</span></span> <span data-ttu-id="31f50-104">Εάν είναι έτσι, ανατρέξτε σε [αυτό το άρθρο](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="31f50-104">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-- <span data-ttu-id="21910-105">Χρειάζεστε πληροφορίες σχετικά με το σχεδιασμό μιας ομόσπονδης αναζήτησης υβριδική;</span><span class="sxs-lookup"><span data-stu-id="21910-105">Do you need information about planning a hybrid federated search?</span></span>  <span data-ttu-id="21910-106">Εάν συμβαίνει αυτό, ανατρέξτε στην ενότητα [αυτού του άρθρου](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="21910-106">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+- <span data-ttu-id="31f50-105">Χρειάζεστε πληροφορίες σχετικά με τον προγραμματισμό μιας υβριδικής αναζήτησης ομόσπονδων;</span><span class="sxs-lookup"><span data-stu-id="31f50-105">Do you need information about planning a hybrid federated search?</span></span>  <span data-ttu-id="31f50-106">Εάν είναι έτσι, ανατρέξτε σε [αυτό το άρθρο](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="31f50-106">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
 
 
 
