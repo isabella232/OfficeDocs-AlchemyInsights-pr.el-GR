@@ -1,7 +1,7 @@
 ---
-title: Χωρίς επιβολή κάνω αναβάθμιση. Πως θα μεταβώ πίσω στην προηγούμενη έκδοση του Office;
-ms.author: dludwig
-author: dludwig
+title: Μην με αναγκάζεις να αναβαθμίσω. Πώς μπορώ να επιστρέψω στην προηγούμενη έκδοση του Office;
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,17 +13,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 8bba17b61485f6d856affde2c52b45522d0051dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4caf3e3c3a72b2ae59bb13982a2e45c53a7911f2
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529523"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052865"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="9c765-103">Χωρίς επιβολή κάνω αναβάθμιση.</span><span class="sxs-lookup"><span data-stu-id="9c765-103">Don't force me to upgrade.</span></span> <span data-ttu-id="9c765-104">Πως θα μεταβώ πίσω στην προηγούμενη έκδοση του Office;</span><span class="sxs-lookup"><span data-stu-id="9c765-104">How do I go back to the previous Office version?</span></span>
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="5082e-103">Μην με αναγκάζεις να αναβαθμίσω.</span><span class="sxs-lookup"><span data-stu-id="5082e-103">Don't force me to upgrade.</span></span> <span data-ttu-id="5082e-104">Πώς μπορώ να επιστρέψω στην προηγούμενη έκδοση του Office;</span><span class="sxs-lookup"><span data-stu-id="5082e-104">How do I go back to the previous Office version?</span></span>
 
-<span data-ttu-id="9c765-105">Όταν ανοίγετε ένα αρχείο του Office, ενδέχεται να ανοίξει τη δοκιμαστική έκδοση του μια εφαρμογή του Office, αντί για μια άλλη έκδοση.</span><span class="sxs-lookup"><span data-stu-id="9c765-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="9c765-106">Αυτό θα συμβεί, εάν έχετε τη δοκιμαστική έκδοση του Office 365.</span><span class="sxs-lookup"><span data-stu-id="9c765-106">This will happen if you have the Office 365 trial.</span></span>
+<span data-ttu-id="5082e-105">Όταν ανοίγετε ένα αρχείο του Office, μπορεί να ανοίξει η δοκιμαστική έκδοση μιας εφαρμογής του Office, αντί για μια άλλη έκδοση.</span><span class="sxs-lookup"><span data-stu-id="5082e-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="5082e-106">Αυτό θα συμβεί αν έχετε τη δοκιμαστική έκδοση του Office 365.</span><span class="sxs-lookup"><span data-stu-id="5082e-106">This will happen if you have the Office 365 trial.</span></span>
   
-<span data-ttu-id="9c765-107">Όταν εγκαθιστάτε τη δοκιμαστική έκδοση του Office 365, η δοκιμαστική έκδοση 2016 από τις εφαρμογές έχουν εγκατασταθεί.</span><span class="sxs-lookup"><span data-stu-id="9c765-107">When you install the Office 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="9c765-108">Αυτές οι δοκιμαστικές εκδόσεις είναι η προεπιλογή για το άνοιγμα αρχείων Word, Excel και PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="9c765-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="9c765-109">Για παράδειγμα, εάν έχετε εγκατεστημένο το Excel 2013 και επίσης εγκαταστήσει τη δοκιμαστική έκδοση του Office 365, στη συνέχεια, τα βιβλία εργασίας θα ανοίξει με τη δοκιμαστική έκδοση του Excel 2016.</span><span class="sxs-lookup"><span data-stu-id="9c765-109">For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span>
+<span data-ttu-id="5082e-107">Κατά την εγκατάσταση της δοκιμαστικής έκδοσης του Office 365, εγκαθίστανται η δοκιμαστική έκδοση 2016 των εφαρμογών.</span><span class="sxs-lookup"><span data-stu-id="5082e-107">When you install the Office 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="5082e-108">Αυτές οι δοκιμαστικές εκδόσεις γίνονται η προεπιλογή για το άνοιγμα αρχείων Word, Excel και PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5082e-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="5082e-109">Για παράδειγμα, εάν έχετε εγκαταστήσει το Excel 2013 και έχετε επίσης εγκαταστήσει τη δοκιμαστική έκδοση του Office 365, τότε τα βιβλία εργασίας σας θα ανοίξουν στη δοκιμαστική έκδοσή του Excel 2016.</span><span class="sxs-lookup"><span data-stu-id="5082e-109">For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span>
   
-<span data-ttu-id="9c765-110">Εάν έχετε αυτό το πρόβλημα, να [απεγκαταστήσετε](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) τις εφαρμογές 2016 και χρησιμοποιήστε τις παλαιότερες εκδόσεις των τις εφαρμογές που έχετε εγκαταστήσει ήδη.</span><span class="sxs-lookup"><span data-stu-id="9c765-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="9c765-111">Εναλλακτικά, μπορείτε να [καταργήσετε](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) τις παλαιότερες εκδόσεις των τις εφαρμογές και να κάνετε αναβάθμιση σε τις νεότερες εκδόσεις που περιλαμβάνονται στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="9c765-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span>
+<span data-ttu-id="5082e-110">Εάν έχετε αυτό το πρόβλημα, μπορείτε να [απεγκαταστήσετε](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) τις εφαρμογές 2016 και να χρησιμοποιήσετε τις παλαιότερες εκδόσεις των εφαρμογών που έχετε ήδη εγκαταστήσει.</span><span class="sxs-lookup"><span data-stu-id="5082e-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="5082e-111">Εναλλακτικά, μπορείτε να [απεγκαταστήσετε](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) τις παλαιότερες εκδόσεις των εφαρμογών και να αναβαθμίσετε τις νεότερες εκδόσεις που περιλαμβάνονται στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="5082e-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span>

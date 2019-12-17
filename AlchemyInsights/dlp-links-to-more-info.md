@@ -1,7 +1,7 @@
 ---
-title: Περισσότερες πληροφορίες σχετικά με θέματα τεχνολογίας DLP
-ms.author: stephow
-author: stephow-MSFT
+title: Περισσότερες πληροφορίες σχετικά με θέματα
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665202"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052289"
 ---
-# <a name="information-about-dlp-issues"></a><span data-ttu-id="54d31-102">Πληροφορίες σχετικά με θέματα τεχνολογίας DLP</span><span class="sxs-lookup"><span data-stu-id="54d31-102">Information about DLP issues</span></span>
+# <a name="information-about-dlp-issues"></a><span data-ttu-id="58d00-102">Πληροφορίες σχετικά με θέματα</span><span class="sxs-lookup"><span data-stu-id="58d00-102">Information about DLP issues</span></span>
 
-<span data-ttu-id="54d31-103">Με μια πολιτική, η τεχνολογία DLP μπορείτε να αναγνωρίσετε, παρακολούθηση και αυτόματη προστασία ευαίσθητων πληροφοριών μέσω του Office 365.</span><span class="sxs-lookup"><span data-stu-id="54d31-103">With a DLP policy, you can identify, monitor, and automatically protect sensitive information across Office 365.</span></span>
+<span data-ttu-id="58d00-103">Με μια πολιτική του Συμβουλίου, μπορείτε να εντοπίζετε, να εποπτεύετε και να προστατεύετε αυτόματα ευαίσθητες πληροφορίες στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="58d00-103">With a DLP policy, you can identify, monitor, and automatically protect sensitive information across Office 365.</span></span>
 
-<span data-ttu-id="54d31-104">Επισκεφθείτε αυτές τις συνδέσεις για περισσότερες πληροφορίες:</span><span class="sxs-lookup"><span data-stu-id="54d31-104">Please visit these links for more information:</span></span>
+<span data-ttu-id="58d00-104">Παρακαλούμε επισκεφτείτε αυτούς τους συνδέσμους για περισσότερες πληροφορίες:</span><span class="sxs-lookup"><span data-stu-id="58d00-104">Please visit these links for more information:</span></span>
 
-- [<span data-ttu-id="54d31-105">Επισκόπηση των πρόληψη απώλειας δεδομένων</span><span class="sxs-lookup"><span data-stu-id="54d31-105">Overview of data loss prevention</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [<span data-ttu-id="54d31-106">Αναζητήστε το ποιους τύπους ευαίσθητες πληροφορίες</span><span class="sxs-lookup"><span data-stu-id="54d31-106">What the sensitive information types look for</span></span>](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [<span data-ttu-id="54d31-107">Δημιουργία ενός τύπου προσαρμοσμένου ευαίσθητες πληροφορίες</span><span class="sxs-lookup"><span data-stu-id="54d31-107">Create a custom sensitive information type</span></span>](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [<span data-ttu-id="54d31-108">Αποστολή ειδοποιήσεων ηλεκτρονικού ταχυδρομείου και εμφάνιση συμβουλών πολιτικής</span><span class="sxs-lookup"><span data-stu-id="54d31-108">Send email notifications and show policy tips</span></span>](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [<span data-ttu-id="54d31-109">Προστασία των αρχείων του SharePoint Online με ετικέτες διατήρησης και τεχνολογία DLP</span><span class="sxs-lookup"><span data-stu-id="54d31-109">Protect SharePoint Online files with retention labels and DLP</span></span>](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [<span data-ttu-id="54d31-110">Τεχνολογία DLP και ομάδες της Microsoft</span><span class="sxs-lookup"><span data-stu-id="54d31-110">DLP and Microsoft Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [<span data-ttu-id="58d00-105">Επισκόπηση της αποτροπής απώλειας δεδομένων</span><span class="sxs-lookup"><span data-stu-id="58d00-105">Overview of data loss prevention</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [<span data-ttu-id="58d00-106">Τι δείχνουν οι ευαίσθητοι τύποι πληροφοριών</span><span class="sxs-lookup"><span data-stu-id="58d00-106">What the sensitive information types look for</span></span>](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [<span data-ttu-id="58d00-107">Δημιουργία ενός προσαρμοσμένου τύπου ευαίσθητων πληροφοριών</span><span class="sxs-lookup"><span data-stu-id="58d00-107">Create a custom sensitive information type</span></span>](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [<span data-ttu-id="58d00-108">Αποστολή ειδοποιήσεων ηλεκτρονικού ταχυδρομείου και εμφάνιση συμβουλών πολιτικής</span><span class="sxs-lookup"><span data-stu-id="58d00-108">Send email notifications and show policy tips</span></span>](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [<span data-ttu-id="58d00-109">Προστατέψτε τα αρχεία του SharePoint Online με ετικέτες διατήρησης και</span><span class="sxs-lookup"><span data-stu-id="58d00-109">Protect SharePoint Online files with retention labels and DLP</span></span>](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [<span data-ttu-id="58d00-110">Ομάδες της Microsoft</span><span class="sxs-lookup"><span data-stu-id="58d00-110">DLP and Microsoft Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-<span data-ttu-id="54d31-111">Για να ελέγξετε τα δεδομένα σας με έναν τύπο ενσωματωμένα ή προσαρμοσμένα ευαίσθητες πληροφορίες, να χρησιμοποιήσετε την επιλογή **Τύπος ελέγχου** υπό **ταξινομήσεις** > **τύποι ευαίσθητων πληροφοριών**.</span><span class="sxs-lookup"><span data-stu-id="54d31-111">To test your data with a built-in or custom sensitive information type, use the **Test type** option under **Classifications** > **Sensitive info types**.</span></span> <span data-ttu-id="54d31-112">Για περισσότερες πληροφορίες, δείτε [τύπους προσαρμοσμένων ευαίσθητες πληροφορίες δοκιμής](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).</span><span class="sxs-lookup"><span data-stu-id="54d31-112">For more information, see [Test custom sensitive information types](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).</span></span>
+<span data-ttu-id="58d00-111">Για να ελέγξετε τα δεδομένα σας με έναν ενσωματωμένο ή προσαρμοσμένο τύπο ευαίσθητων πληροφοριών, χρησιμοποιήστε την επιλογή **τύπος δοκιμής** κάτω από τις **ταξινομήσεις** > **ευαίσθητων τύπων**πληροφοριών.</span><span class="sxs-lookup"><span data-stu-id="58d00-111">To test your data with a built-in or custom sensitive information type, use the **Test type** option under **Classifications** > **Sensitive info types**.</span></span> <span data-ttu-id="58d00-112">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [δοκιμή προσαρμοσμένων ευαίσθητων τύπων πληροφοριών](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).</span><span class="sxs-lookup"><span data-stu-id="58d00-112">For more information, see [Test custom sensitive information types](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).</span></span>

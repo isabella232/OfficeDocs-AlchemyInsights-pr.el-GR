@@ -1,7 +1,7 @@
 ---
 title: Διαγραφή τοποθεσίας
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 6/28/2018
 ms.audience: Admin
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0814741525c9fb9e354c3dd173c6efdf5c2ab243
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36512819"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052361"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="074a1-102">Διαγραφή τοποθεσίας του SharePoint</span><span class="sxs-lookup"><span data-stu-id="074a1-102">Delete a SharePoint site</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="a6365-102">Διαγραφή τοποθεσίας του SharePoint</span><span class="sxs-lookup"><span data-stu-id="a6365-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="074a1-103">Στο νέο κέντρο διαχείρισης του SharePoint, στη σελίδα "τοποθεσίες", κάντε κλικ στο πλαίσιο ελέγχου δίπλα στην τοποθεσία που θέλετε να διαγράψετε.</span><span class="sxs-lookup"><span data-stu-id="074a1-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
+1. <span data-ttu-id="a6365-103">Στο νέο κέντρο διαχείρισης του SharePoint, στη σελίδα "τοποθεσίες", κάντε κλικ στο πλαίσιο ελέγχου δίπλα στην τοποθεσία που θέλετε να διαγράψετε.</span><span class="sxs-lookup"><span data-stu-id="a6365-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="074a1-104">Στη γραμμή εργαλείων κορδέλας, κάντε κλικ στο κουμπί **Διαγραφή**.</span><span class="sxs-lookup"><span data-stu-id="074a1-104">On the ribbon toolbar, click **Delete**.</span></span>
+2. <span data-ttu-id="a6365-104">Στη γραμμή εργαλείων κορδέλας, κάντε κλικ στο κουμπί **Διαγραφή**.</span><span class="sxs-lookup"><span data-stu-id="a6365-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 
