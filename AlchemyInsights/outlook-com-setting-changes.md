@@ -1,7 +1,7 @@
 ---
 title: Ρυθμίσεις Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386365"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053261"
 ---
 # <a name="settings-in-outlookcom"></a>Ρυθμίσεις στο Outlook.com
 
-Εάν ο παραλήπτης είναι εσωτερικός ή εξωτερικός στον οργανισμό σας και εάν χρησιμοποιούν ένα λογαριασμό ηλεκτρονικού ταχυδρομείου του Office 365 ή Outlook.com, οι ακόλουθοι υπολογιστές-πελάτες δεν θα πρέπει να κάνουν τίποτα ιδιαίτερο για να ανοίξετε το μήνυμα: **outlook 2016, το Outlook στο Web/Outlook Web App, Εφαρμογή για κινητές συσκευές του Outlook**
+Εάν ο παραλήπτης είναι εσωτερικός ή εξωτερικός στον οργανισμό σας και εάν χρησιμοποιούν ένα λογαριασμό ηλεκτρονικού ταχυδρομείου του Office 365 ή Outlook.com, οι ακόλουθοι υπολογιστές-πελάτες δεν θα πρέπει να κάνουν τίποτα ιδιαίτερο για να ανοίξετε το μήνυμα: **outlook 2016, το Outlook στο Web/Outlook Web App, Outlook Mobile App**
 
 **Απεσταλμένοι** χρήστες στους οποίους στάλθηκε η προστασία ηλεκτρονικού ταχυδρομείου, δεν είναι δυνατό να ανοίξουν προστατευμένα μηνύματα. Μόνο οι αρχικοί παραλήπτες (το άτομο με το οποίο στάλθηκε το μήνυμα ηλεκτρονικού ταχυδρομείου) μπορούν να προβάλουν τις πληροφορίες στο μήνυμα ηλεκτρονικού ταχυδρομείου.
 

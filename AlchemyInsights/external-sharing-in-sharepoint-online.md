@@ -1,7 +1,7 @@
 ---
 title: Εξωτερική κοινή χρήση στο SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735965"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049769"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Εξωτερική κοινή χρήση στο SharePoint Online
 
-Εάν ο οργανισμός σας εκτελεί εργασία που περιλαμβάνει την κοινή χρήση εγγράφων ή συνεργάζεται απευθείας με προμηθευτές, υπολογιστές-πελάτες ή πελάτες, τότε μπορείτε να χρησιμοποιήσετε τις [εξωτερικές δυνατότητες κοινής χρήσης του SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) για να μοιραστείτε περιεχόμενο με άτομα εκτός του Οργάνωση.
+Εάν ο οργανισμός σας εκτελεί εργασία που περιλαμβάνει την κοινή χρήση εγγράφων ή τη συνεργασία απευθείας με προμηθευτές, υπολογιστές-πελάτες ή πελάτες, μπορείτε να χρησιμοποιήσετε τις [εξωτερικές δυνατότητες κοινής χρήσης του SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) για να κάνετε κοινή χρήση περιεχομένου με άτομα εκτός του οργανισμού σας.
 
 Για περισσότερες πληροφορίες σχετικά με την εξωτερική κοινή χρήση, επισκεφτείτε τους παρακάτω συνδέσμους:
 

@@ -1,7 +1,7 @@
 ---
-title: Απενεργοποίηση OneDrive
-ms.author: efrene
-author: efrene
+title: Απενεργοποίηση του OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512883"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052937"
 ---
-# <a name="disable-onedrive"></a>Απενεργοποίηση OneDrive
+# <a name="disable-onedrive"></a>Απενεργοποίηση του OneDrive
 
-Υπάρχουν πολλοί τρόποι που μπορείτε να απενεργοποιήσετε την πρόσβαση σε OneDrive και τις υπηρεσίες ανάλογα με τις ανάγκες της επιχείρησής σας:
+Υπάρχουν διάφοροι τρόποι με τους οποίους μπορείτε να απενεργοποιήσετε την πρόσβαση στο OneDrive και τις υπηρεσίες του ανάλογα με τις επιχειρηματικές σας ανάγκες:
 
-[Αποσύνδεση, να αποκρύψετε ή να καταργήσετε την εγκατάσταση της εφαρμογής OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Αποσύνδεση, απόκρυψη ή απεγκατάσταση της εφαρμογής OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Επιτρέπονται μόνο το συγχρονισμό για συγκεκριμένα τους οργανισμούς](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Να επιτρέπεται ο συγχρονισμός μόνο για συγκεκριμένους οργανισμούς](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[Απενεργοποιήσετε τη δημιουργία τοποθεσίας OneDrive για ορισμένους χρήστες](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[Απενεργοποίηση της δημιουργίας τοποθεσίας OneDrive για ορισμένους χρήστες](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Έλεγχος της πρόσβασης σε ηλεκτρονική SharePoint και OneDrive δεδομένα με βάση τη θέση δικτύου](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Έλεγχος της πρόσβασης στα δεδομένα του SharePoint Online και OneDrive με βάση τη θέση δικτύου](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Απενεργοποίηση προσωπικών OneDrive συγχρονισμού](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Απενεργοποίηση προσωπικού συγχρονισμού OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Διαχείριση συνδέσεων από συσκευές των Windows για να OneDrive και άλλες υπηρεσίες](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Διαχείριση συνδέσεων από συσκευές Windows σε OneDrive και άλλες υπηρεσίες](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

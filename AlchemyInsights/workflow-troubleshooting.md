@@ -1,7 +1,7 @@
 ---
 title: Αντιμετώπιση προβλημάτων ροής εργασίας
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558077"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049301"
 ---
 # <a name="workflow-troubleshooting"></a>Αντιμετώπιση προβλημάτων ροής εργασίας
 
-Για πληροφορίες σχετικά με τον εντοπισμό σφαλμάτων σε ροές εργασιών του SharePoint, ελέγξτε τα εξής:
-- Εντοπισμός σφαλμάτων ροές εργασίας μοιάζει με αυτή των προηγούμενων εκδόσεων.  Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [ροές εργασιών του SharePoint με τον εντοπισμό σφαλμάτων](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Για περισσότερες πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων του SharePoint Server σφάλματα επικύρωσης ροής εργασίας](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Για πληροφορίες σχετικά με τον εντοπισμό σφαλμάτων ροών εργασίας του SharePoint, εξετάστε τα εξής:
+- Ροές εργασίας εντοπισμού σφαλμάτων μοιάζει με αυτή των προηγούμενων εκδόσεων.  Για περισσότερες πληροφορίες, ανατρέξτε στο στοιχείο [Εντοπισμός σφαλμάτων ροών εργασίας SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- Για περισσότερες πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων, ανατρέξτε στο θέμα [αντιμετώπιση σφαλμάτων επικύρωσης ροής εργασίας του SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Σχετικά θέματα
-Θέλετε να δοκιμάσετε τη ροή της Microsoft με την ηλεκτρονική του SharePoint;
+Θέλετε να δοκιμάσετε το Microsoft Flow στο SharePoint Online;
 - [Δημιουργία ροής](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [Του SharePoint και ροής](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint και ροή](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 
