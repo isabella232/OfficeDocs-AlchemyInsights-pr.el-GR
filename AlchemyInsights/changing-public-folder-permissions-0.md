@@ -1,9 +1,8 @@
 ---
-title: Αλλαγή των δικαιωμάτων του δημόσιου φακέλου
+title: Αλλαγή δικαιωμάτων δημόσιου φακέλου
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631711"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022197"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="faa9d-102">Αλλαγή των δικαιωμάτων του δημόσιου φακέλου</span><span class="sxs-lookup"><span data-stu-id="faa9d-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="aab6c-102">Αλλαγή δικαιωμάτων δημόσιου φακέλου</span><span class="sxs-lookup"><span data-stu-id="aab6c-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="faa9d-103">Δικαιώματα δημόσιου φακέλου μπορεί να αλλάξει από τους χρήστες και διαχειριστές στο Outlook.</span><span class="sxs-lookup"><span data-stu-id="faa9d-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="faa9d-104">Οι διαχειριστές μπορούν επίσης να ελέγχετε δικαιώματα από το Exchange Admin κέντρο (ΕΚΟ), κάνοντας τα εξής:</span><span class="sxs-lookup"><span data-stu-id="faa9d-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
+<span data-ttu-id="aab6c-103">Τα δικαιώματα δημόσιου φακέλου μπορούν να αλλάξουν από χρήστες και διαχειριστές στο Outlook.</span><span class="sxs-lookup"><span data-stu-id="aab6c-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="aab6c-104">Οι διαχειριστές μπορούν επίσης να ελέγχουν τα δικαιώματα από το κέντρο διαχείρισης Exchange (ΑΗΚ), κάνοντας τα εξής:</span><span class="sxs-lookup"><span data-stu-id="aab6c-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
   
-1. <span data-ttu-id="faa9d-105">Κέντρο διαχείρισης στο το Microsoft 365, μεταβείτε στο **Κέντρο διαχείρισης** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="faa9d-105">IIn the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="aab6c-105">Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στην \> **ανταλλαγή** **κέντρων διαχείρισης** .</span><span class="sxs-lookup"><span data-stu-id="aab6c-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="faa9d-106">Επιλέξτε **τους δημόσιους φακέλους**.</span><span class="sxs-lookup"><span data-stu-id="faa9d-106">Select **Public folders**.</span></span>
+2. <span data-ttu-id="aab6c-106">Επιλέξτε **δημόσιους φακέλους**.</span><span class="sxs-lookup"><span data-stu-id="aab6c-106">Select **Public folders**.</span></span>
 
-3. <span data-ttu-id="faa9d-107">Από εκεί, μπορείτε να αλλάξετε τα δικαιώματα για μεμονωμένους δημόσιους φακέλους, αντιστοιχίζοντας τις ομάδες ασφαλείας στα δικαιώματα.</span><span class="sxs-lookup"><span data-stu-id="faa9d-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="faa9d-108">Για τον τελικό χρήστη για να αλλάξετε τα δικαιώματα σε δημόσιους φακέλους, ο χρήστης πρέπει να έχετε δικαιώματα κατόχου στο φάκελο.</span><span class="sxs-lookup"><span data-stu-id="faa9d-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+3. <span data-ttu-id="aab6c-107">Από εκεί, μπορείτε να αλλάξετε τα δικαιώματα για μεμονωμένους δημόσιους φακέλους, αναθέτοντας ομάδες ασφαλείας σε δικαιώματα.</span><span class="sxs-lookup"><span data-stu-id="aab6c-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="aab6c-108">Για να αλλάξει ο τελικός χρήστης τα δικαιώματα του δημόσιου φακέλου, ο χρήστης πρέπει να έχει δικαιώματα κατόχου στο φάκελο.</span><span class="sxs-lookup"><span data-stu-id="aab6c-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="aab6c-109">Υπάρχουν αρκετά γνωστά ζητήματα που ενδέχεται να αντιμετωπίσετε κατά την προσπάθειά σας να αλλάξετε τα δικαιώματα σε δημόσιους φακέλους.</span><span class="sxs-lookup"><span data-stu-id="aab6c-109">There are several known issues you might encounter when you try to change permissions on public folders.</span></span> <span data-ttu-id="aab6c-110">Για περισσότερες πληροφορίες, ανατρέξτε στα ακόλουθα άρθρα.</span><span class="sxs-lookup"><span data-stu-id="aab6c-110">See the following articles for more information.</span></span>
+>
+> [<span data-ttu-id="aab6c-111">Δεν είναι δυνατή η εφαρμογή δικαιωμάτων σε υποφακέλους δημόσιου φακέλου στην ΑΗΚ</span><span class="sxs-lookup"><span data-stu-id="aab6c-111">Can’t apply permissions to public folder subfolders in EAC</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> [<span data-ttu-id="aab6c-112">Εμφανίζεται το μήνυμα λάθους "το γραμματοκιβώτιο δεν βρέθηκε στο τοπικό σύμπλεγμα δομών" κατά την πρόσβαση σε δημόσιους φακέλους</span><span class="sxs-lookup"><span data-stu-id="aab6c-112">"The mailbox is not found in the local forest" error when you access public folders</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
