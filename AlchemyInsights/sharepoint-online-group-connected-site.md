@@ -1,5 +1,5 @@
 ---
-title: Προσθήκη ομάδας σε μια τοποθεσία του SharePoint
+title: Προσθήκη ομάδας σε τοποθεσία του SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,30 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 14ad9dd094902c85eaf0398c76003cea20ad4c0a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051101"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770351"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Ζητήματα κατά τη δημιουργία ή την ομαδοποίηση συνδεδεμένων τοποθεσιών στο SharePoint Online
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Ζητήματα κατά τη δημιουργία μιας ομάδας συνδεδεμένη τοποθεσία στο SharePoint
 
-Υπάρχουν μερικά συνηθισμένα ζητήματα που παρουσιάστηκαν κατά τη δημιουργία ή την εκ νέου δημιουργία μιας ομάδας συνδεδεμένων τοποθεσιών.
+1. Ορισμένα συνηθισμένα ζητήματα που παρουσιάζονται κατά τη δημιουργία ή την εκ νέου δημιουργία μιας ομάδας συνδεδεμένης τοποθεσίας.
+Εάν έχετε διαγράψει μια ομάδα και τη συνδεδεμένη τοποθεσία της και θέλετε να δημιουργήσετε μια άλλη τοποθεσία με την ίδια διεύθυνση URL, θα πρέπει να καταργήσετε μόνιμα την προηγούμενη τοποθεσία.
 
- Εάν έχετε διαγράψει μια ομάδα και τη συνδεδεμένη τοποθεσία της και θέλετε να δημιουργήσετε μια άλλη τοποθεσία με την ίδια διεύθυνση URL, θα πρέπει να καταργήσετε οριστικά την προηγούμενη τοποθεσία.
+   - Κατεβάστε το [κέλυφος διαχείρισης SPO](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Για περισσότερες πληροφορίες σχετικά με τα γρήγορα αποτελέσματα με το PowerShell, δείτε [γρήγορα αποτελέσματα με το κέλυφος διαχείρισης του SharePoint Online](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
+   - Καταργήστε την τοποθεσία από διαγραμμένες τοποθεσίες χρησιμοποιώντας το cmdlet [Κατάργηση-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell. Απαιτείται PowerShell για τη μόνιμη διαγραφή τοποθεσιών ομάδας.
 
-Κατεβάστε το [κέλυφος διαχείρισης του Μπίσπο](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+1. Εάν δημιουργείτε μια ομάδα συνδεδεμένη τοποθεσία και λαμβάνετε μια προειδοποίηση: **υπάρχει ήδη μια άλλη ομάδα με το ίδιο ψευδώνυμο**, ελέγξτε τις υπάρχουσες ομάδες από το [Office 365 από το κέντρο διαχείρισης](https://admin.microsoft.com/AdminPortal/Home#/groups). Για να επιλύσετε αυτό το ζήτημα, διαγράψτε την υπάρχουσα ομάδα, εάν δεν είναι πλέον απαραίτητη ή δημιουργήστε την τοποθεσία με ένα διαφορετικό ψευδώνυμο αντιστοιχισμένο.
 
- Για περισσότερες πληροφορίες σχετικά με γρήγορα αποτελέσματα με PowerShell, δείτε [γρήγορα αποτελέσματα με το SharePoint Online κέλυφος διαχείρισης](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+1. Υπάρχουν διάφοροι τρόποι για να δημιουργήσετε και να χρησιμοποιήσετε σύγχρονες ομάδες με το SharePoint.
 
-Κατάργηση της τοποθεσίας από διαγραμμένες τοποθεσίες χρησιμοποιώντας το cmdlet PowerShell [Διαγραφή τοποθεσίας](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) .
-
-Εάν δημιουργείτε μια τοποθεσία συνδεδεμένη σε ομάδα και λαμβάνετε μια προειδοποίηση μια άλλη ομάδα με το ίδιο ψευδώνυμο υπάρχει ήδη, ελέγξτε τις υπάρχουσες ομάδες από το [Office 365 από το κέντρο διαχείρισης](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Για να επιλύσετε αυτό το ζήτημα, διαγράψτε την υπάρχουσα ομάδα, εάν δεν είναι πλέον απαραίτητη ή δημιουργήστε την τοποθεσία με διαφορετικό ψευδώνυμο που έχει αντιστοιχιστεί.
-
-Υπάρχουν διαφορετικοί τρόποι για να δημιουργήσετε και να χρησιμοποιήσετε σύγχρονες ομάδες με το SharePoint.
-
-Μπορείτε να συνδέσετε υπάρχουσες τοποθεσίες σε μια ομάδα του Office 365. Για περισσότερες πληροφορίες, ανατρέξτε [στο αρχείο σύνδεση μιας ομάδας του Office 365 χρησιμοποιώντας το χρήστη του SharePoint το ineterface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-
-Για να δημιουργήσετε μια συνδεδεμένη τοποθεσία της ομάδας Office 365, θα πρέπει να δημιουργήσετε μια τοποθεσία ομάδας. Για περισσότερες πληροφορίες, ανατρέξτε [στο σημείο δημιουργία μιας τοποθεσίας ομάδας στο SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
-
+   - Μπορείτε να συνδέσετε υπάρχουσες τοποθεσίες σε μια ομάδα του Office 365. Για περισσότερες πληροφορίες, ανατρέξτε [στο σημείο σύνδεση μιας ομάδας του Office 365 χρησιμοποιώντας το περιβάλλον εργασίας χρήστη του SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Για να δημιουργήσετε μια συνδεδεμένη τοποθεσία του Office 365 Group, θα πρέπει να δημιουργήσετε μια [τοποθεσία ομάδας](https://admin.microsoft.com/sharepoint).

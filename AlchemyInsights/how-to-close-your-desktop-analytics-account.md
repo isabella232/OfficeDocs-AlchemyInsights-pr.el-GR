@@ -1,5 +1,5 @@
 ---
-title: Πώς μπορείτε να κλείσετε το λογαριασμό σας Analytics επιφάνειας εργασίας
+title: Τρόπος κλεισίματος του λογαριασμού σας στην επιφάνεια εργασίας Analytics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541712"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771035"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Πώς μπορείτε να κλείσετε το λογαριασμό σας Analytics επιφάνειας εργασίας
+# <a name="how-to-close-your-desktop-analytics-account"></a>Τρόπος κλεισίματος του λογαριασμού σας στην επιφάνεια εργασίας Analytics
 
-Εάν ορίσετε την ανάλυση της επιφάνειας εργασίας στο περιβάλλον σας και, στη συνέχεια, αποφασίσετε να πρέπει να το καταργήσετε, χρησιμοποιήστε τη διαδικασία στην ακόλουθη σύνδεση:
+Εάν ρυθμίσετε την ανάλυση επιφάνειας εργασίας στο περιβάλλον σας και, στη συνέχεια, αποφασίσετε ότι πρέπει να την καταργήσετε, χρησιμοποιήστε τη διαδικασία στην ακόλουθη σύνδεση:
 
-[Πώς μπορείτε να κλείσετε το λογαριασμό σας](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[Πώς να κλείσετε το λογαριασμό σας](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Το πρώτο βήμα είναι να επικοινωνήσετε με την υποστήριξη της Microsoft. Ανοίξτε μια υπόθεση υποστήριξης για να κλείσετε το λογαριασμό σας Analytics επιφάνεια εργασίας. Μην συνεχίσετε με πρόσθετα βήματα μέχρι να λάβετε επιβεβαίωση ότι η Microsoft κλείσει το λογαριασμό σας.
+Το πρώτο βήμα είναι να επικοινωνήσετε με την υποστήριξη της Microsoft. Ανοίξτε μια υπόθεση υποστήριξης για να κλείσετε το λογαριασμό σας στο Desktop Analytics. Μην συνεχίσετε με πρόσθετα βήματα μέχρι να λάβετε επιβεβαίωση ότι η Microsoft έκλεισε το λογαριασμό σας.
