@@ -1,5 +1,5 @@
 ---
-title: Παρακολούθηση ή κατάργηση της παρακολούθησης μιας τοποθεσίας του SharePoint
+title: Ακολουθήστε ή un-ακολουθήστε μια τοποθεσία του SharePoint
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611697"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855551"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="f73d8-102">Παρακολούθηση ή κατάργηση της παρακολούθησης μιας τοποθεσίας του SharePoint</span><span class="sxs-lookup"><span data-stu-id="f73d8-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="ecdf0-102">Ακολουθήστε ή un-ακολουθήστε μια τοποθεσία του SharePoint</span><span class="sxs-lookup"><span data-stu-id="ecdf0-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="f73d8-103">Υπάρχουν πολλοί τρόποι για να βρείτε και να ακολουθήσετε τοποθεσίες, ειδήσεις και περιεχόμενο που σας ενδιαφέρουν στο SharePoint.</span><span class="sxs-lookup"><span data-stu-id="f73d8-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="f73d8-104">Αυτό θα σας επιτρέψει να βρείτε τις πληροφορίες εύκολα στη λίστα σας και να σας επιτρέψει να δείτε τη δραστηριότητα από το SharePoint.</span><span class="sxs-lookup"><span data-stu-id="f73d8-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="ecdf0-103">Εάν οι χρήστες αντιμετωπίζουν ζητήματα που ακολουθούν ή δεν ακολουθούν τους πόρους του SharePoint, ολοκληρώστε τα εξής βήματα:</span><span class="sxs-lookup"><span data-stu-id="ecdf0-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="f73d8-105">Παρακολουθήστε το βίντεο για να [βρείτε και να παρακολουθήσετε ιστοσελίδες και ειδήσεις](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="f73d8-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="f73d8-106">Εάν δεν μπορείτε να ακολουθήσετε ή να μη ακολουθήσετε μια τοποθεσία, νέα ή περιεχόμενο και αισθανθείτε ότι τα αποτελέσματα δεν είναι αυτά που αναμένονται, δείτε αν το ζήτημα σχετίζεται με έναν μόνο χρήστη ή με όλους τους χρήστες του οργανισμού σας.</span><span class="sxs-lookup"><span data-stu-id="f73d8-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="f73d8-107">Εάν το ζήτημα παρουσιαστεί από όλους τους χρήστες, ενδέχεται να υπάρχει ένα ζήτημα προσωρινής υπηρεσίας.</span><span class="sxs-lookup"><span data-stu-id="f73d8-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="f73d8-108">Ελέγξτε τον [πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , για να δείτε αν επηρεάζεται ο οργανισμός σας.</span><span class="sxs-lookup"><span data-stu-id="f73d8-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="ecdf0-104">Ζητήστε από το χρήστη να αποσυνδεθείτε και να υπογράψετε ξανά στο SharePoint και να δοκιμάσετε τα ίδια βήματα για να ακολουθήσετε/μην ακολουθήσετε τον πόρο του SharePoint.</span><span class="sxs-lookup"><span data-stu-id="ecdf0-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="ecdf0-105">Προσδιορίστε εάν το ζήτημα είναι με μια συγκεκριμένη τοποθεσία ή όλες τις τοποθεσίες.</span><span class="sxs-lookup"><span data-stu-id="ecdf0-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="ecdf0-106">Εάν το ζήτημα παρουσιάζεται με συγκεκριμένες τοποθεσίες, βεβαιωθείτε ότι η δυνατότητα "παρακάτω περιεχόμενο" είναι ενεργή για την τοποθεσία, μεταπηγαίνοντας στις **Ρυθμίσεις τοποθεσίας > διαχειριστείτε τις δυνατότητες της τοποθεσίας > ακόλουθο περιεχόμενο**.</span><span class="sxs-lookup"><span data-stu-id="ecdf0-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="ecdf0-107">Εάν η δυνατότητα έχει οριστεί σε ενεργή, δοκιμάστε να απενεργοποιήσετε και να ενεργοποιήσετε ξανά τη δυνατότητα για την τοποθεσία.</span><span class="sxs-lookup"><span data-stu-id="ecdf0-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="ecdf0-108">Ζητήστε από το χρήστη να δοκιμάσει ένα διαφορετικό πρόγραμμα περιήγησης στο Internet για να διαπιστώσετε εάν το ζήτημα αφορά συγκεκριμένα το πρόγραμμα περιήγησης του χρήστη.</span><span class="sxs-lookup"><span data-stu-id="ecdf0-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="ecdf0-109">Εάν όλοι οι χρήστες και όλες οι τοποθεσίες αντιμετωπίζουν το ίδιο ζήτημα, ελέγξτε τον [πίνακα εργαλείων εύρυθμης](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) λειτουργίας της υπηρεσίας, για να διαπιστώσετε εάν ο οργανισμός σας επηρεάζεται.</span><span class="sxs-lookup"><span data-stu-id="ecdf0-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
