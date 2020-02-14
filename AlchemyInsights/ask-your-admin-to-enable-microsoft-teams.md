@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328785"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962297"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Είσαι αγνοούμενος! Ζητήστε από το διαχειριστή σας να ενεργοποιήσει τις ομάδες της Microsoft
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Χάνετε! Ζητήστε από το διαχειριστή σας να ενεργοποιήσει τις ομάδες της Microsoft
 
-Οι καθηγητές και το προσωπικό είναι σε θέση να έχουν πρόσβαση σε ομάδες αλλά οι μαθητές δεν μπορούν, ή είναι οι χρήστες με άδεια F1 που δεν μπορούν να έχουν πρόσβαση στις ομάδες;
+Οι καθηγητές και το προσωπικό είναι σε θέση να έχουν πρόσβαση σε ομάδες, αλλά οι μαθητές δεν μπορούν, ή είναι F1 εξουσιοδοτημένους χρήστες σας σε θέση να έχουν πρόσβαση ομάδες;
 
-Οι ομάδες πρέπει να είναι ρητά ενεργοποιημένες για φοιτητές και άδειες F1. Για οδηγίες, ανατρέξτε στην [τοποθεσία Office 365 οι λογαριασμοί φοιτητών και υπηρεσιών δεν είναι δυνατό να εισέλθετε στις ομάδες της Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in). 
-
-Μπορείτε να βρείτε λεπτομερέστερες οδηγίες σχετικά με τον τρόπο ενεργοποίησης των ομάδων για το σχολείο σας στη [Διαμόρφωση ομάδων για την εκπαίδευση](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+Οι ομάδες πρέπει να είναι ρητά ενεργοποιημένες για φοιτητές και F1 άδειες. Μπορείτε να βρείτε πιο λεπτομερείς οδηγίες για το πώς να ενεργοποιήσετε τις ομάδες για το σχολείο σας στη [Διαμόρφωση ομάδων για την εκπαίδευση](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
