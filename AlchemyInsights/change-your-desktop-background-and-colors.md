@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή του φόντου και των χρωμάτων της επιφάνειας εργασίας
+title: Αλλαγή φόντου και χρωμάτων επιφάνειας εργασίας
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063660"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581421"
 ---
-# <a name="change-your-desktop-background-and-colors"></a><span data-ttu-id="8b206-102">Αλλαγή του φόντου και των χρωμάτων της επιφάνειας εργασίας</span><span class="sxs-lookup"><span data-stu-id="8b206-102">Change your desktop background and colors</span></span>
+# <a name="change-your-desktop-background-and-colors"></a><span data-ttu-id="7d508-102">Αλλαγή φόντου και χρωμάτων επιφάνειας εργασίας</span><span class="sxs-lookup"><span data-stu-id="7d508-102">Change your desktop background and colors</span></span>
 
-<span data-ttu-id="8b206-103">Για να αλλάξετε τη ρύθμιση χρωμάτων, **Επιλέξτε Έναρξη** > **χρωμάτων\*\*\*\*εξατομίκευσης** > **ρυθμίσεων** > και, στη συνέχεια, επιλέξτε το δικό σας χρώμα ή αφήστε τα Windows να τραβήξουν ένα χρώμα έμφασης από το φόντο σας.</span><span class="sxs-lookup"><span data-stu-id="8b206-103">To change your colors setting, select **Start** > **Settings** > **Personalization** > **Colors**, and then choose your own color or let Windows pull an accent color from your background.</span></span>
+<span data-ttu-id="7d508-103">Για να αλλάξετε τη ρύθμιση χρωμάτων, **μεταβείτε** > στην ενότητα Έναρξη**χρωμάτων\*\*\*\*εξατομίκευσης** > **ρυθμίσεων** > και, στη συνέχεια, επιλέξτε το δικό σας χρώμα ή αφήστε τα Windows να τραβήξουν ένα χρώμα έμφασης από το φόντο σας.</span><span class="sxs-lookup"><span data-stu-id="7d508-103">To change your colors setting, go to **Start** > **Settings** > **Personalization** > **Colors**, and then choose your own color or let Windows pull an accent color from your background.</span></span>
 
-<span data-ttu-id="8b206-104">Για να αλλάξετε το φόντο της επιφάνειας εργασίας σας, επιλέξτε **Έναρξη** > \*\*\*\* > **εξατομίκευσης** > ρυθμίσεις**φόντου**και, στη συνέχεια, επιλέξτε μια εικόνα, αμιγές χρώμα, ή να δημιουργήσετε μια παρουσίαση εικόνων.</span><span class="sxs-lookup"><span data-stu-id="8b206-104">To change your desktop background, select **Start** > **Settings** > **Personalization** > **Background**, and then select a picture, solid color, or create a slideshow of pictures.</span></span> <span data-ttu-id="8b206-105">Θέλετε περισσότερα φόντα επιφάνειας εργασίας και χρώματα;</span><span class="sxs-lookup"><span data-stu-id="8b206-105">Want more desktop backgrounds and colors?</span></span> <span data-ttu-id="8b206-106">Επισκεφτείτε το [κατάστημα της Microsoft](https://www.microsoft.com/en-us/store/collections/windowsthemes) για να επιλέξετε από τις δωδεκάδες των ελεύθερων θεμάτων.</span><span class="sxs-lookup"><span data-stu-id="8b206-106">Visit [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) to choose from dozens of free themes.</span></span>
+![Εξατομικεύστε τα χρώματά σας στα Windows.](media/windows-personalization-colors.png)
+
+<span data-ttu-id="7d508-105">Για να αλλάξετε το φόντο της επιφάνειας εργασίας σας, **μεταβείτε** > στην επιλογή Έναρξη φόντου > **εξατομίκευσης** > \*\*\*\*\*\*ρυθμίσεων\*\*και, στη συνέχεια, επιλέξτε μια εικόνα, συμπαγές χρώμα ή δημιουργήστε μια παρουσίαση εικόνων.</span><span class="sxs-lookup"><span data-stu-id="7d508-105">To change your desktop background, go to **Start** > **Settings** > **Personalization** > **Background**, and then choose a picture, solid color, or create a slideshow of pictures.</span></span> 
+
+![Αλλάξτε το φόντο της επιφάνειας εργασίας των Windows.](media/windows-desktop-background.png)
+
+<span data-ttu-id="7d508-107">Θέλετε περισσότερα φόντα και χρώματα επιφάνειας εργασίας;</span><span class="sxs-lookup"><span data-stu-id="7d508-107">Want more desktop backgrounds and colors?</span></span> <span data-ttu-id="7d508-108">Επισκεφθείτε το [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) για να επιλέξετε ανάμεσα σε δεκάδες δωρεάν θέματα.</span><span class="sxs-lookup"><span data-stu-id="7d508-108">Visit [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) to choose from dozens of free themes.</span></span>
