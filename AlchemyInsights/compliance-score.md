@@ -11,30 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: f220dad10c5278ff2e303dbe8e24385bfdaa9589
-ms.sourcegitcommit: 5ac1d37e2f55c5427960caa04265c244b91967ab
+ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42090036"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600354"
 ---
 # <a name="compliance-score"></a>Βαθμολογία συμμόρφωσης
 
-Η βαθμολογία συμμόρφωσης της Microsoft (Preview) είναι μια δυνατότητα του Microsoft 365 που σας βοηθά να μετρήσετε τη στάση συμμόρφωσης του οργανισμού σας. Χρησιμοποιεί μια βαθμολογία βάσει του κινδύνου με βάση την πρόοδό σας για την εφαρμογή δράσεων που σχετίζονται με τη συμμόρφωση.   Η βαθμολογία συμμόρφωσης είναι μια απλοποιημένη έκδοση του [διαχειριστή συμμόρφωσης](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-overview) και προσφέρει έναν ευκολότερο τρόπο για να εξετάσετε τη στάση συμμόρφωσης και να υλοποιήσετε ενέργειες για τη βελτίωσή της. 
+Ο Δείκτης συμμόρφωσης της Microsoft (Preview) είναι μια δυνατότητα στο Microsoft 365 που σας βοηθά να μετρήσετε τη στάση συμμόρφωσης του οργανισμού σας. Χρησιμοποιεί μια βαθμολογία βάσει κινδύνου με βάση την πρόοδό σας στην υλοποίηση δράσεων που σχετίζονται με τη συμμόρφωση.   Ο Δείκτης συμμόρφωσης είναι μια απλοποιημένη έκδοση του [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) και προσφέρει έναν ευκολότερο τρόπο για να εξετάσετε τη στάση συμμόρφωσης και να εφαρμόσετε ενέργειες για τη βελτίωσή της. 
 
-Ο καθολικός διαχειριστής θα πρέπει να ρυθμίσει τα κατάλληλα [δικαιώματα](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) στο κέντρο συμμόρφωσης της Microsoft για να αποκτήσει πρόσβαση στη βαθμολογία συμμόρφωσης.  Τα δικαιώματα που έχουν ρυθμιστεί προηγουμένως για τη διαχείριση συμμόρφωσης δεν θα μεταφερθούν στη βαθμολογία συμμόρφωσης.
+Ο καθολικός διαχειριστής θα πρέπει να ρυθμίσει τα κατάλληλα [δικαιώματα](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) στο κέντρο συμμόρφωσης της Microsoft για να αποκτήσει πρόσβαση στο Δείκτη συμμόρφωσης.  Τυχόν δικαιώματα που έχουν ρυθμιστεί προηγουμένως για τη Διαχείριση συμμόρφωσης δεν θα μεταφερθούν στο Δείκτη συμμόρφωσης.
 
-**Για να αποκτήσετε πρόσβαση Βαθμολογία συμμόρφωσης**
+**Για να αποκτήσετε πρόσβαση στο Δείκτη συμμόρφωσης**
 
-1. Μεταβείτε στο κέντρο συμμόρφωσης Microsoft 365 και **συνδεθείτε** με το λογαριασμό Microsoft 365 καθολικού διαχειριστή.
+1. Μεταβείτε στο κέντρο συμμόρφωσης microsoft 365 και **συνδεθείτε** με τον καθολικό λογαριασμό διαχειριστή microsoft 365.
 
-2. Επιλέξτε **Βαθμολογία συμμόρφωσης** στο αριστερό παράθυρο περιήγησης. Στη συνέχεια, θα πρέπει να δείτε το [ταμπλό βαθμολογίας συμμόρφωσης με τη βαθμολογία σας](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Επιλέξτε **Βαθμολογία συμμόρφωσης** στο αριστερό παράθυρο περιήγησης. Στη συνέχεια, θα πρέπει να δείτε [τον πίνακα εργαλείων βαθμολογίας συμμόρφωσης με τη βαθμολογία σας](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-**Για περισσότερες πληροφορίες σχετικά με**:
+**Για περισσότερες πληροφορίες σχετικά με:**
 
-- Ορισμός δικαιωμάτων πρόσβασης για τη βαθμολογία συμμόρφωσης, ανατρέξτε στο [θέματα Δώστε στους χρήστες πρόσβαση στο κέντρο συμμόρφωσης & ασφαλείας του Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Εργασία με ενέργειες βελτίωσης στη βαθμολογία συμμόρφωσης, δείτε [εργασία με βαθμολογία συμμόρφωσης](https://docs.microsoft.com/en-us/microsoft-365/compliance/working-with-compliance-score).
-- Πώς υπολογίζεται η βαθμολογία συμμόρφωσης, βλέπε [μεθοδολογία βαθμολογίας συμμόρφωσης](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-methodology).
-- Βαθμολογία συμμόρφωσης εναντίον του διαχειριστή συμμόρφωσης, δείτε [τη σχέση με τη διαχείριση συμμόρφωσης](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Ρύθμιση δικαιωμάτων πρόσβασης για το Δείκτη συμμόρφωσης, ανατρέξτε στο θέμα [Παροχή πρόσβασης στους χρήστες στο Κέντρο ασφαλείας & συμμόρφωσης του Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Εργασία με ενέργειες βελτίωσης στο Δείκτη συμμόρφωσης, ανατρέξτε στο θέμα [Εργασία με το Δείκτη συμμόρφωσης](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Τρόπος υπολογισμού του Δείκτη Συμμόρφωσης, ανατρέξτε στο θέμα [Μεθοδολογία βαθμολογίας συμμόρφωσης](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- Δείκτης συμμόρφωσης έναντι της Διαχείρισης συμμόρφωσης, ανατρέξτε στο θέμα [Διαχείριση σχέσεων με συμμόρφωση](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 

@@ -13,25 +13,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908745"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599484"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Ομάδες της Microsoft εγκαθίστανται με ενημερωμένες εκδόσεις του Office
+# <a name="microsoft-teams-installed-with-office-updates"></a>Ομάδες της Microsoft που εγκαθίστανται με ενημερωμένες εκδόσεις του Office
 
-Οι ομάδες της Microsoft περιλαμβάνονται ως μέρος των ***νέων εγκαταστάσεων*** του Office 365 ProPlus, Office 365 Business και Office για Mac. Για περισσότερες πληροφορίες, δείτε [πότε θα αρχίσουν να συμπεριλαμβάνονται οι ομάδες της Microsoft σε νέες εγκαταστάσεις του Office;](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Το Microsoft Teams περιλαμβάνεται ως μέρος ***νέων εγκαταστάσεων*** του Office 365 ProPlus, του Office 365 για Επιχειρήσεις και του Office για Mac. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Πότε θα αρχίσουν να περιλαμβάνονται οι ομάδες της Microsoft με νέες εγκαταστάσεις του Office;](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Επιπλέον, ξεκινώντας με την έκδοση 1906 στο μηνιαίο κανάλι, οι ομάδες θα προστεθούν σταδιακά σε ***υπάρχουσες εγκαταστάσεις*** του Office 365 ProPlus (και του Office 365 Business) σε συσκευές που εκτελούν Windows όταν ενημερώνετε την υπάρχουσα εγκατάσταση στην πιο πρόσφατη έκδοση. Για περισσότερες πληροφορίες, δείτε [Τι γίνεται με τις υπάρχουσες εγκαταστάσεις του Office;](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Επιπλέον, ξεκινώντας με την έκδοση 1906 στο Μηνιαίο κανάλι, οι ομάδες θα προστεθούν σταδιακά ***στις υπάρχουσες εγκαταστάσεις*** του Office 365 ProPlus (και του Office 365 για Επιχειρήσεις) σε συσκευές που εκτελούν Windows, όταν ενημερώνετε την υπάρχουσα εγκατάσταση στην πιο πρόσφατη έκδοση. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι γίνεται με τις υπάρχουσες εγκαταστάσεις του Office;](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
-**Σημείωση:** Εάν δεν θέλετε να περιμένετε αυτό το χρονοδιάγραμμα διάθεσης, μπορείτε να αναπτύξετε τις ομάδες ως αυτόνομες για τους χρήστες σας, [ακολουθώντας αυτές τις οδηγίες](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ή μπορείτε να κάνετε τους χρήστες να εγκαταστήσουν τις ομάδες https://teams.microsoft.com/downloadsαπό μόνες τους.
+**Σημείωση:** Εάν δεν θέλετε να περιμένετε αυτό το χρονοδιάγραμμα ανάπτυξης, μπορείτε να αναπτύξετε το Teams ως αυτόνομο για https://teams.microsoft.com/downloadsτους χρήστες σας [ακολουθώντας αυτές τις οδηγίες](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ή μπορείτε να ζητήσετε από τους χρήστες σας να εγκαταστήσουν το Teams για τον εαυτό τους από το .
 
-Εάν ο οργανισμός σας δεν είναι έτοιμος να αναπτύξει ομάδες, μπορείτε να ***εξαιρέσετε ομάδες*** από [νέες](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) ή [υπάρχουσες](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) εγκαταστάσεις του Office. Εάν θέλετε να εγκατασταθούν οι ομάδες, αλλά δεν θέλετε οι ομάδες να ξεκινούν αυτόματα για το χρήστη μετά την εγκατάστασή του, ανατρέξτε στην περίπτωση να [αποτρέψετε την αυτόματη εκκίνηση των ομάδων της Microsoft μετά την εγκατάσταση](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Εάν ο οργανισμός σας δεν είναι έτοιμος να αναπτύξει ομάδες, μπορείτε να ***εξαιρέσετε τις ομάδες*** από [νέες](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) ή [υπάρχουσες](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) εγκαταστάσεις του Office. Εάν θέλετε να εγκατασταθούν οι ομάδες, αλλά δεν θέλετε οι ομάδες να ξεκινούν αυτόματα για το χρήστη μετά την εγκατάστασή του, ανατρέξτε στο θέμα [Αποτροπή αυτόματης εκκίνησης των ομάδων της Microsoft μετά την εγκατάσταση](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
-Για να ***απεγκαταστήσετε ομάδες*** από μια συσκευή που εκτελεί Windows, δείτε την [εγκατάσταση ομάδων της Microsoft](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Για να καθαρίσετε τις ομάδες της Microsoft από πολλούς υπολογιστές προορισμού ή χρήστες, δείτε την [Εκκαθάριση ανάπτυξης ομάδων της Microsoft](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+Για να ***καταργήσετε την εγκατάσταση των ομάδων*** από μια συσκευή που εκτελεί Windows, ανατρέξτε στο θέμα [Κατάργηση εγκατάστασης των ομάδων της Microsoft](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Για να εκκαθαρίσετε τις ομάδες της Microsoft από πολλούς υπολογιστές ή χρήστες προορισμού, [ανατρέξτε](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)στο θέμα Εκκαθάριση ανάπτυξης του Microsoft Teams .
 
-Εάν χρησιμοποιείτε κοινόχρηστους υπολογιστές, υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) ή υποδομή εικονικής επιφάνειας εργασίας (ΗΜΑ), ανατρέξτε [στην τοποθεσία κοινόχρηστος υπολογιστής και περιβάλλοντα ηδε με τις ομάδες της Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Εάν χρησιμοποιείτε το Office για Mac, ανατρέξτε [στις εγκαταστάσεις των ομάδων της Microsoft σε Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Εάν χρησιμοποιείτε κοινόχρηστους υπολογιστές, υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) ή υποδομή εικονικής επιφάνειας εργασίας (VDI), ανατρέξτε στο θέμα [Κοινόχρηστα περιβάλλοντα υπολογιστή και VDI με το Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Εάν χρησιμοποιείτε το Office για Mac, ανατρέξτε στο θέμα [Εγκαταστάσεις του Microsoft Teams σε Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
-**Σημείωση:** Μετά την εγκατάσταση των ομάδων, [ενημερώνεται αυτόματα](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) περίπου κάθε δύο εβδομάδες με νέα χαρακτηριστικά και ποιοτικές ενημερώσεις. 
+**Σημείωση:** Μετά την εγκατάσταση του Teams, [ενημερώνεται αυτόματα](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) περίπου κάθε δύο εβδομάδες με νέες δυνατότητες και ενημερώσεις ποιότητας. 

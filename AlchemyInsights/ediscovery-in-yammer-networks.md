@@ -1,5 +1,5 @@
 ---
-title: ανακάλυψης σε δίκτυα Yammer
+title: eΑνακάλυψη σε δίκτυα Yammer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162912"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600600"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>ανακάλυψης σε δίκτυα Yammer
+# <a name="ediscovery-in-yammer-networks"></a>eΑνακάλυψη σε δίκτυα Yammer
 
-Τώρα μπορείτε να εκτελέσετε αναζητήσεις ανακάλυψης για περιεχόμενο Yammer στο Office 365.  Εκτέλεση αναζητήσεις ανακάλυψης ή εξαγωγή σε περιεχόμενο Yammer απαιτεί τα εξής:
+Τώρα μπορείτε να εκτελέσετε αναζητήσεις eDiscovery για περιεχόμενο Yammer στο Office 365.  Η εκτέλεση αναζητήσεων eDiscovery ή εξαγωγής περιεχομένου Yammer απαιτεί τα εξής:
 
-1. Πρέπει πρώτα να μετεγκαταστήσετε το Yammer Enterprise Network σε εγγενή λειτουργία για να κάνετε τα μηνύματα και τα αρχεία Yammer ανακαλυφθεί. **Σημείωση: Εάν είστε νέος πελάτης του Office 365 από την 9η ιανουαρίου 2020 και το δίκτυό σας Yammer βρίσκεται ήδη σε εγγενή κατάσταση λειτουργίας, τα δεδομένα σας είναι τώρα ανακαλυφθεί με ανακάλυψης**.
+1. Πρέπει πρώτα να μετεγκαταστήσετε το εταιρικό δίκτυο Yammer σε εγγενή λειτουργία για να κάνετε τα μηνύματα και τα αρχεία του Yammer να είναι ανιχνεύσιμα. **Σημείωση: εάν είστε νέος πελάτης του Office 365 από τις 9 Ιανουαρίου 2020 και το δίκτυο Yammer βρίσκεται ήδη σε εγγενή λειτουργία, τα δεδομένα σας είναι πλέον ανιχνεύσιμα με το eDiscovery**.
 
-2. Για την έξοδο από τους πελάτες, ανακάλυψης για το Yammer θα είναι διαθέσιμη μόλις κυκλοφορήσει το εργαλείο στοίχισης εγγενή κατάσταση λειτουργίας και ολοκληρώνεται η μετεγκατάσταση εγγενή λειτουργία για Yammer στον μισθωτή.
+2. Για έξοδο από τους πελάτες, το eDiscovery για Το Yammer θα είναι διαθέσιμο μόλις κυκλοφορήσει το εργαλείο στοίχισης εγγενούς λειτουργίας και ολοκληρωθεί η μετεγκατάσταση της εγγενούς κατάστασης λειτουργίας για το Yammer στο μισθωτή.
 
 Για περισσότερες πληροφορίες σχετικά με:
 
-- Εγγενής λειτουργία στο Yammer, δείτε: [Επισκόπηση της κατάστασης λειτουργίας εγγενή](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- ανακάλυψης σε δίκτυα Yammer, δείτε: [Επισκόπηση της ανακάλυψης σε δίκτυα Yammer](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- ανακάλυψης στο Office 365, ανατρέξτε [στην ηλεκτρονική ανακάλυψη στο office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery).
+- Εγγενής λειτουργία στο Yammer, ανατρέξτε στο θέμα: [Επισκόπηση της εγγενούς λειτουργίας](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery στα δίκτυα Yammer, δείτε: [Επισκόπηση του eDiscovery στα δίκτυα Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery στο Office 365, ανατρέξτε [στο eDiscovery στο Office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
