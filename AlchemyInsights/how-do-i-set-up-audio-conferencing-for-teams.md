@@ -1,24 +1,42 @@
 ---
-title: Πώς μπορώ να ρυθμίσετε τις διασκέψεις ήχου για τις ομάδες
+title: Πώς μπορώ να ρυθμίσω τη δυνατότητα "Διάσκεψη ήχου" για το Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: eb875a0659327e0669c449a4b16037f2c7fc0eb2
-ms.sourcegitcommit: 60166417054fddd68750f1ce5898af79d9de1dfa
-ms.translationtype: MT
+ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37383936"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692395"
 ---
-# <a name="phone-systems-and-audio-conferencing-for-teams"></a>Τηλεφωνικά συστήματα και διασκέψεις ήχου για ομάδες
+# <a name="microsoft-teams--audio-conferencing"></a>Microsoft teams – Διάσκεψη ήχου
 
-Για περισσότερες πληροφορίες σχετικά με τις συσκέψεις και τις διασκέψεις στις ομάδες της Microsoft, ανατρέξτε [στο θέμα συσκέψεις και διασκέψεις στις ομάδες της Microsoft](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page).
+Χρειάζεστε βοήθεια για την ενεργοποίηση ή ρύθμιση της δυνατότητας "Διάσκεψη ήχου" στο Microsoft Teams; Έχει δημιουργηθεί πρόσφατα αυτός ο χρήστης;  Εάν ναι, θα πρέπει να περιμένετε από 2 έως 24 ώρες για να τεθούν σε ισχύ οι ρυθμίσεις.    
+
+Για να επαληθεύσετε ότι ο χρήστης διαθέτει άδεια χρήσης για τη δυνατότητα "Διάσκεψη ήχου" και έναν "Προεπιλεγμένο αριθμό με χρέωση":
+
+1. Μεταβείτε στην επιλογή [Ενεργοί χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) και, στη συνέχεια, επιλέξτε τον συγκεκριμένο χρήστη.
+
+2. Ανάλογα με την έκδοση του κέντρου διαχείρισης, επιλέξτε είτε **Άδειες χρήσης και Εφαρμογές** είτε κάντε κλικ στην επιλογή **Επεξεργασία** στην περιοχή **Άδειες χρήσης προϊόντων**.
+
+3. Επιβεβαιώστε ότι ο χρήστης έχει επιλέξει άδειες χρήσης για **Διάσκεψη ήχου, Microsoft Teams** και για **Skype για επιχειρήσεις Online (Πρόγραμμα 2)**.
+
+4. Στα **Κέντρα διαχείρισης** χρηστών, κάντε κλικ στην επιλογή **Εμφάνιση όλων** και, στη συνέχεια, κάντε κλικ στην επιλογή **Teams**.
+
+5. Στο **Κέντρο διαχείρισης του Microsoft Teams** κάντε κλικ στην επιλογή **Πύλη παλαιού τύπου**.
+
+6. Στο **Κέντρο διαχείρισης του Skype για επιχειρήσεις** κάντε κλικ στην επιλογή **Διάσκεψη ήχου** και, στη συνέχεια, **Χρήστες**.
+
+7. Επιλέξτε τον συγκεκριμένο χρήστη και βεβαιωθείτε ότι διαθέτει έναν **Προεπιλεγμένο αριθμό με χρέωση**.
+
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προγράμματα κλήσεων για το Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ή καλέστε την ομάδα τιμολόγησης του Microsoft Commerce για να σας βοηθήσει με την αδειοδότηση σχετικών ερωτήσεων.
