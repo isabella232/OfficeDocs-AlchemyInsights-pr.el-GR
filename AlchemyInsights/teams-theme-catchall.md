@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856467"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030400"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Συνήθη προβλήματα και λύσεις του Teams
+
+**Σημαντικό**: λόγω της πρόσφατης αύξησης της χρήσης του Teams, όταν εκχωρείτε μια άδεια χρήσης του Teams σε ένα χρήστη, μπορεί να χρειαστούν περίπου 24 ώρες για να ρυθμιστεί πλήρως. Έως τότε, δεν θα μπορείτε να τους εκχωρήσετε πολιτικές του Teams και ενδέχεται να μην έχουν πρόσβαση σε ορισμένες δυνατότητες όπως οι κλήσεις και οι διασκέψεις μέσω ήχου.
+
+**Συνήθη προβλήματα και λύσεις**
 
 Για μια πιο συγκεκριμένη απάντηση, δοκιμάστε να αναδιατυπώσετε την ερώτησή σας για να συμπεριλάβετε τυχόν σφάλματα που βλέπετε ή δυνατότητες του Teams που χρησιμοποιείτε.
 
