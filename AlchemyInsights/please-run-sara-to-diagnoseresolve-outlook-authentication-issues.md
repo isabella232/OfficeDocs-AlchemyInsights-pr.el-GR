@@ -1,5 +1,5 @@
 ---
-title: 182 εκτελέστε SaRA για να διαγνώσετε και να επιλύσετε ζητήματα ελέγχου ταυτότητας του Outlook
+title: 182 Εκτελέστε το SaRA για να διαγνώσετε και να επιλύσετε ζητήματα ελέγχου ταυτότητας του Outlook
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752638"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059808"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="24943-102">Χρήση SaRA για τη διάγνωση και την επίλυση ζητημάτων ελέγχου ταυτότητας του Outlook</span><span class="sxs-lookup"><span data-stu-id="24943-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="fd163-102">Χρήση του SaRA για τη διάγνωση και την επίλυση ζητημάτων ελέγχου ταυτότητας του Outlook</span><span class="sxs-lookup"><span data-stu-id="fd163-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="24943-103">Σας συνιστούμε να χρησιμοποιήσετε το [Outlook συνεχίζει να ζητά τον κωδικό πρόσβασής μου](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) διαγνωστικών στον υπολογιστή που επηρεάζεται για την αντιμετώπιση ζητημάτων όπου το Outlook συνεχώς ζητά έναν κωδικό πρόσβασης.</span><span class="sxs-lookup"><span data-stu-id="24943-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="24943-104">Αυτό το διαγνωστικό της [SaRA](https://diagnostics.office.com/#/) κάνει αυτοματοποιημένους ελέγχους και επιστρέφει πιθανές λύσεις για να χρησιμοποιήσετε για την αντιμετώπιση τυχόν εντοπισθέντων ζητημάτων.</span><span class="sxs-lookup"><span data-stu-id="24943-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="fd163-103">**Σημείωση**: Ελέγξτε αν είναι ενεργοποιημένες [οι προεπιλογές ασφαλείας](http://aka.ms/securitydefaults) για τον οργανισμό σας.</span><span class="sxs-lookup"><span data-stu-id="fd163-103">**Note**: Please check to see whether [security defaults](http://aka.ms/securitydefaults) is enabled for your organization.</span></span> <span data-ttu-id="fd163-104">Εάν ο μισθωτής σας δημιουργήθηκε μετά τις 21 Οκτωβρίου 2019 και το Outlook σας ζητά επανειλημμένα έναν κωδικό πρόσβασης, ενδέχεται να έχετε **ενεργοποιήσει τις προεπιλογές ασφαλείας** στον μισθωτή σας.</span><span class="sxs-lookup"><span data-stu-id="fd163-104">If your tenant was created after October 21st, 2019 and your Outlook is repeatedly asking you for a password, you may have **security defaults** enabled in your tenant.</span></span>
+
+<span data-ttu-id="fd163-105">Συνιστάται ιδιαίτερα να χρησιμοποιείτε το [Outlook συνεχίζει να ζητά](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) διαγνωστικό κωδικό πρόσβασης στον υπολογιστή που επηρεάζεται για την αντιμετώπιση προβλημάτων όπου το Outlook ζητά συνεχώς έναν κωδικό πρόσβασης.</span><span class="sxs-lookup"><span data-stu-id="fd163-105">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="fd163-106">Αυτό το διαγνωστικό [SaRA](https://diagnostics.office.com/#/) κάνει αυτοματοποιημένους ελέγχους και επιστρέφει πιθανές λύσεις για να χρησιμοποιήσετε για την αντιμετώπιση τυχόν προβλημάτων που εντοπίστηκαν.</span><span class="sxs-lookup"><span data-stu-id="fd163-106">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
