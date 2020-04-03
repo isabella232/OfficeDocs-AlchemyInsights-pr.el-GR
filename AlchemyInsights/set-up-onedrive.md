@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση OneDrive
+title: Ρύθμιση του OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 6/8/2018
@@ -11,14 +11,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 4552d03c800bcb4a2f95db5beda5f4ab75ef03b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 47635cd7fbe55b4d5dc2d38259877a7c0e184b51
+ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509208"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43116333"
 ---
-# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="c7f67-102">Χρησιμοποιήστε το πρόγραμμα-πελάτης του OneDrive syn συγχρονισμός των αρχείων OneDrive ή στο SharePoint</span><span class="sxs-lookup"><span data-stu-id="c7f67-102">Use the OneDrive syn client to sync OneDrive or SharePoint files</span></span>
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="4d384-102">Χρήση του προγράμματος-πελάτη συγχρονισμού του OneDrive για το συγχρονισμό αρχείων του OneDrive ή του SharePoint</span><span class="sxs-lookup"><span data-stu-id="4d384-102">Use the OneDrive sync client to sync OneDrive or SharePoint files</span></span>
 
-<span data-ttu-id="c7f67-103">Μπορείτε να [συγχρονισμό σας OneDrive για επαγγελματική αρχεία](https://go.microsoft.com/fwlink/?linkid=533375) ή να [συγχρονίσετε αρχεία του SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) με τον υπολογιστή-πελάτη συγχρονισμού του OneDrive.</span><span class="sxs-lookup"><span data-stu-id="c7f67-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
+<span data-ttu-id="4d384-103">Μπορείτε να [συγχρονίσετε τα αρχεία του OneDrive για επιχειρήσεις](https://go.microsoft.com/fwlink/?linkid=533375) ή [να συγχρονίσετε αρχεία του SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) με το πρόγραμμα-πελάτη συγχρονισμού του OneDrive.</span><span class="sxs-lookup"><span data-stu-id="4d384-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
   
