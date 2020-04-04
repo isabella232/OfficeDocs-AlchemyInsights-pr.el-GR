@@ -1,5 +1,5 @@
 ---
-title: Προτάσεις για την επίλυση του OneNote 2016 λείπει
+title: Λείπουν προτάσεις για την επίλυση του OneNote 2016
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534419"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143025"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Προτάσεις για την επίλυση του OneNote 2016 λείπει
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Λείπουν προτάσεις για την επίλυση του OneNote 2016
 
-Μετά την εγκατάσταση του Microsoft Office 2019 ή Office 365 σε έναν Υπολογιστή που εκτελεί οποιαδήποτε έκδοση των Windows 10, το OneNote 2016 φαίνεται να λείπουν από τη λίστα των εγκατεστημένων εφαρμογών επιφάνειας εργασίας.
+Από τον Μάρτιο του 2020, κατά την εγκατάσταση του Office 365 ή του Office 2019, η εφαρμογή υπολογιστή OneNote θα εγκατασταθεί μαζί με τις εφαρμογές υπολογιστή Word, PowerPoint και Excel.
 
-Από προεπιλογή, Office 2019 και του Office 365 δεν εγκαθίσταται αυτόματα την έκδοση επιφάνειας εργασίας του OneNote 2016, αλλά αν εξακολουθεί να χρειάζεται ή προτιμάτε να χρησιμοποιήσετε αυτήν την έκδοση, να κάνετε λήψη ξεχωριστά και να χρησιμοποιήσετε πλευρά σας νέων εφαρμογών του Office 2019.
+Μετά την εγκατάσταση του Microsoft Office 2019 ή του Office 365 σε έναν υπολογιστή που εκτελεί οποιαδήποτε έκδοση των Windows 10, το OneNote 2016 φαίνεται να λείπει από τη λίστα των εγκατεστημένων εφαρμογών επιφάνειας εργασίας.
 
-Ακολουθήστε [αυτά τα βήματα](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) για περισσότερες πληροφορίες σχετικά με τον τρόπο για να κάνετε λήψη της έκδοσης 32-bit ή 64-bit του OneNote 2016 για Windows.
+Ακολουθήστε [αυτά τα βήματα](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) για περισσότερες πληροφορίες σχετικά με τον τρόπο λήψης της έκδοσης 32 bit ή 64 bit του OneNote 2016 για Windows.
