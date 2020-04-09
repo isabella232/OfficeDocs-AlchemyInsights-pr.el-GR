@@ -14,15 +14,15 @@ ms.custom:
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "42977438"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP δεν λειτουργεί όπως αναμένεται
 
-**Σημαντικό:** Κατά τη διάρκεια αυτών των πρωτοφανών χρόνων, λαμβάνουμε μέτρα για να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive παραμένουν ιδιαίτερα διαθέσιμες – Επισκεφθείτε [τις προσωρινές προσαρμογές δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
+**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
 
  **Ρύθμιση του DLP**
 
