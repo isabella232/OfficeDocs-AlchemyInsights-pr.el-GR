@@ -1,5 +1,5 @@
 ---
-title: Για να αλλάξετε τη συχνότητα πληρώνετε
+title: Αλλαγή της συχνότητας πληρωμής
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386901"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195018"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="32e30-102">Για να αλλάξετε τη συχνότητα πληρώνετε</span><span class="sxs-lookup"><span data-stu-id="32e30-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="210a8-102">Αλλαγή της συχνότητας πληρωμής</span><span class="sxs-lookup"><span data-stu-id="210a8-102">Change how often you pay</span></span>
 
- <span data-ttu-id="32e30-103">**Θέλετε να αλλάξετε την συχνότητα πληρωμής;**</span><span class="sxs-lookup"><span data-stu-id="32e30-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="32e30-104">Εάν θέλετε να αλλάξετε τη συχνότητα πληρώνετε για το Office 365 για εγγραφή επιχειρηματικής, είτε από ετήσια σε μηνιαία ή κάθε μήνα για ετήσια, να σας βοηθήσουμε με αυτήν.</span><span class="sxs-lookup"><span data-stu-id="32e30-104">If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="32e30-105">Θα πρέπει να αγοράσετε την ίδια εγγραφή με τη νέα συχνότητα πληρωμής και να ακυρώσετε τη συνδρομή παλιά.</span><span class="sxs-lookup"><span data-stu-id="32e30-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="32e30-106">Χρησιμοποιήστε την επιλογή "ας γίνει κλήσης" για να συνομιλήσετε με έναν μηχανικό υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="32e30-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="210a8-103">Όταν αγοράζετε μια συνδρομή, επιλέγετε μηνιαία ή ετήσια χρέωση.</span><span class="sxs-lookup"><span data-stu-id="210a8-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="210a8-104">Για να αλλάξετε τη συχνότητα χρέωσης για μια συνδρομή, ακολουθήστε τα παρακάτω βήματα.</span><span class="sxs-lookup"><span data-stu-id="210a8-104">To change how often you are billed for a subscription, use the following steps.</span></span>
+
+1. <span data-ttu-id="210a8-105">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα \*\* [Υπηρεσίες> προϊόντων χρέωσης &.](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\*</span><span class="sxs-lookup"><span data-stu-id="210a8-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+
+2. <span data-ttu-id="210a8-106">Βρείτε τη συνδρομή που θέλετε να αλλάξετε.</span><span class="sxs-lookup"><span data-stu-id="210a8-106">Find the subscription you want to change.</span></span> <span data-ttu-id="210a8-107">Στην ενότητα **Χρέωση,** δίπλα στην επιλογή **Τιμολόγηση μηνιαία** ή **Χρεωτιζόμενη ετησίως**, κάντε κλικ στην επιλογή **Επεξεργασία**.</span><span class="sxs-lookup"><span data-stu-id="210a8-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
+
+3. <span data-ttu-id="210a8-108">Ενεργοποιήστε την επιλογή για τη συχνότητα χρέωσης και, στη συνέχεια, επιλέξτε **Αλλαγή**.</span><span class="sxs-lookup"><span data-stu-id="210a8-108">Choose the option for how often you want to be billed, then select **Change**.</span></span>
