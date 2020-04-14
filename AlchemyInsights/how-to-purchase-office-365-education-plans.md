@@ -1,5 +1,5 @@
 ---
-title: Πώς να αγοράσετε σχέδια εκπαίδευσης του Office 365
+title: Τρόπος αγοράς προγραμμάτων του Office 365 για εκπαιδευτικά ιδρύματα
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390908"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286249"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="b9e3a-102">Πώς να αγοράσετε σχέδια εκπαίδευσης του Office 365</span><span class="sxs-lookup"><span data-stu-id="b9e3a-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="52a75-102">Τρόπος αγοράς προγραμμάτων του Office 365 για εκπαιδευτικά ιδρύματα</span><span class="sxs-lookup"><span data-stu-id="52a75-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="b9e3a-103">Που έχουν εγκριθεί για την εκπαίδευση του Office 365.</span><span class="sxs-lookup"><span data-stu-id="b9e3a-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="b9e3a-104">Για να προμηθευτείτε:</span><span class="sxs-lookup"><span data-stu-id="b9e3a-104">To purchase:</span></span>
-  
-1. <span data-ttu-id="b9e3a-105">Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [Υπηρεσιών αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="b9e3a-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+<span data-ttu-id="52a75-103">Το αίτημά σας για το Office 365 για εκπαιδευτικά ιδρύματα έχει εγκριθεί.</span><span class="sxs-lookup"><span data-stu-id="52a75-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="52a75-104">Για αγορά:</span><span class="sxs-lookup"><span data-stu-id="52a75-104">To purchase:</span></span>
 
-2. <span data-ttu-id="b9e3a-106">Επιλέξτε από τη λίστα στην περιοχή **Σχέδια εκπαίδευσης**.</span><span class="sxs-lookup"><span data-stu-id="b9e3a-106">Choose from the list under **Education Plans**.</span></span>
+1. <span data-ttu-id="52a75-105">Μεταβείτε στο μενού **[Χρέωση > Αγορά υπηρεσιών](https://portal.office.com/AdminPortal/Home#/catalog)**.</span><span class="sxs-lookup"><span data-stu-id="52a75-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
 
-3. <span data-ttu-id="b9e3a-107">Καταδείξτε με τη συνδρομή που θέλετε να αγοράσετε και επιλέξτε **Αγοράστε τώρα**.</span><span class="sxs-lookup"><span data-stu-id="b9e3a-107">Hover over the subscription you want to purchase, and choose **Buy Now**.</span></span>
+2. <span data-ttu-id="52a75-106">Κάντε την επιλογή σας από τη λίστα στην περιοχή **Προγράμματα για εκπαιδευτικά ιδρύματα**.</span><span class="sxs-lookup"><span data-stu-id="52a75-106">Choose from the list under **Education Plans**.</span></span>
+
+3. <span data-ttu-id="52a75-107">Μετακινήστε τον δείκτη επάνω από τη συνδρομή που θέλετε να αγοράσετε και επιλέξτε **Αγορά τώρα**.</span><span class="sxs-lookup"><span data-stu-id="52a75-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
+
+<span data-ttu-id="52a75-108">**Απομακρυσμένη διδασκαλία και μάθηση**</span><span class="sxs-lookup"><span data-stu-id="52a75-108">**Remote teaching and learning**</span></span>
+
+- <span data-ttu-id="52a75-109">Στη συνέχεια, ανατρέξτε στο θέμα [Απομακρυσμένη διδασκαλία και μάθηση στο Office 365 για εκπαιδευτικά ιδρύματα](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) για να μάθετε τις πιο ενημερωμένες οδηγίες σχετικά με τη ρύθμιση του σχολείου σας, τον προγραμματισμό μαθημάτων, την εικονική σύσκεψη και την κοινή χρήση περιεχομένου με τους μαθητές.</span><span class="sxs-lookup"><span data-stu-id="52a75-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
+
+- <span data-ttu-id="52a75-110">Υπάρχει πρόσθετη καθοδήγηση ΙΤ στα θέματα [Γρήγορα αποτελέσματα με το Microsoft Teams για απομακρυσμένη εκμάθηση](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) και [Μετάβαση στην απομακρυσμένη εκμάθηση](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="52a75-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
