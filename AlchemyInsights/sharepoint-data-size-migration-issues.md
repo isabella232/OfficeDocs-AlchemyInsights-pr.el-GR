@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958646"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552921"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Ζητήματα κατά τη μετεγκατάσταση δεδομένων στο SharePoint Online
-
-**Σημαντικό:** Κατά τη διάρκεια αυτών των πρωτοφανών χρόνων, λαμβάνουμε μέτρα για να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive παραμένουν ιδιαίτερα διαθέσιμες – Επισκεφθείτε [τις προσωρινές προσαρμογές δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
 
 **Μετεγκατάσταση δεδομένων άνω των 100 TB**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958646"
     - Εκτιμώμενο μέγεθος της μετεγκατάστασης.
     - Μια εκτίμηση για το πότε θέλετε να ξεκινήσετε και να ολοκληρώσετε τη μετεγκατάσταση.
     - Περιγράψτε από πού μετεγκαθιστάτε το περιεχόμενό σας, όπως sharePoint Server, Box, GDrive, Κοινόχρηστα στοιχεία αρχείων κ.λπ..
-
-
-  
-
