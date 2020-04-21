@@ -16,7 +16,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: el-GR
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591540"
+ms.locfileid: "43599282"
 ---
 # <a name="onedrive-storage-plans"></a>Προγράμματα χώρου αποθήκευσης του OneDrive
 
