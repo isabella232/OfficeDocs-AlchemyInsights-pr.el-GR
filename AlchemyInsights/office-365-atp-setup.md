@@ -1,29 +1,29 @@
 ---
-title: Το πρόγραμμα εγκατάστασης του Office 365 προστασία απειλή για προχωρημένους (ATP)
+title: Εγκατάσταση προστασίας από απειλές (ATP) του Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419908"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761670"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 για προχωρημένους απειλή προστασίας (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Προηγμένη προστασία από απειλές του Office 365 (ATP)
 
-ATP Office 365 περιλαμβάνει [Ασφαλή συνημμένα](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Ασφαλείς συνδέσεις](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Για προχωρημένους Anti-Phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)και άλλα. 
+Το Office 365 ATP περιλαμβάνει [ασφαλή συνημμένα, ασφαλείς](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) [συνδέσεις,](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links) [προηγμένα anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)και πολλά άλλα. 
 
-ATP περιλαμβάνεται σε εγγραφές, όπως E5 Enterprise του Office 365, A5 εκπαίδευσης του Office 365 και Microsoft 365 Business. Εάν η συνδρομή σας δεν περιλαμβάνει ATP, μπορείτε πιθανώς να αγοράσετε ATP ως ένα πρόσθετο. Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Περιγραφή της υπηρεσίας Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+Η υπηρεσία ATP περιλαμβάνεται σε συνδρομές, όπως το Office 365 για μεγάλες επιχειρήσεις E5, το Office 365 για εκπαιδευτικά ιδρύματα A5 και το Microsoft 365 Premium για Επιχειρήσεις. Εάν η συνδρομή σας δεν περιλαμβάνει ATP, μπορείτε ενδεχομένως να αγοράσετε ATP ως πρόσθετο. Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Περιγραφή υπηρεσίας ATP του Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Ορίσετε Office 365 ATP
+## <a name="set-up-office-365-atp"></a>Ρύθμιση atp του Office 365
 
-Για προστασία ATP να ισχύουν, πρέπει να ρυθμίσετε πολιτικές. Ανατρέξτε στην ενότητα [Οδηγός γρήγορης εκκίνησης: ρύθμιση προστασίας για προχωρημένους απειλή του Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Για να είναι σε ισχύ η προστασία ATP, πρέπει να ρυθμίσετε τις παραμέτρους των πολιτικών. Ανατρέξτε [στον Οδηγό γρήγορης εκκίνησης: Ρύθμιση προστασίας από απειλές για προχωρημένους του Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

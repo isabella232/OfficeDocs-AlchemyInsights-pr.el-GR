@@ -1,5 +1,5 @@
 ---
-title: 607 διαθεσιμότητας "Αντιμετώπιση προβλημάτων"
+title: Αντιμετώπιση προβλημάτων διαθεσιμότητας 607
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664860"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765052"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Ζητήματα με δυνατότητα προβολής των πληροφοριών διαθεσιμότητας του ημερολογίου
+# <a name="issues-seeing-calendar-freebusy-information"></a>Ζητήματα που βλέπουν πληροφορίες διαθεσιμότητας ημερολογίου
 
-Εάν δεν μπορείτε να δείτε πληροφορίες διαθεσιμότητας ημερολογίου σε άλλα ημερολόγια ή, εάν άλλα άτομα δεν μπορούν να δουν τις πληροφορίες διαθεσιμότητας στο ημερολόγιό σας, χρησιμοποιήστε το εργαλείο [Βοηθός υποστήριξης και αποκατάστασης του Office 365](https://diagnostics.office.com/).
+Εάν δεν μπορείτε να δείτε πληροφορίες διαθεσιμότητας ημερολογίου σε άλλα ημερολόγια ή εάν άλλα άτομα δεν μπορούν να δουν πληροφορίες διαθεσιμότητας στο ημερολόγιό σας, χρησιμοποιήστε το [Βοηθό υποστήριξης και αποκατάστασης της Microsoft](https://diagnostics.office.com/).
   

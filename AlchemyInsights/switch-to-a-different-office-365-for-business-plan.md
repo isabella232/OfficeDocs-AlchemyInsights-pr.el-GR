@@ -1,5 +1,5 @@
 ---
-title: Μετάβαση σε διαφορετικό πρόγραμμα του Office 365 για Επιχειρήσεις
+title: Μετάβαση σε διαφορετικό πρόγραμμα microsoft 365 για επιχειρήσεις
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547998"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763793"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Μετάβαση σε διαφορετικό πρόγραμμα του Office 365 για Επιχειρήσεις
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Μετάβαση σε διαφορετική συνδρομή Microsoft 365 για επιχειρήσεις
 
-Όταν αλλάξει η επιχείρησή σας ή χρειάζεστε περισσότερες δυνατότητες του Office 365, μπορείτε να κάνετε αναβάθμιση σε ένα νέο πρόγραμμα.
+Όταν αλλάξει η επιχείρησή σας ή χρειάζεστε περισσότερες δυνατότητες, μπορείτε να κάνετε αναβάθμιση σε ένα νέο πρόγραμμα.
   
 1. Στο κέντρο διαχείρισης, μεταβείτε στην ενότητα **Προϊόντα χρέωσης \> [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

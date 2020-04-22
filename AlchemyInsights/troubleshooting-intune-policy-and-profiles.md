@@ -1,9 +1,9 @@
 ---
-title: Αντιμετώπιση προβλημάτων πολιτικής Intune και προφίλ
+title: Αντιμετώπιση προβλημάτων πολιτικής και προφίλ intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533627"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766673"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Αντιμετώπιση προβλημάτων πολιτικής Intune και προφίλ
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Αντιμετώπιση προβλημάτων πολιτικής και προφίλ intune
 
-Για να δείτε τις υπάρχουσες πολιτικές, αντιμετώπιση προβλημάτων διένεξης, εξετάστε τα δεδομένα καταγραφής και ανατρέξτε στην ενότητα Συνήθεις ερωτήσεις και ζητήματα, οι παρακάτω οδηγοί μπορεί να σας βοηθήσει.
+Για να δείτε υπάρχουσες πολιτικές, να αντιμετωπίσετε διενέξεις, να εξετάσετε τα δεδομένα καταγραφής και να δείτε συνήθεις ερωτήσεις και ζητήματα, οι παρακάτω οδηγοί μπορεί να σας βοηθήσουν.
 
-- [Αντιμετώπιση προβλημάτων σχετικά με πολιτικές και προφίλ στο Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Αντιμετώπιση προβλημάτων πολιτικών και προφίλ στο Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Συνήθεις ερωτήσεις, θέματα και λύσεις με πολιτικές συσκευών και προφίλ στο Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Συνήθεις ερωτήσεις, θέματα και αναλύσεις με πολιτικές συσκευών και προφίλ στο Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Παρακολούθηση προφίλ ρύθμισης παραμέτρων συσκευών και προβάλετε διενέξεις Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Παρακολούθηση προφίλ ρύθμισης παραμέτρων συσκευής και διενέξεων προβολής στο Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Αντιμετώπιση προβλημάτων συσκευής συμμόρφωσης και υπό όρους πρόσβασης στο Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Αντιμετώπιση προβλημάτων συμμόρφωσης συσκευών και πρόσβασης υπό όρους στο Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Παρακολούθηση πολιτικών συμμόρφωσης και προβάλετε διενέξεις Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Παρακολούθηση πολιτικών συμμόρφωσης και προβολή διενέξεων στο Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Αποστολή δεδομένων καταγραφής Intune Azure αποθήκευσης, διανομείς συμβάντων, ή συνδεθείτε ανάλυσης](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Αποστολή δεδομένων καταγραφής Intune σε χώρους αποθήκευσης Azure, κέντρα συμβάντων ή ανάλυση αρχείων καταγραφής](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Δείτε μια γενική εικόνα για να [ρυθμίσετε τις παραμέτρους συσκευών](https://docs.microsoft.com/intune/device-profiles) ή [χρησιμοποιήστε πολιτικές συμμόρφωσης](https://docs.microsoft.com/intune/device-compliance-get-started).
+Ανατρέξτε στην επισκόπηση για να [ρυθμίσετε τις παραμέτρους συσκευών](https://docs.microsoft.com/intune/device-profiles) ή [να χρησιμοποιήσετε πολιτικές συμμόρφωσης](https://docs.microsoft.com/intune/device-compliance-get-started).

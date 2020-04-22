@@ -3,7 +3,7 @@ title: Λύσεις για το σφάλμα 30034-4
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: c911c84b61363bf11d31c9e6d405e4324f1c0c92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e04f8a5028e3d174e6cb469a0f79cea19b4b20e7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501799"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756919"
 ---
 # <a name="solutions-for-error-30034-4"></a>Λύσεις για το σφάλμα 30034-4
 
-Δοκιμάστε τις παρακάτω λύσεις για να διορθώσετε το σφάλμα [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Δοκιμάστε αυτές τις λύσεις για να διορθώσετε το σφάλμα [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
-- Επανεκκινήστε τον υπολογιστή σας και δοκιμάστε να [εγκαταστήσετε το Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Επανεκκινήστε τον υπολογιστή σας και προσπαθήστε να [εγκαταστήσετε το Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Λήψη και εγκατάσταση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Κάντε λήψη και εκτέλεση του [Βοηθού υποστήριξης και αποκατάστασης](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Κατά το άνοιγμα, από **προϊόντα καταργήσετε την εγκατάσταση του Office** , επιλέξτε την έκδοση που θέλετε να απεγκαταστήσετε και επιλέξτε **Επόμενο**.
+1. Όταν ανοίξει, από **την κατάργηση εγκατάστασης των προϊόντων του Office,** επιλέξτε την έκδοση που θέλετε να καταργήσετε την εγκατάσταση και επιλέξτε **Επόμενο**.
 
-2. Συνεχίστε μεταβαίνοντας σε οθόνες και κάντε επανεκκίνηση του υπολογιστή σας, όταν σας ζητηθεί.
+2. Ακολουθήστε τις οδηγίες στις επόμενες οθόνες και να επανεκκινήσετε τον υπολογιστή σας όταν σας ζητηθεί.
 
-    Μετά την επανεκκίνηση, την υποστήριξη και αποκατάστασης του Βοηθού εκ νέου ανοίγει αυτόματα για να ολοκληρωθεί η διαδικασία απεγκατάστασης.
+    Μετά την επανεκκίνηση, ο Βοηθός υποστήριξης και αποκατάστασης ανοίγει ξανά αυτόματα για να ολοκληρώσει τη διαδικασία κατάργησης της εγκατάστασης.
 
-3. Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό.
+3. Ακολουθήστε τις υπόλοιπες οδηγίες και [εγκαταστήστε ξανά](https://portal.office.com/OLS/MySoftware.aspx) το Office ή κλείστε το βοηθό.

@@ -3,7 +3,7 @@ title: Αντιμετώπιση ζητημάτων "Άνοιγμα με την �
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 09d0d76f8c61f7fcd21a58527e220b65f123654d
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767033"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Αντιμετώπιση ζητημάτων "Άνοιγμα με την Εξερεύνηση" στο SharePoint Online
 

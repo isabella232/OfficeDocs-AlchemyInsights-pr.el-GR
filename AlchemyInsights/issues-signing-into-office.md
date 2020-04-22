@@ -1,5 +1,5 @@
 ---
-title: Θέματα είσοδο σε εφαρμογές του Office
+title: Θέματα κατά την είσοδο σε εφαρμογές του Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 3622a3408b25b43090e9414ae5ffcfc2760264ee
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763000"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Θέματα είσοδο σε εφαρμογές του Office
+# <a name="issues-signing-in-to-office-apps"></a>Θέματα κατά την είσοδο σε εφαρμογές του Office
 
-Για να διορθώσετε προβλήματα εισόδου με εφαρμογές του Office, δοκιμάστε τα εξής:
+Για να διορθώσετε προβλήματα εισόδου με τις εφαρμογές του Office, δοκιμάστε τα εξής:
 
-- Καταργήστε όλους τους λογαριασμούς εργασίας, εκτός από το λογαριασμό που έχει επηρεαστεί, χρησιμοποιώντας τις ρυθμίσεις των Windows > **πρόσβασης δουλειά ή το σχολείο**.
-- [Απαλοιφή Office διαπιστευτήρια](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) χρησιμοποιώντας τη Διαχείριση διαπιστευτηρίων των Windows.<br/>
+- Καταργήστε όλους τους λογαριασμούς εργασίας, εκτός από τον λογαριασμό που επηρεάζεται, χρησιμοποιώντας τις Ρυθμίσεις των Windows > **την εργασία ή το σχολείο της Access**.
+- [Καταργήστε τις πιστοποιήσεις του Office χρησιμοποιώντας](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) τη Διαχείριση διαπιστευτηρίων των Windows.<br/>
     **Σημείωση:** Οι διαδρομές μητρώου για το Office 2016 έχουν αλλάξει σε 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Ανοίξτε μια εφαρμογή του Office, επιλέξτε **το αρχείο** > **λογαριασμού** > **Έξοδος**. Στη συνέχεια, συνδεθείτε χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για αναλυτικές πληροφορίες, δείτε: [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Για Mac, ανατρέξτε στην ενότητα " [δεν είναι δυνατό να εισέλθετε σε μια 2016 Office για Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)".
-- Εάν τα σφάλματα που παρουσιάζεται κατά τη σύνδεση με το Office 365, χρησιμοποιώντας το Office 2013, ενεργοποίηση σύγχρονη ελέγχου ταυτότητας για προγράμματος-πελάτη Office.
+- Ανοίξτε μια εφαρμογή του Office, επιλέξτε**Έξοδος****λογαριασμού** >  **αρχείου** > . Στη συνέχεια, συνδεθείτε χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Για Mac, ανατρέξτε στο θέμα [Δεν μπορώ να συνδεθώ σε μια εφαρμογή Office 2016 για Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Εάν τα σφάλματα παρουσιάζονται κατά τη σύνδεση με το Microsoft 365 χρησιμοποιώντας το Office 2013, ενεργοποιήστε το σύγχρονο έλεγχο ταυτότητας για το πρόγραμμα-πελάτη του Office.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα:
-- [Δεν μπορείτε να εισέλθετε στο Office 365, Azure ή Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Ζητήματα σύνδεσης στο είσοδος μετά την ενημερωμένη έκδοση του Office 2016 Δόμηση 16.0.7967 σε Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Λυπούμαστε, έναν άλλο λογαριασμό από τον οργανισμό σας είναι ήδη συνδεδεμένοι σε αυτόν τον υπολογιστή" στο Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Αντιμετώπιση ζητημάτων εισόδου με σύγχρονη έλεγχο ταυτότητας του Office όταν χρησιμοποιείτε ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:
+- [Δεν μπορείτε να εισέλθετε στο Microsoft 365, το Azure ή το Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+- [Ζητήματα σύνδεσης κατά την είσοδο μετά την ενημέρωση στο Office 2016 build 16.0.7967 στα Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
+- ["Λυπούμαστε, ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος σε αυτόν τον υπολογιστή" στο Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+- [Αντιμετώπιση προβλημάτων εισόδου με τον σύγχρονο έλεγχο ταυτότητας του Office όταν χρησιμοποιείτε το ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
