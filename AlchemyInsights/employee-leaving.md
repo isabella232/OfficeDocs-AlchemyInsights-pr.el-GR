@@ -1,9 +1,9 @@
 ---
-title: Εργαζόμενος, αφήνοντας
+title: Αποχώρηση εργαζομένου
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527831"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703715"
 ---
-# <a name="block-access-to-a-former-employee"></a>Αποκλεισμός της πρόσβασης ενός πρώην υπαλλήλου
+# <a name="block-access-to-a-former-employee"></a>Αποκλεισμός πρόσβασης σε πρώην υπάλληλο
 
-Έχετε έναν εργαζόμενο αφήνοντας και πρέπει να απαγορεύσετε την πρόσβαση σε δεδομένα του Office 365 και ηλεκτρονικού ταχυδρομείου; Κάντε τα εξής:
+Έχετε έναν υπάλληλο που φεύγει και πρέπει να εμποδίσει την πρόσβαση στα στοιχεία και το ηλεκτρονικό ταχυδρομείο; Κάντε τα εξής.
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στους **χρήστες** \> σελίδα [Ενεργούς χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα [Ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) **χρηστών.** \>
 
 2. Επιλέξτε το όνομα του χρήστη που θέλετε να αποκλείσετε.
 
 3. Κάτω από το όνομα του χρήστη, επιλέξτε **Αποκλεισμός αυτού του χρήστη**.
 
-4. Επιλέξτε να **αποκλείσει τον χρήστη από την υπογραφή** \> **αποθηκεύσετε τις αλλαγές**.
+4. Επιλέξτε **Αποκλεισμός της υπογραφής του χρήστη στο** \> **Αποθήκευση αλλαγών**.
 
-**Σημείωση**: Sign-out για ορισμένες εφαρμογές ενδέχεται να μην είναι άμεση. Υπενθύμιση με περισσότερες ενέργειες σε αυτό το άρθρο: [Κατάργηση ενός πρώην υπαλλήλου από το Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Σημείωση:** Η έξοδος για ορισμένες εφαρμογές ενδέχεται να μην είναι άμεση. Παρακολούθηση με περισσότερες ενέργειες σε αυτό το άρθρο: [Κατάργηση πρώην υπαλλήλου](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

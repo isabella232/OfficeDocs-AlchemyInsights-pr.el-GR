@@ -1,9 +1,9 @@
 ---
-title: Πρόσβαση σε υπηρεσίες
+title: Υπηρεσίες πρόσβασης
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: 2e645d3462d48227624e3d416d37d422c5d8baed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 165417510a0b7d19ddbd7afefff9cd12713e90da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495679"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43686610"
 ---
-# <a name="access-services"></a>Πρόσβαση σε υπηρεσίες
+# <a name="access-services"></a>Υπηρεσίες πρόσβασης
 
-Η δυνατότητα πρόσβαση σε υπηρεσίες στο SharePoint Online απόσυρσης. Πλέον μπορείτε να δημιουργήσετε νέες εφαρμογές web που βασίζεται σε πρόσβαση και βάσεις δεδομένων web και υπάρχουσες εφαρμογές web και τις βάσεις δεδομένων web θα τερματιστεί από Απριλίου, 2018. Στην επιφάνεια εργασίας βάσεις δεδομένων της Access (.accdb) δεν επηρεάζονται από αυτήν την αλλαγή. Συνιστάται η Microsoft PowerApps ως εναλλακτική λύση στην Access web apps και βάσεις δεδομένων web. 
+Η δυνατότητα των υπηρεσιών της Access στο SharePoint Online αποσύρεται. Δεν είναι πλέον δυνατή η δημιουργία νέων εφαρμογών web και βάσεων δεδομένων ιστού που βασίζονται στην Access και οι υπάρχουσες εφαρμογές web και οι βάσεις δεδομένων web θα τερματιστούν έως τον Απρίλιο του 2018. Οι βάσεις δεδομένων επιφάνειας εργασίας της Access (.accdb) δεν επηρεάζονται από αυτήν την αλλαγή. Συνιστούμε το Microsoft PowerApps ως εναλλακτική λύση για την Access web apps και βάσεις δεδομένων web. 
   
-[Ενημερωθείτε σχετικά με το Microsoft PowerApps](https://powerapps.microsoft.com/)
+[Πληροφορίες σχετικά με το Microsoft PowerApps](https://powerapps.microsoft.com/)
   

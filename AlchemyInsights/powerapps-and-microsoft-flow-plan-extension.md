@@ -1,9 +1,9 @@
 ---
-title: 1575 PowerApps και ροής της Microsoft Σχεδιασμός επέκταση
+title: Επέκταση σχεδίου 1575-PowerApps και Microsoft Flow
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554715"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667029"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Επέκταση σχεδίου PowerApps και ροής της Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Επέκταση σχεδίου PowerApps και Microsoft Flow
 
-Εάν σκοπεύετε να ζητήσει μια επέκταση του σχεδίου για τη **Ροή της Microsoft** ή **PowerApps** και σας μίσθωσης έχει ήδη ενεργοί χρήστες μιας από τις ακόλουθες δυνατότητες, δεν υπάρχει ανάγκη για να υποβάλετε μια αίτηση υποστήριξης.
+Εάν σκοπεύετε να ζητήσετε επέκταση προγράμματος για **το Microsoft Flow** ή **το PowerApps** και ο μισθωτής σας έχει ήδη ενεργούς χρήστες μιας από τις ακόλουθες δυνατότητες, δεν χρειάζεται να υποβάλετε αίτηση υποστήριξης.
 
-- Δημιουργία και δημοσίευση των προσαρμοσμένες γραμμές σύνδεσης στο PowerApps και ροής της Microsoft
-- Προσαρμοσμένες ενέργειες HTTP ενσωματωμένες στη ροή εκτός του SharePoint και OneDrive
-- Ενοποίηση δεδομένων εσωτερικής εγκατάστασης μέσω της πύλης δεδομένων εσωτερικής εγκατάστασης
+- Δημιουργία και δημοσίευση προσαρμοσμένων συνδέσεων σε PowerApps και Microsoft Flow
+- Προσαρμοσμένες ενέργειες HTTP ενσωματωμένες στη ροή εκτός του SharePoint και του OneDrive
+- Ενσωμάτωση δεδομένων εσωτερικής εγκατάστασης μέσω της πύλης δεδομένων εσωτερικής εγκατάστασης
 
-Οι πελάτες με ενεργούς χρήστες από αυτές τις δυνατότητες θα λάβετε μια αυτόματη επέκταση μέχρι τις 31 Ιανουαρίου 2020, ή τη λήξη της θητείας τους υπάρχουσα συνδρομή Office 365, όποια είναι μεγαλύτερη.
+Οι πελάτες με ενεργούς χρήστες αυτών των δυνατοτήτων θα έχουν αυτόματη παράταση μέχρι τις 31 Ιανουαρίου 2020 ή τη λήξη της υπάρχουσας περιόδου συνδρομής Microsoft 365, όποια είναι μεγαλύτερη.

@@ -1,28 +1,28 @@
 ---
-title: 1065 αποδοκιμασία του EOP εξερχόμενων IP διεύθυνση rangesMC146155
+title: 1065 Αποδοκιμασία της εξερχόμενης διεύθυνσης IP του EOP rangesMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 9860845dea444847833d4c5cd01d49ea93473778
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752955"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704597"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Αποδοκιμασία του EOP εξερχόμενων περιοχές διευθύνσεων IP
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Αποδοκιμασία των περιοχών εξερχόμενων διευθύνσεων IP του EOP
 
-Μας έχετε εντοπίσει ένα πιθανό ζήτημα με τον οργανισμό σας που (αν δεν διορθωθεί με την εικοστή Οκτωβρίου 2018), ενδέχεται να καταστρέψετε ροή αλληλογραφίας σας εσωτερικής εγκατάστασης ή εξωτερικούς προορισμούς. Ως γνωστοποιείται προηγουμένως, για να απλοποιήσετε τη Διαχείριση περιοχής διευθύνσεων IP, εμείς συναθροίζετε τις περιοχές διευθύνσεων IP του Exchange Online προστασίας (EOP) που χρησιμοποιούνται για την αποστολή και λήψη ηλεκτρονικού ταχυδρομείου εκτός του Office 365. Την ανάλυση δηλώνει ότι μία ή περισσότερες από τις πηγές εξωτερικής ηλεκτρονικού ταχυδρομείου ή προορισμούς που ορίσατε στο συνδέσεις ροή αλληλογραφίας δεν δέχεται συνδέσεις από το IP διεύθυνση περιοχές εμφανίζονται [εδώ](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Εντοπίσαμε ένα πιθανό πρόβλημα με τον οργανισμό σας το οποίο (αν δεν διορθωθεί έως τις 26 Οκτωβρίου 2018) ενδέχεται να διακόψει τη ροή αλληλογραφίας στους προορισμούς εσωτερικής εγκατάστασης ή εξωτερικούς προορισμούς σας. Όπως κοινοποιήθηκε προηγουμένως, για να απλοποιήσουμε τη διαχείριση εύρους διευθύνσεων IP, ενοποιούμε τις περιοχές διευθύνσεων IP της Ηλεκτρονικής προστασίας (EOP) του Exchange που χρησιμοποιούνται για την αποστολή και λήψη μηνυμάτων ηλεκτρονικού ταχυδρομείου εκτός του Microsoft 365. Η ανάλυσή μας δείχνει ότι μία ή περισσότερες από τις εξωτερικές πηγές ηλεκτρονικού ταχυδρομείου ή προορισμούς που έχετε ρυθμίσει σε συνδέσεις ροής αλληλογραφίας δεν δέχονται συνδέσεις από τις περιοχές διευθύνσεων IP που εμφανίζονται [εδώ](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-Ενεργεί πριν από την εικοστή Οκτωβρίου, για τη διασφάλιση αυτών των πηγών και τους προορισμούς θα αποδεχτεί τις συνδέσεις προς και από όλα [δημοσιευτεί διευθύνσεις EOP IP](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Πράξη πριν από τις 26 Οκτωβρίου για να διασφαλίσετε ότι αυτές οι πηγές και οι προορισμοί θα δέχονται συνδέσεις από και [προς όλες τις δημοσιευμένες διευθύνσεις IP του ΕΟΠ](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-Για περισσότερες πληροφορίες σχετικά με αυτήν την αλλαγή, δείτε καταχωρεί το Κέντρο μηνυμάτων [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)ή [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Για περισσότερες πληροφορίες σχετικά με αυτήν την αλλαγή, ανατρέξτε στο θέμα Δημοσιεύσεις κέντρου μηνυμάτων [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)ή [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**Σημείωση**: Εάν χρησιμοποιούσατε προηγουμένως IP ή τη διεύθυνση URL δημοσίευσης μέσω HTML, XML και RSS για ενημερωμένες εκδόσεις του τελικού σημείου, μπορείτε επίσης θα πρέπει να μετεγκαταστήσετε των νέων υπηρεσιών web για την αυτοματοποίηση των αυτοί οι τύποι ενημερώσεων. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [κατηγορίες τελικού σημείου Office 365 και Office 365 IP διεύθυνση και διεύθυνση URL υπηρεσίας web](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Σημείωση:** Εάν χρησιμοποιήσατε προηγουμένως τη δημοσίευση IP ή URL μέσω HTML, XML και RSS για ενημερώσεις τελικού σημείου, θα πρέπει επίσης να κάνετε μετεγκατάσταση στις νέες υπηρεσίες web για την αυτοματοποίηση αυτών των τύπων ενημερωμένων εκδόσεων. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Κατηγορίες τελικού σημείου microsoft 365 και διεύθυνση IP microsoft 365 και υπηρεσία web URL](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).

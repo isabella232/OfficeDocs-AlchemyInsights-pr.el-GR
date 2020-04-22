@@ -1,9 +1,9 @@
 ---
-title: 1245-εισαγωγή-PST-υπηρεσίες
+title: 1245-Εισαγωγή-PST-Υπηρεσίες
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496347"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687762"
 ---
-# <a name="office-365-import-service"></a>Η υπηρεσία Office 365 εισαγωγής
+# <a name="microsoft-365-import-service"></a>Υπηρεσία εισαγωγής της Microsoft 365
 
-Η υπηρεσία Office 365 εισαγωγής σάς δίνει τη δυνατότητα σε πολλά αρχεία PST για γραμματοκιβώτια του Exchange Online μαζικής εισαγωγής.
+Η υπηρεσία εισαγωγής του Microsoft 365 σάς επιτρέπει να εισαγάγετε μαζικά πολλά αρχεία PST σε γραμματοκιβώτια του Exchange Online.
 
-Για να έχετε πρόσβαση στην υπηρεσία εισαγωγής και να ξεκινήσει η διαδικασία εισαγωγής:
+Για να αποκτήσετε πρόσβαση στην υπηρεσία εισαγωγής και ξεκινήστε τη διαδικασία εισαγωγής:
 
-1. Μεταβείτε το [& ασφαλείας κέντρο συμμόρφωσης](https://protection.office.com) και εισέλθετε χρησιμοποιώντας τα διαπιστευτήρια για το λογαριασμό διαχειριστή στην εταιρεία σας Office 365.
+1. Μεταβείτε στο [Κέντρο συμμόρφωσης & ασφαλείας](https://protection.office.com) και συνδεθείτε χρησιμοποιώντας τα διαπιστευτήρια για ένα λογαριασμό διαχειριστή στον οργανισμό σας.
 
-2. Στο αριστερό παράθυρο της **& ασφαλείας Κέντρο συμβατότητας**, κάντε κλικ στην επιλογή **> διαχείρισης δεδομένων εισαγωγής**.
+2. Στο αριστερό τμήμα παραθύρου του **Κέντρου συμμόρφωσης & ,** κάντε κλικ στην επιλογή Διαχείριση **δεδομένων > Εισαγωγή**.
 
-3. Στη σελίδα " **Εισαγωγή** ", κάντε κλικ στην επιλογή **Δημιουργία εργασίας εισαγωγής**.
+3. Στη σελίδα **Εισαγωγή,** κάντε κλικ στην επιλογή **Δημιουργία εργασίας εισαγωγής**.
 
-4. Για να ολοκληρώσετε τα βήματα του οδηγού, ακολουθήστε αυτές τις [οδηγίες βήμα προς βήμα](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Για να ολοκληρώσετε τα βήματα στον οδηγό, ακολουθήστε [αυτές τις οδηγίες βήμα προς βήμα](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Σημαντικό**: για να αποκτήσετε πρόσβαση στη σελίδα **εισαγωγής** με το & ασφαλείας κέντρο συμμόρφωσης, έχετε να αντιστοιχίσει [τα κατάλληλα δικαιώματα](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Σημαντικό**: Για να αποκτήσετε πρόσβαση στη σελίδα **Εισαγωγή** στο Κέντρο συμμόρφωσης & ασφαλείας, σας έχουν εκχωρηθεί [τα κατάλληλα δικαιώματα](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Εάν θέλετε να εισαγάγετε ένα αρχείο PST στο γραμματοκιβώτιο, ανατρέξτε στην ενότητα [αυτού του άρθρου](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Αν θέλετε απλώς να εισαγάγετε ένα PST στο γραμματοκιβώτιό σας, δείτε [αυτό το άρθρο](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

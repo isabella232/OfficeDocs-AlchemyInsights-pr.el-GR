@@ -1,8 +1,8 @@
 ---
-title: Σφάλμα 0-1036 κατά την εγκατάσταση του office
+title: Σφάλμα 0-1036 κατά την εγκατάσταση του Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527507"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703246"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Σφάλμα 0-1036 κατά την εγκατάσταση του office
+# <a name="error-0-1036-when-installing-office"></a>Σφάλμα 0-1036 κατά την εγκατάσταση του Office
 
-Δοκιμάστε τις παρακάτω λύσεις για να διορθώσετε το σφάλμα 0 1036 του Office:
+Δοκιμάστε αυτές τις λύσεις για να διορθώσετε το σφάλμα 0-1036 του Office:
   
-- Επανεκκινήστε τον υπολογιστή σας και δοκιμάστε ξανά την [εγκατάσταση του Office](https://portal.office.com/OLS/MySoftware.aspx) .
+- Επανεκκινήστε τον υπολογιστή σας και προσπαθήστε να εγκαταστήσετε ξανά [το Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
-- Λήψη και εγκατάσταση της [υποστήριξης και αποκατάστασης του Βοηθού](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Κάντε λήψη και εκτέλεση του [Βοηθού υποστήριξης και αποκατάστασης](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Κατά το άνοιγμα, από **προϊόντα καταργήσετε την εγκατάσταση του Office** , επιλέξτε την έκδοση που θέλετε να απεγκαταστήσετε και επιλέξτε **Επόμενο**.
+1. Όταν ανοίξει, από **την κατάργηση εγκατάστασης των προϊόντων του Office,** επιλέξτε την έκδοση που θέλετε να καταργήσετε και επιλέξτε **Επόμενο**.
 
-2. Συνεχίστε μεταβαίνοντας σε οθόνες και κάντε επανεκκίνηση του υπολογιστή σας, όταν σας ζητηθεί.
+2. Ακολουθήστε τις οδηγίες στις επόμενες οθόνες και να επανεκκινήσετε τον υπολογιστή σας όταν σας ζητηθεί.
 
-    Μετά την επανεκκίνηση, την υποστήριξη και αποκατάστασης του Βοηθού εκ νέου ανοίγει αυτόματα για να ολοκληρωθεί η διαδικασία απεγκατάστασης.
+    Μετά την επανεκκίνηση, ο Βοηθός υποστήριξης και αποκατάστασης ανοίγει ξανά αυτόματα για να ολοκληρώσει τη διαδικασία κατάργησης της εγκατάστασης.
 
-3. Ακολουθήστε τις υπόλοιπες υποδείξεις και [εγκαταστήσετε ξανά το Office](https://portal.office.com/OLS/MySoftware.aspx) ή να κλείσετε το Βοηθό.
+3. Ακολουθήστε τις υπόλοιπες οδηγίες και [εγκαταστήστε ξανά](https://portal.office.com/OLS/MySoftware.aspx) το Office ή κλείστε το βοηθό.
 
-- [Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) για την εγκατάσταση του Office
+- [Χρήση του προγράμματος εγκατάστασης του Office χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) για την εγκατάσταση του Office

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600369"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650568"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Συνταξιοδότηση εργαλείων eDiscovery παλαιού τύπου
 
@@ -37,7 +37,7 @@ ms.locfileid: "42600369"
     - [Προκαθορισμένα γραμματοκιβώτια HoldOn](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Κουτ-ντοκους](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 για προχωρημένους eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Προηγμένο eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Χρονοδιάγραμμα για τη συνταξιοδότηση:**
 - 1 Απριλίου 2020: Δεν θα μπορείτε να δημιουργήσετε νέες αναζητήσεις και κρατήσεις, αλλά μπορείτε να εκτελέσετε, να επεξεργαστείτε και να διαγράψετε υπάρχουσες αναζητήσεις με δική σας ευθύνη. Η υποστήριξη της Microsoft δεν θα υποστηρίζει πλέον επιτόπιες & διατηρήσεις στην ΑΗΚ.

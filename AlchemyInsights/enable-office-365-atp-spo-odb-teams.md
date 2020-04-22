@@ -1,29 +1,29 @@
 ---
-title: Ενεργοποίηση Office 365 ATP για SharePoint, OneDrive και ομάδες της Microsoft
+title: Ενεργοποίηση atp του Office 365 για ομάδες Του SharePoint, OneDrive και Microsoft
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fdfdc97a198898051a3388672d01994d96dd5e97
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403033"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703426"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Ενεργοποίηση Office 365 απειλή για προχωρημένους προστασίας για ηλεκτρονική SharePoint, OneDrive και ομάδες της Microsoft
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Ενεργοποίηση της Προηγμένης προστασίας από απειλές του Office 365 για ομάδες του SharePoint Online, του OneDrive και της Microsoft
 
-1. Μεταβείτε στην https://protection.office.com και να εισέλθετε.
-2. Επιλέξτε **Διαχείριση απειλή** > **πολιτική** > **Ασφαλή συνημμένα**.
-3. Επιλέξτε **Ενεργοποίηση αυτόματης ασφάλειας Αμαξοστοιχίας για SharePoint, OneDrive, και ομάδες της Microsoft**και, στη συνέχεια, κάντε κλικ στο κουμπί **Αποθήκευση**.
-4. (Συνιστάται) Ως ένας καθολικός διαχειριστής ή ένας διαχειριστής SharePoint Online, εκτελέστε το cmdlet [Σύνολο SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) με την παράμετρο **DisallowInfectedFileDownload** που έχει οριστεί στην *τιμή true*.
-5. (Συνιστάται) [Ρύθμιση ειδοποιήσεων](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) για τα αρχεία που εντοπίστηκαν.
+1. Πήγαινε https://protection.office.com και συνδεθείτε.
+2. Επιλέξτε**Ασφαλή συνημμένα****πολιτικής** >  **διαχείρισης** > απειλών .
+3. Επιλέξτε **Ενεργοποίηση atp για ομάδες SharePoint, OneDrive και Microsoft**και, στη συνέχεια, κάντε κλικ στην επιλογή **Αποθήκευση**.
+4. (Συνιστάται) Ως καθολικός διαχειριστής ή διαχειριστής του SharePoint Online, εκτελέστε το cmdlet [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) με την παράμετρο **DisallowInfectedFileDownload** που έχει οριστεί σε *true*.
+5. (Συνιστάται) [Ρύθμιση ειδοποιήσεων](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) για αρχεία που εντοπίστηκαν.
 
 > [!NOTE]
-> ATP θα nto σάρωση κάθε αρχείο σε ηλεκτρονική SharePoint, OneDrive ή ομάδες της Microsoft. Σάρωση των αρχείων γίνεται ασύγχρονα, μέσω μιας διαδικασίας που χρησιμοποιεί συμβάντα δραστηριότητα κοινής χρήσης και guest, καθώς και έξυπνες λύσεις και σήματα απειλή για τον προσδιορισμό κακόβουλα αρχεία. Ανατρέξτε στην ενότητα [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+> Η ATP θα σαρώσει κάθε αρχείο στο SharePoint Online, το OneDrive ή το Microsoft Teams. Τα αρχεία σαρώνονται ασύγχρονα, μέσω μιας διαδικασίας που χρησιμοποιεί συμβάντα κοινής χρήσης και δραστηριότητας επισκεπτών, μαζί με έξυπνα ευρετική και σήματα απειλής για τον εντοπισμό κακόβουλων αρχείων. Βλέπε [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
