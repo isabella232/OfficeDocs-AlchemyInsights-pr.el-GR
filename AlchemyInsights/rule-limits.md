@@ -1,9 +1,9 @@
 ---
-title: 924 τα όρια του κανόνα
+title: 924 Όρια κανόνων
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 3cb63eafc066ada20da7eb3b762424a3ef9e0026
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551379"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681860"
 ---
-# <a name="rule-limits"></a><span data-ttu-id="9f84b-102">Όρια του κανόνα</span><span class="sxs-lookup"><span data-stu-id="9f84b-102">Rule limits</span></span>
+# <a name="rule-limits"></a><span data-ttu-id="ed19f-102">Όρια κανόνων</span><span class="sxs-lookup"><span data-stu-id="ed19f-102">Rule limits</span></span>
 
-<span data-ttu-id="9f84b-103">Όρια του κανόνα μπορεί να διαφέρουν μεταξύ των επιλογών του Office 365 και αυτόνομη.</span><span class="sxs-lookup"><span data-stu-id="9f84b-103">Rule limits might vary across Office 365 options and standalone options.</span></span> <span data-ttu-id="9f84b-104">Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εισερχόμενα εγγραφών, μεταφορά, και τα όρια του κανόνα](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="9f84b-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
+<span data-ttu-id="ed19f-103">Τα όρια κανόνων ενδέχεται να διαφέρουν ανάλογα με τις επιλογές σχεδίου και τις μεμονωμένες επιλογές.</span><span class="sxs-lookup"><span data-stu-id="ed19f-103">Rule limits might vary across plan options and standalone options.</span></span> <span data-ttu-id="ed19f-104">Για περισσότερες πληροφορίες, ανατρέξτε στα [όρια κανόνων χρονικού, μεταφοράς και εισερχομένων](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="ed19f-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>

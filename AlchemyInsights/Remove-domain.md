@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 77567abf8f7099898568db970ecedf51d9424a51
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736541"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687474"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="a8072-102">Θέλετε να καταργήσετε τον τομέα σας;</span><span class="sxs-lookup"><span data-stu-id="a8072-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="a002f-102">Θέλετε να καταργήσετε τον τομέα σας;</span><span class="sxs-lookup"><span data-stu-id="a002f-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="a8072-103">Ακολουθήστε τα βήματα που περιγράφονται στο θέμα [Κατάργηση τομέα από το Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span><span class="sxs-lookup"><span data-stu-id="a8072-103">Follow the steps in [Remove a domain from Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span></span>
+<span data-ttu-id="a002f-103">Ακολουθήστε τα βήματα που περιγράφονται στο θέμα [Κατάργηση τομέα](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span><span class="sxs-lookup"><span data-stu-id="a002f-103">Follow the steps in [Remove a domain](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span></span>
   
-<span data-ttu-id="a8072-104">Θα χρειαστεί να ενημερώσετε όλους τους χρήστες ή ομάδες που έχουν εκχωρηθεί στο συγκεκριμένο όνομα τομέα προτού καταργήσετε τον τομέα.</span><span class="sxs-lookup"><span data-stu-id="a8072-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="a8072-105">Δείτε τις [Συνήθεις ερωτήσεις για τους τομείς](https://docs.microsoft.com/office365/admin/setup/domains-faq) για άλλες κοινές λύσεις.</span><span class="sxs-lookup"><span data-stu-id="a8072-105">Check the [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq) for other common solutions.</span></span>
+<span data-ttu-id="a002f-104">Θα χρειαστεί να ενημερώσετε όλους τους χρήστες ή ομάδες που έχουν εκχωρηθεί στο συγκεκριμένο όνομα τομέα προτού καταργήσετε τον τομέα.</span><span class="sxs-lookup"><span data-stu-id="a002f-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="a002f-105">Δείτε τις [Συνήθεις ερωτήσεις για τους τομείς](https://docs.microsoft.com/office365/admin/setup/domains-faq) για άλλες κοινές λύσεις.</span><span class="sxs-lookup"><span data-stu-id="a002f-105">Check the [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq) for other common solutions.</span></span>
   

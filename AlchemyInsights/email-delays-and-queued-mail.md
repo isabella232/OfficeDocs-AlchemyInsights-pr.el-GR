@@ -1,22 +1,22 @@
 ---
-title: Είναι που εμφάνιση ηλεκτρονικού ταχυδρομείου καθυστερήσεις ή στην ουρά αλληλογραφίας;
+title: Βλέπετε καθυστερήσεις μέσω ηλεκτρονικού ταχυδρομείου ή αλληλογραφία σε ουρά;
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703787"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a><span data-ttu-id="3d47d-102">Είναι που εμφάνιση ηλεκτρονικού ταχυδρομείου καθυστερήσεις ή στην ουρά αλληλογραφίας;</span><span class="sxs-lookup"><span data-stu-id="3d47d-102">Are you seeing email delays or queued mail?</span></span>
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a><span data-ttu-id="78a2f-102">Βλέπετε καθυστερήσεις μέσω ηλεκτρονικού ταχυδρομείου ή αλληλογραφία σε ουρά;</span><span class="sxs-lookup"><span data-stu-id="78a2f-102">Are you seeing email delays or queued mail?</span></span>
 
-<span data-ttu-id="3d47d-103">Πρόσφατα αποτελέσματα deprecating παλαιότερο Office 365 SMTP απολήξεις.</span><span class="sxs-lookup"><span data-stu-id="3d47d-103">We recently started deprecating older Office 365 SMTP endpoints.</span></span> <span data-ttu-id="3d47d-104">Αυτές οι τιμές προορισμού Office 365 ήταν διαθέσιμη για χρήση σε εγγραφές MX και έξυπνους κεντρικούς υπολογιστές πριν από το 2012.</span><span class="sxs-lookup"><span data-stu-id="3d47d-104">These Office 365 destination values were available to use in MX records and smart hosts before 2012.</span></span> <span data-ttu-id="3d47d-105">Εάν εξακολουθείτε να χρησιμοποιείτε μία από αυτές τις παλιότερες τιμές, θα χρειαστεί να ενημερώσετε το τελικό σημείο του Office 365 σε μια υποστηριζόμενη τιμή.</span><span class="sxs-lookup"><span data-stu-id="3d47d-105">If you're still using one of these older values, you'll need to update the Office 365 endpoint to a supported value.</span></span> <span data-ttu-id="3d47d-106">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα αυτό [υποστηρίζει KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).</span><span class="sxs-lookup"><span data-stu-id="3d47d-106">For more information, see this [support KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).</span></span>
+<span data-ttu-id="78a2f-103">Πρόσφατα ξεκινήσαμε την απαξίωση παλαιότερων τελικών σημείων SMTP.</span><span class="sxs-lookup"><span data-stu-id="78a2f-103">We recently started deprecating older SMTP endpoints.</span></span> <span data-ttu-id="78a2f-104">Αυτές οι τιμές προορισμού ήταν διαθέσιμες για χρήση σε εγγραφές MX και έξυπνους κεντρικούς υπολογιστές πριν από το 2012.</span><span class="sxs-lookup"><span data-stu-id="78a2f-104">These destination values were available to use in MX records and smart hosts before 2012.</span></span> <span data-ttu-id="78a2f-105">Εάν εξακολουθείτε να χρησιμοποιείτε μία από αυτές τις παλαιότερες τιμές, θα πρέπει να ενημερώσετε το τελικό σημείο σε μια υποστηριζόμενη τιμή.</span><span class="sxs-lookup"><span data-stu-id="78a2f-105">If you're still using one of these older values, you'll need to update the endpoint to a supported value.</span></span> <span data-ttu-id="78a2f-106">Για περισσότερες πληροφορίες, ανατρέξτε σε [αυτήν την υποστήριξη KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).</span><span class="sxs-lookup"><span data-stu-id="78a2f-106">For more information, see this [support KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).</span></span>

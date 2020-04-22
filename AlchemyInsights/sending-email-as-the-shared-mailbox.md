@@ -1,9 +1,9 @@
 ---
-title: Αποστολή ηλεκτρονικού ταχυδρομείου ως το κοινόχρηστο γραμματοκιβώτιο
+title: Αποστολή ηλεκτρονικού ταχυδρομείου ως κοινόχρηστου γραμματοκιβωτίου
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 56e14865d0f29c5f632f162b5e4bcb014325c597
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 91406c6ba05afd736ded5d19e7f25fb45e97b3ad
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551091"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709119"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="5f1f9-102">Αποστολή ηλεκτρονικού ταχυδρομείου ως το κοινόχρηστο γραμματοκιβώτιο</span><span class="sxs-lookup"><span data-stu-id="5f1f9-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="fbfea-102">Αποστολή ηλεκτρονικού ταχυδρομείου ως κοινόχρηστου γραμματοκιβωτίου</span><span class="sxs-lookup"><span data-stu-id="fbfea-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="5f1f9-103">Αφού δημιουργήσετε ένα κοινόχρηστο γραμματοκιβώτιο, χρήστες που είναι μέλη του γραμματοκιβωτίου έχουν τη δυνατότητα να στείλετε μήνυμα ηλεκτρονικού ταχυδρομείου ως την ταυτότητα κοινόχρηστο γραμματοκιβώτιο (για παράδειγμα, *info@contoso.com* ).</span><span class="sxs-lookup"><span data-stu-id="5f1f9-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="5f1f9-104">Για οδηγίες, ανατρέξτε στο θέμα:</span><span class="sxs-lookup"><span data-stu-id="5f1f9-104">For instructions, see:</span></span>
+<span data-ttu-id="fbfea-103">Αφού δημιουργήσετε ένα κοινόχρηστο γραμματοκιβώτιο, οι χρήστες που είναι μέλη του γραμματοκιβωτίου μπορούν να στείλουν μηνύματα ηλεκτρονικού ταχυδρομείου ως ταυτότητα κοινόχρηστου γραμματοκιβωτίου (για παράδειγμα, *info@contoso.com* ).</span><span class="sxs-lookup"><span data-stu-id="fbfea-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="fbfea-104">Για οδηγίες, ανατρέξτε στα θέματα:</span><span class="sxs-lookup"><span data-stu-id="fbfea-104">For instructions, see:</span></span>
   
-[<span data-ttu-id="5f1f9-105">Ανοίξτε και χρησιμοποιήστε ένα κοινόχρηστο γραμματοκιβώτιο στο Outlook 2016 και Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="5f1f9-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="fbfea-105">Άνοιγμα και χρήση κοινόχρηστου γραμματοκιβωτίου στο Outlook 2016 και το Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="fbfea-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="5f1f9-106">Προσθέσετε ένα κοινόχρηστο γραμματοκιβώτιο στο Outlook στο web</span><span class="sxs-lookup"><span data-stu-id="5f1f9-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="fbfea-106">Προσθήκη κοινόχρηστου γραμματοκιβωτίου στο Outlook στο web</span><span class="sxs-lookup"><span data-stu-id="fbfea-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   

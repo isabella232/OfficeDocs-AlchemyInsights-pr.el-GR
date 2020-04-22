@@ -1,8 +1,8 @@
 ---
-title: 414 εμπειρίας αναζήτησης ενημερώνεται
+title: 414 Ενημέρωση εμπειρίας αναζήτησης
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551487"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709299"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="9f41f-102">Εμπειρία αναζήτησης ενημερώνεται</span><span class="sxs-lookup"><span data-stu-id="9f41f-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="a28cd-102">Ενημέρωση εμπειρίας αναζήτησης</span><span class="sxs-lookup"><span data-stu-id="a28cd-102">Search experience updated</span></span>
 
-<span data-ttu-id="9f41f-103">Η αναζήτηση είναι τώρα που βρίσκεται στο κάτω μέρος της εφαρμογής.</span><span class="sxs-lookup"><span data-stu-id="9f41f-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="9f41f-104">Κτύπημα σε αυτό σας παρέχει άμεση πρόσβαση σε επάνω επαφές, δρομολόγια επερχόμενες ταξιδίου, παραδόσεις πακέτο και πρόσφατα συνημμένα.</span><span class="sxs-lookup"><span data-stu-id="9f41f-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="9f41f-105">Μπορείτε να αναζητήσετε μηνύματα ηλεκτρονικού ταχυδρομείου, τα αρχεία και τις επαφές με έναν από τους λογαριασμούς σας από μία μόνο αναζήτηση πλαίσιο ή χρησιμοποιήστε μας νέα φίλτρα για να περιορίσετε την αναζήτησή σας.</span><span class="sxs-lookup"><span data-stu-id="9f41f-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="a28cd-103">Η αναζήτηση βρίσκεται τώρα στο κάτω μέρος της εφαρμογής.</span><span class="sxs-lookup"><span data-stu-id="a28cd-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="a28cd-104">Πατώντας σε αυτό σας δίνει άμεση πρόσβαση στις κορυφαίες επαφές σας, επερχόμενα δρομολόγια ταξιδιού, παραδόσεις πακέτων και πρόσφατα συνημμένα.</span><span class="sxs-lookup"><span data-stu-id="a28cd-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="a28cd-105">Μπορείτε να αναζητήσετε μηνύματα ηλεκτρονικού ταχυδρομείου, αρχεία και επαφές σε οποιονδήποτε από τους λογαριασμούς σας από ένα μόνο πλαίσιο αναζήτησης ή να χρησιμοποιήσετε τα νέα φίλτρα μας για να περιορίσετε την αναζήτησή σας.</span><span class="sxs-lookup"><span data-stu-id="a28cd-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>

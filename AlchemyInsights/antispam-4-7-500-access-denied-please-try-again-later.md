@@ -1,9 +1,9 @@
 ---
-title: 1051 αντιμετώπισης ανεπιθύμητης αλληλογραφίας 4.7.500 επιτρέπεται η πρόσβαση, προσπαθήστε ξανά αργότερα
+title: 1051 Antispam 4.7.500 Δεν επιτρέπεται η πρόσβαση, δοκιμάστε ξανά αργότερα
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: b9c75542378f64cdc4765c22f398e43b5523f2e1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 550b5ceadb2abcd0fea7e352b988bc740235722c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517139"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707983"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="7dc53-102">4.7.500 η πρόσβαση, προσπαθήστε ξανά αργότερα</span><span class="sxs-lookup"><span data-stu-id="7dc53-102">4.7.500 Access denied, please try again later</span></span>
+# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="7bfe2-102">4.7.500 Δεν επιτρέπεται η πρόσβαση, δοκιμάστε ξανά αργότερα</span><span class="sxs-lookup"><span data-stu-id="7bfe2-102">4.7.500 Access denied, please try again later</span></span>
 
-<span data-ttu-id="7dc53-103">Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο βάσει της φήμης (ή έλλειψη φήμη) διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="7dc53-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="7bfe2-103">Αυτό το σφάλμα παρουσιάζεται όταν ο όγκος της κυκλοφορίας ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης υπερβαίνει το όριο με βάση τη φήμη (ή την έλλειψη φήμης) της διεύθυνσης IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="7bfe2-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="7dc53-104">Αποκλεισμός ηλεκτρονικό ταχυδρομείο από τη διεύθυνση IP προέλευσης θα λήξει μέσα σε μία ώρα.</span><span class="sxs-lookup"><span data-stu-id="7dc53-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="7dc53-105">Εάν η διεύθυνση IP προέλευσης είναι ένας διακομιστής ηλεκτρονικού ταχυδρομείου εσωτερικής εγκατάστασης που ανήκει σε εσάς, επαληθεύστε τις ρυθμίσεις παραμέτρων της υπηρεσίας σύνδεσης ροή αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="7dc53-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="7dc53-106">Εάν η συμπεριφορά εξακολουθεί για περισσότερο από μία ώρα, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση για τη διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="7dc53-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="7bfe2-104">Ο αποκλεισμός μηνυμάτων ηλεκτρονικού ταχυδρομείου από τη διεύθυνση IP προέλευσης θα λήξει εντός μίας ώρας.</span><span class="sxs-lookup"><span data-stu-id="7bfe2-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="7bfe2-105">Εάν η διεύθυνση IP προέλευσης είναι ένας διακομιστής ηλεκτρονικού ταχυδρομείου εσωτερικής εγκατάστασης που ανήκει σε εσάς, επαληθεύστε τη ρύθμιση παραμέτρων της σύνδεσης ροής αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="7bfe2-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="7bfe2-106">Εάν η συμπεριφορά συνεχιστεί για περισσότερο από μία ώρα, επικοινωνήστε με την υποστήριξη για να ζητήσετε μια εξαίρεση για τη διεύθυνση IP προέλευσης.</span><span class="sxs-lookup"><span data-stu-id="7bfe2-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
