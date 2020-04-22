@@ -1,9 +1,9 @@
 ---
-title: App 597 Microsoft κρατήσεις
+title: 597 Εφαρμογή κρατήσεων της Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e2d785810ad764809348d1bb716346964baee74
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544899"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698742"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="78576-102">Η εφαρμογή Microsoft κρατήσεις</span><span class="sxs-lookup"><span data-stu-id="78576-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="ce3ca-102">Εφαρμογή Κρατήσεις της Microsoft</span><span class="sxs-lookup"><span data-stu-id="ce3ca-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="78576-103">Κρατήσεις της Microsoft είναι μια συνάντηση τον προγραμματισμό εφαρμογών που σας βοηθά να παρακολουθείτε σας κρατήσεις, το προσωπικό και τους πελάτες σας.</span><span class="sxs-lookup"><span data-stu-id="78576-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="78576-104">Για πληροφορίες ή την αντιμετώπιση προβλημάτων με το app κρατήσεις, ανατρέξτε [στα άρθρα κρατήσεις](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="78576-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="ce3ca-103">Η Microsoft Bookings είναι μια εφαρμογή προγραμματισμού συναντήσεων που σας βοηθά να παρακολουθείτε τις κρατήσεις σας, το προσωπικό σας και τους πελάτες σας.</span><span class="sxs-lookup"><span data-stu-id="ce3ca-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="ce3ca-104">Για πληροφορίες ή αντιμετώπιση προβλημάτων στην εφαρμογή Κρατήσεις, ανατρέξτε στα [άρθρα κρατήσεων](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="ce3ca-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>

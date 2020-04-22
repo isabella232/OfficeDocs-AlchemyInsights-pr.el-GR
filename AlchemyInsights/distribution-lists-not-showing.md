@@ -1,9 +1,9 @@
 ---
-title: Λίστες διανομής που δεν εμφανίζονται
+title: Οι λίστες διανομής δεν εμφανίζονται
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 320a52b23636cde50b34948f33d316a725415ef9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704561"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="359ab-102">Ομάδα διανομής δεν εμφανίζεται στη λίστα ομάδες</span><span class="sxs-lookup"><span data-stu-id="359ab-102">Distribution Group not showing in Groups list</span></span>
+# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="61bdc-102">Η ομάδα διανομής δεν εμφανίζεται στη λίστα "Ομάδες"</span><span class="sxs-lookup"><span data-stu-id="61bdc-102">Distribution Group not showing in Groups list</span></span>
 
-<span data-ttu-id="359ab-103">Μπορεί να διαρκέσει έως και 60 λεπτά πριν να εμφανιστεί η νέα λίστα διανομής στο κέντρο διαχείρισης του Exchange.</span><span class="sxs-lookup"><span data-stu-id="359ab-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
+<span data-ttu-id="61bdc-103">Μπορεί να χρειαστούν έως και 60 λεπτά μέχρι να εμφανιστεί η νέα λίστα διανομής στο κέντρο διαχείρισης του Exchange.</span><span class="sxs-lookup"><span data-stu-id="61bdc-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
   
-<span data-ttu-id="359ab-104">Εάν θέλετε να προσθέσετε μέλη ή να κάνετε άλλες επεξεργασίες αυτή τη στιγμή, χρησιμοποιήστε τη δυνατότητα ομάδες στο [Κέντρο διαχείρισης του Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="359ab-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="61bdc-104">Εάν θέλετε να προσθέσετε μέλη ή να κάνετε άλλες επεξομάδες αυτήν τη στιγμή, χρησιμοποιήστε τη δυνατότητα "Ομάδες" στο [Κέντρο διαχείρισης του Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="61bdc-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

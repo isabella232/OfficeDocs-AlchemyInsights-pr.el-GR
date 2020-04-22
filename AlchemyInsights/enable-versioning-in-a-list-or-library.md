@@ -1,28 +1,28 @@
 ---
-title: Ενεργοποίηση της τήρησης ιστορικού εκδόσεων σε μια λίστα ή βιβλιοθήκη
+title: Ενεργοποίηση διαχείρισης εκδόσεων σε λίστα ή βιβλιοθήκη
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 94250ff817032c5b2f63361768f7e40ad3cfe3d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703354"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a><span data-ttu-id="422a8-102">Ενεργοποίηση της τήρησης ιστορικού εκδόσεων για μια λίστα ή βιβλιοθήκη</span><span class="sxs-lookup"><span data-stu-id="422a8-102">Enable versioning for a list or library</span></span>
+# <a name="enable-versioning-for-a-list-or-library"></a><span data-ttu-id="ddc43-102">Ενεργοποίηση διαχείρισης εκδόσεων για λίστα ή βιβλιοθήκη</span><span class="sxs-lookup"><span data-stu-id="ddc43-102">Enable versioning for a list or library</span></span>
 
-1. <span data-ttu-id="422a8-103">Μεταβείτε στη λίστα ή στη βιβλιοθήκη.</span><span class="sxs-lookup"><span data-stu-id="422a8-103">Go to the list or library.</span></span>
+1. <span data-ttu-id="ddc43-103">Μεταβείτε στη λίστα ή τη βιβλιοθήκη.</span><span class="sxs-lookup"><span data-stu-id="ddc43-103">Go to the list or library.</span></span>
     
-2. <span data-ttu-id="422a8-104">Κάντε κλικ στην επιλογή **Ρυθμίσεις**και, στη συνέχεια, επιλέξτε ρυθμίσεις **βιβλιοθήκης** ή **Ρυθμίσεις λίστας**.</span><span class="sxs-lookup"><span data-stu-id="422a8-104">Click **Settings**, and then click **Library settings** or **List settings**.</span></span>
+2. <span data-ttu-id="ddc43-104">Κάντε κλικ στην επιλογή **Ρυθμίσεις**και, στη συνέχεια, κάντε κλικ στην επιλογή **Ρυθμίσεις βιβλιοθήκης** ή **Ρυθμίσεις λίστας**.</span><span class="sxs-lookup"><span data-stu-id="ddc43-104">Click **Settings**, and then click **Library settings** or **List settings**.</span></span>
     
-3. <span data-ttu-id="422a8-105">Κάντε κλικ στην επιλογή **ρυθμίσεις ιστορικού εκδόσεων**.</span><span class="sxs-lookup"><span data-stu-id="422a8-105">Click **Versioning settings**.</span></span>
+3. <span data-ttu-id="ddc43-105">Κάντε κλικ στην επιλογή **Ρυθμίσεις διαχείρισης εκδόσεων**.</span><span class="sxs-lookup"><span data-stu-id="ddc43-105">Click **Versioning settings**.</span></span>
     
-4. <span data-ttu-id="422a8-106">Επιλέξτε τις ρυθμίσεις που θέλετε και, στη συνέχεια, κάντε κλικ στο κουμπί **OK**.</span><span class="sxs-lookup"><span data-stu-id="422a8-106">Select the settings you want, and then click **OK**.</span></span>
+4. <span data-ttu-id="ddc43-106">Επιλέξτε τις ρυθμίσεις που θέλετε και, στη συνέχεια, κάντε κλικ στο κουμπί **OK**.</span><span class="sxs-lookup"><span data-stu-id="ddc43-106">Select the settings you want, and then click **OK**.</span></span>
     
 

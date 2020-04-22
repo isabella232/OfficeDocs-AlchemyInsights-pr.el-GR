@@ -1,5 +1,5 @@
 ---
-title: Ενεργοποίηση και αναζητήστε το αρχείο καταγραφής ελέγχου
+title: Ενεργοποίηση και αναζήτηση στο αρχείο καταγραφής ελέγχου
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665076"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703643"
 ---
-# <a name="enable-and-search-the-audit-log"></a><span data-ttu-id="19c6a-102">Ενεργοποίηση και αναζητήστε το αρχείο καταγραφής ελέγχου</span><span class="sxs-lookup"><span data-stu-id="19c6a-102">Enable and search the Audit log</span></span>
+# <a name="enable-and-search-the-audit-log"></a><span data-ttu-id="50031-102">Ενεργοποίηση και αναζήτηση στο αρχείο καταγραφής ελέγχου</span><span class="sxs-lookup"><span data-stu-id="50031-102">Enable and search the Audit log</span></span>
 
-<span data-ttu-id="19c6a-103">**Office 365**</span><span class="sxs-lookup"><span data-stu-id="19c6a-103">**Office 365**</span></span>
+<span data-ttu-id="50031-103">**Η Microsoft 365**</span><span class="sxs-lookup"><span data-stu-id="50031-103">**Microsoft 365**</span></span>
 
-<span data-ttu-id="19c6a-104">Για να αναζητήσετε το αρχείο καταγραφής ελέγχου του Office 365, ακολουθήστε [τα εξής βήματα](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="19c6a-104">To search the Office 365 audit log, follow [these steps](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+<span data-ttu-id="50031-104">Για να κάνετε αναζήτηση στο αρχείο καταγραφής ελέγχου του Microsoft 365, ακολουθήστε [τα εξής βήματα](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="50031-104">To search the Microsoft 365 audit log, follow [these steps](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
 
-<span data-ttu-id="19c6a-105">**Ανταλλαγή**</span><span class="sxs-lookup"><span data-stu-id="19c6a-105">**Exchange**</span></span>
+<span data-ttu-id="50031-105">**Exchange**</span><span class="sxs-lookup"><span data-stu-id="50031-105">**Exchange**</span></span>
 
-- <span data-ttu-id="19c6a-106">Δραστηριότητες διαχείρισης Exchange ελέγχονται από προεπιλογή.</span><span class="sxs-lookup"><span data-stu-id="19c6a-106">Exchange admin activities are audited by default.</span></span>
+- <span data-ttu-id="50031-106">Οι δραστηριότητες διαχείρισης του Exchange ελέγχονται από προεπιλογή.</span><span class="sxs-lookup"><span data-stu-id="50031-106">Exchange admin activities are audited by default.</span></span>
 
-- <span data-ttu-id="19c6a-107">Έλεγχος γραμματοκιβωτίου είναι ενεργοποιημένη από προεπιλογή στο Office 365.</span><span class="sxs-lookup"><span data-stu-id="19c6a-107">Mailbox auditing is enabled by default in Office 365.</span></span> <span data-ttu-id="19c6a-108">Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [αυτού του άρθρου](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span><span class="sxs-lookup"><span data-stu-id="19c6a-108">For more information, see  [this article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span></span>
+- <span data-ttu-id="50031-107">Ο έλεγχος γραμματοκιβωτίου είναι ενεργοποιημένος από προεπιλογή στο Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="50031-107">Mailbox auditing is enabled by default in Microsoft 365.</span></span> <span data-ttu-id="50031-108">Για περισσότερες πληροφορίες, ανατρέξτε [σε αυτό το άρθρο](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span><span class="sxs-lookup"><span data-stu-id="50031-108">For more information, see  [this article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span></span>
 
-- <span data-ttu-id="19c6a-109">Office 365 ομάδα γραμματοκιβώτια και δημόσιου φακέλου γραμματοκιβώτια στο Exchange Online δεν υποστηρίζει αρχεία καταγραφής ελέγχου.</span><span class="sxs-lookup"><span data-stu-id="19c6a-109">Office 365 Group mailboxes and public folder mailboxes in Exchange Online don't support audit logging.</span></span>
+- <span data-ttu-id="50031-109">Τα γραμματοκιβώτια ομάδας του Office 365 και τα γραμματοκιβώτια δημόσιου φακέλου στο Exchange Online δεν υποστηρίζουν την καταγραφή ελέγχου.</span><span class="sxs-lookup"><span data-stu-id="50031-109">Office 365 Group mailboxes and public folder mailboxes in Exchange Online don't support audit logging.</span></span>
 
-<span data-ttu-id="19c6a-110">**Του SharePoint και OneDrive**</span><span class="sxs-lookup"><span data-stu-id="19c6a-110">**SharePoint and OneDrive**</span></span>
+<span data-ttu-id="50031-110">**Το SharePoint και το OneDrive**</span><span class="sxs-lookup"><span data-stu-id="50031-110">**SharePoint and OneDrive**</span></span>
 
-- <span data-ttu-id="19c6a-111">Δεν υπάρχει καμία πρόσθετη ρύθμιση παραμέτρων που απαιτείται για να ενεργοποιήσετε τον έλεγχο του SharePoint και OneDrive.</span><span class="sxs-lookup"><span data-stu-id="19c6a-111">There's no additional configuration required to enable auditing for SharePoint and OneDrive.</span></span>
+- <span data-ttu-id="50031-111">Δεν απαιτείται πρόσθετη ρύθμιση παραμέτρων για την ενεργοποίηση του ελέγχου για το SharePoint και το OneDrive.</span><span class="sxs-lookup"><span data-stu-id="50031-111">There's no additional configuration required to enable auditing for SharePoint and OneDrive.</span></span>
 
-- <span data-ttu-id="19c6a-112">Του SharePoint και OneDrive υποστηρίζουν τον έλεγχο τους ακόλουθους τύπους δραστηριοτήτων:</span><span class="sxs-lookup"><span data-stu-id="19c6a-112">SharePoint and OneDrive support auditing the following types of activities:</span></span>
+- <span data-ttu-id="50031-112">Το SharePoint και το OneDrive υποστηρίζουν τον έλεγχο των ακόλουθων τύπων δραστηριοτήτων:</span><span class="sxs-lookup"><span data-stu-id="50031-112">SharePoint and OneDrive support auditing the following types of activities:</span></span>
 
-    - <span data-ttu-id="19c6a-113">Αρχείο, φάκελο και δραστηριότητες σελίδα</span><span class="sxs-lookup"><span data-stu-id="19c6a-113">File, folder, and page activities</span></span>
-    - <span data-ttu-id="19c6a-114">Κοινή χρήση και πρόσβαση σε δραστηριότητες</span><span class="sxs-lookup"><span data-stu-id="19c6a-114">Sharing and access request activities</span></span>
-    - <span data-ttu-id="19c6a-115">Δραστηριότητες διαχείρισης τοποθεσίας</span><span class="sxs-lookup"><span data-stu-id="19c6a-115">Site administration activities</span></span>
-    - <span data-ttu-id="19c6a-116">Αρχείο δραστηριοτήτων συγχρονισμού</span><span class="sxs-lookup"><span data-stu-id="19c6a-116">File synchronization activities</span></span>
+    - <span data-ttu-id="50031-113">Δραστηριότητες αρχείων, φακέλων και σελίδων</span><span class="sxs-lookup"><span data-stu-id="50031-113">File, folder, and page activities</span></span>
+    - <span data-ttu-id="50031-114">Δραστηριότητες κοινής χρήσης και αίτησης πρόσβασης</span><span class="sxs-lookup"><span data-stu-id="50031-114">Sharing and access request activities</span></span>
+    - <span data-ttu-id="50031-115">Δραστηριότητες διαχείρισης τοποθεσίας</span><span class="sxs-lookup"><span data-stu-id="50031-115">Site administration activities</span></span>
+    - <span data-ttu-id="50031-116">Δραστηριότητες συγχρονισμού αρχείων</span><span class="sxs-lookup"><span data-stu-id="50031-116">File synchronization activities</span></span>
 
-- <span data-ttu-id="19c6a-117">Για πληροφορίες σχετικά με δραστηριότητες ελέγχονται σε άλλες υπηρεσίες του Office 365, ανατρέξτε [στον πίνακα σε αυτό το άρθρο](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span><span class="sxs-lookup"><span data-stu-id="19c6a-117">For information about audited activities in other Office 365 services, see  [the table in this article](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span></span>
+- <span data-ttu-id="50031-117">Για πληροφορίες σχετικά με τις ελεγμένες δραστηριότητες σε άλλες υπηρεσίες, ανατρέξτε [στον πίνακα σε αυτό το άρθρο](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span><span class="sxs-lookup"><span data-stu-id="50031-117">For information about audited activities in other services, see  [the table in this article](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span></span>
 
-- <span data-ttu-id="19c6a-118">Εδώ μια λίστα με συνήθεις ερωτήσεις [συχνές ερωτήσεις](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) σχετικά με την αναζήτηση στο αρχείο καταγραφής ελέγχου.</span><span class="sxs-lookup"><span data-stu-id="19c6a-118">Here a list of frequently asked questions [frequently asked questions](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) about searching the audit log.</span></span>
+- <span data-ttu-id="50031-118">Εδώ, μια λίστα με συνήθεις ερωτήσεις [που κάνουν συχνές ερωτήσεις σχετικά](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) με την αναζήτηση στο αρχείο καταγραφής ελέγχου.</span><span class="sxs-lookup"><span data-stu-id="50031-118">Here a list of frequently asked questions [frequently asked questions](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) about searching the audit log.</span></span>
