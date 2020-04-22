@@ -1,9 +1,9 @@
 ---
-title: Τόμος άδεια χρήσης enterprise ενεργοποιηθεί σε λανθασμένο λογαριασμό
+title: Σύμβαση παραχώρησης πολλαπλών αδειών χρήσης (volume licensing) που ενεργοποιείται σε λάθος λογαριασμό
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 1387a2ab32d57881ce7d4842dd5d278e789a5d0e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716208"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Τόμος άδεια χρήσης enterprise ενεργοποιηθεί σε λανθασμένο λογαριασμό
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Σύμβαση παραχώρησης πολλαπλών αδειών χρήσης (volume licensing) που ενεργοποιείται σε λάθος λογαριασμό
 
-Εάν μπορείτε να βρείτε τις εγγραφές που έχουν αγοραστεί μέσω μιας συμφωνίας εταιρικής άδειας χρήσης τόμου έχει ενεργοποιηθεί σε ο ένοικος λάθος, χρησιμοποιήστε την επιλογή "ας γίνει κλήσης" για να συνομιλήσετε με έναν μηχανικό υποστήριξης.
+Αν διαπιστώσετε ότι οι συνδρομές σας που αγοράστηκαν μέσω μιας Εταιρικής Σύμβασης παραχώρησης πολλαπλών αδειών χρήσης (Volume Licensing), έχουν ενεργοποιηθεί σε λάθος μισθωτή, χρησιμοποιήστε την επιλογή "Αφήστε μας να σας καλέσουμε" για να μιλήσετε με έναν μηχανικό υποστήριξης.

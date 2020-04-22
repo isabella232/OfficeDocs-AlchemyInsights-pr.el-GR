@@ -1,5 +1,5 @@
 ---
-title: εργαλείο εξαγωγής ανακάλυψης
+title: Εργαλείο εξαγωγής eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769303"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714770"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Δεν είναι δυνατή η εγκατάσταση ή η εκτέλεση του εργαλείου εξαγωγής ανακάλυψης;
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Δεν είναι δυνατή η εγκατάσταση ή η εκτέλεση του εργαλείου εξαγωγής eDiscovery;
 
-Εάν δεν μπορείτε να εγκαταστήσετε ή να εκτελέσετε το εργαλείο εξαγωγής ανακάλυψης του Office 365 για να κάνετε λήψη αποτελεσμάτων αναζήτησης, ελέγξτε τα ακόλουθα πράγματα:
+Εάν δεν μπορείτε να εγκαταστήσετε ή να εκτελέσετε το εργαλείο εξαγωγής eDiscovery για να κάνετε λήψη αποτελεσμάτων αναζήτησης, ελέγξτε τα εξής:
   
-- Ο υπολογιστής που χρησιμοποιείτε ικανοποιεί αυτά τα Προαπαιτούμενα:
+- Ο υπολογιστής που χρησιμοποιείτε πληροί αυτές τις προϋποθέσεις:
 
-  - 32-ή 64-bit εκδόσεις των Windows 7 και νεότερες εκδόσεις
+  - Εκδόσεις 32 ή 64 bit των Windows 7 και νεότερες εκδόσεις
 
-  - 4,7 του Microsoft .NET Framework
+  - Microsoft .NET Framework 4.7
 
   - Ένα υποστηριζόμενο πρόγραμμα περιήγησης:
 
-  - Άκρο της Microsoft
+  - Microsoft Edge
 
     Ή
 
   - Internet Explorer 10 και νεότερες εκδόσεις
 
-    Δεν υποστηρίζονται άλλα προγράμματα περιήγησης, όπως το Google Chrome και το Mozilla Firefox.
+    Άλλα προγράμματα περιήγησης, όπως το Google Chrome και το Mozilla Firefox, δεν υποστηρίζονται.
 
-- Ο οργανισμός σας μπορεί να συνδεθεί με το τελικό σημείο στο Azure, το οποίο είναι ** \*. blob.Core.Windows.NET** (ο χαρακτήρας μπαλαντέρ αντιπροσωπεύει ένα μοναδικό αναγνωριστικό για την εργασία εξαγωγής σας).
+- Ο οργανισμός σας μπορεί να συνδεθεί με το τελικό σημείο στο Azure, το οποίο είναι ** \*.blob.core.windows.net** (ο χαρακτήρας μπαλαντέρ αντιπροσωπεύει ένα μοναδικό αναγνωριστικό για την εργασία εξαγωγής).
 
-- Σας εκχωρείται ο ρόλος εξαγωγής στο κέντρο συμμόρφωσης ασφαλείας &amp; του Office 365. Από προεπιλογή, αυτός ο ρόλος αντιστοιχίζεται μόνο στην ομάδα ρόλων της διαχείρισης ανακάλυψης. Δείτε την [Ανάθεση δικαιωμάτων ανακάλυψης](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Σας έχει ανατεθεί ο ρόλος εξαγωγής &amp; στο Κέντρο συμμόρφωσης ασφαλείας ασφαλείας του Microsoft 365. Από προεπιλογή, αυτός ο ρόλος εκχωρείται μόνο στην ομάδα ρόλων του EDiscovery Manager. Ανατρέξτε στο θέμα [Εκχώρηση δικαιωμάτων eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο στοιχείο [Εξαγωγή αποτελεσμάτων αναζήτησης περιεχομένου](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εξαγωγή αποτελεσμάτων αναζήτησης περιεχομένου](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

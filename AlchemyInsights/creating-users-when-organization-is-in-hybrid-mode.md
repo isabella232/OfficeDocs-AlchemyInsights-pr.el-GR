@@ -1,9 +1,9 @@
 ---
-title: 744 δημιουργία χρηστών, όταν ο οργανισμός είναι σε κατάσταση υβριδικής
+title: 744 Δημιουργία χρηστών όταν ο οργανισμός βρίσκεται σε υβριδική λειτουργία
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514907"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715268"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Δημιουργία χρηστών σε υβριδική αναπτύξεις
+# <a name="create-users-in-hybrid-deployments"></a>Δημιουργία χρηστών σε υβριδικές αναπτύξεις
 
-Όταν ο οργανισμός σας είναι μια ανάπτυξη υβριδική μεταξύ ένα περιβάλλον εσωτερικής εγκατάστασης και Office 365, πρέπει να δημιουργήσετε όλα τα αντικείμενα χρήστη σας εσωτερικής εγκατάστασης υπηρεσίας καταλόγου Active Directory. Δημιουργήστε τα αντικείμενα χρήστη στην κατάλληλη οργανική μονάδα (OU), ώστε να τους κάνετε συγχρονισμό στον οργανισμό σας Office 365.
+Όταν ο οργανισμός σας είναι μια υβριδική ανάπτυξη μεταξύ ενός περιβάλλοντος εσωτερικής εγκατάστασης και του Microsoft 365, πρέπει να δημιουργήσετε όλα τα αντικείμενα χρήστη στην υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης. Μπορείτε να δημιουργήσετε τα αντικείμενα χρήστη στην κατάλληλη οργανωτική μονάδα (OU), ώστε να συγχρονίζονται στον οργανισμό σας.

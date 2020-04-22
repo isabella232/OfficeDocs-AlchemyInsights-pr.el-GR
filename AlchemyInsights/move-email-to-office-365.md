@@ -1,5 +1,5 @@
 ---
-title: Μετακίνηση μηνύματος ηλεκτρονικού ταχυδρομείου στο Office 365
+title: Μετακίνηση ηλεκτρονικού ταχυδρομείου στο Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666876"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713610"
 ---
-# <a name="move-email-to-office-365"></a>Μετακίνηση μηνύματος ηλεκτρονικού ταχυδρομείου στο Office 365
+# <a name="move-email-to-microsoft-365"></a>Μετακίνηση ηλεκτρονικού ταχυδρομείου στο Microsoft 365
 
-Έχετε διάφορες επιλογές για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου στο Office 365. Ο [σύμβουλος μετεγκατάστασης αλληλογραφίας του Office 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) σάς βοηθά να επιλέξετε το καλύτερο για το περιβάλλον σας και επίσης σας καθοδηγεί τη μετεγκατάσταση της αλληλογραφίας.
+Έχετε πολλές επιλογές για τη μετεγκατάσταση μηνυμάτων ηλεκτρονικού ταχυδρομείου στο Microsoft 365. Ο [σύμβουλος μετεγκατάστασης αλληλογραφίας του Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) σάς βοηθά να επιλέξετε το καλύτερο για το περιβάλλον σας και επίσης σας καθοδηγεί στη μετεγκατάσταση αλληλογραφίας.
   
-Για να διαβάσετε σχετικά με τις επιλογές σας χωρίς να κάνετε εκκίνηση της μετεγκατάστασης, ανατρέξτε [αποφασίσει σε μια διαδρομή μετεγκατάστασης](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Για να διαβάσετε σχετικά με τις επιλογές σας χωρίς να ξεκινήσετε τη μετεγκατάσταση, ανατρέξτε στο θέμα [Αποφασίστε σχετικά με μια διαδρομή μετεγκατάστασης](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Ελέγξτε επίσης το [εγκρίνει Office 365 με FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) σελίδα για βοήθεια Βοήθεια σχετικά με τη μετεγκατάσταση, εάν είναι επιλέξιμα.
+Ελέγξτε επίσης τη σελίδα [Υιοθέτηση του Microsoft 365 με το FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) για βοήθεια σχετικά με τη μετεγκατάσταση, εάν είναι κατάλληλη.
   

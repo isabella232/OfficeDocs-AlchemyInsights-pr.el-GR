@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713322"
 ---
 # <a name="office-activation-errors"></a>Σφάλματα ενεργοποίησης του Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118438"
 
 3. Αν εξακολουθείτε να μην έχετε άδεια χρήσης για το Office, κατεβάστε και εκτελέστε την [Αντιμετώπιση προβλήματα ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) στον υπολογιστή που επηρεάζεται, για να επιλυθούν τα προβλήματα ενεργοποίησης. 
 
-4. Αν εξακολουθείτε να μην έχετε άδεια χρήσης για το Office, [επαναφέρετε την κατάσταση ενεργοποίησης του Office](https://docs.microsoft.com/el-GR/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Στη συνέχεια, επανεκκινήστε το Office και συνδεθείτε χρησιμοποιώντας τον εταιρικό ή σχολικό λογαριασμό σας, εάν σας ζητηθεί.  
+4. Αν εξακολουθείτε να μην έχετε άδεια χρήσης για το Office, [επαναφέρετε την κατάσταση ενεργοποίησης του Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Στη συνέχεια, επανεκκινήστε το Office και συνδεθείτε χρησιμοποιώντας τον εταιρικό ή σχολικό λογαριασμό σας, εάν σας ζητηθεί.  
 
 5. Για περισσότερες ενέργειες αντιμετώπισης προβλημάτων, ανατρέξτε στο θέμα [Προϊόν χωρίς άδεια χρήσης και σφάλματα ενεργοποίησης στο Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
