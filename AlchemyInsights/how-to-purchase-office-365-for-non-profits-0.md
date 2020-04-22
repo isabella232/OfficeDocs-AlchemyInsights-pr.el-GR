@@ -1,9 +1,9 @@
 ---
-title: Πώς να αγοράσετε το Office 365 για μη-κέρδη
+title: Τρόπος αγοράς του Office 365 για μη κερδοσκοπικούς οργανισμούς
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: c67d3804fa752975e428e01b4ad012479fff9375
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390080"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763613"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="8d415-102">Πώς να αγοράσετε το Office 365 για Nonprofits</span><span class="sxs-lookup"><span data-stu-id="8d415-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="b7955-102">Τρόπος αγοράς του Office 365 για Μη Κερδοσκοπικούς Οργανισμούς</span><span class="sxs-lookup"><span data-stu-id="b7955-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="8d415-103">Έχουμε αναθεωρούνται την αίτησή σας και προσδιόρισε δεν είναι επιλέξιμες ως έναν μη κερδοσκοπικό οργανισμό Microsoft ειδική αυτόν τον οργανισμό.</span><span class="sxs-lookup"><span data-stu-id="8d415-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="b7955-103">Εξετάσαμε το αίτημά σας και προσδιορίσαμε ότι αυτός ο οργανισμός δεν είναι κατάλληλος ως οργανισμός με ειδική μη κερδοσκοπικού χαρακτήρα της Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b7955-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="8d415-104">Για να αγοράσετε το Office 365 εμπορικά, δείτε: [υπάρχουν διαθέσιμες προσφορές](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="8d415-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="b7955-104">Για να αγοράσετε το Office 365 εμπορικά, ανατρέξτε στις [διαθέσιμες προσφορές](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="b7955-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>

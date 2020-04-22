@@ -1,9 +1,9 @@
 ---
-title: Όταν θα χρεωθεί πιστωτικής μου κάρτας;
+title: Πότε χρεώνεται η πιστωτική μου κάρτα;
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765269"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="07746-102">Όταν θα χρεωθεί πιστωτικής μου κάρτας;</span><span class="sxs-lookup"><span data-stu-id="07746-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="06df7-102">Πότε χρεώνεται η πιστωτική μου κάρτα;</span><span class="sxs-lookup"><span data-stu-id="06df7-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="07746-103">Με μια αρχική αγορά, μπορεί να χρειαστούν έως και δύο ημέρες για το φορτίο να συμβεί.</span><span class="sxs-lookup"><span data-stu-id="07746-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="06df7-103">Με μια αρχική αγορά, μπορεί να χρειαστούν έως και δύο ημέρες για να πραγματοποιηθεί η χρέωση.</span><span class="sxs-lookup"><span data-stu-id="06df7-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="07746-104">Περιοδικές χρεώσεις συμβεί εντός μιας ημέρας από το τιμολόγιο που δημιουργείται.</span><span class="sxs-lookup"><span data-stu-id="07746-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="06df7-104">Οι επαναλαμβανόμενες χρεώσεις πραγματοποιούνται εντός μίας ημέρας από τη δημιουργία του τιμολογίου.</span><span class="sxs-lookup"><span data-stu-id="06df7-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="07746-105">Εάν το φορτίο δεν είναι επιτυχής, το σύστημα θα συνεχίσει την προσπάθεια να διευθετήσουν το υπόλοιπο πάνω από τις επόμενες λίγες εβδομάδες.</span><span class="sxs-lookup"><span data-stu-id="07746-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="07746-106">Μπορούν να ενημερώνουν τις πληροφορίες πληρωμής σας οποιαδήποτε στιγμή για να εξασφαλίσει την επόμενη προσπάθεια τόκων είναι επιτυχής.</span><span class="sxs-lookup"><span data-stu-id="07746-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="07746-107">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση μιας πιστωτικής κάρτας ή του τραπεζικού λογαριασμού στο Office 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="07746-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="06df7-105">Εάν η χρέωση αποτύχει, το σύστημα θα συνεχίσει να προσπαθεί να διευθετήσει το υπόλοιπο τις επόμενες εβδομάδες.</span><span class="sxs-lookup"><span data-stu-id="06df7-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="06df7-106">Μπορείτε να κάνετε ενημερώσεις στα στοιχεία πληρωμής σας οποιαδήποτε στιγμή για να ασφαλίσετε την επόμενη προσπάθεια φόρτισης είναι επιτυχής.</span><span class="sxs-lookup"><span data-stu-id="06df7-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="06df7-107">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση πιστωτικής κάρτας ή τραπεζικού λογαριασμού στο Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="06df7-107">For more information, see [Add, update or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>

@@ -1,9 +1,9 @@
 ---
-title: Μετεγκατάσταση γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών
+title: Μετεγκατάσταση γραμματοκιβωτίων μεταξύ δύο διαφορετικών μισθωτών
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734453"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762281"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="f51a5-102">Μετεγκατάσταση γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών</span><span class="sxs-lookup"><span data-stu-id="f51a5-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="a07ef-102">Μετεγκατάσταση γραμματοκιβωτίων μεταξύ δύο διαφορετικών μισθωτών</span><span class="sxs-lookup"><span data-stu-id="a07ef-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="f51a5-103">Ίσως χρειαστεί να μετεγκαταστήσετε γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών στο Office 365, για παράδειγμα, όταν υπάρχουν συγχωνεύσεις οργανισμού.</span><span class="sxs-lookup"><span data-stu-id="f51a5-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="f51a5-104">Αυτές οι μετεγκαταστάσεις θα πρέπει να σχεδιάζονται προσεκτικά.</span><span class="sxs-lookup"><span data-stu-id="f51a5-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="f51a5-105">Παρακαλείσθε να δείτε τις ακόλουθες οδηγίες:</span><span class="sxs-lookup"><span data-stu-id="f51a5-105">Please see the following guidance:</span></span>
+<span data-ttu-id="a07ef-103">Ίσως χρειαστεί να μετεγκαταστήσετε γραμματοκιβώτια μεταξύ δύο διαφορετικών μισθωτών, για παράδειγμα, όταν υπάρχουν συγχωνεύσεις οργανισμών.</span><span class="sxs-lookup"><span data-stu-id="a07ef-103">You may need to migrate mailboxes between two different tenants, for example, when there are organization mergers.</span></span> <span data-ttu-id="a07ef-104">Αυτές οι μεταναστεύσεις θα πρέπει να σχεδιαστούν προσεκτικά.</span><span class="sxs-lookup"><span data-stu-id="a07ef-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="a07ef-105">Ανατρέξτε στις ακόλουθες οδηγίες:</span><span class="sxs-lookup"><span data-stu-id="a07ef-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="f51a5-106">Πώς να μετεγκαταστήσετε γραμματοκιβώτια από ένα Office 365 μισθωτών σε ένα άλλο</span><span class="sxs-lookup"><span data-stu-id="f51a5-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="a07ef-106">Τρόπος μετεγκατάστασης γραμματοκιβωτίων από έναν μισθωτή σε έναν άλλο</span><span class="sxs-lookup"><span data-stu-id="a07ef-106">How to migrate mailboxes from one tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
