@@ -1,9 +1,9 @@
 ---
-title: Πρόσφατη έκθεση δεδομένων
+title: Πρόσφατη έκθεση σε δεδομένα
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/12/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: d6017c9b71f34856d2d3823a960798dc1dcf8280
-ms.sourcegitcommit: ad6ae646d8b99f3c3b864ba3adb093970e8e8393
+ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41989932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724914"
 ---
-# <a name="recent-data-exposure"></a><span data-ttu-id="11f2d-102">Πρόσφατη έκθεση δεδομένων</span><span class="sxs-lookup"><span data-stu-id="11f2d-102">Recent data exposure</span></span>
+# <a name="recent-data-exposure"></a><span data-ttu-id="9e719-102">Πρόσφατη έκθεση σε δεδομένα</span><span class="sxs-lookup"><span data-stu-id="9e719-102">Recent data exposure</span></span>
 
-<span data-ttu-id="11f2d-103">Η Microsoft έχει ενημερωθεί από έναν τρίτο ερευνητή ότι μια βάση δεδομένων που φιλοξενεί αναθεωρημένα δεδομένα υποστήριξης της Microsoft ήταν προσπελάσιμη χωρίς έλεγχο ταυτότητας.</span><span class="sxs-lookup"><span data-stu-id="11f2d-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="11f2d-104">Στις 31 Δεκεμβρίου 2019, η Microsoft ασφάλισε τη βάση δεδομένων.</span><span class="sxs-lookup"><span data-stu-id="11f2d-104">On December 31, 2019, Microsoft secured the database.</span></span>
+<span data-ttu-id="9e719-103">Η Microsoft ενημερώθηκε από έναν ερευνητή άλλου κατασκευαστή ότι μια βάση δεδομένων που φιλοξενεί αναθεωρημένα δεδομένα υποστήριξης της Microsoft ήταν προσβάσιμη χωρίς έλεγχο ταυτότητας.</span><span class="sxs-lookup"><span data-stu-id="9e719-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="9e719-104">Στις 31 Δεκεμβρίου 2019, η Microsoft εξασφάλισε τη βάση δεδομένων.</span><span class="sxs-lookup"><span data-stu-id="9e719-104">On December 31, 2019, Microsoft secured the database.</span></span>
 
-<span data-ttu-id="11f2d-105">Δεσμευόμαστε για την προστασία της ιδιωτικής ζωής και της ασφάλειας των πελατών μας και αναλαμβάνουμε δράση για την αποτροπή μελλοντικών εμφανίσεων αυτού του ζητήματος.</span><span class="sxs-lookup"><span data-stu-id="11f2d-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="11f2d-106">Έχουμε ξεκινήσει ειδοποιήσεις σε πελάτες των οποίων τα δεδομένα ήταν παρόντες σε αυτή τη βάση δεδομένων που έχει διαγραφεί.</span><span class="sxs-lookup"><span data-stu-id="11f2d-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="11f2d-107">Για περισσότερες πληροφορίες, παρακαλούμε μεταβείτε στις [Πληροφορίες ενημέρωσης πελατών σχετικά με μια πρόσφατη έκθεση πληροφοριών](https://aka.ms/privacyinfo).</span><span class="sxs-lookup"><span data-stu-id="11f2d-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
+<span data-ttu-id="9e719-105">Δεσμευόμαστε για την προστασία της ιδιωτικής ζωής και της ασφάλειας των πελατών μας και αναλαμβάνουμε δράση για την πρόληψη μελλοντικών περιστατικών αυτού του ζητήματος.</span><span class="sxs-lookup"><span data-stu-id="9e719-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="9e719-106">Έχουμε ξεκινήσει ειδοποιήσεις σε πελάτες των οποίων τα δεδομένα ήταν παρόντα σε αυτήν τη αναθεωρημένη βάση δεδομένων.</span><span class="sxs-lookup"><span data-stu-id="9e719-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="9e719-107">Για περισσότερες πληροφορίες, μεταβείτε στην [επιλογή Πληροφορίες αναγνωρισιμότητας πελατών που σχετίζονται με μια πρόσφατη έκθεση σε πληροφορίες](https://aka.ms/privacyinfo).</span><span class="sxs-lookup"><span data-stu-id="9e719-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>

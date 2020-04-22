@@ -1,9 +1,9 @@
 ---
-title: 1800014 χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή
+title: 1800014 Χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/14/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,16 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d388752771cdb8902154c37d7a08926ad71785d9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 964c051bdaeda01620d1ddc6bd7ec3c8b64ae444
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720999"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a><span data-ttu-id="1a2b1-102">Χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή</span><span class="sxs-lookup"><span data-stu-id="1a2b1-102">Using a shared mailbox on a mobile device</span></span>
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a><span data-ttu-id="c17b2-102">Χρήση κοινόχρηστου γραμματοκιβωτίου σε κινητή συσκευή</span><span class="sxs-lookup"><span data-stu-id="c17b2-102">Using a shared mailbox on a mobile device</span></span>
 
-<span data-ttu-id="1a2b1-103">Για να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο στην κινητή συσκευή σας, θα πρέπει να [κάνετε λήψη του Outlook Mobile](https://products.office.com/outlook-mobile-for-android-and-ios) και, στη συνέχεια, [Προσθέστε ένα κοινόχρηστο γραμματοκιβώτιο στο Outlook Mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).</span><span class="sxs-lookup"><span data-stu-id="1a2b1-103">In order to use a shared mailbox on your mobile device, you should [download Outlook mobile](https://products.office.com/outlook-mobile-for-android-and-ios) and then [Add a shared mailbox to Outlook mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).</span></span>
+<span data-ttu-id="c17b2-103">Για να χρησιμοποιήσετε ένα κοινόχρηστο γραμματοκιβώτιο στην κινητή συσκευή σας, θα πρέπει να [κάνετε λήψη του Outlook για κινητές συσκευές](https://products.office.com/outlook-mobile-for-android-and-ios) και, στη συνέχεια, να [προσθέσετε ένα κοινόχρηστο γραμματοκιβώτιο στο Outlook για κινητές συσκευές](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).</span><span class="sxs-lookup"><span data-stu-id="c17b2-103">In order to use a shared mailbox on your mobile device, you should [download Outlook mobile](https://products.office.com/outlook-mobile-for-android-and-ios) and then [Add a shared mailbox to Outlook mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).</span></span>
   
-<span data-ttu-id="1a2b1-104">Για να λάβετε βοήθεια: [Αποκτήστε βοήθεια in-app για το Outlook για iOS και Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span><span class="sxs-lookup"><span data-stu-id="1a2b1-104">To get help: [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span></span>
+<span data-ttu-id="c17b2-104">Για να λάβετε βοήθεια: [Λάβετε βοήθεια εντός εφαρμογής για το Outlook για iOS και Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span><span class="sxs-lookup"><span data-stu-id="c17b2-104">To get help: [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span></span>
   

@@ -1,8 +1,8 @@
 ---
-title: Υπηρεσία περιστατικό σε εξέλιξη
+title: Περιστατικό υπηρεσίας σε εξέλιξη
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550623"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719731"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="72f4f-102">Υπηρεσία περιστατικό σε εξέλιξη</span><span class="sxs-lookup"><span data-stu-id="72f4f-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="69ace-102">Περιστατικό υπηρεσίας σε εξέλιξη</span><span class="sxs-lookup"><span data-stu-id="69ace-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="72f4f-103">Μπορεί να έχει επηρεαστεί από κάποιο περιστατικό υπηρεσίας ή συμβουλευτική που είναι εξετάζεται αυτήν τη στιγμή.</span><span class="sxs-lookup"><span data-stu-id="72f4f-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="72f4f-104">Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση μεταβαίνοντας στη σελίδα [Εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="72f4f-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="69ace-103">Ενδέχεται να επηρεαστείτε από ένα περιστατικό υπηρεσίας ή μια συμβουλευτική που διερευνάται αυτήν τη στιγμή.</span><span class="sxs-lookup"><span data-stu-id="69ace-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="69ace-104">Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση μεταβαίνει στη σελίδα ["Εύρυθμη λειτουργία υπηρεσίας".](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="69ace-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="72f4f-105">Για δική σας διευκόλυνση, μπορείτε να βρείτε μια σύνοψη των παρακάτω αυτό το περιστατικό:</span><span class="sxs-lookup"><span data-stu-id="72f4f-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="69ace-105">Για τη διευκόλυνσή σας, μπορείτε να βρείτε μια περίληψη αυτού του περιστατικού παρακάτω:</span><span class="sxs-lookup"><span data-stu-id="69ace-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="72f4f-106">**Αριθμός συμβάντος:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="72f4f-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="69ace-106">**Αριθμός περιστατικού:**[{Αναγνωριστικό περιστατικού}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="69ace-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="72f4f-107">Επιπτώσεις περιγραφή: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="72f4f-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="69ace-107">Περιγραφή επιπτώσεων: {Περιγραφή επιπτώσεων}</span><span class="sxs-lookup"><span data-stu-id="69ace-107">Impact description: {ImpactDescription}</span></span>

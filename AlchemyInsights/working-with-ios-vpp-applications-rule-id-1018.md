@@ -1,8 +1,8 @@
 ---
-title: Εργασία με iOS 1018 αναγνωριστικό κανόνα εφαρμογές VPP
+title: Εργασία με το αναγνωριστικό κανόνα 1018 εφαρμογών VPP iOS
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557995"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719957"
 ---
-# <a name="working-with-ios-vpp-applications"></a><span data-ttu-id="c696d-102">Εργασία με iOS εφαρμογές VPP</span><span class="sxs-lookup"><span data-stu-id="c696d-102">Working with iOS VPP Applications</span></span>
+# <a name="working-with-ios-vpp-applications"></a><span data-ttu-id="4b323-102">Εργασία με εφαρμογές VPP iOS</span><span class="sxs-lookup"><span data-stu-id="4b323-102">Working with iOS VPP Applications</span></span>
 
-<span data-ttu-id="c696d-103">Διαβάστε [Πώς να διαχειρίζεστε εφαρμογές iOS που αγοράζονται μέσω ενός προγράμματος όγκου αγοράς με Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) για να μάθετε σχετικά με τις δυνατότητες, οι περιορισμοί και τα βήματα για να χρησιμοποιήσετε το πρόγραμμα αγοράς Apple τόμου και η υποστήριξη για το σκοπό αυτό στο Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="c696d-103">Read [How to manage iOS apps purchased through a volume-purchase program with Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) to learn about features, constraints, and steps to make use of the Apple Volume Purchase Program and the support for it in Microsoft Intune.</span></span>
+<span data-ttu-id="4b323-103">Διαβάστε [πώς να διαχειρίζεστε εφαρμογές iOS που αγοράζονται μέσω ενός προγράμματος αγοράς τόμου με το Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) για να μάθετε σχετικά με τις δυνατότητες, τους περιορισμούς και τα βήματα για να χρησιμοποιήσετε το Πρόγραμμα αγορών όγκου Apple και την υποστήριξή του στο Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="4b323-103">Read [How to manage iOS apps purchased through a volume-purchase program with Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) to learn about features, constraints, and steps to make use of the Apple Volume Purchase Program and the support for it in Microsoft Intune.</span></span>
   
- <span data-ttu-id="c696d-104">**Κοινά θέματα:** "Θα αντιστοιχιστεί μια εφαρμογή VPP iOS των χρηστών, αλλά η εγκατάσταση απέτυχε."</span><span class="sxs-lookup"><span data-stu-id="c696d-104">**Common Issues:** "I assigned an iOS VPP app to my users, but the installation failed."</span></span>
+ <span data-ttu-id="4b323-104">**Κοινά θέματα:** "Εκχώρησα μια εφαρμογή VPP iOS στους χρήστες μου, αλλά η εγκατάσταση απέτυχε."</span><span class="sxs-lookup"><span data-stu-id="4b323-104">**Common Issues:** "I assigned an iOS VPP app to my users, but the installation failed."</span></span>
   
-- <span data-ttu-id="c696d-105">Αυτό μπορεί να συμβεί εάν ένα μοναδικό διακριτικό VPP χρησιμοποιείται διαμέσου πολλών υπηρεσιών παροχής διαχείρισης κινητή συσκευή.</span><span class="sxs-lookup"><span data-stu-id="c696d-105">This can happen if a single VPP token is used across multiple mobile device management providers.</span></span> <span data-ttu-id="c696d-106">Διακριτικά VPP από Apple μπορεί να χρησιμοποιηθεί μόνο με μία υπηρεσία παροχής.</span><span class="sxs-lookup"><span data-stu-id="c696d-106">VPP tokens from Apple may only be used with one provider.</span></span> <span data-ttu-id="c696d-107">Εάν χρησιμοποιήσατε ένα διακριτικό VPP με πολλές υπηρεσίες παροχής, πρέπει να αποστείλετε ξανά το διακριτικό για Intune.</span><span class="sxs-lookup"><span data-stu-id="c696d-107">If you used a VPP token with multiple providers, you must re-upload the token to Intune.</span></span>
+- <span data-ttu-id="4b323-105">Αυτό μπορεί να συμβεί εάν χρησιμοποιείται ένα μόνο διακριτικό VPP σε πολλές υπηρεσίες παροχής διαχείρισης κινητών συσκευών.</span><span class="sxs-lookup"><span data-stu-id="4b323-105">This can happen if a single VPP token is used across multiple mobile device management providers.</span></span> <span data-ttu-id="4b323-106">Τα διακριτικά VPP από την Apple μπορούν να χρησιμοποιηθούν μόνο με έναν πάροχο.</span><span class="sxs-lookup"><span data-stu-id="4b323-106">VPP tokens from Apple may only be used with one provider.</span></span> <span data-ttu-id="4b323-107">Εάν χρησιμοποιήσατε ένα διακριτικό VPP με πολλές υπηρεσίες παροχής, πρέπει να ανεβάσετε εκ νέου το διακριτικό στο Intune.</span><span class="sxs-lookup"><span data-stu-id="4b323-107">If you used a VPP token with multiple providers, you must re-upload the token to Intune.</span></span>
 
-- <span data-ttu-id="c696d-108">Η εγκατάσταση μπορεί να αποτύχει επίσης εάν ο συνολικός αριθμός εγκαταστάσεων υπερβαίνει τον αριθμό των αδειών χρήσης.</span><span class="sxs-lookup"><span data-stu-id="c696d-108">The installation can also fail if the total number of installations exceed the number of licenses.</span></span> <span data-ttu-id="c696d-109">Για να προβάλετε μια αναφορά χρήσης για τις άδειες χρήσης σας, μεταβείτε το **κινητό Intune apps** \> σελίδα **άδειες App** .</span><span class="sxs-lookup"><span data-stu-id="c696d-109">To view a usage report for your licenses, go to the **Intune Mobile apps** \> **App licenses** page.</span></span> <span data-ttu-id="c696d-110">Για να μάθετε τον τρόπο για να ανακτήσετε τις άδειες χρήσης που χρησιμοποιείται, ανατρέξτε στην ενότητα [αυτό το άρθρο.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span><span class="sxs-lookup"><span data-stu-id="c696d-110">To learn how to reclaim licenses in use, see [this article.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span></span>
+- <span data-ttu-id="4b323-108">Η εγκατάσταση μπορεί επίσης να αποτύχει, εάν ο συνολικός αριθμός των εγκαταστάσεων υπερβαίνει τον αριθμό των αδειών χρήσης.</span><span class="sxs-lookup"><span data-stu-id="4b323-108">The installation can also fail if the total number of installations exceed the number of licenses.</span></span> <span data-ttu-id="4b323-109">Για να προβάλετε μια αναφορά χρήσης για τις άδειες χρήσης σας, μεταβείτε στη σελίδα **άδειες χρήσης εφαρμογών εφαρμογών** **Intune Για κινητές συσκευές.** \></span><span class="sxs-lookup"><span data-stu-id="4b323-109">To view a usage report for your licenses, go to the **Intune Mobile apps** \> **App licenses** page.</span></span> <span data-ttu-id="4b323-110">Για να μάθετε πώς μπορείτε να ανακτήσετε άδειες χρήσης, ανατρέξτε σε [αυτό το άρθρο.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span><span class="sxs-lookup"><span data-stu-id="4b323-110">To learn how to reclaim licenses in use, see [this article.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span></span>

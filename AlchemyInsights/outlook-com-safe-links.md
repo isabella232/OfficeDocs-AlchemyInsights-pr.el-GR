@@ -1,9 +1,9 @@
 ---
-title: Ασφαλείς συνδέσεις στο Outlook.com
+title: Ασφαλείς συνδέσεις σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "962"
 - "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: 3ae28c7d3f6586e24950c64ad893081aa25e242a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d814ccf4392c2a9c5239deae788d4349a793a256
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545259"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743669"
 ---
-# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a><span data-ttu-id="08cb1-102">Ασφάλεια για προχωρημένους Outlook.com για τους συνδρομητές του Office 365</span><span class="sxs-lookup"><span data-stu-id="08cb1-102">Advanced Outlook.com security for Office 365 subscribers</span></span>
+# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a><span data-ttu-id="9c9b9-102">Ασφάλεια Outlook.com για προχωρημένους για συνδρομητές microsoft 365</span><span class="sxs-lookup"><span data-stu-id="9c9b9-102">Advanced Outlook.com security for Microsoft 365 subscribers</span></span>
 
-<span data-ttu-id="08cb1-103">Όλοι οι χρήστες Outlook.com απολαύουν ανεπιθύμητης ηλεκτρονικής αλληλογραφίας και φιλτράροντας με κακόβουλο λογισμικό.</span><span class="sxs-lookup"><span data-stu-id="08cb1-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="08cb1-104">Για συνδρομητές Office 365 Home και Office 365 Personal, Outlook.com πραγματοποιεί επιπλέον έλεγχο της συνημμένα και συνδέσεις σε μηνύματα που λαμβάνετε.</span><span class="sxs-lookup"><span data-stu-id="08cb1-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="08cb1-105">Για να μάθετε περισσότερα, διαβάστε [για προχωρημένους Outlook.com ασφαλείας για τους συνδρομητές του Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="08cb1-105">To learn more, read [Advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="9c9b9-103">Όλοι οι χρήστες Outlook.com επωφελούνται από το φιλτράρισμα ανεπιθύμητων μηνυμάτων και κακόβουλου λογισμικού.</span><span class="sxs-lookup"><span data-stu-id="9c9b9-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="9c9b9-104">Για συνδρομητές του Office 365 για Οικιακή Χρήση και του Office 365 για Προσωπική χρήση, Outlook.com εκτελεί επιπλέον έλεγχο συνημμένων και συνδέσεων σε μηνύματα που λαμβάνετε.</span><span class="sxs-lookup"><span data-stu-id="9c9b9-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="9c9b9-105">Για να μάθετε περισσότερα, διαβάστε [την επιλογή Ασφάλεια Outlook.com για προχωρημένους για συνδρομητές του Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9c9b9-105">To learn more, read [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="08cb1-106">Για να ενεργοποιήσετε ή να απενεργοποιήσετε τη δυνατότητα ασφαλούς συνδέσεις, μεταβείτε σας ( [ρυθμίσεις ασφαλείας υψηλής ποιότητας](https://outlook.live.com/mail/options/premium/security)</span><span class="sxs-lookup"><span data-stu-id="08cb1-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="08cb1-107">**Ρυθμίσεις** > **πριμοδότηση** > **ασφαλείας**).</span><span class="sxs-lookup"><span data-stu-id="08cb1-107">**Settings** > **Premium** > **Security**).</span></span>
+<span data-ttu-id="9c9b9-106">Για να ενεργοποιήσετε ή να απενεργοποιήσετε τις Ασφαλείς συνδέσεις, μεταβείτε στις [ρυθμίσεις Premium Security](https://outlook.live.com/mail/options/premium/security) (</span><span class="sxs-lookup"><span data-stu-id="9c9b9-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="9c9b9-107">**Ρυθμίσεις** > **Premium** > **Ασφαλείας**).</span><span class="sxs-lookup"><span data-stu-id="9c9b9-107">**Settings** > **Premium** > **Security**).</span></span>

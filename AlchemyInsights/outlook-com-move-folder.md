@@ -1,9 +1,9 @@
 ---
-title: Η μετακίνηση ενός φακέλου στο Outlook.com
+title: Μετακίνηση φακέλου στο Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: f8de9ceaa7d249f187a5e96b2c728440e0e434b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1012b151c064b32ea35086dac398d72205f16f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546123"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746327"
 ---
-# <a name="move-a-folder-in-outlookcom"></a><span data-ttu-id="91fee-102">Η μετακίνηση ενός φακέλου στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="91fee-102">Move a folder in Outlook.com</span></span>
+# <a name="move-a-folder-in-outlookcom"></a><span data-ttu-id="09200-102">Μετακίνηση φακέλου στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="09200-102">Move a folder in Outlook.com</span></span>
 
-<span data-ttu-id="91fee-103">Μπορείτε να αναδιατάξετε τους φακέλους στην περιοχή **"Αγαπημένα"**, αλλά δεν μπορείτε να αναδιατάξετε τους φακέλους κάτω από τους **φακέλους** ή να δημιουργήσετε έναν υποφάκελο ενός φακέλου.</span><span class="sxs-lookup"><span data-stu-id="91fee-103">You can reorder folders under **Favorites**, but you can't reorder folders under **Folders** or make a subfolder a folder.</span></span> <span data-ttu-id="91fee-104">Εάν κατά λάθος μπορείτε να μετακινήσετε ένα φάκελο σε άλλο φάκελο, δημιουργήστε έναν νέο φάκελο και αντιγράψτε όλα τα email σας από τον υποφάκελο στον νέο φάκελο.</span><span class="sxs-lookup"><span data-stu-id="91fee-104">If you accidentally move a folder into another folder, create a new folder and copy all your email from the subfolder to the new folder.</span></span>
+<span data-ttu-id="09200-103">Μπορείτε να αναδιατάξετε φακέλους στην περιοχή **Αγαπημένα**, αλλά δεν μπορείτε να αναδιατάξετε φακέλους στην περιοχή **Φάκελοι** ή να κάνετε έναν υποφάκελο φάκελο.</span><span class="sxs-lookup"><span data-stu-id="09200-103">You can reorder folders under **Favorites**, but you can't reorder folders under **Folders** or make a subfolder a folder.</span></span> <span data-ttu-id="09200-104">Εάν μετακινήσετε κατά λάθος ένα φάκελο σε άλλο φάκελο, δημιουργήστε ένα νέο φάκελο και αντιγράψτε όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου σας από τον υποφάκελο στο νέο φάκελο.</span><span class="sxs-lookup"><span data-stu-id="09200-104">If you accidentally move a folder into another folder, create a new folder and copy all your email from the subfolder to the new folder.</span></span>
   
-<span data-ttu-id="91fee-105">Για να μάθετε περισσότερα, διαβάστε την [εργασία με φακέλους μηνυμάτων στο Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="91fee-105">To learn more, read [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="09200-105">Για να μάθετε περισσότερα, διαβάστε [την επιλογή Εργασία με φακέλους μηνυμάτων στο Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="09200-105">To learn more, read [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
