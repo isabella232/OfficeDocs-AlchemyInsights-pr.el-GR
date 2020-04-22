@@ -1,22 +1,22 @@
 ---
-title: Είναι που εμφάνιση ηλεκτρονικού ταχυδρομείου καθυστερήσεις ή στην ουρά αλληλογραφίας;
+title: Βλέπετε καθυστερήσεις μέσω ηλεκτρονικού ταχυδρομείου ή αλληλογραφία σε ουρά;
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703787"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Είναι που εμφάνιση ηλεκτρονικού ταχυδρομείου καθυστερήσεις ή στην ουρά αλληλογραφίας;
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Βλέπετε καθυστερήσεις μέσω ηλεκτρονικού ταχυδρομείου ή αλληλογραφία σε ουρά;
 
-Πρόσφατα αποτελέσματα deprecating παλαιότερο Office 365 SMTP απολήξεις. Αυτές οι τιμές προορισμού Office 365 ήταν διαθέσιμη για χρήση σε εγγραφές MX και έξυπνους κεντρικούς υπολογιστές πριν από το 2012. Εάν εξακολουθείτε να χρησιμοποιείτε μία από αυτές τις παλιότερες τιμές, θα χρειαστεί να ενημερώσετε το τελικό σημείο του Office 365 σε μια υποστηριζόμενη τιμή. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα αυτό [υποστηρίζει KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Πρόσφατα ξεκινήσαμε την απαξίωση παλαιότερων τελικών σημείων SMTP. Αυτές οι τιμές προορισμού ήταν διαθέσιμες για χρήση σε εγγραφές MX και έξυπνους κεντρικούς υπολογιστές πριν από το 2012. Εάν εξακολουθείτε να χρησιμοποιείτε μία από αυτές τις παλαιότερες τιμές, θα πρέπει να ενημερώσετε το τελικό σημείο σε μια υποστηριζόμενη τιμή. Για περισσότερες πληροφορίες, ανατρέξτε σε [αυτήν την υποστήριξη KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

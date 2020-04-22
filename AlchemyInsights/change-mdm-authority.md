@@ -2,33 +2,33 @@
 title: Αλλαγή αρχής MDM
 ms.author: sirkkuw
 author: Sirkkuw
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706791"
 ---
-# <a name="change-intune-mdm-authority"></a>Αλλαγή του Intune αρχή MDM
+# <a name="change-intune-mdm-authority"></a>Αλλαγή αρχής MDM intune
 
-Μπορείτε να αλλάξετε την αρχή MDM χωρίς να ανοίξετε μια υπόθεση υποστήριξης. Δείτε τα παρακάτω έγγραφα για οδηγίες:
+Μπορείτε να αλλάξετε την αρχή MDM χωρίς να ανοίξετε μια υπόθεση υποστήριξης. Ανατρέξτε στα παρακάτω έγγραφα για οδηγίες:
   
-- [Αλλαγή της αρχής MDM από τη Διαχείριση ρύθμισης παραμέτρων σε αυτόνομο Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Αλλαγή της αρχής MDM από Διαχείριση παραμέτρων σε Μεμονωμένο Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Αλλαγή της αρχής MDM από το Intune αυτόνομο στη Διαχείριση ρύθμισης παραμέτρων](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Αλλαγή της αρχής MDM από αυτόνομη intune σε Διαχείριση παραμέτρων](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **Συνύπαρξη αρχής MDM**
+ **Συνύπαρξη Αρχής MDM**
   
-- Μπορείτε να έχετε και τις δύο αρχές MDM ενεργές ταυτόχρονα, εάν έχετε ήδη ενεργοποιήσει το Office 365 MDM, αλλά θέλετε να δοκιμάσετε το Intune MDM.
+- Μπορείτε να έχετε και τις δύο αρχές MDM ενεργές ταυτόχρονα, εάν έχετε ήδη ενεργοποιημένο το Office 365 MDM, αλλά θέλετε να δοκιμάσετε το MdM του Intune.
     
-- Διαχειριστές που έχουν ήδη O365 MDM ενεργό μπορεί απλώς να σηματοδοτήσει Intune MDM ως ενεργό από την πύλη Azure.
+- Οι διαχειριστές που έχουν ήδη ενεργό Το O365 MDM μπορούν απλά να επισημάνουν το Intune MDM ως ενεργό από την πύλη Azure.
     
-- Εάν έχετε Intune MDM, αλλά θέλετε να κάνετε χρήση του Office 365 MDM: παρακαλώ ανοίξτε ένα εισιτήριο κάτω και ένας αντιπρόσωπος υποστήριξης θα σας βοηθήσει να ενεργοποιήσετε αυτό για εσάς.
+- Εάν έχετε intune MDM αλλά θέλετε να χρησιμοποιήσετε το Office 365 MDM: ανοίξτε ένα εισιτήριο παρακάτω και ένας παράγοντας υποστήριξης θα σας βοηθήσει να ενεργοποιήσετε αυτό το θέμα.
     
 

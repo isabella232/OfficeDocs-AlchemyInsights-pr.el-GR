@@ -1,9 +1,9 @@
 ---
-title: Δεν είναι δυνατό να εξέλθετε Outlook.com
+title: Outlook.com δεν είναι δυνατή η έξοδος
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666849"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Δεν είναι δυνατή η έξοδος από το Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Δεν είναι δυνατή η έξοδος από Outlook.com
 
-Για να εξέλθετε από το Outlook.com, επιλέξτε το όνομα ή την εικόνα στην επάνω δεξιά γωνία της οθόνης και, στη συνέχεια, επιλέξτε **Έξοδος**.
+Για να αποσυνδεθείτε από Outlook.com, επιλέξτε το όνομα ή την εικόνα σας στην επάνω δεξιά γωνία της οθόνης και, στη συνέχεια, επιλέξτε **Έξοδος**.
 
-Εάν δεν βλέπετε την εικόνα σας στο επάνω μέρος της οθόνης, ελέγξτε για να δείτε εάν είναι ενεργοποιημένη η αποκλεισμού διαφημίσεων. Μερικές φορές αυτό αποτρέπει την εικόνα από την εμφάνιση.
+Αν δεν βλέπετε την εικόνα σας στο επάνω μέρος της οθόνης, ελέγξτε αν είναι ενεργοποιημένος ο αποκλεισμός διαφήμισης. Μερικές φορές αυτό εμποδίζει την εμφάνιση της εικόνας.
 
-Εάν εξακολουθεί να είναι δυνατή η έξοδος από Outlook.com, κάντε κλικ στο κουμπί [https://login.live.com/logout.srf](https://login.live.com/logout.srf) , στη συνέχεια, κλείστε όλα τα παράθυρα του προγράμματος περιήγησης.
+Εάν εξακολουθείτε να μην μπορείτε [https://login.live.com/logout.srf](https://login.live.com/logout.srf) να αποσυνδεθείτε από Outlook.com, κάντε κλικ στην επιλογή Κλείστε όλα τα παράθυρα του προγράμματος περιήγησης.

@@ -3,7 +3,7 @@ title: Εργασία με επίπεδα δικαιωμάτων του SharePoi
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: be0b9373d5494ad1325b557a2b2e23eff8c8bfd4
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922238"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705481"
 ---
 # <a name="working-with-sharepoint-permission-levels"></a>Εργασία με επίπεδα δικαιωμάτων του SharePoint
 
-Το SharePoint διαθέτει προεπιλεγμένα επίπεδα δικαιωμάτων που μπορείτε να χρησιμοποιήσετε, όπως η **συνεισφορά** και η **Προβολή μόνο**. Αλλά αν ένα από αυτά δεν ανταποκρίνεται στις ανάγκες σας, μπορείτε να δημιουργήσετε ένα νέο επίπεδο δικαιωμάτων. Έχετε υπόψη ότι είναι ευκολότερο να παρακολουθείτε τα επίπεδα δικαιωμάτων, εάν δεν αλλάζετε τις προεπιλογές.
+Το SharePoint συνοδεύεται από προεπιλεγμένα επίπεδα δικαιωμάτων που μπορείτε να χρησιμοποιήσετε, όπως **το Contribute** και το **View μόνο**. Αλλά αν ένα από αυτά δεν ανταποκρίνεται στις ανάγκες σας, μπορείτε να δημιουργήσετε ένα νέο επίπεδο δικαιωμάτων. Λάβετε υπόψη ότι είναι πιο εύκολο να παρακολουθείτε τα επίπεδα δικαιωμάτων, αν δεν αλλάξετε τις προεπιλογές.
 
 [Τρόπος δημιουργίας και επεξεργασίας επιπέδων δικαιωμάτων](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

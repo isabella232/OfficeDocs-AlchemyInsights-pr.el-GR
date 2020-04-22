@@ -1,9 +1,9 @@
 ---
-title: Μετεγκατάσταση στο SharePoint Online μέσω της διαχείρισης μετεγκατάστασης
+title: Μετεγκατάσταση στο SharePoint Online μέσω του Migration Manager
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964168"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707187"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Μετεγκατάσταση στο SharePoint Online μέσω της διαχείρισης μετεγκατάστασης
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Μετεγκατάσταση στο SharePoint Online μέσω του Migration Manager
 
-Βρίσκεται στο σύγχρονο κέντρο διαχείρισης του SharePoint, η διαχείριση μετεγκατάστασης σας καθοδηγεί μέσω της εγκατάστασης των πελατών σας και τη δημιουργία των εργασιών σας. Μπορείτε να καθορίσετε καθολικές ρυθμίσεις ή επίπεδο εργασιών, να προβάλλετε την πρόοδο της εργασίας σε όλη την εργασία και να κάνετε λήψη συγκεντρωτικών αναφορών σε επίπεδο σύνοψης και εργασίας.
+Βρισκόμενη στο σύγχρονο κέντρο διαχείρισης του SharePoint, το Migration Manager σάς καθοδηγεί στη ρύθμιση των προγραμμάτων-πελατών σας και στη δημιουργία των εργασιών σας. Μπορείτε να καθορίσετε καθολικές ρυθμίσεις ή ρυθμίσεις σε επίπεδο εργασίας, να προβάλετε την πρόοδο της εργασίας σε όλους και να κάνετε λήψη συγκεντρωτικών αναφορών σύνοψης και σε επίπεδο εργασίας.
 
-* [Ξεκινήστε με τη διαχείριση μετεγκατάστασης](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Προγράμματα-πελάτες διαχείρισης μετεγκατάστασης εγκατάστασης](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Ρυθμίσεις διαχείρισης μετεγκατάστασης](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Γρήγορα αποτελέσματα με το Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Ρύθμιση προγραμμάτων-πελατών στο Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Ρυθμίσεις του Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-settings)

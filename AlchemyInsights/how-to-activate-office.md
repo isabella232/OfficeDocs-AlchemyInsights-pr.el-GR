@@ -1,5 +1,5 @@
 ---
-title: Πώς να ενεργοποιήσετε το Office
+title: Τρόπος ενεργοποίησης του Office
 ms.author: jillz
 author: jillz
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664356"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709695"
 ---
-# <a name="how-to-activate-office"></a>Πώς να ενεργοποιήσετε το Office
+# <a name="how-to-activate-office"></a>Τρόπος ενεργοποίησης του Office
 
-Για να εγκαταστήσετε και να ενεργοποιήσετε με επιτυχία το Office, ο διαχειριστής πρέπει να αντιστοιχιστεί μια [άδεια χρήσης του Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) εργασίας ενός χρήστη ή λογαριασμό σχολείο.
+Για να εγκαταστήσετε και να ενεργοποιήσετε το Office με επιτυχία, ο διαχειριστής πρέπει να έχει εκχωρήσει μια [άδεια χρήσης του Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) σε έναν λογαριασμό εργασίας ή σχολείου ενός χρήστη.
   
-Μετά την εγκατάσταση του Office, σε πολλές περιπτώσεις το Office 365 apps θα ενεργοποιήσει αυτόματα και εάν ο χρήστης δεν έχει ζητηθεί να ενεργοποιήσετε τα, μπορούν να αρχίσουν να χρησιμοποιείτε το Office αμέσως.
+Μετά την εγκατάσταση του Office, σε πολλές περιπτώσεις οι εφαρμογές θα ενεργοποιηθούν αυτόματα και, εάν δεν ζητηθεί από έναν χρήστη να ενεργοποιηθεί, μπορεί να αρχίσει να χρησιμοποιεί το Office αμέσως.
   
-Ωστόσο, εάν ζητηθεί από ένα χρήστη να **εισέλθετε για να εγκαταστήσετε το Office**, πρέπει να συνδεθείτε με την εργασία τους ή σχολείο λογαριασμό, ο οποίος θα πρέπει να έχουν ήδη [εκχωρηθεί άδεια χρήσης του Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Ωστόσο, εάν ζητείται από ένα χρήστη να **εισέλθετε για να ρυθμίσετε το Office**, πρέπει να εισέλθετε με τον λογαριασμό εργασίας ή σχολείου, ο οποίος θα πρέπει να έχει ήδη μια άδεια χρήσης του Office που [έχει εκχωρηθεί](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
-Για αναλυτικές πληροφορίες, ανατρέξτε στο θέμα [Ενεργοποίηση του Office σε έναν Υπολογιστή](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) ή [Ενεργοποίηση του Office σε έναν υπολογιστή Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Για λεπτομερείς πληροφορίες, [ανατρέξτε στο](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) θέμα Ενεργοποίηση του Office σε υπολογιστή ή [Ενεργοποίηση του Office σε Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
   

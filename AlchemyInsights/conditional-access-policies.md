@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706057"
 ---
 # <a name="conditional-access-policies"></a>Πολιτικές πρόσβασης υπό όρους
 
@@ -24,7 +24,7 @@ ms.locfileid: "43100506"
 
 Μάθετε περισσότερα σχετικά με την [Πρόσβαση υπό όρους της Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Σημείωση**: Εάν ο μισθωτής σας δημιουργήθηκε μετά τις 21 Οκτωβρίου 2019 και λάβετε ξαφνικά μήνυμα για MFA, πιθανότατα έχετε ενεργοποιήσει τις [Προεπιλογές ασφαλείας](http://aka.ms/securitydefaults) στο μισθωτή σας.
+**Σημείωση**: Εάν ο μισθωτής σας δημιουργήθηκε μετά τις 21 Οκτωβρίου 2019 και λάβετε ξαφνικά μήνυμα για MFA, πιθανότατα έχετε ενεργοποιήσει τις [Προεπιλογές ασφαλείας](https://aka.ms/securitydefaults) στο μισθωτή σας.
 
 **Για να διαχειριστείτε τις προεπιλογές ασφαλείας**
 

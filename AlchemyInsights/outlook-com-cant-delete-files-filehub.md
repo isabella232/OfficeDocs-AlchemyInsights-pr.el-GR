@@ -1,9 +1,9 @@
 ---
-title: Δεν είναι δυνατό να διαγράψετε φωτογραφίες ή αρχεία από αρχεία του Outlook.com
+title: Δεν είναι δυνατή η διαγραφή φωτογραφιών ή αρχείων από αρχεία σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 15ef1ea577b95bdb965d66c6d0cfa81afd6be252
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ef46e7287e0915fc70857904a44dd802cba6271
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548067"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710767"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Δεν είναι δυνατό να διαγράψετε αρχεία ή φωτογραφίες από αρχεία
+# <a name="cant-delete-files-or-photos-from-files"></a>Δεν είναι δυνατή η διαγραφή αρχείων ή φωτογραφιών από αρχεία
 
-Στο Outlook.com, **αρχεία** εμφανίζει τα αρχεία και τις φωτογραφίες που έχουν επισυναφθεί σε μηνύματα του γραμματοκιβωτίου σας. Για να καταργήσετε αρχεία και φωτογραφίες από τα αρχεία, πρέπει να διαγράψετε τα μηνύματα ηλεκτρονικού ταχυδρομείου είναι συνδεδεμένα. Μετά τη διαγραφή των μηνυμάτων, πρέπει επίσης να τα διαγράψετε από το φάκελο "Διαγραμμένα".
+Στο Outlook.com, **τα αρχεία** εμφανίζουν τα αρχεία και τις φωτογραφίες που είναι συνημμένα σε μηνύματα στο γραμματοκιβώτιό σας. Για να καταργήσετε αρχεία και φωτογραφίες από τα Αρχεία, πρέπει να διαγράψετε τα μηνύματα ηλεκτρονικού ταχυδρομείου στα οποία είναι συνημμένα. Αφού διαγράψετε τα μηνύματα, πρέπει επίσης να τα διαγράψετε από το φάκελο "Διαγραμμένα".
 
-Για να μάθετε περισσότερα, διαβάστε [πώς μπορείτε να διαγράψετε αρχεία ή φωτογραφίες στο Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Για να μάθετε περισσότερα, διαβάστε [την επιλογή Πώς να διαγράψετε αρχεία ή φωτογραφίες στο Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).

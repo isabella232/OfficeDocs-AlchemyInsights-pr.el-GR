@@ -3,31 +3,31 @@ title: Ρύθμιση παραμέτρων εποπτείας
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813837"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705913"
 ---
-# <a name="configure-supervision-policies"></a>Ρυθμίσετε τις πολιτικές ελέγχου
+# <a name="configure-supervision-policies"></a>Ρύθμιση παραμέτρων πολιτικών εποπτείας
 
-Πολιτικές ελέγχου στο Microsoft 365 και Office 365 σας επιτρέπουν να παρακολούθηση ηλεκτρονικού ταχυδρομείου Exchange, Skype για ηλεκτρονική επαγγελματική, ομάδες της Microsoft και τρίτου κατασκευαστή επικοινωνίες εντός και εκτός του οργανισμού σας. Καθορισμένο αναθεωρητές να εξετάσετε παρακολουθούμενων μηνυμάτων ώστε να συμμορφώνονται με τις πολιτικές της εταιρείας σας, η διαχείριση του κινδύνου και συμμόρφωση με κανονισμούς προτύπων και επίλυσή τους με έναν τύπο ταξινόμησης.
+Οι πολιτικές εποπτείας στο Microsoft 365 σάς επιτρέπουν να παρακολουθείτε το ηλεκτρονικό ταχυδρομείο του Exchange, το Skype για επιχειρήσεις Online, το Microsoft Teams και τις επικοινωνίες τρίτων που αποστέλλονται εντός και εκτός του οργανισμού σας. Οι καθορισμένοι αναθεωρητές μπορούν να εξετάσουν τα εποπτευόμενα μηνύματα για να διασφαλίσουν ότι συμμορφώνονται με τις πολιτικές του οργανισμού σας, τη διαχείριση κινδύνων και τα ρυθμιστικά πρότυπα συμμόρφωσης και να τα επιλύσουν με έναν τύπο ταξινόμησης.
 
-Για να χρησιμοποιήσετε την εποπτεία πολιτικές στον οργανισμό σας, πρέπει να:
+Για να χρησιμοποιήσετε τις πολιτικές εποπτείας στον οργανισμό σας, πρέπει να κάνετε τα σχετικά:
 
-- Προσδιορίστε τις ανακοινώσεις για την παρακολούθηση.
-- Να αποφασίσετε ποιος θα γίνει ανασκόπηση των επικοινωνιών.
-- Εγκατάσταση εποπτείας πολιτικές
+- Καθορίστε τις επικοινωνίες για παρακολούθηση.
+- Αποφασίστε ποιος θα εκτελέσει έλεγχο επικοινωνιών.
+- Πολιτικές εποπτείας εγκατάστασης
 
 Μάθε περισσότερα:
 
-- [Επισκόπηση των πολιτικών ελέγχου](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Ρυθμίσετε τις πολιτικές ελέγχου](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Επισκόπηση των πολιτικών εποπτείας](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [Ρύθμιση παραμέτρων πολιτικών εποπτείας](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

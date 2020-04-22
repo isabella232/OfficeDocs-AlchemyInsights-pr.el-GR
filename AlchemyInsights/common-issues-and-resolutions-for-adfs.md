@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286540"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706201"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Συνήθη προβλήματα και λύσεις για το ADFS
 
@@ -28,4 +28,4 @@ ms.locfileid: "43286540"
 
 - [2647020](https://support.microsoft.com/help/2647020) "Δυστυχώς, αντιμετωπίζουμε πρόβλημα με την είσοδό σας στο" και "80041317" ή "80043431", μήνυμα σφάλματος όταν ένας ομόσπονδος χρήστης προσπαθεί να συνδεθεί στο Office 365, το Azure ή το Intune.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ενημερώστε ή επιδιορθώστε τις ρυθμίσεις του ομόσπονδου τομέα στο Office 365, το Azure ή το Intune](https://docs.microsoft.com/el-GR/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ενημερώστε ή επιδιορθώστε τις ρυθμίσεις του ομόσπονδου τομέα στο Office 365, το Azure ή το Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

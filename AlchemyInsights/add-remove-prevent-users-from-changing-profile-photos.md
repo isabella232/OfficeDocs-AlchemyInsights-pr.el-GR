@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 904b282ef8ecfa8144203da49b5ed41f824bcf20
-ms.sourcegitcommit: 9f594bef6725e846f343ba8eb4fe5620727971e5
+ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/22/2020
-ms.locfileid: "42564297"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671493"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Προσθήκη, κατάργηση ή αποτροπή της αλλαγής φωτογραφιών προφίλ από χρήστες
 
-- **Προσθήκη φωτογραφιών προφίλ:** Οι φωτογραφίες προφίλ μπορούν να προστεθούν από ένα διαχειριστή στο [κέντρο διαχείρισης της Microsoft 365, στους ενεργούς χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ή στη [Διαχείριση χρηστών της υπηρεσίας καταλόγου Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Εάν δεν βλέπετε την επιλογή "αλλαγή φωτογραφίας", βεβαιωθείτε ότι έχει εκχωρηθεί άδεια χρήσης σε αυτόν το χρήστη. Οι φωτογραφίες μπορούν να προστεθούν ή να αλλάξουν από έναν χρήστη στο προφίλ χρήστη του από οποιαδήποτε υπηρεσία της Microsoft 365 κάνοντας κλικ στα αρχικά / φωτογραφία τους στην επάνω δεξιά γωνία της οθόνης. Για περισσότερες πληροφορίες σχετικά με την προσθήκη μιας φωτογραφίας προφίλ, ανατρέξτε στο θέμα [Προσθήκη φωτογραφίας προφίλ στο Office 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Προσθήκη φωτογραφιών προφίλ:** Οι φωτογραφίες προφίλ μπορούν να προστεθούν από ένα διαχειριστή στο [κέντρο διαχείρισης της Microsoft 365, στους ενεργούς χρήστες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ή στη [Διαχείριση χρηστών της υπηρεσίας καταλόγου Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Εάν δεν βλέπετε την επιλογή "αλλαγή φωτογραφίας", βεβαιωθείτε ότι έχει εκχωρηθεί άδεια χρήσης σε αυτόν το χρήστη. Οι φωτογραφίες μπορούν να προστεθούν ή να αλλάξουν από έναν χρήστη στο προφίλ χρήστη του από οποιαδήποτε υπηρεσία της Microsoft 365 κάνοντας κλικ στα αρχικά / φωτογραφία τους στην επάνω δεξιά γωνία της οθόνης. Για περισσότερες πληροφορίες σχετικά με την προσθήκη μιας φωτογραφίας προφίλ, ανατρέξτε στο θέμα [Προσθήκη φωτογραφίας προφίλ στο Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
 - **Κατάργηση φωτογραφιών προφίλ:** Οι φωτογραφίες προφίλ μπορούν να καταργηθούν από ένα διαχειριστή στη [Διαχείριση χρηστών της υπηρεσίας καταλόγου Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) ή από ένα χρήστη στο προφίλ χρήστη του Microsoft Teams.
 
-- **Αποκλεισμός αλλαγών φωτογραφιών προφίλ:** Οι αλλαγές φωτογραφιών μπορούν να αποκλειστούν για όλη τη Microsoft 365* προσθέτοντας μια πολιτική του Outlook Web App ανά το άρθρο, [κλείδωμα φωτογραφιών ή περιορισμό δικαιωμάτων για αλλαγή φωτογραφίας προφίλ του Office 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Αποκλεισμός αλλαγών φωτογραφιών προφίλ:** Οι αλλαγές φωτογραφιών μπορούν να αποκλειστούν για όλη τη Microsoft 365* προσθέτοντας μια πολιτική του Outlook Web App ανά το άρθρο, [κλείδωμα φωτογραφιών ή περιορισμό δικαιωμάτων για αλλαγή της φωτογραφίας προφίλ microsoft 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 *Σημειώστε ότι το Microsoft Teams δεν υποστηρίζει αυτήν τη στιγμή την πολιτική του Outlook Web App για τον αποκλεισμό αλλαγών φωτογραφιών, αλλά σχεδιάζει να προσθέσει υποστήριξη για αυτήν τη δυνατότητα στις αρχές του 2020.

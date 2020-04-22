@@ -1,9 +1,9 @@
 ---
-title: Συνδέσεις στο Outlook.com δεν λειτουργούν στο Firefox
+title: Σύνδεσμοι σε Outlook.com δεν λειτουργούν στο Firefox
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: de188644b301495eb29fd828fd460107656a28ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8ae65175bdb2e9d9bc4b624c3bfc7ab6f1eda803
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542557"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709479"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Συνδέσεις στο Outlook.com δεν λειτουργούν στο Firefox
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Σύνδεσμοι σε Outlook.com δεν λειτουργούν στο Firefox
 
-Συνδέσεις σε μηνύματα ηλεκτρονικού ταχυδρομείου Outlook.com δεν λειτουργούν, όταν αυτά είναι προβάλλονται σε προγράμματα περιήγησης Firefox. Mozilla είναι [εργάζεται σε μια ενημέρωση κώδικα](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) για το Firefox, αλλά μέχρι τότε:
+Οι συνδέσεις σε Outlook.com μηνύματα ηλεκτρονικού ταχυδρομείου δεν λειτουργούν όταν προβάλλονται σε προγράμματα περιήγησης Firefox. Mozilla [εργάζεται για μια αποτύπωση](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) για τον Firefox, αλλά μέχρι τότε:
   
-- Χρησιμοποιήστε το [Άκρο της Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ή ένα άλλο πρόγραμμα περιήγησης στο web.
-- Προβάλετε το μήνυμα ηλεκτρονικού ταχυδρομείου στο παράθυρο ανάγνωσης. Για περισσότερες πληροφορίες, διαβάστε πώς μπορείτε να [αλλάξετε την εμφάνιση του γραμματοκιβωτίου σας Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+- Χρησιμοποιήστε τον [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ή κάποιο άλλο πρόγραμμα περιήγησης web.
+- Προβολή ηλεκτρονικού ταχυδρομείου στο παράθυρο ανάγνωσης. Για περισσότερες πληροφορίες, διαβάστε πώς μπορείτε να [αλλάξετε την εμφάνιση του Outlook.com γραμματοκιβώτιο](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

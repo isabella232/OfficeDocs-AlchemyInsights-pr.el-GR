@@ -3,7 +3,7 @@ title: Προσθήκη ημερολογίου του SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4f01c0f1d6b8c6ada537fa1f91ddec1edabb804a
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122544"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671349"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Προσθήκη ημερολογίου του SharePoint
 
-Τα ημερολόγια του SharePoint είναι κλασσικοί τύποι λίστας που μερικές φορές συγχέονται με τα ημερολόγια ομάδας του Office 365.
+Τα Ημερολόγια του SharePoint είναι κλασικοί τύποι λίστας που μερικές φορές συγχέονται με τα Ημερολόγια ομάδας του Office 365.
  
-Για να δημιουργήσετε ένα ημερολόγιο του SharePoint, ακολουθήστε τα εξής βήματα:
+Για να δημιουργήσετε ένα Ημερολόγιο του SharePoint, ακολουθήστε τα εξής βήματα:
  
-1.  Επιλέξτε το εικονίδιο **Ρυθμίσεις** Gear και, στη συνέχεια, επιλέξτε **Προσθήκη εφαρμογής**.
-2.  Στο πλαίσιο αναζήτησης **Εύρεση εφαρμογής** , πληκτρολογήστε **ημερολόγιο** και πατήστε ENTER.
-3.  Επιλέξτε την εφαρμογή με τίτλο **ημερολόγιο**και, στη συνέχεια, πληκτρολογήστε ένα όνομα για το ημερολόγιό σας.
+1.  Επιλέξτε το εικονίδιο γραναζιού **ρυθμίσεων** και, στη συνέχεια, επιλέξτε **Προσθήκη εφαρμογής**.
+2.  Στο πλαίσιο **Εύρεση αναζήτησης εφαρμογής,** **πληκτρολογήστε Ημερολόγιο** και πατήστε το πλήκτρο enter.
+3.  Επιλέξτε την εφαρμογή με τίτλο **Ημερολόγιο**και, στη συνέχεια, πληκτρολογήστε ένα όνομα για το ημερολόγιό σας.
 
-Για περισσότερες πληροφορίες σχετικά με τις ομάδες 365 του Office, ανατρέξτε [στο θέμα πληροφορίες σχετικά με ομάδες office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Για περισσότερες πληροφορίες σχετικά με τις ομάδες του Office 365, ανατρέξτε στο θέμα [Πληροφορίες σχετικά με τις ομάδες του Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

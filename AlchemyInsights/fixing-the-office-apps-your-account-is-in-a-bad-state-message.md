@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547962"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708687"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Επιδιόρθωση του σφάλματος "Ο λογαριασμός σας βρίσκεται σε κακή κατάσταση"
 
@@ -27,5 +27,5 @@ ms.locfileid: "43547962"
   **Σημείωση:** Οι διαδρομές μητρώου για το Office 2016 έχουν αλλάξει σε 16.0. Για παράδειγμα, \Software\Microsoft\Office\16.0\Common\Identity\
 - Εάν παρουσιαστεί το σφάλμα κατά τη σύνδεση στο Office 365 χρησιμοποιώντας το Office 2013, [ενεργοποιήστε το σύγχρονο έλεγχο ταυτότητας](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) για το πρόγραμμα-πελάτη του Office.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Τρόπος αντιμετώπισης προβλημάτων εφαρμογών που δεν είναι πρόγραμμα περιήγησης που δεν μπορούν να εισέλθετε στο Office 365, το Azure ή το Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Τρόπος αντιμετώπισης προβλημάτων εφαρμογών που δεν είναι πρόγραμμα περιήγησης που δεν μπορούν να εισέλθουν στο Microsoft 365, το Azure ή το Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 
