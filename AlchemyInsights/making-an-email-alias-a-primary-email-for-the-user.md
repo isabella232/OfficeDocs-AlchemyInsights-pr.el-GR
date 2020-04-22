@@ -1,9 +1,9 @@
 ---
-title: 723 κάνοντας ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου ένα πρωτεύον μήνυμα ηλεκτρονικού ταχυδρομείου για το χρήστη
+title: 723 Κάνοντας ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου ένα κύριο μήνυμα ηλεκτρονικού ταχυδρομείου για το χρήστη
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721907"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Κάντε ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου την κύρια διεύθυνση ενός χρήστη
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Να γίνει ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου η κύρια διεύθυνση για ένα χρήστη
 
-Για οδηγίες, ανατρέξτε στην [Προσθήκη άλλου ψευδωνύμου ηλεκτρονικού ταχυδρομείου για ένα χρήστη](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Για οδηγίες, ανατρέξτε στο θέμα [Προσθήκη άλλου ψευδωνύμου ηλεκτρονικού ταχυδρομείου για ένα χρήστη](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Σημείωση**: Εάν ο οργανισμός σας βρίσκεται σε υβριδική κατάσταση λειτουργίας, πρέπει να αλλάξετε την κύρια διεύθυνση ηλεκτρονικού ταχυδρομείου στον οργανισμό Exchange εσωτερικής εγκατάστασης. Για περισσότερες πληροφορίες, ανατρέξτε στο στοιχείο [Προσθήκη ή Κατάργηση διευθύνσεων ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://technet.microsoft.com/library/bb123794.aspx).
+**Σημείωση:** Εάν ο οργανισμός σας βρίσκεται σε υβριδική λειτουργία, πρέπει να αλλάξετε την κύρια διεύθυνση ηλεκτρονικού ταχυδρομείου στον οργανισμό Exchange εσωτερικής εγκατάστασης. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη ή κατάργηση διευθύνσεων ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://technet.microsoft.com/library/bb123794.aspx).

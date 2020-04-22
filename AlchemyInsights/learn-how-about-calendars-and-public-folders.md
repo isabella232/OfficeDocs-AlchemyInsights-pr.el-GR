@@ -1,9 +1,9 @@
 ---
-title: 612 μάθετε πώς θα σας φαινόταν ημερολόγια και οι δημόσιοι φάκελοι
+title: 612 Μάθετε πώς γίνεται σχετικά με τα ημερολόγια και τους δημόσιους φακέλους
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "612"
 - "3800010"
 ms.assetid: 390e208c-6f7f-4430-86b1-068f66ea3243
-ms.openlocfilehash: 738661eefe554b32367ddf67a7951a72d229f3c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f9d1027a009af615c0864c65780aaefecbe403
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497407"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762821"
 ---
-# <a name="learn-about-using-public-folders-in-outlook"></a>Μάθετε σχετικά με τη χρήση των δημόσιων φακέλων στο Outlook
+# <a name="learn-about-using-public-folders-in-outlook"></a>Πληροφορίες σχετικά με τη χρήση δημόσιων φακέλων στο Outlook
 
-Δημόσιων φακέλων στο Outlook σάς παρέχουν ένα καλό σημείο για να συλλέξετε, να οργανώσετε και να κάνετε κοινή χρήση πληροφοριών σχετικά με συγκεκριμένα θέματα ή έργα μέσα στην εταιρεία σας. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Δημιουργία και διαμοιρασμός έναν δημόσιο φάκελο στο Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).
+Οι δημόσιοι φάκελοι στο Outlook σάς παρέχουν ένα εξαιρετικό μέρος για να συλλέξετε, να οργανώσετε και να μοιραστείτε πληροφορίες σχετικά με συγκεκριμένα θέματα ή έργα εντός της εταιρείας σας. Για περισσότερες πληροφορίες, [ανατρέξτε](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97)στο θέμα Δημιουργία και κοινή χρήση δημόσιου φακέλου στο Outlook .

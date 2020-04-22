@@ -1,5 +1,5 @@
 ---
-title: Επαληθεύστε τον τομέα σας με 1&1 ΊΩΝΟς
+title: Επαληθεύστε τον τομέα σας με 1&1 IONOS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 429817368bac921f383d93e9d070d1bb8df9da59
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326360"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726140"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a>Επαληθεύστε τον τομέα σας με 1&1 ΊΩΝΟς
+# <a name="verify-your-domain-with-11-ionos"></a>Επαληθεύστε τον τομέα σας με 1&1 IONOS
 
-Για να επαληθεύσετε τον τομέα σας, θα πρέπει να προσθέσετε μια εγγραφή TXT στον καταχωρητή τομέα σας για να επαληθεύσετε ότι είστε ιδιοκτήτης του domain σας. 
+Για να επαληθεύσετε τον τομέα σας, θα πρέπει να προσθέσετε μια εγγραφή TXT στο μητρώο καταχώρησης ονομάτων τομέων για να επαληθεύσετε ότι είστε ο δικός σας τομέας. 
 
-Πρώτα, ακολουθήστε τον [Οδηγό προσθήκης τομέα](https://portal.office.com/adminportal/home#/Domains) επιλέγοντας **ρυθμίσεις** \> **τομείς**και στη συνέχεια **προσθέστε τομέα**.
+Αρχικά, ακολουθήστε τον ["Οδηγό προσθήκης τομέα"](https://portal.office.com/adminportal/home#/Domains) επιλέγοντας **"Ρυθμίσεις** \> **τομέων"** και, στη συνέχεια, **προσθέστε τομέα**.
   
-Δείτε [Δημιουργία ΕΓΓΡΑΦΏΝ DNS σε 1&1 Ίωνος για το Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) για οδηγίες βήμα προς βήμα.
+Ανατρέξτε [στο θέμα Δημιουργία εγγραφών DNS στη 1η&1 IONOS για Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) για οδηγίες βήμα προς βήμα.

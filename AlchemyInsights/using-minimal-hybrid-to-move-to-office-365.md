@@ -1,9 +1,9 @@
 ---
-title: Χρήση ελάχιστο υβριδικό για να μετακινηθείτε στο Office 365
+title: Χρήση της ελάχιστης υβριδικής ρύθμισης για μετακίνηση στη Microsoft
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: c1c28be90e04d8132756d65b657a83382bd66808
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c5ac824e138332c596399132a8845cf17a652e44
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36741689"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726176"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a>Χρήση ελάχιστο υβριδικό για να μετακινηθείτε στο Office 365
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Χρήση του Minimal Hybrid για μετακίνηση στο Microsoft 365
 
-Για να μάθετε περισσότερα σχετικά με το ελάχιστο υβριδικό, επίσης γνωστό ως Express μετεγκατάστασης, ελέγξτε τη [χρήση ελάχιστη υβριδική για να μετεγκατάσταση γρήγορα γραμματοκιβώτια του Exchange στο Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Για να μάθετε περισσότερα σχετικά με το Minimal Hybrid, γνωστό και ως Μετεγκατάσταση εξπρές, ανατρέξτε στο [θέμα Χρήση ελάχιστης υβριδικής για γρήγορη μετεγκατάσταση γραμματοκιβωτίων του Exchange στο Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).

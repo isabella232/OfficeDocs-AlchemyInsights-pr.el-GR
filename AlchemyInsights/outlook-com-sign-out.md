@@ -1,9 +1,9 @@
 ---
-title: Έξοδος από το Outlook.com
+title: Έξοδος από Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557779"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743525"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Πώς μπορείτε να αποσυνδεθείτε από το Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Πώς να αποσυνδεθείτε από Outlook.com
 
-1. Επιλέξτε το όνομα ή την εικόνα στην επάνω δεξιά γωνία.
+1. Επιλέξτε το όνομα ή την εικόνα σας στην επάνω δεξιά γωνία.
 
-    Εάν δεν βλέπετε την εικόνα σας στο επάνω μέρος της οθόνης, ελέγξτε για να δείτε εάν είναι ενεργοποιημένη η αποκλεισμού διαφημίσεων. Μερικές φορές αυτό αποτρέπει την εικόνα από την εμφάνιση.
+    Αν δεν βλέπετε την εικόνα σας στο επάνω μέρος της οθόνης, ελέγξτε αν είναι ενεργοποιημένος ο αποκλεισμός διαφήμισης. Μερικές φορές αυτό εμποδίζει την εμφάνιση της εικόνας.
 
 2. Επιλέξτε **Έξοδος**.
 
-    Για να σταματήσετε να εισέρχεστε αυτόματα, καταργήστε την επιλογή από το πλαίσιο για **να παραμένω σε** στη σελίδα όπου μπορείτε να εισαγάγετε τον κωδικό πρόσβασής σας.
+    Για να διακόψετε την αυτόματη είσοδο, καταργήστε την επιλογή του πλαισίου για την **επιλογή Διατήρηση εγγραφής** στη σελίδα όπου εισάγετε τον κωδικό πρόσβασής σας.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [πώς μπορείτε να εισέλθετε σε ή από Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Τρόπος εισόδου ή εκτός Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

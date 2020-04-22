@@ -1,9 +1,9 @@
 ---
-title: 8000035, αφήστε την έκδοση beta του Outlook.com
+title: 8000035 Αφήστε το Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,18 +18,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 8ee26da8360626165d120b592dec9d32b3d48dce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542881"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762749"
 ---
-# <a name="the-new-outlookcom"></a>Το νέο Outlook.com
+# <a name="the-new-outlookcom"></a>Η νέα Outlook.com
 
-Δεν είναι πλέον δυνατό να αφήσετε την έκδοση beta του Outlook.com και να επιστρέψετε στην κλασική έκδοση του Outlook.com.
+Δεν είναι πλέον δυνατό να αφήσει το Outlook.com βήτα και να επιστρέψει στην κλασική έκδοση του Outlook.com.
   
-Αν θα θέλατε να κάνω σχόλια σχετικά με το νέο Outlook.com, μεταβείτε στο [φόρουμ UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να κάνετε επιλογή τις ιδέες ή τα ζητήματα που θα θέλατε να δείτε αντιμετωπίζονται και σας θα απαντήσουμε απευθείας προς τα επάνω τα σχόλια και τις προτάσεις.
+Αν θέλετε να δώσετε σχόλια σχετικά με τη νέα Outlook.com, μεταβείτε στο [φόρουμ UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να ψηφίσετε για τις ιδέες ή τα ζητήματα που θέλετε να δείτε να αντιμετωπίζονται και θα απαντήσουμε άμεσα στα κορυφαία σχόλια και προτάσεις.
   
-[Μάθετε περισσότερα σχετικά με τη νέα Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Μάθετε περισσότερα για τη νέα Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

@@ -2,26 +2,26 @@
 title: Επιδιόρθωση προβλημάτων αποστολής αρχείων στο OneDrive
 ms.author: matteva
 author: pebaum
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f84d2ca8e5f620af7fb0d583fa311bf9d2d97c0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525152"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719574"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>Επιδιόρθωση προβλημάτων αποστολής αρχείων στο OneDrive
 
-Δοκιμάστε αυτό αν δεν γίνεται μεταφόρτωση ενός αρχείου:
+Δοκιμάστε το αν ένα αρχείο δεν αποστέλλεται:
   
-- Μετονομάστε το αρχείο και προσπαθήστε ξανά. Δεν επιτρέπονται ορισμένα ονόματα αρχείων και χαρακτήρες σε ονόματα αρχείων. 
+- Μετονομάστε το αρχείο και προσπαθήστε ξανά. Ορισμένα ονόματα αρχείων και χαρακτήρες στα ονόματα αρχείων δεν επιτρέπονται. 
     
-- Εάν συγχρονίζετε το αρχείο, μετακινήστε το από το φάκελο του OneDrive (για παράδειγμα, μετακινήστε το στην επιφάνεια εργασίας) και όταν η κατάσταση συγχρονισμού του OneDrive εμφανίζεται ως "ενημερωμένη", μετακινήστε την πίσω. 
+- Εάν συγχρονίζετε το αρχείο, μετακινήστε το έξω από το φάκελο του OneDrive (για παράδειγμα, μετακινήστε το στην επιφάνεια εργασίας σας) και όταν η κατάσταση συγχρονισμού του OneDrive εμφανίζεται ως "Ενημερωμένο", μετακινήστε το προς τα πίσω. 
     
 [Περισσότερες συμβουλές αντιμετώπισης προβλημάτων](https://go.microsoft.com/fwlink/?linkid=873155)
   

@@ -1,9 +1,9 @@
 ---
-title: 8000031 δεν είναι δυνατή η διαγραφή φωτογραφιών από αρχεία
+title: 8000031 Δεν είναι δυνατή η διαγραφή φωτογραφιών από αρχεία
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533123"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731508"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Δεν είναι δυνατό να διαγράψετε φωτογραφίες από αρχεία
+# <a name="unable-to-delete-photos-from-files"></a>Δεν είναι δυνατή η διαγραφή φωτογραφιών από αρχεία
 
-Για να διαγράψετε τις φωτογραφίες από αρχεία του Outlook.com:
+Για να διαγράψετε τις φωτογραφίες από τα αρχεία σε Outlook.com:
   
-1. Μεταβείτε στο φάκελο **"Εισερχόμενα"** ή **"Απεσταλμένα"** και να διαγράψετε το μήνυμα ηλεκτρονικού ταχυδρομείου που είναι προσαρτημένες σε.
+1. Μεταβείτε στο φάκελο **"Εισερχόμενα"** ή **"Απεσταλμένα"** και διαγράψτε το μήνυμα ηλεκτρονικού ταχυδρομείου στο οποίο είναι συνδεδεμένοι.
 
-2. Για να καταργήσετε τα στοιχεία από τα **Διαγραμμένα στοιχεία**.
+2. Καταργήστε τα στοιχεία από **τα διαγραμμένα στοιχεία**.
 
-Για περισσότερες πληροφορίες, διαβάστε [πώς μπορείτε να διαγράψετε αρχεία ή φωτογραφίες στο Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Για περισσότερες πληροφορίες, διαβάστε [πώς να διαγράψετε αρχεία ή φωτογραφίες στο Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   

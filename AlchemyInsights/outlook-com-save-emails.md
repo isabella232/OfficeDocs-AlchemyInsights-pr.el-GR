@@ -1,9 +1,9 @@
 ---
-title: 8000088 αποθήκευση ηλεκτρονικού ταχυδρομείου στο Outlook.com
+title: 8000088 Αποθήκευση ηλεκτρονικού ταχυδρομείου σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,27 +14,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b04901aa77135da48df9ce56f0af11b9ea77bbaf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759042"
 ---
-# <a name="saving-messages-in-outlookcom"></a>Αποθήκευση μηνυμάτων σε Outlook.com
+# <a name="saving-messages-in-outlookcom"></a>Αποθήκευση μηνυμάτων στο Outlook.com
 
-Δεν μπορείτε να αποθηκεύσετε τα μηνύματα ηλεκτρονικού ταχυδρομείου στο Outlook.com, αλλά μπορείτε να τις εκτυπώσετε σε ένα αρχείο PDF που μπορείτε να αποθηκεύσετε στον Υπολογιστή σας.
+Δεν μπορείτε να αποθηκεύσετε μηνύματα ηλεκτρονικού ταχυδρομείου σε Outlook.com, αλλά μπορείτε να τα εκτυπώσετε σε ένα PDF το οποίο μπορείτε να αποθηκεύσετε στον υπολογιστή σας.
 
-Το βοηθητικό πρόγραμμα εκτύπωσης της Microsoft για τα PDF που περιλαμβάνονται στο Windows 10 σας επιτρέπει να εκτυπώσετε οποιοδήποτε μήνυμα ηλεκτρονικού ταχυδρομείου απευθείας σε PDF.
+Το βοηθητικό πρόγραμμα Microsoft Print To PDF που περιλαμβάνεται στα Windows 10 σάς επιτρέπει να εκτυπώνετε οποιοδήποτε μήνυμα ηλεκτρονικού ταχυδρομείου απευθείας σε ένα PDF.
 
 1. Επιλέξτε το μήνυμα που θέλετε να αποθηκεύσετε.
 2. Επιλέξτε τις τρεις τελείες <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  στο επάνω μέρος του μηνύματος και, στη συνέχεια, επιλέξτε <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
  **Εκτύπωση**.
-3. Επιλέξτε " **Εκτύπωση** " ξανά και από το αναπτυσσόμενο μενού "εκτυπωτής", επιλέξτε **Microsoft εκτύπωση σε PDF**.
-4. Επιλέξτε " **Εκτύπωση**".
-5. Πληκτρολογήστε ένα όνομα αρχείου και στη συνέχεια επιλέξτε **Αποθήκευση**.
+3. Επιλέξτε **Εκτύπωση** ξανά και από το αναπτυσσόμενο μενού του εκτυπωτή, επιλέξτε **Εκτύπωση της Microsoft σε PDF**.
+4. Επιλέξτε **Εκτύπωση**.
+5. Πληκτρολογήστε ένα όνομα αρχείου και, στη συνέχεια, επιλέξτε **Αποθήκευση**.
 
-**Σημείωση:** Δεν συνιστάται σε δημόσιους ή κοινόχρηστους υπολογιστές όπως οι άλλοι χρήστες να έχουν πρόσβαση σε όλα τα PDF αποθήκευση στον υπολογιστή και να μην διαγράψετε.
+**Σημείωση:** Αυτό δεν συνιστάται σε κοινόχρηστους ή δημόσιους υπολογιστές, καθώς άλλοι χρήστες θα μπορούσαν να έχουν πρόσβαση σε οποιαδήποτε PDF που αποθηκεύετε στον υπολογιστή και δεν διαγράφετε.
 
-Για περισσότερες πληροφορίες σχετικά με την εκτύπωση, ανατρέξτε στην ενότητα [Εκτύπωση μηνυμάτων ηλεκτρονικού ταχυδρομείου, συνημμένα, και τα ημερολόγια στο Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Για περισσότερες πληροφορίες σχετικά με την εκτύπωση, ανατρέξτε στο θέμα [Εκτύπωση μηνυμάτων ηλεκτρονικού ταχυδρομείου, συνημμένων και ημερολογίων στο Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

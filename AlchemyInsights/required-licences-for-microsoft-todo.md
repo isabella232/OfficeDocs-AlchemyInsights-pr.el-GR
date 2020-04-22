@@ -1,9 +1,9 @@
 ---
-title: Απαιτούνται άδειες χρήσης για το Microsoft ToDo
+title: Απαιτούμενες άδειες χρήσης για το Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552171"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722656"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Απαιτούνται άδειες χρήσης για το Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Απαιτούμενες άδειες χρήσης για το Microsoft ToDo
 
-[Απαιτούνται άδειες χρήσης για το Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Απαιτούμενες άδειες χρήσης για το Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Ο χρήστης πρέπει να έχει μία από τις ακόλουθες άδειες χρήσης για να χρησιμοποιήσετε το Microsoft ToDo:
+Ένας χρήστης πρέπει να έχει μία από τις ακόλουθες άδειες χρήσης για να χρησιμοποιήσει το Microsoft ToDo:
   
-- Βασικά στοιχεία για την επαγγελματική
+- Είδη πρώτης ανάγκης για επιχειρήσεις
 
-- Επαγγελματική υψηλής ποιότητας
+- Ασφάλιστρο επιχειρήσεων
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 Πρώτη γραμμή F1
 
-- Οποιοδήποτε σχέδιο Enterprise του Office 365
+- Οποιοδήποτε πρόγραμμα του Office 365 για μεγάλες επιχειρήσεις
 
-- Ασφαλής επιχειρηματικών παραγωγικοί
+- Ασφαλείς παραγωγικές επιχειρήσεις
 
-- Ασφαλής παραγωγικοί εταιρικού E3
+- Ασφαλής παραγωγική επιχείρηση E3
 
-- Ασφαλής παραγωγικοί εταιρικού E5
+- Ασφαλής παραγωγική επιχείρηση E5
 
-- Οποιοδήποτε σχέδιο εκπαίδευσης του Office 365
+- Οποιοδήποτε πρόγραμμα του Office 365 για εκπαιδευτικά ιδρύματα
 
-- A3 Microsoft 365
+- Microsoft 365 A3
 
-- A5 Microsoft 365
+- Microsoft 365 A5
 
-Εκτός από μια έγκυρη άδεια χρήσης προϊόντος, μία από τις ακόλουθες εκδόσεις του Exchange Online απαιτείται για ToDo να έχετε τη δυνατότητα συγχρονισμού δεδομένων χρήστη:
+Εκτός από μια έγκυρη άδεια χρήσης προϊόντος, μία από τις ακόλουθες εκδόσεις του Exchange Online είναι απαραίτητη για να είναι σε θέση να συγχρονίσετε τα δεδομένα χρήστη:
   
-- Ανταλλαγή ηλεκτρονικών σχέδιο 1
+- Ηλεκτρονικό πρόγραμμα ανταλλαγής 1
 
-- Ανταλλαγή ηλεκτρονικών σχέδιο 2
+- Ανταλλαγή Online Σχέδιο 2
 
-- Βασικά στοιχεία για την ανταλλαγή
+- Είδη πρώτης ανάγκης ανταλλαγής
 
-- Ηλεκτρονικό Κέντρο πληροφοριών του Exchange
+- Ανταλλαγή Σε απευθείας σύνδεση περίπτερο
 
-- Ηλεκτρονική ανταλλαγή POP
+- Ανταλλαγή online POP
 
-[Εκχώρηση αδειών σε λογαριασμούς χρηστών με το Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Εκχώρηση αδειών χρήσης σε λογαριασμούς χρηστών με το PowerShell του Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

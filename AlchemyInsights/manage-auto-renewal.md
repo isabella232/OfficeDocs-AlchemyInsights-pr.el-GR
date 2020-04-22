@@ -3,7 +3,7 @@ title: Διαχείριση αυτόματης ανανέωσης
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661440"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762605"
 ---
-# <a name="manage-recurring-billing"></a>Διαχείριση επαναλαμβανόμενες χρέωσης
+# <a name="manage-recurring-billing"></a>Διαχείριση περιοδικών χρεοκαταληγμάτων
 
-Μπορείτε να ενεργοποιήσετε την περιοδική χρέωσης ή απενεργοποίηση στο Κέντρο διαχείρισης Microsoft 365.
+Μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε την περιοδική χρέωση στο κέντρο διαχείρισης του Microsoft 365.
   
-1. Στο Κέντρο διαχείρισης, μεταβείτε στην **χρέωσης** \> σελίδα [υπηρεσιών & προϊόντα](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση** \> [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Στην περιοχή **χρέωσης**, δίπλα στο **Renews σε** ή **Expiring σε**, επιλέξτε " **Επεξεργασία**".
+2. Στην περιοχή **Χρέωση**, δίπλα στην επιλογή **Νέα έκδοση** ή **Λήξη σε**, επιλέξτε **Επεξεργασία**.
 
-3. Στο παράθυρο **Ρυθμίσεις χρέωσης επαναλαμβανόμενο** , επιλέξτε **ΑΠΕΝΕΡΓΟΠΟΊΗΣΗ** για να απενεργοποιήσετε αυτήν τη δυνατότητα. Εάν είναι ήδη εκτός λειτουργίας περιοδικής χρέωσης, επιλέξτε **Μηνιαία** ή **μία φορά** για να την ενεργοποιήσετε.
+3. Στο παράθυρο **Ρυθμίσεις περιοδικής χρέωσης,** επιλέξτε **Απενεργοποίηση** για να το απενεργοποιήσετε. Αν η περιοδική χρέωση είναι ήδη απενεργοποιημένη, επιλέξτε **Μηνιαία** ή **Άπαξ** για να την ενεργοποιήσετε.
 
-4. Επιλέξτε **Αλλαγή υποβολής**.
+4. Επιλέξτε **Υποβολή αλλαγής**.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Ενεργοποίηση επανάληψης χρέωσης ή απενεργοποίηση](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της επαναλαμβανόμενης χρέωσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

@@ -1,9 +1,9 @@
 ---
-title: 8000091 Outlook.com αντιδρά pop up
+title: 8000091 Outlook.com αντιδράσει pop up
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3a8ca385a6cfdbbbd9ce5c61b4b2201359e3fd3e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36545475"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744547"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Το Outlook.com είναι έτοιμο για τον πρώτο χρόνο
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com είναι έτοιμο για prime time
 
-Γνωρίζουμε ότι ορισμένοι πελάτες ενδέχεται να δουν το αναδυόμενο παράθυρο "Outlook.com είναι έτοιμο για πρώτο χρόνο" κάθε φορά που υπογράφουν και εργαζόμαστε σε μια ενημέρωση κώδικα.
+Γνωρίζουμε ότι ορισμένοι πελάτες ενδέχεται να βλέπουν το αναδυόμενο παράθυρο "Outlook.com είναι έτοιμο για prime time" κάθε φορά που συνδέονται και εργαζόμαστε για μια ενημέρωση κώδικα.
 
-Συγγνώμη γι ' αυτό.
+Συγγνώμη γι' αυτό.
 
-[Μάθετε περισσότερα για το νέο Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Μάθετε περισσότερα για τη νέα Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

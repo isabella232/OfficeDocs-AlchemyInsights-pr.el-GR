@@ -1,9 +1,9 @@
 ---
-title: 1374 επίλυση δύο γραμματοκιβωτίων ΔΙΑΔΙΚΑΣΙΕΣ
+title: 1374 Επίλυση δύο γραμματοκιβώτια howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37026594"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722513"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Ένας χρήστης έχει δύο γραμματοκιβώτια
 
-Υβριδική περιβάλλοντα που χρησιμοποιούν Azure Active Directory Connect (σύνδεση.) ή DirSync μπορεί κατά λάθος να προκαλέσει ένα χρήστη να έχει δύο γραμματοκιβώτια: μία εσωτερικής εγκατάστασης και μία στο σύννεφο. Ένα διπλότυπο γραμματοκιβώτιο μπορεί να δημιουργηθεί σε κάθε θέση.
+Τα υβριδικά περιβάλλοντα που χρησιμοποιούν το Azure Active Directory Connect (AAD Connect) ή το DirSync ενδέχεται να προκαλέσουν κατά λάθος ένα χρήστη να έχει δύο γραμματοκιβώτια: ένα εσωτερικής εγκατάστασης και ένα στο cloud. Ένα διπλότυπο γραμματοκιβώτιο θα μπορούσε να δημιουργηθεί σε οποιαδήποτε θέση.
 
-Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε στο θέμα [Πώς να ανακτήσετε όταν υπάρχει ένα γραμματοκιβώτιο στο Exchange Online και εσωτερικής εγκατάστασης](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Αν θέλετε να μάθετε περισσότερα σχετικά με το πώς να αποφύγετε να συμβεί αυτό στο μέλλον, ανατρέξτε στο [θέμα ο χρήστης μου έχει ένα γραμματοκιβώτιο τόσο εσωτερικής εγκατάστασης όσο και στο Exchange Online. Βοηθήστε με!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)
+Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε στο [θέμα Τρόπος ανάκτησης όταν υπάρχει ένα γραμματοκιβώτιο τόσο στο Exchange Online όσο και σε εσωτερικής εγκατάστασης](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Εάν θέλετε να μάθετε περισσότερα σχετικά με τον τρόπο αποφυγής αυτού του γεγονότος στο μέλλον, ανατρέξτε στο θέμα [Ο χρήστης μου έχει ένα γραμματοκιβώτιο τόσο εσωτερικής εγκατάστασης όσο και στο Exchange Online. Βοήθεια, βοήθεια!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)

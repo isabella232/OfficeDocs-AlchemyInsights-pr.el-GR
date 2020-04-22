@@ -1,9 +1,9 @@
 ---
-title: 8000086 Outlook.com Εισαγωγή εικόνας
+title: 8000086 Outlook.com εισαγωγή εικόνας
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,21 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: ee8e98e602930ee9846009254d1735102df56838
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4634560610367ac665f1c502d054687490bddd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760124"
 ---
-# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Εισαγωγή εικόνων σε ένα συμβάν ημερολογίου ή μηνύματος ηλεκτρονικού ταχυδρομείου
+# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Εισαγωγή εικόνων σε μήνυμα ηλεκτρονικού ταχυδρομείου ή συμβάν ημερολογίου
 
-Μπορείτε να εισαγάγετε φωτογραφίες, εικόνες GIF ή εικόνες clip art από τον υπολογιστή σας ή OneDrive ως ενσωματωμένες εικόνες στο Outlook.com μηνύματα ηλεκτρονικού ταχυδρομείου, συμβάντα ημερολογίου ή υπογραφής ηλεκτρονικού ταχυδρομείου.
+Μπορείτε να εισαγάγετε φωτογραφίες, gif ή clipart από τον υπολογιστή σας ή το OneDrive ως ενσωματωμένες εικόνες στα Outlook.com μηνύματα ηλεκτρονικού ταχυδρομείου, τα συμβάντα ημερολογίου ή την υπογραφή ηλεκτρονικού ταχυδρομείου.
 
-1. Αρχίστε τη σύνθεση ενός μηνύματος ή τη δημιουργία ενός συμβάντος ημερολογίου.
-2. Επιλέξτε το εικονίδιο **Εισαγωγή ενσωματωμένων εικόνων** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> στο κάτω μέρος του παραθύρου "Σύνθεση" (δίπλα στο εικονίδιο **επισύναψης** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />).
+1. Αρχίστε να συνθέτετε ένα μήνυμα ή να δημιουργείτε ένα συμβάν ημερολογίου.
+2. Επιλογή του ενσωματωμένου εικονιδίου **Εισαγωγή εικόνων** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> στο κάτω μέρος του παραθύρου σύνθεσης (δίπλα στο εικονίδιο **Επισύναψη** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />).
 3. Επιλέξτε την εικόνα που θέλετε να εισαγάγετε και επιλέξτε **Άνοιγμα**.
 4. Σύρετε τις γωνίες για να αλλάξετε το μέγεθος της εικόνας.
-5. Κάντε δεξιό κλικ στην εικόνα για να δείτε τις επιλογές μορφοποίησης.
+5. Κάντε δεξί κλικ στην εικόνα για να δείτε τις επιλογές μορφοποίησης.
 
-Διαβάστε περισσότερα σχετικά με το πώς μπορείτε να [επισυνάψετε αρχεία σε Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+Διαβάστε περισσότερα σχετικά με τον τρόπο [επισύναψης αρχείων στο Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).

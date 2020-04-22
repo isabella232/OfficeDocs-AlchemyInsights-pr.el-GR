@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4d7d6fad670a877a0912b6c4a4bec0c5b3c6505e
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720101"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Ενημέρωση των πληροφοριών του προφίλ μου ή αλλαγή της εικόνας μου
 
@@ -24,10 +24,10 @@ ms.locfileid: "42278963"
 
 Μπορείτε να κάνετε ενημερώσεις στο προφίλ σας είτε στο Outlook για Windows είτε στο Outlook στο Web (OWA). 
 
-**Outlook για Windows**: 
+**Προοπτική για τα παράθυρα**: 
 
-- **** >  > **** Πληροφορίες > χρήστη**του λογαριασμού του Office**File**για μένα** (σας φέρνει στο Office 365 προφίλ online) > **ενημέρωση προφίλ** ή κάντε κλικ στο εικονίδιο της κάμερας για να αλλάξετε τη φωτογραφία σας  
+- **Πληροφορίες** > **χρήστη** > **User information** **Update Profile** **About me** λογαριασμού του Office αρχείων Σχετικά με εμένα (σας μεταφέρει στο προφίλ της Microsoft 365 στο Internet) > προφίλ ενημέρωσης ή κάντε κλικ στο εικονίδιο της κάμερας για να αλλάξετε τη φωτογραφία σας >   
   
-**Outlook στο Web (OWA)**: 
+**Προοπτικές στο Web (OWA)**: 
 
-- **Προφίλ εικόνα** > **** > **Ενημέρωση** προφίλ μου
+- **Εικόνα** > προφίλ**Το προφίλ μου** > Στο**προφίλ του**
