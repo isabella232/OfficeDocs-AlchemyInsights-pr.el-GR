@@ -1,9 +1,9 @@
 ---
-title: Δεν είναι δυνατό να επιλέξετε επαφές, κατά τη σύνθεση μηνύματος ηλεκτρονικού ταχυδρομείου στο Outlook.com
+title: Δεν είναι δυνατή η επιλογή επαφών κατά τη σύνταξη μηνυμάτων ηλεκτρονικού ταχυδρομείου σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711667"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="4ba31-102">Δεν είναι δυνατό να επιλέξετε επαφές, κατά τη σύνθεση μηνύματος ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="4ba31-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="fec3f-102">Δεν είναι δυνατή η επιλογή επαφών κατά τη σύνταξη μηνυμάτων ηλεκτρονικού ταχυδρομείου</span><span class="sxs-lookup"><span data-stu-id="fec3f-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="4ba31-103">Κατά τη σύνθεση ενός νέου μηνύματος ηλεκτρονικού ταχυδρομείου, ορισμένοι πελάτες δεν βλέπετε τους λίστα επαφών, κάνοντας κλικ στα κουμπιά **προς** ή **Κοιν** .</span><span class="sxs-lookup"><span data-stu-id="4ba31-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="4ba31-104">Για να επιλέξετε μια επαφή, αρχίστε να πληκτρολογείτε στο το **να** ή τα πεδία **"Κοιν."** και τις σχετικές επαφές θα εμφανιστούν.</span><span class="sxs-lookup"><span data-stu-id="4ba31-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
+<span data-ttu-id="fec3f-103">Κατά τη σύνταξη ενός νέου μηνύματος ηλεκτρονικού ταχυδρομείου, ορισμένοι πελάτες δεν βλέπουν τη λίστα επαφών τους όταν κάνουν κλικ στα κουμπιά **Προς** ή **Κοιν."**</span><span class="sxs-lookup"><span data-stu-id="fec3f-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="fec3f-104">Για να επιλέξετε μια επαφή, αρχίστε να πληκτρολογείτε στα πεδία **"Προς"** ή **"Κοιν."** και θα εμφανιστούν οι σχετικές επαφές σας.</span><span class="sxs-lookup"><span data-stu-id="fec3f-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>

@@ -3,7 +3,6 @@ title: Δημιουργία δημόσιων φακέλων
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631798"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715360"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="e6a30-102">Δημιουργία δημόσιων φακέλων</span><span class="sxs-lookup"><span data-stu-id="e6a30-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="aba17-102">Δημιουργία δημόσιων φακέλων</span><span class="sxs-lookup"><span data-stu-id="aba17-102">Creating public folders</span></span>
 
-<span data-ttu-id="e6a30-103">Οι χρήστες σας να χρησιμοποιήσετε δημόσιους φακέλους στο Office 365, θα πρέπει να δημιουργήσετε τουλάχιστον ένα δημόσιο φάκελο του γραμματοκιβωτίου.</span><span class="sxs-lookup"><span data-stu-id="e6a30-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="e6a30-104">Για να δημιουργήσετε:</span><span class="sxs-lookup"><span data-stu-id="e6a30-104">To create:</span></span>
+<span data-ttu-id="aba17-103">Για να μπορούν οι χρήστες να χρησιμοποιούν δημόσιους φακέλους, θα πρέπει να δημιουργήσετε τουλάχιστον ένα γραμματοκιβώτιο δημόσιου φακέλου.</span><span class="sxs-lookup"><span data-stu-id="aba17-103">Before your users can use public folders, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="aba17-104">Για να δημιουργήσετε:</span><span class="sxs-lookup"><span data-stu-id="aba17-104">To create:</span></span>
   
-1. <span data-ttu-id="e6a30-105">Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στο **Κέντρο διαχείρισης** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="e6a30-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="aba17-105">Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στην ενότητα **Κέντρα διαχείρισης** \> **του Exchange**.</span><span class="sxs-lookup"><span data-stu-id="aba17-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="e6a30-106">Περιήγηση στους **δημόσιους φακέλους** \> **δημόσιο φάκελο γραμματοκιβώτια**, και στη συνέχεια κάντε κλικ στο κουμπί **Προσθήκη**.</span><span class="sxs-lookup"><span data-stu-id="e6a30-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="aba17-106">Μεταβείτε στα **γραμματοκιβώτια δημόσιων φακέλων** \> **Δημόσιος φάκελος**και, στη συνέχεια, κάντε κλικ στο κουμπί **Προσθήκη**.</span><span class="sxs-lookup"><span data-stu-id="aba17-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
 
-3. <span data-ttu-id="e6a30-107">Στο **Δημόσιο φάκελο γραμματοκιβωτίου**, δώστε ένα όνομα για το γραμματοκιβώτιο του δημόσιου φακέλου.</span><span class="sxs-lookup"><span data-stu-id="e6a30-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="aba17-107">Στο **γραμματοκιβώτιο δημόσιου φακέλου**, δώστε ένα όνομα για το γραμματοκιβώτιο του δημόσιου φακέλου.</span><span class="sxs-lookup"><span data-stu-id="aba17-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
 
-4. <span data-ttu-id="e6a30-108">Κάντε κλικ στην επιλογή **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="e6a30-108">Click **Save**.</span></span>
+4. <span data-ttu-id="aba17-108">Κάντε κλικ στην επιλογή **Αποθήκευση**.</span><span class="sxs-lookup"><span data-stu-id="aba17-108">Click **Save**.</span></span>
 
-<span data-ttu-id="e6a30-109">Μόλις δημιουργηθεί ένα γραμματοκιβώτιο, μπορείτε να ξεκινήσετε τη δημιουργία μεμονωμένους φακέλους ή να ενημερώσετε τους χρήστες σας, για να [ξεκινήσετε τη δημιουργία και χρήση των δημόσιων φακέλων στο Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="e6a30-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
+<span data-ttu-id="aba17-109">Αφού δημιουργηθεί ένα γραμματοκιβώτιο, μπορείτε να ξεκινήσετε τη δημιουργία μεμονωμένων φακέλων ή να πείτε στους χρήστες σας να αρχίσουν να δημιουργούν και να [χρησιμοποιούν δημόσιους φακέλους στο Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="aba17-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
   
