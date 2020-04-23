@@ -1,8 +1,8 @@
 ---
-title: Υπηρεσία περιστατικό σε εξέλιξη
+title: Περιστατικό υπηρεσίας σε εξέλιξη
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: da75945ecfbcfab41095b5903b1787f7ce38d685
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f3cc2d96e981edf4f573d4a5c2ceb9750d11367
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550263"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719610"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="be6b1-102">Υπηρεσία περιστατικό σε εξέλιξη</span><span class="sxs-lookup"><span data-stu-id="be6b1-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="bdfbd-102">Περιστατικό υπηρεσίας σε εξέλιξη</span><span class="sxs-lookup"><span data-stu-id="bdfbd-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="be6b1-103">Μπορεί να έχει επηρεαστεί από κάποιο περιστατικό υπηρεσίας ή συμβουλευτική που είναι εξετάζεται αυτήν τη στιγμή.</span><span class="sxs-lookup"><span data-stu-id="be6b1-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="be6b1-104">Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση μεταβαίνοντας στη σελίδα [Εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="be6b1-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="bdfbd-103">Ενδέχεται να επηρεαστείτε από ένα περιστατικό υπηρεσίας ή μια συμβουλευτική που διερευνάται αυτήν τη στιγμή.</span><span class="sxs-lookup"><span data-stu-id="bdfbd-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="bdfbd-104">Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση μεταβαίνει στη σελίδα ["Εύρυθμη λειτουργία υπηρεσίας".](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="bdfbd-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="be6b1-105">Για δική σας διευκόλυνση, μπορείτε να βρείτε μια σύνοψη των παρακάτω αυτό το περιστατικό:</span><span class="sxs-lookup"><span data-stu-id="be6b1-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="bdfbd-105">Για τη διευκόλυνσή σας, μπορείτε να βρείτε μια περίληψη αυτού του περιστατικού παρακάτω:</span><span class="sxs-lookup"><span data-stu-id="bdfbd-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="be6b1-106">**Αριθμός συμβάντος:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="be6b1-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="bdfbd-106">**Αριθμός περιστατικού:**[{Αναγνωριστικό περιστατικού}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="bdfbd-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
 
-> <span data-ttu-id="be6b1-107">Επιπτώσεις περιγραφή: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="be6b1-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="bdfbd-107">Περιγραφή επιπτώσεων: {Περιγραφή επιπτώσεων}</span><span class="sxs-lookup"><span data-stu-id="bdfbd-107">Impact description: {ImpactDescription}</span></span>

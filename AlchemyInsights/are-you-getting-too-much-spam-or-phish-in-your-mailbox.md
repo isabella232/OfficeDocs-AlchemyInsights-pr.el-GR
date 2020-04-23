@@ -10,19 +10,19 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712602"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="a7586-102">Λαμβάνετε πολλά μηνύματα ανεπιθύμητης αλληλογραφίας ή ηλεκτρονικού "ψαρέματος" στο γραμματοκιβώτιό σας;</span><span class="sxs-lookup"><span data-stu-id="a7586-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="b60e5-102">Λαμβάνετε πολλά μηνύματα ανεπιθύμητης αλληλογραφίας ή ηλεκτρονικού "ψαρέματος" στο γραμματοκιβώτιό σας;</span><span class="sxs-lookup"><span data-stu-id="b60e5-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="a7586-103">Ανατρέξτε στο θέμα [Πώς μπορείτε να μειώσετε την ανεπιθύμητη ηλεκτρονική αλληλογραφία στο Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) για την αντιμετώπιση της ανεπιθύμητης ηλεκτρονικής αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="a7586-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
+<span data-ttu-id="b60e5-103">Ανατρέξτε στο θέμα [Πώς μπορείτε να μειώσετε την ανεπιθύμητη ηλεκτρονική αλληλογραφία](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) για την αντιμετώπιση της ανεπιθύμητης ηλεκτρονικής αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="b60e5-103">See [How to reduce spam email](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
   
-<span data-ttu-id="a7586-104">Ο καλύτερος τρόπος για να αναφέρετε τέτοιου είδους προβλήματα είναι:</span><span class="sxs-lookup"><span data-stu-id="a7586-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="b60e5-104">Ο καλύτερος τρόπος για να αναφέρετε τέτοιου είδους προβλήματα είναι:</span><span class="sxs-lookup"><span data-stu-id="b60e5-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="a7586-105">Να κάνετε [Ενεργοποίηση του πρόσθετου αναφοράς](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) για τον χρήστη.</span><span class="sxs-lookup"><span data-stu-id="a7586-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="b60e5-105">Να κάνετε [Ενεργοποίηση του πρόσθετου αναφοράς](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) για τον χρήστη.</span><span class="sxs-lookup"><span data-stu-id="b60e5-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="a7586-106">Να πείτε στον [χρήστη να αναφέρει το μήνυμα](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ως "Ανεπιθύμητη αλληλογραφία".</span><span class="sxs-lookup"><span data-stu-id="a7586-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
+2. <span data-ttu-id="b60e5-106">Να πείτε στον [χρήστη να αναφέρει το μήνυμα](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ως "Ανεπιθύμητη αλληλογραφία".</span><span class="sxs-lookup"><span data-stu-id="b60e5-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
