@@ -1,9 +1,9 @@
 ---
-title: 1489-Permissions-Required-for-eDiscovery-Searches
+title: 1489-δικαιώματα-απαιτείται-για-ediscovery-αναζητήσεις
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372128"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758908"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Απαιτούμενα δικαιώματα για ηλεκτρονική ανακάλυψη αναζητήσεις
+# <a name="permissions-required-for-ediscovery-searches"></a>Απαιτούμενα δικαιώματα για αναζητήσεις eDiscovery
 
-Για να εκτελέσετε αναζήτηση περιεχομένου του & ασφαλείας κέντρο συμμόρφωσης, ένας χρήστης πρέπει να είναι τουλάχιστον είναι μέλος στην ομάδα ρόλου διαχείρισης ανακάλυψης, γεγονός που σας επιτρέπει να εκτελείτε αναζητήσεις και τόπος διατηρεί γραμματοκιβώτια, οι τοποθεσίες του SharePoint και OneDrive θέσεις. Τα μέλη μπορεί να επίσης Δημιουργία και διαχείριση υποθέσεων ανακάλυψης, προσθήκη και κατάργηση μελών σε μια υπόθεση, δημιουργία και επεξεργασία περιεχομένου αναζητήσεις και πρόσβαση σε δεδομένα υπόθεσης ανακάλυψης για προχωρημένους.
+Για να εκτελέσει αναζητήσεις περιεχομένου στο Κέντρο συμμόρφωσης & ασφαλείας, ένας χρήστης πρέπει να είναι τουλάχιστον μέλος της ομάδας ρόλων του EDiscovery Manager, η οποία του επιτρέπει να εκτελεί αναζητήσεις και να τοποθετεί κρατήσεις σε γραμματοκιβώτια, τοποθεσίες του SharePoint και θέσεις του OneDrive. Τα μέλη μπορούν επίσης να δημιουργήσουν και να διαχειριστούν υποθέσεις eDiscovery, να προσθέσουν και να καταργήσουν μέλη σε μια υπόθεση, να δημιουργήσουν και να επεξεργαστούν αναζητήσεις περιεχομένου και να αποκτήσουν πρόσβαση σε δεδομένα υποθέσεων στο Advanced eDiscovery.
 
-Για να πραγματοποιήσετε αναζητήσεις ανακάλυψης επί τόπου στο Κέντρο διαχείρισης Exchange (ΕΚΟ), ο χρήστης πρέπει να είστε μέλος της ομάδας ρόλου διαχείρισης εντοπισμού στον Exchange Online.
+Για να εκτελέσετε επιτόπιες αναζητήσεις eDiscovery στο κέντρο διαχείρισης του Exchange (EAC), ο χρήστης πρέπει να είναι μέλος της ομάδας ρόλων διαχείρισης εντοπισμού στο Exchange Online.
 
-Για περισσότερες πληροφορίες σχετικά με τα δικαιώματα της ανακάλυψης, ανατρέξτε στο θέμα: 
+Για περισσότερες πληροφορίες σχετικά με τα δικαιώματα eDiscovery, ανατρέξτε στα θέματα: 
 
-- [Εκχώρηση δικαιωμάτων ανακάλυψης με το & ασφαλείας συμμόρφωση παραγωγής](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Εκχώρηση δικαιωμάτων eDiscovery στο Κέντρο συμμόρφωσης & ασφαλείας](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Εκχώρηση δικαιωμάτων ανακάλυψης στο Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Εκχώρηση δικαιωμάτων eDiscovery στο Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Σημείωση**: μετά την εκχώρηση δικαιωμάτων ανακάλυψης, ίσως χρειαστεί να περιμένετε μερικά λεπτά για τα δικαιώματα για τη μετάδοση.
+**Σημείωση**: Μετά την εκχώρηση δικαιωμάτων eDiscovery, ίσως χρειαστεί να περιμένετε μερικά λεπτά για να μεταδοθεί η μετάδοση των δικαιωμάτων.

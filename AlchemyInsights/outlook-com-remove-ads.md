@@ -1,9 +1,9 @@
 ---
-title: Κατάργηση διαφημίσεις σε Outlook.com
+title: Κατάργηση διαφημίσεων σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 5c00a7fbcaffc2ca303be44b3e5cba99a82a667c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a7c7c10fb982ab99713a5e35ca6a1b7f63f3f36
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545439"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743849"
 ---
-# <a name="remove-ads-in-outlookcom"></a>Κατάργηση διαφημίσεις σε Outlook.com
+# <a name="remove-ads-in-outlookcom"></a>Κατάργηση διαφημίσεων σε Outlook.com
 
-Outlook.com είναι μια υπηρεσία δωρεάν ηλεκτρονικού ταχυδρομείου που περιέχει διαφημίσεις. Εάν θέλετε να καταργήσετε τις διαφημίσεις στο Outlook.com, η Microsoft προσφέρει κορυφαίες δυνατότητες Outlook με συνδρομές Office 365 Home ή Office 365 προσωπικά. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [λήψη κορυφαίων δυνατοτήτων του Outlook με το Office 365](https://go.microsoft.com/fwlink/?linkid=872181).
+Outlook.com είναι μια δωρεάν υπηρεσία ηλεκτρονικού ταχυδρομείου που περιέχει διαφημίσεις. Εάν θέλετε να καταργήσετε διαφημίσεις σε Outlook.com, η Microsoft προσφέρει κορυφαίες δυνατότητες του Outlook με συνδρομές του Office 365 για Οικιακή Χρήση ή του Office 365 για Προσωπική χρήση. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αποκτήστε κορυφαίες δυνατότητες του Outlook με το Office 365](https://go.microsoft.com/fwlink/?linkid=872181).

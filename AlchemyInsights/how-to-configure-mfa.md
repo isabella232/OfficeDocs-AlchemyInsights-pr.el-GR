@@ -1,5 +1,5 @@
 ---
-title: 955 πώς να διαμορφώσετε τη ΜΧΣ
+title: 955 Τρόπος ρύθμισης παραμέτρων των ΜΧΣ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722376"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Ρύθμιση παραμέτρων ελέγχου ταυτότητας πολλών παραγόντων στο Office 365
+# <a name="configure-multi-factor-authentication"></a>Ρύθμιση παραμέτρων ελέγχου ταυτότητας πολλών παραγόντων
 
-Για να ρυθμίσετε τη ΜΧΣ, ανατρέξτε στο [θέμα ρύθμιση ελέγχου ταυτότητας πολλών παραγόντων για χρήστες του Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Για να ρυθμίσετε τις παραμέτρους των ΜΧΣ, ανατρέξτε στο θέμα [Ρύθμιση ελέγχου ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Σημειώστε ότι πρέπει να είστε ένας καθολικός διαχειριστής του Office 365 για να ενεργοποιήσετε και να ρυθμίσετε το ΣΠΙ.
+Σημειώστε ότι πρέπει να είστε καθολικός διαχειριστής για να ενεργοποιήσετε και να ρυθμίσετε τις παραμέτρους των ΜΧΣ.

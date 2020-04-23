@@ -1,9 +1,9 @@
 ---
-title: Η κατάργηση του τελευταίου διακομιστή Exchange εσωτερικής εγκατάστασης
+title: Κατάργηση του τελευταίου διακομιστή Exchange εσωτερικής εγκατάστασης
 ms.author: pebaum
 author: pebaum
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 8f40c050d7e29c152f982d73e2204a52c350c293
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552819"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718200"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Η κατάργηση του τελευταίου διακομιστή Exchange εσωτερικής εγκατάστασης
+# <a name="removing-the-last-on-premises-exchange-server"></a>Κατάργηση του τελευταίου διακομιστή Exchange εσωτερικής εγκατάστασης
 
-Πριν από την κατάργηση του τελευταίου διακομιστή Exchange από την εταιρεία σας εσωτερικής εγκατάστασης, θα πρέπει να βεβαιωθείτε ότι έχετε κατανοήσει τις συνέπειες της με τον τρόπο αυτό, για να σας βοηθήσουν να αποφασίσετε εάν χρειάζεστε αυτόν τον τελευταίο διακομιστή για άλλους σκοπούς. Για περισσότερες πληροφορίες, αναλάβετε τον έλεγχο [πώς και πότε να Αποδεσμεύστε τον διακομιστές Exchange εσωτερικής εγκατάστασης σε μια ανάπτυξη υβριδική](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Πριν από την κατάργηση του τελευταίου διακομιστή Exchange από τον οργανισμό εσωτερικής εγκατάστασης, θα πρέπει να βεβαιωθείτε ότι κατανοείτε τις επιπτώσεις της εφαρμογής αυτής της εργασίας, για να αποφασίσετε εάν χρειάζεστε αυτόν τον τελευταίο διακομιστή για οποιονδήποτε άλλο σκοπό. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Πώς και πότε θα παροπλιστεί τες [exchange εσωτερικής εγκατάστασης σε μια υβριδική ανάπτυξη](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
   

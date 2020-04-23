@@ -3,7 +3,7 @@ title: Επαναφορά διαγραμμένου χρήστη
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745073"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784187"
 ---
-# <a name="restore-a-user-in-office-365"></a>Επαναφορά χρήστη στο Office 365
+# <a name="restore-a-user"></a>Επαναφορά χρήστη
 
-Επαναφέρετε ένα χρήστη στο Office 365 χρησιμοποιώντας τα εξής βήματα:
+Επαναφορά χρήστη με τα εξής βήματα:
   
-1. Μετάβαση στους [χρήστες \> ](https://admin.microsoft.com/adminportal/home#/deletedusers)που έχουν διαγραφεί.
+1. Μεταβείτε στην [ομάδα Χρήστες \> Διαγραμμένοι χρήστες](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. Επιλέξτε το χρήστη και, στη συνέχεια, επιλέξτε **Επαναφορά**.
 
 3. Ακολουθήστε τις οδηγίες για να ορίσετε τον κωδικό πρόσβασης.
 
-4. Κάντε κλικ στην επιλογή **Αποστολή ηλεκτρονικού ταχυδρομείου και κλείστε**και τελειώσατε!
+4. Κάντε κλικ στην **επιλογή Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου και κλείσιμο**και τελειώσατε!
 
-Δεν ήταν εύκολο; Για περισσότερες λεπτομέρειες και βήματα με στιγμιότυπα οθόνης, δείτε αυτό το άρθρο: [επαναφέρετε ένα χρήστη στο Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Εάν συνειδητοποιήσετε ότι πρέπει να επαναφέρετε το γραμματοκιβώτιο του χρήστη, δείτε: [Διαγραφή ή επαναφορά γραμματοκιβωτίων χρήστη στο Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Δεν ήταν εύκολο; Για περισσότερες λεπτομέρειες και βήματα με στιγμιότυπα οθόνης, ανατρέξτε σε αυτό το άρθρο: [Επαναφορά χρήστη](https://docs.microsoft.com/office365/admin/add-users/restore-user). Εάν συνειδητοποιήσετε ότι πρέπει να επαναφέρετε το γραμματοκιβώτιο του χρήστη, ανατρέξτε στο θέμα: [Διαγραφή ή επαναφορά γραμματοκιβωτίων χρήστη στο Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

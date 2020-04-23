@@ -1,9 +1,9 @@
 ---
-title: Outlook.com είναι δυνατή η λήψη κωδικών επαλήθευσης
+title: Outlook.com δεν είναι δυνατή η λήψη κωδικών επαλήθευσης
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537695"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760808"
 ---
-# <a name="cant-get-verification-codes"></a>Δεν είναι δυνατή η λήψη κωδικών επαλήθευσης
+# <a name="cant-get-verification-codes"></a>Δεν είναι δυνατή η η αποκτηθής επαλήθευσης
 
-Εάν δεν είναι δυνατή η πρόσβαση σας εναλλακτική ηλεκτρονικού ταχυδρομείου ή τον αριθμό τηλεφώνου, μεταβείτε στη σελίδα [βασικά στοιχεία ασφαλείας](https://account.microsoft.com/security) λογαριασμού Microsoft, επιλέξτε **δεν έχω κάποιο από αυτά** στη σελίδα "Είσοδος" και ακολουθήστε τις οδηγίες για να αντικαταστήσετε το πληροφορίες ασφαλείας.
+Εάν δεν μπορείτε να αποκτήσετε πρόσβαση στο εναλλακτικό μήνυμα ηλεκτρονικού ταχυδρομείου ή στον αριθμό τηλεφώνου σας, μεταβείτε στη σελίδα [βασικών στοιχείων ασφαλείας](https://account.microsoft.com/security) του λογαριασμού Microsoft, επιλέξτε **Δεν έχω κανένα από αυτά** στη σελίδα εισόδου και ακολουθήστε τις οδηγίες για να αντικαταστήσετε τις πληροφορίες ασφάλειάς σας.
 
-*Σημείωση:* Η [εφαρμογή Microsoft ελέγχου ταυτότητας](https://go.microsoft.com/fwlink/?linkid=2016117) δεν απαιτεί σύνδεση στο internet για να σας προσφέρει έναν κωδικό επαλήθευσης.
+*Σημείωση:* Η [εφαρμογή Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) δεν απαιτεί σύνδεση στο internet για να σας παρέχει έναν κωδικό επαλήθευσης.
 
-Για να μάθετε περισσότερα, διαβάστε [Microsoft λογαριασμό πληροφοριών και επαλήθευσης κωδικών ασφαλείας](https://support.microsoft.com/help/12428/).
+Για να μάθετε περισσότερα, διαβάστε [την ανάγνωση των πληροφοριών ασφαλείας του λογαριασμού Microsoft και των κωδικών επαλήθευσης](https://support.microsoft.com/help/12428/).

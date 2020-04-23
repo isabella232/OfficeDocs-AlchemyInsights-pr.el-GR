@@ -1,8 +1,8 @@
 ---
-title: Δοκιμαστική Office 365 μισθωτών, αποκλείονται από το Spamhaus
+title: Δίκη Microsoft 365 μισθωτής μπλοκαριστεί από Spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500413"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759872"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Σφάλμα όταν ένας χρήστης δοκιμαστικής έκδοσης του Office 365 στέλνει μήνυμα ηλεκτρονικού ταχυδρομείου: κεντρικός υπολογιστής-πελάτης αποκλειστούν χρησιμοποιώντας Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Σφάλμα κατά την αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου από έναν δοκιμαστικό χρήστη του Microsoft 365: Ο κεντρικός υπολογιστής-πελάτης αποκλείστηκε με χρήση του Spamhaus
 
-Φαίνεται ότι αποστέλλετε μήνυμα ηλεκτρονικού ταχυδρομείου από μια νέα επιχείρηση δοκιμαστικής έκδοσης του Office 365. Για να αποφευχθεί η κατάχρηση, σας μπλοκ διευθύνσεων IP που είναι γνωστό ότι έχει ήδη παραβιαστεί. Ο έλεγχος αυτός συγκεκριμένα επιβάλλεται πλέον μετά την έναρξη χρήσης καταβάλλεται αδειών χρήσης. Ίσως μπορέσετε να λάβετε προσωρινή απαλλαγή, ζητώντας για μια νέα διεύθυνση IP από την υπηρεσία παροχής internet (ISP) ή με την κατάργηση της ομάδας από την τοποθεσία Web [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Φαίνεται ότι στέλνετε μηνύματα ηλεκτρονικού ταχυδρομείου από έναν νέο δοκιμαστικό οργανισμό microsoft 365. Για την αποτροπή κατάχρησης, αποκλείουμε διευθύνσεις IP που είναι γνωστό ότι έχουν παραβιαστεί στο παρελθόν. Αυτός ο συγκεκριμένος έλεγχος δεν επιβάλλεται πλέον μετά την έναρξη της χρήσης αδειών χρήσης επί πληρωμή. Ίσως να είστε σε θέση να πάρετε προσωρινή ανακούφιση ζητώντας μια νέα διεύθυνση IP από τον πάροχο υπηρεσιών Διαδικτύου (ISP), ή αφαιρώντας το μπλοκ από την ιστοσελίδα [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)
