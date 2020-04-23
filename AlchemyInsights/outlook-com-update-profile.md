@@ -1,24 +1,24 @@
 ---
-title: 8000036 αλλαγή εικόνας προφίλ/όνομα στο Outlook.com
+title: 8000036 Αλλαγή προφίλ pic/όνομα σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511344"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719376"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Αλλαγή της εικόνας ή του ονόματος του προφίλ μου στο Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Αλλαγή της εικόνας ή του ονόματός του προφίλ μου στο Outlook.com
 
-1. Μεταβείτε στις [πληροφορίες του λογαριασμού Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Μεταβείτε [στην τοποθεσία Πληροφορίες του λογαριασμού Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
 1. Επιλέξτε **Επεξεργασία ονόματος** ή **Αλλαγή εικόνας**.
 
-Αφήστε έως και 24 ώρες για να τεθούν σε ισχύ οι αλλαγές στη φωτογραφία ή το όνομα του προφίλ σας.
+Παρακαλώ επιτρέψτε μέχρι 24 ώρες για τις αλλαγές στη φωτογραφία ή το όνομα σχεδιαγράμματός σας για να ισχύσετε.

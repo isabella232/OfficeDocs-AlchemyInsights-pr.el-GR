@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059880"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720065"
 ---
 # <a name="update-credit-card-information"></a>Ενημέρωση πληροφοριών πιστωτικής κάρτας
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059880"
 
 Εάν αντιμετωπίζετε προβλήματα με τη φόρτωση της σελίδας, δοκιμάστε να ανοίξετε την ιστοσελίδα με ένα διαφορετικό πρόγραμμα περιήγησης ή δοκιμάστε να ανοίξετε τη σελίδα σε ένα παράθυρο ιδιωτικής περιήγησης, όπως ένα παράθυρο InPrivate στο Microsoft Edge ή ένα παράθυρο ανώνυμης περιήγησης στο Google Chrome. 
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση πιστωτικής κάρτας ή τραπεζικού λογαριασμού στο Office 365 για Επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) και [Αντιμετώπιση προβλημάτων με πιστωτικές κάρτες και τραπεζικούς λογαριασμούς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση πιστωτικής κάρτας ή τραπεζικού λογαριασμού στο Microsoft 365 για Επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) και στο [Αντιμετώπιση προβλημάτων με πιστωτικές κάρτες και τραπεζικούς λογαριασμούς](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
