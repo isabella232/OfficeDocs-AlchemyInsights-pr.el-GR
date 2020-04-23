@@ -1,25 +1,25 @@
 ---
-title: Αντιμετώπιση προβλημάτων σχετικά με Microsoft Intune
+title: Αντιμετώπιση προβλημάτων με το Microsoft Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506587"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733450"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Αντιμετώπιση προβλημάτων σχετικά με Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με το Microsoft Intune
 
-Εξετάστε τους πόρους που αναφέρονται παρακάτω για να επιλύσετε το θέμα σας τώρα.
+Εξετάστε τους πόρους που παρατίθενται παρακάτω για να επιλύσετε το ζήτημά σας τώρα.
   
-1. Χρησιμοποιήστε [Πύλη του Intune αντιμετώπιση προβλημάτων](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε ορισμένα κοινά σφάλματα. Εξετάστε [αυτό](https://docs.microsoft.com/intune/help-desk-operators) το έγγραφο για περισσότερες λεπτομέρειες.  
-2. Εξετάστε [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)για να βρείτε απαντήσεις και λύσεις σε συνηθισμένα προβλήματα.  
-3. Αναλάβετε τον έλεγχο [Υπηρεσιών υγείας](https://portal.office.com/AdminPortal/Home#/servicehealth) για να δείτε την κατάσταση της υπηρεσίας.   
-4. Εξετάστε [Intune τεκμηρίωση](https://docs.microsoft.com/intune/) για το σχεδιασμό, διαδικασιών, αντιμετώπιση προβλημάτων, άρθρα και πολλά άλλα. 
+1. Χρησιμοποιήστε [την Πύλη αντιμετώπισης προβλημάτων intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε ορισμένες συνήθεις αποτυχίες. Εξετάστε [αυτό το](https://docs.microsoft.com/intune/help-desk-operators) έγγραφο για περισσότερες λεπτομέρειες.  
+2. Εξετάστε [το Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)για να βρείτε απαντήσεις και λύσεις σε κοινά ζητήματα.  
+3. Ανατρέξτε στο θέμα [Υγεία υπηρεσίας](https://portal.office.com/AdminPortal/Home#/servicehealth) για να δείτε την κατάσταση της υπηρεσίας.   
+4. Εξετάστε [την τεκμηρίωση του Intune](https://docs.microsoft.com/intune/) για σχεδιασμό, πώς να την αντιμετωπίσετε, να αντιμετωπίσετε άρθρα και πολλά άλλα. 

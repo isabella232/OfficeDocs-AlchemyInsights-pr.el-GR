@@ -1,8 +1,8 @@
 ---
-title: Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση
+title: Χρήση του προγράμματος εγκατάστασης χωρίς σύνδεση του Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532270"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726320"
 ---
-# <a name="use-the-office-offline-installer"></a>Χρησιμοποιήστε το πρόγραμμα εγκατάστασης του Office για εργασία χωρίς σύνδεση
+# <a name="use-the-office-offline-installer"></a>Χρήση του προγράμματος εγκατάστασης χωρίς σύνδεση του Office
 
-Πρέπει να είστε συνδεδεμένοι στο Internet για να κάνετε λήψη των αρχείων εγκατάστασης, αλλά μόλις γίνει αυτό, μπορείτε να εγκαταστήσετε Office για εργασία χωρίς σύνδεση σε έναν Υπολογιστή ανά πάσα στιγμή χρησιμοποιώντας το Office ανάπτυξης Tool (ODT)
+Πρέπει να είστε συνδεδεμένοι στο Internet για να κάνετε λήψη των αρχείων του προγράμματος εγκατάστασης, αλλά μόλις γίνει αυτό, μπορείτε στη συνέχεια να εγκαταστήσετε το Office χωρίς σύνδεση σε έναν υπολογιστή με την ευκολία σας, χρησιμοποιώντας το Εργαλείο ανάπτυξης του Office (ODT)
 
-ODT έχει σχεδιαστεί για εταιρικά περιβάλλοντα και εκτελείται από τη γραμμή εντολών, έτσι ώστε τα βήματα είναι πιο περίπλοκες--αλλά θα εξακολουθούν να λειτουργούν για εγκατάσταση σε μία μόνο συσκευή. Ανατρέξτε στην ενότητα [χρήση του προγράμματος εγκατάστασης του Office για εργασία χωρίς σύνδεση](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+Το ODT έχει σχεδιαστεί για εταιρικά περιβάλλοντα και εκτελείται από τη γραμμή εντολών, επομένως τα βήματα είναι πιο περίπλοκα-- αλλά θα εξακολουθούν να λειτουργούν για εγκατάσταση σε μία μόνο συσκευή. Ανατρέξτε [στο θέμα Χρήση του προγράμματος εγκατάστασης χωρίς σύνδεση του Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

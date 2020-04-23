@@ -1,9 +1,9 @@
 ---
-title: 929 κανόνες για τα εισερχόμενα deflectTransport κανόνες
+title: 929 Κανόνες εισερχομένων για την εκτροπή κανόνων μεταφοράς
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499594"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724592"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Κανόνες ροής αλληλογραφίας (γνωστό και ως κανόνες μεταφοράς)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Κανόνες ροής αλληλογραφίας (γνωστοί και ως κανόνες μεταφοράς)
 
-- Γενική επισκόπηση των κανόνων ροής αλληλογραφίας: [αλληλογραφίας ροή κανόνες (κανόνες μεταφοράς) στο Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Επισκόπηση των κανόνων ροής αλληλογραφίας: [Κανόνες ροής αλληλογραφίας (κανόνες μεταφοράς) στο Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Ρύθμιση κανόνων ροής αλληλογραφίας: [αλληλογραφίας ροή διαδικασίες κανόνα στο Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Κανόνες ροής αλληλογραφίας εγκατάστασης: [Διαδικασίες κανόνων ροής αλληλογραφίας στο Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
 - Δημιουργία, τροποποίηση και διαγραφή κανόνων ροής αλληλογραφίας: [Διαχείριση κανόνων ροής αλληλογραφίας](https://technet.microsoft.com/library/jj657505.aspx)
 
-Μπορείτε επίσης να διαχειριστείτε κανόνες ροής αλληλογραφίας στον Exchange Online PowerShell. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (προβολή), [Δημιουργία TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (δημιουργία), [Κατάργηση TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (διαγραφή), το [Σύνολο TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (τροποποίηση υπαρχόντων), [TransportRule απενεργοποίηση](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable υπάρχον), και [Ενεργοποίηση TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (ενεργοποιήσετε το ήδη υπάρχον).
+Μπορείτε επίσης να διαχειριστείτε κανόνες ροής αλληλογραφίας στο Exchange Online PowerShell. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (προβολή), [Κανόνας νέας μεταφοράς](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (δημιουργία), [Κατάργηση-ΜεταφοράΚανόνας](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (διαγραφή), [Κανόνας set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (τροποποίηση υπάρχοντος), [Απενεργοποίηση-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (απενεργοποίηση υπάρχοντος) και [Ενεργοποίηση-ΜεταφοράΚανόνας](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (ενεργοποίηση υπάρχοντος).
 
-Cmdlets κανόνα ροής πρόσθετες αλληλογραφίας: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (λίστα διαθέσιμες ενέργειες), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (λίστα διαθέσιμες συνθήκες και εξαιρέσεις), [TransportRuleCollection εξαγωγής](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (εξαγωγή κανόνων) και [ Εισαγωγή TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (εισαγωγή κανόνων).
+Πρόσθετα cmdlets κανόνα ροής αλληλογραφίας: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (διαθέσιμες ενέργειες λίστας), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (λίστα διαθέσιμες συνθήκες και εξαιρέσεις), [Εξαγωγή-ΜεταφοράRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (κανόνες εξαγωγής) και [Εισαγωγή-ΜεταφοράRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (κανόνες εισαγωγής).
