@@ -1,8 +1,8 @@
 ---
-title: Ορίσετε SPF
+title: Ρύθμιση SPF
 ms.author: pebaum
 author: pebaum
-ms.date: 12/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: ed03d39d8bc8724067fe2d98ca718ed9e5308d54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2415864bc426fbf08a27c1b9d0b0e645fc5e921b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549975"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789338"
 ---
-# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="dca8b-102">Ορίσετε SPF στο Office 365</span><span class="sxs-lookup"><span data-stu-id="dca8b-102">Set up SPF in Office 365</span></span>
+# <a name="set-up-spf"></a><span data-ttu-id="0fd93-102">Ρύθμιση SPF</span><span class="sxs-lookup"><span data-stu-id="0fd93-102">Set up SPF</span></span>
 
-<span data-ttu-id="dca8b-103">Ενημερώστε τις εγγραφές DNS σας έτσι ώστε να μπορείτε να χρησιμοποιήσετε ένα πλαίσιο πολιτικής αποστολέα (SPF) με προσαρμοσμένο τομέα σας για την επικύρωση του εξερχόμενου ηλεκτρονικού ταχυδρομείου που αποστέλλονται από τον προσαρμοσμένο τομέα σας.</span><span class="sxs-lookup"><span data-stu-id="dca8b-103">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain.</span></span> <span data-ttu-id="dca8b-104">Αυτό αποτρέπει άλλους "πλαστογράφηση" Αλληλογραφία σαν να είχαν σταλεί από τον τομέα σας.</span><span class="sxs-lookup"><span data-stu-id="dca8b-104">This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
+<span data-ttu-id="0fd93-103">Ενημερώστε τις εγγραφές DNS, ώστε να μπορείτε να χρησιμοποιήσετε ένα πλαίσιο πολιτικής αποστολέα (SPF) με τον προσαρμοσμένο τομέα σας για να επικυρώσετε το εξερχόμενο μήνυμα ηλεκτρονικού ταχυδρομείου που αποστέλλεται από τον προσαρμοσμένο τομέα σας.</span><span class="sxs-lookup"><span data-stu-id="0fd93-103">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain.</span></span> <span data-ttu-id="0fd93-104">Αυτό βοηθά στην αποτροπή της "πλαστοποιίας" αλληλογραφίας από άλλους χρήστες σαν να στάλθηκαν από τον τομέα σας.</span><span class="sxs-lookup"><span data-stu-id="0fd93-104">This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
   
-- [<span data-ttu-id="dca8b-105">Ορίσετε SPF στο Office 365, για να αποτραπεί η πλαστογράφηση</span><span class="sxs-lookup"><span data-stu-id="dca8b-105">Set up SPF in Office 365 to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="0fd93-105">Ρύθμιση spf για την αποτροπή πλαστοπλασιασμός</span><span class="sxs-lookup"><span data-stu-id="0fd93-105">Set up SPF to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [<span data-ttu-id="dca8b-106">Ρύθμιση όλων των εγγραφών DNS της Βοήθειας</span><span class="sxs-lookup"><span data-stu-id="dca8b-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="0fd93-106">Βοήθεια για τη ρύθμιση όλων των εγγραφών DNS</span><span class="sxs-lookup"><span data-stu-id="0fd93-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
