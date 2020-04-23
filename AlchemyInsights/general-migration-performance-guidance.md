@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958538"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537741"
 ---
 # <a name="general-migration-performance-guidance"></a>Γενικές οδηγίες για τις επιδόσεις μετεγκατάστασης
 
+
 **Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
 
-**Οδηγίες για τις επιδόσεις μετεγκατάστασης**
+**Επιλογές μετεγκατάστασης**
 
-Οι επιδόσεις της μετεγκατάστασης μπορούν να επηρεαστούν από την υποδομή του δικτύου, το μέγεθος αρχείου, το χρόνο μετεγκατάστασης και τις επιβραδύνσεις. Η κατανόηση αυτής της διαδικασίας θα σας βοηθήσει να σχεδιάσετε και να μεγιστοποιήσετε την απόδοση της μετεγκατάστασης.
+Υπάρχουν διάφορες επιλογές διαθέσιμες για τη μετεγκατάσταση περιεχομένου στο SharePoint Online, ανάλογα με το μέγεθος και την ποσότητα των αρχείων που πρέπει να μετακινήσετε. Μπορείτε να δείτε μια λίστα με τις επιλογές [εδώ](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Γενικές οδηγίες για τις επιδόσεις μετεγκατάστασης](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Για περισσότερες πληροφορίες σχετικά με τη μετεγκατάσταση περιεχομένου, επισκεφθείτε τις συνδέσεις παρακάτω.
+
+- [Εργαλείο μετεγκατάστασης του SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Γρήγορα αποτελέσματα με το Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
