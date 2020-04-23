@@ -1,23 +1,23 @@
 ---
-title: Το Outlook στο λογαριασμό Web έχει παραβιαστεί
+title: Το Outlook στο λογαριασμό web έχει παραβιαστεί
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4000320e83c6a6d7857103a940d5c97c48e702a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511199"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768653"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="3c690-102">Το Outlook στο λογαριασμό Web έχει παραβιαστεί</span><span class="sxs-lookup"><span data-stu-id="3c690-102">Outlook on the web account hacked</span></span>
+# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="a876e-102">Το Outlook στο λογαριασμό web έχει παραβιαστεί</span><span class="sxs-lookup"><span data-stu-id="a876e-102">Outlook on the web account hacked</span></span>
 
-<span data-ttu-id="3c690-103">Εάν ο λογαριασμός σας έχει παραβιαστεί, ακολουθήστε τις οδηγίες σχετικά με τον [τρόπο ασφαλούς και επαναφοράς της συνάρτησης ηλεκτρονικού ταχυδρομείου σε έναν ύποπτο κίνδυνο λογαριασμού Office 365 και γραμματοκιβώτιο](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span><span class="sxs-lookup"><span data-stu-id="3c690-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
+<span data-ttu-id="a876e-103">Εάν έχει παραβιαστεί ο λογαριασμός σας, ακολουθήστε τις οδηγίες στο [θέμα Τρόπος ασφάλειας και επαναφοράς της λειτουργίας ηλεκτρονικού ταχυδρομείου σε έναν ύποπτο λογαριασμό microsoft 365 και γραμματοκιβώτιο της Microsoft](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span><span class="sxs-lookup"><span data-stu-id="a876e-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Microsoft 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
 
-<span data-ttu-id="3c690-104">Για να μάθετε περισσότερα σχετικά με τα πρόσθετα βήματα που μπορείτε να κάνετε για να αποτρέψετε τον κίνδυνο του λογαριασμού σας, ανατρέξτε [στο θέμα ανταπόκριση σε έναν λογαριασμό ηλεκτρονικού ταχυδρομείου που έχει παραβιαστεί στο Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="3c690-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+<span data-ttu-id="a876e-104">Για να μάθετε περισσότερα σχετικά με τα πρόσθετα βήματα που μπορείτε να λάβετε για να αποτρέψετε την παραβίαση του λογαριασμού σας, ανατρέξτε στο θέμα [Απάντηση σε λογαριασμό ηλεκτρονικού ταχυδρομείου που έχει παραβιαστεί στο Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="a876e-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>

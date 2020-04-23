@@ -1,9 +1,9 @@
 ---
-title: Διαχείριση αδειών εφαρμογής
+title: Διαχείριση αδειών χρήσης εφαρμογών
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497371"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762641"
 ---
-# <a name="manage-office-365-app-licenses"></a><span data-ttu-id="dd368-102">Διαχείριση αδειών εφαρμογής Office 365</span><span class="sxs-lookup"><span data-stu-id="dd368-102">Manage Office 365 app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="8ba77-102">Διαχείριση αδειών χρήσης εφαρμογών</span><span class="sxs-lookup"><span data-stu-id="8ba77-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="dd368-103">Για να αλλάξετε την ποσότητα άδειας χρήσης</span><span class="sxs-lookup"><span data-stu-id="dd368-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="8ba77-103">Για να αλλάξετε την ποσότητα άδειας χρήσης</span><span class="sxs-lookup"><span data-stu-id="8ba77-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="dd368-104">Μεταβείτε στη σελίδα προϊόντα **χρέωσης** > [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) και, στη συνέχεια, επιλέξτε την καρτέλα **εφαρμογές** .</span><span class="sxs-lookup"><span data-stu-id="dd368-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="8ba77-104">Μεταβείτε στη σελίδα **Προϊόντα χρέωσης** > [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) και, στη συνέχεια, επιλέξτε την καρτέλα **Εφαρμογές.**</span><span class="sxs-lookup"><span data-stu-id="8ba77-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="dd368-105">Βρείτε και επιλέξτε την εφαρμογή που θέλετε να διαχειριστείτε.</span><span class="sxs-lookup"><span data-stu-id="dd368-105">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="8ba77-105">Βρείτε και επιλέξτε την εφαρμογή που θέλετε να διαχειριστείτε.</span><span class="sxs-lookup"><span data-stu-id="8ba77-105">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="dd368-106">Επιλέξτε **Προσθήκη/κατάργηση αδειών χρήσης**.</span><span class="sxs-lookup"><span data-stu-id="dd368-106">Select **Add/remove licenses**.</span></span>
+3. <span data-ttu-id="8ba77-106">Επιλέξτε **Προσθαφαίρεση αδειών χρήσης**.</span><span class="sxs-lookup"><span data-stu-id="8ba77-106">Select **Add/remove licenses**.</span></span>
 
-4. <span data-ttu-id="dd368-107">Εισαγάγετε το νέο αριθμό των απαιτούμενων αδειών χρήσης.</span><span class="sxs-lookup"><span data-stu-id="dd368-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="dd368-108">Για παράδειγμα, εάν έχετε ήδη 5 άδειες και χρειάζεστε μόνο 4, πληκτρολογήστε 4 στο πλαίσιο **συνολικές άδειες χρήσης** .</span><span class="sxs-lookup"><span data-stu-id="dd368-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="dd368-109">Εάν έχετε ήδη 5 άδειες χρήσης και χρειάζεστε 10 συνολικές άδειες, πληκτρολογήστε 10 στο πλαίσιο **συνολικές άδειες χρήσης** .</span><span class="sxs-lookup"><span data-stu-id="dd368-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
+4. <span data-ttu-id="8ba77-107">Πληκτρολογήστε τον νέο αριθμό αδειών χρήσης που απαιτούνται.</span><span class="sxs-lookup"><span data-stu-id="8ba77-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="8ba77-108">Για παράδειγμα, εάν αυτήν τη στιγμή έχετε 5 άδειες χρήσης και χρειάζεστε μόνο 4, πληκτρολογήστε 4 στο πλαίσιο **Σύνολο αδειών χρήσης.**</span><span class="sxs-lookup"><span data-stu-id="8ba77-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="8ba77-109">Εάν αυτήν τη στιγμή έχετε 5 άδειες χρήσης και χρειάζεστε 10 συνολικές άδειες χρήσης, πληκτρολογήστε 10 στο πλαίσιο **Σύνολο αδειών χρήσης.**</span><span class="sxs-lookup"><span data-stu-id="8ba77-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="dd368-110">Για να εκχωρήσετε άδειες χρήσης εφαρμογών</span><span class="sxs-lookup"><span data-stu-id="dd368-110">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="8ba77-110">Για να εκχωρήσετε άδειες χρήσης εφαρμογών</span><span class="sxs-lookup"><span data-stu-id="8ba77-110">To assign app licenses</span></span>
 
-1. <span data-ttu-id="dd368-111">Μεταβείτε στη σελίδα προϊόντα **χρέωσης** > [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) και, στη συνέχεια, επιλέξτε την καρτέλα **εφαρμογές** .</span><span class="sxs-lookup"><span data-stu-id="dd368-111">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="8ba77-111">Μεταβείτε στη σελίδα **Προϊόντα χρέωσης** > [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) και, στη συνέχεια, επιλέξτε την καρτέλα **Εφαρμογές.**</span><span class="sxs-lookup"><span data-stu-id="8ba77-111">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="dd368-112">Βρείτε και επιλέξτε την εφαρμογή που θέλετε να διαχειριστείτε.</span><span class="sxs-lookup"><span data-stu-id="dd368-112">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="8ba77-112">Βρείτε και επιλέξτε την εφαρμογή που θέλετε να διαχειριστείτε.</span><span class="sxs-lookup"><span data-stu-id="8ba77-112">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="dd368-113">Στην περιοχή **ρυθμίσεις & ενέργειες**, επιλέξτε τη σύνδεση για **Διαχείριση στην πύλη του Publisher**.</span><span class="sxs-lookup"><span data-stu-id="dd368-113">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
+3. <span data-ttu-id="8ba77-113">Στην περιοχή **Ρυθμίσεις & ενέργειες**, επιλέξτε τη σύνδεση για διαχείριση **στην πύλη του εκδότη**.</span><span class="sxs-lookup"><span data-stu-id="8ba77-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>

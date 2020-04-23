@@ -1,9 +1,9 @@
 ---
-title: Αντιμετώπιση προβλημάτων της συμβουλής ασφάλειας για την ανίχνευση της απάτης ελέγχει
+title: Αντιμετώπιση προβλημάτων του άκρου ασφαλείας για ελέγχους εντοπισμού απάτης
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 7ce8bcc7caefebf51fc8d9622367fd16405deef1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759512"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a><span data-ttu-id="f9a86-102">Αντιμετώπιση προβλημάτων της συμβουλής ασφάλειας για την ανίχνευση της απάτης ελέγχει</span><span class="sxs-lookup"><span data-stu-id="f9a86-102">Troubleshooting the safety tip for fraud detection checks</span></span>
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a><span data-ttu-id="b8215-102">Αντιμετώπιση προβλημάτων του άκρου ασφαλείας για ελέγχους εντοπισμού απάτης</span><span class="sxs-lookup"><span data-stu-id="b8215-102">Troubleshooting the safety tip for fraud detection checks</span></span>
 
-<span data-ttu-id="f9a86-103">Εάν είστε γρήγορα μια συμβουλή ασφαλείας που αναφέρει ότι "ο αποστολέας απέτυχε μας έλεγχοι εντοπισμού της απάτης και ενδέχεται να μην είναι που να εμφανίζονται ως" και, στη συνέχεια, ο αποστολέας δεν μπόρεσε να περάσει έλεγχο ταυτότητας DKIM ή SPF.</span><span class="sxs-lookup"><span data-stu-id="f9a86-103">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks.</span></span> <span data-ttu-id="f9a86-104">Είναι η καλύτερη μέθοδος για να επιλύσετε αυτό το θέμα για τον αποστολέα για να εξουσιοδοτήσετε τους.</span><span class="sxs-lookup"><span data-stu-id="f9a86-104">The best method to resolve this is for the sender to authorize themselves.</span></span> <span data-ttu-id="f9a86-105">Εάν ο αποστολέας στέλνει για λογαριασμό σας, θα πρέπει να επιτρέπουν τους, προσθέτοντας τη διεύθυνση IP του αποστολέα για την καρτέλα σας SPF.</span><span class="sxs-lookup"><span data-stu-id="f9a86-105">If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span></span>
+<span data-ttu-id="b8215-103">Εάν παίρνετε μια συμβουλή ασφαλείας που λέει "Ο αποστολέας απέτυχε ελέγχους ανίχνευσης απάτης μας και δεν μπορεί να είναι αυτό που φαίνεται να είναι", τότε ο αποστολέας απέτυχε να περάσει είτε DKIM ή SPF ελέγχους ταυτότητας.</span><span class="sxs-lookup"><span data-stu-id="b8215-103">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks.</span></span> <span data-ttu-id="b8215-104">Η καλύτερη μέθοδος για την επίλυση αυτού είναι ο αποστολέας να εξουσιοδοτήσει τον εαυτό του.</span><span class="sxs-lookup"><span data-stu-id="b8215-104">The best method to resolve this is for the sender to authorize themselves.</span></span> <span data-ttu-id="b8215-105">Εάν ο αποστολέας στέλνει για λογαριασμό σας, πρέπει να τον εξουσιοδοτήσετε προσθέτοντας τη διεύθυνση IP του αποστολέα στην εγγραφή SPF.</span><span class="sxs-lookup"><span data-stu-id="b8215-105">If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span></span>
   
-<span data-ttu-id="f9a86-106">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων της συμβουλής κόκκινο ασφάλειας (ύποπτες) για την ανίχνευση της απάτης ελέγχει](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .</span><span class="sxs-lookup"><span data-stu-id="f9a86-106">See [Troubleshooting the red (suspicious) safety tip for fraud detection checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for more info.</span></span>
+<span data-ttu-id="b8215-106">Ανατρέξτε [στο θέμα Αντιμετώπιση προβλημάτων της κόκκινης (ύποπτης) συμβουλής ασφαλείας για ελέγχους εντοπισμού απάτης](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) για περισσότερες πληροφορίες.</span><span class="sxs-lookup"><span data-stu-id="b8215-106">See [Troubleshooting the red (suspicious) safety tip for fraud detection checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for more info.</span></span>
   
-<span data-ttu-id="f9a86-107">Ακολουθούν ορισμένες άλλες συνδέσεις που μπορούν να σας βοηθήσουν:</span><span class="sxs-lookup"><span data-stu-id="f9a86-107">Here are some other links that can help:</span></span>
+<span data-ttu-id="b8215-107">Ακολουθούν ορισμένες άλλες συνδέσεις που μπορούν να σας βοηθήσουν:</span><span class="sxs-lookup"><span data-stu-id="b8215-107">Here are some other links that can help:</span></span>
   
-- [<span data-ttu-id="f9a86-108">Πώς το Office 365 χρησιμοποιεί αποστολέας πλαίσιο πολιτικής (SPF) για να αποτρέψετε την πλαστογράφηση</span><span class="sxs-lookup"><span data-stu-id="f9a86-108">How Office 365 uses sender policy framework (SPF) to prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [<span data-ttu-id="b8215-108">Τρόπος με τον οποίο η Microsoft χρησιμοποιεί το πλαίσιο πολιτικής αποστολέα (SPF) για την αποτροπή πλαστογραφίας</span><span class="sxs-lookup"><span data-stu-id="b8215-108">How Microsoft uses sender policy framework (SPF) to prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [<span data-ttu-id="f9a86-109">Ορίσετε SPF στο Office 365, για να αποτραπεί η πλαστογράφηση</span><span class="sxs-lookup"><span data-stu-id="f9a86-109">Set up SPF in Office 365 to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="b8215-109">Ρύθμιση spf για την αποτροπή πλαστοπλασιασμός</span><span class="sxs-lookup"><span data-stu-id="b8215-109">Set up SPF to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
