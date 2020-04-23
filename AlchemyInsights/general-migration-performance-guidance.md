@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958538"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537741"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="9206b-102">Γενικές οδηγίες για τις επιδόσεις μετεγκατάστασης</span><span class="sxs-lookup"><span data-stu-id="9206b-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="a3fdb-102">Γενικές οδηγίες για τις επιδόσεις μετεγκατάστασης</span><span class="sxs-lookup"><span data-stu-id="a3fdb-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="9206b-103">**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.</span><span class="sxs-lookup"><span data-stu-id="9206b-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="9206b-104">**Οδηγίες για τις επιδόσεις μετεγκατάστασης**</span><span class="sxs-lookup"><span data-stu-id="9206b-104">**Migration performance guidance**</span></span>
+<span data-ttu-id="a3fdb-103">**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.</span><span class="sxs-lookup"><span data-stu-id="a3fdb-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="9206b-105">Οι επιδόσεις της μετεγκατάστασης μπορούν να επηρεαστούν από την υποδομή του δικτύου, το μέγεθος αρχείου, το χρόνο μετεγκατάστασης και τις επιβραδύνσεις.</span><span class="sxs-lookup"><span data-stu-id="9206b-105">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="9206b-106">Η κατανόηση αυτής της διαδικασίας θα σας βοηθήσει να σχεδιάσετε και να μεγιστοποιήσετε την απόδοση της μετεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="9206b-106">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="a3fdb-104">**Επιλογές μετεγκατάστασης**</span><span class="sxs-lookup"><span data-stu-id="a3fdb-104">**Migration options**</span></span>
 
-- [<span data-ttu-id="9206b-107">Γενικές οδηγίες για τις επιδόσεις μετεγκατάστασης</span><span class="sxs-lookup"><span data-stu-id="9206b-107">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+<span data-ttu-id="a3fdb-105">Υπάρχουν διάφορες επιλογές διαθέσιμες για τη μετεγκατάσταση περιεχομένου στο SharePoint Online, ανάλογα με το μέγεθος και την ποσότητα των αρχείων που πρέπει να μετακινήσετε. Μπορείτε να δείτε μια λίστα με τις επιλογές [εδώ](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="a3fdb-105">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+
+<span data-ttu-id="a3fdb-106">Για περισσότερες πληροφορίες σχετικά με τη μετεγκατάσταση περιεχομένου, επισκεφθείτε τις συνδέσεις παρακάτω.</span><span class="sxs-lookup"><span data-stu-id="a3fdb-106">For more information on content migration, please visit the links below.</span></span>
+
+- [<span data-ttu-id="a3fdb-107">Εργαλείο μετεγκατάστασης του SharePoint</span><span class="sxs-lookup"><span data-stu-id="a3fdb-107">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [<span data-ttu-id="a3fdb-108">Γρήγορα αποτελέσματα με το Migration Manager</span><span class="sxs-lookup"><span data-stu-id="a3fdb-108">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [<span data-ttu-id="a3fdb-109">Mover</span><span class="sxs-lookup"><span data-stu-id="a3fdb-109">Mover</span></span>](https://mover.io/)
