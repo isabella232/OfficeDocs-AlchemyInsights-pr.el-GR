@@ -1,9 +1,9 @@
 ---
-title: 8000038 έλεγχος λογαριασμού παιδιού ΑΕΓΧΠΠ
+title: 8000038 Επαλήθευση παιδικού λογαριασμού GDPR
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 13e69ac917a08a338759269df5724c0528dd2eb0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 238d1440438bce2531f1a57f5592a204cf9c3cf3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764980"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Ημερομηνία γέννησης εμφανίζεται στο λογαριασμό σας Microsoft είναι εσφαλμένη
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Η ημερομηνία γέννησης που εμφανίζεται στο λογαριασμό Microsoft δεν είναι σωστή
 
-Microsoft λαμβάνει σοβαρά λογαριασμού ασφαλείας. Μπορείτε να πρόσφατα έχει ζητηθεί να δώσετε γονική συναίνεση για λογαριασμό Microsoft του παιδιού. Εάν χρειάζεστε βοήθεια, παρέχοντας γονική συναίνεση ή να ενημερώσετε την ημερομηνία γέννησης σε ένα λογαριασμό Microsoft, ανατρέξτε στην ενότητα [επαλήθευση ηλικίας για γονική συναίνεση](https://go.microsoft.com/fwlink/p/?linkid=874364).
+Η Microsoft λαμβάνει πολύ σοβαρά υπόψη την ασφάλεια των λογαριασμών. Ενδέχεται να σας ζητήθηκε πρόσφατα να δώσετε γονική συγκατάθεση για το λογαριασμό Microsoft ενός παιδιού. Εάν χρειάζεστε βοήθεια για την παροχή γονικής συναίνεσης ή την ενημέρωση της ημερομηνίας γέννησης σε ένα λογαριασμό Microsoft, ανατρέξτε στο θέμα [Επαλήθευση ηλικίας για γονική συγκατάθεση](https://go.microsoft.com/fwlink/p/?linkid=874364).
   
-Μάθετε περισσότερα για [γονική συναίνεση και θυγατρικών λογαριασμών της Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365).
+Μάθετε περισσότερα σχετικά με [τη γονική συγκατάθεση και τους παιδικούς λογαριασμούς Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365).
   

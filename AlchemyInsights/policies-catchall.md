@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765551"
 ---
 # <a name="teams-policies"></a>Πολιτικές ομάδων
 
@@ -30,5 +30,5 @@ ms.locfileid: "42599952"
 - [Οι πολιτικές σύσκεψης](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) ελέγχουν τι μπορούν να κάνουν οι χρήστες με τις συσκέψεις "Ομάδες", συμπεριλαμβανομένου του ελέγχου της υποδοχής. Για βοήθεια σχετικά με θέματα λόμπι, όπως η ρύθμιση παραμέτρων των ομάδων για την αποδοχή όλων, ανατρέξτε στο θέμα [Έλεγχος ρυθμίσεων λόμπι και επιπέδων συμμετοχής](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Οι πολιτικές ανταλλαγής μηνυμάτων](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) ελέγχουν τι μπορούν να κάνουν οι χρήστες με τη συνομιλία και τα μηνύματα, συμπεριλαμβανομένης της ενεργοποίησης ή απενεργοποίησης της συνομιλίας, της διαγραφής συνομιλιών, της αίτησης αποδεικτικών ανάγνωσης, της χρήσης giphys και αυτοκόλλητων και άλλων.
 - [Οι πολιτικές ρύθμισης εφαρμογών](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) ελέγχουν ποιες εφαρμογές είναι διαθέσιμες στους χρήστες, συμπεριλαμβανομένων των προσαρμοσμένων εφαρμογών και των εφαρμογών τρίτων, καθώς και τη σειρά με την οποία εμφανίζονται.  
-- Οι [πολιτικές διατήρησης](https://docs.microsoft.com/microsoftteams/retention-policies) δεδομένων για τις ομάδες βρίσκονται στο Κέντρο ασφάλειας και συμμόρφωσης του Office 365.
+- Οι [πολιτικές διατήρησης](https://docs.microsoft.com/microsoftteams/retention-policies) δεδομένων για τις ομάδες βρίσκονται στο Κέντρο ασφάλειας και συμμόρφωσης του Microsoft 365.
 - Οι πολιτικές του βιβλίου διευθύνσεων ομάδων ορίζονται μέσω [της αναζήτησης καταλόγου εμβέλειας](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

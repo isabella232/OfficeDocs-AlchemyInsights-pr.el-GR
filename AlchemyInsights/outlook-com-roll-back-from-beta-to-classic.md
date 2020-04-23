@@ -1,26 +1,26 @@
 ---
-title: Αίτηση για να επανέλθετε από έκδοση beta του Outlook.com σε κλασική Outlook.com
+title: Αίτηση για επαναφορά από Outlook.com βήτα σε κλασικό Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 77a1a51684525008a6319aa4820c7e62d6906ca5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ddcc6d04a93510ca35f0cd5d05fa3cf1d89d05a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535067"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743705"
 ---
-# <a name="the-new-outlookcom"></a>Το νέο Outlook.com
+# <a name="the-new-outlookcom"></a>Η νέα Outlook.com
 
-Δεν είναι πλέον δυνατό να αφήσετε τη νέα εμπειρία του Outlook.com και να επιστρέψετε στην κλασική έκδοση του Outlook.com.
+Δεν είναι πλέον δυνατό να αφήσετε τη νέα εμπειρία Outlook.com και να επιστρέψετε στην κλασική έκδοση του Outlook.com.
 
-Αν θα θέλατε να κάνω σχόλια σχετικά με το νέο Outlook.com, μεταβείτε στο [φόρουμ UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να κάνετε επιλογή τις ιδέες ή τα ζητήματα που θα θέλατε να δείτε αντιμετωπίζονται και σας θα απαντήσουμε απευθείας προς τα επάνω τα σχόλια και τις προτάσεις.
+Αν θέλετε να δώσετε σχόλια σχετικά με τη νέα Outlook.com, μεταβείτε στο [φόρουμ UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να ψηφίσετε για τις ιδέες ή τα ζητήματα που θέλετε να δείτε να αντιμετωπίζονται και θα απαντήσουμε άμεσα στα κορυφαία σχόλια και προτάσεις.
 
-[Λάβετε βοήθεια σχετικά με το Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Φέρε βοήθεια με Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

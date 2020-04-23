@@ -1,9 +1,9 @@
 ---
-title: Αντιμετώπιση προβλημάτων σχετικά με τη δυνατότητα DEP εγγραφής στο Microsoft Intune
+title: Αντιμετώπιση προβλημάτων με την εγγραφή DEP στο Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 3e10f6729d760d9f8f6d04bcb33317fde51a9b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 11b0d73c34996fd84431b38d77b64536d386977e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506920"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766709"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων σχετικά με τη δυνατότητα DEP εγγραφής στο Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με την εγγραφή DEP στο Microsoft Intune
 
-Εξετάστε τους πόρους που αναφέρονται παρακάτω για να επιλύσετε το θέμα σας τώρα.
+Εξετάστε τους πόρους που παρατίθενται παρακάτω για να επιλύσετε το ζήτημά σας τώρα.
   
-1. Εάν η DEP συσκευή δεν είναι δυνατό να εγγραφεί και ΣΠΙ (έλεγχο ταυτότητας πολλών παραγόντων) είναι ενεργοποιημένη, απενεργοποιήστε την ΣΠΙ. Αυτήν τη στιγμή δεν υποστηρίζεται ΣΠΙ για DEP εγγραφής
+1. Εάν η συσκευή DEP δεν είναι δυνατό να εγγραφεί και είναι ενεργοποιημένη η MFA (Έλεγχος ταυτότητας πολλών παραγόντων), απενεργοποιήστε τη ΔΥΝΑΤΌΤΗΤΑ MFA. Αυτήν τη στιγμή, η Σπι δεν υποστηρίζεται για εγγραφή DEP
 
-2. Χρησιμοποιήστε [Πύλη του Intune αντιμετώπιση προβλημάτων](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε συνηθισμένα σφάλματα εγγραφής. Αναθεωρήστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.
+2. Χρησιμοποιήστε την [πύλη αντιμετώπισης προβλημάτων intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε συνήθεις αποτυχίες εγγραφής. Εξετάστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.
 
-3. Εξετάστε αυτά τα έγγραφα για μια λίστα με συνηθισμένα σφάλματα που εμποδίζουν την εγγραφή και λύσεις σε κάθε: [Οδηγός αντιμετώπισης προβλημάτων](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) και [Αντιμετώπιση προβλημάτων doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Εξετάστε αυτά τα έγγραφα για μια λίστα συνηθισμένων σφαλμάτων που εμποδίζουν την εγγραφή και τις λύσεις σε κάθε: [Οδηγός αντιμετώπισης προβλημάτων](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) και [έγγραφο αντιμετώπισης προβλημάτων](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
 
-4. [Πληροφορίες σχετικά με το πρόγραμμα εγγραφής της συσκευής](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
+4. [Ενημερωθείτε σχετικά με το πρόγραμμα εγγραφής συσκευών](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).

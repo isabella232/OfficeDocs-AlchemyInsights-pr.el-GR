@@ -2,7 +2,7 @@
 title: Διατήρηση και διαγραφή του OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053333"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761325"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Διατήρηση και διαγραφή του OneDrive
 
-- Μπορείτε να [επαναφέρετε τους χρήστες του OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) που έχετε διαγράψει. Είναι στον κάδο ανακύκλωσης για 93 ημέρες. 
+- Μπορείτε να [επαναφέρετε ένα διαγραμμένο χρήστες OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) μόνοι σας. Είναι σε κάδο ανακύκλωσης για 93 ημέρες. 
 
-- Δείτε [αυτό το άρθρο](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) για να μάθετε:
-    - Πώς να δώσετε σε έναν άλλο χρήστη πρόσβαση στο OneDrive ενός διαγραμμένου χρήστη.
-    - Τι συμβαίνει με το OneDrive ενός χρήστη όταν διαγράφετε το λογαριασμό Office 365 του χρήστη για τον οργανισμό σας.
-    - Τρόπος ρύθμισης παραμέτρων της εξουσιοδότησης αυτόματης πρόσβασης.
-    - Πώς λειτουργεί η διαδικασία διαγραφής του OneDrive.
+- Ανατρέξτε [σε αυτό το άρθρο](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) για να μάθετε:
+    - Τρόπος παροχής πρόσβασης σε άλλο χρήστη στο OneDrive ενός διαγραμμένου χρήστη.
+    - Τι συμβαίνει στο OneDrive ενός χρήστη όταν διαγράφετε το λογαριασμό Microsoft 365 του χρήστη για τον οργανισμό σας.
+    - Τρόπος ρύθμισης παραμέτρων της αυτόματης μεταβίβασης πρόσβασης.
+    - Τρόπος λειτουργίας της διαδικασίας διαγραφής του OneDrive.
 
-- Ενδιαφέρεστε για την προστασία και διατήρηση του κέντρου συμμόρφωσης;:
-    - [Πολιτικές διατήρησης για OneDrive και τοποθεσίες του SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [διατήρηση ανακάλυψης για OneDrive και τοποθεσίες του SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Ενδιαφέρεστε για τη διατήρηση και κράτηση του Κέντρου Ασφάλειας και Συμμόρφωσης;:
+    - [Πολιτικές διατήρησης για τοποθεσίες του OneDrive και του SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [Διατήρηση eDiscovery για τοποθεσίες του OneDrive και του SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

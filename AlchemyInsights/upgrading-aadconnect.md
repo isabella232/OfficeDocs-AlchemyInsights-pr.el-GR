@@ -1,9 +1,9 @@
 ---
-title: 932 AADConnect αναβάθμιση
+title: 932 Αναβάθμιση AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506083"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766493"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Αναβάθμιση Azure AD σύνδεση
+# <a name="upgrade-azure-ad-connect"></a>Αναβάθμιση σύνδεσης azure ad
 
-Από προεπιλογή, ενεργοποιείται η Αυτόματη αναβάθμιση για σύνδεση AD Azure, που συμβάλλει ώστε να χρησιμοποιείτε την πιο πρόσφατη έκδοση. Για να επαληθεύσετε τις ρυθμίσεις αυτόματης αναβάθμισης, χρησιμοποιήστε το cmdlet **Get-ADSyncAutoUpgrade** σε Azure AD PowerShell. Το cmdlet θα επιστρέψει μία από τις ακόλουθες τιμές:
+Από προεπιλογή, η αυτόματη αναβάθμιση είναι ενεργοποιημένη για το Azure AD Connect, το οποίο σας βοηθά να εξασφαλίσετε ότι εκτελείτε την πιο πρόσφατη έκδοση. Για να επαληθεύσετε τις ρυθμίσεις αυτόματης αναβάθμισης, χρησιμοποιήστε το cmdlet **Get-ADSyncAutoUpgrade** στο Azure AD PowerShell. Το cmdlet θα επιστρέψει μία από τις ακόλουθες τιμές:
 
-- **Ενεργοποίηση**: Αυτόματη αναβάθμιση είναι ενεργοποιημένη.
+- **Ενεργοποιημένο:** Η αυτόματη αναβάθμιση είναι ενεργοποιημένη.
 
-- **Απενεργοποιημένο**: Αυτόματη αναβάθμιση είναι απενεργοποιημένη.
+- **Απενεργοποιημένο**: Η αυτόματη αναβάθμιση είναι απενεργοποιημένη.
 
-- **Αναστολής**: το σύστημα δεν είναι πλέον επιλέξιμες να λαμβάνετε αυτόματες αναβαθμίσεις. Δεν μπορείτε να ρυθμίσετε αυτήν την τιμή; ορίζεται από το σύστημα.
+- **Αναστολή:** Το σύστημα δεν είναι πλέον κατάλληλο για αυτόματη λήψη αναβαθμίσεων. Δεν μπορείτε να ρυθμίσετε αυτήν την τιμή. Έχει ρυθμιστεί από το σύστημα.
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αυτόματη αναβάθμιση](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Για να κάνετε λήψη της τελευταίας έκδοσης του σύνδεση AD Azure, μεταβείτε στο [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+Για να κάνετε λήψη της τελευταίας έκδοσης του Azure AD Connect, μεταβείτε στο [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).

@@ -1,8 +1,8 @@
 ---
-title: Αναβάθμιση στην πλήρη έκδοση ομάδες της Microsoft
+title: Αναβάθμιση στην πλήρη έκδοση των ομάδων της Microsoft
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766529"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Αναβάθμιση στην πλήρη έκδοση ομάδες της Microsoft
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Αναβάθμιση στην πλήρη έκδοση των ομάδων της Microsoft
 
-Πρέπει να κάνετε αναβάθμιση από το ελεύθερο στην πλήρη έκδοση ομάδες της Microsoft; Δείτε [Αναβάθμιση ομάδες της Microsoft δωρεάν έκδοση συνδρομής του Office 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Πρέπει να αναβαθμίσετε από την ελεύθερη στην πλήρη έκδοση του Microsoft Teams; Ανατρέξτε [στην επιλογή Αναβάθμιση ομάδων της Microsoft δωρεάν στην έκδοση συνδρομής Microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Θα πρέπει να πληροί τα εξής:
+Θα πρέπει να πληροίτε αυτές τις απαιτήσεις:
 
-- Είστε το άτομο που έκανε την τρέχουσα έκδοση ελεύθερος από τις ομάδες.
-- Εάν έχετε δικό σας τομέα, δεν μπορεί να είναι ήδη συσχετισμένη με Azure υπηρεσίας καταλόγου Active Directory.
-- Για τη μεταφορά δεδομένων, όταν κάνετε αναβάθμιση, πρέπει να εγγραφείτε κατά τη διαδικασία αναβάθμισης. Εάν αγοράσατε το Office 365 έξω από τη διαδικασία αναβάθμισης, δεν μπορείτε να μεταφέρετε δεδομένα.
+- Είστε το άτομο που εγγράφητε στην τρέχουσα δωρεάν έκδοση του Teams.
+- Εάν έχετε τον δικό σας τομέα, δεν μπορεί να συσχετιστεί ήδη με την υπηρεσία καταλόγου Azure Active Directory.
+- Για να μεταφέρετε δεδομένα κατά την αναβάθμιση, πρέπει να εγγραφείτε κατά τη διαδικασία αναβάθμισης. Εάν αγοράσατε μια συνδρομή εκτός της διαδικασίας αναβάθμισης, δεν μπορείτε να μεταφέρετε δεδομένα.

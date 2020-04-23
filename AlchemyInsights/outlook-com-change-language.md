@@ -1,9 +1,9 @@
 ---
-title: Αλλαγή της γλώσσας σας γλώσσα, ημερομηνία και μορφή ώρας ή ζώνη ώρας στο Outlook.com
+title: Αλλαγή γλώσσας, μορφής ημερομηνίας και ώρας ή ζώνης ώρας σε Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9368fe86c2f0e4756c69dd56e4a5e6cdefdfe841
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537336"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721932"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Αλλαγή σας γλώσσα, ημερομηνία και μορφή ώρας ή ζώνη ώρας στο Outlook.com
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Αλλαγή της γλώσσας, της μορφής ημερομηνίας και ώρας ή της ζώνης ώρας σε Outlook.com
 
-1. Ανοίξτε το [γλώσσα και ρυθμίσεις ώρας](https://go.microsoft.com/fwlink/?linkid=2085505).
-1. Επιλέξτε τη γλώσσα, μορφή ημερομηνίας, μορφή ώρας και ζώνης ώρας που θέλετε να χρησιμοποιήσετε.
+1. Ανοίξτε [τις ρυθμίσεις γλώσσας και ώρας](https://go.microsoft.com/fwlink/?linkid=2085505).
+1. Επιλέξτε τη γλώσσα, τη μορφή ημερομηνίας, τη μορφή ώρας και τη ζώνη ώρας που θέλετε να χρησιμοποιήσετε.
 1. Επιλέξτε **Αποθήκευση**.

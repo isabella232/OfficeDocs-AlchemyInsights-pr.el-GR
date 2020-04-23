@@ -1,9 +1,9 @@
 ---
-title: Outlook.com κατάσταση εμφανίζεται πάντα ως διαθέσιμο
+title: Outlook.com κατάσταση εμφανίζεται πάντα ως διαθέσιμη
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511955"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743453"
 ---
-# <a name="my-status-always-shows-as-available"></a>Κατάσταση μου εμφανίζεται πάντα ως διαθέσιμο
+# <a name="my-status-always-shows-as-available"></a>Η κατάστασή μου εμφανίζεται πάντα ως διαθέσιμη
 
-Κάθε φορά που εισέρχεστε στο Outlook.com, θα γίνει επαναφορά της κατάστασης του λογαριασμού σας για διαθέσιμο. Μπορείτε να αποτρέψετε την αλλαγή από την έξοδο από την Outlook.com δεν την κατάστασή σας. Για να παραμείνετε συνδεδεμένοι όταν κλείσετε το πρόγραμμα περιήγησης, επιλέξτε το πλαίσιο **να παραμένω σε** Outlook.com είσοδος σελίδας.
+Κάθε φορά που συνδέεστε στο Outlook.com, η κατάσταση του λογαριασμού σας θα επανήλθε στη σελίδα Διαθέσιμο. Μπορείτε να αποτρέψετε την αλλαγή της κατάστασής σας, μη αποχωρώντας από Outlook.com. Για να παραμείνετε συνδεδεμένοι κατά το κλείσιμο του προγράμματος περιήγησης, επιλέξτε το πλαίσιο **Διατήρηση εγγραφής στη** σελίδα εισόδου Outlook.com.
