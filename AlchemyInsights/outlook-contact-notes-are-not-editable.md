@@ -1,23 +1,23 @@
 ---
 ms.author: peddy
-title: Δεν είναι δυνατή η επεξεργασία σημειώσεις επαφής του Outlook
+title: Δεν είναι επιμελούς επεξεργασίας οι σημειώσεις επαφών του Outlook
 author: peddy
 manager: joallard
-ms.date: 4/25/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: dcd52172ade1c6f73a556ba0c4574594988b49a7
-ms.sourcegitcommit: 60bc3cccd1aa81340143cd27c597bb97351ecadb
+ms.openlocfilehash: 9f67a53adfce49c2823767a9c1dca273d9bc1a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/26/2019
-ms.locfileid: "33346011"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743345"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a><span data-ttu-id="0cd3b-102">Δεν είναι δυνατό να επεξεργαστείτε το πεδίο "Σημειώσεις" για μια επαφή στο Outlook</span><span class="sxs-lookup"><span data-stu-id="0cd3b-102">Can't edit the notes field for a contact in Outlook</span></span>
-<span data-ttu-id="0cd3b-103">Αυτό είναι ένα γνωστό ζήτημα.</span><span class="sxs-lookup"><span data-stu-id="0cd3b-103">This is a known issue.</span></span> <span data-ttu-id="0cd3b-104">Εργαζόμαστε για την επίλυσή του και η κατάσταση θα ενημερωθεί σε [δεν είναι δυνατό να επεξεργαστείτε το πεδίο "Σημειώσεις" για μια επαφή](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).</span><span class="sxs-lookup"><span data-stu-id="0cd3b-104">We're working to fix it and the status will be updated in [Can't edit the notes field for a contact](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).</span></span>
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a><span data-ttu-id="ae4ab-102">Δεν είναι δυνατή η επεξεργασία του πεδίου σημειώσεων για μια επαφή στο Outlook</span><span class="sxs-lookup"><span data-stu-id="ae4ab-102">Can't edit the notes field for a contact in Outlook</span></span>
+<span data-ttu-id="ae4ab-103">Αυτό είναι ένα γνωστό θέμα.</span><span class="sxs-lookup"><span data-stu-id="ae4ab-103">This is a known issue.</span></span> <span data-ttu-id="ae4ab-104">Εργαζόμαστε για να το διορθώσουμε και η κατάσταση θα ενημερωθεί στο Δεν είναι [δυνατή η επεξεργασία του πεδίου σημειώσεων για μια επαφή](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).</span><span class="sxs-lookup"><span data-stu-id="ae4ab-104">We're working to fix it and the status will be updated in [Can't edit the notes field for a contact](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).</span></span>
 
-<span data-ttu-id="0cd3b-105">**Λύση**: Εάν χρησιμοποιείτε λογαριασμό Outlook.com ή ένα Office 365, μπορείτε να επεξεργαστείτε τις επαφές σας, χρησιμοποιώντας το web.</span><span class="sxs-lookup"><span data-stu-id="0cd3b-105">**Workaround**: If you're using an Office 365 or an Outlook.com account, you can edit your contacts by using the web.</span></span> <span data-ttu-id="0cd3b-106">Εάν χρησιμοποιείτε ένα λογαριασμό IMAP ή POP, δεν υπάρχει τρόπος επίλυσης είναι διαθέσιμη αυτήν τη στιγμή.</span><span class="sxs-lookup"><span data-stu-id="0cd3b-106">If you're using an IMAP or POP account, no workaround is available at this time.</span></span>
+<span data-ttu-id="ae4ab-105">**Λύση:** Εάν χρησιμοποιείτε λογαριασμό Microsoft 365 ή Outlook.com, μπορείτε να επεξεργαστείτε τις επαφές σας χρησιμοποιώντας το web.</span><span class="sxs-lookup"><span data-stu-id="ae4ab-105">**Workaround**: If you're using an Microsoft 365 or an Outlook.com account, you can edit your contacts by using the web.</span></span> <span data-ttu-id="ae4ab-106">Εάν χρησιμοποιείτε λογαριασμό IMAP ή POP, δεν υπάρχει διαθέσιμη λύση αυτήν τη στιγμή.</span><span class="sxs-lookup"><span data-stu-id="ae4ab-106">If you're using an IMAP or POP account, no workaround is available at this time.</span></span>

@@ -1,8 +1,8 @@
 ---
-title: 1800018 να βρείτε τις ρυθμίσεις του διακομιστή POP και IMAP
+title: 1800018 Εύρεση των ρυθμίσεων διακομιστή POP και IMAP
 ms.author: pdigia
 author: pebaum
-ms.date: 6/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 3a18978d520f400672bc50a455fcd6bc45337b48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76d1dadc2bfcb0589ae26fc4051acbbf913d19a7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716064"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="e6fbb-102">Βρείτε τις ρυθμίσεις του διακομιστή POP ή IMAP</span><span class="sxs-lookup"><span data-stu-id="e6fbb-102">Find your POP or IMAP server settings</span></span>
+# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="8c72f-102">Εύρεση των ρυθμίσεων διακομιστή POP ή IMAP</span><span class="sxs-lookup"><span data-stu-id="8c72f-102">Find your POP or IMAP server settings</span></span>
 
-<span data-ttu-id="e6fbb-103">Εάν δεν γνωρίζετε ποιες ρυθμίσεις θα πρέπει να προσθέσετε το λογαριασμό POP ή IMAP με το Outlook, μπορείτε να τα αναζητήσετε στο μας [POP και IMAP ηλεκτρονικού ταχυδρομείου ρυθμίσεις για το Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="e6fbb-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
+<span data-ttu-id="8c72f-103">Εάν δεν γνωρίζετε ποιες ρυθμίσεις χρειάζεστε για να προσθέσετε το λογαριασμό POP ή IMAP στο Outlook, μπορείτε να τις αναζητήσετε στις [ρυθμίσεις ηλεκτρονικού ταχυδρομείου POP και IMAP για το Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="8c72f-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="e6fbb-104">Γνωρίζατε ότι μπορείτε να [ενεργοποιήσετε και να ρυθμίσετε POP3 σε ένα διακομιστή Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx);</span><span class="sxs-lookup"><span data-stu-id="e6fbb-104">Did you know you can [Enable and configure POP3 on an Exchange 2016 server](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span></span>
+> <span data-ttu-id="8c72f-104">Ξέρατε ότι μπορείτε να [ενεργοποιήσετε και να ρυθμίσετε τις παραμέτρους pop3 σε ένα διακομιστή Exchange 2016;](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="8c72f-104">Did you know you can [Enable and configure POP3 on an Exchange 2016 server](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span></span>
   
