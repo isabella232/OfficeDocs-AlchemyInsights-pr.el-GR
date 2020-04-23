@@ -1,5 +1,5 @@
 ---
-title: Επιδόσεις μετεγκατάστασης SharePoint
+title: Οδηγίες για τις επιδόσεις μετεγκατάστασης του SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958735"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789302"
 ---
-# <a name="sharepoint-migration-performance"></a>Επιδόσεις μετεγκατάστασης SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Οδηγίες για τις επιδόσεις μετεγκατάστασης του SharePoint
 
-**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
+Οι επιδόσεις της μετεγκατάστασης μπορούν να επηρεαστούν από την υποδομή του δικτύου, το μέγεθος αρχείου, το χρόνο μετεγκατάστασης και τις επιβραδύνσεις.
 
-**Επιδόσεις μετεγκατάστασης**
+Για περισσότερες πληροφορίες, επισκεφθείτε:
 
-Οι επιδόσεις της μετεγκατάστασης μπορούν να επηρεαστούν από την υποδομή του δικτύου, το μέγεθος αρχείου, το χρόνο μετεγκατάστασης και τις επιβραδύνσεις. Η κατανόηση αυτής της διαδικασίας θα σας βοηθήσει να σχεδιάσετε και να μεγιστοποιήσετε την απόδοση της μετεγκατάστασης.
-
-Για περισσότερες πληροφορίες, επισκεφθείτε τις συνδέσεις παρακάτω.
-
-- [Sharepoint Online και ταχύτητα μετεγκατάστασης ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Γενικές οδηγίες για τις επιδόσεις μετεγκατάστασης](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Αποφυγή επιβράδυνσης ή αποκλεισμού στο SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Λήψη και εγκατάσταση του εργαλείου μετεγκατάστασης του SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

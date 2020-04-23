@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053953"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765809"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Λύσεις σε ζητήματα κατά την εγκατάσταση του Office
 
@@ -29,7 +29,7 @@ ms.locfileid: "43053953"
 - Κάντε εκκαθάριση τυχόν προηγούμενων στοιχείων του Office και κάντε εκ νέου εγκατάσταση χρησιμοποιώντας τον βοηθό υποστήριξης και αποκατάστασης (SaRA). 
 
     - Κάντε λήψη και εκτέλεση του [Βοηθού υποστήριξης και αποκατάστασης](https://aka.ms/SARA-OfficeUninstall-Alchemy). Όταν ανοίξει, από την **Κατάργηση εγκατάστασης προϊόντων του Office** επιλέξτε την έκδοση που θέλετε να καταργήσετε (εάν υπάρχει) και κάντε κλικ στην επιλογή **Επόμενο**. Ακολουθήστε τις οδηγίες στις επόμενες οθόνες και να επανεκκινήσετε τον υπολογιστή σας όταν σας ζητηθεί. Μετά την επανεκκίνηση, ο SaRA ανοίγει ξανά αυτόματα για να ολοκληρωθεί η διαδικασία κατάργησης της εγκατάστασης.
-    - Χρήση του SaRA για [εκ νέου εγκατάσταση του Office](http://aka.ms/sara-officeinstall). **Σημείωση**: Για τη ρύθμιση του Visio ή του Project με τη χρήση του SaRA, χρησιμοποιήστε τα[Εγκατάσταση Visio](https://aka.ms/SaRA-VisioSetupScenario) ή [Εγκατάσταση Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Χρήση του SaRA για [εκ νέου εγκατάσταση του Office](https://aka.ms/sara-officeinstall). **Σημείωση**: Για τη ρύθμιση του Visio ή του Project με τη χρήση του SaRA, χρησιμοποιήστε τα[Εγκατάσταση Visio](https://aka.ms/SaRA-VisioSetupScenario) ή [Εγκατάσταση Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Χρήση του προγράμματος εγκατάστασης χωρίς σύνδεση του Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) για την εγκατάσταση του Office.
 

@@ -10,16 +10,16 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43787370"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>Το SharePoint Online ή το OneDrive "Ρύθμιση"
 
-Όταν ένας χρήστης προστίθεται σε έναν υπάρχοντα μισθωτή του Office 365, ενδέχεται να δει τα εικονίδια του SharePoint Online ή του OneDrive για Επιχειρήσεις που παρατίθενται ως "Εγκατάσταση" ή "Εξακολουθούμε να εργαζόμαστε για τη ρύθμιση αρχείων" μέχρι να ολοκληρωθεί η διαδικασία παροχής. Ακολουθήστε αυτόν [τον Οδηγό αντιμετώπισης προβλημάτων](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) για βοήθεια.
+Όταν ένας χρήστης προστίθεται σε έναν υπάρχοντα μισθωτή, ενδέχεται να δει τα εικονίδια του SharePoint Online ή του OneDrive για επιχειρήσεις που παρατίθενται ως "Εγκατάσταση" ή "Εξακολουθούμε να εργαζόμαστε για τη λήψη της εγκατάστασης αρχείων" μέχρι να ολοκληρωθεί η διαδικασία παροχής. Ακολουθήστε αυτόν [τον Οδηγό αντιμετώπισης προβλημάτων](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) για βοήθεια.
 
 Εάν έχουν περάσει περισσότερες από 24 ώρες από τότε που είδατε για πρώτη φορά αυτό το ζήτημα, καταγράψτε μια υπόθεση υποστήριξης.
 
