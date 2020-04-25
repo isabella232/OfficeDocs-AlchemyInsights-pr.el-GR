@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028038"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784799"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Κατάργηση αριθμού διάσκεψης με κλήση σύνδεσης στο Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43028038"
 
 Ο προεπιλεγμένος αριθμός τηλεφώνου της γέφυρας διάσκεψης ορίζει το αναγνωριστικό καλούντος που θα χρησιμοποιείται όταν μια κλήση εξερχομένων τοποθετείται από έναν συμμετέχοντα ή από τον διοργανωτή μέσα από μια σύσκεψη.
 
-1. Πραγματοποιήστε είσοδο στο Office 365 με τον λογαριασμό της εργασίας σας.
+1. Πραγματοποιήστε είσοδο με τον εταιρικό λογαριασμό σας.
 
 2. Μεταβείτε στο **Κέντρο διαχείρισης Microsoft 365**.
 
