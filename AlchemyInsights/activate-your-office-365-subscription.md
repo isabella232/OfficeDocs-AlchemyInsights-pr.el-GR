@@ -1,5 +1,5 @@
 ---
-title: Ενεργοποιήσετε τη συνδρομή σας στο Office 365
+title: Ενεργοποίηση συνδρομής Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191066"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784007"
 ---
-# <a name="activate-your-office-365-subscription"></a>Ενεργοποιήσετε τη συνδρομή σας στο Office 365
+# <a name="activate-your-subscription"></a>Ενεργοποίηση συνδρομής
 
 **Ενεργοποίηση συνδρομής**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191066"
 
 **Επανενεργοποίηση μιας συνδρομής**
 
-Εάν λήξει η συνδρομή σας ή απενεργοποιήθηκε από τη Microsoft ή εάν την ακυρώσατε στο μέσο της περιόδου ισχύος, μπορείτε να την επανενεργοποιήσετε στο Κέντρο διαχείρισης του Office 365.
+Εάν λήξει η συνδρομή σας ή απενεργοποιήθηκε από τη Microsoft ή εάν την ακυρώσατε στο μέσο της περιόδου ισχύος, μπορείτε να την επανενεργοποιήσετε στο Κέντρο διαχείρισης Microsoft 365.
 
-- Στο Κέντρο διαχείρισης του Office 365, μεταβείτε στη σελίδα [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) (ή κάντε κλικ στην επιλογή **Χρέωση > Συνδρομές**).
+- Στο Κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) (ή κάντε κλικ στην επιλογή **Χρέωση > Συνδρομές**).
 
 - Επιλέξτε τη συνδρομή που θέλετε να επανενεργοποιήσετε και, στη συνέχεια, επιλέξτε **Επανενεργοποίηση**. Εάν δεν βλέπετε την επιλογή **Επανενεργοποίηση** ως διαθέσιμη ενέργεια, [καλέστε την υποστήριξη](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) για να ενεργοποιήσετε εκ νέου τη συνδρομή σας.
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191066"
 
 **Ενεργοποίηση νέας συνδρομής με έναν αριθμό-κλειδί προϊόντος**
 
-- Για να ενεργοποιήσετε μια νέα συνδρομή στο Office 365 με τον αριθμό-κλειδί σας, ξεκινήστε [εδώ](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Για να ενεργοποιήσετε μια νέα συνδρομή στο Microsoft 365 με τον αριθμό-κλειδί σας, ξεκινήστε [εδώ](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Εισαγάγετε τον αριθμό-κλειδί προϊόντος του Office 365 και ακολουθήστε τις οδηγίες για να ενεργοποιήσετε τη συνδρομή σας. Αν αντιμετωπίζετε προβλήματα με την ενεργοποίηση, ανατρέξτε σε αυτή τη λίστα με [συνηθισμένα σφάλματα κλειδιού-προϊόντος και λύσεις](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Εισαγάγετε τον αριθμό-κλειδί προϊόντος του Microsoft 365 και ακολουθήστε τις οδηγίες για να ενεργοποιήσετε τη συνδρομή σας. Αν αντιμετωπίζετε προβλήματα με την ενεργοποίηση, ανατρέξτε σε αυτή τη λίστα με [συνηθισμένα σφάλματα κλειδιού-προϊόντος και λύσεις](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

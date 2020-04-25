@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 2a45873c328a6df47d2c18aaf107a05dec453bef
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182615"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788774"
 ---
 # <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Ειδοποίηση "Δεν ήταν δυνατή η επαλήθευση της συνδρομής" στις εφαρμογές του Office
 
 - Βεβαιωθείτε ότι η [κατάσταση της συνδρομής σας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) είναι έγκυρη και ότι ο χρήσης που έχει επηρεαστεί [έχει εκχωρημένη μια έγκυρη άδεια χρήσης](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) και είναι συνδεδεμένος στο Internet.
 
-- Επισκεφθείτε τη [σελίδα εύρυθμης λειτουργίας των υπηρεσιών του Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε αν υπάρχουν γνωστά προβλήματα με την υπηρεσία.
+- Επισκεφθείτε τη [σελίδα εύρυθμης λειτουργίας των υπηρεσιών του Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε αν υπάρχουν γνωστά προβλήματα με την υπηρεσία.
 
 - [Ελέγξτε το τείχος προστασίας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Ελέγξτε το λογισμικό προστασίας από ιούς](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Ελέγξτε τις ρυθμίσεις του διακομιστή μεσολάβησης](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) στο μηχάνημα που επηρεάζεται.
 
