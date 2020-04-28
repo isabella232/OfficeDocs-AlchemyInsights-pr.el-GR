@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767717"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912822"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Εκσυγχρονίστε την κλασική εμπειρία σας στο SharePoint
 
 Για να κάνετε τη μετάβαση στο σύγχρονο περιβάλλον εργασίας χρήστη, εξετάστε τους ακόλουθους πόρους:
 
 - [Δημιουργήστε **σύγχρονες τοποθεσίες** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (τοποθεσία ομάδας ή τοποθεσία επικοινωνίας). Χρησιμοποιήστε το [Βιβλίο look του SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) για να δημιουργήσετε ένα όμορφο, ισχυρό intranet που συνδέει το χώρο εργασίας. Δείτε [παραδείγματα](https://lookbook.microsoft.com/) και [λάβετε οδηγίες σχεδίασης](https://spdesign.azurewebsites.net/).
-- [Συνδέστε την τοποθεσία σας σε μια **ομάδα του Office 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) για να αυξήσετε τη συνεργασία σε ολόκληρο το Microsoft 365.
+- [Συνδέστε την τοποθεσία σας σε μια **ομάδα Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) για να αυξήσετε τη συνεργασία σε ολόκληρο το Microsoft 365.
 - Μετατροπή στη **σύγχρονη λίστα και** τη βιβλιοθήκη [εμπειρία, επιτρέποντας λίστες και βιβλιοθήκες για να εμφανίσετε στο σύγχρονο περιβάλλον εργασίας χρήστη](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
 - Μεταμορφώστε **τις σελίδες τοποθεσιών** από το κλασικό **wiki**, **το τμήμα Web**και **τις αρχικές** σελίδες σε [σύγχρονες σελίδες από την πλευρά του πελάτη](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). Ο [σαρωτής εκσυγχρονισμού του SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) παρέχει πληροφορίες χρήσης σελίδας σχετικά με τις τρέχουσες σελίδες wiki και τμημάτων Web για να σας βοηθήσει να δώσετε προτεραιότητα στο μετασχηματισμό σελίδας.
 

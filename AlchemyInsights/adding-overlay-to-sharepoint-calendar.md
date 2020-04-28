@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709407"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908848"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Προσθήκη επικάλυψης σε ημερολόγιο του SharePoint
 
-Τα Ημερολόγια του SharePoint είναι κλασικοί τύποι λίστας που μερικές φορές συγχέονται με τα Ημερολόγια ομάδας του Office 365.
+Τα Ημερολόγια του SharePoint είναι κλασικοί τύποι λίστας που μερικές φορές συγχέονται με τα Ημερολόγια ομάδας του Microsoft 365.
  
 Εάν χρησιμοποιείτε ένα ημερολόγιο του SharePoint στην τοποθεσία σας, μπορείτε να επιβάλετε το δικό σας ημερολόγιο του Exchange σε αυτό για να δημιουργήσετε μια συνδυασμένη προβολή ημερολογίου. Εναλλακτικά, μπορείτε να επιβάλετε ένα άλλο ημερολόγιο του SharePoint, εφόσον και τα δύο ημερολόγια του SharePoint βρίσκονται στην ίδια συλλογή τοποθεσιών.
  

@@ -1,5 +1,5 @@
 ---
-title: Οδηγίες για την απόκρυψη/επανεμφάνιση ομάδας από τη λίστα διευθύνσεων
+title: Οδηγίες απόκρυψης/επανεμφάνισης ομάδας από τη λίστα διευθύνσεων
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768922"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908344"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Απόκρυψη ομάδας Office 365 από τη λίστα διευθύνσεων (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Απόκρυψη ομάδας microsoft 365 από τη λίστα διευθύνσεων (GAL)
 
-Για να αποκρύψετε μια ομάδα Office 365 από λίστες διευθύνσεων (GAL) των προγραμμάτων-πελατών του Exchange (όπως το Outlook ή το OWA), χρησιμοποιήστε την ακόλουθη εντολή στο κέλυφος εξω:
+Για να αποκρύψετε μια ομάδα Microsoft 365 από λίστες διευθύνσεων (GAL) υπολογιστών-πελατών του Exchange (όπως το Outlook ή το OWA), χρησιμοποιήστε την ακόλουθη εντολή στο κέλυφος EXO:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Για να αποκρύψετε την ομάδα Office 365 από το να είναι ορατή σε προγράμματα-πελάτες του Exchange, χρησιμοποιήστε την ακόλουθη εντολή στο κέλυφος εξω:
+Για να αποκρύψετε την ορατή ομάδα Microsoft 365 σε υπολογιστές-πελάτες του Exchange, χρησιμοποιήστε την ακόλουθη εντολή στο κέλυφος EXO:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

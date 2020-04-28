@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787993"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912258"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Εργαλείο αναζήτησης περιεχομένου για την εύρεση σχετικών πληροφοριών
 
-Χρησιμοποιήστε το εργαλείο αναζήτησης περιεχομένου στο Κέντρο ασφάλειας & συμμόρφωσης για να βρείτε γρήγορα μηνύματα ηλεκτρονικού ταχυδρομείου στα γραμματοκιβώτια του Exchange, έγγραφα σε τοποθεσίες του SharePoint και τοποθεσίες του OneDrive και συνομιλίες ανταλλαγής άμεσων μηνυμάτων στο Skype για επιχειρήσεις. Μπορείτε να χρησιμοποιήσετε το εργαλείο αναζήτησης περιεχομένου για να αναζητήσετε συνομιλίες ηλεκτρονικού ταχυδρομείου, εγγράφων και ανταλλαγής άμεσων μηνυμάτων στα εργαλεία συνεργασίας της Microsoft 365, όπως οι ομάδες της Microsoft και οι ομάδες του Office 365.
+Χρησιμοποιήστε το εργαλείο αναζήτησης περιεχομένου στο Κέντρο ασφάλειας & συμμόρφωσης για να βρείτε γρήγορα μηνύματα ηλεκτρονικού ταχυδρομείου στα γραμματοκιβώτια του Exchange, έγγραφα σε τοποθεσίες του SharePoint και τοποθεσίες του OneDrive και συνομιλίες ανταλλαγής άμεσων μηνυμάτων στο Skype για επιχειρήσεις. Μπορείτε να χρησιμοποιήσετε το εργαλείο αναζήτησης περιεχομένου για να αναζητήσετε συνομιλίες ηλεκτρονικού ταχυδρομείου, εγγράφων και ανταλλαγής άμεσων μηνυμάτων στα εργαλεία συνεργασίας της Microsoft 365, όπως οι Ομάδες microsoft και οι ομάδες Microsoft 365.
 
 
 Πριν χρησιμοποιήσετε την [Αναζήτηση περιεχομένου](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) από το [Κέντρο ασφάλειας & συμμόρφωσης](https://sip.protection.office.com/homepage), θα πρέπει να ολοκληρώσετε τις ρυθμίσεις παραμέτρων, συμπεριλαμβανομένων [των δικαιωμάτων ρύθμισης παραμέτρων](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [του καθορισμού ταχυτήτων λήψης](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) και [των ρυθμίσεων εξαγωγής](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

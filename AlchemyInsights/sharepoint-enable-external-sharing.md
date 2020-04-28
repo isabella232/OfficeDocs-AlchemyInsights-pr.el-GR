@@ -8,30 +8,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051677"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912186"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ενεργοποίηση εξωτερικής κοινής χρήσης στο SharePoint Online
 
-Εάν ο οργανισμός σας εκτελεί εργασία που περιλαμβάνει την κοινή χρήση εγγράφων ή τη συνεργασία απευθείας με προμηθευτές, υπολογιστές-πελάτες ή πελάτες, μπορείτε να χρησιμοποιήσετε τις [εξωτερικές δυνατότητες κοινής χρήσης του SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) για να κάνετε κοινή χρήση περιεχομένου με άτομα εκτός του οργανισμού σας.
+Εάν ο οργανισμός σας εκτελεί εργασίες που περιλαμβάνουν κοινή χρήση εγγράφων ή απευθείας συνεργασία με προμηθευτές, υπολογιστές-πελάτες ή πελάτες, τότε μπορείτε να χρησιμοποιήσετε [τις εξωτερικές δυνατότητες κοινής χρήσης του SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) για να κάνετε κοινή χρήση περιεχομένου με άτομα εκτός της εταιρείας σας.
 
-Για περισσότερες πληροφορίες σχετικά με την εξωτερική κοινή χρήση (επισκέπτες), επισκεφτείτε τους παρακάτω συνδέσμους.
+Για περισσότερες πληροφορίες σχετικά με την εξωτερική κοινή χρήση (Επισκέπτες) παρακαλούμε επισκεφθείτε τους παρακάτω συνδέσμους.
 
-- [Τι είναι ένας εξωτερικός χρήστης;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Τι είναι ο εξωτερικός χρήστης;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Τι συμβαίνει όταν μοιράζομαι μια τοποθεσία ή ένα έγγραφο;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Τι συμβαίνει όταν κάνω κοινή χρήση μιας τοποθεσίας ή εγγράφου;](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Ενεργοποίηση ή απενεργοποίηση εξωτερικής κοινής χρήσης για το SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ενεργοποιείτε ή απενεργοποιείτε την εξωτερική κοινή χρήση για το SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [Ενεργοποίηση ή απενεργοποίηση εξωτερικής κοινής χρήσης για μια τοποθεσία](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Διαχείριση πρόσβασης επισκεπτών στο Office 365 ομάδες](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Διαχείριση πρόσβασης επισκεπτών σε ομάδες του Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [Χρήση του SharePoint Online ως λύσης μεταξύ επιχειρήσεων (Β2Β)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Χρήση του Sharepoint Online ως λύση extranet μεταξύ επιχειρήσεων (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
 - [Κοινή χρήση αρχείων ή φακέλων του SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
@@ -39,12 +39,12 @@ ms.locfileid: "40051677"
 
 - [Διαγραφή εξωτερικού χρήστη](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Λήψη σφάλματος με εξωτερικό χρήστη (επισκέπτης);**
+**Λήψη σφάλματος με εξωτερικό χρήστη (επισκέπτη);**
 
 Ελέγξτε τους παρακάτω συνδέσμους. 
 
-- [Σφάλματα κοινής χρήσης OSE στο SharePoint ή στο OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Σφάλματα κοινής χρήσης OSE στο Sharepoint ή το OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Μήνυμα λάθους όταν ένας εξωτερικός χρήστης αποδέχεται μια πρόσκληση του SharePoint Online χρησιμοποιώντας έναν άλλο λογαριασμό](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Μήνυμα λάθους όταν ένας εξωτερικός χρήστης αποδέχεται μια πρόσκληση του SharePoint Online χρησιμοποιώντας άλλο λογαριασμό](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Δεν επιτρέπεται η πρόσβαση σε έναν κοινόχρηστο φάκελο](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [Δεν επιτρέπεται η πρόσβαση σε κοινόχρηστο φάκελο](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590422"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911938"
 ---
 # <a name="microsoft-teams-permissions"></a>Δικαιώματα ομάδων της Microsoft
 
-Οι ομάδες της Microsoft περιλαμβάνουν δύο ρόλους χρήστη: τον κάτοχο και το μέλος. Από προεπιλογή, ένας χρήστης που δημιουργεί μια νέα ομάδα εκχωρείται στην κατάσταση κατόχου. Επιπλέον, οι ιδιοκτήτες και τα μέλη μπορούν να έχουν δυνατότητες συντονιστή για ένα κανάλι (εάν έχει οριστεί μετριοπάθεια). Εάν μια ομάδα δημιουργείται από μια υπάρχουσα ομάδα Office 365, τα δικαιώματα μεταβιβάζονται. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα:
+Το Microsoft Teams περιλαμβάνει δύο ρόλους χρήστη: τον κάτοχο και το μέλος. Από προεπιλογή, ένας χρήστης που δημιουργεί μια νέα ομάδα αποκτά την κατάσταση κατόχου. Επιπλέον, οι κάτοχοι και τα μέλη μπορούν να έχουν δυνατότητες μεσολαβητή για ένα κανάλι (αν έχει ρυθμιστεί μετριοπάθεια). Εάν δημιουργηθεί μια ομάδα από μια υπάρχουσα ομάδα microsoft 365, τα δικαιώματα μεταβιβάζονται. Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:
 
-- [Εκχώρηση κατόχων και μελών ομάδας σε ομάδες της Microsoft](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Ομάδες της Microsoft εφαρμογές δικαιώματα και θέματα](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Ορισμός δικαιωμάτων φιλοξενούμενου για κανάλια σε ομάδες](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Αντιστοίχιση κατόχων και μελών ομάδων στις ομάδες της Microsoft](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Δικαιώματα και θέματα εφαρμογών του Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Ορισμός δικαιωμάτων επισκέπτη για κανάλια στο Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
