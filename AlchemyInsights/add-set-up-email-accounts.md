@@ -13,14 +13,14 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: def94c6645a609ba2b24593e0439bb7fce0d3beb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671421"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947653"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Προβλήματα κατά τη ρύθμιση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου του Exchange στο Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Προβλήματα κατά τη ρύθμιση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου στο Outlook
 
 Εάν αντιμετωπίζετε προβλήματα με τη ρύθμιση ενός λογαριασμού Exchange στο Outlook, μπορείτε να εκτελέσετε το [εργαλείο Εγκατάστασης λογαριασμού του Outlook](https://aka.ms/SaRA-OutlookSetupProfile) στον υπολογιστή που επηρεάζεται. Θα εκτελέσει διάφορους ελέγχους και θα παρέχει πιθανές λύσεις στο ζήτημα ρύθμισης του λογαριασμού σας.
   
