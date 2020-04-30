@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912045"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943979"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Συνήθεις ερωτήσεις για τη διαχείριση συνδρομών και αδειών χρήσης Microsoft 365 E3
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912045"
 - Για **ακύρωση** αδειών χρήσης Ε3, επιλέξτε **Χρεώσεις > [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**, κάντε κλικ στην επιλογή **Ρυθμίσεις και ενέργειες**και, τέλος, επιλέξτε **Ακύρωση συνδρομής**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Για να **ενεργοποιήσετε** τη συνδρομή Ε3, ανατρέξτε στο θέμα [Ενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Για να **επανενεργοποιήσετε** τη συνδρομή Ε3, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Για να επεκτείνετε τη δοκιμαστική περίοδο για την Ε3, ανατρέξτε στο θέμα [Επέκταση της δοκιμαστικής περιόδου](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Για **επέκταση** της δοκιμαστικής περιόδου για την Ε3, ανατρέξτε στο θέμα [Επέκταση της δοκιμαστικής περιόδου](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση αδειών χρήσης συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
