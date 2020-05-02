@@ -11,21 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 3f6113bf512ec20fbbe2229d0efdb429b2f5db92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b6ea61b36b9577c38bf8fe3a09e2b32569aa6f45
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600024"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005150"
 ---
-# <a name="microsoft-stream"></a><span data-ttu-id="3bb0e-102">Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="3bb0e-102">Microsoft Stream</span></span>
+# <a name="microsoft-stream"></a><span data-ttu-id="170b0-102">Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="170b0-102">Microsoft Stream</span></span>
 
-<span data-ttu-id="3bb0e-103">Το Microsoft Stream είναι μια υπηρεσία εταιρικών βίντεο όπου τα άτομα στον οργανισμό σας μπορούν να αποστέλλουν, να προβάλλουν και να μοιράζονται βίντεο με ασφάλεια.</span><span class="sxs-lookup"><span data-stu-id="3bb0e-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> 
+<span data-ttu-id="170b0-103">Το Microsoft Stream είναι μια υπηρεσία βίντεο για μεγάλες επιχειρήσεις όπου τα άτομα στον οργανισμό σας έχουν τη δυνατότητα αποστολής, προβολής και κοινής χρήσης βίντεο με ασφάλεια.</span><span class="sxs-lookup"><span data-stu-id="170b0-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> 
 
-<span data-ttu-id="3bb0e-104">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα:</span><span class="sxs-lookup"><span data-stu-id="3bb0e-104">For more information, see:</span></span>
+<span data-ttu-id="170b0-104">Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:</span><span class="sxs-lookup"><span data-stu-id="170b0-104">For more information, see:</span></span>
 
-- [<span data-ttu-id="3bb0e-105">Τι είναι το Microsoft Stream;</span><span class="sxs-lookup"><span data-stu-id="3bb0e-105">What is Microsoft Stream?</span></span>](https://docs.microsoft.com/stream/overview)
-- [<span data-ttu-id="3bb0e-106">Ενημερώσεις υπηρεσίας ροής</span><span class="sxs-lookup"><span data-stu-id="3bb0e-106">Stream Service Updates</span></span>](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
-- [<span data-ttu-id="3bb0e-107">Ομάδες και κανάλια στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="3bb0e-107">Groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
-- [<span data-ttu-id="3bb0e-108">Ζωντανές εκδηλώσεις στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="3bb0e-108">Live events in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/live-event-overview)
-- [<span data-ttu-id="3bb0e-109">Κοινή χρήση των βίντεό σας στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="3bb0e-109">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="170b0-105">Τι είναι το Microsoft Stream;</span><span class="sxs-lookup"><span data-stu-id="170b0-105">What is Microsoft Stream?</span></span>](https://docs.microsoft.com/stream/overview)
+- [<span data-ttu-id="170b0-106">Μετάβαση βίντεο του Office 365 στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="170b0-106">Office 365 Video transition to Microsoft Stream</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [<span data-ttu-id="170b0-107">Ενημερώσεις υπηρεσίας ροής</span><span class="sxs-lookup"><span data-stu-id="170b0-107">Stream Service Updates</span></span>](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [<span data-ttu-id="170b0-108">Ομάδες και κανάλια στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="170b0-108">Groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
+- [<span data-ttu-id="170b0-109">Ζωντανές εκδηλώσεις στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="170b0-109">Live events in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/live-event-overview)
+- [<span data-ttu-id="170b0-110">Κοινή χρήση των βίντεό σας στη Ροή της Microsoft</span><span class="sxs-lookup"><span data-stu-id="170b0-110">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
