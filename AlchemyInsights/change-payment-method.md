@@ -9,24 +9,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "277"
 - "1500001"
+- "277"
+- "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: b7e2ba67a98c0cbbf3fa32a4a13852b4b6ca3f08
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655498"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005366"
 ---
 # <a name="change-payment-method"></a>Αλλαγή μεθόδου πληρωμής
 
-Μπορείτε να επαληθεύσετε και να αλλάξετε τη μέθοδο πληρωμής που έχει ρυθμιστεί στο κέντρο διαχείρισης του Microsoft 365. Επιλέξτε τη συνδρομή που θέλετε να επαληθεύσετε. Η μέθοδος πληρωμής που έχει ρυθμιστεί για τη συνδρομή εμφανίζεται στην περιοχή **Χρέωση**.
+Μπορείτε να αλλάξετε τη μέθοδο πληρωμής από το **κέντρο διαχείρισης του Microsoft 365**.
   
-1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση** \> [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Στο κέντρο διαχείρισης, μεταβείτε στην ενότητα Προϊόντα **χρέωσης** \> [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Βρείτε τη συνδρομή για την οποία θέλετε να αλλάξετε τη μέθοδο πληρωμής. Δίπλα στη μέθοδο πληρωμής, επιλέξτε **Επεξεργασία**.
+2. Βρείτε τη συνδρομή για την οποία θέλετε να αλλάξετε τη μέθοδο πληρωμής. Δίπλα στη μέθοδο πληρωμής, κάντε κλικ στην επιλογή **Επεξεργασία**.
 
 3. Ακολουθήστε τα βήματα που θα ακολουθήσουν στην οθόνη για να ολοκληρώσετε την αλλαγή.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αλλαγή της μεθόδου πληρωμής για το Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αλλαγή της μεθόδου πληρωμής για το Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method).
