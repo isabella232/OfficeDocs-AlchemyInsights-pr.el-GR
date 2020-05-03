@@ -1,0 +1,36 @@
+---
+title: Συνήθεις ερωτήσεις για την πληρωμή
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9001669"
+- "5128"
+ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
+ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.translationtype: HT
+ms.contentlocale: el-GR
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43991232"
+---
+# <a name="payment-faq"></a><span data-ttu-id="495f5-102">Συνήθεις ερωτήσεις για την πληρωμή</span><span class="sxs-lookup"><span data-stu-id="495f5-102">Payment FAQ</span></span>
+
+<span data-ttu-id="495f5-103">Διαχείριση πληρωμών στο **Κέντρο διαχείρισης του Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="495f5-103">Manage payments in the **Microsoft 365 Admin Center**.</span></span> 
+
+1. <span data-ttu-id="495f5-104">Μεταβείτε στο μενού **Χρέωση > [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)** για να αντιστοιχίσετε ή να αλλάξετε τις μεθόδους πληρωμής μιας συνδρομής.</span><span class="sxs-lookup"><span data-stu-id="495f5-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** to assign or change subscription payment methods.</span></span>
+2. <span data-ttu-id="495f5-105">Μεταβείτε στο μενού **Χρέωση > [Μέθοδοι πληρωμής](https://go.microsoft.com/fwlink/p/?linkid=2018806)** για να προσθέσετε/ενημερώσετε/καταργήσετε μεθόδους πληρωμής.</span><span class="sxs-lookup"><span data-stu-id="495f5-105">Go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** to add/update/remove payment methods.</span></span>
+
+<span data-ttu-id="495f5-106">**Συνήθη προβλήματα και λύσεις**</span><span class="sxs-lookup"><span data-stu-id="495f5-106">**Common Issue and Resolutions**</span></span>
+
+- <span data-ttu-id="495f5-107">**Μέθοδοι πληρωμής** - Αν πληρώνετε με πιστωτική κάρτα ή τραπεζικό λογαριασμό, η μέθοδος πληρωμής που σχετίζεται με τη συνδρομή σας χρεώνεται μέσα σε λίγες ημέρες από τη δημιουργία του λογαριασμού.</span><span class="sxs-lookup"><span data-stu-id="495f5-107">**Payment Methods** - If paying by credit card or bank account, the payment method associated with your subscription(s) is charged within a few days after the bill is created.</span></span> <span data-ttu-id="495f5-108">Εάν η πληρωμή αποτύχει, ενημερώστε τη μέθοδο πληρωμής σας.</span><span class="sxs-lookup"><span data-stu-id="495f5-108">If the payment fails, update your payment method.</span></span> <span data-ttu-id="495f5-109">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση μεθόδων πληρωμής](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="495f5-109">For more info, see [Add, update, or remove payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span>
+
+- <span data-ttu-id="495f5-110">**Ειδοποιήσεις για εκπρόθεσμες πληρωμές** - Μια πληρωμή μπορεί να απορριφθεί για διάφορους λόγους, όπως στην περίπτωση κατά την οποία μια πιστωτική κάρτα έχει λήξει.</span><span class="sxs-lookup"><span data-stu-id="495f5-110">**Past Due Notices** - A payment can be declined for several reasons, including when a credit card has expired.</span></span> <span data-ttu-id="495f5-111">Μπορείτε να χρησιμοποιήσετε τη δυνατότητα **Τακτοποίηση υπολοίπου** ανά πάσα στιγμή για να αλλάξετε τα στοιχεία της πιστωτικής κάρτας σας και να υποβάλετε άμεσα την πληρωμή.</span><span class="sxs-lookup"><span data-stu-id="495f5-111">You can use the **Settle balance** feature at any time to change your credit card information and immediately resubmit the payment.</span></span> <span data-ttu-id="495f5-112">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι γίνεται εάν απορρίφθηκε η πιστωτική κάρτα μου και η πληρωμή μου είναι εκπρόθεσμη;](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)</span><span class="sxs-lookup"><span data-stu-id="495f5-112">For more info, see [What if my credit card was declined and my payment is past due?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)</span></span> <span data-ttu-id="495f5-113">**Σημαντικό**: Αφού ενημερώσετε τη μέθοδο πληρωμής σας, μπορεί να συνεχίσετε να λαμβάνετε ειδοποιήσεις για ληξιπρόθεσμες οφειλές ή απορριφθείσες πληρωμές, εάν δεν έχετε συσχετίσει τη μέθοδο πληρωμής με τη συνδρομή σας.</span><span class="sxs-lookup"><span data-stu-id="495f5-113">**Important**: After you've updated your payment method, you may still experience past due or payment declined notices if you haven't associated the payment method with your subscription.</span></span> <span data-ttu-id="495f5-114">Μπορείτε να αλλάξετε τη μέθοδο πληρωμής για μια μεμονωμένη ή για πολλές συνδρομές.</span><span class="sxs-lookup"><span data-stu-id="495f5-114">You can change the payment method for a single or multiple subscriptions.</span></span> <span data-ttu-id="495f5-115">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αλλαγή μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="495f5-115">For more info, see [Change payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).</span></span>
+
+- <span data-ttu-id="495f5-116">**Συχνότητα πληρωμών και χρεώσεων** - Οι λογαριασμοί αποστέλλονται σε μηνιαία ή ετήσια βάση, ανάλογα με τη συχνότητα χρέωσης που έχετε επιλέξει κατά την ολοκλήρωση της αγοράς σας.</span><span class="sxs-lookup"><span data-stu-id="495f5-116">**Payment and Billing Frequency** - Bills are generated monthly or annually depending on the billing frequency chosen at checkout.</span></span> <span data-ttu-id="495f5-117">Αυτό μπορεί να αλλάξει οποιαδήποτε στιγμή.</span><span class="sxs-lookup"><span data-stu-id="495f5-117">This can be changed at any time.</span></span> <span data-ttu-id="495f5-118">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αλλαγή συχνότητας χρέωσης](https://go.microsoft.com/fwlink/?linkid=2119148).</span><span class="sxs-lookup"><span data-stu-id="495f5-118">For more info, see [Change your billing frequency](https://go.microsoft.com/fwlink/?linkid=2119148).</span></span>
+
+<span data-ttu-id="495f5-119">Για ένα ολοκληρωμένο οδηγό σχετικά με την πληρωμή της συνδρομής σας, ανατρέξτε στο θέμα [Πληρωμή συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="495f5-119">For a complete guide on paying for your subscription, see [Pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide).</span></span>
