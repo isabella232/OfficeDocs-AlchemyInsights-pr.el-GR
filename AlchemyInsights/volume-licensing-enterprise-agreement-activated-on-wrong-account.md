@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716208"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021534"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="a689e-102">Σύμβαση παραχώρησης πολλαπλών αδειών χρήσης (volume licensing) που ενεργοποιείται σε λάθος λογαριασμό</span><span class="sxs-lookup"><span data-stu-id="a689e-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="1aada-102">Σύμβαση παραχώρησης πολλαπλών αδειών χρήσης βάσει ποσότητας που έχει ενεργοποιηθεί σε λάθος λογαριασμό ή μεταφέρει άδειες χρήσης από έναν λογαριασμό σε έναν άλλο</span><span class="sxs-lookup"><span data-stu-id="1aada-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="a689e-103">Αν διαπιστώσετε ότι οι συνδρομές σας που αγοράστηκαν μέσω μιας Εταιρικής Σύμβασης παραχώρησης πολλαπλών αδειών χρήσης (Volume Licensing), έχουν ενεργοποιηθεί σε λάθος μισθωτή, χρησιμοποιήστε την επιλογή "Αφήστε μας να σας καλέσουμε" για να μιλήσετε με έναν μηχανικό υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="a689e-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="1aada-103">Εάν διαπιστώσετε ότι οι συνδρομές σας που αγοράστηκαν μέσω **μιας εταιρικής σύμβασης παραχώρησης πολλαπλών αδειών χρήσης (Volume Licensing)** έχουν ενεργοποιηθεί σε **λάθος μισθωτή**ή θέλετε να **μεταφέρετε άδειες χρήσης** από έναν μισθωτή σε έναν άλλο, επικοινωνήστε με το [Κέντρο εξυπηρέτησης πολλαπλών αδειών χρήσης (Volume Licensing)](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)της Microsoft .</span><span class="sxs-lookup"><span data-stu-id="1aada-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
