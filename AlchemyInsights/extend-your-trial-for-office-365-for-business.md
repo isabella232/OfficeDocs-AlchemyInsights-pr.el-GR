@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005330"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016868"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Επέκταση της δοκιμαστικής έκδοσης για το Microsoft 365 για επιχειρήσεις
 
-Μπορείτε να παρατείνετε τη δίκη σας για περίοδο 30 ημερών. Μετά από αυτό δίκη σας πηγαίνει σε μια πρόσθετη [περίοδο χάριτος](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)30 ημερών . Ακολουθήστε αυτά τα βήματα για να επεκτείνετε τη δοκιμαστική έκδοση:
+Μπορείτε να παρατείνετε τη δωρεάν δοκιμή σας για μία επιπλέον περίοδο 30 ημερών. Μετά από αυτό δίκη σας πηγαίνει σε μια [περίοδο χάριτος](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)30 ημερών . Ακολουθήστε αυτά τα βήματα για να επεκτείνετε τη δοκιμαστική έκδοση:
   
 1. Στο κέντρο διαχείρισης, μεταβείτε στην ενότητα Προϊόντα **χρέωσης** \> [& υπηρεσίες](https://portal.office.com/adminportal/home#/subscriptions).
 
