@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218232"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010146"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Δεν υπάρχει επιλογή για την εγκατάσταση του Office, του Visio ή του Project
 
-Για να εγκαταστήσετε τις εφαρμογές προγράμματος-πελάτη του Office, βεβαιωθείτε ότι έχετε μια συνδρομή στο Office 365 ή στο Microsoft 365 που [περιλαμβάνει εφαρμογές προγράμματος-πελάτη του Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), για παράδειγμα, το Office 365 για Επιχειρήσεις Premium, το Office 365 για Επιχειρήσεις ή το Office 365 ProPlus.
+Για να εγκαταστήσετε τις εφαρμογές προγράμματος-πελάτη του Office, βεβαιωθείτε ότι διαθέτετε μια συνδρομή Office 365 ή στο Microsoft 365 που [περιλαμβάνει εφαρμογές προγράμματος-πελάτη του Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), για παράδειγμα, Microsoft 365 Premium για επιχειρήσεις, εφαρμογές Microsoft 365 για επιχειρήσεις ή εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις.
 
 **Σημείωση**: [Το Office](https://products.office.com/home-and-business) για οικιακή χρήση και επιχειρήσεις είναι ένα προϊόν [Office για οικιακή χρήση](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) και δεν αποτελεί μέρος μιας συνδρομής για επιχειρήσεις. Το Project Online Essentials δεν περιλαμβάνει έκδοση υπολογιστή του Project, οπότε δεν απαιτείται εγκατάσταση. Οι χρήστες που έχουν το Visio Πρόγραμμα 1 μπορούν να έχουν πρόσβαση στο Visio στο web, καθώς το πρόγραμμα δεν περιλαμβάνει την εφαρμογή Visio για υπολογιστή. Οι εφαρμογές Project και Visio για υπολογιστή δεν είναι διαθέσιμες σε Mac
 
