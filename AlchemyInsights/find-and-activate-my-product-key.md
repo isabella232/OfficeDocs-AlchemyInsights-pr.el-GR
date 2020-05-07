@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716136"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062464"
 ---
 # <a name="find-and-activate-my-product-key"></a>Εύρεση και ενεργοποίηση του αριθμού-κλειδιού προϊόντος
 
@@ -32,7 +32,7 @@ ms.locfileid: "43716136"
 
 **Σημείωση**: Για να χρησιμοποιήσετε έναν αριθμό-κλειδί προϊόντος για να επεκτείνετε την ημερομηνία λήξης ή να προσθέσετε μια άδεια χρήσης στην υπάρχουσα συνδρομή Microsoft 365 Premium Premium Premium, χρειάζεστε ένα νέο και αχρησιμοποίητο κλειδί για την ίδια συνδρομή Microsoft 365.  Η εισαγωγή του αρχικού αριθμού-κλειδιού προϊόντος της Microsoft 365 δεν θα λειτουργήσει, επειδή δεν είναι δυνατή η εκνέου χρήση ενός κλειδιού που έχει ήδη εξαργυρωθεί.
 
-1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα Προϊόντα **χρέωσης** > [& υπηρεσίες.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση των** > **[προϊόντων σας.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Βρείτε τη συνδρομή στην οποία θέλετε να παρατείνετε την ημερομηνία λήξης ή να προσθέσετε άδειες χρήσης.  Κάντε κλικ στην [επιλογή επέκταση της ημερομηνίας λήξης](https://go.microsoft.com/fwlink/p/?linkid=842054) ή [προσθέστε περισσότερες άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

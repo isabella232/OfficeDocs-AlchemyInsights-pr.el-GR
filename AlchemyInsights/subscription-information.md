@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 20b5097f2e5d3aa3b8f23b8865203846d90f08e8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b8884a0646f4a53b27e70faad7fb90c238ccedc4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763865"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063329"
 ---
 # <a name="subscription-information"></a>Πληροφορίες συνδρομής
 
-Για πληροφορίες σχετικά με τις συνδρομές που σας ανήκουν, μεταβείτε στη σελίδα Προϊόντα **χρέωσης** \> [& υπηρεσίες.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+Για πληροφορίες σχετικά με τις συνδρομές που σας ανήκουν, μεταβείτε στη σελίδα **Χρέωση των** \> **[προϊόντων σας.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
   
 Βασικές πληροφορίες για κάθε συνδρομή:
   
