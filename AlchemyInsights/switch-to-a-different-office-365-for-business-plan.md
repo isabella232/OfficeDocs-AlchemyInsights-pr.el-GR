@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789158"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064357"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Μετάβαση σε διαφορετική συνδρομή Microsoft 365 για επιχειρήσεις
 
 Όταν αλλάξει η επιχείρησή σας ή χρειάζεστε περισσότερες δυνατότητες, μπορείτε να κάνετε αναβάθμιση σε ένα νέο πρόγραμμα.
   
-1. Στο κέντρο διαχείρισης, μεταβείτε στην ενότητα **Προϊόντα χρέωσης \> [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση των** \> **[προϊόντων σας.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Επιλέξτε τη συνδρομή που θέλετε να αναβαθμίσετε.
 

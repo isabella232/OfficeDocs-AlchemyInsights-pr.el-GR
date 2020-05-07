@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703895"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062536"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Επεξεργασία προφίλ χρέωσης για εφαρμογές
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Για να αλλάξετε το προφίλ χρέωσης σε εφαρμογές
 
-1. Μεταβείτε στη σελίδα **Προϊόντα χρέωσης** > [& υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054) και, στη συνέχεια, επιλέξτε την καρτέλα **Εφαρμογές.**
+1. Μεταβείτε στη σελίδα **Χρέωση των** > **[προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054)** και, στη συνέχεια, επιλέξτε την καρτέλα **Εφαρμογές.**
 
 2. Βρείτε και επιλέξτε την εφαρμογή που θέλετε να διαχειριστείτε.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703895"
 
 ## <a name="edit-billing-profiles"></a>Επεξεργασία προφίλ χρέωσης
 
-1. Μεταβείτε στη σελίδα **Λογαριασμοί χρέωσης** > [& πληρωμές](https://go.microsoft.com/fwlink/p/?linkid=848039) και, στη συνέχεια, επιλέξτε Προφίλ **χρέωσης**.
+1. Μεταβείτε στη σελίδα **Λογαριασμοί χρέωσης** > **[& πληρωμές](https://go.microsoft.com/fwlink/p/?linkid=848039)** και, στη συνέχεια, επιλέξτε Προφίλ **χρέωσης**.
 
 2. Επιλέξτε το προφίλ χρέωσης από τη λίστα που θα επεξεργαστείτε.
