@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762317"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043037"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Αναζήτηση της Microsoft στο Bing και εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις
 
-Ξεκινώντας με την έκδοση 2002 των εφαρμογών Microsoft 365 για μεγάλες επιχειρήσεις, θα εγκατασταθεί μια επέκταση για τη δυνατότητα Αναζήτηση της Microsoft στο Bing, η οποία θα ορίσει την υπηρεσία Bing ως τον προεπιλεγμένο μηχανισμό αναζήτησης για το πρόγραμμα περιήγησης Web της Google Chrome μόνο σε συσκευές που βρίσκονται σε συγκεκριμένες θέσεις.
+Μια ***προαιρετική*** επέκταση της Αναζήτησης της Microsoft στο Bing διατίθεται για το Google Chrome με τις Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις (προηγούμενη ονομασία Office 365 ProPlus), ξεκινώντας από την έκδοση Version 2005. Αυτή η επέκταση είναι διαθέσιμη σε συγκεκριμένες τοποθεσίες για συσκευές που συνδέονται με τομέα και έχουν λειτουργικό σύστημα Windows. Εάν αποφασίσετε να αναπτύξετε αυτήν την επέκταση, το Bing θα οριστεί ως προεπιλεγμένος μηχανισμός αναζήτησης.
 
-**Εάν δεν θέλετε να εγκατασταθεί η επέκταση, [ακολουθήστε τα παρακάτω βήματα](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Για να εγκαταστήσετε την επέκταση πρέπει να την ***ενεργοποιήσετε*** ρυθμίζοντας μια παράμετρο στην ενότητα Αναζήτησης της Microsoft στο Κέντρο διαχείρισης Microsoft 365.
 
-Ακόμη και μετά την εγκατάσταση της επέκτασης, οι ίδιοι οι χρήστες μπορούν εύκολα να σταματήσουν να χρησιμοποιούν το Bing ως προεπιλεγμένο μηχανισμό αναζήτησης χρησιμοποιώντας έναν απλό κουμπί εναλλαγής [ενεργοποίηση/απενεργοποίηση](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) ή μπορείτε να [καταργήσετε την επέκταση](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) από πολλές συσκευές στον οργανισμό σας.
+Η ανάπτυξη αυτής της ***προαιρετικής*** επέκτασης βασίζεται επίσης σε μια υπηρεσία παρασκηνίου, η οποία περιλαμβάνεται στις Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις, ξεκινώντας από την έκδοση 2005. Εάν η υπηρεσία παρασκηνίου δεν είναι εγκατεστημένη, δεν θα εγκατασταθεί η επέκταση.
 
-Διαθέτουμε ένα λεπτομερές άρθρο βοήθειας για να σας βοηθήσουμε να κατανοήσετε περισσότερα σχετικά με αυτή την αλλαγή [εδώ](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Ακόμη και μετά την εγκατάσταση της επέκτασης, οι χρήστες μπορούν εύκολα να σταματήσουν να χρησιμοποιούν το Bing ως προεπιλεγμένο μηχανισμό αναζήτησης, χρησιμοποιώντας απλώς την εναλλαγή ενεργοποίησης/απενεργοποίησης.
+
+Γαι περισσότερες πληροφορίες σχετικά με την ανάπτυξη αυτής της ***προαιρετικής*** επέκτασης, ανατρέξτε στο θέμα [Αναζήτηση της Microsoft στο Bing και Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις](https://docs.microsoft.com/deployoffice/microsoft-search-bing).

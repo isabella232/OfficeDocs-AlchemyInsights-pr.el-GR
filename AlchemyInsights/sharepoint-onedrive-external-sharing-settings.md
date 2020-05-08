@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692873"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063653"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Προειδοποιητικό μήνυμα: Οι πολιτικές του οργανισμού σας δεν σας επιτρέπουν να κάνετε κοινή χρήση με αυτούς τους χρήστες
 
@@ -23,12 +23,12 @@ ms.locfileid: "43692873"
 
 Ελέγξτε τις **ρυθμίσεις εξωτερικής κοινής χρήσης του SharePoint και του OneDrive** για τον οργανισμό σας.
 
-1. Στο [Κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), επιλέξτε **SharePoint**.
+1. Στο [κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), επιλέξτε **SharePoint**.
 3. Επιλέξτε **Κοινή χρήση** για να δείτε τις ρυθμίσεις εξωτερικής κοινής χρήσης.
 
 Ελέγξτε τις **ρυθμίσεις εξωτερικής κοινής χρήσης** για μια συγκεκριμένη τοποθεσία.
 
-1. Στο [Κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), επιλέξτε **SharePoint**.
+1. Στο [κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), επιλέξτε **SharePoint**.
 2. Επιλέξτε **Ενεργές τοποθεσίες** για να δείτε τις τοποθεσίες σας που είναι διαθέσιμες.
 3. Επιλέξτε την τοποθεσία που θέλετε να ελέγξετε και, στη συνέχεια, επιλέξτε το κουμπί **Κοινή χρήση** που εμφανίζεται στη γραμμή μενού για να επαληθεύσετε τις ρυθμίσεις για την τοποθεσία.
 
