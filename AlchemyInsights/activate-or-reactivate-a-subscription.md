@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062104"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Ενεργοποίηση ή επανενεργοποίηση συνδρομής
@@ -33,7 +33,7 @@ ms.locfileid: "44062104"
 
 Εάν η συνδρομή σας λήξει, απενεργοποιηθεί από τη Microsoft ή την ακυρώσατε στη μέση μιας περιόδου συνδρομής, μπορείτε να την ενεργοποιήσετε ξανά στο κέντρο διαχείρισης.
   
-1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα **Χρέωση των** > [προϊόντων σας.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα **Χρέωση**  >  [των προϊόντων σας.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Επιλέξτε τη συνδρομή που θέλετε να ενεργοποιήσετε ξανά και, στη συνέχεια, επιλέξτε **Επανενεργοποίηση**. Εάν δεν βλέπετε την επιλογή **Επανενεργοποίηση** ως διαθέσιμη ενέργεια, [καλέστε την υποστήριξη](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) για να ενεργοποιήσετε εκ νέου τη συνδρομή σας.
 

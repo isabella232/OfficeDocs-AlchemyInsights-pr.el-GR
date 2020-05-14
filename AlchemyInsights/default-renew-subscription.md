@@ -12,10 +12,10 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062248"
 ---
 # <a name="renewing-your-subscription"></a>Ανανέωση της συνδρομής σας
@@ -26,6 +26,6 @@ ms.locfileid: "44062248"
 
 Για να ενεργοποιήσετε την περιοδική χρέωση: 
 
-1. Μεταβείτε **στην ομάδα Χρέωση των** > **[προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Μεταβείτε **στην ομάδα Χρέωση των**  >  **[προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Επιλέξτε τη συνδρομή για την οποία θέλετε να διαχειριστείτε την περιοδική χρέωση.
 3. Στην περιοχή **Χρέωση**, επιλέξτε **Επεξεργασία** και κάντε τις αλλαγές σας στο παράθυρο **Ρυθμίσεις περιοδικής χρέωσης.** 
