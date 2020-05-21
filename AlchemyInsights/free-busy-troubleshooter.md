@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765052"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331309"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Ζητήματα που βλέπουν πληροφορίες διαθεσιμότητας ημερολογίου
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Βήματα αντιμετώπισης προβλημάτων για τη διαθεσιμότητα ημερολογίου (διαθεσιμότητας)
 
-Εάν δεν μπορείτε να δείτε πληροφορίες διαθεσιμότητας ημερολογίου σε άλλα ημερολόγια ή εάν άλλα άτομα δεν μπορούν να δουν πληροφορίες διαθεσιμότητας στο ημερολόγιό σας, χρησιμοποιήστε το [Βοηθό υποστήριξης και αποκατάστασης της Microsoft](https://diagnostics.office.com/).
-  
+Γενικά, το καλύτερο εργαλείο για την αντιμετώπιση προβλημάτων διαθεσιμότητας είναι η [Ανάλυση απομακρυσμένης συνδεσιμότητας του Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) για να δείτε πού αποτυγχάνει. Η RCA θα σας δώσει μια λεπτομερή καταγραφή του τι λειτούργησε και τι απέτυχε με συγκεκριμένα μηνύματα λάθους που μπορείτε να αναζητήσετε για να βρείτε λύσεις. Έχει επίσης μια σύνδεση με το [Βοηθό υποστήριξης και αποκατάστασης](https://diagnostics.office.com/)της Microsoft .
+
+Ένα άλλο καλό εργαλείο που προσπαθεί είναι το [εργαλείο ελέγχου ημερολογίου για](https://www.microsoft.com/download/details.aspx?id=28786) το Outlook, εάν ο χρήστης έχει το Outlook.
