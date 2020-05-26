@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762893"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373035"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="4f472-102">Πληροφορίες σχετικά με τις επιλογές κοινής χρήσης εξωτερικού ημερολογίου</span><span class="sxs-lookup"><span data-stu-id="4f472-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="d403c-102">Επιλογές ηλεκτρονικής συνεργασίας του Exchange</span><span class="sxs-lookup"><span data-stu-id="d403c-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="4f472-103">Εάν πρέπει να προγραμματίσετε συσκέψεις με άτομα εκτός του οργανισμού σας, το Microsoft 365 σάς δίνει τη δυνατότητα να κάνετε τα ημερολόγια διαθέσιμα σε "εξωτερικούς χρήστες", σε όσους πρέπει να βλέπουν χρόνο διαθεσιμότητας, αλλά δεν έχουν λογαριασμούς χρηστών για το περιβάλλον Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="4f472-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="4f472-104">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Κοινή χρήση ημερολογίων με εξωτερικούς χρήστες](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="4f472-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="d403c-103">Για να δείτε μια **επισκόπηση της κοινής χρήσης εξωτερικού ημερολογίου**, ανατρέξτε στο θέμα [Κοινή χρήση στο Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="d403c-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="d403c-104">Για να **κάνετε κοινή χρήση ημερολογίων με άλλον οργανισμό του Office 365**, ανατρέξτε στο θέμα [Σχέσεις οργανισμού στο Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="d403c-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="d403c-105">Για να **ελέγξετε τον τρόπο με τον οποίο οι χρήστες σας μοιράζονται τα ημερολόγιά τους με άτομα εκτός της εταιρείας σας**, ανατρέξτε στο θέμα [Πολιτική κοινής χρήσης στο Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="d403c-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="d403c-106">Για να δείτε **βελτιώσεις** που γίνονται στην κοινή χρήση ημερολογίου, ανατρέξτε στο θέμα [Κοινή χρήση ημερολογίου στο Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="d403c-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
