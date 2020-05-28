@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030583"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354052"
 ---
 # <a name="teams-client-crashing"></a>Σφάλματα στο πρόγραμμα-πελάτη Teams;
 
@@ -24,32 +24,26 @@ ms.locfileid: "43030583"
 
 - Εάν χρησιμοποιείτε την εφαρμογή υπολογιστή Teams, [βεβαιωθείτε ότι η εφαρμογή είναι πλήρως ενημερωμένη](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Βεβαιωθείτε ότι έχετε πρόσβαση σε όλες τις [περιοχές διευθύνσεων URL και διευθύνσεις του Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues).
+- Βεβαιωθείτε ότι είναι προσβάσιμες όλες οι [διευθύνσεις URL και οι περιοχές διευθύνσεων του Microsoft 365.](https://docs.microsoft.com/microsoftteams/connectivity-issues)
 
-- Συνδεθείτε με τον λογαριασμό διαχειριστή σας και ελέγξτε τον [Πίνακα ελέγχου εύρυθμης λειτουργίας υπηρεσιών](https://docs.microsoft.com/office365/enterprise/view-service-health) για να επαληθεύσετε ότι δεν υπάρχει διακοπή λειτουργίας ή υποβάθμιση υπηρεσίας.
+- Συνδεθείτε με το λογαριασμό διαχειριστή μισθωτή και ελέγξτε [τον πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://docs.microsoft.com/office365/enterprise/view-service-health) για να βεβαιωθείτε ότι δεν υπάρχει διακοπή ρεύματος ή υποβάθμιση της υπηρεσίας.
 
- - Ως τελευταίο βήμα, μπορείτε να επιχειρήσετε την εκκαθάριση της μνήμης cache του προγράμματος-πελάτη Teams:
+- Κατάργηση εγκατάστασης και επανεγκατάσταση της εφαρμογής teams (link)
+    - Μεταβείτε στο φάκελο %appdata%\Microsoft\teams\ στον υπολογιστή σας και διαγράψτε όλα τα αρχεία σε αυτόν τον κατάλογο.
+    - [Κατεβάστε και εγκαταστήστε την εφαρμογή Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)και, εάν είναι δυνατόν, εγκαταστήστε το Teams ως διαχειριστή (κάντε δεξί κλικ στο πρόγραμμα εγκατάστασης ομάδων και επιλέξτε "Εκτέλεση ως διαχειριστής" εάν είναι διαθέσιμο).
 
-    1.  Τερματίστε πλήρως το πρόγραμμα-πελάτη υπολογιστή Microsoft Teams. Μπορείτε να κάνετε δεξί κλικ στο **Teams** από τον δίσκο εικονιδίων και να κάνετε κλικ στην επιλογή **Κλείσιμο** ή να εκτελέσετε τη Διαχείριση εργασιών και να σταματήσετε πλήρως τη διαδικασία.
+Εάν το πρόγραμμα-πελάτης του Teams εξακολουθεί να είναι σε αιφνίδια διακοπή λειτουργίας, μπορείτε να αναπαραγάγετε το ζήτημα; Αν ναι:
 
-    2.  Μεταβείτε στην Εξερεύνηση αρχείων και πληκτρολογήστε "%appdata%\Microsoft\teams".
+1. Χρησιμοποιήστε την Καταγραφή βημάτων για να καταγράψετε τα βήματά σας.
+    - Κλείστε όλες τις περιττές ή εμπιστευτικές εφαρμογές.
+    - Εκκινήστε την Καταγραφή βημάτων και αναπαράγνατε το ζήτημα ενώ είστε συνδεδεμένοι με το λογαριασμό χρήστη που επηρεάζεται.
+    - [Συλλέξτε τα αρχεία καταγραφής ομάδων που αποτυπώνουν τα καταγεγραμμένα βήματα αναπαραγωγής](https://docs.microsoft.com/microsoftteams/log-files). **Σημείωση**: Βεβαιωθείτε ότι καταγράφετε τη διεύθυνση εισόδου του χρήστη που επηρεάζεται.
+    - Συλλέξτε τις πληροφορίες κάδο χωματερή ς ή/και βλαβών (Windows). Εκκίνηση του Windows Powershell στον υπολογιστή όπου παρουσιάζεται η αιφνίδια διακοπή λειτουργίας και εκτελέστε τις ακόλουθες εντολές:
 
-    3.  Αφού βρεθείτε στον κατάλογο, θα δείτε μερικούς από τους ακόλουθους φακέλους:
-
-         - Μέσα από το **Μνήμη cache εφαρμογών**, μεταβείτε στη Μνήμη cache και διαγράψτε οποιοδήποτε από τα αρχεία στη θέση cache: %appdata%\Microsoft\teams\application cache\cache.
-
-        - Μέσα από το **Blob_storage**, διαγράψτε όλα τα αρχεία: %appdata%\Microsoft\teams\blob_storage.
-
-        - Μέσα από τη **Μνήμη cache**, διαγράψτε όλα τα αρχεία: %appdata%\Microsoft\teams\Cache.
-
-        - Μέσα από τις **βάσεις δεδομένων**, διαγράψτε όλα τα αρχεία: %appdata%\Microsoft\teams\databases.
-
-        - Μέσα από τη **Μνήμη GPUcache**, διαγράψτε όλα τα αρχεία: %appdata%\Microsoft\teams\GPUcache.
-
-        - Μέσα από το **IndexedDB**, διαγράψτε το αρχείο .db: %appdata%\Microsoft\teams\IndexedDB.
-
-        - Μέσα από τον **Τοπικό χώρο αποθήκευσης**, διαγράψτε όλα τα αρχεία: %appdata%\Microsoft\teams\Local Storage.
-
-        - Τέλος, μέσα από το **tmp**, διαγράψτε οποιοδήποτε αρχείο: %appdata%\Microsoft\teams\tmp.
-
-    4. Επανεκκινήστε το πρόγραμμα-πελάτη Teams.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Επισυνάψτε το αρχείο στην υπόθεση υποστήριξης.

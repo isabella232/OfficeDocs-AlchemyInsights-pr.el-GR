@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953836"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343046"
 ---
 # <a name="list-view-threshold"></a>Όριο προβολής λίστας
 
-Οι λίστες και οι βιβλιοθήκες του SharePoint μπορούν να περιέχουν έως και 30.000.000 στοιχεία, αλλά όταν έχουν περισσότερα από 5.000 στοιχεία ενδέχεται να εμφανιστεί ένα σφάλμα ορίου προβολής λίστας όταν προσπαθείτε να εργαστείτε μαζί τους. Αυτό το όριο έχει ισχύ για τη διατήρηση της απόδοσης της υπηρεσίας. Δεν μπορεί να αλλάξει. Αυτό το σφάλμα μπορεί επίσης να εμφανιστεί όταν προσπαθείτε να κάνετε κοινοποίηση ή να διακόψετε τη μεταβίβαση ενός φακέλου.
+Το όριο προβολής λίστας ισχύει για τη διατήρηση της απόδοσης της υπηρεσίας. Δεν είναι δυνατή η αλλαγή του ορίου στο SharePoint Online. Για να αποφύγετε την αύξηση αυτού του ορίου, ανατρέξτε στο θέμα [Διαχείριση μεγάλων λιστών και βιβλιοθηκών στο SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Για να αποφύγετε την υπέρβαση αυτού του ορίου, επισκεφτείτε:
-
-- [Διαχείριση μεγάλων λιστών και βιβλιοθηκών στο SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Σφάλμα κοινοποίησης/διακοπής μεταβίβασης](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Αυτό το σφάλμα μπορεί επίσης να εμφανιστεί όταν προσπαθείτε να κάνετε κοινοποίηση ή να διακόψετε τη μεταβίβαση ενός φακέλου. Ανατρέξτε στην θέμα [Μεταβίβαση κοινής χρήσης/διακοπής σφαλμάτων](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

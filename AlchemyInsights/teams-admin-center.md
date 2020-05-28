@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021640"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354088"
 ---
 # <a name="teams-admin-center"></a>Κέντρο διαχείρισης του Teams
 
@@ -30,4 +30,6 @@ ms.locfileid: "44021640"
 Εάν δεν εμφανίζονται χρήστες στο κέντρο διαχείρισης του Teams, ελέγξτε τα ακόλουθα:
 
 - Έχετε δημιουργήσει χρήστες ή έχετε εκχωρήσει άδειες χρήσης τις τελευταίες 24 ώρες; Φροντίστε να περιμένετε τουλάχιστον 24 ώρες πριν ανοίξετε ένα δελτίο υποστήριξης.
-- Είστε βέβαιοι ότι έχετε εκχωρήσει κατάλληλες άδειες χρήσης; 
+- Είστε βέβαιοι ότι έχετε εκχωρήσει κατάλληλες άδειες χρήσης;
+- Εάν έχετε μια υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης, βεβαιωθείτε ότι [η τιμή του msRTCSIP-PrimaryUserAddress ή της διεύθυνσης SIP στο πεδίο ProxyAddresses στην τοπική υπηρεσία καταλόγου Active Directory είναι μοναδική και η μορφή ταιριάζει](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) με την γουλιά:**Όνομα χρήστη** του χρήστη από το κέντρο [διαχείρισης της Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Εάν σκοπεύετε να διατηρήσετε μια ανάπτυξη του Skype για επαγγελματικούς διακομιστές και να έχετε χρήστες στο σπίτι εσωτερικής εγκατάστασης και σε Σύνδεση: ακολουθήστε την **επιλογή "Ρύθμιση υβριδικής με τις ομάδες και το Skype για επιχειρήσεις Online"** στον Πίνακα Ελέγχου του Skype για επιχειρήσεις server και μετακινήστε τους χρήστες στο Internet.
