@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062104"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418036"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Ενεργοποίηση ή επανενεργοποίηση συνδρομής
 
@@ -37,7 +37,7 @@ ms.locfileid: "44062104"
 
 2. Επιλέξτε τη συνδρομή που θέλετε να ενεργοποιήσετε ξανά και, στη συνέχεια, επιλέξτε **Επανενεργοποίηση**. Εάν δεν βλέπετε την επιλογή **Επανενεργοποίηση** ως διαθέσιμη ενέργεια, [καλέστε την υποστήριξη](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) για να ενεργοποιήσετε εκ νέου τη συνδρομή σας.
 
-3. Εισαγάγετε τα στοιχεία πληρωμής σας. Μπορείτε επίσης [να ενημερώσετε τα υπάρχοντα στοιχεία πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) εδώl.
+3. Εισαγάγετε τα στοιχεία πληρωμής σας. Μπορείτε επίσης [να ενημερώσετε τα υπάρχοντα στοιχεία πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) εδώl.
 
 Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 

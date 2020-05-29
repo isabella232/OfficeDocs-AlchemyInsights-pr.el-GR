@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062284"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417604"
 ---
 # <a name="declined-credit-card"></a>Πιστωτική κάρτα που απορρίφθηκε
 
@@ -28,4 +28,4 @@ ms.locfileid: "44062284"
   
 Εάν συνεχίσετε να βλέπετε το μήνυμα "απορρίφθηκε", επικοινωνήστε με την τράπεζά σας. Είναι πιθανό η πιστωτική σας κάρτα να μην είναι ενεργή— για παράδειγμα, αν λάβατε πρόσφατα την πιστωτική κάρτα στο ταχυδρομείο με μια ενημερωμένη ημερομηνία λήξης, ίσως χρειαστεί να την ενεργοποιήσετε. Η τράπεζά σας μπορεί επίσης να σας πει εάν η πιστωτική σας κάρτα δεν έχει εγκριθεί για ηλεκτρονικές, διεθνείς ή επαναλαμβανόμενες συναλλαγές.
   
-Για πρόσθετες πληροφορίες, [ανατρέξτε στο θέμα Αντιμετώπιση προβλημάτων πιστωτικών καρτών και τραπεζικών λογαριασμών](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Για πρόσθετες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση μεθόδων πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
