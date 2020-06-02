@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706392"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506011"
 ---
 # <a name="change-a-users-email-address"></a>Αλλαγή της διεύθυνσης ηλεκτρονικού ταχυδρομείου ενός χρήστη
 
 Η αλλαγή της διεύθυνσης ηλεκτρονικού ταχυδρομείου κάποιου είναι εύκολη! Απλά ακολουθήστε τα εξής βήματα:
   
-1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα [Χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) ή επιλέξτε **Ενεργοί** \> **χρήστες χρηστών**.
+1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα [Χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) ή επιλέξτε **Users** \> **Ενεργοί χρήστες χρηστών**.
     
 2. Επιλέξτε το χρήστη.
     
@@ -38,6 +38,6 @@ ms.locfileid: "43706392"
     
 6. Επιλέξτε **Αποθήκευση**και, στη συνέχεια, **Κλείσιμο**και τελειώσατε!
     
-Δεν ήταν εύκολο; Για περισσότερες λεπτομέρειες και βήματα με στιγμιότυπα οθόνης, ανατρέξτε σε αυτό το άρθρο: [Αλλαγή ονόματος χρήστη και διεύθυνσης ηλεκτρονικού ταχυδρομείου](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Δεν ήταν εύκολο; Για περισσότερες λεπτομέρειες και βήματα με στιγμιότυπα οθόνης, ανατρέξτε σε αυτό το άρθρο: [Αλλαγή ονόματος χρήστη και διεύθυνσης ηλεκτρονικού ταχυδρομείου](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

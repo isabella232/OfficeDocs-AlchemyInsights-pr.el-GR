@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063473"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505579"
 ---
 # <a name="expired-subscription"></a>Συνδρομή που έχει λήξει
 
@@ -34,7 +34,7 @@ ms.locfileid: "44063473"
 
 3. Επιβεβαιώστε τα στοιχεία πληρωμής σας. Μπορείτε να ενημερώσετε τα υπάρχοντα στοιχεία πληρωμής εδώ. Όταν ολοκληρώσετε την εισαγωγή της μεθόδου πληρωμής, επιλέξτε **Επανενεργοποίηση**.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Δημιουργία νέας αγοράς**
   
@@ -46,4 +46,4 @@ ms.locfileid: "44063473"
 
 4. Ακολουθήστε τα υπόλοιπα βήματα για να ολοκληρώσετε την ανάληψη ελέγχου.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αγορά άλλης συνδρομής](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Αγορά άλλης συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

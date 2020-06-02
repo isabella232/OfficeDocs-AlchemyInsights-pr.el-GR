@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709443"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505543"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Ψάχνετε να αγοράσετε μια νέα συνδρομή;
 
-Εάν έχετε ήδη συνδρομή Microsoft 365 για Επιχειρήσεις και θέλετε να αγοράσετε μια άλλη συνδρομή για τον οργανισμό σας, μεταβείτε στη σελίδα \> [Υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) **χρέωσης** για να δείτε μια λίστα συνδρομών που είναι διαθέσιμες στον οργανισμό σας.
+Εάν έχετε ήδη συνδρομή Microsoft 365 για Επιχειρήσεις και θέλετε να **Billing** αγοράσετε μια άλλη συνδρομή για τον οργανισμό σας, μεταβείτε στη σελίδα Υπηρεσίες \> [αγοράς χρέωσης](https://go.microsoft.com/fwlink/p/?linkid=868433) για να δείτε μια λίστα συνδρομών που είναι διαθέσιμες στον οργανισμό σας.
  
 1. Επιλέξτε τη συνδρομή που θέλετε και, στη συνέχεια, επιλέξτε **Αγορά**.
 
@@ -32,8 +32,8 @@ ms.locfileid: "43709443"
 
  **Πρόσθετοι πόροι:**
   
-- [Εκχώρηση αδειών χρήσης σε χρήστες του Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Εκχώρηση αδειών χρήσης σε χρήστες του Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Αν ενδιαφέρεστε να αλλάξετε συνδρομές, ανατρέξτε στο [θέμα Μετάβαση σε διαφορετικό πρόγραμμα microsoft 365 για επιχειρήσεις.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Αν ενδιαφέρεστε να αλλάξετε συνδρομές, ανατρέξτε στο [θέμα Μετάβαση σε διαφορετικό πρόγραμμα microsoft 365 για επιχειρήσεις.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

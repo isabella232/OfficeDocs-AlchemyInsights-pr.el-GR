@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 3ad14c42bdca8984c00d44c222dd242f0e00a9ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4bebb7c88308772fe93d1b8ecd16954871d03f8c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767681"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505415"
 ---
 # <a name="sharepoint-new-features-announced"></a>Ανακοινώθηκαν νέες δυνατότητες του SharePoint
 
@@ -21,4 +21,4 @@ ms.locfileid: "43767681"
   
 Για περισσότερες πληροφορίες σχετικά με αυτές τις δυνατότητες, ανατρέξτε στην καταχώρηση ιστολογίου [Νέες καινοτομίες στο SharePoint &amp; Microsoft 365 παρέχουν ενέργεια και απλότητα για συνεργασία περιεχομένου.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Ο οργανισμός σας μπορεί να συμμετάσχει στο πρόγραμμα στοχευμένης κυκλοφορίας για να έχει έγκαιρη πρόσβαση σε νέες δυνατότητες. Ανατρέξτε [στο θέμα Ρύθμιση των επιλογών τυπικής ή στοχευμένης έκδοσης στο Microsoft 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Ο οργανισμός σας μπορεί να συμμετάσχει στο πρόγραμμα στοχευμένης κυκλοφορίας για να έχει έγκαιρη πρόσβαση σε νέες δυνατότητες. Ανατρέξτε [στο θέμα Ρύθμιση των επιλογών τυπικής ή στοχευμένης έκδοσης στο Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
