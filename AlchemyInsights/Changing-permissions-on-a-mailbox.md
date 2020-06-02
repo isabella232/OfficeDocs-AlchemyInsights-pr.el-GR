@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692513"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502571"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Αλλαγή δικαιωμάτων σε γραμματοκιβώτιο
 
 Εάν οι χρήστες χρειάζονται πρόσβαση σε γραμματοκιβώτια εκτός από τα δικά τους, πρέπει να τους δοθούν δικαιώματα εργασίας με αυτά τα γραμματοκιβώτια. Ο τρόπος εκχώρησης αυτών των δικαιωμάτων εξαρτάται από τον τύπο γραμματοκιβωτίου. Εάν οι χρήστες χρειάζονται πρόσβαση σε:
   
-- Γραμματοκιβώτια άλλων χρηστών - ανατρέξτε στο θέμα [Εκχώρηση δικαιωμάτων γραμματοκιβωτίου σε άλλο χρήστη](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Γραμματοκιβώτια άλλων χρηστών - ανατρέξτε στο θέμα [Εκχώρηση δικαιωμάτων γραμματοκιβωτίου σε άλλο χρήστη](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Ένα κοινόχρηστο γραμματοκιβώτιο - ανατρέξτε στο θέμα [Προσθήκη ή κατάργηση μελών από ένα κοινόχρηστο γραμματοκιβώτιο](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

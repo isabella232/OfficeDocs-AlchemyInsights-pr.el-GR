@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010317"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504443"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Ενεργοποίηση του Office με χρήση αδειών χρήσης βάσει συσκευής
 
@@ -29,6 +29,6 @@ ms.locfileid: "44010317"
 Για λεπτομερείς πληροφορίες σχετικά με την εγκατάσταση, ανατρέξτε στα θέματα:
 
 - [Βήματα για τη ρύθμιση παραμέτρων αδειών χρήσης βάσει συσκευής για εφαρμογές microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Διαχείριση αδειών χρήσης για συσκευές](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
+- [Διαχείριση αδειών χρήσης για συσκευές](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
 Για οδηγίες αντιμετώπισης προβλημάτων, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων άδειας χρήσης βάσει συσκευής για εφαρμογές του Microsoft 365 για μεγάλες επιχειρήσεις](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).

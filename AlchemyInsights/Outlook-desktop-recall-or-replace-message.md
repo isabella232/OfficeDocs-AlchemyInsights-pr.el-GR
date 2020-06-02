@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687510"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502319"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Ανάκληση ή αντικατάσταση μηνύματος ηλεκτρονικού ταχυδρομείου του Outlook
 
@@ -26,7 +26,7 @@ ms.locfileid: "43687510"
 
 1. Στο παράθυρο φακέλων στα αριστερά του παραθύρου του Outlook, επιλέξτε το φάκελο "Απεσταλμένα".
 1. Κάντε διπλό κλικ στο μήνυμα που θέλετε να ανακαλέσετε για να το ανοίξετε.
-1. Επιλέξτε την καρτέλα **Μήνυμα** και, στη συνέχεια, επιλέξτε **Ενέργειες** > **ανάκλησης αυτού του μηνύματος**.
+1. Επιλέξτε την καρτέλα **Μήνυμα** και, στη συνέχεια, επιλέξτε **Actions**  >  **Ενέργειες ανάκλησης αυτού του μηνύματος**.
 1. Επιλέξτε **Διαγραφή μη αναγνωσμένων αντιγράφων αυτού του μηνύματος** ή Διαγραφή μη **αναγνωσμένων αντιγράφων και αντικατάσταση με νέο μήνυμα**και, στη συνέχεια, επιλέξτε **OK**.
 1. Εάν στέλνετε ένα μήνυμα αντικατάστασης, συνθέστε το μήνυμα και, στη συνέχεια, επιλέξτε **Αποστολή**.
 1. Η επιτυχία ή αποτυχία μιας ανάκλησης μηνύματος εξαρτάται από τις ρυθμίσεις του παραλήπτη στο Outlook. Για βήματα που πρέπει να ελέγξετε την ανάκληση, ανατρέξτε σε [αυτό το άρθρο](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
@@ -34,7 +34,7 @@ ms.locfileid: "43687510"
 Αναζήτηση και διαγραφή μηνυμάτων ηλεκτρονικού ταχυδρομείου στον οργανισμό σας
 
 - Εάν δεν είστε καθολικός διαχειριστής, ο λογαριασμός σας πρέπει να προστεθεί στο ρόλο eDiscovery Manager ή στο ρόλο διαχείρισης αναζήτησης συμμόρφωσης για την αναζήτηση μηνυμάτων. Για να διαγράψετε μηνύματα, θα πρέπει να συμμετάσχετε στην ομάδα ρόλων "Διαχείριση οργανισμού" ή στο ρόλο διαχείρισης αναζήτησης και εκκαθάρισης. Τα δικαιώματα για αυτούς τους ρόλους εκχωρούνται στο [κέντρο ασφάλειας και συμμόρφωσης](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Δημιουργήστε μια αναζήτηση περιεχομένου](https://docs.microsoft.com/office365/securitycompliance/content-search) για να βρείτε το μήνυμα προς διαγραφή.
+- [Δημιουργήστε μια αναζήτηση περιεχομένου](https://docs.microsoft.com/microsoft-365/compliance/content-search) για να βρείτε το μήνυμα προς διαγραφή.
 - [Σύνδεση στο PowerShell του Κέντρου ασφάλειας και συμμόρφωσης](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
 Εάν χρησιμοποιείτε έλεγχο ταυτότητας πολλών παραγόντων, ανατρέξτε στο θέμα [Σύνδεση στο Microsoft 365 security and Compliance Center PowerShell χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
