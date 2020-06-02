@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764872"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511508"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Κρυπτογράφηση μηνυμάτων ηλεκτρονικού ταχυδρομείου στο Outlook
 
@@ -24,7 +24,7 @@ ms.locfileid: "43764872"
 
 - Εάν χρησιμοποιείτε το Outlook στο Web (πρώην **OWA):** Όταν συνθέτετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου, απλώς κάντε κλικ στην επιλογή **Προστασία** σε OWA. Αυτό θα εφαρμόσει το δικαίωμα "Χωρίς προώθηση". Κάντε κλικ στην επιλογή **Αλλαγή δικαιώματος** και **επιλέξτε Κρυπτογράφηση** για να κρυπτογραφήσετε μόνο το μήνυμα.
 
-- Εάν χρησιμοποιείτε **το πρόγραμμα-πελάτη του Outlook**: Για να στείλετε ένα κρυπτογραφημένο μήνυμα από το Outlook 2013 ή το 2016 ή το Outlook 2016 για Mac, επιλέξτε **Δικαιώματα επιλογών** > **Permissions**και, στη συνέχεια, ενεργοποιήστε την επιλογή προστασίας που χρειάζεστε.
+- Εάν χρησιμοποιείτε **το πρόγραμμα-πελάτη του Outlook**: Για να στείλετε ένα κρυπτογραφημένο μήνυμα από το Outlook 2013 ή το 2016 ή το Outlook 2016 για Mac, επιλέξτε **Δικαιώματα**  >  **επιλογών**και, στη συνέχεια, ενεργοποιήστε την επιλογή προστασίας που χρειάζεστε.
 
-- Για να **κρυπτογραφήσετε αυτόματα όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου** που αποστέλλονται σε συγκεκριμένους παραλήπτες ή εξωτερικούς οργανισμούς συνεργατών, πρέπει να δημιουργήσετε έναν κανόνα μεταφοράς ροής αλληλογραφίας στο Κέντρο διαχείρισης του Exchange. Λεπτομερείς οδηγίες παρέχονται σε [αυτό το άρθρο υποστήριξης](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Για να **κρυπτογραφήσετε αυτόματα όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου** που αποστέλλονται σε συγκεκριμένους παραλήπτες ή εξωτερικούς οργανισμούς συνεργατών, πρέπει να δημιουργήσετε έναν κανόνα μεταφοράς ροής αλληλογραφίας στο Κέντρο διαχείρισης του Exchange. Λεπτομερείς οδηγίες παρέχονται σε [αυτό το άρθρο υποστήριξης](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

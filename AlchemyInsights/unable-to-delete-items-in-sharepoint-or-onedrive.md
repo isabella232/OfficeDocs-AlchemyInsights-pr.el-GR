@@ -1,5 +1,5 @@
 ---
-title: Δεν είναι δυνατή η διαγραφή στοιχείων στο SharePoint ή στο OneDrive
+title: Δεν είναι δυνατή η διαγραφή στοιχείων στο SharePoint ή το OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571255"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511976"
 ---
 # <a name="unable-to-delete-items"></a>Δεν είναι δυνατή η διαγραφή στοιχείων
 
-Πολιτικές διατήρησης μπορεί να προκαλέσει αυτό, θα πρέπει είτε να απενεργοποιήσετε ή να εξαιρέσετε αντίστοιχη λαβή που προκαλεί αυτό το ζήτημα. Αφού καταργηθεί η πολιτική διατήρησης ή η διατήρηση, ενδέχεται να χρειαστούν έως και 24 ώρες για να ισχύσει η αλλαγή. Βεβαιωθείτε ότι δεν υπάρχει ρύθμιση [πολιτικής διατήρησης](https://docs.microsoft.com/office365/securitycompliance/retention-policies) στο στοιχείο.
+Οι πολιτικές διατήρησης μπορεί να προκαλέσουν αυτό, πρέπει είτε να απενεργοποιήσετε είτε να εξαιρέσετε την αντίστοιχη διατήρηση που προκαλεί αυτό το ζήτημα. Μετά την κατάργηση μιας πολιτικής διατήρησης ή διατήρησης, ενδέχεται να χρειαστούν έως και 24 ώρες για να εφαρμοστεί η αλλαγή. Βεβαιωθείτε ότι δεν υπάρχει ρύθμιση [πολιτικής διατήρησης](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) στο στοιχείο.
 
-Η τοποθεσία μπορεί να έχει υπερβεί το όριο αποθήκευσης, να αυξήσει το όριο της [τοποθεσίας](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) και να διαγράψει το στοιχείο.
+Η τοποθεσία ενδέχεται να έχει υπερβεί το όριο αποθήκευσης, να αυξήσει το [όριο τοποθεσίας](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) και να διαγράψει το στοιχείο.
 
-Βεβαιωθείτε ότι το στοιχείο δεν έχει γίνει [ανάληψη ελέγχου](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) σε άλλο χρήστη.
+Βεβαιωθείτε ότι δεν έχει γίνει ανάληψη ελέγχου του [στοιχείου](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) σε άλλο χρήστη.
 
-Τέλος, οι διαχειριστές μπορούν να χρησιμοποιήσουν το [SharePoint μοτίβα και πρακτικές](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) που περιέχει μια βιβλιοθήκη των εντολών PowerShell που σας επιτρέπουν να εκτελέσετε σύνθετες ενέργειες διαχείρισης, όπως η δύναμη Διαγραφή επίμονη στοιχεία.
+Τέλος, οι διαχειριστές μπορούν να [χρησιμοποιήσουν μοτίβα και πρακτικές του SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), η οποία περιέχει μια βιβλιοθήκη εντολών PowerShell που σας επιτρέπουν να εκτελείτε σύνθετες ενέργειες διαχείρισης, όπως η σταδιακή διαγραφή επίμονων στοιχείων.
 - [Κατάργηση αρχείου PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [Κατάργηση φακέλου τοποθέτησης και άμεσης λειτουργίας](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [Κατάργηση στοιχείου λίστας τοποθέτησης και άμεσης λειτουργίας](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [Κατάργηση λίστας τοποθέτησης και άμεσης λειτουργίας](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [Κατάργηση πεδίου τοποθέτησης και άμεσης λειτουργίας (στήλη)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- [Κατάργηση φακέλου PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [Κατάργηση στοιχείου λίστας PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [Κατάργηση λίστας PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [Κατάργηση πεδίου PNP (Στήλη)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

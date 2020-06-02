@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732402"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512590"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Αντιμετώπιση προβλημάτων προστασίας από απειλές για προχωρημένους του Office 365
 
-- Παρατηρείτε καθυστερήσεις στην παράδοση μηνυμάτων; Χρησιμοποιήστε την επιλογή [δυναμικής παράδοσης](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) στην πολιτική ασφαλούς συνημμένων ATP. Αυτό θα βοηθήσει στην αποφυγή καθυστερήσεων μηνυμάτων κατά την προστασία των παραληπτών από κακόβουλα αρχεία.
+- Παρατηρείτε καθυστερήσεις στην παράδοση μηνυμάτων; Χρησιμοποιήστε την επιλογή [δυναμικής παράδοσης](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) στην πολιτική ασφαλούς συνημμένων ATP. Αυτό θα βοηθήσει στην αποφυγή καθυστερήσεων μηνυμάτων κατά την προστασία των παραληπτών από κακόβουλα αρχεία.
 
 - Θέλετε να αναφέρετε ψευδώς θετικά ή ψευδώς αρνητικά στη Microsoft; Χρησιμοποιήστε αυτήν τη [σύνδεση](https://www.microsoft.com/wdsi/filesubmission/) για να υποβάλετε αρχεία για ανάλυση.
 
@@ -27,7 +27,7 @@ ms.locfileid: "43732402"
 
   1. Μεταβείτε [https://protection.office.com](https://protection.office.com) και συνδεθείτε με έναν καθολικό λογαριασμό διαχειριστή ή διαχειριστή ασφαλείας.
 
-  2. Στο αριστερό παράθυρο περιήγησης στην περιοχή **Διαχείριση απειλών**, επιλέξτε **Ασφαλείς συνδέσεις πολιτικής** \> **Safe Links**.
+  2. Στο αριστερό παράθυρο περιήγησης στην περιοχή **Διαχείριση απειλών**, επιλέξτε **Ασφαλείς συνδέσεις** \> **πολιτικής**.
 
   3. Στην **ενότητα Πολιτικές που ισχύουν για ολόκληρη την εταιρεία,** επιλέξτε την πολιτική και κάντε κλικ στην επιλογή **Επεξεργασία**.
 

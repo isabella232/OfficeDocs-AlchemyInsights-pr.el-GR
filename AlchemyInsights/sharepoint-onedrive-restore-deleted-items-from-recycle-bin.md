@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692837"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511220"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Αντιμετώπιση προβλημάτων αρχείων ή φακέλων που λείπουν στο OneDrive ή το SharePoint
 
@@ -35,7 +35,7 @@ ms.locfileid: "43692837"
 
 **Χρήση καταγραφής ελέγχου ή του παραθύρου δραστηριότητας αρχείου για τον έλεγχο του ιστορικού του αρχείου**
 
-[Ελέγξτε τις αναφορές](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> ελέγχου με ταδιοποιητική σας [εδώ](https://protection.office.com/#/unifiedauditlog)
+[Ελέγξτε τις εκθέσεις](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> ελέγχου με την πλοήγηση [εδώ](https://protection.office.com/#/unifiedauditlog)
 
 Χρησιμοποιήστε το παράθυρο [δραστηριότητας αρχείου](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) για να ελέγξετε το ιστορικό του αρχείου.
 

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761168"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511724"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Εξερχόμενο μήνυμα ηλεκτρονικού ταχυδρομείου στο φάκελο ανεπιθύμητης αλληλογραφίας
 
 Εάν βλέπετε τα εξερχόμενα μηνύματα να επισημαίνονται ως Ανεπιθύμητα, ακολουθήστε τα εξής βήματα:
 
-- Εάν δεν το έχετε κάνει ήδη, εξετάστε το ενδεχόμενο [να ρυθμίσετε τις παραμέτρους των εξερχόμενων ειδοποιήσεων πολιτικής ανεπιθύμητης αλληλογραφίας](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Εάν δεν το έχετε κάνει ήδη, εξετάστε το ενδεχόμενο [να ρυθμίσετε τις παραμέτρους των εξερχόμενων ειδοποιήσεων πολιτικής ανεπιθύμητης αλληλογραφίας](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Χρησιμοποιήστε [την ανίχνευση μηνυμάτων](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) για να δείτε αν το εξερχόμενο μήνυμα έχει την τιμή συμβάντος **Ανεπιθύμητη αλληλογραφία** με τις πρόσθετες λεπτομέρειες: Χρήση χώρου **συγκέντρωσης παράδοσης υψηλού κινδύνου**.
+- Χρησιμοποιήστε [την ανίχνευση μηνυμάτων](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) για να δείτε αν το εξερχόμενο μήνυμα έχει την τιμή συμβάντος **Ανεπιθύμητη αλληλογραφία** με τις πρόσθετες λεπτομέρειες: Χρήση χώρου **συγκέντρωσης παράδοσης υψηλού κινδύνου**.
 
   Για αυτά τα μηνύματα, ελέγξτε το περιεχόμενο του μηνύματος για να δείτε τι μπορεί να θεωρηθεί ανεπιθύμητο. Για παράδειγμα, οι υπογραφές μπορεί μερικές φορές να προκαλέσουν προβλήματα σε πολλούς χρήστες.
 

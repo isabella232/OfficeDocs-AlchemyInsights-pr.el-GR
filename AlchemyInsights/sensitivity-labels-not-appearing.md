@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758430"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511652"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Οι ετικέτες ευαισθησίας δεν εμφανίζονται
 
-Οι ετικέτες ευαισθησίας σάς επιτρέπουν να ταξινομείτε και να προστατεύετε το ευαίσθητο περιεχόμενό σας. Μπορούν να δημιουργηθούν στο κέντρο συμμόρφωσης Microsoft 365, στο κέντρο ασφαλείας Microsoft 365 ή στο Κέντρο συμμόρφωσης & ασφαλείας της Microsoft 365 στην περιοχή Ετικέτες ταξινόμησης > ευαισθησίας. Για να μάθετε περισσότερα σχετικά με αυτήν τη δυνατότητα, ανατρέξτε στο θέμα [Επισκόπηση ετικετών ευαισθησίας](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Οι ετικέτες ευαισθησίας σάς επιτρέπουν να ταξινομείτε και να προστατεύετε το ευαίσθητο περιεχόμενό σας. Μπορούν να δημιουργηθούν στο κέντρο συμμόρφωσης Microsoft 365, στο κέντρο ασφαλείας Microsoft 365 ή στο Κέντρο συμμόρφωσης & ασφαλείας της Microsoft 365 στην περιοχή Ετικέτες ταξινόμησης > ευαισθησίας. Για να μάθετε περισσότερα σχετικά με αυτήν τη δυνατότητα, ανατρέξτε στο θέμα [Επισκόπηση ετικετών ευαισθησίας](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Εάν ρυθμίσατε τις παραμέτρους των ετικετών ευαισθησίας σας, αλλά δεν εμφανίζονται στις εφαρμογές του Office, ελέγξτε τα εξής:
 
-- Επιβεβαιώστε ότι η ετικέτα ευαισθησίας έχει [δημοσιευτεί](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) στους χρήστες και τις ομάδες που θέλετε.
+- Επιβεβαιώστε ότι η ετικέτα ευαισθησίας έχει [δημοσιευτεί](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) στους χρήστες και τις ομάδες που θέλετε.
 
 - Επιβεβαιώστε ότι ο χρήστης χρησιμοποιεί μια εφαρμογή που υποστηρίζει ετικέτες ευαισθησίας - δείτε [ετικέτες ευαισθησίας στο έγγραφό σας](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
