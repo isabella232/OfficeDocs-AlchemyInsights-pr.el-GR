@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761296"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510968"
 ---
 # <a name="more-info-about-retention-policies"></a>Περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης
 
@@ -27,15 +27,15 @@ ms.locfileid: "43761296"
 ## <a name="a-from-security-and-compliance-center"></a>Α) Από το Κέντρο Ασφάλειας και Συμμόρφωσης
 
 - Μετάβαση στην ασφάλεια και τη συμμόρφωση > διαχείριση ς δεδομένων > διατήρηση
-  - Δείτε [αυτο](https://docs.microsoft.com/office365/securitycompliance/retention-policies) το άρθρο
+  - Δείτε [αυτο](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) το άρθρο
 
 - Μεταβείτε στην > ασφάλειας και συμμόρφωσης > eDiscovery> προηγμένο eDiscovery 
-  - Δείτε [αυτο](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) το άρθρο
+  - Δείτε [αυτο](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) το άρθρο
 
 - Μετάβαση στις ταξινομήσεις > ασφάλειας και συμμόρφωσης > διατήρηση
   - Δείτε αυτά τα άρθρα
-    - [Ετικέτες ευαισθησίας](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Επισκόπηση ετικετών](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Ετικέτες ευαισθησίας](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Επισκόπηση ετικετών](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>Β) Πολιτικές eDiscovery παλαιού τύπου
 

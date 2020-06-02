@@ -1,9 +1,9 @@
 ---
-title: 2419-δεν είναι δυνατή η-σε-Ενεργοποίηση-έλεγχος
+title: 2419-ανίκανος-να-ενεργοποίηση-έλεγχος
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 3af01c03711eed646f0009afb5bea685bc358196
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065645"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510428"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Δεν είναι δυνατή η ενεργοποίηση του ενιαίου ελέγχου
+# <a name="unable-to-enable-unified-auditing"></a>Δεν είναι δυνατή η ενεργοποίηση ενοποιημένου ελέγχου
 
-Κατά την προσπάθειά σας να ενεργοποιήσετε τον ενοποιημένο έλεγχο για τον οργανισμό σας Office 365, ενδέχεται να εμφανιστεί σφάλμα παρόμοιο τα εξής:
+Όταν προσπαθείτε να ενεργοποιήσετε τον ενοποιημένο έλεγχο για τον οργανισμό σας, ενδέχεται να λάβετε ένα σφάλμα παρόμοιο με το ακόλουθο:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -28,17 +28,17 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Για να επιλύσετε αυτό το ζήτημα, ακολουθήστε τα εξής βήματα:
 
-1. [Συνδεθείτε με το Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Σύνδεση στο Ηλεκτρονικό Powershell του Exchange](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
-2. Εκτελέστε την ακόλουθη cmdlet:
+2. Εκτελέστε το ακόλουθο cmdlet:
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. Περιμένετε μέχρι 60 λεπτά για να τεθούν σε ισχύ την προηγούμενη ρύθμιση.
+3. Περιμένετε 60 λεπτά για να τεθεί σε ισχύ η προηγούμενη ρύθμιση.
 
-4. Εκτελέστε την ακόλουθη εντολή σε PowerShell ηλεκτρονική ανταλλαγή:
+4. Εκτελέστε την ακόλουθη εντολή στο Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
@@ -46,6 +46,6 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Για περισσότερες πληροφορίες, ανατρέξτε στα ακόλουθα άρθρα:
 
-- [Συνδεθείτε με το Exchange Online PowerShell χρησιμοποιώντας έλεγχο ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Σύνδεση στο Exchange Online PowerShell με χρήση ελέγχου ταυτότητας πολλών παραγόντων](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Ενεργοποίηση ή απενεργοποίηση της αναζήτησης αρχείου καταγραφής ελέγχου Office 365](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off)
+-  [Ενεργοποίηση ή απενεργοποίηση της αναζήτησης καταγραφής ελέγχου](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474425"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509636"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Θέματα υπογραφής σε εφαρμογές της Microsoft 365
 
@@ -25,7 +25,7 @@ ms.locfileid: "44474425"
 - Για τα Windows, ανατρέξτε στο θέμα [Συστάσεις για την επίλυση συνηθισμένων ζητημάτων εισόδου](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Για Mac, ανατρέξτε στο θέμα [Δεν είναι δυνατή η είσοδος σε μια εφαρμογή του Office 2016 για Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Σημείωση:** Δεν **συνιστάται**η απενεργοποίηση του σύγχρονου ελέγχου ταυτότητας (ADAL) ή της διαχείρισης λογαριασμών Web (WAM) για επιδιόρθωση ζητημάτων εισόδου ή ενεργοποίησης . Εάν τα σφάλματα παρουσιάζονται κατά τη σύνδεση με το Microsoft 365 χρησιμοποιώντας το Office 2013, βεβαιωθείτε ότι [ενεργοποιείτε το σύγχρονο έλεγχο ταυτότητας](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) για το πρόγραμμα-πελάτη του Office.
+**Σημείωση:** Δεν **συνιστάται**η απενεργοποίηση του σύγχρονου ελέγχου ταυτότητας (ADAL) ή της διαχείρισης λογαριασμών Web (WAM) για επιδιόρθωση ζητημάτων εισόδου ή ενεργοποίησης . Εάν τα σφάλματα παρουσιάζονται κατά τη σύνδεση με το Microsoft 365 χρησιμοποιώντας το Office 2013, βεβαιωθείτε ότι [ενεργοποιείτε το σύγχρονο έλεγχο ταυτότητας](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) για το πρόγραμμα-πελάτη του Office.
 
 Για συγκεκριμένες ενέργειες αντιμετώπισης προβλημάτων, ανατρέξτε στα θέματα:
 
