@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765989"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508664"
 ---
 # <a name="install-visio"></a>Εγκατάσταση του Visio
 
@@ -25,7 +25,7 @@ ms.locfileid: "43765989"
 
 **Σημείωση:** Το Ηλεκτρονικό πρόγραμμα του Visio 1 δεν περιλαμβάνει μια έκδοση υπολογιστή του Visio, επομένως δεν είναι δυνατή η εγκατάσταση.
 
-Εάν έχετε συνδρομή στο Ηλεκτρονικό πρόγραμμα 2 του Visio, πρέπει να [εκχωρήσετε μια άδεια χρήσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) σε ένα χρήστη, ή δεν θα έχει την επιλογή να εγκαταστήσει το Visio από **τις εγκαταστάσεις μου** στην πύλη ["Ο λογαριασμός μου"](https://portal.office.com/account#installs). 
+Εάν έχετε συνδρομή στο Ηλεκτρονικό πρόγραμμα 2 του Visio, πρέπει να [εκχωρήσετε μια άδεια χρήσης](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) σε ένα χρήστη, ή δεν θα έχει την επιλογή να εγκαταστήσει το Visio από **τις εγκαταστάσεις μου** στην πύλη ["Ο λογαριασμός μου"](https://portal.office.com/account#installs). 
 
 Οι εκδόσεις με άδειες χρήσης βάσει ποσότητας του Visio Standard ή του Visio Professional συσχετίζονται με λογαριασμούς Της Microsoft και δεν είναι δυνατή η διαχείρισή τους στο κέντρο διαχείρισης. Για να εγκαταστήσουν αυτές τις εκδόσεις, οι χρήστες πρέπει να συνδεθούν [σε account.microsoft.com](https://account.microsoft.com) με το λογαριασμό Microsoft που σχετίζεται με αυτήν την έκδοση του Visio.
 

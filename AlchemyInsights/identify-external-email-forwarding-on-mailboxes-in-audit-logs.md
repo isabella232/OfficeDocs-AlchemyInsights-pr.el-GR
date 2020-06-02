@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716460"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508952"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Προσδιορισμός της ρύθμισης παραμέτρων εξωτερικής προώθησης ηλεκτρονικού ταχυδρομείου σε γραμματοκιβώτια
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716460"
 
 1. Συνδεθείτε στο [Κέντρο & συμμόρφωσης ασφαλείας της Microsoft 365](https://protection.office.com/).
 
-2. Μεταβείτε στη σελίδα**αναζήτησης αρχείου καταγραφής ελέγχου αναζήτησης.** **Search** > 
+2. Μεταβείτε **Search**στη σελίδα  >  **αναζήτησης αρχείου καταγραφής ελέγχου αναζήτησης.**
 
 3. Επιλέξτε το εύρος ημερομηνιών στα πεδία **Ημερομηνία έναρξης** και **Ημερομηνία λήξης.** Δεν χρειάζεται να καθορίσετε ένα όνομα χρήστη. Βεβαιωθείτε ότι το πεδίο **"Δραστηριότητες"** έχει οριστεί σε **"Εμφάνιση αποτελεσμάτων για όλες τις δραστηριότητες"**.
 
@@ -39,4 +39,4 @@ ms.locfileid: "43716460"
 
 - **UserId**: Ο χρήστης που έχει ρυθμίσει τις παραμέτρους της προώθησης ηλεκτρονικού ταχυδρομείου στο γραμματοκιβώτιο στο πεδίο **ObjectId.**
 
-Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Προσδιορισμός του συνόλου προώθησης ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Προσδιορισμός του συνόλου προώθησης ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716388"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508916"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Προσδιορισμός διεύθυνσης IP και προγράμματος-πελάτη στα αρχεία καταγραφής ελέγχου
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716388"
 
 1. Συνδεθείτε στο [Κέντρο & συμμόρφωσης ασφαλείας της Microsoft 365](https://protection.office.com/).
 
-2. Μεταβείτε στη σελίδα**αναζήτησης αρχείου καταγραφής ελέγχου αναζήτησης.** **Search** > 
+2. Μεταβείτε **Search**στη σελίδα  >  **αναζήτησης αρχείου καταγραφής ελέγχου αναζήτησης.**
 
    Αν ενδιαφέρεστε για μια συγκεκριμένη δραστηριότητα, επιλέξτε την από τη λίστα **Δραστηριότητες.** Εάν όχι, όλες οι δραστηριότητες θα επιστραφούν για τον επιλεγμένο χρήστη (προεπιλεγμένη ρύθμιση).
 
@@ -35,4 +35,4 @@ ms.locfileid: "43716388"
 
 Στα αποτελέσματα, μπορείτε να δείτε τη διεύθυνση IP για αυτήν τη δραστηριότητα στο παράθυρο αποτελεσμάτων. Επιλέξτε την καρτέλα ελέγχου για να δείτε **λεπτομερείς** πληροφορίες στο αναδυόμενο στοιχείο Λεπτομέρειες (για παράδειγμα, Πρόγραμμα-πελάτης, Χρήστης που εκτέλεσε ενέργεια κ.λπ.).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εύρεση της διεύθυνσης IP του υπολογιστή που χρησιμοποιείται για την πρόσβαση σε λογαριασμό που έχει παραβιαστεί](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εύρεση της διεύθυνσης IP του υπολογιστή που χρησιμοποιείται για την πρόσβαση σε λογαριασμό που έχει παραβιαστεί](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

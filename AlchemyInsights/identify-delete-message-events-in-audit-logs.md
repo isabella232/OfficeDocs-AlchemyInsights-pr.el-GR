@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716496"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508988"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Αρχεία καταγραφής ελέγχου για διαγραμμένα μηνύματα ηλεκτρονικού ταχυδρομείου
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716496"
 
 Στα αποτελέσματα, επιλέξτε μια καρτέλα ελέγχου. Στο αναδυόμενο στοιχείο λεπτομερειών, κάντε κλικ στην επιλογή **Περισσότερες πληροφορίες**. Πρόσθετες πληροφορίες σχετικά με το διαγραμμένο στοιχείο (για παράδειγμα, τη γραμμή θέματος και τη θέση του στοιχείου κατά τη διαγραφή του) εμφανίζονται στο πεδίο **"Επηρεαζόμενα στοιχεία".** Η ιδιότητα **ClientInfoString** θα εμφανίσει εάν η διαγραφή έγινε στο Outlook, το Outlook στο web (παλαιότερα γνωστό ως Outlook Web App) ή οποιαδήποτε άλλη συσκευή.
 
-Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Προσδιορισμός του συνόλου προώθησης ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Προσδιορισμός του συνόλου προώθησης ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Σημείωση**: Δεν μπορείτε να ανακτήσετε διαγραμμένα στοιχεία χρησιμοποιώντας τη δυνατότητα καταγραφής ελέγχου. Για να ανακτήσετε διαγραμμένα μηνύματα στο Outlook στο web, ανατρέξτε στο θέμα [Ανάκτηση διαγραμμένων στοιχείων στο Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

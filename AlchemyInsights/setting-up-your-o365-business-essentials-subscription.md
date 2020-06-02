@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767789"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509348"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Ρύθμιση της συνδρομής O365 Business Essentials
 
@@ -23,11 +23,11 @@ ms.locfileid: "43767789"
     
 - Μεταβείτε στο κέντρο διαχείρισης του [Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Για να ξεκινήσετε τον οδηγό, επιλέξτε **Μετάβαση στην εγκατάσταση**. Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Προσθήκη τομέα στο Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Για να ξεκινήσετε τον οδηγό, επιλέξτε **Μετάβαση στην εγκατάσταση**. Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Προσθήκη τομέα στο Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Εισαγωγή ηλεκτρονικού ταχυδρομείου
   
-- Μετακινήστε τα υπάρχοντα μηνύματα ηλεκτρονικού ταχυδρομείου και τις επαφές σας από άλλα συστήματα ηλεκτρονικού ταχυδρομείου στο γραμματοκιβώτιο microsoft 365, ώστε να μπορείτε να τα δείτε όλα σε ένα σημείο. Για τις επιλογές μετεγκατάστασης, [μετεγκατάσταση ηλεκτρονικού ταχυδρομείου και επαφών στο Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Μετακινήστε τα υπάρχοντα μηνύματα ηλεκτρονικού ταχυδρομείου και τις επαφές σας από άλλα συστήματα ηλεκτρονικού ταχυδρομείου στο γραμματοκιβώτιο microsoft 365, ώστε να μπορείτε να τα δείτε όλα σε ένα σημείο. Για τις επιλογές μετεγκατάστασης, [μετεγκατάσταση ηλεκτρονικού ταχυδρομείου και επαφών στο Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Σύνδεση λογαριασμών ηλεκτρονικού ταχυδρομείου
     
@@ -41,6 +41,6 @@ ms.locfileid: "43767789"
   
 - Για να μάθετε ποιες θέσεις αποθήκευσης είναι καλύτερες για την επιχείρησή σας, ανατρέξτε στο θέμα [Πού μπορείτε να αποθηκεύσετε αρχεία στο Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Όλοι απολαύουν αυτόματα μιας θέσης αποθήκευσης στο cloud **του OneDrive** κατά τη δημιουργία λογαριασμών Microsoft 365 για αυτούς. Με το OneDrive, μπορείτε να έχετε πρόσβαση σε αρχεία σε όλους τους υπολογιστές, τα τηλέφωνα και τα tablet σας. 
     
-Αναλυτικά βήματα για την εγκατάσταση μπορείτε να βρείτε σε [αυτό το άρθρο](https://docs.microsoft.com/office365/admin/setup/setup).
+Αναλυτικά βήματα για την εγκατάσταση μπορείτε να βρείτε σε [αυτό το άρθρο](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 
