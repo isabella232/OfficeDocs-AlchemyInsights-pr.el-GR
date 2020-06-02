@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714770"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507170"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Δεν είναι δυνατή η εγκατάσταση ή η εκτέλεση του εργαλείου εξαγωγής eDiscovery;
 
@@ -41,9 +41,9 @@ ms.locfileid: "43714770"
 
     Άλλα προγράμματα περιήγησης, όπως το Google Chrome και το Mozilla Firefox, δεν υποστηρίζονται.
 
-- Ο οργανισμός σας μπορεί να συνδεθεί με το τελικό σημείο στο Azure, το οποίο είναι ** \*.blob.core.windows.net** (ο χαρακτήρας μπαλαντέρ αντιπροσωπεύει ένα μοναδικό αναγνωριστικό για την εργασία εξαγωγής).
+- Ο οργανισμός σας μπορεί να συνδεθεί με το τελικό σημείο στο Azure, το οποίο είναι ** \* .blob.core.windows.net** (ο χαρακτήρας μπαλαντέρ αντιπροσωπεύει ένα μοναδικό αναγνωριστικό για την εργασία εξαγωγής).
 
-- Σας έχει ανατεθεί ο ρόλος εξαγωγής &amp; στο Κέντρο συμμόρφωσης ασφαλείας ασφαλείας του Microsoft 365. Από προεπιλογή, αυτός ο ρόλος εκχωρείται μόνο στην ομάδα ρόλων του EDiscovery Manager. Ανατρέξτε στο θέμα [Εκχώρηση δικαιωμάτων eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Σας έχει ανατεθεί ο ρόλος εξαγωγής στο Κέντρο συμμόρφωσης ασφαλείας ασφαλείας του Microsoft &amp; 365. Από προεπιλογή, αυτός ο ρόλος εκχωρείται μόνο στην ομάδα ρόλων του EDiscovery Manager. Ανατρέξτε στο θέμα [Εκχώρηση δικαιωμάτων eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εξαγωγή αποτελεσμάτων αναζήτησης περιεχομένου](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εξαγωγή αποτελεσμάτων αναζήτησης περιεχομένου](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

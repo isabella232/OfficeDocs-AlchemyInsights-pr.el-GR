@@ -13,18 +13,18 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ef7333168c2ce756a209154e3c7989b857ca1ab6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703715"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507062"
 ---
 # <a name="block-access-to-a-former-employee"></a>Αποκλεισμός πρόσβασης σε πρώην υπάλληλο
 
 Έχετε έναν υπάλληλο που φεύγει και πρέπει να εμποδίσει την πρόσβαση στα στοιχεία και το ηλεκτρονικό ταχυδρομείο; Κάντε τα εξής.
   
-1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα [Ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) **χρηστών.** \>
+1. Στο κέντρο διαχείρισης, **Users** μεταβείτε στη σελίδα \> [Ενεργοί χρήστες χρηστών.](https://go.microsoft.com/fwlink/p/?linkid=834822)
 
 2. Επιλέξτε το όνομα του χρήστη που θέλετε να αποκλείσετε.
 
@@ -32,4 +32,4 @@ ms.locfileid: "43703715"
 
 4. Επιλέξτε **Αποκλεισμός της υπογραφής του χρήστη στο** \> **Αποθήκευση αλλαγών**.
 
-**Σημείωση:** Η έξοδος για ορισμένες εφαρμογές ενδέχεται να μην είναι άμεση. Παρακολούθηση με περισσότερες ενέργειες σε αυτό το άρθρο: [Κατάργηση πρώην υπαλλήλου](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Σημείωση:** Η έξοδος για ορισμένες εφαρμογές ενδέχεται να μην είναι άμεση. Παρακολούθηση με περισσότερες ενέργειες σε αυτό το άρθρο: [Κατάργηση πρώην υπαλλήλου](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)

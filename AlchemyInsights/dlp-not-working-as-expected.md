@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704413"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507478"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP δεν λειτουργεί όπως αναμένεται
 
@@ -36,18 +36,18 @@ ms.locfileid: "43704413"
   
 - **Ενσωματωμένοι ευαίσθητοι τύποι πληροφοριών**
 
-    Για πληροφορίες σχετικά με τους ενσωματωμένους τύπους ευαίσθητων και τι αναζητά μια πολιτική DLP κατά τον εντοπισμό του τύπου "Ευαίσθητος", ανατρέξτε στο θέμα: [Τι αναζητούν οι τύποι ευαίσθητων πληροφοριών](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Για πληροφορίες σχετικά με τους ενσωματωμένους τύπους ευαίσθητων και τι αναζητά μια πολιτική DLP κατά τον εντοπισμό του τύπου "Ευαίσθητος", ανατρέξτε στο θέμα: [Τι αναζητούν οι τύποι ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
 - **Προσαρμοσμένοι τύποι ευαίσθητων πληροφοριών**
 
-    Εάν προσπαθείτε να δημιουργήσετε προσαρμοσμένους τύπους ευαίσθητων πληροφοριών, χρησιμοποιήστε το ακόλουθο άρθρο για πληροφορίες σχετικά με τον τρόπο δημιουργίας ενός προσαρμοσμένου ευαίσθητου τύπου: [Δημιουργήστε έναν προσαρμοσμένο τύπο ευαίσθητων πληροφοριών](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Εάν προσπαθείτε να δημιουργήσετε προσαρμοσμένους τύπους ευαίσθητων πληροφοριών, χρησιμοποιήστε το ακόλουθο άρθρο για πληροφορίες σχετικά με τον τρόπο δημιουργίας ενός προσαρμοσμένου ευαίσθητου τύπου: [Δημιουργήστε έναν προσαρμοσμένο τύπο ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
 
 **Δοκιμή πολιτικής DLP**
 
-Για να ελέγξετε τα δεδομένα σας με ενσωματωμένο ή προσαρμοσμένο τύπο ευαίσθητων πληροφοριών, χρησιμοποιήστε την επιλογή **Τύπος δοκιμής** στην περιοχή **Ταξινομήσεις Ευαίσθητοι** > **τύποι πληροφοριών**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Δοκιμή προσαρμοσμένων τύπων ευαίσθητων πληροφοριών](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Για να ελέγξετε τα δεδομένα σας με ενσωματωμένο ή προσαρμοσμένο τύπο ευαίσθητων πληροφοριών, χρησιμοποιήστε την επιλογή **Τύπος δοκιμής** στην περιοχή **Ταξινομήσεις**  >  **Ευαίσθητοι τύποι πληροφοριών**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Δοκιμή προσαρμοσμένων τύπων ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Εκθέσεις**
   
-- Λάβετε ευαίσθητες πληροφορίες δεδομένων με [τις αναφορές DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Λάβετε ευαίσθητες πληροφορίες δεδομένων με [τις αναφορές DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Δείτε συγκεκριμένες λεπτομέρειες του συμβάντος με μια [αναφορά περιστατικού](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Δείτε συγκεκριμένες λεπτομέρειες του συμβάντος με μια [αναφορά περιστατικού](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).

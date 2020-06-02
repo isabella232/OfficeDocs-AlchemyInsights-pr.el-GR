@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788666"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507026"
 ---
 # <a name="enable-an-archive-mailbox"></a>Ενεργοποίηση γραμματοκιβωτίου αρχειοθέτησης
 
@@ -23,11 +23,11 @@ ms.locfileid: "43788666"
   
 Δείτε πώς μπορείτε να δημιουργήσετε ένα γραμματοκιβώτιο αρχειοθέτησης:
   
-1. Πήγαινε [https://protection.office.com](https://protection.office.com)στο .
+1. Πήγαινε στο [https://protection.office.com](https://protection.office.com) .
 
 2. Πραγματοποιήστε είσοδο στο Microsoft 365 χρησιμοποιώντας το λογαριασμό διαχειριστή σας.
 
-3. Στο αριστερό τμήμα παραθύρου του Κέντρου συμμόρφωσης &amp; ασφαλείας, επιλέξτε **Αρχείο** **διαχείρισης** \> πληροφοριών .
+3. Στο αριστερό τμήμα παραθύρου του &amp; Κέντρου συμμόρφωσης ασφαλείας, επιλέξτε Αρχείο **διαχείρισης πληροφοριών** \> **Archive**.
 
 4. Επιλέξτε το χρήστη του οποίου το γραμματοκιβώτιο αρχειοθέτησης θέλετε να ενεργοποιήσετε.
 
@@ -43,7 +43,7 @@ ms.locfileid: "43788666"
 
 1. Μεταβείτε στο [κέντρο διαχείρισης](https://outlook.office365.com/ecp) του Exchange και συνδεθείτε χρησιμοποιώντας το λογαριασμό διαχειριστή.
 
-2. Μεταβείτε στην **κοινόχρηστη θέση παραλήπτες** > **Shared**.
+2. Μεταβείτε στην **κοινόχρηστη θέση παραλήπτες**  >  **Shared**.
 
 3. Επιλέξτε το κοινόχρηστο γραμματοκιβώτιο.
 
@@ -51,6 +51,6 @@ ms.locfileid: "43788666"
 
 Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:
   
-- [Ενεργοποίηση γραμματοκιβωτίων αρχειοθέτησης](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Ενεργοποίηση γραμματοκιβωτίων αρχειοθέτησης](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Ρύθμιση πολιτικής αρχειοθέτησης και διαγραφής](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713466"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506738"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Προσομοιωτής επίθεσης στο Microsoft 365
 
 - Σας λείπει ο προσομοιωτής επίθεσης; Το Attack Simulator απαιτεί **το Πρόγραμμα προστασίας από απειλές για προχωρημένους του Office 365 (Σχέδιο ATP 2)** ή **το Office 365 για μεγάλες επιχειρήσεις E5**. Το Attack Simulator **δεν** περιλαμβάνεται στο Πρόγραμμα προστασίας από απειλές για προχωρημένους του Office 365 (Πρόγραμμα ATP 1), στο Office 365 για μεγάλες επιχειρήσεις E3 ή σε οποιεσδήποτε συνδρομές microsoft 365 εφαρμογών για επιχειρήσεις.
 
-- Ο λογαριασμός που χρησιμοποιείτε για την έναρξη προσομοιωμένες επιθέσεις απαιτεί καθολικά δικαιώματα διαχειριστή ή διαχειριστή ασφαλείας και έλεγχο ταυτότητας πολλών παραγόντων (MFA). Για περισσότερες πληροφορίες σχετικά με τις απαιτήσεις του Attack Simulator, ανατρέξτε [σε αυτό το θέμα](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Ο λογαριασμός που χρησιμοποιείτε για την έναρξη προσομοιωμένες επιθέσεις απαιτεί καθολικά δικαιώματα διαχειριστή ή διαχειριστή ασφαλείας και έλεγχο ταυτότητας πολλών παραγόντων (MFA). Για περισσότερες πληροφορίες σχετικά με τις απαιτήσεις του Attack Simulator, ανατρέξτε [σε αυτό το θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Σημαντικά πράγματα που πρέπει να ξέρετε για τις προσομοιώσεις **επίθεσης με κωδικό πρόσβασης ωμής βίας:**
 
