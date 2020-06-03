@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: el-GR
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534846"
+ms.locfileid: "44542008"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Επιδιόρθωση μηνυμάτων που έχουν κολλήσει στα εξερχόμενα
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Επιδιόρθωση μηνυμάτων που έχουν κολλήσει στα εξερχόμενα με SaRA
 
-Συνιστάται να ξεκινήσετε εκτελώντας το σενάριο ["Αντιμετωπίζετε προβλήματα κατά την αποστολή, λήψη ή εύρεση μηνυμάτων ηλεκτρονικού ταχυδρομείου"](https://aka.ms/SaRA-OutlookSendReceive) από το εργαλείο [υποστήριξης και αποκατάστασης της Microsoft.](https://diagnostics.office.com/#/)
-
-Όταν ένα μήνυμα κολλήσει στα Εξερχόμενα, η πιο πιθανή αιτία είναι ένα μεγάλο συνημμένο ή η επιλογή "Άμεση αποστολή όταν είναι συνδεδεμένο".
-Για περισσότερες λεπτομέρειες, ανατρέξτε στα θέματα:
-- [Βίντεο: Αποστολή ή διαγραφή μηνύματος ηλεκτρονικού ταχυδρομείου που έχει κολλήσει](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Το μήνυμα ηλεκτρονικού ταχυδρομείου παραμένει στο φάκελο "Εξερχόμενα" μέχρι να ξεκινήσετε με μη αυτόματο τρόπο μια λειτουργία αποστολής/παραλαβής στο Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Συνιστάται να ξεκινήσετε εκτελώντας το σενάριο ["Αντιμετωπίζετε προβλήματα κατά την αποστολή, λήψη ή εύρεση μηνυμάτων ηλεκτρονικού ταχυδρομείου"](https://aka.ms/SaRA-OutlookSendReceive) στον υπολογιστή που πραγματοποιείται από το εργαλείο [βοηθός υποστήριξης και αποκατάστασης της Microsoft (SaRa).](https://diagnostics.office.com/#/)
