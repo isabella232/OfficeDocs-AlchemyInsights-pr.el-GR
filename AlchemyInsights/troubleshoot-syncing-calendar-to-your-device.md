@@ -1,5 +1,5 @@
 ---
-title: 3800017 αντιμετώπιση προβλημάτων στο ημερολόγιο συγχρονίζει στη συσκευή σας
+title: 3800017 Αντιμετώπιση προβλημάτων συγχρονισμού ημερολογίου με τη συσκευή σας
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665796"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Αντιμετώπιση προβλημάτων συγχρονισμού του ημερολογίου σας στη συσκευή σας
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Αντιμετώπιση προβλημάτων συγχρονισμού του ημερολογίου σας με τη συσκευή σας
 
-Εάν αντιμετωπίζετε ζητήματα συγχρονισμού κατά τη ρύθμιση του ηλεκτρονικού ταχυδρομείου κινητού για πρώτη φορά, ανατρέξτε στο θέμα [δεν μπορεί να συγχρονίσει το ημερολόγιο και τις επαφές με το τηλέφωνο ή το tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Αν αντιμετωπίζετε προβλήματα συγχρονισμού κατά τη ρύθμιση του ηλεκτρονικού ταχυδρομείου για κινητά για πρώτη φορά, ανατρέξτε στο θέμα [Δεν είναι δυνατή η συγχρονισμού ημερολογίου και επαφών με το τηλέφωνο ή το tablet μου](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
   

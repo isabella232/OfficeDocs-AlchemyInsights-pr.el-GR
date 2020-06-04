@@ -1,5 +1,5 @@
 ---
-title: Υποβολή αιτήσεων για υποστήριξη PowerApps ή ροής της Microsoft
+title: Υποβολή αιτήσεων υποστήριξης του PowerApps ή του Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559481"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Υποβολή αιτήσεων για υποστήριξη PowerApps ή ροής της Microsoft
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Υποβολή αιτήσεων υποστήριξης του PowerApps ή του Microsoft Flow
 
-Εάν είστε μια **PowerApps** ή πελάτη **Ροής της Microsoft** , υποβάλετε το εισιτήριο μέσω της νέας [ενέργειας πλατφόρμα Κέντρο διαχείρισης](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Η νέα πύλη παρέχει μια πιο απευθείας διαδρομή για υποστήριξη που είναι βελτιστοποιημένη για PowerApps και άλλα προϊόντα της πλατφόρμας ενέργειας.
+Εάν είστε πελάτης **του PowerApps** ή **του Microsoft Flow,** υποβάλετε το εισιτήριό σας μέσω του νέου [Κέντρου διαχείρισης της πλατφόρμας Power](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Η νέα πύλη παρέχει μια πιο άμεση διαδρομή για υποβοηθούμενη υποστήριξη που έχει βελτιστοποιηθεί για το PowerApps και άλλα προϊόντα πλατφόρμας Power.
 
-[Υποβάλετε αίτημα υποστήριξης ροής της Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Υποβολή αίτησης υποστήριξης του Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

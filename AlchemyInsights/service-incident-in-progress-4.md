@@ -1,5 +1,5 @@
 ---
-title: Υπηρεσία περιστατικό σε εξέλιξη
+title: Περιστατικό υπηρεσίας σε εξέλιξη
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666300"
 ---
-# <a name="service-incident-in-progress"></a>Υπηρεσία περιστατικό σε εξέλιξη
+# <a name="service-incident-in-progress"></a>Περιστατικό υπηρεσίας σε εξέλιξη
 
-Μπορεί να έχει επηρεαστεί από κάποιο περιστατικό υπηρεσίας ή συμβουλευτική που είναι εξετάζεται αυτήν τη στιγμή. Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση μεταβαίνοντας στη σελίδα [Εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Ενδέχεται να επηρεαστείτε από ένα περιστατικό υπηρεσίας ή μια συμβουλευτική που διερευνάται αυτήν τη στιγμή. Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση μεταβαίνει στη σελίδα ["Εύρυθμη λειτουργία υπηρεσίας".](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Για δική σας διευκόλυνση, μπορείτε να βρείτε μια σύνοψη των παρακάτω αυτό το περιστατικό:
+Για τη διευκόλυνσή σας, μπορείτε να βρείτε μια περίληψη αυτού του περιστατικού παρακάτω:
   
-> **Αριθμός συμβάντος:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Αριθμός περιστατικού:**[{Αναγνωριστικό περιστατικού}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Επιπτώσεις περιγραφή: {ImpactDescription}
+> Περιγραφή επιπτώσεων: {Περιγραφή επιπτώσεων}
