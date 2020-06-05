@@ -1,5 +1,5 @@
 ---
-title: Μήνυμα εφαρμογών του Office - Δεν ήταν δυνατή η εύρεση συσχετισμένων αδειών χρήσης του Office
+title: Μήνυμα εφαρμογών Microsoft 365 - Δεν ήταν δυνατή η εύρεση αδειών χρήσης του Office που σχετίζονται
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505091"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581651"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Μήνυμα εφαρμογών του Office - Δεν ήταν δυνατή η εύρεση συσχετισμένων αδειών χρήσης του Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Μήνυμα εφαρμογών Microsoft 365 - Δεν ήταν δυνατή η εύρεση αδειών χρήσης του Office που σχετίζονται
 
 Για να διορθώσετε αυτό το σφάλμα, δοκιμάστε τα εξής:
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505091"
 
 - Επαναφορά κατάστασης ενεργοποίησης του Office. Ανατρέξτε στο θέμα [Επαναφορά κατάστασης ενεργοποίησης των εφαρμογών Microsoft 365 για μεγάλες επιχειρήσεις](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση των εφαρμογών του Office στο Internet. 
+- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης, για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση των εφαρμογών Microsoft 365 στο Internet. 
 
 Για πρόσθετες λύσεις αντιμετώπισης προβλημάτων, ανατρέξτε στα θέματα:
 

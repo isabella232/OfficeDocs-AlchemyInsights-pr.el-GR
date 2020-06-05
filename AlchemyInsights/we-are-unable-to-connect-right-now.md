@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716172"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581875"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Επιδιόρθωση του μηνύματος "Δεν είναι δυνατή η σύνδεση των εφαρμογών του Office αυτήν τη στιγμή"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Επιδιόρθωση του μηνύματος "Δεν είναι δυνατή η σύνδεση των εφαρμογών microsoft 365 αυτήν τη στιγμή"
 
 Εάν λάβετε αυτό το μήνυμα, δοκιμάστε τα εξής:
 
-1. Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης, για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση στο Internet στις εφαρμογές του Office. Ανατρέξτε στο θέμα [Διευθύνσεις URL της Microsoft και περιοχές διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης, για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση στο Internet σε εφαρμογές της Microsoft 365. Ανατρέξτε στο θέμα [Διευθύνσεις URL της Microsoft και περιοχές διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Μεταβείτε **στην έναρξη** > **εκτέλεσης**και, στη συνέχεια, πληκτρολογήστε **services.msc**. Βεβαιωθείτε ότι εκτελούνται όλες οι ακόλουθες υπηρεσίες:
+2. Μεταβείτε **στην έναρξη**  >  **εκτέλεσης**και, στη συνέχεια, πληκτρολογήστε **services.msc**. Βεβαιωθείτε ότι εκτελούνται όλες οι ακόλουθες υπηρεσίες:
     - Αυτόματη εγκατάσταση συνδεδεμένων συσκευών δικτύου
     - Υπηρεσία λίστας δικτύου
     - Ευαισθητοποίηση τοποθεσίας δικτύου

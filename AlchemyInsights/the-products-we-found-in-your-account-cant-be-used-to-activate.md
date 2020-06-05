@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: a3996d97af29c56fc500a8624515bade49d7d056
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010563"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581911"
 ---
-# <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Επιδιόρθωση των εφαρμογών του Office "Τα προϊόντα που βρήκαμε στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για ενεργοποίηση"
+# <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Επιδιόρθωση του μηνύματος "Οι εφαρμογές microsoft 365 "Τα προϊόντα που βρήκαμε στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για την ενεργοποίηση"
 
 Εάν λάβετε αυτό το μήνυμα, δοκιμάστε τα εξής:
 
 - Ελέγξτε τη [σελίδα εύρυθμης λειτουργίας υπηρεσίας](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε εάν υπάρχουν γνωστά προβλήματα με την υπηρεσία.
 - Βεβαιωθείτε ότι η [κατάσταση της συνδρομής σας](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) είναι έγκυρη και ότι ο χρήσης που έχει επηρεαστεί [έχει εκχωρημένη μια έγκυρη άδεια χρήσης](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC) και είναι συνδεδεμένος στο Internet. 
 - Ανατρέξτε [στο σφάλμα του Office "Τα προϊόντα που βρήκαμε στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για ενεργοποίηση"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e).
-- Ανοίξτε μια εφαρμογή του Office, επιλέξτε**Λογαριασμός** **αρχείου** > και αποσυνδεθείτε από όλους τους λογαριασμούς. Πραγματοποιήστε ξανά είσοδο χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
+- Ανοίξτε μια εφαρμογή του Office, επιλέξτε **Λογαριασμός αρχείου**  >  **Account**και αποσυνδεθείτε από όλους τους λογαριασμούς. Πραγματοποιήστε ξανά είσοδο χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
 - Εκτελέστε το πρόγραμμα [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) και επανεκκινήστε τον υπολογιστή.
 - Στον υπολογιστή που επηρεάζεται, [επαναφέρετε την κατάσταση ενεργοποίησης του Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 

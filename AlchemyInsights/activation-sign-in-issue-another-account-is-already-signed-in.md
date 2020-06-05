@@ -1,5 +1,5 @@
 ---
-title: Ενεργοποίηση/είσοδος ζήτημα-ένας άλλος λογαριασμός έχει ήδη υπογραφεί στο
+title: Ενεργοποίηση/ζήτημα εισόδου -ένας άλλος λογαριασμός είναι ήδη συνδεδεμένος
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 16a4e148ee6eac2c4492a8c0a1a137e947fcf332
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: d2388acce0d110280fff7aeddfa700ce3faa09ca
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625844"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581375"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Επιδιόρθωση των εφαρμογών του Office "Λυπάμαι, ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος" μήνυμα
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Επιδιόρθωση του μηνύματος "Λυπούμαστε" των εφαρμογών Microsoft 365 ,ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος
 
 Για να διορθώσετε αυτό το σφάλμα, δοκιμάστε τα εξής:
 
-1. Ανοίξτε μια εφαρμογή του Office και [αποσυνδεθείτε](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) από τους υπάρχοντες λογαριασμούς χρήστη.   
-2. Χρησιμοποιώντας τα Windows **Ρυθμίσεις** > **λογαριασμών** > **ηλεκτρονικού ταχυδρομείου & λογαριασμούς**, καταργήστε όλους τους λογαριασμούς εργασίας εκτός από το λογαριασμό που επηρεάζεται. 
-3. Χρησιμοποιώντας τους **** > **λογαριασμούς** > ρυθμίσεων των Windows**πρόσβαση εργασία ή σχολείο**, αποσυνδέστε όλους τους λογαριασμούς εργασίας εκτός από το λογαριασμό που επηρεάζεται. 
-4. Επαναφορά κατάστασης ενεργοποίησης του Office. [Μάθε πώς](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. Ανοίξτε μια εφαρμογή Office και [Αποσυνδεθείτε](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) από όλους τους υπάρχοντες λογαριασμούς χρηστών.   
+2. Χρήση λογαριασμών **ρυθμίσεων**των Windows  >  **Accounts**  >  **Στείλτε email & λογαριασμούς**, καταργήστε όλους τους λογαριασμούς εργασίας εκτός από τον λογαριασμό που επηρεάζεται. 
+3. Χρήση **των**Λογαριασμών των Windows  >  **"Λογαριασμοί"**  >  **Access στην εργασία ή στο σχολείο**, αποσυνδέστε όλους τους λογαριασμούς εργασίας εκτός από τον λογαριασμό που επηρεάζεται. 
+4. Επαναφορά κατάστασης ενεργοποίησης του Office. [Μάθετε πώς](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. [Συνδεθείτε](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) χρησιμοποιώντας το λογαριασμό χρήστη που επηρεάζεται. 
+5. [Πραγματοποιήστε είσοδο](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) χρησιμοποιώντας τον λογαριασμό χρήστη που επηρεάζεται. 
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο στοιχείο ["Λυπάμαι, ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος σε αυτόν τον υπολογιστή" στο Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Για περισσότερες πληροφορίες, [ανατρέξτε στην επιλογή "Λυπούμαστε, ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος σε αυτόν τον υπολογιστή" στο Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
 
-Για Mac, ανατρέξτε [στο σημείο δεν είναι δυνατή η είσοδος σε ένα Office 2016 για Mac App](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+Για Mac, ανατρέξτε στο θέμα [Δεν μπορώ να συνδεθώ σε μια εφαρμογή Office 2016 για Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
