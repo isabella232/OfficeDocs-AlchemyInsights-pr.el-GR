@@ -12,18 +12,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4a5f95a1f21c5c78c80088145632d37cb9acb6d5
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: e7492d024667509e3766b4fd2569518d54ed5767
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316805"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581447"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Κλήση PSTN με το Skype για ηλεκτρονική επαγγελματική
+# <a name="pstn-calling-with-skype-for-business-online"></a>Κλήσεις PSTN με το Skype για ηλεκτρονική επιχείρηση
 
-Για να κάνετε κλήσεις PSTN στο Office 365, χρειάζεστε ένα [πρόγραμμα κλήσης office 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ή μια σύνδεση με την ΥΠΟΔΟΜΉ τηλεφωνίας PSTN εσωτερικής εγκατάστασης. Για περισσότερες πληροφορίες, ανατρέξτε στους ακόλουθους πόρους: 
+Για να πραγματοποιήσετε κλήσεις PSTN στο Microsoft 365, χρειάζεστε ένα [πρόγραμμα κλήσεων του Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ή μια σύνδεση με την υποδομή τηλεφωνίας PSTN εσωτερικής εγκατάστασης. Για περισσότερες πληροφορίες, ανατρέξτε στους παρακάτω πόρους: 
 
-- [Διαθεσιμότητα χώρας και περιοχής για διασκέψεις ήχου και προγράμματα κλήσης](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Συχνές ερωτήσεις για τη διάσκεψη ήχου](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Διαθεσιμότητα χώρας και περιοχής για προγράμματα διασκέψεων και κλήσεων ήχου](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Συνήθεις ερωτήσεις διασκέψεων ήχου](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Προσθήκη κεφαλαίων και διαχείριση μονάδων επικοινωνίας](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Καλούντες PSTN δεν είναι δυνατό να συμμετάσχετε σε ένα Skype για επαγγελματική κλήση διάσκεψης κλήσης](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Οι καλούντες PSTN δεν μπορούν να συμμετάσχουν σε κλήση διάσκεψης με κλήση κλήσης skype για επιχειρήσεις](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

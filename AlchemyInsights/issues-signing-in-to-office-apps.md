@@ -1,5 +1,5 @@
 ---
-title: Θέματα είσοδο σε εφαρμογές του Office
+title: Ζητήματα που σχετίζονται με την είσοδο στο Microsoft 365 εφαρμογές
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938221"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579937"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Διόρθωση το μήνυμα "Λυπούμαστε, έναν άλλο λογαριασμό από τον οργανισμό σας είναι ήδη συνδεδεμένοι" εφαρμογές του Office
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Επιδιόρθωση του μηνύματος "Λυπούμαστε" των εφαρμογών Microsoft 365 ,ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος
 
 Για να διορθώσετε αυτό το σφάλμα, δοκιμάστε τα εξής:
 
-- Καταργήστε όλους τους λογαριασμούς εργασίας, εκτός από το λογαριασμό που έχει επηρεαστεί, χρησιμοποιώντας τις ρυθμίσεις των Windows > **πρόσβασης δουλειά ή το σχολείο**.
-- [Απαλοιφή Office διαπιστευτήρια](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) χρησιμοποιώντας τη Διαχείριση διαπιστευτηρίων των Windows.<br/>
+- Καταργήστε όλους τους λογαριασμούς εργασίας, εκτός από τον λογαριασμό που επηρεάζεται, χρησιμοποιώντας τις Ρυθμίσεις των Windows > **την εργασία ή το σχολείο της Access**.
+- [Καταργήστε τις πιστοποιήσεις του Office χρησιμοποιώντας](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) τη Διαχείριση διαπιστευτηρίων των Windows.<br/>
     **Σημείωση:** Οι διαδρομές μητρώου για το Office 2016 έχουν αλλάξει σε 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Ανοίξτε μια εφαρμογή του Office, επιλέξτε **το αρχείο** > **λογαριασμού** > **Έξοδος**. Στη συνέχεια, συνδεθείτε χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για αναλυτικές πληροφορίες, δείτε: [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Για Mac, ανατρέξτε στην ενότητα " [δεν είναι δυνατό να εισέλθετε σε μια 2016 Office για Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)".
+- Ανοίξτε μια εφαρμογή **File**του Office, επιλέξτε  >  **Έξοδος λογαριασμού**αρχείου  >  **Sign Out**. Στη συνέχεια, συνδεθείτε χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Για Mac, ανατρέξτε στο θέμα [Δεν μπορώ να συνδεθώ σε μια εφαρμογή Office 2016 για Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα ["Λυπούμαστε, έναν άλλο λογαριασμό από τον οργανισμό σας είναι ήδη συνδεδεμένοι σε αυτόν τον υπολογιστή" στο Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Για περισσότερες πληροφορίες, [ανατρέξτε στην επιλογή "Λυπούμαστε, ένας άλλος λογαριασμός από τον οργανισμό σας είναι ήδη συνδεδεμένος σε αυτόν τον υπολογιστή" στο Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

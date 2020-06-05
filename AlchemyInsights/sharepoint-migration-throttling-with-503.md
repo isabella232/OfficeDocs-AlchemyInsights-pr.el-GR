@@ -2,7 +2,7 @@
 title: Επιτάχυνση μετεγκατάστασης του SharePoint με 503 σφάλματα
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: 05e816141a5b9cf484a647f8154110cd999ff6ef
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 3705be1e82fde6620fef3c4272f0294d58f11d38
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958682"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582883"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Επιτάχυνση μετεγκατάστασης του SharePoint με 503 σφάλματα
 
-**Σημαντικό:** Κατά τη διάρκεια αυτών των πρωτοφανών χρόνων, λαμβάνουμε μέτρα για να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive παραμένουν ιδιαίτερα διαθέσιμες – Επισκεφθείτε [τις προσωρινές προσαρμογές δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
+**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
 
 **Σφάλματα 503 κατά τη μετεγκατάσταση στο SharePoint Online**
 
