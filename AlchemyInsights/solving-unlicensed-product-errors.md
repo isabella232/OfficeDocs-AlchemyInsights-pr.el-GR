@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512012"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582739"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Προτάσεις για την επίλυση σφαλμάτων "Προϊόντος χωρίς άδεια χρήσης"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512012"
 - Βεβαιωθείτε ότι έχετε μια συνδρομή που επιτρέπει άδειες χρήσης υπολογιστή-πελάτη, όπως το Microsoft 365 Apps για επιχειρήσεις ή Premium για επιχειρήσεις και [βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί άδεια χρήσης](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Βεβαιωθείτε ότι ο χρήστης εισβλέει στο Office με τον ίδιο λογαριασμό στον οποίο έχει εκχωρηθεί η άδεια χρήσης.
 - Ελέγξτε τη [σελίδα εύρυθμης λειτουργίας υπηρεσίας](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε εάν υπάρχουν γνωστά προβλήματα με την υπηρεσία.
-- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης, για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση των εφαρμογών του Office στο Internet. Ανατρέξτε [στην περιοχή URL και διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης, για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση των εφαρμογών Microsoft 365 στο Internet. Ανατρέξτε [στην περιοχή URL και διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Μπορείτε επίσης να δοκιμάσετε τις ακόλουθες ενέργειες αντιμετώπισης προβλημάτων: 
 

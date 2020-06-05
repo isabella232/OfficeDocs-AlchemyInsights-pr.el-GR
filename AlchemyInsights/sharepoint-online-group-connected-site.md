@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 5dab9fce935936898927afd55f8f6e9260249157
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064393"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582811"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Ζητήματα κατά τη δημιουργία μιας συνδεδεμένης τοποθεσίας ομάδας στο SharePoint
 
@@ -30,5 +30,5 @@ ms.locfileid: "44064393"
 
 1. Υπάρχουν διάφοροι τρόποι δημιουργίας και χρήσης σύγχρονων ομάδων με το SharePoint.
 
-   - Μπορείτε να συνδέσετε υπάρχουσες τοποθεσίες σε μια ομάδα Microsoft 365. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Σύνδεση μιας ομάδας του Microsoft 365 χρησιμοποιώντας το περιβάλλον εργασίας χρήστη του SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Μπορείτε να συνδέσετε υπάρχουσες τοποθεσίες σε μια ομάδα Microsoft 365. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Σύνδεση ομάδας του Microsoft 365 χρησιμοποιώντας το περιβάλλον εργασίας χρήστη του SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
    - Για να δημιουργήσετε μια συνδεδεμένη τοποθεσία ομάδας Microsoft 365, θα πρέπει να δημιουργήσετε μια [τοποθεσία ομάδας](https://admin.microsoft.com/sharepoint).
