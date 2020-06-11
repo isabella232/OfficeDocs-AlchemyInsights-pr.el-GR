@@ -1,5 +1,5 @@
 ---
-title: Προσθήκη "Teams Outlook"
+title: Πρόσθετο "Ομάδες του Outlook"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021498"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702206"
 ---
-# <a name="teams-outlook-add-in"></a>Προσθήκη "Teams Outlook"
+# <a name="teams-outlook-add-in"></a>Πρόσθετο "Ομάδες του Outlook"
 
-Υπάρχουν πολλοί παράγοντες που θα μπορούσαν να προκαλέσουν την εμφάνιση του προσθέτου "Ομάδες" και παρατίθενται όλοι [εδώ](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Για να αντιμετωπίσετε προβλήματα σε ένα πρόσθετο του Outlook ομάδων που λείπει, βεβαιωθείτε πρώτα ότι εκτελείτε τα Διαγνωστικά υπηρεσίας εδώ στην πύλη διαχείρισης.  Εάν το διαγνωστικό υπηρεσίας δεν υποδεικνύει προβλήματα, προχωρήστε στη λήψη και εκτελέστε το σενάριο προσθέτου του [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook στους** υπολογιστές χρήστη που επηρεάζονται, για να διαγνώσετε και να διορθώσετε τυχόν ζητήματα προγράμματος-πελάτη.
 
-**Σας συνιστούμε πρώτα να ελέγξετε ότι το πρόσθετο δεν είναι απενεργοποιημένο:**
-
-- Στο Outlook, κάντε κλικ στην επιλογή **Αρχείο** και, στη **συνέχεια, Επιλογές**.
-- Επιλέξτε την καρτέλα **"Πρόσθετα"** του παραθύρου διαλόγου **"Επιλογές του Outlook".**
-- Επιβεβαιώστε ότι το **πρόσθετο του Microsoft Teams Meeting για το Microsoft Office** παρατίθεται στη λίστα **"Ενεργά πρόσθετα εφαρμογής".**
-- Εάν το πρόσθετο "Συνάντηση ομάδων" παρατίθεται στη λίστα **"Απενεργοποιημένα πρόσθετα εφαρμογής",** επιλέξτε **Πρόσθετα COM στη** **διαχείριση** και, στη συνέχεια, κάντε κλικ στην επιλογή **Μετάβαση...**
-- Ορίστε το πλαίσιο ελέγχου δίπλα **στο πρόσθετο "Σύσκεψη ομάδων της Microsoft" (Microsoft Teams Meeting) για το Microsoft Office**.
-- Κάντε κλικ στο **κουμπί OK** σε όλα τα παράθυρα διαλόγου και επανεκκινήστε το Outlook.
+Για να αντιμετωπίσετε το ζήτημα με μη αυτόματο τρόπο, εξετάστε τη λίστα των πιθανών παραγόντων που θα μπορούσαν να προκαλέσουν το πρόσθετο "Ομάδες" σας να μην εμφανίζεται στη λίστα [εδώ](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
