@@ -1,5 +1,5 @@
 ---
-title: Προσθήκη "Teams Outlook"
+title: Πρόσθετο "Ομάδες του Outlook"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021498"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702206"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="3a901-102">Προσθήκη "Teams Outlook"</span><span class="sxs-lookup"><span data-stu-id="3a901-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="d1956-102">Πρόσθετο "Ομάδες του Outlook"</span><span class="sxs-lookup"><span data-stu-id="d1956-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="3a901-103">Υπάρχουν πολλοί παράγοντες που θα μπορούσαν να προκαλέσουν την εμφάνιση του προσθέτου "Ομάδες" και παρατίθενται όλοι [εδώ](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="3a901-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+<span data-ttu-id="d1956-103">Για να αντιμετωπίσετε προβλήματα σε ένα πρόσθετο του Outlook ομάδων που λείπει, βεβαιωθείτε πρώτα ότι εκτελείτε τα Διαγνωστικά υπηρεσίας εδώ στην πύλη διαχείρισης.</span><span class="sxs-lookup"><span data-stu-id="d1956-103">To troubleshoot a missing Teams Outlook Add-in, first be sure to run the Service Diagnostic here in the Admin Portal.</span></span>  <span data-ttu-id="d1956-104">Εάν το διαγνωστικό υπηρεσίας δεν υποδεικνύει προβλήματα, προχωρήστε στη λήψη και εκτελέστε το σενάριο προσθέτου του [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook στους** υπολογιστές χρήστη που επηρεάζονται, για να διαγνώσετε και να διορθώσετε τυχόν ζητήματα προγράμματος-πελάτη.</span><span class="sxs-lookup"><span data-stu-id="d1956-104">If the Service Diagnostic indicates no issues, please proceed to download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook Add-in Scenario** on the affected user machines to diagnose and correct any client issues.</span></span>
 
-<span data-ttu-id="3a901-104">**Σας συνιστούμε πρώτα να ελέγξετε ότι το πρόσθετο δεν είναι απενεργοποιημένο:**</span><span class="sxs-lookup"><span data-stu-id="3a901-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
-
-- <span data-ttu-id="3a901-105">Στο Outlook, κάντε κλικ στην επιλογή **Αρχείο** και, στη **συνέχεια, Επιλογές**.</span><span class="sxs-lookup"><span data-stu-id="3a901-105">In Outlook, click **File** and then **Options**.</span></span>
-- <span data-ttu-id="3a901-106">Επιλέξτε την καρτέλα **"Πρόσθετα"** του παραθύρου διαλόγου **"Επιλογές του Outlook".**</span><span class="sxs-lookup"><span data-stu-id="3a901-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
-- <span data-ttu-id="3a901-107">Επιβεβαιώστε ότι το **πρόσθετο του Microsoft Teams Meeting για το Microsoft Office** παρατίθεται στη λίστα **"Ενεργά πρόσθετα εφαρμογής".**</span><span class="sxs-lookup"><span data-stu-id="3a901-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
-- <span data-ttu-id="3a901-108">Εάν το πρόσθετο "Συνάντηση ομάδων" παρατίθεται στη λίστα **"Απενεργοποιημένα πρόσθετα εφαρμογής",** επιλέξτε **Πρόσθετα COM στη** **διαχείριση** και, στη συνέχεια, κάντε κλικ στην επιλογή **Μετάβαση...**</span><span class="sxs-lookup"><span data-stu-id="3a901-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
-- <span data-ttu-id="3a901-109">Ορίστε το πλαίσιο ελέγχου δίπλα **στο πρόσθετο "Σύσκεψη ομάδων της Microsoft" (Microsoft Teams Meeting) για το Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="3a901-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
-- <span data-ttu-id="3a901-110">Κάντε κλικ στο **κουμπί OK** σε όλα τα παράθυρα διαλόγου και επανεκκινήστε το Outlook.</span><span class="sxs-lookup"><span data-stu-id="3a901-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
+<span data-ttu-id="d1956-105">Για να αντιμετωπίσετε το ζήτημα με μη αυτόματο τρόπο, εξετάστε τη λίστα των πιθανών παραγόντων που θα μπορούσαν να προκαλέσουν το πρόσθετο "Ομάδες" σας να μην εμφανίζεται στη λίστα [εδώ](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="d1956-105">To manually troubleshoot the issue, review the list of potential factors that could cause your Teams add-in to not appear listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
