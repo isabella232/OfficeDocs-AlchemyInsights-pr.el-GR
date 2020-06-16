@@ -1,0 +1,27 @@
+---
+title: Ρόλος χρήστη σύγχρονου εμπορίου
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003009"
+- "5722"
+ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
+ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44748846"
+---
+# <a name="modern-commerce-user-role"></a>Ρόλος χρήστη σύγχρονου εμπορίου
+
+Ο ρόλος "Σύγχρονος χρήστης εμπορίου" παρέχει σε ορισμένους χρήστες δικαιώματα πρόσβασης στο κέντρο διαχείρισης του Microsoft 365 και να βλέπουν τις αριστερές καταχωρήσεις **περιήγησης**για την Κεντρική σελίδα , **τη Χρέωση**και **την Υποστήριξη**. Το περιεχόμενο που είναι διαθέσιμο σε αυτές τις περιοχές ελέγχεται από ρόλους που αφορούν το εμπόριο και έχουν ανατεθεί σε χρήστες για τη διαχείριση προϊόντων που αγόρασαν για τον εαυτό τους ή τον οργανισμό σας. Αυτό μπορεί να περιλαμβάνει εργασίες όπως η πληρωμή λογαριασμών ή για την πρόσβαση σε λογαριασμούς χρέωσης και προφίλ χρέωσης.
+
+Οι χρήστες με το ρόλο "Σύγχρονος χρήστης εμπορίου" συνήθως έχουν δικαιώματα διαχειριστή σε άλλα συστήματα αγορών της Microsoft, αλλά δεν έχουν δικαιώματα καθολικού διαχειριστή ή διαχειριστή χρέωσης.
+
+Για να μάθετε περισσότερα σχετικά με αυτόν και άλλους ρόλους διαχείρισης, ανατρέξτε στο θέμα [Δικαιώματα ρόλου διαχειριστή στην υπηρεσία καταλόγου Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
