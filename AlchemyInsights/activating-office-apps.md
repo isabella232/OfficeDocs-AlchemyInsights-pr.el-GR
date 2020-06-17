@@ -1,5 +1,5 @@
 ---
-title: Ενεργοποίηση εφαρμογών του Office
+title: Ενεργοποίηση εφαρμογών microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682528"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735212"
 ---
-# <a name="activating-office-apps"></a>Ενεργοποίηση εφαρμογών του Office
+# <a name="activating-microsoft-365-apps"></a>Ενεργοποίηση εφαρμογών microsoft 365
 
 Για να ενεργοποιήσετε το Office, ανατρέξτε στο θέμα:
 
@@ -26,13 +26,16 @@ ms.locfileid: "43682528"
 
 - [Ενεργοποίηση του Office σε Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
+**Σημείωση:**  Βεβαιωθείτε ότι έχετε μια συνδρομή στο Office 365 ή το Microsoft 365 που [περιλαμβάνει εφαρμογές προγράμματος-πελάτη του Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), π.χ. Microsoft 365 Business Standard, Microsoft 365 Apps για Επιχειρήσεις ή Εφαρμογές Microsoft 365 για επιχειρήσεις. Επιπλέον, βεβαιωθείτε ότι ο λογαριασμός χρήστη που χρησιμοποιείτε για την είσοδο σε εφαρμογές του Office έχει [εκχωρηθεί μια άδεια χρήσης](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+
 Για να διορθώσετε τα προβλήματα ενεργοποίησης του Office, ανατρέξτε στο θέμα:
 
+- Εκτελέστε το πρόγραμμα [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) και επανεκκινήστε τον υπολογιστή.
 - [Σφάλματα "Προϊόν χωρίς άδεια χρήσης" και σφάλματα ενεργοποίησης στο Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Τι να δοκιμάσετε εάν δεν μπορείτε να εγκαταστήσετε ή να ενεργοποιήσετε το Office για Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Εάν αλλάξατε πρόσφατα λογαριασμούς ή συνδρομές του Office, ακολουθήστε τα παρακάτω βήματα για να διορθώσετε προβλήματα ενεργοποίησης:
+Εάν δεν μπορείτε να εισέλθετε σε εφαρμογές του Microsoft 365, ακολουθήστε τα παρακάτω βήματα:
 
 1. Ανοίξτε μια εφαρμογή του Office και [Αποσυνδεθείτε](https://go.microsoft.com/fwlink/?linkid=2114082) από όλους τους υπάρχοντες λογαριασμούς χρηστών.
 
