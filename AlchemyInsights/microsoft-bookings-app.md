@@ -13,13 +13,31 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 9e2d785810ad764809348d1bb716346964baee74
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67baa4065b3b95d659a501daf6919dd0c3d772a0
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698742"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850736"
 ---
-# <a name="microsoft-bookings-app"></a>Εφαρμογή Κρατήσεις της Microsoft
+# <a name="microsoft-bookings-app"></a>Εφαρμογή "Κρατήσεις της Microsoft"
 
-Η Microsoft Bookings είναι μια εφαρμογή προγραμματισμού συναντήσεων που σας βοηθά να παρακολουθείτε τις κρατήσεις σας, το προσωπικό σας και τους πελάτες σας. Για πληροφορίες ή αντιμετώπιση προβλημάτων στην εφαρμογή Κρατήσεις, ανατρέξτε στα [άρθρα κρατήσεων](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+- [Ενεργοποίηση ή απενεργοποίηση κρατήσεων της Microsoft για τον οργανισμό σας](https://support.microsoft.com/office/c27537fa-525e-47a8-aadf-9b07ee75c227)
+- [Αποκτήστε πρόσβαση στο Microsoft Bookings](https://support.microsoft.com/office/5382dc07-aaa5-45c9-8767-502333b214ce)
+- [Ηλεκτρονική δημοσίευση του επιχειρηματικού ημερολογίου σας με τις Κρατήσεις της Microsoft](https://support.microsoft.com/office/47403d64-a067-4754-9ae9-00157244c27d)
+- [Εισαγάγετε τα στοιχεία της επιχείρησής σας](https://support.microsoft.com/office/828a17db-956a-401e-bb62-d153b6dffd53)
+- [Ορισμός των πολιτικών προγραμματισμού](https://support.microsoft.com/office/4b2c84ec-64d3-4027-af4c-40f69e7b37c9)
+- [Ορίστε τις προσφορές υπηρεσιών σας](https://support.microsoft.com/office/4a1c391e-524f-48e0-bef8-185df3a9634b)
+- [Δημιουργήστε τη λίστα προσωπικού σας](https://support.microsoft.com/office/298c529b-407b-4a2b-b2c5-6e77a9d1f07f)
+- [Ορισμός ωρών εργασίας των εργαζομένων](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
+- [Προγραμματισμός κλεισίματος επιχειρήσεων, εκτός χρόνου και διακοπών](https://support.microsoft.com/e3c0a4ee-e3d8-4fbe-bd8f-16d1c712d1f4)
+- [Σύνδεση κρατήσεων της Microsoft στη σελίδα σας στο Facebook](https://support.microsoft.com/office/858db050-3d10-4bb5-82f1-df6ebeda2685)
+- [Δημοσίευση ή κατάργηση δημοσίευσης της σελίδας κράτησης](https://support.microsoft.com/office/4fb0235c-01e7-4447-bf91-0915c21b84ad)
+- [Δημιουργήστε και στελεχώστε τις κρατήσεις σας](https://support.microsoft.com/office/03a9acc9-f29c-456b-9fb2-0f49474b2708)
+- [Λήψη της εφαρμογής Κρατήσεις της Microsoft](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
+- [Συγχρονισμός προσωπικού με κρατήσεις της Microsoft](https://support.microsoft.com/office/23ee9b4c-0241-40ff-b663-67a309c378f8)
+- [Προσαρμογή της σελίδας κράτησης](https://support.microsoft.com/office/116d7a84-a7a0-4911-a1e9-debb2cca7c43)
+- [Ορισμός χρόνου buffer για συναντήσεις στις Κρατήσεις](https://support.microsoft.com/office/271f43e4-b8f7-4d63-8059-b5747679bb7e)
+- [Πληροφορίες αναφοράς για κρατήσεις της Microsoft](https://support.microsoft.com/office/e150b415-d335-4818-93ac-acff4797a1b1)
+- [Ορισμός γλώσσας και ζωνών ώρας](https://support.microsoft.com/office/94af3e22-aca6-4e91-8b91-1cd5a02a9ea8)
+- [Χρήση του PowerShell για τη διαγραφή ημερολογίου κράτησης](https://support.microsoft.com/office/8c3a913c-2247-4519-894d-b6263eeb9920)
