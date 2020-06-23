@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278820"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840893"
 ---
 # <a name="cannot-access-sharepoint"></a>Δεν είναι δυνατή η πρόσβαση στο SharePoint
 
-Υπάρχουν πολλοί λόγοι για τους οποίους το Microsoft SharePoint ή το Microsoft OneDrive ενδέχεται να μην είναι προσβάσιμα. Εάν δεν μπορείτε να έχετε πρόσβαση στο SharePoint Online, χρησιμοποιήστε τον παρακάτω οδηγό για να αντιμετωπίσετε αυτό το πρόβλημα.
+Υπάρχουν διάφοροι λόγοι για τους οποίους το SharePoint ή το OneDrive ενδέχεται να μην είναι προσβάσιμα. Εάν δεν μπορείτε να αποκτήσετε πρόσβαση στο SharePoint ή το OneDrive, χρησιμοποιήστε τον ακόλουθο οδηγό για να αντιμετωπίσετε αυτό το ζήτημα.
 
-- [Δεν είναι δυνατή η πρόσβαση στο SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Δεν είναι δυνατή η πρόσβαση στο SharePoint ή το OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
