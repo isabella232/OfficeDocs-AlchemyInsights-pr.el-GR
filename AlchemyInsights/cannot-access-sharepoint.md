@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278820"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840893"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="404c6-102">Δεν είναι δυνατή η πρόσβαση στο SharePoint</span><span class="sxs-lookup"><span data-stu-id="404c6-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="6fbd9-102">Δεν είναι δυνατή η πρόσβαση στο SharePoint</span><span class="sxs-lookup"><span data-stu-id="6fbd9-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="404c6-103">Υπάρχουν πολλοί λόγοι για τους οποίους το Microsoft SharePoint ή το Microsoft OneDrive ενδέχεται να μην είναι προσβάσιμα.</span><span class="sxs-lookup"><span data-stu-id="404c6-103">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="404c6-104">Εάν δεν μπορείτε να έχετε πρόσβαση στο SharePoint Online, χρησιμοποιήστε τον παρακάτω οδηγό για να αντιμετωπίσετε αυτό το πρόβλημα.</span><span class="sxs-lookup"><span data-stu-id="404c6-104">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
+<span data-ttu-id="6fbd9-103">Υπάρχουν διάφοροι λόγοι για τους οποίους το SharePoint ή το OneDrive ενδέχεται να μην είναι προσβάσιμα.</span><span class="sxs-lookup"><span data-stu-id="6fbd9-103">There are several reasons why SharePoint or OneDrive might become inaccessible.</span></span> <span data-ttu-id="6fbd9-104">Εάν δεν μπορείτε να αποκτήσετε πρόσβαση στο SharePoint ή το OneDrive, χρησιμοποιήστε τον ακόλουθο οδηγό για να αντιμετωπίσετε αυτό το ζήτημα.</span><span class="sxs-lookup"><span data-stu-id="6fbd9-104">If you can't access SharePoint or OneDrive, use the following guide to troubleshoot this issue.</span></span>
 
-- [<span data-ttu-id="404c6-105">Δεν είναι δυνατή η πρόσβαση στο SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="404c6-105">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="6fbd9-105">Δεν είναι δυνατή η πρόσβαση στο SharePoint ή το OneDrive</span><span class="sxs-lookup"><span data-stu-id="6fbd9-105">Unable to Access SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
