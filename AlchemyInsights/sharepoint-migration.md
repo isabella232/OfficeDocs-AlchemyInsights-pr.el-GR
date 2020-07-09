@@ -1,5 +1,5 @@
 ---
-title: Μετεγκατάσταση επιλογών στο SharePoint Online
+title: Επιλογές μετεγκατάστασης στο SharePoint Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fed306790f74fce7c0b5a97b3609af5a90f16bf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d161e46e1d707fc05adab20aa62c2403f149cfd4
+ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758309"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083895"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Μετεγκατάσταση επιλογών στο SharePoint Online
+# <a name="migrate-options-to-sharepoint-online"></a>Επιλογές μετεγκατάστασης στο SharePoint Online
 
 Υπάρχουν διάφορες επιλογές διαθέσιμες για τη μετεγκατάσταση περιεχομένου στο SharePoint Online, ανάλογα με το μέγεθος και την ποσότητα των αρχείων που πρέπει να μετακινήσετε. Μπορείτε να δείτε μια λίστα με τις επιλογές [εδώ](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
@@ -27,4 +27,4 @@ ms.locfileid: "43758309"
 
 - [Γρήγορα αποτελέσματα με το Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [Mover](https://mover.io/)
+- [Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
