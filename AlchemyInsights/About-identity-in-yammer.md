@@ -1,0 +1,31 @@
+---
+title: Πληροφορίες για την ταυτότητα στο Yammer
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6039"
+- "9003111"
+ms.openlocfilehash: 2c4c2c836d18d2ab45e2368e778c793277b18aa0
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148233"
+---
+# <a name="about-identity-in-yammer"></a><span data-ttu-id="13ae2-102">Πληροφορίες για την ταυτότητα στο Yammer</span><span class="sxs-lookup"><span data-stu-id="13ae2-102">About identity in Yammer</span></span>
+
+<span data-ttu-id="13ae2-103">Συνιστάται όλα τα δίκτυα να λαμβάνουν τα ακόλουθα μέτρα για την αποφυγή ζητημάτων που σχετίζονται με την ταυτότητα:</span><span class="sxs-lookup"><span data-stu-id="13ae2-103">It is recommended that all networks take the following steps to avoid identity-related issues:</span></span>
+
+1. <span data-ttu-id="13ae2-104">Επιβολή της ταυτότητας του Office 365 μετά την προμήθεια λογαριασμών Microsoft 365 για χρήστες στο Azure AD, για να εξασφαλίσετε ότι όλοι οι χρήστες θα συνδεθούν χρησιμοποιώντας τον πρωτεύοντα λογαριασμό Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="13ae2-104">Enforce Office 365 identity after provisioning Microsoft 365 accounts for users in Azure AD to ensure that all users sign in by using their primary Microsoft 365 account.</span></span> <span data-ttu-id="13ae2-105">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Επιβολή ταυτότητας του Office 365 για χρήστες του Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).</span><span class="sxs-lookup"><span data-stu-id="13ae2-105">For more info, see [Enforce Office 365 identity for Yammer users](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).</span></span>
+2. <span data-ttu-id="13ae2-106">Ενοποιήστε πολλά δίκτυα Yammer.</span><span class="sxs-lookup"><span data-stu-id="13ae2-106">Consolidate multiple Yammer networks.</span></span> <span data-ttu-id="13ae2-107">Οι ρυθμίσεις παραμέτρων του Yammer παλαιού τύπου επιτρέπουν τη σύνδεση πολλών δικτύων Yammer σε έναν μισθωτή.</span><span class="sxs-lookup"><span data-stu-id="13ae2-107">Legacy Yammer configurations permit multiple Yammer networks to be connected to one tenant.</span></span> <span data-ttu-id="13ae2-108">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Μετεγκατάσταση δικτύου - Ενοποίηση πολλών δικτύων Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).</span><span class="sxs-lookup"><span data-stu-id="13ae2-108">For more info, see [Network migration - Consolidate multiple Yammer networks](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).</span></span>
+3. <span data-ttu-id="13ae2-109">Προαιρετικά, επιβάλλετε την άδεια χρήσης για το Yammer για να αποκλείσετε χρήστες από το Yammer, εάν δεν διαθέτουν άδεια χρήσης.</span><span class="sxs-lookup"><span data-stu-id="13ae2-109">Optionally, enforce licensing for Yammer to block users from Yammer if they don't have a license.</span></span> <span data-ttu-id="13ae2-110">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση αδειών χρήσης yammer στο Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="13ae2-110">For more info, see [Manage Yammer user licenses in Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).</span></span>
+4. <span data-ttu-id="13ae2-111">Τέλος, ελέγξτε τη λίστα χρηστών για παλαιότερα δίκτυα Yammer και αναστείλετε τους παλαιούς χρήστες.</span><span class="sxs-lookup"><span data-stu-id="13ae2-111">Finally, audit the user list for older Yammer networks and suspend legacy users.</span></span> <span data-ttu-id="13ae2-112">Συνιστάται να αναστείλετε (απενεργοποιήσετε) τους χρήστες αντί να τους διαγράψετε, επειδή η διαγραφή είναι μη αναστρέψιμη.</span><span class="sxs-lookup"><span data-stu-id="13ae2-112">It is recommended that you suspend (deactivate) users instead of deleting them, because deletion is irreversible.</span></span> <span data-ttu-id="13ae2-113">Για περισσότερες πληροφορίες, [ανατρέξτε στα θέματα Έλεγχος χρηστών του Yammer σε δίκτυα συνδεδεμένα με το Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) και [Κατάργηση χρηστών](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).</span><span class="sxs-lookup"><span data-stu-id="13ae2-113">For more info, see [Audit Yammer users in networks connected to Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) and [Remove users](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).</span></span>
+
+<span data-ttu-id="13ae2-114">Ρυθμίζοντας τις παραμέτρους του Yammer χρησιμοποιώντας αυτά τα βήματα, θα είστε επίσης έτοιμοι να ρυθμίσετε τις παραμέτρους του δικτύου Yammer για εγγενή λειτουργία για το Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="13ae2-114">By configuring Yammer using these steps, you'll also be ready to configure your Yammer network for Native Mode for Microsoft 365.</span></span> <span data-ttu-id="13ae2-115">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων του δικτύου Yammer για εγγενή λειτουργία για το Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).</span><span class="sxs-lookup"><span data-stu-id="13ae2-115">For more info, see [Configure your Yammer network for Native Mode for Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).</span></span>

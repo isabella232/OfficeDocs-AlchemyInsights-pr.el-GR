@@ -1,0 +1,36 @@
+---
+title: Ζήτημα ανοίγματος ή λήψης αρχείων στο Yammer
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6041"
+- "9003112"
+ms.openlocfilehash: 6dfcbe9abfc23219a61e81785d31c11f7a0fa95c
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: el-GR
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148251"
+---
+# <a name="issue-opening-or-downloading-files-in-yammer"></a><span data-ttu-id="bdacf-102">Ζήτημα ανοίγματος ή λήψης αρχείων στο Yammer</span><span class="sxs-lookup"><span data-stu-id="bdacf-102">Issue opening or downloading files in Yammer</span></span>
+
+<span data-ttu-id="bdacf-103">Το Κλασικό Yammer υποστηρίζει πολλές επιλογές για αποστολές αρχείων σε μηνύματα και ομάδες.</span><span class="sxs-lookup"><span data-stu-id="bdacf-103">Classic Yammer supports multiple option for file uploads to messages and groups.</span></span> <span data-ttu-id="bdacf-104">Ανάλογα με τη ρύθμιση παραμέτρων δικτύου, τα αρχεία είναι προεπιλεγμένα για αποθήκευση στο SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bdacf-104">Depending on network configuration, files default to storage in SharePoint.</span></span>
+
+<span data-ttu-id="bdacf-105">Ο επιλογέας αρχείων στο νέο Yammer δεν υποστηρίζει ακόμα όλες τις επιλογές που είναι διαθέσιμες στο κλασικό Yammer.</span><span class="sxs-lookup"><span data-stu-id="bdacf-105">The file picker in new Yammer does not yet support all the options available in classic Yammer.</span></span> <span data-ttu-id="bdacf-106">Μια μελλοντική ενημερωμένη έκδοση θα προσθέσει πρόσθετες δυνατότητες.</span><span class="sxs-lookup"><span data-stu-id="bdacf-106">A future update will add additional features.</span></span> <span data-ttu-id="bdacf-107">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Επισύναψη αρχείου ή εικόνας σε μια δημοσίευση συνομιλίας yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-post-8d2d17f7-8f37-4535-961e-518d751be7e8).</span><span class="sxs-lookup"><span data-stu-id="bdacf-107">For more info, see [Attach a file or image to a Yammer conversation post](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-post-8d2d17f7-8f37-4535-961e-518d751be7e8).</span></span>
+
+<span data-ttu-id="bdacf-108">**Δεν είναι δυνατό το άνοιγμα ή η λήψη ενός αρχείου**</span><span class="sxs-lookup"><span data-stu-id="bdacf-108">**Unable to open or download a file**</span></span>  
+
+<span data-ttu-id="bdacf-109">Ένα αρχείο μπορεί να αποσταλεί στο Yammer, αλλά και να συνδεθεί με ένα αρχείο στο SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="bdacf-109">A file might upload to Yammer but also be linking to a file in SharePoint Online.</span></span> <span data-ttu-id="bdacf-110">Για να αντιμετωπίσετε προβλήματα, πρέπει πρώτα να προσδιορίσετε τη θέση του αρχείου.</span><span class="sxs-lookup"><span data-stu-id="bdacf-110">To troubleshoot, first you must determine the location of the file.</span></span> <span data-ttu-id="bdacf-111">Εάν το αρχείο έχει αποσταλεί στο Yammer, θα έχει διεύθυνση URL \*.yammer.com.</span><span class="sxs-lookup"><span data-stu-id="bdacf-111">If the file has been uploaded to Yammer, it will have a \*.yammer.com URL.</span></span> <span data-ttu-id="bdacf-112">Βεβαιωθείτε ότι οι απαιτούμενες διευθύνσεις URL και διευθύνσεις IP έχουν καταργηθεί.</span><span class="sxs-lookup"><span data-stu-id="bdacf-112">Ensure that required URLs and IP addresses are unblocked.</span></span> <span data-ttu-id="bdacf-113">Για περισσότερες πληροφορίες, ανατρέξτε στην καταχώρηση ιστολογίου [Η χρήση διευθύνσεων IP με σκληρό κώδικα για το Yammer δεν συνιστάται](https://techcommunity.microsoft.com/t5/yammer-blog/using-hard-coded-ip-addresses-for-yammer-is-not-recommended/ba-p/276592).</span><span class="sxs-lookup"><span data-stu-id="bdacf-113">For more info, see the blog post [Using hard coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/yammer-blog/using-hard-coded-ip-addresses-for-yammer-is-not-recommended/ba-p/276592).</span></span>
+
+<span data-ttu-id="bdacf-114">Ελέγξτε αν ένας χρήστης που είναι επίσης καθολικός διαχειριστής μπορεί να κάνει λήψη του αρχείου.</span><span class="sxs-lookup"><span data-stu-id="bdacf-114">Check whether a user who is also a global admin can download the file.</span></span> <span data-ttu-id="bdacf-115">Εάν το αρχείο είναι ιδιωτικό, ίσως χρειαστεί να χρησιμοποιήσετε τη λειτουργία ιδιωτικού περιεχομένου.</span><span class="sxs-lookup"><span data-stu-id="bdacf-115">If the file is private, you might have to use Private Content Mode.</span></span> <span data-ttu-id="bdacf-116">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Παρακολούθηση ιδιωτικού περιεχομένου στο Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).</span><span class="sxs-lookup"><span data-stu-id="bdacf-116">For more info, see then [Monitor private content in Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).</span></span>  
+
+<span data-ttu-id="bdacf-117">**Επισκέπτες και αρχεία σε επίπεδο δικτύου Yammer στο SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="bdacf-117">**Yammer network-level guests and files in SharePoint Online**</span></span>  
+
+<span data-ttu-id="bdacf-118">[Οι επισκέπτες σε επίπεδο δικτύου στο Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#invite-guests) δεν χρησιμοποιούν το Azure AD B2B και είναι εσωτερικοί στην υπηρεσία Yammer, επομένως δεν μπορούν να αποκτήσουν πρόσβαση σε αρχεία Yammer που είναι αποθηκευμένα στο SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bdacf-118">[Network-level guests in Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#invite-guests) do not use Azure AD B2B and are internal to the Yammer service, so they can't access Yammer files stored in SharePoint.</span></span> <span data-ttu-id="bdacf-119">Δημιουργήστε έναν εξωτερικό χρήστη AAD B2B, ο οποίος μπορεί να έχει πρόσβαση σε βιβλιοθήκες εγγράφων στο SharePoint Online, χρησιμοποιώντας αυτήν την ταυτότητα.</span><span class="sxs-lookup"><span data-stu-id="bdacf-119">Create an external AAD B2B user who can access document libraries in SharePoint Online by using that identity.</span></span> <span data-ttu-id="bdacf-120">Για πληροφορίες σχετικά με τη μελλοντική υποστήριξη επισκεπτών Azure AD B2B στο Yammer, ανατρέξτε στο θέμα Υποστήριξη επισκέπτη από [επιχείρηση σε επιχειρήσεις (B2B) στην Προεπισκόπηση Yammer - Όροι πελατών και Συνήθεις ερωτήσεις](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer).</span><span class="sxs-lookup"><span data-stu-id="bdacf-120">For information about future Azure AD B2B guest support in Yammer, see [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer).</span></span>
