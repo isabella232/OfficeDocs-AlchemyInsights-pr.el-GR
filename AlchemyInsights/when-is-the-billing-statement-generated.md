@@ -1,9 +1,9 @@
 ---
-title: Πότε δημιουργείται η κατάσταση λογαριασμού χρέωσης;
+title: Πότε δημιουργείται η κατάσταση χρέωσης;
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510392"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431217"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="42c00-102">Πότε δημιουργείται η κατάσταση χρέωσης</span><span class="sxs-lookup"><span data-stu-id="42c00-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="8fc48-102">Πότε δημιουργείται η κατάσταση χρέωσης</span><span class="sxs-lookup"><span data-stu-id="8fc48-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="42c00-103">Κάθε μήνα θα λαμβάνετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου που σας ενημερώνει ότι η νέα δήλωση χρέωσης είναι διαθέσιμη στο κέντρο διαχείρισης του Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="42c00-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="42c00-104">Το τιμολόγιό σας περιέχει δύο σελίδες.</span><span class="sxs-lookup"><span data-stu-id="42c00-104">Your invoice contains two pages.</span></span> <span data-ttu-id="42c00-105">Η Σελίδα 1 είναι η σύνοψη τιμολογίου και περιέχει γενικές πληροφορίες σχετικά με το τιμολόγιο, την παραγγελία, το οφειλόμενο ποσό, τον τρόπο πληρωμής και τον τρόπο επικοινωνίας με την υποστήριξη.</span><span class="sxs-lookup"><span data-stu-id="42c00-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="42c00-106">Η Σελίδα 2 περιέχει λεπτομέρειες σχετικά με τη δραστηριότητα χρέωσης για κάθε συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="42c00-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="8fc48-103">Η ημερομηνία της δήλωσης έχει οριστεί στην ημέρα του μήνα μετά τη δημιουργία του λογαριασμού σας.</span><span class="sxs-lookup"><span data-stu-id="8fc48-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="8fc48-104">Για παράδειγμα, αν δημιουργήσατε το λογαριασμό σας στις 20 Ιανουαρίου, η ημερομηνία της δήλωσης ορίζεται στην 21η για κάθε επόμενο μήνα.</span><span class="sxs-lookup"><span data-stu-id="8fc48-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="8fc48-105">Πρόσθετες χρεώσεις που προκύπτουν κατά τη διάρκεια ενός ενεργού κύκλου χρέωσης περιλαμβάνονται στο τιμολόγιο για τον επόμενο μήνα.</span><span class="sxs-lookup"><span data-stu-id="8fc48-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="8fc48-106">Οι ημερομηνίες έναρξης και λήξης του κύκλου χρέωσης για κάθε τιμολόγιο παρατίθενται στη **Σύνοψη χρέωσης** του τιμολογίου.</span><span class="sxs-lookup"><span data-stu-id="8fc48-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="8fc48-107">Οι πληρωμές μέσω πιστωτικής κάρτας ή/και τραπεζικού λογαριασμού (κατά περίπτωση) διακανονίζονται την επομένη της **ημερομηνίας τιμολόγησης**.</span><span class="sxs-lookup"><span data-stu-id="8fc48-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="42c00-107">Για να μάθετε περισσότερα σχετικά με τις έννοιες χρέωσης, ανατρέξτε στο θέμα [Κατανόηση του τιμολογίου σας](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="42c00-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="8fc48-108">Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Κατανόηση του τιμολογίου σας](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="8fc48-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
