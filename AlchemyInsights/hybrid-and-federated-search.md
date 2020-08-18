@@ -1,7 +1,7 @@
 ---
 title: Υβριδική και ομόσπονδη αναζήτηση
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768979"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787177"
 ---
-# <a name="hybrid-and-federated-searches"></a>Υβριδικές και ομόσπονδες αναζητήσεις 
+# <a name="hybrid-and-federated-searches"></a>Υβριδικές και ομόσπονδη αναζητήσεις 
 
-Για πληροφορίες σχετικά με υβριδική και ομόσπονδη αναζήτηση στο SharePoint Online, ανατρέξτε [στην αναζήτηση υβριδική στο SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Για πληροφορίες σχετικά με την υβριδική και την ομόσπονδη αναζήτηση στο SharePoint Online, ανατρέξτε [στο θέμα υβριδική αναζήτηση στο SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-Για πληροφορίες σχετικά με τον προγραμματισμό υβριδική αναζήτηση ομόσπονδων, ανατρέξτε στο [σχέδιο υβριδική αναζήτηση ομόσπονδων για τον SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+Για πληροφορίες σχετικά με το σχεδιασμό υβριδική ομόσπονδη αναζήτηση, ανατρέξτε στο θέμα [Σχεδιασμός υβριδικής ομόσπονδη αναζήτησης για τον SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
