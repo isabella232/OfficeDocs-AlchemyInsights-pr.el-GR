@@ -1,7 +1,7 @@
 ---
-title: Κατάργηση χρηστών από ομάδα του SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: Κατάργηση χρηστών από μια ομάδα του SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: c22bbf8ae5c6ff1dfdf729454330ebe498090581
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d2f1ead4de04bbecb55c805a9b085bc81029a2ae
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510680"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787357"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a><span data-ttu-id="448c9-102">Κατάργηση χρηστών από ομάδα του SharePoint</span><span class="sxs-lookup"><span data-stu-id="448c9-102">Remove users from a SharePoint group</span></span>
+# <a name="remove-users-from-a-sharepoint-group"></a><span data-ttu-id="d93d1-102">Κατάργηση χρηστών από μια ομάδα του SharePoint</span><span class="sxs-lookup"><span data-stu-id="d93d1-102">Remove users from a SharePoint group</span></span>
 
-<span data-ttu-id="448c9-103">Μια ομάδα του SharePoint είναι μια συλλογή χρηστών που έχουν όλοι το ίδιο σύνολο δικαιωμάτων σε τοποθεσίες και περιεχόμενο.</span><span class="sxs-lookup"><span data-stu-id="448c9-103">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="448c9-104">Αντί να εκχωρήσετε δικαιώματα σε ένα άτομο κάθε φορά, μπορείτε να χρησιμοποιήσετε ομάδες για να εκχωρήσετε εύκολα το ίδιο επίπεδο δικαιωμάτων σε πολλά άτομα ταυτόχρονα.</span><span class="sxs-lookup"><span data-stu-id="448c9-104">Rather than assign permissions one person at a time, you can use groups to conveniently assign the same permission level to many people at once.</span></span>
+<span data-ttu-id="d93d1-103">Μια ομάδα του SharePoint είναι μια συλλογή χρηστών που έχουν όλοι το ίδιο σύνολο δικαιωμάτων για τις τοποθεσίες και το περιεχόμενο.</span><span class="sxs-lookup"><span data-stu-id="d93d1-103">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="d93d1-104">Αντί να εκχωρείτε δικαιώματα ένα άτομο κάθε φορά, μπορείτε να χρησιμοποιήσετε τις ομάδες για να εκχωρήσετε εύκολα το ίδιο επίπεδο δικαιωμάτων σε πολλά άτομα ταυτόχρονα.</span><span class="sxs-lookup"><span data-stu-id="d93d1-104">Rather than assign permissions one person at a time, you can use groups to conveniently assign the same permission level to many people at once.</span></span>
 
-- [<span data-ttu-id="448c9-105">Κατάργηση χρηστών από ομάδα</span><span class="sxs-lookup"><span data-stu-id="448c9-105">Remove users from a group</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [<span data-ttu-id="448c9-106">Προσθήκη ή κατάργηση μελών από ομάδες του Microsoft 365 χρησιμοποιώντας το κέντρο διαχείρισης</span><span class="sxs-lookup"><span data-stu-id="448c9-106">Add or remove members from Microsoft 365 Groups using the admin center</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [<span data-ttu-id="d93d1-105">Κατάργηση χρηστών από ομάδα</span><span class="sxs-lookup"><span data-stu-id="d93d1-105">Remove users from a group</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
+- [<span data-ttu-id="d93d1-106">Προσθήκη ή κατάργηση μελών από ομάδες του Microsoft 365 με χρήση του κέντρου διαχείρισης</span><span class="sxs-lookup"><span data-stu-id="d93d1-106">Add or remove members from Microsoft 365 Groups using the admin center</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
