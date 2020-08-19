@@ -1,5 +1,5 @@
 ---
-title: Eanble έντυπα Pro
+title: Ενεργοποίηση ή απενεργοποίηση φορμών Pro
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969457"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814672"
 ---
 # <a name="enable-or-disable-forms-pro"></a>Ενεργοποίηση ή απενεργοποίηση φορμών Pro
 
-Εάν προσπαθείτε να ενεργοποιήσετε το Microsoft Forms Pro, περιλαμβάνεται ως μέρος της άδειας χρήσης [Enterprise Dynamics 365](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) . Εναλλακτικά, ένας διαχειριστής μπορεί να αγοράσει μια [άδεια χρήσης του Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant). Μπορείτε επίσης να [καταργήσετε μια άδεια χρήσης του Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) από ένα χρήστη.
+Το Microsoft Forms Pro έχει εξελιχθεί σε φωνή πελάτη Dynamics 365, παρέχοντάς σας πρόσθετες δυνατότητες έρευνας και επιχειρηματικά οφέλη. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [πόροι βοήθειας για τη φωνή πελατών Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+
+Το Microsoft Forms Pro περιλαμβάνεται ως μέρος της άδειας χρήσης του Dynamics 365 για μεγάλες επιχειρήσεις. Εναλλακτικά, ένας διαχειριστής μπορεί να αγοράσει μια άδεια χρήσης του Microsoft Forms Pro. Μπορείτε επίσης να καταργήσετε μια άδεια χρήσης του Microsoft Forms Pro από ένα χρήστη.  
+
+Για περισσότερες πληροφορίες σχετικά με τις άδειες χρήσης, ανατρέξτε στο θέμα [αγορά του Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) και [Απενεργοποίηση του Microsoft Forms Pro για ένα χρήστη](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+  
+Για πόρους βοήθειας, ανατρέξτε [στο θέμα Αντιμετώπιση προβλημάτων σε φόρμες Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
