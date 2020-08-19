@@ -1,5 +1,5 @@
 ---
-title: Eanble έντυπα Pro
+title: Ενεργοποίηση ή απενεργοποίηση φορμών Pro
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969457"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814672"
 ---
-# <a name="enable-or-disable-forms-pro"></a><span data-ttu-id="7b3c2-102">Ενεργοποίηση ή απενεργοποίηση φορμών Pro</span><span class="sxs-lookup"><span data-stu-id="7b3c2-102">Enable or disable Forms Pro</span></span>
+# <a name="enable-or-disable-forms-pro"></a><span data-ttu-id="0a1c5-102">Ενεργοποίηση ή απενεργοποίηση φορμών Pro</span><span class="sxs-lookup"><span data-stu-id="0a1c5-102">Enable or disable Forms Pro</span></span>
 
-<span data-ttu-id="7b3c2-103">Εάν προσπαθείτε να ενεργοποιήσετε το Microsoft Forms Pro, περιλαμβάνεται ως μέρος της άδειας χρήσης [Enterprise Dynamics 365](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) .</span><span class="sxs-lookup"><span data-stu-id="7b3c2-103">If you're trying to enable Microsoft Forms Pro, it is included as part of the [Dynamics 365 enterprise](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) license.</span></span> <span data-ttu-id="7b3c2-104">Εναλλακτικά, ένας διαχειριστής μπορεί να αγοράσει μια [άδεια χρήσης του Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant).</span><span class="sxs-lookup"><span data-stu-id="7b3c2-104">Alternatively, an admin can purchase a [Microsoft Forms Pro license](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant).</span></span> <span data-ttu-id="7b3c2-105">Μπορείτε επίσης να [καταργήσετε μια άδεια χρήσης του Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) από ένα χρήστη.</span><span class="sxs-lookup"><span data-stu-id="7b3c2-105">You can also [remove a Microsoft Forms Pro license](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) from a user.</span></span>
+<span data-ttu-id="0a1c5-103">Το Microsoft Forms Pro έχει εξελιχθεί σε φωνή πελάτη Dynamics 365, παρέχοντάς σας πρόσθετες δυνατότητες έρευνας και επιχειρηματικά οφέλη.</span><span class="sxs-lookup"><span data-stu-id="0a1c5-103">Microsoft Forms Pro has evolved into Dynamics 365 Customer Voice, providing you with additional survey capabilities and business benefits.</span></span> <span data-ttu-id="0a1c5-104">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [πόροι βοήθειας για τη φωνή πελατών Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2128357).</span><span class="sxs-lookup"><span data-stu-id="0a1c5-104">For more information, see [Help resources for Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).</span></span>  
+
+<span data-ttu-id="0a1c5-105">Το Microsoft Forms Pro περιλαμβάνεται ως μέρος της άδειας χρήσης του Dynamics 365 για μεγάλες επιχειρήσεις.</span><span class="sxs-lookup"><span data-stu-id="0a1c5-105">Microsoft Forms Pro is included as part of the Dynamics 365 enterprise license.</span></span> <span data-ttu-id="0a1c5-106">Εναλλακτικά, ένας διαχειριστής μπορεί να αγοράσει μια άδεια χρήσης του Microsoft Forms Pro.</span><span class="sxs-lookup"><span data-stu-id="0a1c5-106">Alternatively, an admin can purchase a Microsoft Forms Pro license.</span></span> <span data-ttu-id="0a1c5-107">Μπορείτε επίσης να καταργήσετε μια άδεια χρήσης του Microsoft Forms Pro από ένα χρήστη.</span><span class="sxs-lookup"><span data-stu-id="0a1c5-107">You can also remove a Microsoft Forms Pro license from a user.</span></span>  
+
+<span data-ttu-id="0a1c5-108">Για περισσότερες πληροφορίες σχετικά με τις άδειες χρήσης, ανατρέξτε στο θέμα [αγορά του Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) και [Απενεργοποίηση του Microsoft Forms Pro για ένα χρήστη](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).</span><span class="sxs-lookup"><span data-stu-id="0a1c5-108">For more info about licensing, see [Purchase Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) and [Disable Microsoft Forms Pro for a user](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).</span></span>
+  
+<span data-ttu-id="0a1c5-109">Για πόρους βοήθειας, ανατρέξτε [στο θέμα Αντιμετώπιση προβλημάτων σε φόρμες Pro](https://docs.microsoft.com/forms-pro/troubleshoot).</span><span class="sxs-lookup"><span data-stu-id="0a1c5-109">For help resources, see [Troubleshoot issues in Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).</span></span>
