@@ -2,7 +2,7 @@
 title: Αλλαγή της συχνότητας πληρωμής
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939655"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364587"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="cbe63-102">Αλλαγή της συχνότητας πληρωμής</span><span class="sxs-lookup"><span data-stu-id="cbe63-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="36e61-102">Αλλαγή της συχνότητας πληρωμής</span><span class="sxs-lookup"><span data-stu-id="36e61-102">Change how often you pay</span></span>
 
-<span data-ttu-id="cbe63-103">Για να αλλάξετε τη συχνότητα χρέωσης και πληρωμής μιας συνδρομής, ολοκληρώστε τα ακόλουθα βήματα στο κέντρο διαχείρισης του Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="cbe63-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
-1. <span data-ttu-id="cbe63-104">Μεταβείτε στην επιλογή **Χρέωση[Προϊόντων & υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="cbe63-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="cbe63-105">Βρείτε τη συνδρομή που θέλετε να αλλάξετε.</span><span class="sxs-lookup"><span data-stu-id="cbe63-105">Find the subscription you want to change.</span></span> <span data-ttu-id="cbe63-106">Στην ενότητα **Χρέωση,** δίπλα στην **επιλογή Τιμολόγηση σε μηνιαία βάση** ή Τιμολόγηση **ετησίως**, κάντε κλικ στην επιλογή **Επεξεργασία**.</span><span class="sxs-lookup"><span data-stu-id="cbe63-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
-3. <span data-ttu-id="cbe63-107">Ενεργοποιήστε την επιλογή για τη συχνότητα χρέωσης και, στη συνέχεια, κάντε κλικ στο κουμπί **Αλλαγή**.</span><span class="sxs-lookup"><span data-stu-id="cbe63-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+<span data-ttu-id="36e61-103">Για να αλλάξετε τη συχνότητα με την οποία τιμολογείτε και πληρώνετε μια συνδρομή, ολοκληρώστε τα παρακάτω βήματα στο κέντρο διαχείρισης του Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="36e61-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="cbe63-108">**Σημείωση**: Η μηνιαία ή ετήσια χρέωση είναι οι μόνες επιλογές.</span><span class="sxs-lookup"><span data-stu-id="cbe63-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+1. <span data-ttu-id="36e61-104">Μεταβείτε στη σελίδα **χρέωση**των  >  [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="36e61-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="36e61-105">Στην καρτέλα **προϊόντα** , επιλέξτε τη συνδρομή που θέλετε να αλλάξετε.</span><span class="sxs-lookup"><span data-stu-id="36e61-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
+3. <span data-ttu-id="36e61-106">Στη σελίδα λεπτομέρειες συνδρομής, στην ενότητα **Ρυθμίσεις συνδρομής και πληρωμής** , επιλέξτε **επεξεργασία συχνότητας χρέωσης**.</span><span class="sxs-lookup"><span data-stu-id="36e61-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="36e61-107">Στο παράθυρο **επεξεργασία συχνότητας χρεώσεων** , ενεργοποιήστε την επιλογή για το πόσο συχνά θέλετε να χρεωθείτε και, στη συνέχεια, επιλέξτε **Αλλαγή**.</span><span class="sxs-lookup"><span data-stu-id="36e61-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="cbe63-109">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αλλαγή της συχνότητας πληρωμής σας](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="cbe63-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
+<span data-ttu-id="36e61-108">**Σημείωση**: οι μοναδικές επιλογές είναι οι μηνιαίες ή ετήσιες χρεώσεις.</span><span class="sxs-lookup"><span data-stu-id="36e61-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="36e61-109">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αλλαγή συχνότητας χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="36e61-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>

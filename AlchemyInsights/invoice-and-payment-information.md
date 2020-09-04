@@ -1,8 +1,8 @@
 ---
-title: Πληροφορίες τιμολογίου και πληρωμής
+title: Τιμολόγιο και πληροφορίες πληρωμής
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579973"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364767"
 ---
-# <a name="invoice-and-payment-information"></a><span data-ttu-id="de818-102">Πληροφορίες τιμολογίου και πληρωμής</span><span class="sxs-lookup"><span data-stu-id="de818-102">Invoice and payment information</span></span>
+# <a name="invoice-and-payment-information"></a><span data-ttu-id="4017a-102">Τιμολόγιο και πληροφορίες πληρωμής</span><span class="sxs-lookup"><span data-stu-id="4017a-102">Invoice and payment information</span></span>
 
-<span data-ttu-id="de818-103">**Πληρωμής**</span><span class="sxs-lookup"><span data-stu-id="de818-103">**Payment**</span></span>
+<span data-ttu-id="4017a-103">**Πληρωμής**</span><span class="sxs-lookup"><span data-stu-id="4017a-103">**Payment**</span></span>
 
-<span data-ttu-id="de818-104">Όταν αγοράζετε μια συνδρομή Microsoft 365 για επιχειρήσεις απευθείας από τη Microsoft, μπορείτε να πληρώσετε με πιστωτική ή χρεωστική κάρτα.</span><span class="sxs-lookup"><span data-stu-id="de818-104">When you buy a Microsoft 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span>  <span data-ttu-id="de818-105">Σε ορισμένες χώρες/περιοχές, μπορείτε επίσης να πληρώσετε με τραπεζικό λογαριασμό.</span><span class="sxs-lookup"><span data-stu-id="de818-105">In some countries/regions, you can also pay with a bank account.</span></span>  <span data-ttu-id="de818-106">Μπορείτε να μάθετε να διαχειρίζεστε και να αντιμετωπίζετε αυτές τις μεθόδους πληρωμής από [την προσθήκη, την ενημέρωση ή την κατάργηση μιας πιστωτικής κάρτας ή άλλης επιλογής πληρωμής για το Microsoft 365 για Επιχειρήσεις](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="de818-106">You can learn to manage and troubleshoot these payment methods from [Add, update, or remove a credit card or other payment option for Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span>  <span data-ttu-id="de818-107">Αυτό περιλαμβάνει την επίλυση ζητημάτων κατά την απόρριψη της πιστωτικής σας κάρτας και την ενημέρωση των στοιχείων πληρωμής.</span><span class="sxs-lookup"><span data-stu-id="de818-107">This includes resolving issues when your credit card is declined and updating payment information.</span></span>
+<span data-ttu-id="4017a-104">Όταν αγοράζετε μια συνδρομή του Microsoft 365 για επαγγελματικούς λόγους απευθείας από τη Microsoft, μπορείτε να πληρώσετε με μια πιστωτική ή χρεωστική κάρτα.</span><span class="sxs-lookup"><span data-stu-id="4017a-104">When you buy a Microsoft 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span>  <span data-ttu-id="4017a-105">Σε ορισμένες χώρες/περιοχές, μπορείτε επίσης να πληρώσετε με έναν τραπεζικό λογαριασμό.</span><span class="sxs-lookup"><span data-stu-id="4017a-105">In some countries/regions, you can also pay with a bank account.</span></span>  <span data-ttu-id="4017a-106">Μπορείτε να μάθετε πώς να διαχειρίζεστε και να αντιμετωπίζετε αυτούς τους τρόπους πληρωμής από τη [Διαχείριση μεθόδων πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="4017a-106">You can learn to manage and troubleshoot these payment methods from [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span> <span data-ttu-id="4017a-107">Αυτό περιλαμβάνει την επίλυση προβλημάτων κατά την απόρριψη της πιστωτικής κάρτας σας και την ενημέρωση των πληροφοριών πληρωμής.</span><span class="sxs-lookup"><span data-stu-id="4017a-107">This includes resolving issues when your credit card is declined and updating payment information.</span></span>
 
-<span data-ttu-id="de818-108">**Τιμολόγιο/Χρέωση**</span><span class="sxs-lookup"><span data-stu-id="de818-108">**Invoice/Bill**</span></span>
+<span data-ttu-id="4017a-108">**Τιμολόγιο/λογαριασμός**</span><span class="sxs-lookup"><span data-stu-id="4017a-108">**Invoice/Bill**</span></span>
 
-<span data-ttu-id="de818-109">Μπορείτε να βρείτε και να κατεβάσετε τα τιμολόγιά σας στη σελίδα \*\* [Λογαριασμών](https://go.microsoft.com/fwlink/p/?linkid=848039) > & πληρωμής.\*\*</span><span class="sxs-lookup"><span data-stu-id="de818-109">You can find and download your invoices on the **Billing > [Bills & payment](https://go.microsoft.com/fwlink/p/?linkid=848039)** page.</span></span>  
+<span data-ttu-id="4017a-109">Μπορείτε να εντοπίσετε και να κατεβάσετε τα τιμολόγιά σας στη σελίδα "λογαριασμοί **χρέωσης**"  >  [& σελίδα πληρωμής](https://go.microsoft.com/fwlink/p/?linkid=848039) .</span><span class="sxs-lookup"><span data-stu-id="4017a-109">You can find and download your invoices on the **Billing** > [Bills & payment](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>  
 
-<span data-ttu-id="de818-110">**Σημείωση**: Εάν δεν υπάρχουν ορατά τιμολόγια, ίσως χρειαστεί να προσαρμόσετε το φίλτρο εύρους ημερομηνιών.</span><span class="sxs-lookup"><span data-stu-id="de818-110">**Note**: If no invoices are visible, you may need to adjust the date range filter.</span></span>  <span data-ttu-id="de818-111">Από προεπιλογή εμφανίζονται οι τελευταίοι 3 μήνες τιμολογίων.</span><span class="sxs-lookup"><span data-stu-id="de818-111">By default the last 3 months of invoices are shown.</span></span>
+<span data-ttu-id="4017a-110">**Σημείωση**: Εάν δεν είναι ορατά τα τιμολόγια, ίσως χρειαστεί να προσαρμόσετε το φίλτρο εύρους ημερομηνιών.</span><span class="sxs-lookup"><span data-stu-id="4017a-110">**Note**: If no invoices are visible, you may need to adjust the date range filter.</span></span>  <span data-ttu-id="4017a-111">Από προεπιλογή, εμφανίζονται οι τελευταίοι 3 μήνες των τιμολογίων.</span><span class="sxs-lookup"><span data-stu-id="4017a-111">By default the last 3 months of invoices are shown.</span></span>
 
-<span data-ttu-id="de818-112">Τα τιμολόγια δημιουργούνται κάθε μήνα ή ετησίως, ανάλογα με τη συχνότητα πληρωμής που επιλέγεται κατά την αγορά.</span><span class="sxs-lookup"><span data-stu-id="de818-112">Invoices are created monthly or annually depending on the payment frequency chosen during purchase.</span></span>  <span data-ttu-id="de818-113">Εάν πληρώνετε ετησίως, μπορείτε να λάβετε ένα λογαριασμό μεσοπρόθεσμα κατά την προσθήκη ή την κατάργηση αδειών χρήσης σε μια συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="de818-113">If paying annually, you may get a bill mid-term when adding or removing licenses on a subscription.</span></span>
- 
-- <span data-ttu-id="de818-114">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Κατανόηση του τιμολογίου σας για το Microsoft 365 για επιχειρήσεις](https://go.microsoft.com/fwlink/?linkid=2119101).</span><span class="sxs-lookup"><span data-stu-id="de818-114">For more info, see [Understand your invoice for Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119101).</span></span>
+<span data-ttu-id="4017a-112">Τα τιμολόγια δημιουργούνται κάθε μήνα ή κάθε χρόνο, ανάλογα με τη συχνότητα χρέωσης που έχει επιλεγεί κατά την αγορά.</span><span class="sxs-lookup"><span data-stu-id="4017a-112">Invoices are created monthly or annually depending on the billing frequency chosen during purchase.</span></span>  <span data-ttu-id="4017a-113">Εάν πληρώνετε ετησίως, ενδέχεται να λάβετε ένα νομοσχέδιο ενδιάμεσα κατά την προσθήκη ή την κατάργηση αδειών χρήσης σε μια συνδρομή.</span><span class="sxs-lookup"><span data-stu-id="4017a-113">If paying annually, you may get a bill mid-term when adding or removing licenses on a subscription.</span></span>
+
+- <span data-ttu-id="4017a-114">Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα κατανόηση του τιμολογίου σας για το Microsoft 365 για την επιχείρηση](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="4017a-114">For more info, see [Understand your invoice for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
