@@ -1,5 +1,5 @@
 ---
-title: Μετακινούμενος
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157595"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406326"
 ---
-# <a name="mover"></a><span data-ttu-id="cf3aa-102">Μετακινούμενος</span><span class="sxs-lookup"><span data-stu-id="cf3aa-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="048ae-102">Mover</span><span class="sxs-lookup"><span data-stu-id="048ae-102">Mover</span></span>
 
-<span data-ttu-id="cf3aa-103">Στις 21 Οκτωβρίου 2019, η Microsoft απέκτησε **μετακινούμενος**, ένας κορυφαίος πάροχος της μετανάστευσης αρχείων σύννεφο.</span><span class="sxs-lookup"><span data-stu-id="cf3aa-103">On October 21, 2019, Microsoft acquired **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="048ae-103">Στις 21 Οκτωβρίου 2019, η Microsoft επίκτητη  **μετακινούμενος**, μια κορυφαία υπηρεσία παροχής μετεγκατάστασης αρχείων cloud.</span><span class="sxs-lookup"><span data-stu-id="048ae-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
 
-<span data-ttu-id="cf3aa-104">Για περισσότερες πληροφορίες σχετικά με το μετακινούμενο, παρακαλείσθε να αναφέρετε τα ακόλουθα άρθρα:</span><span class="sxs-lookup"><span data-stu-id="cf3aa-104">For more information on Mover, please reference the following articles:</span></span>
+<span data-ttu-id="048ae-104">Την τρέχουσα ώρα, [παρακαλούμε να κατευθύνετε οποιαδήποτε αιτήματα υποστήριξης](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **εδώ**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="048ae-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
 
-- [<span data-ttu-id="cf3aa-105">Οδηγοί μετεγκατάστασης μετακινούμενων</span><span class="sxs-lookup"><span data-stu-id="cf3aa-105">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="cf3aa-106">Συχνές ερωτήσεις για τη μετεγκατάσταση</span><span class="sxs-lookup"><span data-stu-id="cf3aa-106">General Migration FAQ</span></span>](https://mover.io/guides/general/)
-- [<span data-ttu-id="cf3aa-107">Συνδετήρες μετακινούμενων</span><span class="sxs-lookup"><span data-stu-id="cf3aa-107">Mover Connectors</span></span>](https://mover.io/connectors/)
+<span data-ttu-id="048ae-105">Για περισσότερες πληροφορίες σχετικά με το πρόγραμμα μετακίνησης, ανατρέξτε στα ακόλουθα άρθρα:</span><span class="sxs-lookup"><span data-stu-id="048ae-105">For more information on Mover, please reference the following articles:</span></span>
 
-<span data-ttu-id="cf3aa-108">Την τρέχουσα ώρα, **παρακαλούμε να κατευθύνετε οποιαδήποτε αιτήματα υποστήριξης στο** [support@mover.io](mailto:support@mover.io) για βοήθεια με το προϊόν.</span><span class="sxs-lookup"><span data-stu-id="cf3aa-108">At the current time, **please direct any support requests to** [support@mover.io](mailto:support@mover.io) for help with the product.</span></span> 
-
- 
+- [<span data-ttu-id="048ae-106">Οδηγοί μετεγκατάστασης μετακινούμενων</span><span class="sxs-lookup"><span data-stu-id="048ae-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
+- [<span data-ttu-id="048ae-107">Συνήθεις ερωτήσεις για τη γενική μετεγκατάσταση</span><span class="sxs-lookup"><span data-stu-id="048ae-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
