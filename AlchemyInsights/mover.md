@@ -1,5 +1,5 @@
 ---
-title: Μετακινούμενος
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157595"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406326"
 ---
-# <a name="mover"></a>Μετακινούμενος
+# <a name="mover"></a>Mover
 
-Στις 21 Οκτωβρίου 2019, η Microsoft απέκτησε **μετακινούμενος**, ένας κορυφαίος πάροχος της μετανάστευσης αρχείων σύννεφο.
+Στις 21 Οκτωβρίου 2019, η Microsoft επίκτητη  **μετακινούμενος**, μια κορυφαία υπηρεσία παροχής μετεγκατάστασης αρχείων cloud.
 
-Για περισσότερες πληροφορίες σχετικά με το μετακινούμενο, παρακαλείσθε να αναφέρετε τα ακόλουθα άρθρα:
+Την τρέχουσα ώρα, [παρακαλούμε να κατευθύνετε οποιαδήποτε αιτήματα υποστήριξης](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **εδώ**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
+
+Για περισσότερες πληροφορίες σχετικά με το πρόγραμμα μετακίνησης, ανατρέξτε στα ακόλουθα άρθρα:
 
 - [Οδηγοί μετεγκατάστασης μετακινούμενων](https://mover.io/guides/)
-- [Συχνές ερωτήσεις για τη μετεγκατάσταση](https://mover.io/guides/general/)
-- [Συνδετήρες μετακινούμενων](https://mover.io/connectors/)
-
-Την τρέχουσα ώρα, **παρακαλούμε να κατευθύνετε οποιαδήποτε αιτήματα υποστήριξης στο** [support@mover.io](mailto:support@mover.io) για βοήθεια με το προϊόν. 
-
- 
+- [Συνήθεις ερωτήσεις για τη γενική μετεγκατάσταση](https://mover.io/guides/general/)

@@ -1,5 +1,5 @@
 ---
-title: Προστασία απειλών από τη Microsoft
+title: Προστασία απειλών της Microsoft
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277919"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406434"
 ---
-# <a name="microsoft-threat-protection"></a>Προστασία απειλών από τη Microsoft
+# <a name="microsoft-threat-protection"></a>Προστασία απειλών της Microsoft
 
 - [Επισκόπηση MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Προϋποθέσεις](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Τις προϋποθέσεις](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Απαιτήσεις άδειας χρήσης](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Πώς να ενεργοποιήσετε το MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Τρόπος ενεργοποίησης του MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [Αντιμετώπιση προβλημάτων MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Πώς να ελέγξετε την αδειοδότηση: θα πρέπει να σας ανατεθεί είτε ο διαχειριστής χρέωσης ή παγκόσμιος ρόλος αναγνώστη στο Azure AD για να προβάλετε την άδειά σας. Μεταβείτε στο [Κέντρο διαχείρισης](https://admin.microsoft.com/) και μεταβείτε στις άδειες **χρέωσης** > **** για να προβάλετε τις υπάρχουσες άδειες χρήσης.
+Πώς μπορείτε να επιλέξετε το στοιχείο άδεια χρήσης: πρέπει να σας εκχωρηθεί ο ρόλος διαχειριστής χρέωσης ή καθολικός αναγνώστης στο Azure AD για να δείτε την άδεια χρήσης σας. Μεταβείτε στο [Κέντρο διαχείρισης](https://admin.microsoft.com/) και μεταβείτε στις **Billing**  >  **άδειες χρήσης** χρέωσης για να δείτε τις υπάρχουσες άδειες χρήσης.
