@@ -1,23 +1,24 @@
 ---
-title: Δίκη Microsoft 365 μισθωτής μπλοκαριστεί από Spamhaus
+title: Δοκιμαστικός μισθωτής της Microsoft 365 αποκλεισμένος από το Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759872"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699987"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="c2daa-102">Σφάλμα κατά την αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου από έναν δοκιμαστικό χρήστη του Microsoft 365: Ο κεντρικός υπολογιστής-πελάτης αποκλείστηκε με χρήση του Spamhaus</span><span class="sxs-lookup"><span data-stu-id="c2daa-102">Error when a Microsoft 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="8ab19-102">Σφάλμα όταν ένας χρήστης δοκιμαστικής έκδοσης του Microsoft 365 στέλνει μηνύματα ηλεκτρονικού ταχυδρομείου: ο κεντρικός υπολογιστής-πελάτης αποκλεισμένη με Spamhaus</span><span class="sxs-lookup"><span data-stu-id="8ab19-102">Error when a Microsoft 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="c2daa-103">Φαίνεται ότι στέλνετε μηνύματα ηλεκτρονικού ταχυδρομείου από έναν νέο δοκιμαστικό οργανισμό microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="c2daa-103">It appears that you are sending email from a new Microsoft 365 trial organization.</span></span> <span data-ttu-id="c2daa-104">Για την αποτροπή κατάχρησης, αποκλείουμε διευθύνσεις IP που είναι γνωστό ότι έχουν παραβιαστεί στο παρελθόν.</span><span class="sxs-lookup"><span data-stu-id="c2daa-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="c2daa-105">Αυτός ο συγκεκριμένος έλεγχος δεν επιβάλλεται πλέον μετά την έναρξη της χρήσης αδειών χρήσης επί πληρωμή.</span><span class="sxs-lookup"><span data-stu-id="c2daa-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="c2daa-106">Ίσως να είστε σε θέση να πάρετε προσωρινή ανακούφιση ζητώντας μια νέα διεύθυνση IP από τον πάροχο υπηρεσιών Διαδικτύου (ISP), ή αφαιρώντας το μπλοκ από την ιστοσελίδα [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)</span><span class="sxs-lookup"><span data-stu-id="c2daa-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="8ab19-103">Φαίνεται ότι στέλνετε μηνύματα ηλεκτρονικού ταχυδρομείου από μια νέα δοκιμαστική εταιρεία του Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="8ab19-103">It appears that you are sending email from a new Microsoft 365 trial organization.</span></span> <span data-ttu-id="8ab19-104">Για να αποτρέψετε την κατάχρηση, μπλοκάρουμε τις διευθύνσεις IP που είναι γνωστό ότι έχουν παραβιαστεί προηγουμένως.</span><span class="sxs-lookup"><span data-stu-id="8ab19-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="8ab19-105">Αυτός ο συγκεκριμένος ελέγχου δεν επιβάλλεται πλέον μετά την έναρξη χρήσης των αδειών χρήσης επί πληρωμή.</span><span class="sxs-lookup"><span data-stu-id="8ab19-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="8ab19-106">Μπορεί να έχετε τη δυνατότητα να λάβετε προσωρινή βοήθεια ζητώντας μια νέα διεύθυνση IP από την υπηρεσία παροχής Internet (ISP) ή καταργώντας το μπλοκ από την τοποθεσία Web του [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .</span><span class="sxs-lookup"><span data-stu-id="8ab19-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
