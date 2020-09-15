@@ -1,27 +1,28 @@
 ---
-title: Λείπει το πληκτρολόγιο φωνητικής κλήσης ομάδων
+title: Λείπει το πληκτρολόγιο φωνητικών κλήσεων ομάδων
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 8abbacf3c7807001ff1b63bd70a5a385d1d3a188
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 8ad3480c20ac29ef4d9394d3c84b310ef26a9535
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628278"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653477"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a><span data-ttu-id="368b6-102">Το πληκτρολόγιο κλήσης λείπει από τις ομάδες της Microsoft</span><span class="sxs-lookup"><span data-stu-id="368b6-102">Dial pad is missing in Microsoft Teams</span></span> 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a><span data-ttu-id="e2ac2-102">Το πληκτρολόγιο κλήσης λείπει από το Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="e2ac2-102">Dial pad is missing in Microsoft Teams</span></span> 
 
-<span data-ttu-id="368b6-103">Εάν το πληκτρολόγιο κλήσης σας λείπει από τις ομάδες της Microsoft, ελέγξτε τα εξής:</span><span class="sxs-lookup"><span data-stu-id="368b6-103">If your dial pad is missing in Microsoft Teams, please check the following:</span></span>
+<span data-ttu-id="e2ac2-103">Εάν το πληκτρολόγιο κλήσης σας λείπει από το Microsoft teams, ελέγξτε τα εξής:</span><span class="sxs-lookup"><span data-stu-id="e2ac2-103">If your dial pad is missing in Microsoft Teams, please check the following:</span></span>
 
-- <span data-ttu-id="368b6-104">Βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί μια [άδεια ομάδας](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).</span><span class="sxs-lookup"><span data-stu-id="368b6-104">Make sure the user has been assigned a [Teams license](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).</span></span>
-- <span data-ttu-id="368b6-105">Βεβαιωθείτε ότι ο χρήστης έχει αντιστοιχίσει ένα [σχέδιο κλήσης](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .</span><span class="sxs-lookup"><span data-stu-id="368b6-105">Make sure the user has a [Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) assigned.</span></span>
-- <span data-ttu-id="368b6-106">Ενεργοποίηση των χρηστών για [εταιρική φωνή](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).</span><span class="sxs-lookup"><span data-stu-id="368b6-106">Enable the users for [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).</span></span>
+- <span data-ttu-id="e2ac2-104">Βεβαιωθείτε ότι έχει εκχωρηθεί στον χρήστη μια [Άδεια χρήσης του Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).</span><span class="sxs-lookup"><span data-stu-id="e2ac2-104">Make sure the user has been assigned a [Teams license](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).</span></span>
+- <span data-ttu-id="e2ac2-105">Βεβαιωθείτε ότι στον χρήστη έχει εκχωρηθεί ένα[Πρόγραμμα Κλήσεων](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).</span><span class="sxs-lookup"><span data-stu-id="e2ac2-105">Make sure the user has a [Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) assigned.</span></span>
+- <span data-ttu-id="e2ac2-106">Διαθέστε στους χρήστες [Εταιρική φωνητική επικοινωνία](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).</span><span class="sxs-lookup"><span data-stu-id="e2ac2-106">Enable the users for [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).</span></span>
