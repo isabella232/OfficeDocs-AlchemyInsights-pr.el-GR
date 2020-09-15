@@ -1,11 +1,12 @@
 ---
-title: '8000085: Outlook.com: Δεν είναι δυνατή η λήψη αρχείων στο Chrome'
+title: '8000085: Outlook.com: δεν είναι δυνατή η λήψη αρχείων στο Chrome'
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 67dd61fec153c2d35d62dfb9a92b7ac2550186b5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1a4f5029322682dee3ab2799998b8c02dfd1a3da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719538"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666177"
 ---
 # <a name="cant-download-files-in-chrome"></a>Δεν είναι δυνατή η λήψη αρχείων στο Chrome
 
-**Το πρόβλημα** Γνωρίζουμε ένα πρόβλημα που εμποδίζει ορισμένους πελάτες να κάνουν λήψη αρχείων κατά τη χρήση του προγράμματος περιήγησης Google Chrome. 
+**Πρόβλημα** Γνωρίζουμε ένα πρόβλημα που εμποδίζει ορισμένους πελάτες να μπορούν να κάνουν λήψη αρχείων κατά τη χρήση του προγράμματος περιήγησης Google Chrome. 
 
-**Λύση** Χρησιμοποιήστε [τον Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) ή κάποιο άλλο πρόγραμμα περιήγησης web.
-Μάθετε περισσότερα σχετικά με τον τρόπο [λήψης αρχείων και Outlook.com συνημμένων](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+**Λύση** Χρησιμοποιήστε το [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) ή κάποιο άλλο πρόγραμμα περιήγησης Web.
+Μάθετε περισσότερα σχετικά με τον τρόπο με τον οποίο μπορείτε να [κάνετε λήψη αρχείων και Outlook.com συνημμένων](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
 
