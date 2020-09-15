@@ -1,25 +1,26 @@
 ---
-title: 665 λαμβάνετε πάρα πολλά Phish ή spam στο γραμματοκιβώτιό σας;
+title: 665 λαμβάνετε πάρα πολύ Phish ή ανεπιθύμητη αλληλογραφία στο γραμματοκιβώτιό σας;
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911631"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700239"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Λαμβάνετε πάρα πολλά Phish ή spam στο γραμματοκιβώτιό σας;
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Λαμβάνετε πάρα πολύ Phish ή ανεπιθύμητη αλληλογραφία στο γραμματοκιβώτιό σας;
 
-Ως διαχειριστής του Microsoft 365, ο καλύτερος τρόπος για να προσδιορίσετε τον λόγο για τον οποίο παραδόθηκε ένα μήνυμα phishing ή spam είναι να υποβάλετε το δείγμα στη Microsoft στην [Εξερεύνηση υποβολών](https://protection.office.com/reportsubmission). Θα λάβετε άμεση ανατροφοδότηση σχετικά με το φιλτράρισμα μηνυμάτων και γιατί υπάρχουν ζητήματα.
+Ως διαχειριστής του Microsoft 365, ο καλύτερος τρόπος για να προσδιορίσετε το λόγο για τον οποίο παραδόθηκε ένα μήνυμα ηλεκτρονικού "ψαρέματος" ή ένα μήνυμα ανεπιθύμητης αλληλογραφίας είναι να υποβάλετε το δείγμα στη Microsoft στην [Εξερεύνηση υποβολών](https://protection.office.com/reportsubmission). Θα λάβετε άμεσα σχόλια σχετικά με το φιλτράρισμα μηνυμάτων και τους λόγους για τους οποίους υπάρχουν προβλήματα.
 
-Για να το κάνετε αυτό, μπορείτε να επιτρέψετε στους χρήστες σας να αναφέρουν απευθείας στη Microsoft μέσω του [πρόσθετου μηνύματος αναφοράς](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Για να το κάνετε easer, μπορείτε να επιτρέψετε στους χρήστες σας να κάνουν αναφορά απευθείας στη Microsoft μέσω του [πρόσθετου μηνύματος αναφοράς](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Το ξέρατε;**: μπορείτε τώρα να υποβάλετε δείγματα απευθείας από την [Παρακολούθηση μηνυμάτων](https://protection.office.com/messagetrace) και οι ΠΕΛΆΤΕς Ε2/ATP σχέδιο 2μπορούν να υποβάλουν δείγματα από την [Εξερεύνηση απειλών](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Το**γνωρίζατε;: μπορείτε τώρα να υποβάλετε δείγματα απευθείας από την [Παρακολούθηση μηνυμάτων](https://protection.office.com/messagetrace) και το πρόγραμμα E5/ATP 2 οι πελάτες μπορούν να υποβάλουν δείγματα από την [Εξερεύνηση απειλών](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
