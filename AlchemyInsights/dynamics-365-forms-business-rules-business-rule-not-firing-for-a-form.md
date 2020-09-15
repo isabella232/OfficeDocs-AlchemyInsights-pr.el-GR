@@ -1,21 +1,22 @@
 ---
-title: Dynamics 365 φόρμες επιχειρηματικές κανόνες-κανόνας επιχείρησης δεν πυροδότηση για μια φόρμα
+title: Dynamics 365 Forms Business Rules-κανόνας Business not ψήσιμο για μια φόρμα
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769375"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711455"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Ο κανόνας της επιχείρησης δεν πυροβολεί για μια φόρμα
+# <a name="business-rule-not-firing-for-a-form"></a>Ο κανόνας των επιχειρήσεων δεν πυροδοτείται για μια φόρμα
 
-Ένας επιχειρηματικός κανόνας ενδέχεται να μην εκτελεστεί, επειδή το πεδίο που αναφέρεται στον επιχειρηματικό κανόνα δεν συμπεριλαμβάνεται στη φόρμα. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα ο κανόνας της επιχείρησής σας δεν πυροβολεί για μια φόρμα;](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+Ένας κανόνας για την επιχείρηση μπορεί να μην εκτελεστεί, επειδή το πεδίο που αναφέρεται στον κανόνα της επιχείρησης δεν περιλαμβάνεται στη φόρμα. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα δεν είναι δυνατή η πυροδότηση του κανόνα της επιχείρησής σας για μια φόρμα;](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
