@@ -1,21 +1,22 @@
 ---
-title: Συντομεύσεις πληκτρολογίου του Dynamics 365 επεξεργάσιμο πλέγμα
+title: Συντομεύσεις πληκτρολογίου με δυνατότητα επεξεργασίας πλέγματος Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: 030190352426de39cda53be3429e7bb8c2c42000
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64ff0eb9ceaea22921cf1817139988123c9d5a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36529091"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678288"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="77941-102">Συντομεύσεις πληκτρολογίου του Dynamics 365 επεξεργάσιμο πλέγμα</span><span class="sxs-lookup"><span data-stu-id="77941-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="48711-102">Συντομεύσεις πληκτρολογίου με δυνατότητα επεξεργασίας πλέγματος Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="48711-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
 
-* [<span data-ttu-id="77941-103">Συντομεύσεις πληκτρολογίου με δυνατότητα επεξεργασίας πλέγματος</span><span class="sxs-lookup"><span data-stu-id="77941-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="48711-103">Συντομεύσεις πληκτρολογίου με δυνατότητα επεξεργασίας</span><span class="sxs-lookup"><span data-stu-id="48711-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
