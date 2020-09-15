@@ -6,21 +6,22 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: ead3988e85b41f92f993e05e456ca7a29f6bf329
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739796"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659130"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a><span data-ttu-id="532a6-102">Μιλήστε με την οικογένεια και τους φίλους σας στο Skype στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="532a6-102">Talk to family and friends on Skype in Outlook.com</span></span>
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a><span data-ttu-id="94a80-102">Μιλήστε με την οικογένεια και τους φίλους σας στο Skype στο Outlook.com</span><span class="sxs-lookup"><span data-stu-id="94a80-102">Talk to family and friends on Skype in Outlook.com</span></span>
 
-<span data-ttu-id="532a6-103">Outlook.com οι πελάτες μπορούν να συνομιλούν με τους φίλους και την οικογένειά τους με τις δυνατότητες συνομιλίας, φωνής και βίντεο στο Skype.</span><span class="sxs-lookup"><span data-stu-id="532a6-103">Outlook.com customers can talk to friends and family with the chat, voice, and video features in Skype.</span></span> <span data-ttu-id="532a6-104">Όταν [συγχωνεύετε τους λογαριασμούς Microsoft και Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), έχετε αυτόματα πρόσβαση στο Skype στο web στο Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="532a6-104">When you [merge your Microsoft and Skype accounts](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), you automatically have access to Skype on the web in Outlook.com.</span></span>
+<span data-ttu-id="94a80-103">Οι πελάτες του Outlook.com μπορούν να μιλήσουν με τους φίλους και την οικογένειά τους με τις δυνατότητες συνομιλίας, φωνής και βίντεο στο Skype.</span><span class="sxs-lookup"><span data-stu-id="94a80-103">Outlook.com customers can talk to friends and family with the chat, voice, and video features in Skype.</span></span> <span data-ttu-id="94a80-104">Όταν [συγχωνεύετε τους λογαριασμούς σας Microsoft και Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), έχετε αυτόματα πρόσβαση στο Skype στο web στο Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="94a80-104">When you [merge your Microsoft and Skype accounts](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), you automatically have access to Skype on the web in Outlook.com.</span></span>
   
-<span data-ttu-id="532a6-105">Μάθετε περισσότερα σχετικά με τον τρόπο [ομιλίας στην οικογένεια και τους φίλους σας στο Skype στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="532a6-105">Learn more about how to [talk to family and friends on Skype in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span></span>
+<span data-ttu-id="94a80-105">Μάθετε περισσότερα σχετικά με το πώς μπορείτε να [μιλήσετε με την οικογένεια και τους φίλους σας στο Skype στο Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="94a80-105">Learn more about how to [talk to family and friends on Skype in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span></span>
   
 
