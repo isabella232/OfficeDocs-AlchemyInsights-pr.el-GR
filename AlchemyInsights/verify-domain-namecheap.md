@@ -1,26 +1,27 @@
 ---
-title: Επαληθεύστε τον τομέα σας με το Namecheap
+title: Επαλήθευση του τομέα σας με το namecheap
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3544cfd0c1a5ca975a40959a1afbc8446a7f07c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721734"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689270"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Επαληθεύστε τον τομέα σας με το Namecheap
+# <a name="verify-your-domain-with-namecheap"></a>Επαλήθευση του τομέα σας με το namecheap
 
-Για να επαληθεύσετε τον τομέα σας, θα πρέπει να προσθέσετε μια εγγραφή TXT στο μητρώο καταχώρησης ονομάτων τομέων για να επαληθεύσετε ότι είστε ο δικός σας τομέας. 
+Για να επαληθεύσετε τον τομέα σας, θα πρέπει να προσθέσετε μια εγγραφή TXT στο μητρώο καταχώρησης ονομάτων τομέων για να επαληθεύσετε ότι είστε ο κάτοχος του τομέα σας. 
 
-Αρχικά, ακολουθήστε τον ["Οδηγό προσθήκης τομέα"](https://portal.office.com/adminportal/home#/Domains) επιλέγοντας **"Ρυθμίσεις** \> **τομέων"** και, στη συνέχεια, **προσθέστε τομέα**.
+Πρώτα, ακολουθήστε τον [Οδηγό προσθήκης τομέα](https://portal.office.com/adminportal/home#/Domains) επιλέγοντας **Ρυθμίσεις** \> **τομέων**και, στη συνέχεια, **Προσθέστε τομέα**.
   
-Ανατρέξτε [στο θέμα Δημιουργία εγγραφών DNS στο Namecheap για microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) για οδηγίες βήμα προς βήμα.
+Ανατρέξτε [στο θέμα Δημιουργία ΕΓΓΡΑΦΏΝ DNS στο namecheap για το Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) για οδηγίες βήμα προς βήμα.

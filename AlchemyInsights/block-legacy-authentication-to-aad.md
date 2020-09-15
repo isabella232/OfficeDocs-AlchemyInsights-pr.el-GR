@@ -1,26 +1,27 @@
 ---
-title: Αποκλεισμός ελέγχου ταυτότητας παλαιού τύπου σε Azure AD με πρόσβαση υπό όρους
+title: Αποκλεισμός παλαιού ελέγχου ταυτότητας σε AD Azure με πρόσβαση υπό όρους
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: 1b2da141d99b25d71147bdd709a6a3191c02a8ae
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846988"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685490"
 ---
-# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Αποκλεισμός ελέγχου ταυτότητας παλαιού τύπου σε Azure AD με πρόσβαση υπό όρους
+# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Αποκλεισμός παλαιού ελέγχου ταυτότητας σε AD Azure με πρόσβαση υπό όρους
 
 Προτεινόμενα έγγραφα:
 
-- [Αποκλεισμός ελέγχου ταυτότητας παλαιού τύπου σε Azure AD με πρόσβαση υπό όρους](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [Αποκλεισμός πρόσβασης όταν εντοπίζεται κίνδυνος περιόδου λειτουργίας με πρόσβαση υπό όρους της υπηρεσίας καταλόγου Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [Αποκλεισμός παλαιού ελέγχου ταυτότητας σε AD Azure με πρόσβαση υπό όρους](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
+- [Αποκλεισμός της πρόσβασης όταν εντοπίζεται ένας κίνδυνος περιόδου λειτουργίας με πρόσβαση υπό όρους της υπηρεσίας καταλόγου Active Directory Azure](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
