@@ -1,34 +1,35 @@
 ---
-title: Μεταφόρτωση εγγράφου
+title: Αποστολή εγγράφου
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769411"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711932"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Αποστολή αρχείων στο OneDrive ή στο SharePoint
 
-1. Στο πρόγραμμα περιήγησης Web, μεταβείτε στη θέση όπου θέλετε να ανεβάσετε αρχεία.
+1. Στο πρόγραμμα περιήγησής σας στο Web, μεταβείτε στη θέση όπου θέλετε να αποστείλετε αρχεία.
     
-2. Ανοίξτε την Εξερεύνηση αρχείων και αναζητήστε τα αρχεία που θέλετε να ανεβάσετε.
+2. Ανοίξτε την Εξερεύνηση αρχείων και αναζητήστε τα αρχεία που θέλετε να αποστείλετε.
     
-3. Επιλέξτε τα αρχεία και σύρετέ τα στη θέση στο OneDrive ή στο SharePoint. Σημείωση: Εάν χρησιμοποιείτε το Microsoft Edge, το Mozilla FireFox ή το Google Chrome, μπορείτε επίσης να ανεβάσετε ένα φάκελο και όλα τα αρχεία σε αυτό.
+3. Επιλέξτε τα αρχεία και σύρετέ τα στη θέση τους στο OneDrive ή στο SharePoint. Σημείωση: Εάν χρησιμοποιείτε το Microsoft Edge, το Mozilla FireFox ή το Google Chrome, μπορείτε επίσης να αποστείλετε ένα φάκελο και όλα τα αρχεία του.
     
-**Σημειώσεις:**
+**Σημειώσεις**
 
-- Μπορείτε να ανεβάσετε αρχεία έως 15 GB σε μέγεθος. 
-- Η πλήρης διαδρομή για ένα αρχείο (συμπεριλαμβανομένου του ονόματος αρχείου) δεν μπορεί να είναι μεγαλύτερη από 400 χαρακτήρες σε μήκος. 
-- Εάν πρέπει να ανεβάσετε περισσότερα από 100 αρχεία, [Χρησιμοποιήστε το πρόγραμμα-πελάτη συγχρονισμού OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Μπορείτε να αποστείλετε αρχεία μεγέθους έως και 15 GB. 
+- Η πλήρης διαδρομή για ένα αρχείο (συμπεριλαμβανομένου του ονόματος αρχείου) δεν μπορεί να έχει μήκος μεγαλύτερο από 400 χαρακτήρες. 
+- Εάν θέλετε να αποστείλετε περισσότερα από 100 αρχεία, [Χρησιμοποιήστε το πρόγραμμα-πελάτη συγχρονισμού του OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
