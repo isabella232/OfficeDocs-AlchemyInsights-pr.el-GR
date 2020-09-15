@@ -1,11 +1,12 @@
 ---
-title: 8000035 Αφήστε το Outlook.com beta
+title: 8000035 αποχώρηση από το Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -18,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762749"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676342"
 ---
-# <a name="the-new-outlookcom"></a>Η νέα Outlook.com
+# <a name="the-new-outlookcom"></a>Το νέο Outlook.com
 
-Δεν είναι πλέον δυνατό να αφήσει το Outlook.com βήτα και να επιστρέψει στην κλασική έκδοση του Outlook.com.
+Δεν μπορείτε πλέον να αποχωρήσετε από το Outlook.com beta και να επιστρέψετε στην κλασική έκδοση του Outlook.com.
   
-Αν θέλετε να δώσετε σχόλια σχετικά με τη νέα Outlook.com, μεταβείτε στο [φόρουμ UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να ψηφίσετε για τις ιδέες ή τα ζητήματα που θέλετε να δείτε να αντιμετωπίζονται και θα απαντήσουμε άμεσα στα κορυφαία σχόλια και προτάσεις.
+Εάν θέλετε να παράσχετε σχόλια σχετικά με το νέο Outlook.com, μεταβείτε στο [φόρουμ του UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να ψηφίσετε για τις ιδέες ή τα θέματα που θα θέλατε να δείτε να αντιμετωπίζονται και θα ανταποκριθούμε απευθείας στα πιο δημοφιλή σχόλια και προτάσεις.
   
-[Μάθετε περισσότερα για τη νέα Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Μάθετε περισσότερα σχετικά με το νέο Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

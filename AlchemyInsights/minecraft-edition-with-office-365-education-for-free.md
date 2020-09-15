@@ -1,38 +1,39 @@
 ---
-title: Έκδοση Minecraft με το Office 365 για εκπαιδευτικά ιδρύματα δωρεάν
+title: Έκδοση του Minecraft με το Office 365 για εκπαιδευτικά ιδρύματα δωρεάν
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674110"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Έκδοση Minecraft με το Office 365 για εκπαιδευτικά ιδρύματα δωρεάν
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Έκδοση του Minecraft με το Office 365 για εκπαιδευτικά ιδρύματα δωρεάν
 
-[Έκδοση Minecraft με το Office 365 για εκπαιδευτικά ιδρύματα δωρεάν](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Έκδοση του Minecraft με το Office 365 για εκπαιδευτικά ιδρύματα δωρεάν](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: Η έκδοση εκπαίδευσης** απαιτεί τα Windows 10
+- **Minecraft: το Education Edition** απαιτεί Windows 10
 
-- Δοκιμαστικές εκδόσεις ή συνδρομές του **Minecraft: Η έκδοση εκπαίδευσης** προσφέρεται σε ενοίκους εκπαίδευσης που διαχειρίζονται από την υπηρεσία καταλόγου Active Directory Azure (Azure AD)
+- Οι δοκιμές ή οι συνδρομές του **Minecraft: Education Edition** προσφέρονται σε μισθωτές εκπαίδευσης που διαχειρίζονται από το Azure Active Directory (Azure AD)
 
-  - Εάν το σχολείο σας δεν διαθέτει μισθωτή Azure AD, ο [διαχειριστής IT μπορεί να ορίσει έναν](https://docs.microsoft.com/education/windows/school-get-minecraft) ως μέρος της διαδικασίας λήψης του **Minecraft: Education Edition**.
+  - Εάν το σχολείο σας δεν διαθέτει μισθωτή Azure AD, ο [διαχειριστής IT μπορεί να ορίσει έναν](https://docs.microsoft.com/education/windows/school-get-minecraft) ως μέρος της διαδικασίας για τη λήψη του **Minecraft: Education Edition**.
 
-  - Το Office 365 για Εκπαιδευτικά Ιδρύματα, το οποίο περιλαμβάνει ηλεκτρονικές εκδόσεις των εφαρμογών microsoft 365 συν 1 ηλεκτρονικό χώρο αποθήκευσης tB είναι δωρεάν για εκπαιδευτικούς και μαθητές. [Εγγραφείτε στο σχολείο σας για το Office 365 για Εκπαιδευτικά ιδρύματα](https://products.office.com/academic/office-365-education-plan).
+  - Το Office 365 Education, το οποίο περιλαμβάνει ηλεκτρονικές εκδόσεις των εφαρμογών Microsoft 365 και 1 TB online Storage είναι δωρεάν για τους εκπαιδευτικούς και τους σπουδαστές. [Εγγραφείτε στο σχολείο σας για το Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - Εάν το σχολείο σας διαθέτει συνδρομή στο Office 365 για Εκπαιδευτικά Ιδρύματα, περιλαμβάνει δωρεάν συνδρομή Azure AD. [Καταχωρήστε τη δωρεάν συνδρομή Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Εάν το σχολείο σας έχει μια συνδρομή στο Office 365 για εκπαιδευτικά ιδρύματα, περιλαμβάνει μια δωρεάν συνδρομή Azure AD. [Καταχωρήστε τη δωρεάν συνδρομή σας στο Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Μάθετε πώς οι εκπαιδευτικοί μπορούν να πάρουν και να διανείμουν το Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Μάθετε πώς οι καθηγητές μπορούν να έχουν και να διανείμουν το Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Μάθετε πώς μπορούν να αποκτήσουν και να διανείμουν οι διαχειριστές it και να διανείμουν το Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)και πώς να διαχειρίζονται δικαιώματα για το Minecraft.
+[Μάθετε πώς οι διαχειριστές IT μπορούν να διαθέτουν και να διανείμουν το Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)και πώς να διαχειρίζονται τα δικαιώματα για το Minecraft.

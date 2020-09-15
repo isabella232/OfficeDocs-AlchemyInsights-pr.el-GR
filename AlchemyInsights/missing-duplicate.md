@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 0987a5c66e6853f457624f251a53a9c4a842e4b9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627430"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673750"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Αντιμετώπιση προβλημάτων των στοιχείων ημερολογίου που λείπουν και διπλότυπα
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Αντιμετώπιση προβλημάτων που λείπουν και διπλότυπα στοιχεία ημερολογίου
 
-Για πληροφορίες σχετικά με τον τρόπο αντιμετώπισης προβλημάτων που αφορούν συναντήσεις που λείπουν και διπλότυπες όταν χρησιμοποιείτε το Microsoft Outlook και τον Microsoft Exchange Server, ανατρέξτε στο θέμα [Τρόπος αντιμετώπισης προβλημάτων που λείπουν και διπλότυπες συναντήσεις στο Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+Για πληροφορίες σχετικά με τον τρόπο αντιμετώπισης προβλημάτων με τις ελλιπείς και τις διπλότυπες συναντήσεις όταν χρησιμοποιείτε το Microsoft Outlook και τον Microsoft Exchange Server, ανατρέξτε στο θέμα [Τρόπος αντιμετώπισης προβλημάτων που λείπουν και διπλότυπες συναντήσεις στο Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).

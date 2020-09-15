@@ -6,6 +6,7 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
+ms.service: o365-administration
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -13,43 +14,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510968"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673678"
 ---
 # <a name="more-info-about-retention-policies"></a>Περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης
 
-Για τους περισσότερους οργανισμούς, ο όγκος και η πολυπλοκότητα των δεδομένων τους αυξάνεται καθημερινά - ηλεκτρονικό ταχυδρομείο, έγγραφα, άμεσα μηνύματα και πολλά άλλα. Η αποτελεσματική διαχείριση ή διαχείριση αυτών των πληροφοριών είναι σημαντική και μια πολιτική διατήρησης μπορεί να σας βοηθήσει να επιτύχετε αυτούς τους στόχους. Για περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης, επισκεφθείτε αυτούς τους συνδέσμους:
+Για τους περισσότερους οργανισμούς, η ένταση και η πολυπλοκότητα των δεδομένων τους αυξάνεται καθημερινά-ηλεκτρονικό ταχυδρομείο, έγγραφα, άμεσα μηνύματα και πολλά άλλα. Η αποτελεσματική διαχείριση ή ρύθμιση αυτών των πληροφοριών είναι σημαντική και μια πολιτική διατήρησης μπορεί να σας βοηθήσει να επιτύχετε αυτούς τους στόχους. Για περισσότερες πληροφορίες σχετικά με τις πολιτικές διατήρησης, παρακαλούμε επισκεφθείτε αυτές τις συνδέσεις:
 
-## <a name="a-from-security-and-compliance-center"></a>Α) Από το Κέντρο Ασφάλειας και Συμμόρφωσης
+## <a name="a-from-security-and-compliance-center"></a>Α) από το κέντρο ασφάλειας και συμμόρφωσης
 
-- Μετάβαση στην ασφάλεια και τη συμμόρφωση > διαχείριση ς δεδομένων > διατήρηση
-  - Δείτε [αυτο](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) το άρθρο
+- Μετάβαση στην ασφάλεια και τη συμμόρφωση > τη διαχείριση δεδομένων > τη διατήρηση
+  - Ανατρέξτε σε [αυτό το](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) άρθρο
 
-- Μεταβείτε στην > ασφάλειας και συμμόρφωσης > eDiscovery> προηγμένο eDiscovery 
-  - Δείτε [αυτο](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) το άρθρο
+- Μετάβαση στην ασφάλεια και τη συμμόρφωση > την ανακάλυψη> προηγμένης ανακάλυψης 
+  - Ανατρέξτε σε [αυτό το](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) άρθρο
 
-- Μετάβαση στις ταξινομήσεις > ασφάλειας και συμμόρφωσης > διατήρηση
+- Μετάβαση στην ασφάλεια και τη συμμόρφωση > ταξινομήσεις > διατήρηση
   - Δείτε αυτά τα άρθρα
     - [Ετικέτες ευαισθησίας](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
     - [Επισκόπηση ετικετών](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>Β) Πολιτικές eDiscovery παλαιού τύπου
+## <a name="b-legacy-ediscovery-policies"></a>Β) πολιτικές ανακάλυψης παλαιού τύπου
 
-- Δείτε [αυτο](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) το άρθρο
+- Ανατρέξτε σε [αυτό το](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) άρθρο
 
-## <a name="c-site-closure-and-deletion-policies"></a>Γ) Πολιτικές κλεισίματος και διαγραφής τοποθεσιών
+## <a name="c-site-closure-and-deletion-policies"></a>Γ) πολιτικές κλεισίματος και διαγραφής τοποθεσίας
 
-- Δείτε [αυτο](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) το άρθρο  
+- Ανατρέξτε σε [αυτό το](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) άρθρο  
 
-## <a name="d-information-rights-management-irm"></a>Δ) Διαχείριση δικαιωμάτων πληροφοριών (IRM)
+## <a name="d-information-rights-management-irm"></a>Δ) διαχείριση δικαιωμάτων πληροφοριών (IRM)
 
 - Δείτε αυτά τα άρθρα
   - [IRM σε λίστα/βιβλιοθήκη](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Επισκόπηση IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [Επισκόπηση της υπηρεσίας IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Συνιστούμε να μεταβείτε σε πολιτικές ασφάλειας και συμμόρφωσης, εάν εξακολουθείτε να χρησιμοποιείτε πολιτικές παλαιού τύπου eDiscovery ή IRM ή αποκλεισμού και διαγραφής τοποθεσίας.
+> Συνιστούμε ανεπιφύλακτα να μετακινείστε σε αστυνομικές αρχές ασφαλείας και συμμόρφωσης, εάν εξακολουθείτε να χρησιμοποιείτε τις πολιτικές ανακάλυψης παλαιού τύπου ή IRM ή κλεισίματος τοποθεσίας και διαγραφής τοποθεσίας.

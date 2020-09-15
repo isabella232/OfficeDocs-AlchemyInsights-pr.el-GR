@@ -1,41 +1,42 @@
 ---
-title: Μηνύματα ηλεκτρονικού ταχυδρομείου που λείπουν σε καραντίνα
+title: Λείπουν μηνύματα ηλεκτρονικού ταχυδρομείου σε καραντίνα
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673714"
 ---
-# <a name="missing-emails-in-quarantine"></a>Λείπουν μηνύματα ηλεκτρονικού ταχυδρομείου σε καραντίνα"
+# <a name="missing-emails-in-quarantine"></a>Λείπουν μηνύματα ηλεκτρονικού ταχυδρομείου σε καραντίνα "
 
-Οι διαχειριστές μπορούν να [προβάλλουν, να απελευθερώνουν ή να διαγράφουν αυτά τα μηνύματα.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Οι διαχειριστές μπορούν να [προβάλουν, να κυκλοφορήσουν ή να διαγράψουν αυτά τα μηνύματα.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Για να ανοίξετε το Κέντρο συμμόρφωσης & ασφαλείας, μεταβείτε στο [https://protection.office.com](https://protection.office.com/) . Για να ανοίξετε απευθείας τη σελίδα καραντίνας, μεταβείτε στο [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Για να ανοίξετε το κέντρο συμμόρφωσης & ασφαλείας, μεταβείτε στην καρτέλα [https://protection.office.com](https://protection.office.com/) . Για να ανοίξετε τη σελίδα καραντίνας απευθείας, μεταβείτε στο [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
-Μπορείτε να κάνετε αναζήτηση με τις ακόλουθες τιμές:  
+Μπορείτε να κάνετε αναζήτηση με βάση τις ακόλουθες τιμές:  
 
-- **Αναγνωριστικό μηνύματος**: Το καθολικά μοναδικό αναγνωριστικό του μηνύματος. Εάν επιλέξετε ένα μήνυμα στη λίστα, η τιμή **αναγνωριστικού μηνύματος** εμφανίζεται στο αναδυόμενο παράθυρο **Λεπτομερειών** που εμφανίζεται. Οι διαχειριστές μπορούν να χρησιμοποιήσουν [την ανίχνευση μηνυμάτων](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) για να εντοπίσουν μηνύματα και τις αντίστοιχες τιμές αναγνωριστικού μηνύματος.
-- **Διεύθυνση ηλεκτρονικού ταχυδρομείου αποστολέα:** Η διεύθυνση ηλεκτρονικού ταχυδρομείου ενός μεμονωμένου αποστολέα.
-- **Διεύθυνση ηλεκτρονικού ταχυδρομείου παραλήπτη**: Διεύθυνση ηλεκτρονικού ταχυδρομείου ενός παραλήπτη.
-- **Θέμα:** Χρησιμοποιήστε ολόκληρο το θέμα του μηνύματος. Στην αναζήτηση δεν έγινε διάκριση πεζών-κεφαλαίων.
+- **Αναγνωριστικό μηνύματος**: το καθολικά μοναδικό αναγνωριστικό του μηνύματος. Εάν επιλέξετε ένα μήνυμα από τη λίστα, η τιμή του  **αναγνωριστικού μηνύματος**  εμφανίζεται στο παράθυρο "αναδυόμενο στοιχείο  **λεπτομερειών**  " που εμφανίζεται. Οι διαχειριστές μπορούν να χρησιμοποιήσουν την [Ανίχνευση μηνύματος](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) για να εντοπίσουν μηνύματα και τις ΑΝΤΊΣΤΟΙΧΕς τιμές αναγνωριστικού μηνύματος.
+- **Διεύθυνση ηλεκτρονικού ταχυδρομείου αποστολέα**: διεύθυνση ηλεκτρονικού ταχυδρομείου ενός μεμονωμένου αποστολέα.
+- **Διεύθυνση ηλεκτρονικού ταχυδρομείου παραλήπτη**: διεύθυνση ηλεκτρονικού ταχυδρομείου ενός μεμονωμένου παραλήπτη.
+- **Θέμα**: Χρησιμοποιήστε ολόκληρο το θέμα του μηνύματος. Η αναζήτηση δεν κάνει διάκριση πεζών-κεφαλαίων.
 
-Αφού εισαγάγετε τα κριτήρια αναζήτησης, κάντε κλικ στο ![ κουμπί ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Ανανέωση** για να φιλτράρετε τα αποτελέσματα.  
+Αφού εισαγάγετε τα κριτήρια αναζήτησης, κάντε κλικ στην επιλογή Ανανέωση ![ κουμπιού ανανέωσης ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh** για να φιλτράρετε τα αποτελέσματα.  
 
-Τα cmdlets που χρησιμοποιείτε για την προβολή και τη διαχείριση μηνυμάτων και αρχείων σε καραντίνα είναι τα:
-- [Διαγραφή μηνύματος καραντίνας](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Εξαγωγή-καραντίνα Μήνυμα](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
-- [Μήνυμα "Get-Καραντίνα"](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Προεπισκόπηση-ΚαραντίναΜήνυμα:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Σημειώστε ότι αυτό το cmdlet προορίζεται μόνο για μηνύματα και όχι για αρχεία κακόβουλου λογισμικού από την ATP για το SharePoint Online, το OneDrive για επιχειρήσεις ή τις ομάδες.
-- [Μήνυμα καραντίνας έκδοσης](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+Τα cmdlet που χρησιμοποιείτε για την προβολή και τη διαχείριση μηνυμάτων και αρχείων σε καραντίνα είναι τα εξής:
+- [Διαγραφή-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Εξαγωγή-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Σημειώστε ότι αυτό το cmdlet προορίζεται μόνο για μηνύματα, όχι για αρχεία κακόβουλης λειτουργίας από το ATP για το SharePoint Online, το OneDrive για επιχείρηση ή για ομάδες.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
