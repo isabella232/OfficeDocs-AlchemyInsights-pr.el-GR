@@ -1,25 +1,26 @@
 ---
-title: Το πιστοποιητικό push apple MDM έχει λήξει
+title: Το πιστοποιητικό push του Apple MDM έχει λήξει
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 6d0b262e877487ed827496ca2a6e9e58a20a8422
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141425"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668815"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a><span data-ttu-id="6ef47-102">Το πιστοποιητικό push apple MDM έχει λήξει</span><span class="sxs-lookup"><span data-stu-id="6ef47-102">Your Apple MDM Push Certificate has expired</span></span>
+# <a name="your-apple-mdm-push-certificate-has-expired"></a><span data-ttu-id="4b3cd-102">Το πιστοποιητικό push του Apple MDM έχει λήξει</span><span class="sxs-lookup"><span data-stu-id="4b3cd-102">Your Apple MDM Push Certificate has expired</span></span>
 
-<span data-ttu-id="6ef47-103">Το πιστοποιητικό Apple MDM Push ισχύει για ένα έτος και πρέπει να ανανεώνεται ετησίως για να διατηρείται η διαχείριση συσκευών iOS και macOS.</span><span class="sxs-lookup"><span data-stu-id="6ef47-103">The Apple MDM push certificate is valid for one year and must be renewed annually to maintain iOS and macOS device management.</span></span> <span data-ttu-id="6ef47-104">Αν λήξει το πιστοποιητικό σας, δεν είναι δυνατή η επικοινωνία με τις εγγεγραμμένες συσκευές Apple και δεν είναι δυνατή η εγγραφή νέων συσκευών.</span><span class="sxs-lookup"><span data-stu-id="6ef47-104">If your certificate expires, enrolled Apple devices can't be contacted, and new devices can't be enrolled.</span></span>
+<span data-ttu-id="4b3cd-103">Το πιστοποιητικό Apple MDM Push ισχύει για ένα έτος και πρέπει να ανανεώνεται ετησίως για να διατηρείται η διαχείριση συσκευών iOS και macOS.</span><span class="sxs-lookup"><span data-stu-id="4b3cd-103">The Apple MDM push certificate is valid for one year and must be renewed annually to maintain iOS and macOS device management.</span></span> <span data-ttu-id="4b3cd-104">Εάν το πιστοποιητικό σας λήξει, δεν είναι δυνατή η επικοινωνία με τις εγγεγραμμένες συσκευές Apple και δεν είναι δυνατή η εγγραφή νέων συσκευών.</span><span class="sxs-lookup"><span data-stu-id="4b3cd-104">If your certificate expires, enrolled Apple devices can't be contacted, and new devices can't be enrolled.</span></span>
 
-<span data-ttu-id="6ef47-105">Για τα βήματα ανανέωσης του πιστοποιητικού push Apple MDM, ανατρέξτε στο θέμα [Ανανέωση πιστοποιητικού ώθησης Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).</span><span class="sxs-lookup"><span data-stu-id="6ef47-105">For steps to renew your Apple MDM Push certificate, see [Renew Apple MDM push certificate](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).</span></span>
+<span data-ttu-id="4b3cd-105">Για τα βήματα ανανέωσης του πιστοποιητικού push του Apple MDM, ανατρέξτε στο θέμα [Ανανέωση πιστοποιητικού push του Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).</span><span class="sxs-lookup"><span data-stu-id="4b3cd-105">For steps to renew your Apple MDM Push certificate, see [Renew Apple MDM push certificate](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).</span></span>

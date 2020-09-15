@@ -1,28 +1,29 @@
 ---
-title: Εγκατάσταση, εγκατάσταση και συγχρονισμός αρχείων του OneDrive ή του SharePoint σε Mac
+title: Εγκατάσταση, ρύθμιση και συγχρονισμός αρχείων του OneDrive ή του SharePoint σε Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: a537c3967025daabcd76f2e59bb9381bf19cbcf4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ad860d51d2ce82c7500a663f83234a2961f08b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692729"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665538"
 ---
-# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a><span data-ttu-id="3ca90-102">Εγκατάσταση, εγκατάσταση και συγχρονισμός αρχείων του OneDrive ή του SharePoint σε Mac</span><span class="sxs-lookup"><span data-stu-id="3ca90-102">Install, setup, and sync OneDrive or SharePoint files on Mac</span></span> 
+# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a><span data-ttu-id="9f658-102">Εγκατάσταση, ρύθμιση και συγχρονισμός αρχείων του OneDrive ή του SharePoint σε Mac</span><span class="sxs-lookup"><span data-stu-id="9f658-102">Install, setup, and sync OneDrive or SharePoint files on Mac</span></span> 
 
-<span data-ttu-id="3ca90-103">Εγκατάσταση, εγκατάσταση και συγχρονισμός αρχείων του OneDrive ή του SharePoint σε Mac με τις οδηγίες από [το Συγχρονισμό αρχείων με το πρόγραμμα-πελάτη συγχρονισμού του OneDrive σε Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).</span><span class="sxs-lookup"><span data-stu-id="3ca90-103">Install, setup and sync OneDrive or SharePoint files on a Mac with the instructions from [Sync files with the OneDrive sync client on Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).</span></span>
+<span data-ttu-id="9f658-103">Εγκαταστήστε, ρυθμίστε και συγχρονίστε αρχεία του OneDrive ή του SharePoint σε Mac με τις οδηγίες από το [συγχρονισμό αρχείων με το πρόγραμμα-πελάτη συγχρονισμού του OneDrive σε Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).</span><span class="sxs-lookup"><span data-stu-id="9f658-103">Install, setup and sync OneDrive or SharePoint files on a Mac with the instructions from [Sync files with the OneDrive sync client on Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).</span></span>
 
-<span data-ttu-id="3ca90-104">Εάν η εφαρμογή OneDrive είναι εγκατεστημένη και εγκατάσταση σε Mac, αλλά οι χρήστες αντιμετωπίζουν προβλήματα συγχρονισμού, ανατρέξτε στο θέμα [Επιδιόρθωση ζητημάτων συγχρονισμού με το OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span><span class="sxs-lookup"><span data-stu-id="3ca90-104">If the OneDrive app is installed and setup on a Mac, but users are experiencing sync issues, see [Fix sync issues with OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
+<span data-ttu-id="9f658-104">Εάν η εφαρμογή OneDrive είναι εγκατεστημένη και ρύθμιση σε Mac, αλλά οι χρήστες αντιμετωπίζουν προβλήματα συγχρονισμού, ανατρέξτε στο θέμα [Επιδιόρθωση προβλημάτων συγχρονισμού με το OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span><span class="sxs-lookup"><span data-stu-id="9f658-104">If the OneDrive app is installed and setup on a Mac, but users are experiencing sync issues, see [Fix sync issues with OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="3ca90-105">Η δυνατότητα "Γνωστή μετακίνηση φακέλων" στο συγχρονισμό του OneDrive για Windows δεν είναι διαθέσιμη για Mac.</span><span class="sxs-lookup"><span data-stu-id="3ca90-105">The Known Folder Move feature in OneDrive sync for Windows is not available for Mac.</span></span>
+> <span data-ttu-id="9f658-105">Η δυνατότητα μετακίνησης γνωστών φακέλων στο OneDrive Sync για Windows δεν είναι διαθέσιμη για Mac.</span><span class="sxs-lookup"><span data-stu-id="9f658-105">The Known Folder Move feature in OneDrive sync for Windows is not available for Mac.</span></span>
 
 
 
