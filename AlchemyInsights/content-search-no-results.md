@@ -1,29 +1,30 @@
 ---
-title: Δεν υπάρχουν αποτελέσματα αναζήτησης περιεχομένου
+title: Η αναζήτηση περιεχομένου δεν έχει αποτελέσματα
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516779"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680647"
 ---
-# <a name="no-results-from-content-searchexports"></a>Δεν υπάρχουν αποτελέσματα από περιεχομένου αναζήτησης-ΕΞΑΓΩΓΕΣ
+# <a name="no-results-from-content-searchexports"></a>Δεν υπάρχουν αποτελέσματα από την αναζήτηση/εξαγωγή περιεχομένου
 
-Ζητήματα με περιεχομένου αναζήτησης/εξαγωγές δεν επιστρέφει δεδομένα ίσως οφείλεται σε ορισμένες φίλτρο ασφαλείας συμμόρφωσης που ήταν εγκατάστασης (Setup) από μια συγκεκριμένη Admin και δεν ανακοινώνουν όλα "διαχειριστές".
+Προβλήματα με την αναζήτηση/εξαγωγή περιεχομένου που δεν επιστρέφουν δεδομένα μπορεί να οφείλεται σε συγκεκριμένο φίλτρο ασφαλείας συμμόρφωσης που είχε ρυθμιστεί από έναν συγκεκριμένο διαχειριστή και να μην το κοινοποιεί σε όλους τους διαχειριστές.
 
-Για να επιλύσετε αυτό το πρόβλημα, ελέγξτε για να δείτε εάν υπάρχουν φίλτρα ασφαλείας συμμόρφωσης που μπορεί να προκαλούν αυτό:
-1. Συνδεθείτε με ασφάλεια και Powershell συμμόρφωση παραγωγής
-2. Εκτελέστε τις ακόλουθες commandlets:
+Για να επιλύσετε αυτό το θέμα, ανατρέξτε στο θέμα εάν υπάρχουν φίλτρα ασφαλείας συμμόρφωσης που μπορεί να προκαλούν το εξής:
+1. Σύνδεση με το κέντρο ασφαλείας και το κέντρο συμμόρφωσης PowerShell
+2. Εκτελέστε τα παρακάτω commandlets:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-$org την εταιρεία
+<br>Get-ComplianceSecurityFilter-οργάνωση $org
