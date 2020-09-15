@@ -5,20 +5,21 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 1c72edc59b372b2cf0bbe84b2510dd71132e21a3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628098"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693699"
 ---
 # <a name="cannot-dismiss-reminders"></a>Δεν είναι δυνατή η απόρριψη υπενθυμίσεων
 
-Για πληροφορίες σχετικά με το τι πρέπει να κάνετε όταν δεν μπορείτε να απορρίψετε υπενθυμίσεις ημερολογίου, ανατρέξτε στο στοιχείο δεν μπορείτε να [απορρίψετε με επιτυχία τις υπενθυμίσεις ημερολογίου στο Outlook](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
+Για πληροφορίες σχετικά με το τι πρέπει να κάνετε όταν δεν μπορείτε να κλείσετε τις υπενθυμίσεις ημερολογίου, ανατρέξτε στο θέμα δεν είναι δυνατή η μη [επιτυχής απόρριψη των υπενθυμίσεων ημερολογίου στο Outlook](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
 

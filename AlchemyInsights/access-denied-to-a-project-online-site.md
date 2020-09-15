@@ -1,31 +1,32 @@
 ---
-title: Δεν επιτρέπεται η πρόσβαση σε μια τοποθεσία Project Web App
+title: Δεν επιτρέπεται η πρόσβαση σε μια τοποθεσία του Project Web App
 ms.author: pebaum
 author: pebaum
 manager: pamg
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: ea2069f73db1e7ff52ca7fa0be46b002e9b2702a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050561"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663657"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Δώστε δικαιώματα στους χρήστες στο Project Online
+# <a name="give-users-permissions-in-project-online"></a>Εκχώρηση δικαιωμάτων στους χρήστες στο Project Online
 
-Δώστε στους χρήστες πρόσβαση σε μια τοποθεσία Project Web App χρησιμοποιώντας τη λειτουργία δικαιωμάτων του SharePoint:
+Παρέχετε στους χρήστες πρόσβαση σε μια τοποθεσία του Project Web App χρησιμοποιώντας τη λειτουργία δικαιωμάτων του SharePoint:
 
 1. Συνδεθείτε στο Project Online ως διαχειριστής.
 2. Στην αρχική σελίδα του Project Web App, επιλέξτε **κοινή χρήση** στην επάνω δεξιά γωνία.
-3. Στο πλαίσιο διαλόγου " **κοινή χρήση έργου Web App** ", πληκτρολογήστε το όνομα χρήστη του ατόμου στο οποίο θέλετε να δώσετε πρόσβαση στο πλαίσιο " **Πρόσκληση ατόμων** ".
-4. Επιλέξτε " **Εμφάνιση επιλογών**" και στο μενού " **επιλογή επιπέδου δικαιωμάτων** ", επιλέξτε " **διαχειριστές έργου" για το Project Web App**.
-5. Επιλέξτε **Share**.
+3. Στο παράθυρο διαλόγου **κοινή χρήση του Project Web App** , πληκτρολογήστε το όνομα χρήστη του ατόμου στο οποίο θέλετε να εκχωρήσετε πρόσβαση στο πλαίσιο **Πρόσκληση ατόμων** .
+4. Επιλέξτε **Εμφάνιση επιλογών**και, στο μενού **επιλογή επιπέδου δικαιωμάτων** , επιλέξτε **διαχειριστές έργου για το Project Web App**.
+5. Επιλέξτε **κοινή χρήση**.
 
-Εάν χρησιμοποιείτε τη λειτουργία δικαιώματα έργου ή για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη ατόμων στο Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Εάν χρησιμοποιείτε τη λειτουργία δικαιωμάτων έργου ή για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη ατόμων στο Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

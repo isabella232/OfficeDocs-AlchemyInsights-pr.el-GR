@@ -1,45 +1,46 @@
 ---
-title: Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών Των Windows στο Microsoft Intune
+title: Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών Windows στο Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665832"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658878"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών Των Windows στο Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών Windows στο Microsoft Intune
 
 Εξετάστε τους πόρους που παρατίθενται παρακάτω για να επιλύσετε το ζήτημά σας τώρα.
   
 Ορισμένα συνηθισμένα μηνύματα σφάλματος και βήματα επίλυσης:
   
- **Δεν είναι δυνατή η εγκατάσταση του λογισμικού, 0x80cf4017:** Το πιστοποιητικό του λογαριασμού σας έχει λήξει. Κάντε ξανά λήψη του πακέτου λογισμικού υπολογιστή-πελάτη στην κονσόλα διαχείρισης Intune. Εξετάστε αυτήν την τεκμηρίωση για περισσότερες πληροφορίες.
+ **Δεν είναι δυνατή η εγκατάσταση του λογισμικού, 0x80cf4017:** Το πιστοποιητικό του λογαριασμού σας έχει λήξει. Επαναλάβετε τη λήψη του πακέτου λογισμικού υπολογιστή-πελάτη υπολογιστή στην κονσόλα διαχείρισης του Intune. Εξετάστε αυτή την τεκμηρίωση για περισσότερες πληροφορίες.
   
- **Κωδικός σφάλματος 0x801c0003:** Το σφάλμα μπορεί να παρουσιαστεί στα ακόλουθα σενάρια:
+ **Κωδικός σφάλματος 0x801c0003:** Το σφάλμα μπορεί να προκύψει στα ακόλουθα σενάρια:
   
--  Ο χρήστης έχει περισσότερες συσκευές εγγεγραμμένες από το όριο της συσκευής. Εξετάστε αυτά τα έγγραφα για να [καταργήσετε μια συσκευή](https://docs.microsoft.com/intune/devices-wipe) ή [να αλλάξετε το όριο της συσκευής](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Ο χρήστης έχει περισσότερες συσκευές που έχουν εγγραφεί από το όριο της συσκευής. Εξετάστε αυτά τα έγγραφα για να [καταργήσετε μια συσκευή](https://docs.microsoft.com/intune/devices-wipe) ή να [αλλάξετε το όριο της συσκευής](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
--  "Οι χρήστες μπορούν να ενώσουν συσκευές σε Azure AD" έχει οριστεί σε "καμία". Ορίστε το σε όλους ή επιλέξτε χρήστες. Εξετάστε [αυτήν την τεκμηρίωση](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) για περισσότερες πληροφορίες.
+-  "Οι χρήστες μπορούν να συμμετέχουν σε συσκευές στο Azure AD" έχει την τιμή "καμία". Ορίστε την σε όλους ή επιλέξτε χρήστες. Εξετάστε [αυτή την τεκμηρίωση](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) για περισσότερες πληροφορίες.
 
--  Η συσκευή έχει ήδη εγγραφεί από άλλο χρήστη. Σε αυτήν την περίπτωση, καταργήστε τη συσκευή από την κονσόλα Azure Intune ή καταργήστε την εγγραφή της συσκευής με μη αυτόματο τρόπο πριν προσπαθήσετε ξανά.
+-  Η συσκευή έχει ήδη εγγραφεί από άλλο χρήστη. Εάν αυτή είναι η περίπτωση, καταργήστε τη συσκευή από την κονσόλα Azure Intune ή καταργήστε την εγγραφή της συσκευής με μη αυτόματο τρόπο, πριν να προσπαθήσετε ξανά.
 
--  Η συσκευή είναι Windows 10 Home. Μόνο τα Windows 10 Pro, εκπαιδευτικά και εταιρικά SKU μπορούν να συμμετάσχουν στην υπηρεσία καταλόγου Azure Active Directory.
+-  Η συσκευή είναι η αρχική σελίδα των Windows 10. Μόνο τα Windows 10 Pro, εκπαιδευτικά και εταιρικά SKU μπορούν να συμμετέχουν στο Azure Active Directory.
 
-Πρόσθετοι πόροι που θα σας βοηθήσουν να επιλύσετε το ζήτημά σας:
+Πρόσθετοι πόροι που θα σας βοηθήσουν να επιλύσετε το πρόβλημα:
   
--  Χρησιμοποιήστε την [πύλη αντιμετώπισης προβλημάτων intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε συνήθεις αποτυχίες εγγραφής. Εξετάστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.
+-  Χρησιμοποιήστε την [πύλη αντιμετώπισης προβλημάτων του Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε συνηθισμένες αποτυχίες εγγραφής. Εξετάστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.
 
--  Εξετάστε αυτά τα έγγραφα για μια λίστα συνηθισμένων σφαλμάτων που εμποδίζουν την εγγραφή και τις λύσεις σε κάθε ένα: [Οδηγός αντιμετώπισης προβλημάτων](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) και [Αντιμετώπιση προβλημάτων εγγράφου](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Εξετάστε αυτά τα έγγραφα για μια λίστα με συνηθισμένα σφάλματα που εμποδίζουν την εγγραφή και τις αναλύσεις σε κάθε: [Οδηγός αντιμετώπισης προβλημάτων](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) και [Αντιμετώπιση προβλημάτων doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
 [Μάθετε πώς μπορείτε να εγγράψετε συσκευές Windows στο Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
