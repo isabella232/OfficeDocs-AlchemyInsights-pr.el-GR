@@ -1,32 +1,33 @@
 ---
-title: Προστασία από απειλές για προχωρημένους του Office 365
+title: Office 365 προηγμένη προστασία από απειλές
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506594"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696621"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Προστασία από απειλές για προχωρημένους του Office 365
+# <a name="office-365-advanced-threat-protection"></a>Office 365 προηγμένη προστασία από απειλές
 
-- Τα ασφαλή συνημμένα, οι ασφαλείς συνδέσεις και τα αντι-phishing αποτελούν μέρος της Προηγμένης προστασίας από απειλές (ATP) του Office 365. Το Enterprise E5, το Education A5 και το Microsoft 365 Premium για επιχειρήσεις περιλαμβάνουν atp. Όλα τα άλλα προγράμματα απαιτούν μια συνδρομή ATP πρόσθετων.
+- Τα ασφαλή συνημμένα, οι ασφαλείς συνδέσεις και το anti-phishing αποτελούν μέρος της προηγμένης προστασίας απειλών του Office 365 (ATP). Το Enterprise E5, η εκπαίδευση a5 και το Microsoft 365 Business Premium περιλαμβάνουν την ATP. Όλα τα άλλα προγράμματα απαιτούν μια συνδρομή ATP πρόσθετου.
 
-- Πρέπει να εκχωρήσετε τις κατάλληλες άδειες χρήσης για την προστασία των χρηστών σας από το Office 365 ATP. Ανατρέξτε [σε αυτό το θέμα](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) για οδηγίες σχετικά με τον τρόπο μαζικής εφαρμογής αδειών χρήσης στους χρήστες σας.
+- Πρέπει να εκχωρήσετε τις κατάλληλες άδειες χρήσης για την προστασία των χρηστών σας από το Office 365 ATP. Ανατρέξτε σε [αυτό το θέμα](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) για οδηγίες σχετικά με το πώς μπορείτε να εφαρμόσετε μαζικές άδειες χρήσης στους χρήστες σας.
 
-- Οι καθολικοί διαχειριστές ή οι διαχειριστές ασφαλείας μπορούν να αποκτήσουν πρόσβαση στις δυνατότητες atp του Office 365 στο Κέντρο συμμόρφωσης & ασφαλείας στην πολιτική **διαχείρισης απειλών** \> **Policy**.
+- Οι Καθολικοί διαχειριστές ή οι διαχειριστές ασφαλείας μπορούν να έχουν πρόσβαση στις δυνατότητες του Office 365 ATP στο κέντρο συμμόρφωσης & ασφαλείας στην πολιτική **απειλών Managmeent** \> **Policy**.
 
-- Οι πολιτικές ασφαλούς σύνδεσης και ασφαλούς σύνδεσης μπορούν να σας έχουν εμβέλεια ολόκληρου του οργανισμού σας, συγκεκριμένους τομείς ή μικρότερες ομάδες χρηστών.
+- Τα ασφαλή συνημμένα και οι πολιτικές ασφαλούς σύνδεσης μπορούν να σας περιληφθούν σε ολόκληρη την εταιρεία σας, συγκεκριμένους τομείς ή μικρότερες ομάδες χρηστών.
 
-- Δεν υπάρχει προεπιλεγμένη πολιτική ασφαλούς συνημμένου ATP. Πρέπει να [δημιουργήσετε μια πολιτική](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) και να την εφαρμόσετε στους χρήστες σας.
+- Δεν υπάρχει προεπιλεγμένη πολιτική ασφαλούς σύνδεσης ATP. Πρέπει να [δημιουργήσετε μια πολιτική](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) και να την εφαρμόσετε στους χρήστες σας.
 
-- Υπάρχει μια προεπιλεγμένη πολιτική ασφαλών συνδέσεων ATP που ισχύει για όλους τους συγγενείς του οργανισμού σας. Για να επεξεργαστείτε αυτήν την πολιτική ή να δημιουργήσετε προσαρμοσμένες πολιτικές, ανατρέξτε [σε αυτό το θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Υπάρχει μια προεπιλεγμένη πολιτική ασφαλών συνδέσεων ATP που ισχύει για όλους τους χρήστες στον οργανισμό σας. Για να επεξεργαστείτε αυτή την πολιτική ή για να δημιουργήσετε προσαρμοσμένες πολιτικές, ανατρέξτε σε [αυτό το θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
