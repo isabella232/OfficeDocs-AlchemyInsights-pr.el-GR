@@ -1,27 +1,28 @@
 ---
-title: Αλλαγή μεγέθους γραμματοσειράς ή γραμματοσειράς στο Outlook στο web
+title: Αλλαγή γραμματοσειράς ή μεγέθους γραμματοσειράς στο Outlook στο Web
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 266af20d0c47f328685b190562521227e01635f6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f85f4112bd884dd55da186645b622999fc5d0eac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764800"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721832"
 ---
-# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Αλλαγή μεγέθους γραμματοσειράς ή γραμματοσειράς στο Outlook στο web
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Αλλαγή γραμματοσειράς ή μεγέθους γραμματοσειράς στο Outlook στο Web
 
-Κατά την ανάγνωση μηνυμάτων ηλεκτρονικού ταχυδρομείου, μπορείτε να χρησιμοποιήσετε τη λειτουργία ζουμ του προγράμματος περιήγησής σας για να κάνετε το κείμενο στην οθόνη σας μεγαλύτερο ή μικρότερο.
+Κατά την ανάγνωση μηνυμάτων ηλεκτρονικού ταχυδρομείου, μπορείτε να χρησιμοποιήσετε τη συνάρτηση ζουμ του προγράμματος περιήγησής σας για να μεγεθύνετε ή να μικρύνετε το κείμενο στην οθόνη σας.
   
 Για να αλλάξετε τη γραμματοσειρά ή το μέγεθος γραμματοσειράς κατά τη σύνταξη ενός μηνύματος:
   
@@ -32,4 +33,4 @@ ms.locfileid: "43764800"
     
 Εάν δεν βλέπετε το μενού επιλογών μορφοποίησης στο κάτω μέρος του παραθύρου σύνθεσης, επιλέξτε <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **Επιλογές μορφοποίησης**.
   
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αλλαγή μεγέθους γραμματοσειράς στο Outlook στο web](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e).
+Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Αλλαγή μεγέθους γραμματοσειράς στο Outlook στο Web](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e).
