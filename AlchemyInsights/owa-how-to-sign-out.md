@@ -1,32 +1,33 @@
 ---
-title: Τρόπος αποσύνδεσης από το Outlook στο web
+title: Πώς μπορείτε να αποσυνδεθείτε από το Outlook στο Web
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742949"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802129"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Τρόπος αποσύνδεσης από το Outlook στο web
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Πώς μπορείτε να αποσυνδεθείτε από το Outlook στο Web
 
-Για να αποσυνδεθείτε από το Outlook στο web, επιλέξτε το όνομα ή την εικόνα σας στην επάνω δεξιά γωνία και επιλέξτε **Έξοδος**.
+Για να **αποσυνδεθείτε από**το Outlook στο Web, επιλέξτε το όνομα ή την εικόνα σας στην επάνω δεξιά γωνία και επιλέξτε Έξοδος.
 
-Για να διακόψετε την αυτόματη είσοδο στον λογαριασμό σας στην εργασία ή το σχολείο:
+Για να διακόψετε την αυτόματη είσοδο στον εργασιακό ή σχολικό λογαριασμό σας:
 
-1. Επιλέξτε το όνομα ή την εικόνα σας και επιλέξτε **Έξοδος**.
-1. Μεταβείτε [στην Outlook.office.com](https://outlook.office.com/) και **επιλέξτε Χρήση άλλου λογαριασμού**.
-1. Συνδεθείτε με τη διεύθυνση ηλεκτρονικού ταχυδρομείου που θέλετε να χρησιμοποιήσετε.
+1. Επιλέξτε το όνομα ή την εικόνα σας και επιλέξτε **Έξοδος.**
+1. Μεταβείτε στο [Outlook.Office.com](https://outlook.office.com/) και επιλέξτε **χρήση άλλου λογαριασμού**.
+1. Πραγματοποιήστε είσοδο με τη διεύθυνση ηλεκτρονικού ταχυδρομείου που θέλετε να χρησιμοποιήσετε.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Τρόπος εισόδου ή εκτός του Outlook στο web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Πώς μπορείτε να πραγματοποιήσετε είσοδο ή έξοδο από το Outlook στο Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
