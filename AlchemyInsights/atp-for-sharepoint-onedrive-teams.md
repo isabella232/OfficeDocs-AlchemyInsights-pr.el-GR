@@ -1,34 +1,35 @@
 ---
-title: Atp για ομάδες του SharePoint, του OneDrive και της Microsoft
+title: ATP για το SharePoint, το OneDrive και το Microsoft teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: e9437d04815d4ca2f55cf9133ef6a4b429cd2476
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508412"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715561"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a><span data-ttu-id="9c535-102">Atp για ομάδες του SharePoint, του OneDrive και της Microsoft</span><span class="sxs-lookup"><span data-stu-id="9c535-102">ATP for SharePoint, OneDrive, and Microsoft Teams</span></span>
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a><span data-ttu-id="b6bac-102">ATP για το SharePoint, το OneDrive και το Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="b6bac-102">ATP for SharePoint, OneDrive, and Microsoft Teams</span></span>
 
-<span data-ttu-id="9c535-103">Ακολουθήστε αυτά τα βήματα για να ενεργοποιήσετε την Προηγμένη Προστασία από απειλές:</span><span class="sxs-lookup"><span data-stu-id="9c535-103">Follow these steps to enable Advanced Threat Protection:</span></span>
+<span data-ttu-id="b6bac-103">Ακολουθήστε τα παρακάτω βήματα για να ενεργοποιήσετε την προηγμένη προστασία από απειλές:</span><span class="sxs-lookup"><span data-stu-id="b6bac-103">Follow these steps to enable Advanced Threat Protection:</span></span>
 
-1. <span data-ttu-id="9c535-104">Μεταβείτε [https://protection.office.com](https://protection.office.com) και συνδεθείτε με έναν καθολικό λογαριασμό διαχειριστή ή διαχειριστή ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="9c535-104">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+1. <span data-ttu-id="b6bac-104">Μεταβείτε [https://protection.office.com](https://protection.office.com) και πραγματοποιήστε είσοδο με έναν καθολικό διαχειριστή ή έναν λογαριασμό διαχειριστή ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="b6bac-104">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-2. <span data-ttu-id="9c535-105">Στο αριστερό παράθυρο περιήγησης στην περιοχή **Διαχείριση απειλών**, επιλέξτε Ασφαλή **Policy** \> **συνημμένα πολιτικής**.</span><span class="sxs-lookup"><span data-stu-id="9c535-105">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Attachments**.</span></span>
+2. <span data-ttu-id="b6bac-105">Στο αριστερό παράθυρο περιήγησης, στην περιοχή **διαχείριση απειλών**, επιλέξτε **Policy** \> **ασφαλή συνημμένα**πολιτικής.</span><span class="sxs-lookup"><span data-stu-id="b6bac-105">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Attachments**.</span></span>
 
-3. <span data-ttu-id="9c535-106">Επιλέξτε **Ενεργοποίηση atp για ομάδες Του SharePoint, του OneDrive και της Microsoft**.</span><span class="sxs-lookup"><span data-stu-id="9c535-106">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**.</span></span>
+3. <span data-ttu-id="b6bac-106">Επιλέξτε **Ενεργοποίηση ATP για το SharePoint, το OneDrive και το Microsoft teams**.</span><span class="sxs-lookup"><span data-stu-id="b6bac-106">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**.</span></span>
 
-4. <span data-ttu-id="9c535-107">[Δημιουργήστε μια πολιτική ειδοποίησης δραστηριότητας](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) για τη λήψη ειδοποιήσεων όταν εντοπίζουμε κακόβουλα αρχεία.</span><span class="sxs-lookup"><span data-stu-id="9c535-107">[Create an activity alert policy](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) to receive notifications when we detect malicious files.</span></span>
+4. <span data-ttu-id="b6bac-107">[Δημιουργήστε μια πολιτική ειδοποίησης δραστηριότητας](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) για να λαμβάνετε ειδοποιήσεις όταν ανιχνεύουμε κακόβουλα αρχεία.</span><span class="sxs-lookup"><span data-stu-id="b6bac-107">[Create an activity alert policy](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) to receive notifications when we detect malicious files.</span></span>
 
-<span data-ttu-id="9c535-108">Για πλήρεις οδηγίες, ανατρέξτε σε αυτό το [θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="9c535-108">For complete instructions, see this [topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span></span>
+<span data-ttu-id="b6bac-108">Για πλήρεις οδηγίες, ανατρέξτε σε αυτό το [θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="b6bac-108">For complete instructions, see this [topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span></span>
 
-<span data-ttu-id="9c535-109">**Σημείωση:** Από τη σχεδίαση, η ATP δεν σαρώνει κάθε αρχείο στο SharePoint Online, το OneDrive για επιχειρήσεις ή το Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="9c535-109">**Note**: By design, ATP doesn't scan every single file in SharePoint Online, OneDrive for Business, or Microsoft Teams.</span></span> <span data-ttu-id="9c535-110">Τα αρχεία σαρώνονται ασύγχρονα από μια διαδικασία που χρησιμοποιεί κοινή χρήση δραστηριότητας, δραστηριότητα ς επισκέπτη και σήματα απειλής για τον εντοπισμό κακόβουλων αρχείων.</span><span class="sxs-lookup"><span data-stu-id="9c535-110">Files are scanned asynchronously by a process that uses sharing activity, guest activity, and threat signals to identify malicious files.</span></span> <span data-ttu-id="9c535-111">Για περισσότερες πληροφορίες, ανατρέξτε σε αυτό το [θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="9c535-111">For more information, see this [topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
+<span data-ttu-id="b6bac-109">**Σημείωση**: κατά τη σχεδίαση, το ATP δεν σαρώνει όλα τα αρχεία του SharePoint Online, του OneDrive για την επιχείρηση ή του Microsoft teams.</span><span class="sxs-lookup"><span data-stu-id="b6bac-109">**Note**: By design, ATP doesn't scan every single file in SharePoint Online, OneDrive for Business, or Microsoft Teams.</span></span> <span data-ttu-id="b6bac-110">Τα αρχεία σαρώνονται ασύγχρονα από μια διεργασία που χρησιμοποιεί δραστηριότητα κοινής χρήσης, δραστηριότητα επισκέπτη και σήματα απειλών για τον εντοπισμό κακόβουλων αρχείων.</span><span class="sxs-lookup"><span data-stu-id="b6bac-110">Files are scanned asynchronously by a process that uses sharing activity, guest activity, and threat signals to identify malicious files.</span></span> <span data-ttu-id="b6bac-111">Για περισσότερες πληροφορίες, ανατρέξτε σε αυτό το [θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="b6bac-111">For more information, see this [topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
