@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469242"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681008"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Αλλαγές στην εξαγωγή ονόματος εταιρείας στο SharePoint Online
 
-Ξεκινώντας στις 15 Νοεμβρίου, 2019, θα [αφαιρέσουμε την εξαγωγή ονόματος εταιρείας από το SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Εξαγωγή ονόματος εταιρείας στο SharePoint επιτρέπει στο σύστημα αναζήτησης για να εξαγάγετε τα ονόματα των εταιρειών από το περιεχόμενο κάτω από ένα συγκεκριμένο σύνολο συνθηκών χρησιμοποιώντας ένα προσυμπληρωμένο λεξικό ή χρησιμοποιώντας τις λίστες εξαιρέσεις εταιρείας ή εταιρείας. Ενώ η εξαγωγή ονόματος εταιρείας έχει γίνει μια λύση που βασίζεται σε βάση για να αντλήσει ένα ή περισσότερα ονόματα εταιρειών από το περιεχόμενο στο SharePoint Online, τόσο το λεξικό και το υποκείμενο χαρακτηριστικό σύνολο έχουν γίνει παρωχημένα.
+Ξεκινώντας στις 15 Νοεμβρίου, 2019, θα [καταργήσουμε την εξαγωγή ονόματος εταιρείας από το SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Η εξαγωγή επωνυμίας εταιρείας στο SharePoint επιτρέπει στο σύστημα αναζήτησης να εξαγάγει τα ονόματα εταιρειών από το περιεχόμενο σε ένα συγκεκριμένο πλαίσιο συνθηκών χρησιμοποιώντας ένα προ-συμπληρωμένο λεξικό ή χρησιμοποιώντας τις λίστες συμπερίληψης εταιρείας ή εξαιρέσεων εταιρείας. Ενώ η εξαγωγή της επωνυμίας της εταιρείας έχει μετατραπεί σε λύση με βάση την οποία θα προκύψει μία ή περισσότερες εταιρικές ονομασίες από το περιεχόμενο στο SharePoint Online, τόσο το λεξικό όσο και το υποκείμενο σύνολό του έχουν γίνει απαρχαιωμένα.
 
-- [Πώς μπορώ να ξέρω αν έχει ενεργοποιηθεί η εξαγωγή ονόματος εταιρείας για μια ιδιότητα;](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Πώς μπορώ να γνωρίζω εάν η εξαγωγή της επωνυμίας εταιρείας είναι ενεργοποιημένη για μια ιδιότητα;](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Τι συμβαίνει όταν η εξαγωγή ονόματος εταιρείας έχει καταργηθεί;](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Τι συμβαίνει όταν έχει καταργηθεί η εξαγωγή της επωνυμίας εταιρείας;](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Υπάρχουν εναλλακτικές λύσεις για την εξαγωγή του ονόματος της εταιρείας;](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Υπάρχουν εναλλακτικές λύσεις για την εξαγωγή της επωνυμίας της εταιρείας;](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
