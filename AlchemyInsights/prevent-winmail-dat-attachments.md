@@ -1,32 +1,33 @@
 ---
-title: 2589 Αποτροπή συνημμένων του Winmail.dat σε μηνύματα ηλεκτρονικού ταχυδρομείου από τον οργανισμό σας
+title: το 2589 βοηθά στην αποτροπή των συνημμένων Winmail. dat σε μηνύματα ηλεκτρονικού ταχυδρομείου από τον οργανισμό σας
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666741"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693735"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Αποτροπή συνημμένων του Winmail.dat σε μηνύματα ηλεκτρονικού ταχυδρομείου από τον οργανισμό σας
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Βοήθεια για την αποτροπή των συνημμένων Winmail. dat σε μηνύματα ηλεκτρονικού ταχυδρομείου από τον οργανισμό σας
 
-Ως διαχειριστής, δοκιμάστε τα εξής βήματα:
+Ως διαχειριστής, δοκιμάστε τα παρακάτω βήματα:
 
-1. Ανοίξτε το [κέντρο διαχείρισης](https://outlook.office365.com/ecp/)του Exchange .
+1. Ανοίξτε το [Κέντρο διαχείρισης του Exchange](https://outlook.office365.com/ecp/).
 
-2. Μεταβείτε στην περιοχή > **Απομακρυσμένοι τομείς** **ροής αλληλογραφίας**.
+2. Μετάβαση σε **Mail flow**  >  **απομακρυσμένους τομείς**ροής αλληλογραφίας.
 
-3. Επιλέξτε τον προεπιλεγμένο απομακρυσμένο τομέα με το όνομα **"Προεπιλογή"** και, στη συνέχεια, κάντε κλικ στην επιλογή **Επεξεργασία**.
+3. Επιλέξτε τον προεπιλεγμένο απομακρυσμένο τομέα με το όνομα **default**και, στη συνέχεια, κάντε κλικ στην επιλογή **Επεξεργασία**.
 
-4. Στην ενότητα **Χρήση μορφής εμπλουτισμένου κειμένου,** επιλέξτε **Ποτέ**.
+4. Στην ενότητα **χρήση μορφής εμπλουτισμένου κειμένου** , επιλέξτε **ποτέ**.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Καθορισμός της μορφής μηνύματος για απομακρυσμένους τομείς](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα καθορισμός της μορφής μηνύματος για απομακρυσμένους τομείς](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
