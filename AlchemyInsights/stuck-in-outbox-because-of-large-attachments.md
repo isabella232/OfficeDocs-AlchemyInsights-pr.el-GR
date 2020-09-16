@@ -1,10 +1,11 @@
 ---
-title: Κολλήσει στα εξερχόμενα λόγω μεγάλων συνημμένων
+title: Έχει κολλήσει στα εξερχόμενα εξαιτίας των μεγάλων συνημμένων
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 8eddefaafaf22c53b0b5e4e461dae6009a0b10c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542008"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726631"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Επιδιόρθωση μηνυμάτων που έχουν κολλήσει στα εξερχόμενα με SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Επιδιόρθωση μηνυμάτων που έχουν κολλήσει στα εξερχόμενα με τη SaRA
 
-Συνιστάται να ξεκινήσετε εκτελώντας το σενάριο ["Αντιμετωπίζετε προβλήματα κατά την αποστολή, λήψη ή εύρεση μηνυμάτων ηλεκτρονικού ταχυδρομείου"](https://aka.ms/SaRA-OutlookSendReceive) στον υπολογιστή που πραγματοποιείται από το εργαλείο [βοηθός υποστήριξης και αποκατάστασης της Microsoft (SaRa).](https://diagnostics.office.com/#/)
+Συνιστάται να ξεκινήσετε εκτελώντας το σενάριο "Αντιμετωπίζω προβλήματα κατά την [Αποστολή, λήψη ή Εύρεση μηνυμάτων ηλεκτρονικού ταχυδρομείου"](https://aka.ms/SaRA-OutlookSendReceive) στον υπολογιστή που επηρεάζεται από το εργαλείο [υποστήριξης και αποκατάστασης του βοηθού Microsoft (SaRa)](https://diagnostics.office.com/#/) .

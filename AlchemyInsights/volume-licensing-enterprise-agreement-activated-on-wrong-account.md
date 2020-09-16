@@ -1,11 +1,12 @@
 ---
-title: Σύμβαση παραχώρησης πολλαπλών αδειών χρήσης (volume licensing) που ενεργοποιείται σε λάθος λογαριασμό
+title: Συμφωνία πολλαπλών αδειών χρήσης για επιχειρήσεις που έχει ενεργοποιηθεί σε λάθος λογαριασμό
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021534"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726126"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Σύμβαση παραχώρησης πολλαπλών αδειών χρήσης βάσει ποσότητας που έχει ενεργοποιηθεί σε λάθος λογαριασμό ή μεταφέρει άδειες χρήσης από έναν λογαριασμό σε έναν άλλο
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Συμφωνία πολλαπλών αδειών χρήσης για επιχειρήσεις που ενεργοποιείται σε λάθος λογαριασμό ή μεταφέρει άδειες χρήσης από έναν λογαριασμό σε έναν άλλο
 
-Εάν διαπιστώσετε ότι οι συνδρομές σας που αγοράστηκαν μέσω **μιας εταιρικής σύμβασης παραχώρησης πολλαπλών αδειών χρήσης (Volume Licensing)** έχουν ενεργοποιηθεί σε **λάθος μισθωτή**ή θέλετε να **μεταφέρετε άδειες χρήσης** από έναν μισθωτή σε έναν άλλο, επικοινωνήστε με το [Κέντρο εξυπηρέτησης πολλαπλών αδειών χρήσης (Volume Licensing)](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)της Microsoft .
+Εάν διαπιστώσετε ότι οι συνδρομές σας αγοράζονται μέσω μιας **σύμβασης πολλαπλών αδειών χρήσης για μεγάλες επιχειρήσεις** έχουν ενεργοποιηθεί σε **λάθος μισθωτή**ή εάν θέλετε να **μεταφέρετε άδειες χρήσης** από έναν μισθωτή σε έναν άλλο, επικοινωνήστε με το [Κέντρο εξυπηρέτησης πολλαπλών αδειών χρήσης της Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
