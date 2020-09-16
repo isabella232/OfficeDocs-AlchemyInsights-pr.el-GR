@@ -1,11 +1,12 @@
 ---
-title: Πολλές άδειες;
+title: Πάρα πολλές άδειες χρήσης;
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,23 +14,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510464"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736027"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="b0758-102">Πολλές άδειες;</span><span class="sxs-lookup"><span data-stu-id="b0758-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="78db9-102">Πάρα πολλές άδειες χρήσης;</span><span class="sxs-lookup"><span data-stu-id="78db9-102">Too many licenses?</span></span>
 
-<span data-ttu-id="b0758-103">Εάν σκέφτεστε ότι χρεώνετε για πάρα πολλές άδειες, αυτό οφείλεται συνήθως στην κατοχή περισσότερων αδειών κατόπιν χρειάζεστε.</span><span class="sxs-lookup"><span data-stu-id="b0758-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="78db9-103">Εάν νομίζετε ότι χρεώνεστε για πάρα πολλές άδειες χρήσης, αυτό συνήθως οφείλεται στο ότι έχετε αγοράσει περισσότερες άδειες χρήσης, τότε χρειάζεστε.</span><span class="sxs-lookup"><span data-stu-id="78db9-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="b0758-104">**Μείωση του αριθμού των αδειών χρήσης που αγοράστηκαν**</span><span class="sxs-lookup"><span data-stu-id="b0758-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="78db9-104">**Μείωση του αριθμού των αδειών χρήσης που έχουν αγοραστεί**</span><span class="sxs-lookup"><span data-stu-id="78db9-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="b0758-105">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση** \> **[των προϊόντων σας.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="b0758-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="78db9-105">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **χρέωση** των \> **[προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="78db9-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="b0758-106">Βρείτε τη συνδρομή από την οποία θέλετε να καταργήσετε άδειες χρήσης και, στη συνέχεια, επιλέξτε **Προσθαφαίρεση αδειών χρήσης**.</span><span class="sxs-lookup"><span data-stu-id="b0758-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
+2. <span data-ttu-id="78db9-106">Εντοπίστε τη συνδρομή από την οποία θέλετε να καταργήσετε άδειες χρήσης και, στη συνέχεια, επιλέξτε **Προσθήκη/κατάργηση αδειών χρήσης**.</span><span class="sxs-lookup"><span data-stu-id="78db9-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="b0758-107">Στο πλαίσιο **Σύνολο αδειών χρήσης,** πληκτρολογήστε το συνολικό αριθμό των αδειών χρήσης που χρειάζεστε για αυτήν τη συνδρομή και, στη συνέχεια, επιλέξτε **Υποβολή αλλαγής**.</span><span class="sxs-lookup"><span data-stu-id="b0758-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="b0758-108">Για παράδειγμα, εάν έχετε 110 άδειες χρήσης και θέλετε να καταργήσετε 5 από αυτές, πληκτρολογήστε 105.</span><span class="sxs-lookup"><span data-stu-id="b0758-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
+3. <span data-ttu-id="78db9-107">Στο πλαίσιο **συνολικές άδειες χρήσης** , εισαγάγετε τον συνολικό αριθμό των αδειών χρήσης που χρειάζεστε για αυτήν τη συνδρομή και, στη συνέχεια, επιλέξτε **Υποβολή αλλαγής**.</span><span class="sxs-lookup"><span data-stu-id="78db9-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="78db9-108">Για παράδειγμα, εάν έχετε άδειες χρήσης του 110 και θέλετε να καταργήσετε 5 από αυτές, πληκτρολογήστε 105.</span><span class="sxs-lookup"><span data-stu-id="78db9-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-<span data-ttu-id="b0758-109">Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Κατάργηση αδειών χρήσης από τη συνδρομή microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="b0758-109">To learn more, see [Remove licenses from your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
+<span data-ttu-id="78db9-109">Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα κατάργηση αδειών χρήσης από τη συνδρομή σας στο Microsoft 365 για επαγγελματική](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)χρήση.</span><span class="sxs-lookup"><span data-stu-id="78db9-109">To learn more, see [Remove licenses from your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
