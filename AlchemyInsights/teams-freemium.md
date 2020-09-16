@@ -1,28 +1,29 @@
 ---
-title: Ομάδες Φρίμιουμ
+title: Teams freemium
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 8de8414610fa181c0ad477563c5fdb8eaee5a3bd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737796"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736540"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Θα ήθελα να εγγραφείτε για ομάδες δωρεάν
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Θα ήθελα να γραφτώ στο teams δωρεάν
 
-Οι ομάδες είναι διαθέσιμες δωρεάν μέσω δύο διαφορετικών προγραμμάτων. Εφόσον επικοινωνείτε με την υποστήριξη με αυτήν την αίτηση, έχετε ήδη έναν υπάρχοντα μισθωτή της Microsoft 365, πράγμα που σημαίνει ότι έχετε ήδη το Microsoft Teams.
+Οι ομάδες είναι διαθέσιμες δωρεάν μέσω μερικών διαφορετικών προγραμμάτων. Καθώς επικοινωνείτε με την υποστήριξη με αυτό το αίτημα, διαθέτετε ήδη έναν υπάρχοντα μισθωτή του Microsoft 365, το οποίο σημαίνει ότι έχετε ήδη το Microsoft teams.
 
-Στις περισσότερες περιπτώσεις, οι ομάδες είναι ενεργοποιημένες από προεπιλογή για όλους τους χρήστες σας. Μόλις ενεργοποιηθεί, οι χρήστες σας μπορούν να εκτελέσουν ομάδες, είτε εγκαθιστώντας [υπολογιστές και](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)  [φορητούς](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) υπολογιστές, είτε [από το πρόγραμμα περιήγησης](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client) στη θέση <https://teams.microsoft.com.>
+Στις περισσότερες περιπτώσεις, οι ομάδες είναι ενεργοποιημένες από προεπιλογή για όλους τους χρήστες σας. Αφού ενεργοποιηθεί, οι χρήστες μπορούν να εκτελέσουν ομάδες, είτε [εγκαθιστώντας υπολογιστές](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   και [κινητές συσκευές](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) είτε [από το πρόγραμμα περιήγησης](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client)   στη διεύθυνση <https://teams.microsoft.com.>
 
-Εξαίρεση σε αυτό είναι οι ομάδες της Microsoft για εκπαιδευτικά ιδρύματα (EDU). Εάν έχετε μια άδεια χρήσης EDU, πρέπει να ενεργοποιήσετε το Microsoft Teams με μη αυτόματο τρόπο. Για να το κάνετε αυτό, μεταβείτε στο κέντρο διαχείρισης της Microsoft 365 **> Υπηρεσίες και τα πρόσθετα > ομάδες της Microsoft**. Αν χρησιμοποιείτε το νέο κέντρο διαχείρισης "Ομάδες", θα πρέπει να απενεργοποιήσετε την επιλογή **Δοκιμάστε το νέο κέντρο** διαχείρισης για να βρείτε **τις Υπηρεσίες και τα πρόσθετα**. ΣΗΜΑΝΤΙΚΟ: Ίσως χρειαστεί να περιμένετε έως και 24 ώρες για να τεθούν σε ισχύ οι αλλαγές σας.
+Η εξαίρεση σε αυτό είναι το Microsoft teams for Education (EDU). Εάν έχετε μια άδεια χρήσης EDU, πρέπει να ενεργοποιήσετε το Microsoft teams με μη αυτόματο τρόπο. Για να το κάνετε αυτό, μεταβείτε στο κέντρο διαχείρισης του Microsoft 365 **> υπηρεσιών και προσθέτων > Microsoft teams**. Εάν χρησιμοποιείτε το κέντρο διαχείρισης νέων ομάδων, θα πρέπει να απενεργοποιήσετε **τη δυνατότητα δοκιμάστε το νέο κέντρο διαχείρισης**   για να εντοπίσετε **υπηρεσίες και πρόσθετα**. ΣΗΜΑΝΤΙΚΌ: Ίσως χρειαστεί να περιμένετε έως και 24 ώρες για να εφαρμοστούν οι αλλαγές σας.
 
-Μην χάσετε όλες τις οδηγίες μας για [την υποστήριξη απομακρυσμένων εργαζομένων με ομάδες](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Μην χάσετε όλες τις οδηγίες για την [υποστήριξη απομακρυσμένων εργαζομένων με ομάδες](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).

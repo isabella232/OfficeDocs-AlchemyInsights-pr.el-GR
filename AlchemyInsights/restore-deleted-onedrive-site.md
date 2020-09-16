@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 151cd3f6fc0be241e689ec9cfe84b437d53529ed
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764620"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728035"
 ---
 # <a name="restore-a-deleted-onedrive-site"></a>Επαναφορά διαγραμμένης τοποθεσίας του OneDrive
 
-Όταν διαγράφετε ένα χρήστη στο κέντρο διαχείρισης της Microsoft 365 (ή όταν ένας χρήστης καταργείται μέσω συγχρονισμού της υπηρεσίας καταλόγου Active Directory), το OneDrive του χρήστη θα διατηρηθεί για τον αριθμό των ημερών που καθορίζετε στο κέντρο διαχείρισης του OneDrive. (Για πληροφορίες, ανατρέξτε στο θέμα [Ορισμός της προεπιλεγμένης διατήρησης αρχείων για διαγραμμένους χρήστες του OneDrive](https://docs.microsoft.com/onedrive/set-retention).)
+Όταν διαγράφετε ένα χρήστη στο κέντρο διαχείρισης του Microsoft 365 (ή όταν ένας χρήστης καταργείται μέσω του συγχρονισμού της υπηρεσίας καταλόγου Active Directory), το OneDrive του χρήστη θα διατηρηθεί για τον αριθμό των ημερών που καθορίζετε στο κέντρο διαχείρισης του OneDrive. (Για πληροφορίες, ανατρέξτε [στο θέμα Ρύθμιση της προεπιλεγμένης διατήρησης αρχείων για τους διαγραμμένους χρήστες του OneDrive](https://docs.microsoft.com/onedrive/set-retention).)
 
 * [Επαναφορά διαγραμμένης τοποθεσίας του OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Εάν πολλά από τα αρχεία σας στο OneDrive διαγραφούν, αντικατασταθούν, καταστραφούν ή μολυνθούν από κακόβουλο λογισμικό, μπορείτε να επαναφέρετε ολόκληρο το OneDrive σε προηγούμενη ώρα.
+Εάν τα πολλά αρχεία σας στο OneDrive διαγραφούν, αντικατασταθούν, καταστραφεί ή προσβληθούν από λογισμικό κακόβουλης λειτουργίας, μπορείτε να επαναφέρετε ολόκληρο το OneDrive σε προηγούμενη φορά.
 
 * [Επαναφορά του OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
