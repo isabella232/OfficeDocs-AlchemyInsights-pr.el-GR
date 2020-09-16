@@ -1,27 +1,28 @@
 ---
-title: Ομάδες για εικονικά διαγραφμένη υποδομή επιφάνειας εργασίας
+title: Ομάδες για εικονικά διαμορφωμένη υποδομή επιφάνειας εργασίας
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599448"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736432"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="54994-102">Ομάδες για εικονικά διαγραφμένη υποδομή επιφάνειας εργασίας</span><span class="sxs-lookup"><span data-stu-id="54994-102">Teams for Virtualized Desktop Infrastructure</span></span>
+# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="02acc-102">Ομάδες για εικονικά διαμορφωμένη υποδομή επιφάνειας εργασίας</span><span class="sxs-lookup"><span data-stu-id="02acc-102">Teams for Virtualized Desktop Infrastructure</span></span>
 
-<span data-ttu-id="54994-103">Για λεπτομερείς πληροφορίες σχετικά με τα περιβάλλοντα "Ομάδες για εικονικοποιημένες υποδομές επιφάνειας εργασίας", ανατρέξτε στο θέμα [Ομάδες για εικονικοποιημένη υποδομή επιφάνειας εργασίας](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="54994-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
+<span data-ttu-id="02acc-103">Για λεπτομερείς πληροφορίες σχετικά με τις ομάδες για εικονικά περιβάλλοντα υποδομής επιφάνειας εργασίας, ανατρέξτε στο θέμα [ομάδες για εικονικά διαμορφωμένη υποδομή επιφάνειας εργασίας](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="02acc-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
 
-<span data-ttu-id="54994-104">Γνωστά θέματα και περιορισμοί σε περιβάλλοντα VDI περιγράφονται λεπτομερώς στην ενότητα [Γνωστά θέματα και περιορισμοί](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) του ίδιου άρθρου, το οποίο περιλαμβάνει τα ακόλουθα θέματα:</span><span class="sxs-lookup"><span data-stu-id="54994-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
- - <span data-ttu-id="54994-105">Ανάπτυξη, εγκατάσταση και εγκατάσταση προγράμματος-πελάτη</span><span class="sxs-lookup"><span data-stu-id="54994-105">Client deployment, installation, and setup</span></span>
- - <span data-ttu-id="54994-106">Κλήσεις και συσκέψεις</span><span class="sxs-lookup"><span data-stu-id="54994-106">Calling and meetings</span></span>
+<span data-ttu-id="02acc-104">Τα γνωστά θέματα και οι περιορισμοί σε περιβάλλοντα VDI περιγράφονται λεπτομερώς στην ενότητα [γνωστά θέματα και περιορισμοί ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) του ίδιου άρθρου, το οποίο περιλαμβάνει τα ακόλουθα θέματα:</span><span class="sxs-lookup"><span data-stu-id="02acc-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
+ - <span data-ttu-id="02acc-105">Ανάπτυξη, εγκατάσταση και ρύθμιση προγράμματος-πελάτη</span><span class="sxs-lookup"><span data-stu-id="02acc-105">Client deployment, installation, and setup</span></span>
+ - <span data-ttu-id="02acc-106">Κλήσεις και συσκέψεις</span><span class="sxs-lookup"><span data-stu-id="02acc-106">Calling and meetings</span></span>
