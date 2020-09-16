@@ -1,28 +1,29 @@
 ---
-title: Χρήση του Βοηθού εγκατάστασης και αποκατάστασης για την αντιμετώπιση προβλημάτων του OneDrive για επιχειρήσεις
+title: Χρήση του Βοηθού εγκατάστασης και αποκατάστασης για την αντιμετώπιση προβλημάτων του OneDrive για την επιχείρηση
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710623"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749334"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Επιδιόρθωση προβλημάτων συγχρονισμού του OneDrive
 
-Η εφαρμογή Βοηθός υποστήριξης και αποκατάστασης μπορεί να σας βοηθήσει να εντοπίσετε και να διορθώσετε συνήθη προβλήματα με το συγχρονισμό αρχείων του OneDrive. 
+Η εφαρμογή Βοηθός υποστήριξης και αποκατάστασης μπορεί να σας βοηθήσει να εντοπίσετε και να διορθώσετε συνηθισμένα προβλήματα με το συγχρονισμό αρχείων του OneDrive. 
   
-[Κάντε λήψη του Βοηθού υποστήριξης και αποκατάστασης](https://aka.ms/sara), συνδεθείτε με τον λογαριασμό εργασίας ή σχολείου και ακολουθήστε τις οδηγίες της εφαρμογής για να αντιμετωπίσετε προβλήματα με το OneDrive για επιχειρήσεις. 
+[Πραγματοποιήστε λήψη του βοηθού υποστήριξης και αποκατάστασης](https://aka.ms/sara), πραγματοποιήστε είσοδο με τον εταιρικό ή σχολικό λογαριασμό σας και ακολουθήστε τις οδηγίες στην εφαρμογή για την αντιμετώπιση προβλημάτων του OneDrive για την επιχείρηση. 
   
 [Περισσότερα βήματα αντιμετώπισης προβλημάτων](https://go.microsoft.com/fwlink/?linkid=872097)
   
