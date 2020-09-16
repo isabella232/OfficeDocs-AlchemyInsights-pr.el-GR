@@ -1,24 +1,25 @@
 ---
-title: Μηνύματα ειδοποίησης συνδρομής στις εφαρμογές του Office
+title: Μηνύματα ειδοποίησης συνδρομής στις εφαρμογές Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789194"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659238"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Μηνύματα ειδοποίησης συνδρομής στις εφαρμογές του Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Μηνύματα ειδοποίησης συνδρομής στις εφαρμογές Microsoft 365
 
 - Αν το Office ήταν προεγκατεστημένο στη νέα σας συσκευή, ανατρέξτε στο θέμα [Ενεργοποίηση Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) για βοήθεια σχετικά με την ενεργοποίηση του Office στη νέα σας συσκευή.
 
@@ -32,7 +33,7 @@ ms.locfileid: "43789194"
 
 - Εκτελέστε το πρόγραμμα [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) και επανεκκινήστε τον υπολογιστή.
 
-- Στον υπολογιστή που επηρεάζεται, [Επαναφορά κατάστασης ενεργοποίησης του Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Στον υπολογιστή που επηρεάζεται, [Επαναφορά κατάστασης ενεργοποίησης του Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Για λεπτομερείς οδηγίες, ανατρέξτε στο θέμα: 
 
