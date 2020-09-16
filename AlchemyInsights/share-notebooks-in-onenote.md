@@ -1,26 +1,27 @@
 ---
-title: Τρόπος κοινής χρήσης σημειωματαρίων στο OneNote για το Web ή το OneNote 2016
+title: Πώς μπορείτε να κάνετε κοινή χρήση σημειωματαρίων στο OneNote για το Web ή το OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767429"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739105"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a><span data-ttu-id="d6b3a-102">Κοινή χρήση σημειωματαρίων στο OneNote για το Web ή το OneNote 2016</span><span class="sxs-lookup"><span data-stu-id="d6b3a-102">Share Notebooks in OneNote for the web or OneNote 2016</span></span>
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a><span data-ttu-id="20e52-102">Κοινή χρήση σημειωματαρίων στο OneNote για το Web ή το OneNote 2016</span><span class="sxs-lookup"><span data-stu-id="20e52-102">Share Notebooks in OneNote for the web or OneNote 2016</span></span>
 
-<span data-ttu-id="d6b3a-103">Στο OneNote για web, μπορείτε να κάνετε κοινή χρήση σημειώσεων είτε προσκαλώντας άλλους χρήστες να προβάλουν και να κάνουν αλλαγές στο σημειωματάριό σας είτε δημιουργώντας μια σύνδεση προς μια σελίδα σημειώσεων που μπορείτε να επικολλήσετε σε ένα μήνυμα ηλεκτρονικού ταχυδρομείου, ένα ιστολόγιο ή μια ιστοσελίδα.</span><span class="sxs-lookup"><span data-stu-id="d6b3a-103">In OneNote for the web, you can share notes by either inviting others to view and make changes to your notebook, or by creating a link to a page of notes that you can paste in an email, blog, or web page.</span></span> <span data-ttu-id="d6b3a-104">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Χρήση του OneNote για το web για κοινή χρήση σημειώσεων με άλλα άτομα](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span><span class="sxs-lookup"><span data-stu-id="d6b3a-104">For more information, please see [Use OneNote for the web to share notes with other people](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span></span>
+<span data-ttu-id="20e52-103">Στο OneNote για το Web, μπορείτε να κάνετε κοινή χρήση σημειώσεων καλώντας τους άλλους να προβάλουν και να κάνουν αλλαγές στο σημειωματάριό σας ή δημιουργώντας μια σύνδεση προς μια σελίδα σημειώσεων που μπορείτε να επικολλήσετε σε ένα μήνυμα ηλεκτρονικού ταχυδρομείου, ένα ιστολόγιο ή μια ιστοσελίδα.</span><span class="sxs-lookup"><span data-stu-id="20e52-103">In OneNote for the web, you can share notes by either inviting others to view and make changes to your notebook, or by creating a link to a page of notes that you can paste in an email, blog, or web page.</span></span> <span data-ttu-id="20e52-104">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [χρήση του OneNote για το Web για κοινή χρήση σημειώσεων με άλλα άτομα](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span><span class="sxs-lookup"><span data-stu-id="20e52-104">For more information, please see [Use OneNote for the web to share notes with other people](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span></span>
 
-<span data-ttu-id="d6b3a-105">Στο OneNote 2016, βεβαιωθείτε ότι το σημειωματάριο του OneNote 2016 βρίσκεται στο OneDrive, ώστε να μπορούν να φτάσουν σε άλλους χρήστες.</span><span class="sxs-lookup"><span data-stu-id="d6b3a-105">In OneNote 2016, make sure your OneNote 2016 notebook is on OneDrive so others can get to it.</span></span> <span data-ttu-id="d6b3a-106">Για κοινή χρήση, μπορείτε να προσκαλέσετε άτομα με αλληλογραφία ή να λάβετε μια σύνδεση κοινής χρήσης.</span><span class="sxs-lookup"><span data-stu-id="d6b3a-106">To share, you can invite people in mail or get a sharing link.</span></span> <span data-ttu-id="d6b3a-107">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Κοινή χρήση σημειωματαρίου του OneNote 2016 για Windows με άλλα άτομα](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span><span class="sxs-lookup"><span data-stu-id="d6b3a-107">For more information, please see [Share a OneNote 2016 for Windows notebook with other people](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span></span>
+<span data-ttu-id="20e52-105">Στο OneNote 2016, βεβαιωθείτε ότι το σημειωματάριο του OneNote 2016 βρίσκεται στο OneDrive, ώστε να μπορούν να το έχουν οι άλλοι χρήστες.</span><span class="sxs-lookup"><span data-stu-id="20e52-105">In OneNote 2016, make sure your OneNote 2016 notebook is on OneDrive so others can get to it.</span></span> <span data-ttu-id="20e52-106">Για να κάνετε κοινή χρήση, μπορείτε να προσκαλέσετε άτομα στην αλληλογραφία ή να λάβετε μια σύνδεση κοινής χρήσης.</span><span class="sxs-lookup"><span data-stu-id="20e52-106">To share, you can invite people in mail or get a sharing link.</span></span> <span data-ttu-id="20e52-107">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [κοινή χρήση ενός σημειωματαρίου του OneNote 2016 για Windows με άλλα άτομα](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span><span class="sxs-lookup"><span data-stu-id="20e52-107">For more information, please see [Share a OneNote 2016 for Windows notebook with other people](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span></span>

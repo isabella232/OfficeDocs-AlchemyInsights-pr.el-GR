@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: 2739f446e4df2b7ea44f4f675f775e2d97b40796
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767187"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738889"
 ---
-# <a name="site-is-not-available"></a><span data-ttu-id="90993-102">Η τοποθεσία δεν είναι διαθέσιμη</span><span class="sxs-lookup"><span data-stu-id="90993-102">Site is not available</span></span>
+# <a name="site-is-not-available"></a><span data-ttu-id="52913-102">Η τοποθεσία δεν είναι διαθέσιμη</span><span class="sxs-lookup"><span data-stu-id="52913-102">Site is not available</span></span>
 
-<span data-ttu-id="90993-103">Εάν η τοποθεσία σας στο SharePoint ή το OneDrive δεν είναι διαθέσιμη σε πολλούς χρήστες, ενδέχεται να υπάρχει ένα ζήτημα προσωρινής υπηρεσίας.</span><span class="sxs-lookup"><span data-stu-id="90993-103">If your SharePoint or OneDrive site is not available to multiple users, there may be a temporary service issue.</span></span> <span data-ttu-id="90993-104">Ελέγξτε τον [πίνακα εργαλείων "Εύρυθμη λειτουργία υπηρεσίας"](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) για να δείτε αν ο μισθωτής σας επηρεάζεται.</span><span class="sxs-lookup"><span data-stu-id="90993-104">Check the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your tenant is impacted.</span></span> 
+<span data-ttu-id="52913-103">Εάν η τοποθεσία σας στο SharePoint ή στο OneDrive δεν είναι διαθέσιμη για πολλούς χρήστες, μπορεί να υπάρχει κάποιο πρόβλημα προσωρινής υπηρεσίας.</span><span class="sxs-lookup"><span data-stu-id="52913-103">If your SharePoint or OneDrive site is not available to multiple users, there may be a temporary service issue.</span></span> <span data-ttu-id="52913-104">Επιλέξτε τον [πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) για να δείτε εάν ο μισθωτής σας έχει αντίκτυπο.</span><span class="sxs-lookup"><span data-stu-id="52913-104">Check the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your tenant is impacted.</span></span> 
   
 
