@@ -1,26 +1,27 @@
 ---
-title: 1081 Ημερολόγιο - RBA CatchAll
+title: ημερολόγιο 1081-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 534173990542144db018a4c3c6fb3bde2fd79f85
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508340"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734371"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Δημιουργία και διαχείριση γραμματοκιβωτίων δωματίων
+# <a name="create-and-manage-room-mailboxes"></a>Δημιουργία και διαχείριση γραμματοκιβωτίων αιθουσών
 
-Για να δημιουργήσετε και να τροποποιήσετε γραμματοκιβώτια δωματίων στο κέντρο διαχείρισης του Exchange, ανατρέξτε στο θέμα [Δημιουργία και διαχείριση γραμματοκιβωτίων δωματίων](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Για να δημιουργήσετε και να τροποποιήσετε γραμματοκιβώτια αιθουσών στο κέντρο διαχείρισης του Exchange, ανατρέξτε στο θέμα [δημιουργία και διαχείριση γραμματοκιβωτίων αιθουσών](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Για να μάθετε περισσότερα σχετικά με τα γραμματοκιβώτια δωματίου και εξοπλισμού (γνωστά και ως γραμματοκιβώτια πόρων), ανατρέξτε στο θέμα [Γραμματοκιβώτια δωματίων και εξοπλισμού](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Για να μάθετε περισσότερα σχετικά με τα γραμματοκιβώτια αίθουσας και εξοπλισμού (γνωστά και ως γραμματοκιβώτια πόρων), ανατρέξτε στο θέμα [γραμματοκιβώτια αιθουσών και εξοπλισμού](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).

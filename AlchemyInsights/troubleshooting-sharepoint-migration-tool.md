@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: e38a74935ff1aa9f815790f4e205f36d43f593df
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759476"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735739"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Αντιμετώπιση προβλημάτων και σφαλμάτων του εργαλείου μετεγκατάστασης του SharePoint
 
-Ενδέχεται να αντιμετωπίσετε ορισμένα συνηθισμένα ζητήματα και σφάλματα κατά τη χρήση του Εργαλείου μετεγκατάστασης του SharePoint (SPMT). Ανατρέξτε στους παρακάτω συνδέσμους για περισσότερες πληροφορίες.
+Ενδέχεται να αντιμετωπίσετε ορισμένα συνηθισμένα προβλήματα και σφάλματα κατά τη χρήση του εργαλείου μετεγκατάστασης του SharePoint (SPMT). Παρακαλείσθε να αναφέρετε τους παρακάτω συνδέσμους για περισσότερες πληροφορίες.
 
-- [Αντιμετώπιση συνηθισμένων προβλημάτων και σφαλμάτων SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Αντιμετώπιση συνηθισμένων ζητημάτων και σφαλμάτων του SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [Αντιμετώπιση προβλημάτων εγκατάστασης SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [Αντιμετώπιση προβλημάτων εγκατάστασης του SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
