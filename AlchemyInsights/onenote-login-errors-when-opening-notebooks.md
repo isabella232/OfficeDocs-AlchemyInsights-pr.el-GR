@@ -1,33 +1,34 @@
 ---
-title: Το OneNote - καταγραφής σε σφάλματα κατά το άνοιγμα σημειωματάριων
+title: OneNote-καταγραφή σφαλμάτων κατά το Άνοιγμα σημειωματαρίων
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643897"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729295"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>Θέματα είσοδο σε σημειωματάρια του OneNote
+# <a name="issues-signing-in-to-onenote-notebooks"></a>Προβλήματα κατά την είσοδο σε σημειωματάρια του OneNote
 
-Εάν λαμβάνετε σφάλματα σύνδεσης ή τον κωδικό πρόσβασης όταν προσπαθείτε να ανοίξετε το Σημειωματάριο, δοκιμάστε τα εξής:
+Εάν λάβετε σφάλματα σύνδεσης ή κωδικού πρόσβασης όταν προσπαθείτε να ανοίξετε το σημειωματάριό σας, δοκιμάστε τα εξής:
 
-- Εάν το Σημειωματάριο, το οποίο δεν ανοίγει, είναι αποθηκευμένο σε OneDrive ή ηλεκτρονική SharePoint, προσπαθήστε να ανοίξετε το σημειωματάριο στο OneNote για το web (στο www.onenote.com). Εάν το σημειωματάριο δεν είναι στη λίστα, ίσως δεν έχετε δικαιώματα σε αυτό. Εάν πρόκειται για ένα κοινόχρηστο σημειωματάριο, ζητήστε από τον κάτοχο για να χρησιμοποιήσετε από κοινού και να βεβαιωθείτε ότι χρησιμοποιείτε τον σωστό λογαριασμό για να συνδεθείτε.
+- Εάν το σημειωματάριο που δεν ανοίγει είναι αποθηκευμένο στο OneDrive ή στο SharePoint Online, δοκιμάστε να ανοίξετε το σημειωματάριο στο OneNote για το Web (στο www.onenote.com). Εάν το σημειωματάριο δεν εμφανίζεται στη λίστα, ενδέχεται να μην έχετε δικαιώματα για αυτό. Εάν πρόκειται για ένα κοινόχρηστο σημειωματάριο, ζητήστε από τον κάτοχο να το μοιραστεί και βεβαιωθείτε ότι χρησιμοποιείτε τον σωστό λογαριασμό για να συνδεθείτε.
 
-- Εάν το Σημειωματάριο ανοίγει στο OneNote για το web, βεβαιωθείτε ότι είστε συνδεδεμένοι με τις τρέχουσες πιστοποιήσεις σας στο OneNote. 
+- Εάν το σημειωματάριο ανοίγει στο OneNote για το Web, βεβαιωθείτε ότι συνδέεστε με τα τρέχοντα διαπιστευτήρια στο OneNote. 
 
-- Καταργήστε τα [διαπιστευτήρια του Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) χρησιμοποιώντας [Τη Διαχείριση διαπιστευτηρίων των Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Καταργήστε τα [διαπιστευτήρια του Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) χρησιμοποιώντας τη [Διαχείριση διαπιστευτηρίων των Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Στο OneNote 2016, επιλέξτε **αρχείο** > **λογαριασμού** και **Έξοδος** όλων των λογαριασμών. Εισέλθετε ξανά χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για αναλυτικές πληροφορίες, δείτε: [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Στο OneNote 2016, επιλέξτε **File**  >  **λογαριασμός** αρχείου και **αποσυνδεθείτε** από όλους τους λογαριασμούς. Πραγματοποιήστε είσοδο ξανά χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Στο OneNote για Windows, επιλέξτε την έλλειψη (****...) στο επάνω δεξιό μέρος της οθόνης, επιλέξτε **Ρυθμίσεις** > **λογαριασμούς**, και βεβαιωθείτε ότι εμφανίζεται ένα λογαριασμό δουλειά ή το σχολείο.
+- Στο OneNote για Windows, επιλέξτε την έλλειψη (**...**) στην επάνω δεξιά γωνία της οθόνης, επιλέξτε λογαριασμοί **ρυθμίσεων**  >  **Accounts**και βεβαιωθείτε ότι εμφανίζεται ένας λογαριασμός εργασίας ή σχολείου.

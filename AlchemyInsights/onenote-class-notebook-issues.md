@@ -1,37 +1,38 @@
 ---
-title: Ζητήματα σημειωματάριου τάξης του OneNote
+title: Ζητήματα σημειωματαρίου τάξης του OneNote
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 62464ce279b54101338cee1f14589ea96dd7354e
-ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
+ms.openlocfilehash: c4f487e8c823d7b1684ff74487d2d6af03948bac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42556654"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729331"
 ---
-# <a name="onenote-class-notebook-issues-and-resolutions"></a>Ζητήματα και αναλύσεις σημειωματάριων τάξης του OneNote
+# <a name="onenote-class-notebook-issues-and-resolutions"></a>Θέματα και αναλύσεις για το σημειωματάριο τάξης του OneNote
 
-Ακολουθούν ορισμένα θέματα που ζητούνται συχνά και τα προγράμματα αντιμετώπισης προβλημάτων για τα Σημειωματάρια τάξης.
+Ακολουθούν ορισμένα θέματα που ζητούνται συχνά και προγράμματα αντιμετώπισης προβλημάτων για τα σημειωματάρια τάξης.
 
-- **Ομάδες:** [Χρησιμοποιήστε το Σημειωματάριο τάξης του OneNote στις ομάδες](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) απαντά σε ερωτήσεις σχετικά με τη ρύθμιση ενός σημειωματαρίου τάξης στις ομάδες.
+- **Ομάδες:** [Χρησιμοποιήστε το σημειωματάριο τάξης του OneNote στο teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) απαντήσεις σε ερωτήσεις σχετικά με τη ρύθμιση ενός σημειωματάριου τάξης στο teams.
 
-- **Προσθήκη μαθητών:** Εξετάστε τον τρόπο [προσθήκης μαθητών σε ένα Σημειωματάριο τάξης](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8). Εάν αντιμετωπίζετε προβλήματα με τη δημιουργία νέων μαθητών, ανατρέξτε στο θέμα [Μαθητές που προστέθηκαν πρόσφατα και δεν εμφανίζονται στο Σημειωματάριο τάξης](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9).
+- **Προσθήκη φοιτητών:** Δείτε πώς μπορείτε να [προσθέσετε σπουδαστές σε ένα σημειωματάριο τάξης](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8). Εάν αντιμετωπίζετε προβλήματα με την εμφάνιση νέων φοιτητών, ανατρέξτε [στο θέμα οι σπουδαστές που προστέθηκαν πρόσφατα δεν εμφανίζονται στο σημειωματάριο τάξης](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9).
 
-- **Κατάργηση μαθητών:** Ξεκινήστε με [την κατάργηση μαθητών στο σημειωματάριο τάξης για το OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Για ζητήματα που σχετίζονται με την κατάργηση μαθητών, ανατρέξτε στο θέμα [Η επιλογή "Μαθητής" διαγράφηκε, αλλά ο φάκελός τους εξακολουθεί να εμφανίζεται](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
+- **Κατάργηση φοιτητών:** Ξεκινήστε με [το Remove students in Class notebook για το OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Για θέματα που σχετίζονται με την κατάργηση σπουδαστών, ανατρέξτε στο θέμα [ο φοιτητής διαγράφηκε, αλλά ο φάκελός του εξακολουθεί να εμφανίζεται](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
 
-- **Νέοι εκπαιδευτικοί:** Για να βοηθήσετε τους νέους εκπαιδευτικούς να δημιουργήσουν το Σημειωματάριο τάξης, αναθεωρήστε [την αναθεώρηση Προσθήκη ή κατάργηση συνκαθηγητών στο Σημειωματάριο τάξης για το OneNote](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) ή το [σημειωματάριο της τάξης μεταφοράς σε ένα νέο εκπαιδευτικό](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
+- **Νέοι καθηγητές:** Για να βοηθήσει τους νέους καθηγητές να δημιουργήσουν το σημειωματάριο τάξης τους, εξετάστε την [Προσθήκη ή κατάργηση συνδασκάλων στο σημειωματάριο τάξης για το OneNote](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) ή [μεταφέρετε το σημειωματάριο τάξης σε έναν νέο δάσκαλο](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
 
-- Για να αντιμετωπίσετε τα πιο συνηθισμένα ζητήματα που σχετίζονται με το συγχρονισμό σημειωματάριου τάξης του OneNote, χρησιμοποιήστε τα βήματα στο θέμα [Επιδιόρθωση προβλημάτων, όταν δεν μπορείτε να συγχρονίσετε το OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+- Για να αντιμετωπίσετε τα πιο συνηθισμένα προβλήματα που σχετίζονται με το συγχρονισμό σημειωματαρίων κλάσης του OneNote, χρησιμοποιήστε τα βήματα για να [διορθώσετε προβλήματα όταν δεν μπορείτε να συγχρονίσετε το OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Εάν το ζήτημα που βλέπετε δεν παρατίθεται εδώ, ανατρέξτε στην ενότητα [αντιμετώπισης προβλημάτων](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) του [Σημειωματάριου τάξης](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
+Εάν το πρόβλημα που αντιμετωπίζετε δεν παρατίθεται εδώ, ανατρέξτε στην ενότητα [Αντιμετώπιση προβλημάτων](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) του [σημειωματάριου τάξης](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
 
 
