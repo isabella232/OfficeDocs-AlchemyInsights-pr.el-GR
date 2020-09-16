@@ -1,26 +1,27 @@
 ---
-title: Κατόψεις
+title: Σχέδια ορόφων
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 22aeee56c1c8ce65c1855275d0ed5317c3429b8f
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569279"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724723"
 ---
-# <a name="floor-plans"></a><span data-ttu-id="8d8bc-102">Κατόψεις</span><span class="sxs-lookup"><span data-stu-id="8d8bc-102">Floor Plans</span></span>
+# <a name="floor-plans"></a><span data-ttu-id="09f37-102">Σχέδια ορόφων</span><span class="sxs-lookup"><span data-stu-id="09f37-102">Floor Plans</span></span>
 
-<span data-ttu-id="8d8bc-103">Για πληροφορίες σχετικά με τις **κατόψεις αναζήτησης της Microsoft,** ελέγξτε τα ακόλουθα άρθρα υποστήριξης:</span><span class="sxs-lookup"><span data-stu-id="8d8bc-103">For information on **Microsoft Search**  floor plans, review following support articles:</span></span>
-- [<span data-ttu-id="8d8bc-104">Βέλτιστες πρακτικές για κατόψεις αναζήτησης της Microsoft</span><span class="sxs-lookup"><span data-stu-id="8d8bc-104">Best practices for Microsoft Search floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [<span data-ttu-id="8d8bc-105">Διαχείριση κατωφόροφων</span><span class="sxs-lookup"><span data-stu-id="8d8bc-105">Manage floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- <span data-ttu-id="8d8bc-106">Για πληροφορίες σχετικά με τον τρόπο δημιουργίας μιας κάτοψης στο **Visio**, αναθεώρηση [Δημιουργία κάτουρο](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span><span class="sxs-lookup"><span data-stu-id="8d8bc-106">For information on how to create a floor plan in  **Visio**, review [Create a floor plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span></span>
+<span data-ttu-id="09f37-103">Για πληροφορίες σχετικά με τα προγράμματα ορόφων **της Microsoft Search**  , εξετάστε τα παρακάτω άρθρα υποστήριξης:</span><span class="sxs-lookup"><span data-stu-id="09f37-103">For information on **Microsoft Search**  floor plans, review following support articles:</span></span>
+- [<span data-ttu-id="09f37-104">Βέλτιστες πρακτικές για τα προγράμματα ορόφων αναζήτησης της Microsoft</span><span class="sxs-lookup"><span data-stu-id="09f37-104">Best practices for Microsoft Search floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [<span data-ttu-id="09f37-105">Διαχείριση σχεδίων ορόφων</span><span class="sxs-lookup"><span data-stu-id="09f37-105">Manage floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- <span data-ttu-id="09f37-106">Για πληροφορίες σχετικά με το πώς μπορείτε να δημιουργήσετε ένα σχέδιο κάτοψης στο **Visio**, ανατρέξτε στο θέμα [Δημιουργία](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791) κάτοψης</span><span class="sxs-lookup"><span data-stu-id="09f37-106">For information on how to create a floor plan in  **Visio**, review [Create a floor plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span></span>
