@@ -1,9 +1,10 @@
 ---
-title: Συνιστώμενες λύσεις για ζητήματα αποθήκευσης Dynamics 365
+title: Προτεινόμενες λύσεις για ζητήματα χώρου αποθήκευσης Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 7ab6d5b4ba468505b22ce5a4258cc962e9e3a268
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: c1abfd5a5f52e1a4ec77f319375dfe2cf53f76a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753183"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801472"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Προτεινόμενες λύσεις για ζητήματα αποθήκευσης Dynamics 365
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Προτεινόμενες λύσεις για ζητήματα χώρου αποθήκευσης Dynamics 365
 
-* [App: Αποτελέσματα αναζήτησης επιστρέφονται σε σχετική αναζήτησης](https://support.microsoft.com/help/4489111)
+* [Εφαρμογή: δεν επιστρέφονται αποτελέσματα αναζήτησης σχετικά με την αναζήτηση](https://support.microsoft.com/help/4489111)
 
-* [App: Εμφανίζεται σφάλμα κατά το άνοιγμα της εφαρμογής για το Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [Εφαρμογή: εμφανίζεται σφάλμα κατά το άνοιγμα της εφαρμογής για το Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [App: Μήνυμα ηλεκτρονικού ταχυδρομείου ή μια συνάντηση εμφανίζεται ως "Εκκρεμή παρακολούθηση"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [Εφαρμογή: το μήνυμα ηλεκτρονικού ταχυδρομείου ή η συνάντηση εμφανίζεται ως "παρακολούθηση σε εκκρεμότητα"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Κενή σελίδα εμφανίζεται όταν ανοίγετε App για το Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [Εφαρμογή: εμφανίζεται κενή σελίδα κατά το άνοιγμα της εφαρμογής για το Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Πλήρες πρόγραμμα-πελάτης: Δεν μπορεί να συνδεθεί D365 για την έκδοση του Outlook 8.x σε μια παρουσία 9.x D365 έκδοση](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Πλήρης υπολογιστής-πελάτης: δεν είναι δυνατή η σύνδεση του D365 για το Outlook έκδοση 8. x σε μια περίοδο λειτουργίας D365 έκδοσης 9. x](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Πλήρες πρόγραμμα-πελάτης: "Αναμονή για μια σελίδα που θα ανακτηθούν από διακομιστή CRM..." Εμφανίζεται μήνυμα](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Πλήρης υπολογιστής-πελάτης: "αναμονή για την ανάκτηση μιας σελίδας από ένα διακομιστή CRM..." εμφανίζεται το μήνυμα](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Πλήρες πρόγραμμα-πελάτης: Διάγνωση D365 για ζητήματα του Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Πλήρες πρόγραμμα-πελάτης: διάγνωση D365 για προβλήματα του Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Αντιμετώπιση προβλημάτων D365 App για το Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [Εφαρμογή: αντιμετώπιση προβλημάτων της εφαρμογής D365 για το Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [Εφαρμογών: Τρόπος ανάπτυξης](https://go.microsoft.com/fwlink/p/?linkid=857071)
+* [Εφαρμογή: Τρόπος ανάπτυξης](https://go.microsoft.com/fwlink/p/?linkid=857071)
 
-* [App: Εγχειριδίου](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [Εφαρμογή: Οδηγός χρήσης](https://go.microsoft.com/fwlink/p/?linkid=857091)
