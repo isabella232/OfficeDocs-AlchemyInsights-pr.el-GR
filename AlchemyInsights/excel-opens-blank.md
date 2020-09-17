@@ -1,23 +1,24 @@
 ---
-title: Το Excel ανοίγει κενό
+title: Το Excel ανοίγει το κενό
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 32546a6fcab15e7712f8008b372fe51250e85853
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391295"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783443"
 ---
-# <a name="excel-opens-blank"></a>Το Excel ανοίγει κενό
+# <a name="excel-opens-blank"></a>Το Excel ανοίγει το κενό
 
-Εάν το Excel ξεκινά αλλά εμφανίζει μια κενή οθόνη εκεί όπου θέλετε να εμφανίζεται το αρχείο, ανατρέξτε στο θέμα [Αντιμετώπιση Excel Άνοιγμα κενό όταν κάνετε διπλό κλικ σε ένα εικονίδιο αρχείου ή το όνομα αρχείου](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Εάν το Excel ξεκινήσει, αλλά εμφανίσει μια κενή οθόνη όπου περιμένετε να εμφανιστεί το αρχείο, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων ανοίγματος κενού του Excel όταν κάνετε διπλό κλικ σε ένα εικονίδιο αρχείου ή σε ένα όνομα αρχείου](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
