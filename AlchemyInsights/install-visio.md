@@ -6,32 +6,33 @@ manager: eliree
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508664"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811611"
 ---
 # <a name="install-visio"></a>Εγκατάσταση του Visio
 
-Το Visio πωλείται ως αυτόνομη εφαρμογή, επομένως, αν δεν την έχετε ακόμα, [αγοράστε ή δοκιμάστε το Visio](https://products.office.com/visio). 
+Το Visio πωλείται ως μεμονωμένη εφαρμογή, επομένως, εάν δεν το έχετε κάνει ακόμα, [Αγοράστε ή δοκιμάστε το Visio](https://products.office.com/visio). 
 
-**Σημείωση:** Το Ηλεκτρονικό πρόγραμμα του Visio 1 δεν περιλαμβάνει μια έκδοση υπολογιστή του Visio, επομένως δεν είναι δυνατή η εγκατάσταση.
+**Σημείωση**: το Visio online Plan 1 δεν περιλαμβάνει μια έκδοση υπολογιστή του Visio, επομένως δεν είναι δυνατή η εγκατάσταση.
 
-Εάν έχετε συνδρομή στο Ηλεκτρονικό πρόγραμμα 2 του Visio, πρέπει να [εκχωρήσετε μια άδεια χρήσης](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) σε ένα χρήστη, ή δεν θα έχει την επιλογή να εγκαταστήσει το Visio από **τις εγκαταστάσεις μου** στην πύλη ["Ο λογαριασμός μου"](https://portal.office.com/account#installs). 
+Εάν έχετε μια συνδρομή στο Visio online Plan 2, πρέπει να [εκχωρήσετε μια άδεια χρήσης](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) σε ένα χρήστη ή δεν θα έχουν την επιλογή να εγκαταστήσουν το Visio από τις **εγκαταστάσεις μου** στην πύλη "ο [λογαριασμός μου](https://portal.office.com/account#installs)". 
 
-Οι εκδόσεις με άδειες χρήσης βάσει ποσότητας του Visio Standard ή του Visio Professional συσχετίζονται με λογαριασμούς Της Microsoft και δεν είναι δυνατή η διαχείρισή τους στο κέντρο διαχείρισης. Για να εγκαταστήσουν αυτές τις εκδόσεις, οι χρήστες πρέπει να συνδεθούν [σε account.microsoft.com](https://account.microsoft.com) με το λογαριασμό Microsoft που σχετίζεται με αυτήν την έκδοση του Visio.
+Οι εκδόσεις μη πολλαπλών αδειών χρήσης του Visio Standard ή του Visio Professional συσχετίζονται με λογαριασμούς Microsoft και δεν είναι δυνατή η διαχείριση τους στο κέντρο διαχείρισης. Για να εγκαταστήσετε αυτές τις εκδόσεις, οι χρήστες πρέπει να εισέλθετε στο [account.Microsoft.com](https://account.microsoft.com) με το λογαριασμό Microsoft που είναι συσχετισμένος με αυτή την έκδοση του Visio.
 
-Για πιο λεπτομερή βοήθεια, ανατρέξτε στο θέμα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) και ακολουθήστε τα βήματα για την έκδοση του Visio που διαθέτετε.
+Για πιο αναλυτική βοήθεια, ανατρέξτε στο θέμα [εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) και ακολουθήστε τα βήματα για την έκδοση του Visio που διατίθεται.
 
-Για περισσότερες πληροφορίες δείτε:<br>
+Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:<br>
 [Οδηγός ανάπτυξης για το Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
 [Υποστηριζόμενα σενάρια για την εγκατάσταση διαφορετικών εκδόσεων του Office, του Project και του Visio στον ίδιο υπολογιστή](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Άδεια χρήσης του Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+[Άδειες χρήσης του Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
