@@ -1,24 +1,25 @@
 ---
-title: Μήνυμα εφαρμογών Microsoft 365 - Αντιμετωπίσαμε πρόβλημα με τη συνδρομή σας
+title: Μήνυμα εφαρμογών του Microsoft 365-αντιμετωπίσαμε κάποιο πρόβλημα με τη συνδρομή σας
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581555"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802705"
 ---
-# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Μήνυμα εφαρμογών Microsoft 365 - Αντιμετωπίσαμε πρόβλημα με τη συνδρομή σας
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Μήνυμα εφαρμογών του Microsoft 365-αντιμετωπίσαμε κάποιο πρόβλημα με τη συνδρομή σας
 
 - Αν αλλάξατε πρόσφατα σε διαφορετική συνδρομή/πρόγραμμα, ακολουθήστε τις οδηγίες στην ενότητα [Εμφάνιση της ένδειξης "Ειδοποίηση σχετικά με το λογαριασμό" στο Office μετά την αλλαγή προγραμμάτων](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) για να εγκαταστήσετε ξανά ή να ενημερώσετε το Office.
 
