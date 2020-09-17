@@ -1,27 +1,28 @@
 ---
-title: Απέτυχε η δημιουργία του σχεδίου
+title: Δεν ήταν δυνατή η δημιουργία του σχεδίου
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: 593f483ac72081617f0b56ef22d4b7c1f77af06b
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682140"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782615"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Σφάλμα "απέτυχε η δημιουργία του σχεδίου" κατά την προσπάθεια δημιουργίας μιας καρτέλας "Προγραμματισμός" στις ομάδες της Microsoft
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Σφάλμα "δεν ήταν δυνατή η δημιουργία του προγράμματος" όταν προσπαθείτε να δημιουργήσετε μια καρτέλα Planner στο Microsoft teams
 
-Εάν λαμβάνετε ένα σφάλμα "απέτυχε η δημιουργία του σχεδίου" όταν προσπαθείτε να δημιουργήσετε μια καρτέλα "Προγραμματισμός" στις ομάδες της Microsoft, βεβαιωθείτε ότι ο διαχειριστής είναι μέλος της ομάδας, ακολουθώντας τα εξής βήματα:
+Εάν λαμβάνετε το μήνυμα σφάλματος "δεν ήταν δυνατή η δημιουργία του προγράμματος" όταν προσπαθείτε να δημιουργήσετε μια καρτέλα Planner στο Microsoft teams, βεβαιωθείτε ότι ο διαχειριστής είναι μέλος της ομάδας, ακολουθώντας τα παρακάτω βήματα:
 
-1. Στο κέντρο διαχείρισης, **Μεταβείτε στις** > [ομάδες](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)ομάδων. 
+1. Στο κέντρο διαχείρισης, **Μεταβείτε στην ομάδα ομάδες**  >  [Groups](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
 2. Επιλέξτε την ομάδα και, στη συνέχεια, στην καρτέλα **μέλη** , επιλέξτε **Προβολή όλων και διαχείριση μελών**.
 3. Προσθέστε το μέλος και επιλέξτε **Αποθήκευση**.
