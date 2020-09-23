@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676990"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236125"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Προβλήματα κατά την είσοδο σε εφαρμογές του Microsoft 365
 
@@ -25,6 +25,8 @@ ms.locfileid: "47676990"
 
 - Για τα Windows, ανατρέξτε [στο θέμα συστάσεις σχετικά με την επίλυση συνηθισμένων ζητημάτων εισόδου](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Για Mac, ανατρέξτε στο θέμα  [δεν είναι δυνατή η είσοδος σε μια εφαρμογή του Office 2016 για Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Συμβουλή** Σε υπολογιστές με Windows, μπορούμε να διαγνώσουμε και να διορθώσουμε αυτόματα διάφορα συνηθισμένα προβλήματα εισόδου στο Office για εσάς. Κάντε λήψη και εκτελέστε τον  **[Βοηθό υποστήριξης και αποκατάστασης της Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** για να χρησιμοποιήσετε το αυτοματοποιημένο εργαλείο μας.
 
 **Σημείωση:**  **Δεν συνιστάται η**απενεργοποίηση του σύγχρονου ελέγχου ΤΑΥΤΌΤΗΤΑς (ADAL) ή της διαχείρισης λογαριασμού Web (, για την επιδιόρθωση ζητημάτων εισόδου ή ενεργοποίησης). Εάν τα σφάλματα προκύψουν κατά τη σύνδεση με το Microsoft 365 χρησιμοποιώντας το Office 2013, βεβαιωθείτε ότι έχετε [ενεργοποιήσει τον σύγχρονο έλεγχο ταυτότητας](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  για το πρόγραμμα-πελάτη του Office.
 
