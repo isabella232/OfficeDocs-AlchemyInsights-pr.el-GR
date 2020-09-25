@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711095"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277937"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Δεν μπορείτε να εγκαταστήσετε ή να εκτελέσετε το εργαλείο εξαγωγής ανακάλυψης;
 
@@ -47,4 +47,5 @@ ms.locfileid: "47711095"
 - Σας έχει εκχωρηθεί ο ρόλος εξαγωγής στο κέντρο συμμόρφωσης ασφαλείας του Microsoft 365 &amp; . Από προεπιλογή, αυτός ο ρόλος εκχωρείται μόνο στην ομάδα ρόλων της διαχείρισης ανακάλυψης. Ανατρέξτε στο θέμα [εκχώρηση δικαιωμάτων ανακάλυψης](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εξαγωγή αποτελεσμάτων αναζήτησης περιεχομένου](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Εάν εξάγετε περισσότερα από 100K γραμματοκιβώτια, θα πρέπει να χρησιμοποιήσετε το ακόλουθο PowerShell για να κάνετε λήψη των αποτελεσμάτων εξαγωγής:  [Εξαγωγή αποτελεσμάτων από περισσότερα από 100K γραμματοκιβώτια](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
