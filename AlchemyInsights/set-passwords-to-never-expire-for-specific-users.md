@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795568"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295606"
 ---
 # <a name="set-passwords-to-never-expire"></a>Ορίστε κωδικούς πρόσβασης που δεν λήγουν ποτέ
 
-Για να καθορίσετε ότι όλοι οι κωδικοί πρόσβασης δεν λήγουν ποτέ, στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα **Ρυθμίσεις**  >  [ &amp; προστασίας προσωπικών δεδομένων](https://portal.office.com/adminportal/home#/settings/security) για την ασφάλεια. Επιλέξτε **Επεξεργασία** δίπλα στην επιλογή **πολιτική κωδικού πρόσβασης**και, στη συνέχεια, ενεργοποιήστε το ρυθμιστικό προς τα **επάνω**.
+Για να καθορίσετε ότι όλοι οι κωδικοί πρόσβασης δεν λήγουν ποτέ, στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε **στις ρυθμίσεις**  >  **org > την  >  [πολιτική λήξης του κωδικού πρόσβασης](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) [ασφαλείας και προστασίας προσωπικών δεδομένων](https://portal.office.com/adminportal/home#/settings/security)** και καταργήστε την επιλογή "ρύθμιση κωδικών πρόσβασης χρήστη ώστε να λήγουν μετά από έναν αριθμό ημερών".
   
-Για πιο λεπτομερείς πληροφορίες, ανατρέξτε στα θέματα: 
+Για πιο λεπτομερείς πληροφορίες, ανατρέξτε στα θέματα:
 
 - [Ορίστε την πολιτική λήξης του κωδικού πρόσβασης για τον οργανισμό σας.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
