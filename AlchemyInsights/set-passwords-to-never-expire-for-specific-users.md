@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795568"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295606"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="1f8e4-102">Ορίστε κωδικούς πρόσβασης που δεν λήγουν ποτέ</span><span class="sxs-lookup"><span data-stu-id="1f8e4-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="50bef-102">Ορίστε κωδικούς πρόσβασης που δεν λήγουν ποτέ</span><span class="sxs-lookup"><span data-stu-id="50bef-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="1f8e4-103">Για να καθορίσετε ότι όλοι οι κωδικοί πρόσβασης δεν λήγουν ποτέ, στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα **Ρυθμίσεις**  >  [ &amp; προστασίας προσωπικών δεδομένων](https://portal.office.com/adminportal/home#/settings/security) για την ασφάλεια.</span><span class="sxs-lookup"><span data-stu-id="1f8e4-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="1f8e4-104">Επιλέξτε **Επεξεργασία** δίπλα στην επιλογή **πολιτική κωδικού πρόσβασης**και, στη συνέχεια, ενεργοποιήστε το ρυθμιστικό προς τα **επάνω**.</span><span class="sxs-lookup"><span data-stu-id="1f8e4-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="50bef-103">Για να καθορίσετε ότι όλοι οι κωδικοί πρόσβασης δεν λήγουν ποτέ, στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε **στις ρυθμίσεις**  >  **org > την  >  [πολιτική λήξης του κωδικού πρόσβασης](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) [ασφαλείας και προστασίας προσωπικών δεδομένων](https://portal.office.com/adminportal/home#/settings/security)** και καταργήστε την επιλογή "ρύθμιση κωδικών πρόσβασης χρήστη ώστε να λήγουν μετά από έναν αριθμό ημερών".</span><span class="sxs-lookup"><span data-stu-id="50bef-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > **Org Settings > [Security and privacy](https://portal.office.com/adminportal/home#/settings/security) > [Password Expiration Policy](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** and un-check “Set user passwords to expire after a number of days”.</span></span>
   
-<span data-ttu-id="1f8e4-105">Για πιο λεπτομερείς πληροφορίες, ανατρέξτε στα θέματα:</span><span class="sxs-lookup"><span data-stu-id="1f8e4-105">For more detailed information see:</span></span> 
+<span data-ttu-id="50bef-104">Για πιο λεπτομερείς πληροφορίες, ανατρέξτε στα θέματα:</span><span class="sxs-lookup"><span data-stu-id="50bef-104">For more detailed information see:</span></span>
 
-- [<span data-ttu-id="1f8e4-106">Ορίστε την πολιτική λήξης του κωδικού πρόσβασης για τον οργανισμό σας.</span><span class="sxs-lookup"><span data-stu-id="1f8e4-106">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [<span data-ttu-id="50bef-105">Ορίστε την πολιτική λήξης του κωδικού πρόσβασης για τον οργανισμό σας.</span><span class="sxs-lookup"><span data-stu-id="50bef-105">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [<span data-ttu-id="1f8e4-107">Ορίστε τον κωδικό πρόσβασης ώστε να μην λήγει ποτέ για συγκεκριμένους χρήστες</span><span class="sxs-lookup"><span data-stu-id="1f8e4-107">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [<span data-ttu-id="50bef-106">Ορίστε τον κωδικό πρόσβασης ώστε να μην λήγει ποτέ για συγκεκριμένους χρήστες</span><span class="sxs-lookup"><span data-stu-id="50bef-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [<span data-ttu-id="1f8e4-108">Ο κωδικός πρόσβασης πρέπει να ικανοποιεί τις απαιτήσεις πολυπλοκότητας</span><span class="sxs-lookup"><span data-stu-id="1f8e4-108">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [<span data-ttu-id="50bef-107">Ο κωδικός πρόσβασης πρέπει να ικανοποιεί τις απαιτήσεις πολυπλοκότητας</span><span class="sxs-lookup"><span data-stu-id="50bef-107">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
