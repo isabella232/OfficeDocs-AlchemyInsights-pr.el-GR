@@ -1,8 +1,8 @@
 ---
 title: Διαχείριση αδειών χρήσης Power BI
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 7fb9191390f48059bf7417d92443ec45f4521a6a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bfb1a174f0ebe03bab53f13d26ac7af240fe7ce
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801985"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307105"
 ---
 # <a name="power-bi-license-management"></a>Διαχείριση αδειών χρήσης Power BI
 
-Η διαχείριση αδειών χρήσης του Power BI μπορεί να ολοκληρωθεί στο **Κέντρο διαχείρισης του Microsoft 365**.
+Η διαχείριση αδειών χρήσης του Power BI μπορεί να ολοκληρωθεί στο κέντρο διαχείρισης του Microsoft 365.
 
-- Για να **αγοράσετε** το Power BI, επιλέξτε **Χρέωση** \> **[Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο Αναζήτηση για να πραγματοποιήσετε αναζήτηση στο "Power BI" και επιλέξτε πρόγραμμα και αριθμό χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan). 
-
-- Για να **εκχωρήσετε** άδειες χρήσης του Power BI, επιλέξτε **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-
-- Για να **προσθέσετε/καταργήσετε** άδειες χρήσης του Power BI, μεταβείτε στο μενού **χρέωση > [τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**, εντοπίστε τη συνδρομή στην οποία θέλετε να προσθέσετε ή να καταργήσετε άδειες χρήσης και επιλέξτε **Προσθαφαίρεση αδειών χρήσης**.
-
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προσθήκη ή κατάργηση αδειών χρήσης από τη συνδρομή της επιχείρησής σας](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- **Για να αγοράσετε το Power BI**: **Billing** μεταβείτε στις \> [υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433)χρεώσεων. Χρησιμοποιήστε το πλαίσιο αναζήτησης για να αναζητήσετε το "Power BI", επιλέξτε το πρόγραμμα και τον αριθμό των χρηστών που θέλετε να αγοράσετε. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα αγορά διαφορετικής συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365\#buy-a-different-subscription).
+- **Για να αντιστοιχίσετε άδειες χρήσης του Power BI**: μεταβείτε στις **Billing**  >  [άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)χρέωσης. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- **Για να προσθέσετε ή να καταργήσετε άδειες χρήσης για το Power BI**: μεταβείτε στις **χρεώσεις**των  >  [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054), βρείτε τη συνδρομή που θέλετε να αλλάξετε, επιλέξτε **περισσότερες επιλογές** (τρεις τελείες) και, στη συνέχεια, επιλέξτε **αγορά αδειών χρήσης**. Για να καταργήσετε άδειες χρήσης, στο επάνω μέρος του παραθύρου **αγορά αδειών χρήσης** , επιλέξτε **Κατάργηση αδειών χρήσης**. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προσθήκη ή κατάργηση αδειών χρήσης από τη συνδρομή της επιχείρησής σας](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
