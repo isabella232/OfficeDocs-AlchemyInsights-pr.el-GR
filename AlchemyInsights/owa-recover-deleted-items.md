@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721874"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451508"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a><span data-ttu-id="38cf7-102">Ανάκτηση διαγραμμένων μηνυμάτων ηλεκτρονικού ταχυδρομείου στο Outlook στο Web</span><span class="sxs-lookup"><span data-stu-id="38cf7-102">Recover deleted email in Outlook on the web</span></span>
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a><span data-ttu-id="ccc1f-102">Ανάκτηση διαγραμμένων μηνυμάτων ηλεκτρονικού ταχυδρομείου στο Outlook στο Web</span><span class="sxs-lookup"><span data-stu-id="ccc1f-102">Recover deleted email in Outlook on the web</span></span>
 
-1. <span data-ttu-id="38cf7-103">Στο αριστερό τμήμα του παραθύρου, επιλέξτε το φάκελο "Διαγραμμένα" ή το φάκελο ανεπιθύμητης αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="38cf7-103">In the left pane, select the Deleted Items folder or the Junk Email folder.</span></span>
+1. <span data-ttu-id="ccc1f-103">Στο αριστερό τμήμα του παραθύρου, επιλέξτε το φάκελο "Διαγραμμένα" ή το φάκελο ανεπιθύμητης αλληλογραφίας.</span><span class="sxs-lookup"><span data-stu-id="ccc1f-103">In the left pane, select the Deleted Items folder or the Junk Email folder.</span></span>
 
-2. <span data-ttu-id="38cf7-104">Κάντε ένα από τα εξής:</span><span class="sxs-lookup"><span data-stu-id="38cf7-104">Do one of the following:</span></span>
+2. <span data-ttu-id="ccc1f-104">Κάντε ένα από τα εξής:</span><span class="sxs-lookup"><span data-stu-id="ccc1f-104">Do one of the following:</span></span>
 
-    - <span data-ttu-id="38cf7-105">Φάκελος "Διαγραμμένα": Επιλέξτε το μήνυμα που θέλετε να ανακτήσετε και επιλέξτε **Επαναφορά**.</span><span class="sxs-lookup"><span data-stu-id="38cf7-105">Deleted Items folder: Select the message you want to recover and select **Restore**.</span></span> <span data-ttu-id="38cf7-106">Εάν το μήνυμα δεν βρίσκεται στο φάκελο "Διαγραμμένα", επιλέξτε **ανάκτηση στοιχείων που έχουν διαγραφεί από αυτόν το φάκελο** στο επάνω μέρος της λίστας μηνυμάτων, επιλέξτε το μήνυμα που θέλετε να ανακτήσετε και επιλέξτε **Επαναφορά**.</span><span class="sxs-lookup"><span data-stu-id="38cf7-106">If the message isn't in the Deleted Items folder, select **Recover items deleted from this folder** at the top of the message list, select the message you want to recover, and select **Restore**.</span></span>
+    - <span data-ttu-id="ccc1f-105">Φάκελος "Διαγραμμένα": Επιλέξτε το μήνυμα που θέλετε να ανακτήσετε και επιλέξτε **Επαναφορά**.</span><span class="sxs-lookup"><span data-stu-id="ccc1f-105">Deleted Items folder: Select the message you want to recover and select **Restore**.</span></span> <span data-ttu-id="ccc1f-106">Εάν το μήνυμα δεν βρίσκεται στο φάκελο "Διαγραμμένα", επιλέξτε **ανάκτηση στοιχείων που έχουν διαγραφεί από αυτόν το φάκελο** στο επάνω μέρος της λίστας μηνυμάτων, επιλέξτε το μήνυμα που θέλετε να ανακτήσετε και επιλέξτε **Επαναφορά**.</span><span class="sxs-lookup"><span data-stu-id="ccc1f-106">If the message isn't in the Deleted Items folder, select **Recover items deleted from this folder** at the top of the message list, select the message you want to recover, and select **Restore**.</span></span>
 
-    - <span data-ttu-id="38cf7-107">Φάκελος ανεπιθύμητης αλληλογραφίας: Επιλέξτε το μήνυμα που θέλετε να ανακτήσετε και επιλέξτε **Όχι ανεπιθύμητη αλληλογραφία**.</span><span class="sxs-lookup"><span data-stu-id="38cf7-107">Junk Email folder: Select the message you want to recover, and select **Not junk**.</span></span>
+    - <span data-ttu-id="ccc1f-107">Φάκελος ανεπιθύμητης αλληλογραφίας: Επιλέξτε το μήνυμα που θέλετε να ανακτήσετε και επιλέξτε **Όχι ανεπιθύμητη αλληλογραφία**.</span><span class="sxs-lookup"><span data-stu-id="ccc1f-107">Junk Email folder: Select the message you want to recover, and select **Not junk**.</span></span>
 
-<span data-ttu-id="38cf7-108">Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα ανάκτηση διαγραμμένων μηνυμάτων ηλεκτρονικού ταχυδρομείου στο Outlook στο Web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span><span class="sxs-lookup"><span data-stu-id="38cf7-108">To learn more, see [Recover deleted email messages in Outlook on the web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span></span>
+<span data-ttu-id="ccc1f-108">Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα ανάκτηση διαγραμμένων μηνυμάτων ηλεκτρονικού ταχυδρομείου στο Outlook στο Web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span><span class="sxs-lookup"><span data-stu-id="ccc1f-108">To learn more, see [Recover deleted email messages in Outlook on the web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span></span>
