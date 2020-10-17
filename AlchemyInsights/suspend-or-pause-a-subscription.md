@@ -1,8 +1,8 @@
 ---
 title: Αναστολή ή παύση μιας συνδρομής
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800140"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488953"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Αναστολή ή παύση μιας συνδρομής
 
-Για να αναστείλετε ή να διακόψετε προσωρινά τη συνδρομή σας προσωρινά, μπορείτε να ακυρώσετε τη συνδρομή από το **Κέντρο διαχείρισης του Microsoft 365**.
+Για να αναστείλετε ή να διακόψετε προσωρινά τη συνδρομή σας προσωρινά, μπορείτε να ακυρώσετε τη συνδρομή στο κέντρο διαχείρισης του Microsoft 365.
 
-1. Μεταβείτε στις **χρεώσεις > [τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **χρέωση**των  >  [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Στην καρτέλα **προϊόντα** , εντοπίστε τη συνδρομή που θέλετε να ακυρώσετε. Επιλέξτε **περισσότερες ενέργειες** (τρεις τελείες) και, στη συνέχεια, επιλέξτε **Ακύρωση συνδρομής**.
+3. Η κατάσταση της συνδρομής εμφανίζεται ως **απενεργοποιημένη** και εμφανίζει την ημερομηνία ακύρωσης της συνδρομής. Η συνδρομή παραμένει σε κατάσταση απενεργοποίησης για 90 ημέρες και έχει μειωμένη λειτουργικότητα μέχρι να διαγραφεί ή να [επανενεργοποιηθεί](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-2. Εντοπίστε τη συνδρομή που θέλετε να ακυρώσετε και, στην περιοχή **ρυθμίσεις & ενέργειες**, κάντε κλικ στην επιλογή **Ακύρωση συνδρομής**.
-
-3. Η συνδρομή σας θα εμφανίζεται τώρα σε κατάσταση απενεργοποίησης για 90 ημέρες και θα έχει μειωμένη λειτουργικότητα μέχρι να διαγραφεί ή να [επανενεργοποιηθεί](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).
-
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι συμβαίνει όταν ακυρώνετε μια συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) και [αποθηκεύετε τα δεδομένα σας](https://go.microsoft.com/fwlink/p/?linkid=842054).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τι συμβαίνει όταν ακυρώνετε μια συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) και [αποθηκεύετε τα δεδομένα σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).

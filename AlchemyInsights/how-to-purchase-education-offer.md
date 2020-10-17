@@ -2,8 +2,8 @@
 title: Πώς να αγοράσετε προσφορά για εκπαιδευτικά ιδρύματα
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703660"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489277"
 ---
-# <a name="how-to-purchase-education-offer"></a>Πώς να αγοράσετε προσφορά για εκπαιδευτικά ιδρύματα
+# <a name="how-to-purchase-an-education-offer"></a>Πώς μπορείτε να αγοράσετε μια προσφορά εκπαίδευσης
 
 Το αίτημά σας για το Office 365 για εκπαιδευτικά ιδρύματα έχει εγκριθεί. Για αγορά:
   
-1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **χρέωση** των \> **[προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Επιλέξτε τη δοκιμαστική έκδοση για **σπουδαστές ή διδακτικό προσωπικό**.
-
-3. Στην ενότητα **άδειες χρήσης** , επιλέξτε **συνδρομή αγοράς**.
-
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **χρέωση** των \> [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Στην καρτέλα **προϊόντα** , επιλέξτε τη δοκιμαστική έκδοση για **σπουδαστές ή διδακτικό προσωπικό**.
+3. Στη σελίδα λεπτομέρειες συνδρομής, στην ενότητα **άδεια χρήσης** , επιλέξτε **αγορά συνδρομής επί πληρωμή τώρα**.
 4. Ακολουθήστε τα υπόλοιπα βήματα για να κάνετε ανάληψη ελέγχου.
 
-Εάν θέλετε να αγοράσετε μια συνδρομή εκτός από τη δοκιμαστική έκδοση, μεταβείτε στη **Billing** \> σελίδα [υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) χρεώσεων και επιλέξτε από τη λίστα στην περιοχή **εκπαιδευτικά προγράμματα**.
+Εάν θέλετε να αγοράσετε μια διαφορετική συνδρομή από τη δοκιμαστική συνδρομή σας, μεταβείτε στη σελίδα **Billing** \> [υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) χρεώσεων. Στην περιοχή **εκπαιδευτικά προγράμματα**, επιλέξτε το πρόγραμμα που θέλετε.
 
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα αγορά του ίδιου προγράμματος με τη δοκιμαστική έκδοση](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [αγορά συνδρομής από τη δωρεάν δοκιμαστική έκδοση](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
