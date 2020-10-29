@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784307"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791258"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Εγγραφή συσκευών Android σε Intune
 
-Το Intune υποστηρίζει την εγγραφή των ακόλουθων συσκευών Android:
-- Samsung KNOX και Zebra
-- Προφίλ εταιρικού έργου Android
-- Ειδικά για το Android Enterprise
-- Ολοκληρωμένη διαχείριση του Android Enterprise
+Εάν αναζητάτε τη μετεγκατάσταση χρηστών από την εγγραφή διαχειριστή συσκευής Android σε Android Enterprise, ανατρέξτε στο πρόβλημα: [Μετακίνηση των συσκευών Android από το διαχειριστή της συσκευής στη διαχείριση προφίλ εργασίας](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Πριν από τη ρύθμιση της εγγραφής για συσκευές Android, [Εξετάστε τις προϋποθέσεις] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Το Intune υποστηρίζει την εγγραφή των ακόλουθων συσκευών Android:  
 
-Για πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων εγγραφής συσκευών γενικά και ορισμένα σφάλματα εγγραφής στο Android, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων εγγραφής συσκευών στο Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung KNOX, Zebra, διαχειριστής συσκευής](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Προφίλ εταιρικού έργου Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Ειδικά για το Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Ολοκληρωμένη διαχείριση του Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Μπορείτε επίσης να χρησιμοποιήσετε το [περιεχόμενο που περιγράφει τη λεπίδα αντιμετώπισης προβλημάτων του Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) για να προσδιορίσετε ποια θέματα εγγραφής αντιμετωπίζουν οι χρήστες σας.
+Πριν από τη ρύθμιση της εγγραφής για συσκευές Android, [Εξετάστε τις προϋποθέσεις](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Για πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων εγγραφής συσκευών γενικά και ορισμένα σφάλματα εγγραφής στο Android, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων εγγραφής συσκευών στο Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Μπορείτε επίσης να χρησιμοποιήσετε το περιεχόμενο που περιγράφει τη λεπίδα αντιμετώπισης προβλημάτων του Intune για να προσδιορίσετε ποια θέματα εγγραφής αντιμετωπίζουν οι χρήστες σας.
