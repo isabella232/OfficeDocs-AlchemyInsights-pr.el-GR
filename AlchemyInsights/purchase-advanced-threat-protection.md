@@ -1,5 +1,5 @@
 ---
-title: Αγορά του Office 365 προηγμένη προστασία από απειλές
+title: Αγορά του Microsoft Defender για το Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693555"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801147"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Αγορά του Office 365 προηγμένη προστασία από απειλές
+# <a name="purchase-microsoft-defender-for-office-365"></a>Αγορά του Microsoft Defender για το Office 365
 
-Η προηγμένη προστασία απειλών του Office 365 (ATP) περιλαμβάνεται σε ορισμένες συνδρομές, όπως το Microsoft 365 E5, το Office 365 E5, το Office 365 a5 και το Microsoft 365 Business Premium. Εάν η συνδρομή σας δεν περιλαμβάνει το Office 365 ATP, μπορείτε να αγοράσετε το ATP Plan [1OR ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) ως πρόσθετο σε συγκεκριμένη συνδρομή. Για αγορά στο κέντρο διαχείρισης του Microsoft 365:
+Το Microsoft Defender για το Office 365 (ATP) περιλαμβάνεται σε ορισμένες συνδρομές, όπως το Microsoft 365 E5, το Office 365 E5, το Office 365 a5 και το Microsoft 365 Business Premium. Εάν η συνδρομή σας δεν περιλαμβάνει το Office 365 ATP, μπορείτε να αγοράσετε το ATP Plan [1OR ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) ως πρόσθετο σε συγκεκριμένη συνδρομή. Για αγορά στο κέντρο διαχείρισης του Microsoft 365:
 
 1. Μεταβείτε στις **Billing**   >   [υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433)χρεώσεων.
 2. Επιλέξτε σελίδα **πρόσθετων**  από **άλλες κατηγορίες που μπορεί να σας ενδιαφέρουν.**

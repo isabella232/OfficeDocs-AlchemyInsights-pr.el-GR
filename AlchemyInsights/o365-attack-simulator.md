@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759219"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801551"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Προσομοιωτής επίθεσης στο Microsoft 365
 
-- Σας λείπει ο προσομοιωτής επίθεσης; Ο προσομοιωτής επίθεσης απαιτεί το **office 365 Advanced Protection Protection Plan 2 (ATP Plan 2)** ή το **Office 365 για μεγάλες επιχειρήσεις E5**. Ο προσομοιωτής επίθεσης **δεν** περιλαμβάνεται στο Office 365 Advanced Protection Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 ή σε οποιαδήποτε εφαρμογή Microsoft 365 για συνδρομές για επιχειρήσεις.
+- Σας λείπει ο προσομοιωτής επίθεσης; Ο προσομοιωτής επίθεσης απαιτεί **από το Microsoft Defender για το office 365 πρόγραμμα 2 (ATP Plan 2) ή το** **Office 365 για μεγάλες επιχειρήσεις E5** . Ο προσομοιωτής επίθεσης **δεν** περιλαμβάνεται στο Microsoft Defender για το Office 365 Plan 1 (ATP Plan 1), το Office 365 Enterprise E3 ή οποιαδήποτε εφαρμογή εφαρμογών Microsoft 365 για επιχειρηματικές συνδρομές.
 
 - Ο λογαριασμός που χρησιμοποιείτε για την εκκίνηση προσομοιωμένων επιθέσεων απαιτεί καθολικό διαχειριστή ή δικαιώματα διαχειριστή ασφαλείας και έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ). Για περισσότερες πληροφορίες σχετικά με τις απαιτήσεις του προσομοιωτή επίθεσης, ανατρέξτε σε [αυτό το θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759219"
 
 - Σημαντικά πράγματα που πρέπει να γνωρίζετε σχετικά με το **δόρυ phishing** επισυνάψτε προσομοιώσεις:
 
-  - Κατά τη σχεδίαση, δεν μπορείτε να παρέχετε μια προσαρμοσμένη τιμή για τη **διεύθυνση URL του διακομιστή σύνδεσης ηλεκτρονικού "ψαρέματος"**.
+  - Κατά τη σχεδίαση, δεν μπορείτε να παρέχετε μια προσαρμοσμένη τιμή για τη **διεύθυνση URL του διακομιστή σύνδεσης ηλεκτρονικού "ψαρέματος"** .
 
   - Εάν ένας παραλήπτης χρησιμοποιήσει την [Ενεργοποίηση του πρόσθετου μηνύματος αναφοράς](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) για να αναφέρει το μήνυμα ως ηλεκτρονικό "ψάρεμα", ενδέχεται να μην λαμβάνετε ειδοποιήσεις για το μήνυμα (επειδή πρόκειται για προσομοίωση επίθεσης).
 
