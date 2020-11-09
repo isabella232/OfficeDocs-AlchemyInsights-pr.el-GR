@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720061"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947448"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="bfce7-102">Επιτάχυνση μετεγκατάστασης του SharePoint με σφάλματα του 503</span><span class="sxs-lookup"><span data-stu-id="bfce7-102">SharePoint migration throttling with 503 errors</span></span>
+# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="42869-102">Επιτάχυνση μετεγκατάστασης του SharePoint με σφάλματα του 503</span><span class="sxs-lookup"><span data-stu-id="42869-102">SharePoint migration throttling with 503 errors</span></span>
 
-<span data-ttu-id="bfce7-103">**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.</span><span class="sxs-lookup"><span data-stu-id="bfce7-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="42869-103">Φαίνεται ότι μεταναστεύετε στο SharePoint Online και λαμβάνετε σφάλματα του 503.</span><span class="sxs-lookup"><span data-stu-id="42869-103">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="42869-104">Παρακαλούμε ακολουθήστε τα παρακάτω βήματα για να μπορέσουμε να σας βοηθήσουμε το συντομότερο δυνατό.</span><span class="sxs-lookup"><span data-stu-id="42869-104">Please follow the steps below so we may assist you as soon as possible.</span></span>
 
-<span data-ttu-id="bfce7-104">**σφάλματα του 503 κατά τη μετεγκατάσταση στο SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="bfce7-104">**503 errors when migrating to SharePoint Online**</span></span>
-
-<span data-ttu-id="bfce7-105">Φαίνεται ότι μεταναστεύετε στο SharePoint Online και λαμβάνετε σφάλματα του 503.</span><span class="sxs-lookup"><span data-stu-id="bfce7-105">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="bfce7-106">Παρακαλούμε ακολουθήστε τα παρακάτω βήματα για να μπορέσουμε να σας βοηθήσουμε το συντομότερο δυνατό.</span><span class="sxs-lookup"><span data-stu-id="bfce7-106">Please follow the steps below so we may assist you as soon as possible.</span></span> 
-
-1. <span data-ttu-id="bfce7-107">Κάντε κλικ στην επιλογή **επικοινωνία με την υποστήριξη**και, στη συνέχεια, **νέα αίτηση υπηρεσίας**.</span><span class="sxs-lookup"><span data-stu-id="bfce7-107">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="bfce7-108">Για τον τίτλο και την περιγραφή, πληκτρολογήστε **επιτάχυνση μετεγκατάστασης του SharePoint με το 503**.</span><span class="sxs-lookup"><span data-stu-id="bfce7-108">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
-3. <span data-ttu-id="bfce7-109">Μετά την υποβολή του εισιτηρίου, ενημερώστε το με τις ακόλουθες πληροφορίες:</span><span class="sxs-lookup"><span data-stu-id="bfce7-109">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="bfce7-110">Πόση ποσότητα έχει απομείνει από τη μετεγκατάσταση (για παράδειγμα, πόσες TBs?).</span><span class="sxs-lookup"><span data-stu-id="bfce7-110">How much left of migration (for example, how many TBs?).</span></span>
-    - <span data-ttu-id="bfce7-111">Ημερομηνία έναρξης και λήξης μετεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="bfce7-111">Migration start and end date.</span></span>
-    - <span data-ttu-id="bfce7-112">Περιγράψτε τη θέση από την οποία πραγματοποιείτε τη μετεγκατάσταση του περιεχομένου σας, όπως τον SharePoint Server, το πλαίσιο, το GDrive, τα κοινόχρηστα στοιχεία αρχείων, κ. λπ.</span><span class="sxs-lookup"><span data-stu-id="bfce7-112">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
-    - <span data-ttu-id="bfce7-113">Υπολογίστε τον αριθμό των σφαλμάτων περιορισμού (για παράδειγμα, x γκάζι ανά ώρα;) και πότε έγινε η επιτάχυνση.</span><span class="sxs-lookup"><span data-stu-id="bfce7-113">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
-    - <span data-ttu-id="bfce7-114">Ποιο εργαλείο μετεγκατάστασης χρησιμοποιείτε (για παράδειγμα, SPMT ή ShareGate).</span><span class="sxs-lookup"><span data-stu-id="bfce7-114">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
-
-
+1. <span data-ttu-id="42869-105">Κάντε κλικ στην επιλογή **επικοινωνία με την υποστήριξη** και, στη συνέχεια, **νέα αίτηση υπηρεσίας**.</span><span class="sxs-lookup"><span data-stu-id="42869-105">Click **Contact Support** , and then **New Service Request**.</span></span>
+2. <span data-ttu-id="42869-106">Για τον τίτλο και την περιγραφή, πληκτρολογήστε **επιτάχυνση μετεγκατάστασης του SharePoint με το 503**.</span><span class="sxs-lookup"><span data-stu-id="42869-106">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
+3. <span data-ttu-id="42869-107">Μετά την υποβολή του εισιτηρίου, ενημερώστε το με τις ακόλουθες πληροφορίες:</span><span class="sxs-lookup"><span data-stu-id="42869-107">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="42869-108">Πόσο έχει απομείνει από τη μετεγκατάσταση (για παράδειγμα, πόσες TBs);</span><span class="sxs-lookup"><span data-stu-id="42869-108">How much is left of migration (for example, how many TBs)?</span></span>
+    - <span data-ttu-id="42869-109">Ημερομηνία έναρξης και λήξης μετεγκατάστασης.</span><span class="sxs-lookup"><span data-stu-id="42869-109">Migration start and end date.</span></span>
+    - <span data-ttu-id="42869-110">Περιγράψτε τη θέση από την οποία πραγματοποιείτε τη μετεγκατάσταση του περιεχομένου σας, όπως τον SharePoint Server, το πλαίσιο, το GDrive, τα κοινόχρηστα στοιχεία αρχείων, κ. λπ.</span><span class="sxs-lookup"><span data-stu-id="42869-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc.</span></span>
+    - <span data-ttu-id="42869-111">Υπολογίστε τον αριθμό των σφαλμάτων περιορισμού (για παράδειγμα, x γκάζι ανά ώρα) και πότε έγινε η επιτάχυνση.</span><span class="sxs-lookup"><span data-stu-id="42869-111">Estimate the number of throttling errors (for example, x throttle per hour) and when did the throttling happen.</span></span>
+    - <span data-ttu-id="42869-112">Ποιο εργαλείο μετεγκατάστασης χρησιμοποιείτε (για παράδειγμα, SPMT ή ShareGate);</span><span class="sxs-lookup"><span data-stu-id="42869-112">Which migration tool are you using (for example, SPMT or ShareGate)?</span></span>
