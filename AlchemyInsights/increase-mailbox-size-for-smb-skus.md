@@ -2,7 +2,7 @@
 title: Αύξηση μεγέθους γραμματοκιβωτίου για SKU SMB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778295"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363683"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Προγράμματα αναβάθμισης για την αύξηση του μεγέθους του γραμματοκιβωτίου
 
-Εάν το μέγεθος του γραμματοκιβωτίου είναι 50 GB, μπορείτε να αυξήσετε το μέγεθος του γραμματοκιβωτίου σε 100 GB, μεταβαίνοντας στο [office 365 για μεγάλες επιχειρήσεις E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ή στο [Office 365 για μεγάλες επιχειρήσεις E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Εδώ θα βρείτε τα βήματα για να μεταβείτε σε μια διαφορετική συνδρομή:
+Εάν το μέγεθος του γραμματοκιβωτίου είναι 50 GB, μπορείτε να αυξήσετε το μέγεθος του γραμματοκιβωτίου σε 100 GB, αναβαθμίζοντας το [office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), το [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), το [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)ή το [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab). Ακολουθούν τα βήματα για την αναβάθμιση σε διαφορετική συνδρομή:
   
-1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα **χρέωση**των  >  [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **χρέωση** των  >  [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Στην καρτέλα **προϊόντα** , επιλέξτε τη συνδρομή που θέλετε να αναβαθμίσετε.
+3. Στη σελίδα λεπτομέρειες συνδρομής, στην ενότητα **Λεπτομέρειες προϊόντος και αναβαθμίσεις** , επιλέξτε **Προβολή βελτιώσεων που συνιστώνται για το org σας**.
+4. Στη σελίδα **διαθέσιμες αναβαθμίσεις** , βρείτε το νέο πρόγραμμα που θέλετε και, στη συνέχεια, επιλέξτε **αναβάθμιση**.
+5. Στη σελίδα **Checkout** , επιλέξτε ή προσθέστε έναν τρόπο πληρωμής και, στη συνέχεια, επιλέξτε **θέση παραγγελίας**.
+6. Στο **είστε έτοιμοι!** σελίδα, επιλέξτε **κατάσταση της αναβάθμισής σας** ή **Συνεχίστε να ρυθμίσετε τη συνδρομή σας**.
 
-2. Επιλέξτε τη συνδρομή για αναβάθμιση και, στη συνέχεια, επιλέξτε την καρτέλα **αναβάθμιση** για να δείτε τη λίστα με τα νέα προγράμματα που είναι διαθέσιμα.
+Όταν ολοκληρώσετε την ολοκλήρωση της παραγγελίας, το Microsoft 365 διαρκεί λίγα λεπτά για να οριστικοποιήσει το διακόπτη. Μπορείτε να αρχίσετε να χρησιμοποιείτε τη νέα συνδρομή σας αμέσως.
 
-3. Επιλέξτε ένα πρόγραμμα για να δείτε το νέο συνολικό κόστος ανά μήνα. Βεβαιωθείτε ότι έχετε διαβάσει τις **βασικές πληροφορίες**και, στη συνέχεια, επιλέξτε **Επόμενο** για να κάνετε ανάληψη ελέγχου.
-
-4. Όταν ολοκληρώσετε την ολοκλήρωση της παραγγελίας, το Microsoft 365 διαρκεί λίγα λεπτά για να οριστικοποιήσει το διακόπτη. Μπορείτε να αρχίσετε να χρησιμοποιείτε τη νέα συνδρομή σας αμέσως.
-
-Για περισσότερες λεπτομέρειες, ανατρέξτε [στο θέμα αναβάθμιση σε διαφορετικό πρόγραμμα](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα αναβάθμιση σε διαφορετικό πρόγραμμα](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
