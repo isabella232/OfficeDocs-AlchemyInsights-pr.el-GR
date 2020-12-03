@@ -1,28 +1,27 @@
 ---
-title: Επικοινωνήστε με την ομάδα πωλήσεων
+title: Επικοινωνήστε με την ομάδα Πωλήσεων
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932073"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529018"
 ---
-# <a name="contact-the-sales-team"></a>Επικοινωνήστε με την ομάδα πωλήσεων
+# <a name="contact-the-sales-team"></a>Επικοινωνήστε με την ομάδα Πωλήσεων
 
-Με τις συνδέσεις του Microsoft Graph, ο οργανισμός σας μπορεί να κάνει ευρετήριο δεδομένων άλλων κατασκευαστών για να εμφανίζονται στα αποτελέσματα της Αναζήτησης της Microsoft.
+Υπάρχουν πολλοί τρόποι να επικοινωνήσετε με την ομάδα Πωλήσεων του Microsoft 365.
 
-- [Συνδέσεις από τη Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Σύνδεσμοι από τους συνεργάτες μας](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Επισκόπηση των συνδέσεων του Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Χρησιμοποιείστε τη φόρμα  [Επικοινωνία](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) ώστε ένας ειδικός πωλήσεων του Microsoft 365 να επικοινωνήσει μαζί σας.
+- Ξεκινήστε με την πύλη  [Κέντρο υπηρεσιών παραχώρησης πολλαπλών αδειών χρήσης (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762), για να επικοινωνήσετε με έναν ειδικό παραχώρησης πολλαπλών αδειών χρήσης για σύμβαση Enterprise.
