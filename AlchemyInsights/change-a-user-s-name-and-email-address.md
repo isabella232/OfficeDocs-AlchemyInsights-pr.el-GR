@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή του ονόματος και της διεύθυνσης ηλεκτρονικού ταχυδρομείου ενός χρήστη
+title: Αλλαγή ονόματος και διεύθυνσης ηλεκτρονικού ταχυδρομείου
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756931"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683902"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Αλλαγή του ονόματος και της διεύθυνσης ηλεκτρονικού ταχυδρομείου ενός χρήστη
+# <a name="change-a-name-and-email-address"></a>Αλλαγή ονόματος και διεύθυνσης ηλεκτρονικού ταχυδρομείου
 
 Η αλλαγή του ονόματος και της διεύθυνσης ηλεκτρονικού ταχυδρομείου ενός χρήστη στο Microsoft 365 είναι εύκολη. Μεταβείτε στη σελίδα **χρήστες** \> [ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) και επιλέξτε το χρήστη για να επεξεργαστείτε τις πληροφορίες τους. Μπορείτε επίσης να χρησιμοποιήσετε αυτό το άρθρο για οδηγίες βήμα προς βήμα:
   
