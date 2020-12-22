@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682088"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726390"
 ---
 # <a name="change-organization-profile"></a>Αλλαγή προφίλ οργανισμού
 
-Αλλάξτε το όνομα της εταιρείας σας, τη διεύθυνση, τα τεχνικά στοιχεία επικοινωνίας και πολλά άλλα στο κέντρο διαχείρισης στη σελίδα **Ρυθμίσεις**  >  [προφίλ οργανισμού](https://go.microsoft.com/fwlink/p/?linkid=2067339) .
+Αλλάξτε το όνομα της εταιρείας σας, τη διεύθυνση, τα τεχνικά στοιχεία επικοινωνίας και πολλά άλλα στο κέντρο διαχείρισης, στην καρτέλα **Ρυθμίσεις** οργανογράμματος για το  >    >  [οργανωτικό προφίλ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
 
 Φροντίστε να συμπληρώσετε όλα τα απαιτούμενα πεδία που επισημαίνονται με * για να ενεργοποιήσετε την αποθήκευση των αλλαγών σας.
 
