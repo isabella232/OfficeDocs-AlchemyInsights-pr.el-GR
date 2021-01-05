@@ -1,5 +1,5 @@
 ---
-title: Μετάβαση σε πληρωμή τιμολογίου (check/Wire Transfer)-Modern CL
+title: Μετάβαση σε πληρωμή με τιμολόγιο (μεταβίβαση ελέγχου/τραπεζική μεταφορά)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706655"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755463"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Μετάβαση σε πληρωμή τιμολογίου (check/Wire Transfer)-Modern CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Μετάβαση σε πληρωμή με τιμολόγιο (μεταβίβαση ελέγχου/τραπεζική μεταφορά)
+
+Με βάση την περιγραφή του ζητήματος, βρήκαμε μια λύση για εσάς. Οι περισσότεροι πελάτες μπόρεσαν να επιλύσουν το ζήτημά τους μόνοι τους, αφού ακολούθησαν την τεκμηρίωσή τους.
 
 Εάν αλλάξετε σε πληρωμή με τιμολόγιο, αυτό σημαίνει ότι θα πληρώσετε τον λογαριασμό σας εντός 30 ημερών από την ημερομηνία του τιμολογίου. Για να γίνετε επιλέξιμοι για να πληρώσετε για τη συνδρομή σας Azure με τιμολόγιο, υποβάλετε μια αίτηση για υποστήριξη Azure. Αφού εγκριθεί το αίτημά σας, μπορείτε να αλλάξετε μια συνδρομή για την πληρωμή τιμολογίου στην πύλη Azure.
 

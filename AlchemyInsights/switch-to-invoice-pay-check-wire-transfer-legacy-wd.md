@@ -1,5 +1,5 @@
 ---
-title: Μετάβαση σε πληρωμή τιμολογίου (επιταγή/τραπεζική μεταφορά)-παλαιού τύπου WD
+title: Μετάβαση σε πληρωμή με τιμολόγιο (επιταγή/τραπεζική μεταφορά)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726121"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755403"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Μετάβαση σε πληρωμή τιμολογίου (επιταγή/τραπεζική μεταφορά)-παλαιού τύπου WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Μετάβαση σε πληρωμή με τιμολόγιο (επιταγή/τραπεζική μεταφορά)
+
+Με βάση την περιγραφή του ζητήματος, βρήκαμε μια λύση για εσάς. Οι περισσότεροι πελάτες μπόρεσαν να επιλύσουν το ζήτημά τους μόνοι τους, αφού ακολούθησαν την τεκμηρίωσή τους.
 
 Εάν αλλάξετε σε πληρωμή με τιμολόγιο, αυτό σημαίνει ότι θα πληρώσετε τον λογαριασμό σας εντός 30 ημερών από την ημερομηνία του τιμολογίου. Για να γίνετε επιλέξιμοι για να πληρώσετε για τη συνδρομή σας Azure με τιμολόγιο, υποβάλετε μια αίτηση για υποστήριξη Azure. Αφού εγκριθεί το αίτημά σας, μπορείτε να αλλάξετε μια συνδρομή για την πληρωμή τιμολογίου στην [πύλη Azure](https://portal.azure.com/).
 

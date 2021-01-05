@@ -1,5 +1,5 @@
 ---
-title: PayNow/πραγματοποίηση πληρωμής αμέσως-παλαιού τύπου EA
+title: PayNow/πραγματοποίηση πληρωμής αμέσως
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692159"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755691"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/πραγματοποίηση πληρωμής αμέσως-παλαιού τύπου EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/πραγματοποίηση πληρωμής αμέσως
+
+Με βάση την περιγραφή του ζητήματος, βρήκαμε μια λύση για εσάς. Οι περισσότεροι πελάτες μπόρεσαν να επιλύσουν το ζήτημά τους μόνοι τους, αφού ακολούθησαν την τεκμηρίωσή τους.
 
 Για μια συνδρομή Azure Enterprise συμφωνία, η μέθοδος Add/Update/Change of Payment δεν υποστηρίζεται. Εάν θέλετε να αλλάξετε τη διεύθυνση σε ένα υπάρχον τιμολόγιο, παρακαλούμε επικοινωνήστε με τον αντιπρόσωπο της Microsoft.
 

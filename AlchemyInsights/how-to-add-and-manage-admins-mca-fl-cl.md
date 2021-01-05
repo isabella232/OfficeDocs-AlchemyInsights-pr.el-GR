@@ -1,5 +1,5 @@
 ---
-title: Πώς να προσθέσετε και να διαχειριστείτε διαχειριστές-MCA FL/CL
+title: Πώς μπορείτε να προσθέσετε και να διαχειριστείτε διαχειριστές
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692115"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755495"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Πώς να προσθέσετε και να διαχειριστείτε διαχειριστές-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Πώς μπορείτε να προσθέσετε και να διαχειριστείτε διαχειριστές
+
+Με βάση την περιγραφή του ζητήματος, βρήκαμε μια λύση για εσάς. Οι περισσότεροι πελάτες μπόρεσαν να επιλύσουν το ζήτημά τους μόνοι τους, αφού ακολούθησαν την τεκμηρίωσή τους.
 
 Για να διαχειριστείτε το λογαριασμό χρέωσής σας για μια συμφωνία πελατών της Microsoft (MCA), μπορείτε να χρησιμοποιήσετε διαφορετικούς ρόλους με το επιθυμητό επίπεδο πρόσβασης. Αυτοί οι ρόλοι είναι εκτός από τους ενσωματωμένους ρόλους υπηρεσίας Azure που σας βοηθούν να ελέγχετε τους πόρους σας.
 
