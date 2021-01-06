@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή διεύθυνσης ηλεκτρονικού ταχυδρομείου της ομάδας Microsoft 365
+title: Αλλαγή διεύθυνσης ηλεκτρονικού ταχυδρομείου μιας ομάδας του Microsoft 365 ή του Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48461833"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756557"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Αλλαγή διεύθυνσης ηλεκτρονικού ταχυδρομείου μιας ομάδας του Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Αλλαγή διεύθυνσης ηλεκτρονικού ταχυδρομείου μιας ομάδας του Microsoft 365 ή του Microsoft Teams
 
-Μπορείτε να αλλάξετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου μιας ομάδας του Microsoft 365 χρησιμοποιώντας το κέντρο διαχείρισης. Απλώς επιλέξτε την ομάδα και επιλέξτε @edit διεύθυνση ηλεκτρονικού ταχυδρομείου.
+Μπορείτε να αλλάξετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου μιας ομάδας του Microsoft 365 ή του Microsoft Teams, χρησιμοποιώντας το [Kέντρο διαχείρισης Microsoft 365](https://admin.microsoft.com/). Απλώς επιλέξτε την ομάδα και, στη συνέχεια, επιλέξτε @επεξεργασία διεύθυνσης ηλεκτρονικού ταχυδρομείου.
 
-Μπορείτε επίσης να χρησιμοποιήσετε την εντολή "εξω PowerShell" για να αλλάξετε την κύρια διεύθυνση SMTP μιας ομάδας του Microsoft 365:
+Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή EXO PowerShell για να αλλάξετε την κύρια διεύθυνση SMTP μιας ομάδας του Microsoft 365 ή του Teams:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-Παράδειγμα
+Παράδειγμα:
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
