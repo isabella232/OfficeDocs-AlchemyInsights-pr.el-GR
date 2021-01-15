@@ -1,9 +1,9 @@
 ---
-title: Ζητήματα διακομιστή μεσολάβησης εφαρμογής και πιστοποιητικών
+title: Ζητήματα διακομιστή μεσολάβησης εφαρμογών και πιστοποιητικών
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/13/2021
+ms.date: 01/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 753d1ff2b4b803072bab0edca0331ff65a4a2c0b
-ms.sourcegitcommit: 9dbce0b688224ddd6b50ebe5d9cd1ef58bfec7b9
-ms.translationtype: MT
+ms.openlocfilehash: 743350ef31ee45f339086fb39a05835a71fabafa
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868665"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875103"
 ---
-# <a name="application-proxy-and-certificate-issues"></a><span data-ttu-id="5a327-102">Ζητήματα διακομιστή μεσολάβησης εφαρμογής και πιστοποιητικών</span><span class="sxs-lookup"><span data-stu-id="5a327-102">Application proxy and certificate issues</span></span>
+# <a name="application-proxy-and-certificate-issues"></a><span data-ttu-id="9f57a-102">Ζητήματα διακομιστή μεσολάβησης εφαρμογών και πιστοποιητικών</span><span class="sxs-lookup"><span data-stu-id="9f57a-102">Application proxy and certificate issues</span></span>
 
-<span data-ttu-id="5a327-103">Οι περισσότεροι χρήστες έχουν τη δυνατότητα να επιλύσουν τα προβλήματα του διακομιστή μεσολάβησης εφαρμογής και του πιστοποιητικού, χρησιμοποιώντας τα παρακάτω άρθρα, τα οποία είναι τα ονόματα των συνιστώμενων εγγράφων:</span><span class="sxs-lookup"><span data-stu-id="5a327-103">Most users are able to resolve their Application Proxy and certificate issues using the articles below, which are names of recommended documents:</span></span>
+<span data-ttu-id="9f57a-103">Για να επιλύσετε προβλήματα με τον διακομιστή μεσολάβησης εφαρμογών και τα πιστοποιητικά, ανατρέξτε στα παρακάτω έγγραφα:</span><span class="sxs-lookup"><span data-stu-id="9f57a-103">To resolve application proxy and certificate issues, see the below documents:</span></span>
 
-<span data-ttu-id="5a327-104">**Προτεινόμενα έγγραφα**</span><span class="sxs-lookup"><span data-stu-id="5a327-104">**Recommended documents**</span></span>
+<span data-ttu-id="9f57a-104">**Προτεινόμενα έγγραφα**</span><span class="sxs-lookup"><span data-stu-id="9f57a-104">**Recommended documents**</span></span>
 
-- [<span data-ttu-id="5a327-105">Πιστοποιητικά για προσαρμοσμένους τομείς</span><span class="sxs-lookup"><span data-stu-id="5a327-105">Certificates for custom domains</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
-- [<span data-ttu-id="5a327-106">Διαχείριση πιστοποιητικών SSL στο AD FS και το WAP στον Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="5a327-106">Managing SSL Certificates in AD FS and WAP in Windows Server 2016</span></span>](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
+- [<span data-ttu-id="9f57a-105">Πιστοποιητικά για προσαρμοσμένους τομείς</span><span class="sxs-lookup"><span data-stu-id="9f57a-105">Certificates for custom domains</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
+- [<span data-ttu-id="9f57a-106">Διαχείριση πιστοποιητικών SSL στις υπηρεσίες AD FS και WAP στον Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="9f57a-106">Managing SSL Certificates in AD FS and WAP in Windows Server 2016</span></span>](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
 
 
