@@ -1,9 +1,9 @@
 ---
-title: Ζητήματα διακομιστή μεσολάβησης εφαρμογής και πιστοποιητικών
+title: Ζητήματα διακομιστή μεσολάβησης εφαρμογών και πιστοποιητικών
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/13/2021
+ms.date: 01/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 753d1ff2b4b803072bab0edca0331ff65a4a2c0b
-ms.sourcegitcommit: 9dbce0b688224ddd6b50ebe5d9cd1ef58bfec7b9
-ms.translationtype: MT
+ms.openlocfilehash: 743350ef31ee45f339086fb39a05835a71fabafa
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868665"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875103"
 ---
-# <a name="application-proxy-and-certificate-issues"></a>Ζητήματα διακομιστή μεσολάβησης εφαρμογής και πιστοποιητικών
+# <a name="application-proxy-and-certificate-issues"></a>Ζητήματα διακομιστή μεσολάβησης εφαρμογών και πιστοποιητικών
 
-Οι περισσότεροι χρήστες έχουν τη δυνατότητα να επιλύσουν τα προβλήματα του διακομιστή μεσολάβησης εφαρμογής και του πιστοποιητικού, χρησιμοποιώντας τα παρακάτω άρθρα, τα οποία είναι τα ονόματα των συνιστώμενων εγγράφων:
+Για να επιλύσετε προβλήματα με τον διακομιστή μεσολάβησης εφαρμογών και τα πιστοποιητικά, ανατρέξτε στα παρακάτω έγγραφα:
 
 **Προτεινόμενα έγγραφα**
 
 - [Πιστοποιητικά για προσαρμοσμένους τομείς](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
-- [Διαχείριση πιστοποιητικών SSL στο AD FS και το WAP στον Windows Server 2016](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
+- [Διαχείριση πιστοποιητικών SSL στις υπηρεσίες AD FS και WAP στον Windows Server 2016](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
 
 
