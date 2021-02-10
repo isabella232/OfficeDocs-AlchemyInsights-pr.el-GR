@@ -1,30 +1,29 @@
 ---
 title: Αλλαγή μεθόδου πληρωμής
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933217"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152594"
 ---
 # <a name="change-payment-method-fromto"></a>Αλλαγή μεθόδου πληρωμής από/προς
 
 1. **Αλλαγή από τιμολόγιο σε πιστωτική κάρτα ή τραπεζικό λογαριασμό**
 
-    - Κατά την αλλαγή της μεθόδου πληρωμής από πληρωμή με τιμολόγιο σε πληρωμή με πιστωτική κάρτα ή τραπεζικό λογαριασμό, δημιουργούμε αυτόματα μια νέα συνδρομή για εσάς, μεταφέρουμε τους χρήστες σας στη νέα συνδρομή και στη συνέχεια απενεργοποιούμε την παλιά συνδρομή. Δεν χρειάζεται να ανησυχείτε, καθώς οι χρήστες σας δεν θα αντιληφθούν καμία διακοπή στην παροχή υπηρεσιών και όλα τα στοιχεία τους θα είναι διαθέσιμα στη νέα συνδρομή. 
-
-    - Ακολουθήστε τα βήματα που τεκμηριώνονται στο θέμα [Αλλαγή από τιμολόγιο σε πιστωτική κάρτα ή τραπεζικό λογαριασμό](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Δεν μπορείτε να αλλάξετε αυτόματα από πληρωμή με τιμολόγιο σε πληρωμή με διαφορετική μέθοδο πληρωμής. Αντί για αυτό, πρέπει [να αγοράσετε μια διαφορετική συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), η οποία πληρώνεται με πιστωτική ή χρεωστική κάρτα ή τραπεζικό λογαριασμό, [να μετακινήσετε όλους τους χρήστες στη νέα συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)και, στη συνέχεια, [να ακυρώσετε την παλιά συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Αλλαγή από πιστωτική κάρτα ή τραπεζικό λογαριασμό σε τιμολόγιο**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933217"
 
     - Εάν η ποσότητα της παραγγελίας σας είναι πολύ μεγάλη, ενδέχεται να απαιτείται έλεγχος πιστοληπτικής ικανότητας. Σε αυτή την περίπτωση, θα δείτε το μήνυμα "Δεν πληροί τα κριτήρια για αλλαγή σε τιμολόγιο. Απαιτείται έλεγχος πιστοληπτικής ικανότητα για την παραγγελία σας". Σε αυτή την περίπτωση, αλλάζετε για να πληρώσετε με μη αυτόματο τρόπο μέσω τιμολογίου.
 
-    - Ακολουθήστε τα βήματα που τεκμηριώνονται στο θέμα [Αλλαγή από πιστωτική κάρτα ή τραπεζικό λογαριασμό σε τιμολόγιο](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) για να ολοκληρώσετε τη μη αυτόματη αλλαγή.
+    - Ακολουθήστε τα βήματα στην ενότητα [Πώς μπορώ να αλλάξω από πληρωμές με πιστωτική κάρτα σε τιμολόγιο;](how-do-i-change-from-credit-card-payments-to-invoice.md) για να ολοκληρώσετε τη μη αυτόματη αλλαγή.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αλλαγή της μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Πώς να πληρώσετε για τη συνδρομή σας](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

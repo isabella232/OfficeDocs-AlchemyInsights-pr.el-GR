@@ -1,33 +1,34 @@
 ---
 title: Προσθήκη, ενημέρωση ή κατάργηση μεθόδου πληρωμής
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708723"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152459"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Προσθήκη, ενημέρωση ή κατάργηση μεθόδου πληρωμής
 
 Μπορείτε να αγοράσετε προϊόντα και υπηρεσίες από τη Microsoft με πιστωτική ή χρεωστική κάρτα ή μέσω τραπεζικού λογαριασμού (πάγια εντολή).
 
-- Για να προσθέσετε έναν τραπεζικό λογαριασμό ως μέθοδο πληρωμής, ανατρέξτε στο θέμα [Προσθήκη μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
+- Για να προσθέσετε έναν τραπεζικό λογαριασμό ως μέθοδο πληρωμής, ανατρέξτε στο θέμα [Προσθήκη μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- Για να ενημερώσετε τις πληροφορίες σε έναν τραπεζικό λογαριασμό, ανατρέξτε στο θέμα [Ενημέρωση υπάρχουσας μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- Για να ενημερώσετε τις πληροφορίες σε έναν τραπεζικό λογαριασμό, ανατρέξτε στο θέμα [Ενημέρωση λεπτομερειών μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
 
-- Για να αλλάξετε τη μέθοδο πληρωμής σε ή από τραπεζικό λογαριασμό, ανατρέξτε στο θέμα [Αλλαγή μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+- Για να αλλάξετε τη μέθοδο πληρωμής σε ή από τραπεζικό λογαριασμό, ανατρέξτε στο θέμα [Αντικατάσταση μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- Για να καταργήσετε έναν τραπεζικό λογαριασμό ως μέθοδο πληρωμής, ανατρέξτε στο θέμα [Κατάργηση μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#remove-a-payment-method). 
+- Για να καταργήσετε έναν τραπεζικό λογαριασμό ως μέθοδο πληρωμής, ανατρέξτε στο θέμα [Διαγραφή μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη, ενημέρωση ή κατάργηση των μεθόδων πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). 
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση μεθόδων πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

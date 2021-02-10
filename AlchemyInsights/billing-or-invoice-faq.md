@@ -3,32 +3,32 @@ title: Συνήθεις ερωτήσεις για τις χρεώσεις ή τ�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500024"
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
-ms.translationtype: MT
+ms.openlocfilehash: 2bd9f76f0521d51e41b9746df0ee0983876a48c9
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364623"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152424"
 ---
 # <a name="billing-or-invoice-faq"></a>Συνήθεις ερωτήσεις για τις χρεώσεις ή το τιμολόγιο
 
-- Οι πληρωμές λογαριασμού μπορούν να **απορριφθούν** για διάφορους λόγους, όπως στην περίπτωση κατά την οποία μια πιστωτική κάρτα έχει λήξει. Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε στο θέμα [Αλλαγή μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
-- Εάν ο λογαριασμός σας είναι **ληξιπρόθεσμος**, χρησιμοποιήστε τη δυνατότητα **Τακτοποίηση υπολοίπου** για να υποβάλετε ξανά την πληρωμή σας. Για να επιλύσετε αυτό το ζήτημα, ανατρέξτε στο θέμα [Τι γίνεται εάν η πληρωμή μου είναι ληξιπρόθεσμη;](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Εξακολουθείτε να χρεώνεστε για άδειες χρήσης που δεν έχουν ανατεθεί στους χρήστες. Για να αποτρέψετε τις περιττές χρεώσεις, καταργήστε τις άδειες χρήσης που δεν χρησιμοποιούνται για να μειώσετε το πλήθος των αδειών χρήσης. Ανατρέξτε στο θέμα [Προσθήκη ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) από μια συνδρομή.
+- Οι πληρωμές λογαριασμού μπορούν να **απορριφθούν** για διάφορους λόγους, όπως στην περίπτωση κατά την οποία μια πιστωτική κάρτα έχει λήξει. Για να επιλύσετε το ζήτημα, ανατρέξτε στο θέμα [Ενημέρωση λεπτομερειών μεθόδου πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- Εάν ο λογαριασμός σας είναι **ληξιπρόθεσμος**, χρησιμοποιήστε τη δυνατότητα **Τακτοποίηση υπολοίπου** για να υποβάλετε ξανά την πληρωμή σας. Για να επιλύσετε το ζήτημα, ανατρέξτε στο θέμα [Τι γίνεται αν έχω εκκρεμές υπόλοιπο;](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- Εξακολουθείτε να χρεώνεστε για άδειες χρήσης που δεν έχουν εκχωρηθεί σε χρήστες. Για να αποφύγετε τις περιττές χρεώσεις, καταργήστε τις άδειες χρήσης που δεν χρησιμοποιούνται, για να μειώσετε τον αριθμό των αδειών χρήσης. Ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) from a subscription.
 - Εάν θέλετε να αλλάξετε τις **Συχνότητες χρέωσης** σε μηνιαία ή ετήσια, ανατρέξτε στο θέμα [Αλλαγή συχνότητας χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Εάν χρειάζεστε βοήθεια με τον λογαριασμό σας, ανατρέξτε στο θέμα [Κατανόηση του τιμολογίου σας.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
 - Εάν χρειάζεστε βοήθεια με την **προβολή** του λογαριασμού σας, ανατρέξτε στο θέμα [Προβολή λογαριασμού ή τιμολογίου](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Εάν θέλετε να αλλάξετε τις πληροφορίες χρέωσης, ανατρέξτε στο θέμα [Διαχείριση προφίλ χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) ή [Αλλαγή διεύθυνσης χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Εάν θέλετε να αλλάξετε τις πληροφορίες χρέωσης, ανατρέξτε στο θέμα [Κατανόηση των προφίλ χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) ή [αλλάξτε τη διεύθυνση χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα κατανόηση του τιμολογίου σας](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Κατανόηση του τιμολογίου σας](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
