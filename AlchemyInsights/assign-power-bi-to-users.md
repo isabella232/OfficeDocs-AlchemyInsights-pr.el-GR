@@ -1,22 +1,24 @@
 ---
 title: Εκχώρηση Power BI σε χρήστες
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4964"
-ms.openlocfilehash: 08bd1e338850cfa5bbfa763cd9d586620737833d
-ms.sourcegitcommit: 090a2ae17f18daa00da16e384d843370a0f6985d
+- commerce
+ms.openlocfilehash: 9f95fff929f5637bccfa3f9d6a79281d2cb09003
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43806934"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469554"
 ---
 # <a name="assign-power-bi-to-users"></a>Εκχώρηση Power BI σε χρήστες
 
@@ -29,4 +31,4 @@ ms.locfileid: "43806934"
 5. Κάντε κλικ στην επιλογή **Ενεργοποίηση ή απενεργοποίηση των εφαρμογών και των υπηρεσιών** για να εκχώρηση ή κατάργηση.
 6. Κάντε κλικ στην επιλογή **Εκχώρηση** και, στη συνέχεια, **Κλείσιμο**.
 
-Για να αγοράσετε περισσότερες ή να καταργήσετε άδειες χρήσης, ανατρέξτε στο θέμα [Προσθήκη/κατάργηση αδειών χρήσης για συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Για να αγοράσετε περισσότερες ή να καταργήσετε άδειες χρήσης, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
