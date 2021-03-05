@@ -1,8 +1,8 @@
 ---
 title: Αγορά του Microsoft Defender για το Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801147"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469806"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Αγορά του Microsoft Defender για το Office 365
 
-Το Microsoft Defender για το Office 365 (ATP) περιλαμβάνεται σε ορισμένες συνδρομές, όπως το Microsoft 365 E5, το Office 365 E5, το Office 365 a5 και το Microsoft 365 Business Premium. Εάν η συνδρομή σας δεν περιλαμβάνει το Office 365 ATP, μπορείτε να αγοράσετε το ATP Plan [1OR ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) ως πρόσθετο σε συγκεκριμένη συνδρομή. Για αγορά στο κέντρο διαχείρισης του Microsoft 365:
+Το Microsoft Defender για Office 365 περιλαμβάνεται σε ορισμένες συνδρομές, όπως το Microsoft 365 E5, το Office 365 E5, το Office 365 A5 και το Microsoft 365 Premium για Επιχειρήσεις. Εάν στη συνδρομή σας δεν περιλαμβάνεται ο Microsoft Defender για το Office 365, μπορείτε να αγοράσετε τον Microsoft Defender για [το Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) ως πρόσθετο σε συγκεκριμένη συνδρομή. Για να αγοράσετε από το κέντρο διαχείρισης Microsoft 365:
 
-1. Μεταβείτε στις **Billing**   >   [υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433)χρεώσεων.
-2. Επιλέξτε σελίδα **πρόσθετων**  από **άλλες κατηγορίες που μπορεί να σας ενδιαφέρουν.**
-3. Επιλέξτε το προηγμένο πρόγραμμα προστασίας από απειλές που θέλετε να αγοράσετε. Μπορείτε επίσης να επιλέξετε ένα δοκιμαστικό πρόγραμμα.
-4. Επιλέξτε τον αριθμό των χρηστών που θα χρησιμοποιήσουν την προηγμένη προστασία από απειλές.
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **"Υπηρεσίες**  >  [αγοράς χρέωσης".](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Στο κάτω μέρος  της σελίδας "Αγορά υπηρεσιών", στην ενότητα "Πρόσθετα", βρείτε το πρόσθετο Microsoft Defender για Office 365 και επιλέξτε **"Λεπτομέρειες".** 
+3. Στη σελίδα λεπτομερειών προϊόντος, επιλέξτε **"Αγορά".**
+4. Εάν είναι απαραίτητο, συμπληρώστε τυχόν άλλες πληροφορίες παραγγελίας. Αυτές οι πληροφορίες μπορεί να περιλαμβάνουν την επιλογή της συνδρομής για την οποία χρησιμοποιείται το πρόσθετο και τον αριθμό των χρηστών που θα το χρησιμοποιήσουν. Όταν τελειώσετε, επιλέξτε "Έλεγχος **τώρα".**
+5. Αν είναι απαραίτητο, ελέγξτε τις πληροφορίες παραγγελίας και τιμολόγησης και, στη συνέχεια, **επιλέξτε "Επόμενο".**
+6. Επιλέξτε μια μέθοδο πληρωμής ή προσθέστε μια νέα και, στη συνέχεια, επιλέξτε "Place **order Go** to  >  **Admin Home" (Αρχική σελίδα διαχειριστή).**
 
-Για να εκχωρήσετε άδειες χρήσης σε χρήστες, ανατρέξτε στο θέμα [εκχώρηση αδειών χρήσης σε χρήστες](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+Για να εκχωρήσετε άδειες χρήσης σε χρήστες, ανατρέξτε [στο θέμα "Εκχώρηση αδειών χρήσης σε χρήστες".](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 
-Για να αγοράσετε περισσότερες ή να καταργήσετε άδειες χρήσης, ανατρέξτε στο θέμα [Προσθήκη/κατάργηση αδειών χρήσης για συνδρομή](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Για να αγοράσετε περισσότερες άδειες χρήσης ή να τις καταργήσετε, ανατρέξτε στο [θέμα "Αγορά ή κατάργηση αδειών χρήσης".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
