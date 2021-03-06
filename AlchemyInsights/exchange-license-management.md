@@ -1,32 +1,34 @@
 ---
 title: Διαχείριση άδειας χρήσης του Exchange
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: f653fefccc435b80198ea6097d845549ccec56bf
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 84d3dd65f0d50a25c5357892c729610ff4d42988
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505615"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469122"
 ---
 # <a name="exchange-license-management"></a>Διαχείριση άδειας χρήσης του Exchange
 
 Η διαχείριση αδειών χρήστης του Exchange μπορεί να ολοκληρωθεί στο **Κέντρο διαχείρισης του Microsoft 365**.
 
 - [Συγκρίνετε επιλογές του Exchange](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans) για να μάθετε περισσότερα σχετικά με τις διαφορές μεταξύ των **Exchange Online Πρόγραμμα 1, 2 και Premium για Επιχειρήσεις**.
-- Για να **αγοράσετε** το Exchange, επιλέξτε **Χρεώσεις > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο "Αναζήτηση" για να πραγματοποιήσετε αναζήτηση για το "Exchange" και επιλέξτε πρόγραμμα και αριθμό χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Για **αλλαγή προγραμμάτων**, ανατρέξτε στο θέμα [Αλλαγή των προγραμμάτων του Microsoft 365 για επιχειρήσεις με μη αυτόματο τρόπο](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Για να **εκχωρήσετε** άδειες χρήσης του Exchange, μεταβείτε στο μενού **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**, επιλέξτε τη συνδρομή, επιλέξτε τους χρήστες και κάντε κλικ στην επιλογή **Εκχώρηση αδειών χρήσης**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Για **προσθήκη/κατάργηση** αδειών χρήσης Exchange, επιλέξτε **Χρεώσεις > [Προϊόντα & υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)** και κάντε κλικ στην επιλογή **Προσθήκη/κατάργηση αδειών χρήσης**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη/κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Για **Ακύρωση** άδειας χρήσης του Exchange, μεταβείτε στο **Χρεώσεις > [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**, επιλέξτε **Ρυθμίσεις και ενέργειες**και κάντε κλικ στην επιλογή **Ακύρωση της συνδρομής**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Για να **αγοράσετε** το Exchange, επιλέξτε **Χρεώσεις > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο "Αναζήτηση" και πραγματοποιήστε αναζήτηση για το "Exchange" και επιλέξτε πρόγραμμα και αριθμό χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά μιας διαφορετικής συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Για να **αλλάξετε πρόγραμμα**, ανατρέξτε στο θέμα [Αναβάθμιση σε διαφορετικό πρόγραμμα](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Για **εκχώρηση** αδειών χρήσης στους χρήστες, επιλέξτε **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εκχώρηση αδειών χρήσης σε χρήστες](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Για **αγορά ή κατάργηση** αδειών χρήσης, επιλέξτε **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Για **ακύρωση** μιας συνδρομής, μεταβείτε στην περιοχή **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**, επιλέξτε τη συνδρομή και στην ενότητα **Ρυθμίσεις συνδρομής και πληρωμής**, επιλέξτε **Ακύρωση συνδρομής**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση αδειών χρήσης συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
