@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-- commerce
-ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0920f231f56207c488a4ddee0b0cd852ccf8e8ec
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469924"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602922"
 ---
 # <a name="microsoft-365-a5-faq"></a>Συνήθεις ερωτήσεις για το Microsoft 365 A5
 
 - Για να συγκρίνετε τα προγράμματα Microsoft 365 για εκπαιδευτικά ιδρύματα A1, A3, A5, δείτε τα προγράμματα [Για τους σπουδαστές σας](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) και [Για τους καθηγητές, το διδακτικό προσωπικό και το διοικητικό προσωπικό](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
-- Για να **αγοράσετε** το Α5, επιλέξτε **Χρεώσεις > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο "Αναζήτηση" για να πραγματοποιήσετε αναζήτηση για το "Α3" και επιλέξτε πρόγραμμα και αριθμό χρηστών. [Αγορά διαφορετικής συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Για να **αγοράσετε** το Α5, επιλέξτε **Χρεώσεις > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο "Αναζήτηση" για να πραγματοποιήσετε αναζήτηση για το "Α3" και επιλέξτε πρόγραμμα και αριθμό χρηστών. [Αγοράστε μια άλλη συνδτομή](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Για να **αλλάξετε πρόγραμμα**, ανατρέξτε στο θέμα [Αναβάθμιση σε διαφορετικό πρόγραμμα](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Για να **εκχωρήσετε** άδεις χρήσης A5 στους χρήστες, μεταβείτε στο **Χρέωση > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης σε χρήστες](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Για να **αγοράσετε ή να καταργήσετε** άδειες χρήσης A5, επιλέξτε **Χρέωση > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
