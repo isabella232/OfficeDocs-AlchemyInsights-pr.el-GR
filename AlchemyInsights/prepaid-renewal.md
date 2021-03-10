@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-- commerce
-ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469734"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602328"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Προπληρωμένη ανανέωση του Microsoft 365
 
-1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα "Χρέωση  \> **[των προϊόντων σας".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα "Χρέωση **των** \> **[προϊόντων σας".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Στην καρτέλα **"Προϊόντα",** επιλέξτε τη συνδρομή που θέλετε να επεκτείνετε.
 3. Στη σελίδα λεπτομερειών συνδρομής, στην ενότητα **"Ρυθμίσεις συνδρομής και πληρωμής",** επιλέξτε "Επέκταση **ημερομηνίας λήξης".**
 4. Στη σελίδα **ανανέωσης ή προσθήκης αδειών χρήσης,** επιλέξτε "Χρήση νέου και μη χρησιμοποιημένου **κλειδιού προϊόντος"** και, στη συνέχεια, επιλέξτε **"Επόμενο".**
