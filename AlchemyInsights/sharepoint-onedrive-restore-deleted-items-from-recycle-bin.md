@@ -1,5 +1,5 @@
 ---
-title: "\"Αντιμετώπιση προβλημάτων σε αρχεία ή φακέλους που λείπουν"
+title: "\"Αντιμετώπιση προβλημάτων με αρχεία ή φακέλους που λείπουν"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 3b344e7a4a5f663b15a9f3820d1ff7b28ad61b4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c4a495c0d4628b449454b3e2fdc9a7d4956d57b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670652"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709358"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Αντιμετώπιση προβλημάτων σε αρχεία ή φακέλους που λείπουν στο OneDrive ή στο SharePoint
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Αντιμετώπιση προβλημάτων με αρχεία ή φακέλους που λείπουν στο OneDrive ή το SharePoint
 
-- [Επιλέξτε τον κάδο ανακύκλωσης της τοποθεσίας](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Έλεγχος του Κάδου Ανακύκλωσης της τοποθεσίας](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-- [Επαναφορά στοιχείων στον κάδο ανακύκλωσης μιας τοποθεσίας του SharePoint](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Επαναφορά στοιχείων από τον Κάδο Ανακύκλωσης μιας τοποθεσίας του SharePoint](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
 **Δυνατότητα επαναφοράς αρχείων**
 
-Εάν τα πολλά αρχεία του OneDrive ή του SharePoint διαγραφούν, αντικατασταθούν, καταστραφεί ή προσβληθούν από λογισμικό κακόβουλης λειτουργίας, μπορείτε να επαναφέρετε ολόκληρη τη βιβλιοθήκη του OneDrive ή του SharePoint σε προηγούμενη φορά χρησιμοποιώντας τη δυνατότητα επαναφοράς αρχείων.
+Εάν πολλά από τα αρχεία σας στο OneDrive ή το SharePoint διαγραφούν, αντικατασταθούν, καταστραφούν ή μολυνθούν από λογισμικό κακόβουλης λειτουργίας, μπορείτε να επαναφέρετε ολόκληρη τη βιβλιοθήκη του OneDrive ή του Sharepoint σε προηγούμενη χρονική στιγμή χρησιμοποιώντας τη δυνατότητα επαναφοράς αρχείων.
 
 - [Επαναφορά βιβλιοθήκης του OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Επαναφορά βιβλιοθήκης εγγράφων](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Χρήση της καταγραφής ελέγχου ή του παραθύρου δραστηριότητας αρχείου για τον έλεγχο του ιστορικού του αρχείου**
+**Χρήση της καταγραφής ελέγχου ή του παραθύρου δραστηριότητας αρχείων για τον έλεγχο του ιστορικού του αρχείου**
 
-[Έλεγχος των αναφορών ελέγχου](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> με την περιήγηση [εδώ](https://protection.office.com/#/unifiedauditlog)
+[Έλεγχος των αναφορών ελέγχου](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> μεταβαίνοντας [εδώ](https://protection.office.com/#/unifiedauditlog)
 
-Χρησιμοποιήστε το παράθυρο " [δραστηριότητα αρχείου](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) " για να επιλέξετε το ιστορικό του αρχείου.
+Χρησιμοποιήστε το [παράθυρο δραστηριότητας αρχείων](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) για να ελέγξετε το ιστορικό του αρχείου.
 
-Επιλέξτε το πρόγραμμα-πελάτη συγχρονισμού του OneDrive στον τοπικό υπολογιστή σας.  Εάν συγχρονίζετε τα αρχεία στον υπολογιστή σας μέσω του προγράμματος-πελάτη συγχρονισμού του OneDrive, επιλέξτε τον τοπικό φάκελο συγχρονισμού για να βεβαιωθείτε ότι έχει αποσταλεί σωστά. Βεβαιωθείτε ότι μπορείτε επίσης να επιλέξετε τον κάδο ανακύκλωσης στον τοπικό υπολογιστή σας.
+Ελέγξτε το πρόγραμμα-πελάτη συγχρονισμού OneDrive στον τοπικό υπολογιστή σας.  Εάν συγχρονίζετε τα αρχεία στον υπολογιστή σας μέσω του προγράμματος-πελάτη συγχρονισμού OneDrive, ελέγξτε τον τοπικό φάκελο συγχρονισμού για να βεβαιωθείτε ότι έχει φορτωθεί σωστά. Βεβαιωθείτε επίσης ότι ελέγχετε τον Κάδο Ανακύκλωσης στον τοπικό υπολογιστή.
 
 
 

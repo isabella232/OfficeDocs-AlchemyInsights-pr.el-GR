@@ -1,5 +1,5 @@
 ---
-title: Αντιμετώπιση προβλημάτων με το πιστοποιητικό push του Apple MDM στο Microsoft Intune
+title: Αντιμετώπιση προβλημάτων με το πιστοποιητικό push της apple MDM στο Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: f27b515ea460b55afb653b789682591f09bc2906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efb67cb3609266b40c564569941c1598637b5898
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690134"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709034"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με το πιστοποιητικό push του Apple MDM στο Microsoft Intune
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με το πιστοποιητικό push της apple MDM στο Microsoft Intune
 
-Εξετάστε τους πόρους που παρατίθενται παρακάτω για να επιλύσετε το ζήτημά σας τώρα.
+Εξετάστε τους πόρους που παρατίθενται παρακάτω για να επιλύσετε το πρόβλημά σας τώρα.
   
-1. Εξετάστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) για να ρυθμίσετε τις παραμέτρους ή να ανανεώσετε το πιστοποιητικό push του Apple MDM.
+1. Ελέγξτε αυτό [το έγγραφο για](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) να ρυθμίσετε τις παραμέτρους ή να ανανεώσετε το πιστοποιητικό push της υπηρεσίας Apple MDM.
 
-2. Χρησιμοποιήστε την [πύλη αντιμετώπισης προβλημάτων του Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) για να διαγνώσετε και να επιλύσετε συνηθισμένες αποτυχίες εγγραφής. Εξετάστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.
+2. Χρησιμοποιήστε [την Πύλη αντιμετώπισης προβλημάτων του Intune για](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) τη διάγνωση και την επίλυση συνηθισμένων αποτυχιών εγγραφής. Ελέγξτε [αυτό το έγγραφο](https://docs.microsoft.com/intune/help-desk-operators) για περισσότερες λεπτομέρειες.
 
-3. Εξετάστε αυτά τα έγγραφα για μια λίστα με συνηθισμένα σφάλματα που εμποδίζουν την εγγραφή και τις αναλύσεις σε κάθε: [Οδηγός αντιμετώπισης προβλημάτων](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) και [Αντιμετώπιση προβλημάτων doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+3. Εξετάστε αυτά τα έγγραφα για μια λίστα με συνηθισμένα σφάλματα που εμποδίζουν την εγγραφή και την επίλυση του [καθένα:](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) Οδηγός αντιμετώπισης προβλημάτων και [έγγραφο αντιμετώπισης προβλημάτων.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)

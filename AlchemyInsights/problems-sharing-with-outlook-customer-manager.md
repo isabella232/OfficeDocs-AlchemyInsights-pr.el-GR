@@ -1,5 +1,5 @@
 ---
-title: προβλήματα-κοινή χρήση-με-Outlook-Customer-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728251"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709250"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Προβλήματα με την κοινή χρήση με το Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Προβλήματα κοινής χρήσης με το Outlook Customer Manager
 
-Εάν αντιμετωπίζετε προβλήματα με την κοινή χρήση με το Outlook Customer Manager, συνιστάται να δοκιμάσετε πρώτα την εκκαθάριση του cache του προγράμματος περιήγησης. Για παράδειγμα, στον Internet Explorer, θα κάνατε τα εξής:
+Εάν αντιμετωπίζετε προβλήματα κοινής χρήσης με το Outlook Customer Manager, συνιστάται να δοκιμάσετε πρώτα να κάνετε απαλοιφή του cache του προγράμματος περιήγησης. Για παράδειγμα, στον Internet Explorer θα πρέπει να κάνετε τα εξής:
 
-1. **Μεταβείτε στις ρυθμίσεις**  >  **Γενικά** > ρυθμίσεις στην περιοχή cache **ιστορικού περιήγησης**  >  **και βάσεις δεδομένων**.
-2. Διαγραφή αρχείων cache για την τοποθεσία Web "outlookapps.com".
+1. Μεταβείτε στις  >  **"Γενικές ρυθμίσεις"** > στην περιοχή "Cache **του ιστορικού περιήγησης"** και στις  >  **βάσεις δεδομένων.**
+2. Διαγράψτε αρχεία cache για την τοποθεσία Web "outlookapps.com".
 3. Επανεκκινήστε το Outlook.
 
-Για περισσότερες πληροφορίες σχετικά με την κοινή χρήση, ανατρέξτε [στο θέμα κοινή χρήση πληροφοριών στη διαχείριση πελατών του Outlook](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Για περισσότερες πληροφορίες σχετικά με την κοινή χρήση, [ανατρέξτε στο θέμα "Κοινή χρήση πληροφοριών στο Outlook Customer Manager".](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
