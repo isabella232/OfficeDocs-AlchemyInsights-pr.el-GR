@@ -1,8 +1,8 @@
 ---
-title: Επιτάχυνση του SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online - Throttling
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773847"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707558"
 ---
-# <a name="sharepoint-online-throttling"></a>Επιτάχυνση του SharePoint Online
+# <a name="sharepoint-online-throttling"></a>Πάγωση του SharePoint Online
 
-**Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
+Το SharePoint Online χρησιμοποιεί την επιβράδυνση για να διατηρήσει τις βέλτιστες επιδόσεις και την αξιοπιστία της υπηρεσίας SharePoint Online. Η επιβράδυνση περιορίζει τον αριθμό των ενεργειών χρήστη ή των ταυτόχρονων κλήσεων (κατά δέσμες ενεργειών ή κώδικα) για την αποτροπή της υπερβολικής χρήσης πόρων. 
 
-**σφάλμα "ο διακομιστής 503 είναι απασχολημένος"**
+Για περισσότερες πληροφορίες σχετικά με τον αποκλεισμό, ανατρέξτε στο θέμα "Αποφυγή επιτάχυνσης ή [αποκλεισμού στο SharePoint Online".](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-Οι χρήστες ενδέχεται να λάβουν έναν διακομιστή του 503 που είναι απασχολημένος κατά την προσπάθεια περιήγησης σε τοποθεσίες του SharePoint ή του OneDrive. 
+Εάν πιστεύετε ότι αυτό το σφάλμα δεν σχετίζεται με τον συγχρονισμό, μπορείτε να ελέγξετε εάν συμβαίνουν ενεργές εργασίες συντήρησης στο μισθωτή σας μεταβαίνοντας στο [Κέντρο μηνυμάτων.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Αυτό το σφάλμα μπορεί να προκληθεί από τον περιορισμό εντός της υπηρεσίας SharePoint. Το SharePoint Online χρησιμοποιεί την επιβράδυνση για να διατηρήσει τις βέλτιστες επιδόσεις και την αξιοπιστία της υπηρεσίας SharePoint Online. Η επιβράδυνση περιορίζει τον αριθμό των ενεργειών χρήστη ή των ταυτόχρονων κλήσεων (κατά δέσμες ενεργειών ή κώδικα) για την αποτροπή της υπερβολικής χρήσης πόρων. 
-
-Για περισσότερες πληροφορίες σχετικά με τον περιορισμό, ανατρέξτε [στο θέμα αποφυγή περιορισμού ή αποκλεισμού στο SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-Εάν πιστεύετε ότι αυτό το σφάλμα δεν σχετίζεται με τον περιορισμό, μπορείτε να επιλέξετε εάν υπάρχει ενεργή συντήρηση που εμφανίζεται στον μισθωτή σας, μεταβαίνοντας στο [Κέντρο μηνυμάτων](https://portal.office.com/adminportal/home#/MessageCenter).
-
- Τέλος, βεβαιωθείτε ότι επισκέπτεστε τη σελίδα [εύρυθμης λειτουργίας υπηρεσιών](https://portal.office.com/adminportal/home#/servicehealth) για να δείτε τυχόν συμβουλές/συμβάντα που μπορεί να προκύψουν.
+ Τέλος, βεβαιωθείτε ότι επισκέπτεστε τη [σελίδα "Υγεία](https://portal.office.com/adminportal/home#/servicehealth) υπηρεσιών" για να ελέγξετε για τυχόν συμβούλους/περιστατικά που ενδέχεται να συμβαίνουν.
 
