@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: cf7bb0209d07ec5ccf3f06c395ca170c8d7381e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010182"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704858"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Επιδιόρθωση - "Προς το παρόν δεν σας έχει εκχωρήσει άδεια χρήσης του Office"
 
 Για να εγκαταστήσετε τις εφαρμογές προγράμματος-πελάτη του Office, βεβαιωθείτε ότι διαθέτετε μια συνδρομή Office 365 ή στο Microsoft 365 που [περιλαμβάνει εφαρμογές προγράμματος-πελάτη του Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), για παράδειγμα, Microsoft 365 Premium για επιχειρήσεις, εφαρμογές Microsoft 365 για επιχειρήσεις ή εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις.
 
-**Σημείωση**: [Το Office](https://products.office.com/home-and-business) για οικιακή χρήση και επιχειρήσεις είναι ένα προϊόν [Office για οικιακή χρήση](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) και δεν αποτελεί μέρος μιας συνδρομής για επιχειρήσεις. Το Project Online Essentials δεν περιλαμβάνει έκδοση υπολογιστή του Project, οπότε δεν απαιτείται εγκατάσταση. Οι χρήστες που έχουν το Visio Πρόγραμμα 1 μπορούν να έχουν πρόσβαση στο Visio στο web, καθώς το πρόγραμμα δεν περιλαμβάνει την εφαρμογή Visio για υπολογιστή. Οι εφαρμογές Project και Visio για υπολογιστή δεν είναι διαθέσιμες σε Mac
+**Σημείωση**: [Το Office](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) για οικιακή χρήση και επιχειρήσεις είναι ένα προϊόν [Office για οικιακή χρήση](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) και δεν αποτελεί μέρος μιας συνδρομής για επιχειρήσεις. Το Project Online Essentials δεν περιλαμβάνει έκδοση υπολογιστή του Project, οπότε δεν απαιτείται εγκατάσταση. Οι χρήστες που έχουν το Visio Πρόγραμμα 1 μπορούν να έχουν πρόσβαση στο Visio στο web, καθώς το πρόγραμμα δεν περιλαμβάνει την εφαρμογή Visio για υπολογιστή. Οι εφαρμογές Project και Visio για υπολογιστή δεν είναι διαθέσιμες σε Mac
 
-Εάν έχετε μια συνδρομή που περιλαμβάνει εφαρμογές του Office, δεν θα βλέπετε επιλογή εγκατάστασης, εκτός εάν διαθέτετε [εκχωρημένη άδεια χρήσης](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Εάν είστε διαχειριστής του Office 365, με αρμοδιότητα για την εκχώρηση αδειών χρήσης, ανατρέξτε στο θέμα [Εκχώρηση αδειών χρήσης σε χρήστες](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Εάν έχετε μια συνδρομή που περιλαμβάνει εφαρμογές του Microsoft 365, δεν θα βλέπετε επιλογή εγκατάστασής της, εκτός αν διαθέτετε μια [εκχωρημένη άδεια χρήσης](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Εάν είστε διαχειριστής του Office 365, με αρμοδιότητα για την εκχώρηση αδειών χρήσης, ανατρέξτε στο θέμα [Εκχώρηση αδειών χρήσης σε χρήστες](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Ζητήστε από κάθε χρήστη:
 

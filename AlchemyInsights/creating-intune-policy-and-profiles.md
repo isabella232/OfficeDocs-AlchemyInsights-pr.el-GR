@@ -1,5 +1,5 @@
 ---
-title: Δημιουργία πολιτικών και προφίλ του Intune
+title: Δημιουργία πολιτικών και προφίλ Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746759"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704642"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Δημιουργία πολιτικής και προφίλ του Intune
+# <a name="creating-intune-policy-and-profiles"></a>Δημιουργία πολιτικής και προφίλ Intune
 
 Στο Intune, μπορείτε να δημιουργήσετε πολιτικές και προφίλ που κάνουν διαφορετικά πράγματα.
 
-- **Προφίλ εγγραφής**: προρύθμιση των παραμέτρων των συσκευών σας με βάση την πλατφόρμα, ενεργοποίηση της συσχέτισης χρηστών, χρήση ελέγχου ταυτότητας πολλών παραγόντων και πολλά άλλα.
+- **Προφίλ εγγραφής: Προδιαμορφώστε** τις συσκευές σας ανά πλατφόρμα, ενεργοποιήστε τη συνάφεια των χρηστών, χρησιμοποιήστε έλεγχο ταυτότητας πολλών παραγόντων και πολλά άλλα.
 
-  [Τι είναι η εγγραφή συσκευής](https://docs.microsoft.com/intune/device-enrollment)και η δημιουργία προφίλ εγγραφής για [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)και [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) είναι καλοί πόροι.
+  [Τι είναι η εγγραφή συσκευών](https://docs.microsoft.com/intune/device-enrollment)και η δημιουργία προφίλ εγγραφής για [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)και [Windows είναι](https://docs.microsoft.com/intune/windows-enrollment-methods) καλοί πόροι.
 
-- **Πολιτικές συμμόρφωσης**: Καθορίστε τους κανόνες και τις ρυθμίσεις που πρέπει να ακολουθούν οι συσκευές για να είναι συμβατές. Μπορείτε επίσης να χρησιμοποιήσετε τις πολιτικές συμμόρφωσης για να παρακολουθείτε συσκευές και να ειδοποιείτε τους χρήστες για μη συμμόρφωση.
+- **Πολιτικές συμμόρφωσης:** Ορίστε τους κανόνες και τις ρυθμίσεις που πρέπει να ακολουθήσουν οι συσκευές για να είναι συμβατές. Μπορείτε επίσης να χρησιμοποιήσετε πολιτικές συμμόρφωσης για την παρακολούθηση συσκευών και την ειδοποίηση των χρηστών σχετικά με τη μη συμμόρφωση.
 
-  Γρήγορα αποτελέσματα με τις [πολιτικές συμμόρφωσης συσκευής](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Πολιτικές πρόσβασης υπό όρους**: βοήθεια για την ασφάλεια των εταιρικών πόρων, ανάλογα με τις συνθήκες που καταχωρείτε. Για παράδειγμα, για συσκευές που δεν είναι συμβατές, χρησιμοποιήστε την πρόσβαση υπό όρους για να περιορίσετε την πρόσβαση στο ηλεκτρονικό ταχυδρομείο και το SharePoint.
+  Γρήγορα αποτελέσματα με τις [πολιτικές συμμόρφωσης συσκευών.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Πολιτικές πρόσβασης υπό όρους:** Βοηθήστε να ασφαλίσετε τους εταιρικούς πόρους, ανάλογα με τις συνθήκες που εισάγετε. Για παράδειγμα, για συσκευές που δεν είναι συμβατές, χρησιμοποιήστε την πρόσβαση υπό όρους για να περιορίσετε την πρόσβαση στο ηλεκτρονικό ταχυδρομείο και το SharePoint.
 
-  [Τι είναι η πρόσβαση υπό όρους](https://docs.microsoft.com/intune/conditional-access) και οι [κοινοί τρόποι χρήσης της πρόσβασης υπό όρους](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) είναι καλοί πόροι για να ξεκινήσετε.
+  [Αυτό που είναι η πρόσβαση υπό](https://docs.microsoft.com/intune/conditional-access) όρους και οι [συνηθισμένοι τρόποι χρήσης της πρόσβασης υπό όρους](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) είναι καλοί πόροι για να ξεκινήσετε.
 
-- **Προφίλ παραμέτρων**: διαχειριστείτε τις δυνατότητες και τις ρυθμίσεις σε συσκευές, συμπεριλαμβανομένων των ρυθμίσεων ηλεκτρονικού ταχυδρομείου, προσθέστε ένα δίκτυο WiFi, χρησιμοποιήστε ενσωματωμένα πρότυπα, ελέγξτε τις δυνατότητες της συσκευής iOS και MacOS και πολλά άλλα.
+- **Προφίλ ρύθμισης παραμέτρων:** Διαχείριση δυνατοτήτων και ρυθμίσεων σε συσκευές, συμπεριλαμβανομένων των ρυθμίσεων ηλεκτρονικού ταχυδρομείου, προσθήκη δικτύου WiFi, χρήση ενσωματωμένων προτύπων, έλεγχος δυνατοτήτων συσκευής iOS και macOS και πολλά άλλα.
 
-  Γρήγορα αποτελέσματα με τα [προφίλ ρύθμισης παραμέτρων συσκευής](https://docs.microsoft.com/intune/device-profiles).
+  Γρήγορα αποτελέσματα με τα [προφίλ ρύθμισης παραμέτρων συσκευών.](https://docs.microsoft.com/intune/device-profiles)
 
 Χρήσιμες συνδέσεις:
 
-- [Συνήθεις ερωτήσεις, θέματα και αναλύσεις με τις πολιτικές και τα προφίλ συσκευών στο Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Συνήθεις ερωτήσεις, θέματα και λύσεις με τις πολιτικές και τα προφίλ συσκευών στο Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Αντιμετώπιση προβλημάτων με τις πολιτικές και τα προφίλ στο Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Αντιμετώπιση προβλημάτων με πολιτικές και προφίλ στο Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

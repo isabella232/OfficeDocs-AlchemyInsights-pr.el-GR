@@ -1,5 +1,5 @@
 ---
-title: Διαχείριση χρηστών του Yammer
+title: Διαχείριση Yammer χρηστών
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,29 +12,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5aaca1ca3095616606da2e36c1f992af6366ac47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812727"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704714"
 ---
-# <a name="managing-yammer-users"></a>Διαχείριση χρηστών του Yammer
+# <a name="managing-yammer-users"></a>Διαχείριση Yammer χρηστών
 
-1. Για πληροφορίες σχετικά με τη διαχείριση των χρηστών του Yammer από το Microsoft 365, ανατρέξτε στο θέμα [Διαχείριση χρηστών του Yammer σε ολόκληρο τον κύκλο ζωής τους](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Αυτό περιλαμβάνει λεπτομέρειες σχετικά με:
+1. Για πληροφορίες σχετικά με τη διαχείριση Yammer χρηστών από το Microsoft 365, ανατρέξτε στο θέμα ["Διαχείριση Yammer χρηστών](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)σε όλη τη διάρκεια του κύκλου ζωής τους. Αυτό περιλαμβάνει λεπτομέρειες σχετικά με τα εξής:
 
   - Δημιουργία χρήστη
 
   - Διαγραφή χρηστών
 
-  - Διαχείριση χρηστών του Yammer από το Microsoft 365
+  - Διαχείριση Yammer χρηστών από το Microsoft 365
 
-2. Ανατρέξτε στο θέμα [Προσθήκη, αποκλεισμός ή κατάργηση χρηστών του Yammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) για πληροφορίες σχετικά με τη διαχείριση χρηστών από την κονσόλα διαχείρισης του Yammer. Αυτό περιλαμβάνει τα εξής:
+2. Ανατρέξτε [στο θέμα "Προσθήκη, αποκλεισμός ή κατάργηση Yammer χρηστών"](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) για πληροφορίες σχετικά με τη διαχείριση χρηστών από την Yammer διαχείρισης. Αυτό περιλαμβάνει τα εξής:
 
   - Πρόσκληση ή κατάργηση χρηστών
 
-  - Πρόσκληση χρηστών επισκεπτών
+  - Πρόσκληση χρηστών-επισκεπτών
 
   - Εξαγωγή της λίστας χρηστών
 
-3. Για πληροφορίες σχετικά με την προσθήκη, την κατάργηση και τη διαχείριση εξωτερικών χρηστών, ανατρέξτε [στο θέμα Προσθήκη συμμετεχόντων εξωτερικής ανταλλαγής μηνυμάτων στο δίκτυο Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Για πληροφορίες σχετικά με την προσθήκη, την κατάργηση και τη διαχείριση εξωτερικών χρηστών, ανατρέξτε στο θέμα "Προσθήκη συμμετεχόντων στην ανταλλαγή εξωτερικών μηνυμάτων [στο Yammer σας".](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

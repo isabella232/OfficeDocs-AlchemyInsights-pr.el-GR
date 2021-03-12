@@ -5,26 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580153"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704930"
 ---
 # <a name="unable-to-activate-office"></a>Δεν είναι δυνατή η ενεργοποίηση του Office
 
 - Ελέγξτε εάν έχει λήξει η κατάσταση της συνδρομής σας.
-- Βεβαιωθείτε ότι έχετε μια συνδρομή που επιτρέπει άδειες χρήσης υπολογιστή-πελάτη, όπως το Office 365 για Επιχειρήσεις ή το Premium για Επιχειρήσεις και [βεβαιωθείτε ότι ο χρήστης έχει εκχωρηθεί άδεια χρήσης](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Βεβαιωθείτε ότι έχετε μια συνδρομή που επιτρέπει άδειες χρήσης προγράμματος-πελάτη, όπως το Office 365 για Επιχειρήσεις ή το Office 365 Premium για Επιχειρήσεις και [βεβαιωθείτε ότι έχει εκχωρηθεί άδεια στον χρήστη](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Βεβαιωθείτε ότι ο χρήστης πραγματοποιεί είσοδο στο Office με τον ίδιο λογαριασμό στον οποίο έχει εκχωρηθεί η άδεια χρήσης.
 - Επισκεφθείτε τη [σελίδα εύρυθμης λειτουργίας των υπηρεσιών του Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε αν υπάρχουν γνωστά προβλήματα με την υπηρεσία.
-- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση των εφαρμογών Microsoft 365 στο Internet. Ανατρέξτε στο θέμα [Διευθύνσεις URL του Office 365 και περιοχές διευθύνσεων IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Διευθύνσεις URL και περιοχές διευθύνσεων IP του Office 365").
+- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση στο Internet στις εφαρμογές του Microsoft 365. Ανατρέξτε στο θέμα [Διευθύνσεις URL και εύρη διευθύνσεων IP του Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Διευθύνσεις URL και εύρη διευθύνσεων IP του Office 365").
+
+**Συμβουλή** Σε υπολογιστές με Windows, μπορούμε να διαγνώσουμε και να διορθώσουμε αυτόματα αρκετά κοινά προβλήματα εισόδου του Office για εσάς. Κατεβάστε και εκτελέστε τον **[Βοηθό υποστήριξης και αποκατάστασης για το Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** για να χρησιμοποιήσετε το αυτοματοποιημένο εργαλείο μας.
 
 Χρησιμοποιήστε τις παρακάτω ενέργειες αντιμετώπισης προβλημάτων:
 
