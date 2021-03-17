@@ -2,9 +2,9 @@
 title: Ακύρωση της συνδρομής σας στο Microsoft 365;
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757228"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837418"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="db0f7-102">Ακύρωση της συνδρομής σας στο Microsoft 365;</span><span class="sxs-lookup"><span data-stu-id="db0f7-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="6f438-102">Ακύρωση της συνδρομής σας στο Microsoft 365;</span><span class="sxs-lookup"><span data-stu-id="6f438-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="db0f7-103">Λυπούμαστε που σας βλέπουμε να προχωράτε, αλλά εδώ θα βρείτε τις επιλογές για να ακυρώσετε τη συνδρομή σας:</span><span class="sxs-lookup"><span data-stu-id="db0f7-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
-  
-- <span data-ttu-id="db0f7-104">**Με βάση τα δεδομένα του οργανισμού σας, πιστεύουμε ότι όλες οι τρέχουσες συνδρομές σας είναι δοκιμαστικές συνδρομές. Δεν χρειάζεται να ακυρώσετε ρητά μια δοκιμαστική συνδρομή, επειδή οι δοκιμαστικές συνδρομές δεν απαιτούν πληρωμές και δεν υπάρχει καμία υποχρέωση μετά τη λήξη της δοκιμαστικής έκδοσης.**</span><span class="sxs-lookup"><span data-stu-id="db0f7-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+<span data-ttu-id="6f438-103">Λυπούμαστε που θα φύγετε, εδώ θα δείτε τα βήματα για την ακύρωση της συνδρομής σας:</span><span class="sxs-lookup"><span data-stu-id="6f438-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-- <span data-ttu-id="db0f7-105">Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή για οδηγίες βήμα προς βήμα, ανατρέξτε σε αυτό το άρθρο: [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="db0f7-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
+1. <span data-ttu-id="6f438-104">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα "Χρέωση **των**  >  **[προϊόντων σας" και,](https://go.microsoft.com/fwlink/p/?linkid=842054)** στη συνέχεια, επιλέξτε την **καρτέλα "Προϊόντα".**</span><span class="sxs-lookup"><span data-stu-id="6f438-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="6f438-105">Βρείτε τη συνδρομή που θέλετε να ακυρώσετε.</span><span class="sxs-lookup"><span data-stu-id="6f438-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="6f438-106">Επιλέξτε **"Περισσότερες ενέργειες"** (τρεις τελείες) και, στη συνέχεια, **επιλέξτε "Ακύρωση συνδρομής".**</span><span class="sxs-lookup"><span data-stu-id="6f438-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="6f438-107">Στο παράθυρο **"Ακύρωση** συνδρομής", επιλέξτε έναν λόγο για τον οποίο ακυρώνετε.</span><span class="sxs-lookup"><span data-stu-id="6f438-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="6f438-108">Προαιρετικά, παράσχετε τυχόν σχόλια.</span><span class="sxs-lookup"><span data-stu-id="6f438-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="6f438-109">Επιλέξτε **"Αποθήκευση".**</span><span class="sxs-lookup"><span data-stu-id="6f438-109">Select **Save**.</span></span>
+
+<span data-ttu-id="6f438-110">Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή τις επιλογές, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="6f438-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
