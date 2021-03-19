@@ -1,9 +1,9 @@
 ---
-title: Από κοινού διαχείριση
+title: Συν-διαχείριση
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681260"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896795"
 ---
-# <a name="co-management"></a>Από κοινού διαχείριση
+# <a name="co-management"></a>Συν-διαχείριση
 
-**Προϋποθέσεις για τη μετεγκατάσταση από το υβριδικό config Manager σε Intune**
+**Προαπαιτούμενα για τη μετεγκατάσταση από την υβριδική διαχείριση παραμέτρων στο Intune**
 
-- Εξετάστε [αυτό το άρθρο](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Προσθέστε μια άδεια χρήσης Intune στους χρήστες σας](https://docs.microsoft.com/intune/licenses-assign).
-- Χρησιμοποιήστε το [πρόγραμμα περιήγησης Edge](https://www.microsoft.com/windows/microsoft-edge) κατά τη ρύθμιση παραμέτρων της διαχείρισης από κοινού.
+- Διαβάστε [αυτό το άρθρο.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Προσθέστε μια άδεια χρήσης intune στους χρήστες σας.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Χρησιμοποιήστε το πρόγραμμα [περιήγησης Edge](https://www.microsoft.com/edge) κατά τη ρύθμιση παραμέτρων της συν-διαχείρισης.
 
-**Πώς μπορώ να εγκαταστήσω το πρόγραμμα-πελάτη του προγράμματος διαχείρισης παραμέτρων σε συσκευές που διαχειρίζονται το Intune**
+Μπορείτε να βρείτε μια καθοδηγούμενη εμπειρία ρύθμισης από τη συνεργασία βήμα προς [βήμα εδώ.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Ανατρέξτε [στο θέμα συσκευές Windows για διαχείριση του INTUNE MDM](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Πώς μπορώ να εγκαταστήσω το πρόγραμμα-πελάτη Config Manager σε συσκευές που διαχειρίζεται το Intune**
+
+Ανατρέξτε [στο θέμα Συσκευές Windows που διαχειρίζεται το Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
 **Τι γίνεται εάν θέλω απλώς να αλλάξω την αρχή MDM;**
 
-Η αρχή MDM μπορεί να αλλάξει χωρίς να ανοίξετε μια υπόθεση υποστήριξης. Παρακαλούμε εξετάστε την παρακάτω τεκμηρίωση για να βοηθήσετε στην αλλαγή της αρχής MDM:
+Η αρχή MDM μπορεί να αλλάξει χωρίς να ανοίξει μια υπόθεση υποστήριξης. Εξετάστε την παρακάτω τεκμηρίωση για να βοηθήσετε στην αλλαγή της αρχής MDM:
 
-- [Αλλαγή της αρχής MDM από τη διαχείριση ρύθμισης παραμέτρων σε αυτόνομη Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Αλλαγή της αρχής MDM από το Intune αυτόνομο στη διαχείριση ρύθμισης παραμέτρων](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Αλλαγή αρχής MDM από "Διαχείριση παραμέτρων" σε "Αυτόνομη"](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Αλλαγή της αρχής MDM από αυτόνομη intune στη Διαχείριση παραμέτρων](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
