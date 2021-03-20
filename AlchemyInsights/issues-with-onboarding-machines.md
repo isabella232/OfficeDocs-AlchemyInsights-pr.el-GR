@@ -1,29 +1,31 @@
 ---
-title: Προβλήματα με τα μηχανήματα onboarding
+title: Προβλήματα με την προσθήκη υπολογιστών στο Microsoft Defender για τελικά σημεία
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141467"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901567"
 ---
-# <a name="issues-with-onboarding-machines"></a>Προβλήματα με τα μηχανήματα onboarding
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Προβλήματα με την προσθήκη υπολογιστών στο Microsoft Defender για τελικά σημεία
 
-Μπορεί να αντιμετωπίζετε προβλήματα με μηχανές ενσωμάτωσης στην υπηρεσία MDATP. Εάν μπορείτε να αποκτήσετε πρόσβαση στον υπολογιστή τελικού χρήστη, ακολουθήστε τα εξής βήματα:
+Μπορεί να αντιμετωπίσετε προβλήματα με την προσθήκη υπολογιστών στην υπηρεσία MDE. Εάν μπορείτε να έχετε πρόσβαση στον υπολογιστή τελικού χρήστη, ακολουθήστε τα παρακάτω βήματα:
 
-1. Κάντε λήψη του διαγνωστικού [εργαλείου ανάλυσης συνδεσιμότητας προγράμματος-πελάτη.](https://aka.ms/mdatpanalyzer)
-2. Εξαγάγετε και εκτελέστε το MDATPAnalyzer.cmd.
-3. Εντοπίστε το αρχείο καταγραφής διαγνωστικών στο φάκελο που ονομάζεται MDATPClientAnalyzerResult, στον ίδιο φάκελο όπου γίνεται λήψη του εργαλείου ανάλυσης.
-4. Εξετάστε το αρχείο καταγραφής, MDATPClientAnalyzer.txt, για να βρείτε ζητήματα σύνδεσης ή ρυθμίσεων διακομιστή μεσολάβησης Internet.
+1. Κατεβάστε την τελευταία έκδοση προεπισκόπησης του διαγνωστικού εργαλείου [MDE Client Analyzer](https://aka.ms/betamdeanalyzer).
+2. Κάντε δεξί κλικ στο **MDEClientAnalyzer.cmd** και επιλέξτε "Εκτέλεση ως διαχειριστής".
+3. Ακολουθήστε τις οδηγίες που προτείνονται στο **MDEClientAnalyzer.htm**.
+4. Για πιο λεπτομερή αρχεία καταγραφής, ελέγξτε τον υποφάκελο που δημιουργήθηκε με ονομασία **MDEClientAnalyzerResult**.
+5. Εάν χρειάζεστε πρόσθετες οδηγίες, επικοινωνήστε με την [υποστήριξη του Microsoft Defender για τελικό σημείο](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) και δώστε το αρχείο MDEClientAnalyzerResult.zip που προκύπτει για ανάλυση.
