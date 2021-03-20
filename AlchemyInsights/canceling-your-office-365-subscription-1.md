@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: el-GR
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896903"
+ms.locfileid: "50931648"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Ακύρωση της συνδρομής σας στο Microsoft 365;
 
@@ -30,3 +30,5 @@ ms.locfileid: "50896903"
 4. Επιλέξτε **"Αποθήκευση".**
 
 Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή τις επιλογές, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+
+Εάν θέλετε να συνεχίσετε να χρησιμοποιείτε τη συνδρομή σας κατά τη διάρκεια της δοκιμαστικής έκδοσης, μπορείτε να απενεργοποιήσετε την περιοδική χρέωση για τη συνδρομή. Για να μάθετε πώς γίνεται αυτό, [ανατρέξτε στο θέμα Ανανέωση του Microsoft 365 για επιχειρήσεις.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
