@@ -1,5 +1,5 @@
 ---
-title: Εύρεση και ενεργοποίηση του κλειδιού προϊόντος μου
+title: Πρόγραμμα άδειας χρήσης open της Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: el-GR
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200709"
+ms.locfileid: "51217933"
 ---
-# <a name="find-and-activate-my-product-key"></a>Εύρεση και ενεργοποίηση του κλειδιού προϊόντος μου
+# <a name="microsoft-open-license-program"></a>Πρόγραμμα άδειας χρήσης open της Microsoft
 
 Εάν αγοράσατε το Microsoft 365 για επιχειρήσεις μέσω ενός [Προγράμματος ανοιχτής](https://go.microsoft.com/fwlink/p/?LinkID=613298)άδειας χρήσης της Microsoft, δείτε πώς μπορείτε να βρείτε και να ενεργοποιήσετε τον αριθμό-κλειδί προϊόντος.
 
