@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση παραμέτρων των ρυθμίσεων πολιτικής του Microsoft Edge στα Windows
+title: Ρύθμιση παραμέτρων πολιτικής του Microsoft Edge στα Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583441"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402375"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Ρύθμιση παραμέτρων των ρυθμίσεων πολιτικής του Microsoft Edge στα Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Ρύθμιση παραμέτρων πολιτικής του Microsoft Edge στα Windows
 
-Για να ρυθμίσετε τις παραμέτρους των ρυθμίσεων πολιτικής και των διαχειριζόμενων ενημερώσεων για το Microsoft Edge, χρησιμοποιήστε αντικείμενα πολιτικής ομάδας (GPO). Μπορείτε επίσης να προβλεφθούν πολιτικές μέσω του μητρώου. Αυτό θα ήταν κατάλληλο για (1) συσκευές Windows που είναι συνδεδεμένες σε έναν τομέα της Microsoft Active Directory και για (2) Windows 10 Pro και Enterprise παρουσίες που έχουν εγγραφεί για τη διαχείριση συσκευών στο Microsoft Intune.
+Για να ρυθμίσετε τις παραμέτρους των ρυθμίσεων πολιτικής και των διαχειριζόμενων ενημερώσεων για τον Microsoft Edge, χρησιμοποιήστε τα αντικείμενα πολιτικής ομάδας (GGPOs). Μπορείτε επίσης να κάνετε παροχή πολιτικής μέσω του μητρώου. Αυτό θα ήταν κατάλληλο για (1) συσκευές Windows που είναι συνδεδεμένες σε έναν τομέα της υπηρεσίας καταλόγου Microsoft Active Directory και για (2) παρουσίες Windows 10 Pro και Enterprise που έχουν εγγραφεί για διαχείριση συσκευών στο Microsoft Intune.
 
-Για να ρυθμίσετε τις παραμέτρους του Microsoft Edge χρησιμοποιώντας αντικείμενα πολιτικής ομάδας, κάντε τα εξής:
+Για να ρυθμίσετε τις παραμέτρους του Microsoft Edge χρησιμοποιώντας GGPOs, κάντε τα εξής:
 
-1. Στο κεντρικό κατάστημα "πολιτική ομάδας" στον τομέα της υπηρεσίας καταλόγου Active Directory ή στον φάκελο "πρότυπα ορισμού πολιτικής" σε μεμονωμένους υπολογιστές, εγκαταστήστε όλα τα πρότυπα διαχείρισης που προσθέτουν κανόνες και ρυθμίσεις για το Microsoft Edge.
+1. Μεταβείτε στον κεντρικό χώρο αποθήκευσης πολιτικής ομάδας στον τομέα της υπηρεσίας καταλόγου Active Directory ή στο φάκελο προτύπου "Ορισμός πολιτικής" σε μεμονωμένους υπολογιστές, εγκαταστήστε όλα τα πρότυπα διαχείρισης που προσθέτουν κανόνες και ρυθμίσεις για τον Microsoft Edge.
 2. Ρυθμίστε τις παραμέτρους των συγκεκριμένων πολιτικών που θέλετε να ορίσετε.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Ρύθμιση παραμέτρων των ρυθμίσεων πολιτικής του Microsoft Edge στα Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Ρύθμιση παραμέτρων πολιτικής του Microsoft Edge στα Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)

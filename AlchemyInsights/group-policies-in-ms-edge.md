@@ -1,5 +1,5 @@
 ---
-title: Πολιτικές ομάδας στο Microsoft Edge
+title: Πολιτικές ομάδας στον Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583450"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403347"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>Πολιτικές ομάδας στο Microsoft Edge
+# <a name="group-policies-in-microsoft-edge"></a>Πολιτικές ομάδας στον Microsoft Edge
 
-Χρησιμοποιήστε τις [πολιτικές ομάδας](https://go.microsoft.com/fwlink/?linkid=2134623) που είναι διαθέσιμες στο Microsoft Edge (έκδοση 77 ή νεότερη) για να καθορίσετε τον τρόπο εκτέλεσης του προγράμματος περιήγησης στον οργανισμό σας.
+Χρησιμοποιήστε τις [πολιτικές ομάδας που](https://go.microsoft.com/fwlink/?linkid=2134623) είναι διαθέσιμες στον Microsoft Edge (έκδοση 77 ή νεότερη) για να καθορίσετε τον τρόπο με τον οποίο εκτελείται το πρόγραμμα περιήγησης στον οργανισμό σας.

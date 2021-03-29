@@ -3,7 +3,7 @@ title: Επαναφορά του κωδικού πρόσβασης του χρή
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 6dda614395ade8341fcd223b4d2318c1068f3381
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: bd75e15ec07981fea5a8e510d7fa025402affc71
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482100"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403095"
 ---
 # <a name="reset-the-users-password"></a>Επαναφορά του κωδικού πρόσβασης του χρήστη
 
 Θα πρέπει να επαναφέρετε τον κωδικό πρόσβασης του χρήστη πριν κάνετε οτιδήποτε άλλο. Αυτό μπορεί να γίνει ως εξής:
 
-1. Επιλέξτε χρήστες **που είναι**  >  **[ενεργοί χρήστες.](https://go.microsoft.com/fwlink/p/?linkid=834822)**
+1. Επιλέξτε **"Χρήστες**  >  **[ενεργοί χρήστες".](https://go.microsoft.com/fwlink/p/?linkid=834822)**
 1. Επιλέξτε το χρήστη του οποίου ο λογαριασμός έχει παραβιαστεί.
 1. Στο αναδυόμενο στοιχείο που εμφανίζεται, κάντε κλικ στην επιλογή **"Επαναφορά κωδικού πρόσβασης".**
 
