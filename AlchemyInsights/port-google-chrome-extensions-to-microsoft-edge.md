@@ -1,5 +1,5 @@
 ---
-title: Θύρα Google Chrome Extensions στο Microsoft Edge (χρώμιο)
+title: Μεταφορά επεκτάσεων του Google Chrome στον Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004032"
 - "7102"
-ms.openlocfilehash: 2a20f258cbcbca7c8db4e38c52464fefb1b6f39d
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+- "8297"
+- "9004617"
+ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677882"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505284"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Θύρα Google Chrome Extensions στο Microsoft Edge (χρώμιο)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Μεταφορά επεκτάσεων του Google Chrome στον Microsoft Edge (Chromium)
 
-Είναι εύκολο να [μεταφέρετε επεκτάσεις του Google Chrome στο Microsoft Edge (χρώμιο)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension). Στις περισσότερες περιπτώσεις, απαιτούνται μόνο ελάχιστες αλλαγές για την εκτέλεση αυτών των επεκτάσεων στο Microsoft Edge.
+Είναι εύκολο να κάνετε μεταφορά [επεκτάσεων του Google Chrome στον Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) Στις περισσότερες περιπτώσεις, απαιτούνται μόνο ελάχιστες αλλαγές για την εκτέλεση αυτών των επεκτάσεων στον Microsoft Edge.
 
-Τα API επεκτάσεων και τα κλειδιά διακηρύξεων που υποστηρίζονται από το Google Chrome είναι συμβατά με τον κώδικα με το Microsoft Edge. Ωστόσο, το Microsoft Edge δεν υποστηρίζει τα API επεκτάσεων Chrome. GCM, Chrome. Identity. getAccounts, Chrome. Identity. getAuthToken και Chrome. εμφάνισης.
+Τα API επέκτασης και τα πλήκτρα διακήρυξης που υποστηρίζονται από το Google Chrome είναι συμβατά με κώδικα με τον Microsoft Edge. Ωστόσο, ο Microsoft Edge δεν υποστηρίζει τα API επέκτασης chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken και chrome.instanceID.
