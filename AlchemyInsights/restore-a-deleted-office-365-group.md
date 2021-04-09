@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597443"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645131"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Επαναφορά διαγραμμένης ομάδας Του Microsoft 365
 
 Μπορείτε να επαναφέρετε μια διαγραμμένη ομάδα του Microsoft 365 ή το Microsoft Teams εντός 30 ημερών από τη διαγραφή.
 
-1. Μεταβείτε στο [κέντρο διαχείρισης του Microsoft 365 για να](https://aka.ms/RestoreDeletedGroup) συνδεθείτε και να παρατίθενται οι διαγραμμένες ομάδες και ομάδες.
+1. Μεταβείτε στο [κέντρο διαχείρισης του Microsoft 365](https://aka.ms/RestoreDeletedGroup) για να συνδεθείτε σε μια λίστα με τις ομάδες και τις ομάδες που έχετε διαγράψει.
 
     **Σημείωση:** Συνδεθείτε χρησιμοποιώντας το λογαριασμό που έχει εκχωρηθεί στο διαχειριστή του μισθωτή ή στο ρόλο διαχειριστή ομάδων.
 
