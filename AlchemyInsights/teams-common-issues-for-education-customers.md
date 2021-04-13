@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739436"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692394"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Συνήθη προβλήματα στο Teams για πελάτες εκπαιδευτικά ιδρύματα
 
@@ -45,7 +46,7 @@ ms.locfileid: "43739436"
     6. Στο Κέντρο διαχείρισης του Skype για επιχειρήσεις κάντε κλικ στην επιλογή **διάσκεψη ήχου** και, στη συνέχεια, **χρήστες**.
     7. Επιλέξτε τον εν λόγω χρήστη και βεβαιωθείτε ότι διαθέτει έναν Προεπιλεγμένο αριθμό με χρέωση.
 
-    Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προγράμματα κλήσεων](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ή καλέστε την ομάδα τιμολόγησης του Microsoft Commerce για να σας βοηθήσει με την αδειοδότηση σχετικών ερωτήσεων.
+    Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προγράμματα κλήσεων του Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ή καλέστε την ομάδα Εμπορικής τιμολόγησης της Microsoft για να σας βοηθήσει με ερωτήσεις σχετικά με τις άδειες χρήσης.
 
     Πρόσθετοι πόροι
 
@@ -88,4 +89,4 @@ ms.locfileid: "43739436"
     - Βεβαιωθείτε ότι στον χρήστη έχει εκχωρηθεί ένα[Πρόγραμμα Κλήσεων](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
     - Διαθέστε στους χρήστες [Εταιρική φωνητική επικοινωνία](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 
-- **Πραγματοποίηση εισόδου στην αντιμετώπιση προβλημάτων του Teams**: Πρώτα, βεβαιωθείτε για την[εύρυθμη λειτουργία της υπηρεσίας Microsoft Teams](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Στη συνέχεια, ελέγξτε εάν υπάρχουν συνηθισμένοι κωδικοί σφάλματος και δείτε το θέμα [Γατί δυσκολεύομαι να πραγματοποιήσω είσοδο στο Microsoft Teams](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f); Μπορεί επίσης να χρειαστεί να ανατρέξετε και στο θέμα [Μοντέλα ταυτότητας και έλεγχος ταυτότητας στο Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+- **Πραγματοποίηση εισόδου στην αντιμετώπιση προβλημάτων του Teams**: Πρώτα, βεβαιωθείτε για την [εύρυθμη λειτουργία της υπηρεσίας Microsoft Teams](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Στη συνέχεια, ελέγξτε εάν υπάρχουν συνηθισμένοι κωδικοί σφάλματος και δείτε το θέμα [Γατί δυσκολεύομαι να πραγματοποιήσω είσοδο στο Microsoft Teams](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f); Μπορεί επίσης να χρειαστεί να ανατρέξετε και στο θέμα [Μοντέλα ταυτότητας και έλεγχος ταυτότητας στο Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
