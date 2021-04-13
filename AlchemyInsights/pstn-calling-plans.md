@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662505"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692466"
 ---
 # <a name="pstn-calling-plans"></a>Προγράμματα κλήσεων PSTN
 
@@ -28,4 +28,4 @@ ms.locfileid: "47662505"
 
 - Εγκαταστήστε το πρόγραμμα [Πιστωτικές μονάδες επικοινωνίας](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) για να μην **εξαντλούνται τα διαθέσιμα λεπτά** στους χρήστες. Δείτε τις τιμές [εδώ](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Τηλεφωνικό σύστημα και προγράμματα κλήσεων](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ή [Τι είναι οι πιστωτικές μονάδες επικοινωνίας;](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Προγράμματα κλήσεων](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) του Microsoft Teams Phone και του Microsoft Teams ή [Τι είναι οι πιστώσεις επικοινωνίας;](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

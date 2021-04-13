@@ -1,5 +1,5 @@
 ---
-title: Πώς μπορώ να ρυθμίσω τις παραμέτρους της απευθείας δρομολόγησης teams
+title: Πώς μπορώ να ρυθμίσω τις παραμέτρους της άμεσης δρομολόγησης του Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704894"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692142"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Άμεση δρομολόγηση τηλεφωνικού συστήματος για το Microsoft teams
+# <a name="direct-routing-for-microsoft-teams"></a>Άμεση δρομολόγηση για το Microsoft Teams
 
-Εξετάστε τα ακόλουθα άρθρα για να μάθετε περισσότερα σχετικά με την [άμεση δρομολόγηση του τηλεφωνικού συστήματος για το Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Διαβάστε τα ακόλουθα άρθρα για να μάθετε περισσότερα σχετικά [με την Άμεση δρομολόγηση για το Microsoft Teams:](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) 
 
-- [Προγραμματισμός απευθείας δρομολόγησης](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
-- [Ρύθμιση παραμέτρων απευθείας δρομολόγησης](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [Παρακολούθηση και αντιμετώπιση προβλημάτων απευθείας δρομολόγησης](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Σχεδιασμός άμεσης δρομολόγησης](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [Ρύθμιση παραμέτρων άμεσης δρομολόγησης](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
+- [Παρακολούθηση και αντιμετώπιση προβλημάτων άμεσης δρομολόγησης](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Σημείωση:** Μπορείτε επίσης να δείτε το βίντεο του YouTube για τη [δρομολόγηση teams Academy Direct](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) .
+**Σημείωση:** Μπορείτε επίσης να δείτε το βίντεο [του Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube.
