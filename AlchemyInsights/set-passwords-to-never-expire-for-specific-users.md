@@ -2,7 +2,7 @@
 title: Ρύθμιση SPF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295606"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788991"
 ---
-# <a name="set-passwords-to-never-expire"></a>Ορίστε κωδικούς πρόσβασης που δεν λήγουν ποτέ
+# <a name="set-passwords-to-never-expire"></a>Ορισμός κωδικών πρόσβασης ώστε να μην λήγουν ποτέ
 
-Για να καθορίσετε ότι όλοι οι κωδικοί πρόσβασης δεν λήγουν ποτέ, στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε **στις ρυθμίσεις**  >  **org > την  >  [πολιτική λήξης του κωδικού πρόσβασης](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) [ασφαλείας και προστασίας προσωπικών δεδομένων](https://portal.office.com/adminportal/home#/settings/security)** και καταργήστε την επιλογή "ρύθμιση κωδικών πρόσβασης χρήστη ώστε να λήγουν μετά από έναν αριθμό ημερών".
+Για να ορίσετε όλοι οι κωδικοί πρόσβασης να μην λήγουν ποτέ, στο κέντρο διαχείρισης Του Microsoft 365, μεταβείτε στην πολιτική λήξης κωδικών πρόσβασης ασφαλείας και προστασίας προσωπικών δεδομένων > Ρυθμίσεις οργανισμού και κατάργηση της επιλογής "Ορισμός κωδικών πρόσβασης χρήστη ώστε να λήγουν μετά από αρκετές  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** ημέρες".
   
-Για πιο λεπτομερείς πληροφορίες, ανατρέξτε στα θέματα:
+Για πιο λεπτομερείς πληροφορίες, ανατρέξτε στο θέμα:
 
-- [Ορίστε την πολιτική λήξης του κωδικού πρόσβασης για τον οργανισμό σας.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Ορίστε την πολιτική λήξης κωδικού πρόσβασης για τον οργανισμό σας.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Ορίστε τον κωδικό πρόσβασης ώστε να μην λήγει ποτέ για συγκεκριμένους χρήστες](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Ορισμός κωδικού πρόσβασης ώστε να μην λήγει ποτέ για συγκεκριμένους χρήστες](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Ο κωδικός πρόσβασης πρέπει να ικανοποιεί τις απαιτήσεις πολυπλοκότητας](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Ο κωδικός πρόσβασης πρέπει να πληροί τις απαιτήσεις πολυπλοκότητας](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

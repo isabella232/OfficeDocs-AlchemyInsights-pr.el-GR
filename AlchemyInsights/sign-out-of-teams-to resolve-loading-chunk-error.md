@@ -1,8 +1,8 @@
 ---
-title: Έξοδος από τις ομάδες για να επιλύσετε το σφάλμα του μπλοκ φόρτωσης
+title: Αποσυνδεθείτε από το Teams για να επιλύσετε το σφάλμα φόρτωσης μπλοκ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661884"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786921"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Έξοδος από τις ομάδες για να επιλύσετε το σφάλμα του μπλοκ φόρτωσης
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Αποσυνδεθείτε από το Teams για να επιλύσετε το σφάλμα φόρτωσης μπλοκ
 
-Εάν λαμβάνετε το σφάλμα "η**φόρτωση του μπλοκ XXX απέτυχε**" κατά την πρόσβαση στην καρτέλα "αρχεία" στο teams, δοκιμάστε να αποσυνδεθείτε από το teams και, στη συνέχεια, να συνδεθείτε ξανά για να επιλύσετε το σφάλμα.
+Εάν λαμβάνετε το σφάλμα "Η φόρτωση του **μπλοκ xxx** απέτυχε" κατά την πρόσβαση στην καρτέλα "Αρχεία" στο Teams, δοκιμάστε να κάνετε είσοδο από το teams και, στη συνέχεια, συνδεθείτε ξανά για να επιλύσετε το σφάλμα.
 
-- Για να καταλάβετε πώς να αποσυνδεθείτε από το teams, ανατρέξτε στο θέμα [Αποσύνδεση από ομάδες](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Για να κατανοήσετε πώς μπορείτε να αποσυνδεθείτε από το Teams, [ανατρέξτε στο θέμα "Αποσυνδεθείτε από το Teams".](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)

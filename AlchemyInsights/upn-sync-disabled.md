@@ -2,7 +2,7 @@
 title: Ο συγχρονισμός UPN απενεργοποιήθηκε
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749514"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782151"
 ---
 # <a name="upn-sync-disabled"></a>Ο συγχρονισμός UPN απενεργοποιήθηκε
 
-Εάν αρχίσατε να συγχρονίζετε το Azure AD πριν από τις 30 Μαρτίου 2016, εκτελέστε το ακόλουθο cmdlet Azure AD PowerShell για να ενεργοποιήσετε τη μαλακή αντιστοίχιση UPN μόνο για τον οργανισμό σας:
+Εάν ξεκινήσατε να συγχρονίζετε το Azure AD πριν από τις 30 Μαρτίου 2016, εκτελέστε το ακόλουθο cmdlet Azure AD PowerShell για να ενεργοποιήσετε την ομαλή αντιστοίχιση UPN μόνο για τον οργανισμό σας:
   
- **MsolDirSyncFeature-δυνατότητα EnableSoftMatchOnUpn-ενεργοποίηση $True**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-Το Soft Match UPN ενεργοποιείται αυτόματα για τους οργανισμούς που άρχισαν να συγχρονίζονται με το Azure AD στις ή μετά τις 30 Μαρτίου 2016.
+Η απαλή αντιστοίχιση UPN ενεργοποιείται αυτόματα για οργανισμούς που ξεκίνησαν να συγχρονίζονται με το Azure AD στις ή μετά τις 30 Μαρτίου 2016.
   
-Για να μάθετε περισσότερα σχετικά με την ενεργοποίηση του Soft Match στο UPN και σε άλλες δυνατότητες συγχρονισμού, ανατρέξτε στο θέμα [δυνατότητες υπηρεσίας συγχρονισμού του Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Για να μάθετε περισσότερα σχετικά με την ενεργοποίηση της ομαλής αντιστοίχισης στο UPN και σε άλλες δυνατότητες συγχρονισμού, ανατρέξτε στις δυνατότητες υπηρεσίας συγχρονισμού του [Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 
