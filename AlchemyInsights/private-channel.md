@@ -2,7 +2,7 @@
 title: Ιδιωτικό κανάλι
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801805"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790404"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Ιδιωτικά κανάλια στο Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Ιδιωτικά κανάλια στο Microsoft Teams
 
-Τα ιδιωτικά κανάλια στο Microsoft teams δημιουργούν εστιασμένους χώρους για συνεργασία εντός των ομάδων σας. Μόνο οι χρήστες στην ομάδα που είναι κάτοχοι ή μέλη του ιδιωτικού καναλιού μπορούν να έχουν πρόσβαση στο κανάλι. Οποιοσδήποτε, καθώς και οι επισκέπτες, μπορεί να προστεθεί ως μέλος ενός ιδιωτικού καναλιού με την προϋπόθεση ότι είναι ήδη μέλος της ομάδας.
+Τα ιδιωτικά κανάλια στο Microsoft Teams δημιουργούν εστιασμένους χώρους για συνεργασία εντός των ομάδων σας. Μόνο οι χρήστες στην ομάδα που είναι κάτοχοι ή μέλη του ιδιωτικού καναλιού μπορούν να έχουν πρόσβαση στο κανάλι. Οποιοσδήποτε, καθώς και οι επισκέπτες, μπορεί να προστεθεί ως μέλος ενός ιδιωτικού καναλιού με την προϋπόθεση ότι είναι ήδη μέλος της ομάδας.
 
-Για να μάθετε περισσότερα, ξεκινήστε με [ιδιωτικά κανάλια στο Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Αυτό περιλαμβάνει πληροφορίες όπως η [Δημιουργία ιδιωτικών καναλιών και](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) οι τοποθεσίες μέλους και [ιδιωτικών καναλιών του SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+Για να μάθετε περισσότερα, ξεκινήστε με [ιδιωτικά κανάλια στο Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Σε αυτές περιλαμβάνονται πληροφορίες όπως η [δημιουργία ιδιωτικού καναλιού και η ιδιότητα μέλους και](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) οι [τοποθεσίες του SharePoint ιδιωτικού καναλιού.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-**Χρειάζεστε έναν νέο κάτοχο της ομάδας;**
+**Χρειάζεστε νέο κάτοχο ομάδας;**
 
-Εάν ο ιδιωτικός κάτοχος του καναλιού σας εγκαταλείψει τον οργανισμό σας ή έχει καταργηθεί από την ομάδα, ένα μέλος του ιδιωτικού καναλιού προωθείται αυτόματα ως κάτοχος του ιδιωτικού καναλιού.
+Εάν ο κάτοχος του ιδιωτικού καναλιού αποχωρήσει από την εταιρεία σας ή καταργηθεί από την ομάδα, ένα μέλος του ιδιωτικού καναλιού προβιβάται αυτόματα ως κάτοχος ιδιωτικού καναλιού.
 
-Οι διαχειριστές μπορούν επίσης να δουν [τη διαχείριση του κύκλου ζωής των ιδιωτικών καναλιών στο Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) για να μάθουν περισσότερα σχετικά με τις πολιτικές για τη διαχείριση των ατόμων που μπορούν να δημιουργήσουν ιδιωτικά κανάλια, καθώς και τρόπους για να βοηθήσουν στη δημιουργία ερωτημάτων για την ανακάλυψη ή τη νόμιμη κατοχή.
+Οι διαχειριστές μπορούν επίσης να δουν τη διαχείριση του κύκλου ζωής των ιδιωτικών καναλιών στο [Microsoft Teams,](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) για να μάθουν περισσότερα σχετικά με τις πολιτικές για τη διαχείριση των ποιος μπορεί να δημιουργήσει ιδιωτικά κανάλια, καθώς και τρόπους για να βοηθήσουν στη δημιουργία ερωτημάτων για το eDiscovery ή τις νομικές θέσεις.
