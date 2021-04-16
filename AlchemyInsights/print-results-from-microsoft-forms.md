@@ -2,7 +2,7 @@
 title: Εκτύπωση αποτελεσμάτων από το Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801913"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800610"
 ---
 # <a name="print-results-in-a-summary-of-responses"></a>Εκτύπωση αποτελεσμάτων σε μια σύνοψη απαντήσεων
 
-Μπορείτε να [εκτυπώσετε τα αποτελέσματα των Microsoft Forms](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) ως σύνοψη των απαντήσεων ή για ένα άτομο. 
+Μπορείτε να [εκτυπώσετε τα αποτελέσματα του Microsoft Forms](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) ως σύνοψη απαντήσεων ή για ένα άτομο. 
 
-Δεν μπορείτε να εκτυπώσετε φόρμες χωρίς απαντήσεις, αλλά μπορείτε να ζητήσετε ή να ψηφίσετε σε αυτήν τη δυνατότητα, επισκεπτόμενοι την [τοποθεσία Microsoft Forms UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).
+Δεν μπορείτε να εκτυπώσετε φόρμες χωρίς απαντήσεις, αλλά μπορείτε να ζητήσετε ή να ψηφίσετε για αυτήν τη δυνατότητα, επισκεφθείτε την [τοποθεσία Microsoft Forms UserVoice.](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)

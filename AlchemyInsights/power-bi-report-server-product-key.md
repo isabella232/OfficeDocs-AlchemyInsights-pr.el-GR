@@ -1,8 +1,8 @@
 ---
-title: Κλειδί προϊόντος διακομιστή αναφοράς του Power BI
+title: Αριθμός-κλειδί προϊόντος του Power BI Report Server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801949"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800682"
 ---
-# <a name="power-bi-report-server-product-key"></a>Κλειδί προϊόντος διακομιστή αναφοράς του Power BI
+# <a name="power-bi-report-server-product-key"></a>Αριθμός-κλειδί προϊόντος του Power BI Report Server
 
-Εάν έχετε αγοράσει το Power BI Premium, στην καρτέλα **Ρυθμίσεις Premium** της πύλης διαχείρισης του Power BI έχετε πρόσβαση στον αριθμό-κλειδί προϊόντος του Power BI για διακομιστή αναφοράς. Αυτό είναι διαθέσιμο μόνο για τους καθολικούς διαχειριστές ή τους χρήστες στους οποίους έχει εκχωρηθεί ο ρόλος διαχειριστής υπηρεσίας του Power BI.
+Εάν έχετε αγοράσει το Power BI Premium, στην καρτέλα "Ρυθμίσεις **Premium"** της πύλης διαχείρισης του Power BI έχετε πρόσβαση στον αριθμό-κλειδί προϊόντος του Power BI Report Server. Αυτό είναι διαθέσιμο μόνο για καθολικούς διαχειριστές ή χρήστες στους οποίους έχει εκχωρηθεί ο ρόλος διαχειριστή της υπηρεσίας Power BI.
 
-Με την επιλογή του **κλειδιού διακομιστή αναφοράς του Power BI** εμφανίζεται ένα παράθυρο διαλόγου που περιέχει τον αριθμό-κλειδί προϊόντος. Μπορείτε να το αντιγράψετε και να το χρησιμοποιήσετε με την εγκατάσταση.
+Η επιλογή του **κλειδιού του Power BI Report Server** εμφανίζει ένα παράθυρο διαλόγου που περιέχει τον αριθμό-κλειδί προϊόντος. Μπορείτε να το αντιγράψετε και να το χρησιμοποιήσετε με την εγκατάσταση.
 
-Εάν έχετε μια συμφωνία SQL Server Enterprise SA, μπορείτε να λάβετε τον αριθμό-κλειδί προϊόντος σας από το [Κέντρο υπηρεσιών παραχώρησης πολλαπλών αδειών χρήσης](https://www.microsoft.com/Licensing/servicecenter/).
+Εάν έχετε μια σύμβαση SQL Server Enterprise SA, μπορείτε να λάβετε τον αριθμό-κλειδί προϊόντος από το Κέντρο υπηρεσιών [παραχώρησης πολλαπλών αδειών χρήσης (Volume Licensing Service Center).](https://www.microsoft.com/Licensing/servicecenter/)
 
 Για περισσότερες πληροφορίες: https://docs.microsoft.com/power-bi/report-server/install-report-server
