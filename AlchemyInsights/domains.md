@@ -2,7 +2,7 @@
 title: Τομείς
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815569"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814841"
 ---
 # <a name="domains"></a>Τομείς
 
-- **Επαληθεύστε τον τομέα σας** στο κέντρο διαχείρισης, χρησιμοποιώντας τον [Οδηγό προσθήκης τομέα](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Για περισσότερη βοήθεια, διαβάστε το [πεδίο Προσθήκη τομέα στο Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-- **Τομέας που χρησιμοποιείται** -θα χρειαστεί να συνδεθείτε στον άλλο οργανισμό και να [καταργήσετε τον τομέα](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). στη συνέχεια, προσθέστε το σε αυτόν τον οργανισμό.
-- **Τομέας κατά τη χρήση μη διαχειριζόμενης/ανεξάρτητης υπηρεσίας**  -  [Γίνετε διαχειριστής του μη διαχειριζόμενου τομέα](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
+- **Επαληθεύστε τον τομέα** σας στο κέντρο διαχείρισης χρησιμοποιώντας τον Οδηγό [προσθήκης τομέα.](https://admin.microsoft.com/Adminportal#/Domains/Wizard) Για περισσότερη βοήθεια, διαβάστε [το άρθρο Προσθήκη τομέα στο Office 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
+- **Τομέας σε χρήση** - θα πρέπει να συνδεθείτε στον άλλο οργανισμό και να [καταργήσετε τον τομέα.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) και, στη συνέχεια, προσθέστε το σε αυτόν τον οργανισμό.
+- **Τομέας που χρησιμοποιείται χωρίς διαχειριζόμενη /από το χρήστη υπηρεσία**  -  [Γίνετε διαχειριστής του μη διαχειριζόμενου τομέα.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)
 
-Διαφορετικά, δοκιμάστε να αναδιατυπώσετε το πρόβλημά σας. ανατρέξτε στις [Συνήθεις ερωτήσεις](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) για τους τομείς ή αντιμετώπιση προβλημάτων άρθρων για [θέματα τομέων](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) .
+Διαφορετικά, δοκιμάστε να αναδιατυπώνετε το πρόβλημά σας. Ανατρέξτε στα [άρθρα "Συνήθεις ερωτήσεις για](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) τους [τομείς" ή "Αντιμετώπιση προβλημάτων τομέων".](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
