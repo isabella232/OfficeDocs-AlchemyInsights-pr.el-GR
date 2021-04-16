@@ -1,8 +1,8 @@
 ---
-title: Χρειάζεστε δικαιώματα για πρόσβαση στην τοποθεσία
+title: Χρειάζεστε δικαιώματα για την τοποθεσία πρόσβασης
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: dba40636895dda775884c9f720c8c60e2c815019
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792312"
 ---
-# <a name="you-need-permission-to-access-this-site"></a><span data-ttu-id="fa776-102">Χρειάζεστε άδεια για να αποκτήσετε πρόσβαση σε αυτήν την τοποθεσία</span><span class="sxs-lookup"><span data-stu-id="fa776-102">You Need Permission to Access This Site</span></span>
+# <a name="you-need-permission-to-access-this-site"></a><span data-ttu-id="0caef-102">Χρειάζεστε δικαιώματα πρόσβασης σε αυτήν την τοποθεσία</span><span class="sxs-lookup"><span data-stu-id="0caef-102">You Need Permission to Access This Site</span></span>
 
-[<span data-ttu-id="fa776-103">"Δεν επιτρέπεται η πρόσβαση", "χρειάζεστε άδεια για να αποκτήσετε πρόσβαση σε αυτήν την τοποθεσία", ή "δεν βρέθηκε ο χρήστης στον κατάλογο" σφάλματα στο SharePoint Online και το OneDrive για την επιχείρηση</span><span class="sxs-lookup"><span data-stu-id="fa776-103">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[<span data-ttu-id="0caef-103">Σφάλματα "Δεν επιτρέπεται η πρόσβαση", "Χρειάζεστε δικαιώματα πρόσβασης σε αυτήν την τοποθεσία" ή "Ο χρήστης δεν βρέθηκε στον κατάλογο" στο SharePoint Online και το OneDrive για επιχειρήσεις</span><span class="sxs-lookup"><span data-stu-id="0caef-103">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
