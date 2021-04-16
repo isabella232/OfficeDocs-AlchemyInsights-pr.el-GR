@@ -1,8 +1,8 @@
 ---
-title: Δεν είναι δυνατή η προσθήκη συνημμένου σε εξωτερική φόρμα
+title: Δεν είναι δυνατή η προσθήκη συνημμένου σε μια εξωτερική φόρμα
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749406"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797325"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Δεν είναι δυνατή η προσθήκη συνημμένου σε εξωτερική φόρμα
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Δεν είναι δυνατή η προσθήκη συνημμένου σε μια εξωτερική φόρμα
 
-Εάν προσπαθείτε να προσθέσετε ένα συνημμένο σε μια εξωτερική έρευνα της Microsoft Forms, αυτή η δυνατότητα δεν είναι ακόμη διαθέσιμη. Για να παρακολουθήσετε την κατάσταση αυτής της αίτησης δυνατότητας, μεταβείτε σε [αυτήν την καταχώρηση UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)και προσθέστε την ψήφο σας.
+Εάν προσπαθείτε να προσθέσετε ένα συνημμένο σε μια εξωτερική έρευνα του Microsoft Forms, αυτή η δυνατότητα δεν είναι ακόμη διαθέσιμη. Για να παρακολουθήσετε την κατάσταση αυτής της αίτησης δυνατότητας, μεταβείτε σε [αυτήν την καταχώρηση UserVoice και](https://go.microsoft.com/fwlink/?linkid=2133069)προσθέστε την ψήφο σας.
