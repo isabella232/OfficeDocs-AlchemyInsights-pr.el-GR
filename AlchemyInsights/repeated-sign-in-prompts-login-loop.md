@@ -1,8 +1,8 @@
 ---
-title: Επαναλαμβανόμενοι προτροπές εισόδου/βρόχος σύνδεσης
+title: Επαναλαμβανόμενα μηνύματα εισόδου / βρόχος σύνδεσης
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799053"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="7cac3-102">Επαναλαμβανόμενες ερωτήσεις εισόδου στις εφαρμογές του Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="7cac3-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="a9763-102">Επαναλαμβανόμενες οδηγίες για είσοδο σε εφαρμογές του Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a9763-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="7cac3-103">Για να αντιμετωπίσετε επανειλημμένες ερωτήσεις εισόδου στις εφαρμογές του Microsoft 365, ανατρέξτε στα θέματα:</span><span class="sxs-lookup"><span data-stu-id="7cac3-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
+<span data-ttu-id="a9763-103">Για την αντιμετώπιση προβλημάτων επαναλαμβανόμενων μηνυμάτων σύνδεσης σε εφαρμογές του Microsoft 365, ανατρέξτε στα θέματα:</span><span class="sxs-lookup"><span data-stu-id="a9763-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="7cac3-104">Τρόπος αντιμετώπισης προβλημάτων εφαρμογών εκτός προγράμματος περιήγησης που δεν μπορούν να εισέλθετε στο Microsoft 365, το Azure ή το Intune</span><span class="sxs-lookup"><span data-stu-id="7cac3-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="7cac3-105">"Δεν επιτρέπεται η πρόσβαση" ή ζητείται επανειλημμένα από το χρήστη η χρήση διαπιστευτηρίων κατά τη σύνδεση με το Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="7cac3-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="7cac3-106">Μια ομόσπονδη χρήστης ζητείται επανειλημμένα πιστοποιήσεις κατά τη διάρκεια της εισόδου στο Microsoft 365, Azure ή Intune</span><span class="sxs-lookup"><span data-stu-id="7cac3-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="a9763-104">Τρόπος αντιμετώπισης προβλημάτων εφαρμογών εκτός προγράμματος περιήγησης που δεν μπορούν να πραγματοποιήσουν είσοδο στο Microsoft 365, το Azure ή το Intune</span><span class="sxs-lookup"><span data-stu-id="a9763-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="a9763-105">"Δεν επιτρέπεται η πρόσβαση" ή ζητείται επανειλημμένα από το χρήστη διαπιστευτήρια κατά τη σύνδεση με το Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a9763-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="a9763-106">Ένας ομόσπονδος χρήστης ζητείται επανειλημμένα διαπιστευτήρια κατά την είσοδο στο Microsoft 365, το Azure ή το Intune</span><span class="sxs-lookup"><span data-stu-id="a9763-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

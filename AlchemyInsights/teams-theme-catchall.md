@@ -1,27 +1,26 @@
 ---
-title: Νέος χρήστης του Microsoft Teams
+title: Ρύθμιση του Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786201"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="474ce-102">Νέος χρήστης του Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="474ce-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="63a93-102">Ρύθμιση του Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="63a93-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="474ce-103">Δείτε το θέμα  [Γρήγορα αποτελέσματα με το Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="474ce-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="474ce-104">Φροντίστε να δείτε τα βίντεο εκμάθησης, τις κάρτες και πολλά άλλα για τους διαχειριστές ΙΤ του Microsoft Teams, καθώς και πολλές άλλες πληροφορίες.</span><span class="sxs-lookup"><span data-stu-id="474ce-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="63a93-103">Ο [οδηγός εγκατάστασης του Microsoft Teams](https://aka.ms/teamsguidance) παρέχει στον οργανισμό σας καθοδήγηση για τη δημιουργία ομαδικών χώρων εργασίας που φιλοξενούν συνομιλίες σε πραγματικό χρόνο μέσω μηνυμάτων, κλήσεων και συσκέψεων ήχου ή βίντεο για ομαδική και ιδιωτική επικοινωνία.</span><span class="sxs-lookup"><span data-stu-id="63a93-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="63a93-104">Θα λάβετε οδηγίες για τον προσδιορισμό των απαιτήσεων δικτύου του οργανισμού σας χρησιμοποιώντας το εργαλείο "Οργάνωση δικτύου" και τον σύμβουλο του Teams στο κέντρο διαχείρισης του Teams.</span><span class="sxs-lookup"><span data-stu-id="63a93-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="63a93-105">Μόλις ολοκληρωθεί η ανάπτυξη, ο οδηγός περιλαμβάνει χρήσιμους πόρους για να ξεκινήσετε να χρησιμοποιείτε το Teams.</span><span class="sxs-lookup"><span data-stu-id="63a93-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="474ce-105">Εάν χρειάζεστε βοήθεια στην ανάπτυξη του Teams ώστε να υποστηρίζει Απομακρυσμένους Υπαλλήλους (WFH) λόγω COVID-19, ανατρέξτε στο θέμα [Υποστήριξη απομακρυσμένων υπαλλήλων χρησιμοποιώντας το Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span><span class="sxs-lookup"><span data-stu-id="474ce-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="474ce-106">Επίσης, ενδέχεται να δικαιούστε βοήθεια για την ανάπτυξη από το πρόγραμμα Microsoft 365 FastTrack - επισκεφθείτε το [FastTrack Center](https://www.microsoft.com/fasttrack) για να υποβάλετε ένα αίτημα.</span><span class="sxs-lookup"><span data-stu-id="474ce-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="474ce-107">**Σημαντικό**: λόγω της πρόσφατης αύξησης της χρήσης του Teams, όταν εκχωρείτε μια άδεια χρήσης του Teams σε ένα χρήστη, μπορεί να χρειαστούν περίπου 24 ώρες για να ρυθμιστεί πλήρως.</span><span class="sxs-lookup"><span data-stu-id="474ce-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="474ce-108">Έως τότε, δεν θα μπορείτε να τους εκχωρήσετε πολιτικές του Teams και ενδέχεται να μην έχουν πρόσβαση σε ορισμένες δυνατότητες όπως οι κλήσεις και οι διασκέψεις μέσω ήχου.</span><span class="sxs-lookup"><span data-stu-id="474ce-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="63a93-106">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ξεκινήστε με το Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="63a93-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
