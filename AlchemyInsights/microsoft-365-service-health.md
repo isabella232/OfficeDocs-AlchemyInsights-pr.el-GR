@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 υπηρεσία εύρυθμης λειτουργίας
+title: Microsoft 365 Service Health
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742743"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794472"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 υπηρεσία εύρυθμης λειτουργίας
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
 
 
-Επιλέξτε την εύρυθμη λειτουργία της υπηρεσίας για οποιαδήποτε υπηρεσία από τον [πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Επιλέγοντας **το νέο κέντρο διαχείρισης** στην επάνω δεξιά γωνία, θα δείτε τις νέες επιλογές εύρυθμης λειτουργίας υπηρεσιών.
+Ελέγξτε την κατάσταση των υπηρεσιών για οποιαδήποτε υπηρεσία από τον [πίνακα εργαλείων υγείας υπηρεσιών.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Επιλέγοντας **το νέο κέντρο διαχείρισης στην** επάνω δεξιά γωνία, θα δείτε τις νέες επιλογές "Κατάσταση υπηρεσίας".
 
-- Επιλέξτε **Προτιμήσεις** για να λαμβάνετε **ειδοποιήσεις ηλεκτρονικού ταχυδρομείου**εύρυθμης λειτουργίας υπηρεσιών.
+- Επιλέξτε **"Προτιμήσεις" για να** λαμβάνετε ειδοποιήσεις ηλεκτρονικού ταχυδρομείου για την κατάσταση της **υπηρεσίας.**
 
-- Επιλέξτε **αναφορά ζητήματος** εάν αντιμετωπίζετε κάποιο πρόβλημα με την υπηρεσία.
+- Επιλέξτε **"Αναφορά προβλήματος",** εάν αντιμετωπίζετε κάποιο πρόβλημα με την υπηρεσία.
 
-- Επιλέξτε **ιστορικό** για να εξετάσετε το ιστορικό εύρυθμης λειτουργίας των υπηρεσιών του οργανισμού σας. 
+- Επιλέξτε **"Ιστορικό"** για να δείτε το ιστορικό της υγείας των υπηρεσιών της εταιρείας σας. 
 
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Πώς μπορείτε να επιλέξετε την εύρυθμη λειτουργία της υπηρεσίας Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Πώς μπορείτε να ελέγξετε την κατάσταση της υπηρεσίας Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
