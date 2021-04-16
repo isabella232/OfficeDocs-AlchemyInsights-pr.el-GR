@@ -1,8 +1,8 @@
 ---
-title: Πώς μπορώ να ρυθμίσω την εκπομπή σύσκεψης Skype
+title: Πώς μπορώ να ρυθμίσω την Εκπομπή σύσκεψης Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781463"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811024"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="8e64d-102">Δεν μπορείτε να ξεκινήσετε ή να συνδεθείτε σε μια εκπομπή σύσκεψης Skype;</span><span class="sxs-lookup"><span data-stu-id="8e64d-102">Can't start or join a Skype Meeting Broadcast?</span></span>
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="d95dc-102">Δεν μπορείτε να ξεκινήσετε ή να συμμετάσχετε σε μια Εκπομπή σύσκεψης Skype;</span><span class="sxs-lookup"><span data-stu-id="d95dc-102">Can't start or join a Skype Meeting Broadcast?</span></span>
 
-<span data-ttu-id="8e64d-103">Εάν αντιμετωπίζετε προβλήματα κατά την έναρξη ή τη συμμετοχή σε μια εκπομπή σύσκεψης Skype ως μέλος της ομάδας συμβάντων (παραγωγός σύσκεψης), φροντίστε να ελέγξετε ξανά τις ρυθμίσεις παραμέτρων σας.</span><span class="sxs-lookup"><span data-stu-id="8e64d-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="8e64d-104">Η εκπομπή σύσκεψης Skype απαιτεί ορισμένα μη αυτόματα βήματα ρύθμισης.</span><span class="sxs-lookup"><span data-stu-id="8e64d-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="8e64d-105">Ακολουθήστε τα βήματα που περιγράφονται σε αυτό το άρθρο, για να βεβαιωθείτε ότι οι παράμετροι του δικτύου σας και της πύλης του Skype για ηλεκτρονικές συναλλαγές έχουν ρυθμιστεί σωστά και ότι ο χρήστης που επηρεάζεται δεν αποκλειστεί από μια άδεια χρήσης που βρίσκεται σε διένεξη:</span><span class="sxs-lookup"><span data-stu-id="8e64d-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
+<span data-ttu-id="d95dc-103">Εάν αντιμετωπίζετε προβλήματα κατά την έναρξη ή τη συμμετοχή σας σε μια Εκπομπή σύσκεψης Skype ως μέλος ομάδας εκδήλωσης (παραγωγός σύσκεψης), φροντίστε να ελέγξετε τη ρύθμιση παραμέτρων σας.</span><span class="sxs-lookup"><span data-stu-id="d95dc-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="d95dc-104">Η Εκπομπή σύσκεψης Skype απαιτεί ορισμένα μη αυτόματα βήματα ρύθμισης.</span><span class="sxs-lookup"><span data-stu-id="d95dc-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="d95dc-105">Ακολουθήστε τα βήματα σε αυτό το άρθρο για να βεβαιωθείτε ότι οι παράμετροι του δικτύου σας και της πύλης του Skype για επιχειρήσεις Online έχουν ρυθμιστεί σωστά και ότι ο χρήστης που επηρεάζεται δεν έχει αποκλειστεί από μια άδεια χρήσης που βρίσκεται σε διένεξη:</span><span class="sxs-lookup"><span data-stu-id="d95dc-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
 
-[<span data-ttu-id="8e64d-106">Ρύθμιση του δικτύου σας για εκπομπή σύσκεψης Skype</span><span class="sxs-lookup"><span data-stu-id="8e64d-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[<span data-ttu-id="d95dc-106">Ρύθμιση του δικτύου σας για εκπομπή σύσκεψης Skype</span><span class="sxs-lookup"><span data-stu-id="d95dc-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
