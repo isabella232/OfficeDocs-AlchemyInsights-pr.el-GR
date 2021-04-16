@@ -1,27 +1,26 @@
 ---
-title: Νέος χρήστης του Microsoft Teams
+title: Ρύθμιση του Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786201"
 ---
-# <a name="new-to-microsoft-teams"></a>Νέος χρήστης του Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Ρύθμιση του Microsoft Teams
 
-Δείτε το θέμα  [Γρήγορα αποτελέσματα με το Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Φροντίστε να δείτε τα βίντεο εκμάθησης, τις κάρτες και πολλά άλλα για τους διαχειριστές ΙΤ του Microsoft Teams, καθώς και πολλές άλλες πληροφορίες.
+Ο [οδηγός εγκατάστασης του Microsoft Teams](https://aka.ms/teamsguidance) παρέχει στον οργανισμό σας καθοδήγηση για τη δημιουργία ομαδικών χώρων εργασίας που φιλοξενούν συνομιλίες σε πραγματικό χρόνο μέσω μηνυμάτων, κλήσεων και συσκέψεων ήχου ή βίντεο για ομαδική και ιδιωτική επικοινωνία. Θα λάβετε οδηγίες για τον προσδιορισμό των απαιτήσεων δικτύου του οργανισμού σας χρησιμοποιώντας το εργαλείο "Οργάνωση δικτύου" και τον σύμβουλο του Teams στο κέντρο διαχείρισης του Teams. Μόλις ολοκληρωθεί η ανάπτυξη, ο οδηγός περιλαμβάνει χρήσιμους πόρους για να ξεκινήσετε να χρησιμοποιείτε το Teams.
 
-Εάν χρειάζεστε βοήθεια στην ανάπτυξη του Teams ώστε να υποστηρίζει Απομακρυσμένους Υπαλλήλους (WFH) λόγω COVID-19, ανατρέξτε στο θέμα [Υποστήριξη απομακρυσμένων υπαλλήλων χρησιμοποιώντας το Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Επίσης, ενδέχεται να δικαιούστε βοήθεια για την ανάπτυξη από το πρόγραμμα Microsoft 365 FastTrack - επισκεφθείτε το [FastTrack Center](https://www.microsoft.com/fasttrack) για να υποβάλετε ένα αίτημα.
-
-**Σημαντικό**: λόγω της πρόσφατης αύξησης της χρήσης του Teams, όταν εκχωρείτε μια άδεια χρήσης του Teams σε ένα χρήστη, μπορεί να χρειαστούν περίπου 24 ώρες για να ρυθμιστεί πλήρως. Έως τότε, δεν θα μπορείτε να τους εκχωρήσετε πολιτικές του Teams και ενδέχεται να μην έχουν πρόσβαση σε ορισμένες δυνατότητες όπως οι κλήσεις και οι διασκέψεις μέσω ήχου.
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ξεκινήστε με το Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

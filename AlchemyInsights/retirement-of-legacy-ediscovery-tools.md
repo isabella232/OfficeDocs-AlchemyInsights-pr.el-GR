@@ -1,8 +1,8 @@
 ---
-title: Συνταξιοδότηση των εργαλείων ανακάλυψης παλαιού τύπου
+title: Απόσυρση παλαιού τύπου εργαλείων eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727783"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798549"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Συνταξιοδότηση των εργαλείων ανακάλυψης παλαιού τύπου
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Απόσυρση παλαιού τύπου εργαλείων eDiscovery
 
-Ως αποτέλεσμα της νέας και βελτιωμένης λειτουργικότητας ανακάλυψης στο κέντρο συμμόρφωσης του Microsoft 365, τα παρακάτω εργαλεία ανακάλυψης παλαιού τύπου και τα commandlets θα αποσύρονται τους επόμενους μήνες:
+Ως αποτέλεσμα της νέας και βελτιωμένης λειτουργικότητας eDiscovery στο Κέντρο συμμόρφωσης του Microsoft 365, τα ακόλουθα εργαλεία και commandlet eDiscovery παλαιού τύπου θα αποσυρθούν τους επόμενους μήνες:
 
-- Επιτόπια [ανακάλυψη](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) και [επιτόπου κατοχή](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) στο κέντρο διαχείρισης του Exchange.
+- [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) and [In-Place Holds](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) in the Exchange admin center.
 
-- Τα cmdlet του Exchange Online PowerShell που υποστηρίζουν την επιτόπια ανακάλυψη και την επιτόπια κατοχή. (Αυτά τα cmdlets προσδιορίζονται συλλογικά ως *-MailboxSearch cmdlets.) Αυτό περιλαμβάνει τα ακόλουθα cmdlet:
+- Τα cmdlet του Exchange Online PowerShell που υποστηρίζουν In-Place eDiscovery και In-Place χωρά. (Αυτά τα cmdlet αναγνωρίζονται συλλογικά ως cmdlet *-MailboxSearch.) Σε αυτά περιλαμβάνονται τα ακόλουθα cmdlet:
 
-    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Έναρξη-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Νέα-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
     - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Ορίστε-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Το cmdlet του [γραμματοκιβωτίου αναζήτησης](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) στο Exchange Online PowerShell.
-- Τις ακόλουθες λειτουργίες στο API των υπηρεσιών Web του Exchange:
+- Το [cmdlet γραμματοκιβωτίου](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) αναζήτησης στο Exchange Online PowerShell.
+- Οι ακόλουθες λειτουργίες στο API των υπηρεσιών Web Exchange:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Προηγμένη ηλεκτρονική ανακάλυψη v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Λωρίδα χρόνου για συνταξιοδότηση**:
-- **1 ιουλίου 2020** Δεν μπορείτε πλέον να δημιουργείτε νέες αναζητήσεις και να διατηρείτε, αλλά μπορείτε να εκτελείτε, να επεξεργάζεστε και να διαγράφετε υπάρχουσες αναζητήσεις με δική σας ευθύνη. Η υποστήριξη της Microsoft δεν υποστηρίζει πλέον την επιτόπια ανακάλυψη & διατηρεί στην ΑΗΚ.
+**Λωρίδα χρόνου απόσυρσης:**
+- **1 Ιουλίου 2020** Δεν μπορείτε πλέον να δημιουργήσετε νέες αναζητήσεις και κάτοχους, αλλά μπορείτε να εκτελέσετε, να επεξεργαστείτε και να διαγράψετε υπάρχουσες αναζητήσεις με δική σας ευθύνη. Η Υποστήριξη της Microsoft δεν υποστηρίζει πλέον In-Place το eDiscovery & χωρά στο EAC.
     
-- **1 οκτωβρίου 2020** Η επιτόπια ανακάλυψη & διατηρεί τη λειτουργικότητα στην ΑΗΚ θα τοποθετηθεί σε λειτουργία μόνο για ανάγνωση, ώστε να μπορείτε να καταργήσετε μόνο τις υπάρχουσες αναζητήσεις και τις διαλαβές.
+- **1 Οκτωβρίου 2020** In-Place η λειτουργία "Κάτοχος" του eDiscovery & στο EAC θα τοποθετηθεί σε λειτουργία μόνο για ανάγνωση, ώστε να μπορείτε να καταργήσετε μόνο υπάρχουσες αναζητήσεις και κάτοχους.
 
-**Για περισσότερες πληροφορίες, ανατρέξτε στα**θέματα:
+**Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα:**
 
- - [Μετεγκατάσταση αναζητήσεων ανακάλυψης παλαιού τύπου και συγκρατεί στο κέντρο συμμόρφωσης του Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Συνταξιοδότηση των εργαλείων ανακάλυψης παλαιού τύπου](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Συχνές ερωτήσεις σχετικά με την επιτόπια ανακάλυψη και την επιτόπια κατοχή](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Η μετεγκατάσταση παλαιού τύπου eDiscovery πραγματοποιεί αναζήτηση και μεταφορά στο κέντρο συμμόρφωσης του Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Απόσυρση παλαιού τύπου εργαλείων eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Συνήθεις ερωτήσεις σχετικά με In-Place eDiscovery και In-Place χωρά](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
