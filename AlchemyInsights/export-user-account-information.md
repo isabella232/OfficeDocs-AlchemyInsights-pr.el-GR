@@ -2,7 +2,7 @@
 title: Εξαγωγή πληροφοριών λογαριασμού χρήστη
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813364"
 ---
-# <a name="export-user-account-information"></a><span data-ttu-id="cd78f-102">Εξαγωγή πληροφοριών λογαριασμού χρήστη</span><span class="sxs-lookup"><span data-stu-id="cd78f-102">Export user account information</span></span>
+# <a name="export-user-account-information"></a><span data-ttu-id="b0291-102">Εξαγωγή πληροφοριών λογαριασμού χρήστη</span><span class="sxs-lookup"><span data-stu-id="b0291-102">Export user account information</span></span>
 
-<span data-ttu-id="cd78f-103">Για να εξαγάγετε πληροφορίες λογαριασμού χρήστη στο κέντρο διαχείρισης του Microsoft 365, συμπεριλαμβανομένων των πληροφοριών σχετικά με τις άδειες χρήσης, την πολιτική κωδικών πρόσβασης, τους αποκλεισμένους λογαριασμούς, την κατάσταση συγχρονισμού AAD και πολλά άλλα, μεταβείτε στη σελίδα **χρήστες**  >  [ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) και, στη συνέχεια, επιλέξτε **εξαγωγή χρηστών**.</span><span class="sxs-lookup"><span data-stu-id="cd78f-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
+<span data-ttu-id="b0291-103">Για να εξαγάγετε πληροφορίες λογαριασμού χρήστη στο κέντρο διαχείρισης του Microsoft 365, συμπεριλαμβανομένων πληροφοριών σχετικά με άδειες χρήσης, πολιτική κωδικών πρόσβασης, αποκλεισμένους λογαριασμούς, κατάσταση συγχρονισμού AAD και πολλά άλλα, μεταβείτε στη σελίδα "Ενεργοί χρήστες χρηστών" και, στη συνέχεια, επιλέξτε  >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) **"Εξαγωγή χρηστών".**</span><span class="sxs-lookup"><span data-stu-id="b0291-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
