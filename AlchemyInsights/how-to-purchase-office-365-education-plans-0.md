@@ -1,8 +1,8 @@
 ---
-title: Πώς να αγοράσετε εκπαιδευτικά προγράμματα του Office 365
+title: Τρόπος αγοράς προγραμμάτων του Office 365 για εκπαιδευτικά ιδρύματα
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703588"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810808"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="e2f55-102">Πώς να αγοράσετε εκπαιδευτικά προγράμματα του Office 365</span><span class="sxs-lookup"><span data-stu-id="e2f55-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="2048f-102">Τρόπος αγοράς προγραμμάτων του Office 365 για εκπαιδευτικά ιδρύματα</span><span class="sxs-lookup"><span data-stu-id="2048f-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="e2f55-103">Τα εκπαιδευτικά προσόντα για το Office 365 είναι υπό αναθεώρηση.</span><span class="sxs-lookup"><span data-stu-id="e2f55-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="e2f55-104">Μπορείτε να περιμένετε να λάβετε μια ειδοποίηση σχετικά με τον καθορισμό της καταλληλότητάς σας πριν από τη λήξη της δοκιμαστικής έκδοσης.</span><span class="sxs-lookup"><span data-stu-id="e2f55-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="2048f-103">Τα προσόντα του Office 365 για εκπαιδευτικά ιδρύματα είναι υπό εξέταση.</span><span class="sxs-lookup"><span data-stu-id="2048f-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="2048f-104">Μπορείτε να αναμένετε να λάβετε μια ειδοποίηση σχετικά με τον προσδιορισμό της καταλληλότητας πριν από τη λήξη της δοκιμαστικής έκδοσης.</span><span class="sxs-lookup"><span data-stu-id="2048f-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
