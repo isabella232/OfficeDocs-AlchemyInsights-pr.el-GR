@@ -1,8 +1,8 @@
 ---
-title: Πώς να αγοράσετε εκπαιδευτικά προγράμματα του Office 365
+title: Τρόπος αγοράς προγραμμάτων του Office 365 για εκπαιδευτικά ιδρύματα
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 88cbd28f81b699088a1985f31873427998435428
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0808f542c460e83ab940954eeaaad8f5167b9a29
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810772"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Πώς να αγοράσετε εκπαιδευτικά προγράμματα του Office 365
+# <a name="how-to-purchase-office-365-education-plans"></a>Τρόπος αγοράς προγραμμάτων του Office 365 για εκπαιδευτικά ιδρύματα
 
-Εξετάσαμε το αίτημά σας και καθορίσαμε ότι αυτός ο οργανισμός δεν είναι επιλέξιμος ως αναγνωρισμένο ακαδημαϊκό ίδρυμα της Microsoft. Οι τρέχουσες ακαδημαϊκές σας προσφορές θα λήξουν στο τέλος της δοκιμαστικής περιόδου.
+Αναθεωρήσαμε το αίτημά σας και προσδιορίσαμε ότι αυτός ο οργανισμός δεν είναι κατάλληλος για ακαδημαϊκό ίδρυμα με τα κατάλληλα προσόντα της Microsoft. Οι τρέχουσες προσφορές ακαδημαϊκής δοκιμής θα λήξουν στο τέλος της δοκιμαστικής περιόδου.
   
-Για να αγοράσετε το Microsoft 365 εμπορικά, ανατρέξτε στο θέμα [διαθέσιμες προσφορές](https://go.microsoft.com/fwlink/p/?linkid=868433).  
+Για να αγοράσετε το Microsoft 365 εμπορικά, ανατρέξτε στις [διαθέσιμες προσφορές.](https://go.microsoft.com/fwlink/p/?linkid=868433)  

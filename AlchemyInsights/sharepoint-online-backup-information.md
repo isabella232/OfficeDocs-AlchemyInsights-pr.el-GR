@@ -2,7 +2,7 @@
 title: Πληροφορίες αντιγράφων ασφαλείας του SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: b9724c3fef32701cc5b919a64f9d4b78ce7a15a5
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 5020dde481bb2e2c9a00ed8050937a0e8cf520f8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50165213"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809115"
 ---
 # <a name="sharepoint-online-backup-information"></a>Πληροφορίες αντιγράφων ασφαλείας του SharePoint Online
 
-Για περισσότερες πληροφορίες σχετικά με την ανοχή του SharePoint και του OneDrive, ανατρέξτε στα θέμα:
+Για περισσότερες πληροφορίες σχετικά με την ανθεκτικότητα του SharePoint και του OneDrive, ανατρέξτε στα θέμα:
 
 - [Ανθεκτικότητα δεδομένων του SharePoint και του OneDrive στο Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 

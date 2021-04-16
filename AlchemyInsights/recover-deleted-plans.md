@@ -2,25 +2,26 @@
 title: Ανάκτηση διαγραμμένων προγραμμάτων
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 7347b214f69b5f07f15c379e30435530da0c3d44
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: e97c564d01abeb4dbe7ff7c1d88752ead8f24128
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911760"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809691"
 ---
 # <a name="recover-deleted-plans"></a>Ανάκτηση διαγραμμένων προγραμμάτων
 
-- Μόνο οι κάτοχοι προγραμμάτων μπορούν να διαγράψουν ένα πρόγραμμα. Για [να διαγράψετε ένα πρόγραμμα ή μια εργασία](https://support.microsoft.com/el-GR/office/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a.), ακολουθήστε τις οδηγίες στο θέμα "Διαγραφή εργασίας ή προγράμματος".  **Σημείωση**: Εάν ένα πρόγραμμα έχει διαγραφεί οριστικά, δεν μπορεί να ανακτηθεί. Παρομοίως, δεν υπάρχει τρόπος να ανακτήσετε μια διαγραμμένη εργασία. Εάν διαγράψετε κατά λάθος μια εργασία, θα πρέπει να τη δημιουργήσετε πάλι από την αρχή.
+- Μόνο οι κάτοχοι προγραμμάτων μπορούν να διαγράψουν ένα πρόγραμμα. Για [να διαγράψετε ένα πρόγραμμα ή μια εργασία](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.), ακολουθήστε τις οδηγίες στο θέμα "Διαγραφή εργασίας ή προγράμματος".  **Σημείωση**: Εάν ένα πρόγραμμα έχει διαγραφεί οριστικά, δεν μπορεί να ανακτηθεί. Παρομοίως, δεν υπάρχει τρόπος να ανακτήσετε μια διαγραμμένη εργασία. Εάν διαγράψετε κατά λάθος μια εργασία, θα πρέπει να τη δημιουργήσετε πάλι από την αρχή.
 
 - Εάν το πρόγραμμά σας έχει διαγραφεί ως αποτέλεσμα της διαγραφής μιας ομάδας, ενδέχεται να έχετε τη δυνατότητα να ανακτήσετε την ομάδα και το περιεχόμενό της. Ακολουθήστε τις οδηγίες που αφορούν την επαναφορά μιας [διαγραμμένης ομάδας του Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) για να επαναφέρετε την ομάδα και το συσχετισμένο περιεχόμενό της.
 

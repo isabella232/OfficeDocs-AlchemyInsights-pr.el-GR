@@ -1,8 +1,8 @@
 ---
-title: Δεσμευμένη παρουσία αγοράς
+title: Αγορά δεσμευμένης παρουσίας
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741364"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809907"
 ---
 # <a name="questions-before-purchase"></a>Ερωτήσεις πριν από την αγορά
 
-**Πώς εφαρμόζεται η έκπτωση κράτησης σε υπάρχοντες πόρους;**  
-Το επίδομα κράτησης ισχύει αυτόματα για τους υπάρχοντες πόρους που αντιστοιχούν στο SKU, την περιοχή και το εύρος της κράτησης. Δεν υπάρχει προσθήκη ετικετών σε μια δέσμευση σε έναν πόρο. [Μάθε περισσότερα](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Πώς εφαρμόζεται η έκπτωση δέσμευσης στους υπάρχοντες πόρους;**  
+Το όφελος δέσμευσης ισχύει αυτόματα για υπάρχοντες πόρους που ταιριάζουν με το SKU, την περιοχή και το εύρος δέσμευσης. Δεν υπάρχει προσθήκη ετικετών μιας δέσμευσης σε έναν πόρο. [Μάθετε περισσότερα](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
 **Ποιο μέγεθος VM πρέπει να αγοράσω;**  
-Διαβάστε αυτό το άρθρο: [Προσδιορίστε το σωστό ΜΈΓΕΘΟς VM πριν από την αγορά](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+Διαβάστε αυτό το άρθρο: [Προσδιορίστε το σωστό μέγεθος VM πριν από την αγορά](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Ερωτήσεις σχετικά με τον τρόπο με τον οποίο μπορείτε να αγοράσετε δεσμευμένη Χωρητικότητα SQL;**  
-Διαβάστε αυτό το άρθρο: [αγορά δεσμευμένης χωρητικότητας βάσης δεδομένων SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Ερωτήσεις σχετικά με τον τρόπο αγοράς της δεσμευμένης δυνατότητας SQL;**  
+Διαβάστε αυτό το άρθρο: [Αγορά δεσμευμένης δυνατότητας βάσης δεδομένων SQL ](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Είμαι σε έμμεσο πελάτη EA, χρειάζομαι το συνεργάτη μου για αγορά;**  
-Όχι, μπορείτε να αγοράσετε το RI εάν είστε κάτοχος μιας συνδρομής EA.
+**Είμαι έμμεσος πελάτης EA, χρειάζομαι τον συνεργάτη μου για αγορά;**  
+Όχι, μπορείτε να αγοράσετε το RI εάν είστε κάτοχος σε συνδρομή EA.
 
-**Η αγορά RI αφαιρείται από τη νομισματική δέσμευση;**  
-Ναι. Εάν δεν έχετε αρκετή νομισματική δέσμευση, θα λάβετε ένα τιμολόγιο περίσσεια για το ποσό που υπερβαίνει τη διαθέσιμη νομισματική δέσμευση.
+**Αφαιρεί η αγορά RI από τη χρηματική δέσμευση;**  
+Ναι. Εάν δεν έχετε αρκετή χρηματική δέσμευση, θα λάβετε τιμολόγιο υπέρβασης για το ποσό που υπερβαίνει τη διαθέσιμη χρηματική δέσμευση.
 
-**Πώς ισχύει η δεσμευμένη παρουσία για το ΣΠΣ των Windows ή για το κόστος IP του SQL;**  
-Η δεσμευμένη έκπτωση παρουσίας ισχύει μόνο για την υπολογιστική χρήση. Το κόστος IP των Windows ή του SQL θα χρεωθεί ξεχωριστά και δεν θα λάβετε έκπτωση RI. [Κόστος λογισμικού που δεν περιλαμβάνεται στις παρουσίες VM που έχουν δεσμευτεί από το Azure](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Πώς εφαρμόζεται η δεσμευμένη παρουσία στα Windows VMs ή στο κόστος IP της SQL μου;**  
+Η δεσμευμένη έκπτωση παρουσίας ισχύει μόνο για τη χρήση υπολογισμού. Το κόστος IP των Windows ή IP της SQL θα χρεωθεί ξεχωριστά και δε θα λάβετε έκπτωση RI. [Οι δαπάνες λογισμικού δεν περιλαμβάνονται στις παρουσίες Azure Reserved VM](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Χρέωση για δεσμευμένη αγορά παρουσίας**  
+**Χρέωση για αγορά δεσμευμένης παρουσίας**  
       
-Η δεσμευμένη αγορά παρουσίας χρεώνεται στη μέθοδο πληρωμής που συνδέεται με τη συνδρομή που επιλέγετε κατά τη στιγμή της αγοράς. Ο τύπος της συνδρομής πρέπει να είναι μια εταιρική συμφωνία (αριθμός προσφοράς: MS-AZR-0017P), Pay-as-you-Go (αριθμός προσφοράς: MS-AZR-0003P), συμφωνία πελατών της Microsoft ή CSP.
+Η αγορά δεσμευμένης παρουσίας χρεώνεται στον τρόπο πληρωμής που συνδέεται με τη συνδρομή που επιλέγετε τη στιγμή της αγοράς. Ο τύπος συνδρομής πρέπει να είναι εταιρική σύμβαση (αριθμός προσφοράς: MS-AZR-0017P), πληρωμή ανάλογα με τη χρήση (αριθμός προσφοράς: MS-AZR-0003P), σύμβαση πελάτη της Microsoft ή CSP.
 
--   Για μια εταιρική συνδρομή, οι χρεώσεις αφαιρούνται από το υπόλοιπο νομισματικής δέσμευσης της εγγραφής ή χρεώνονται ως περίσσεια
--   Για τη συνδρομή Pay-as-you-Go, οι χρεώσεις χρεώνονται με τη μέθοδο πληρωμής της πιστωτικής κάρτας ή του τιμολογίου στη συνδρομή
+-   Για μια συνδρομή επιχείρησης, οι χρεώσεις αφαιρούνται από το υπόλοιπο χρηματικής δέσμευσης της εγγραφής ή χρεώνονται ως υπέρβαση
+-   Για συνδρομή με πληρωμή ανάλογα με τη χρήση, οι χρεώσεις χρεώνονται στην πιστωτική κάρτα ή στον τρόπο πληρωμής τιμολογίου στη συνδρομή
 
-**Αγοράστε ένα πρόγραμμα υπηρεσίας:**
+**Αγορά σχεδίου παροχής υπηρεσιών:**
 
--   [Προπληρωμή για δεσμευμένη δυναμικότητα DB Cosmos](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Η προπληρωμένη βάση δεδομένων SQL υπολογίζει πόρους με δεσμευμένη Χωρητικότητα βάσης δεδομένων SQL Azure](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Προπληρωμένη εικονική μηχανή με Azure δεσμευμένες παρουσίες VM](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Προπληρωμή για δεσμευμένη δυνατότητα βάσης δεδομένων Cosmos](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Προπληρωμή για πόρους υπολογισμού βάσης δεδομένων SQL με δεσμευμένη χωρητικότητα βάσης δεδομένων Azure SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Προπληρωμή για εικονικές μηχανές με παρουσίες Azure Reserved VM](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Αγοράστε ένα πρόγραμμα λογισμικού:**
 
--   [Προπληρωμένη προγράμματα λογισμικού Red Hat από τις κρατήσεις Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Προπληρωμή για προγράμματα λογισμικού της ΣΟΎΖΙ από κρατήσεις Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Προπληρωμή για προγράμματα λογισμικού Red Hat από την Azure Reservations](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Προπληρωμή για προγράμματα λογισμικού SUSE από τις κρατήσεις της Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
