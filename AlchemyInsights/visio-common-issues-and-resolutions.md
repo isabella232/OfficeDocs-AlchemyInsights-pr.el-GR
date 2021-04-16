@@ -2,21 +2,22 @@
 title: Συνήθη προβλήματα και λύσεις του Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806586"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Συνήθη προβλήματα και λύσεις του Visio
 
@@ -24,13 +25,13 @@ ms.locfileid: "43722566"
 
 **Γνώμες για το Visio Online**
 
-- Το Visio πωλείται ως [μεμονωμένη εφαρμογή](https://products.office.com/visio/flowchart-software). Οι διαχειριστές μπορούν να αγοράσουν τη [συνδρομή του Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) από το κέντρο διαχείρισης του Microsoft 365.
+- Το Visio πωλείται ως [μεμονωμένη εφαρμογή](https://products.office.com/visio/flowchart-software). Οι διαχειριστές μπορούν να αγοράσουν τη [συνδρομή του Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) από το Κέντρο διαχείρισης Microsoft 365.
 
 - Το Visio προσφέρει [διαφορετικά προγράμματα συνδρομών](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Εάν δεν υπάρχει μια δυνατότητα που θέλετε στο Visio, ανατρέξτε στο θέμα [Σύγκριση επιλογών του Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) για να μάθετε περισσότερα σχετικά με τις διαφορές ανάμεσα στο Πρόγραμμα 1 και στο Πρόγραμμα 2.  Σημειώστε ότι το Visio Online Πρόγραμμα 1 δεν περιλαμβάνει την έκδοση υπολογιστή του Visio.
 
 **Λήψη, εγκατάσταση και ενεργοποίηση του Visio**
 
-- Για να εγκαταστήσει και να ενεργοποιήσει την εφαρμογή υπολογιστή του Visio με το Visio Online Πρόγραμμα 2, πρέπει πρώτα να έχει εκχωρήσει σε έναν χρήστη μια [άδεια χρήσης του Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Για να εγκαταστήσει και να ενεργοποιήσει την εφαρμογή υπολογιστή του Visio με το Visio Online Πρόγραμμα 2, πρέπει πρώτα να έχει εκχωρήσει σε έναν χρήστη μια [άδεια χρήσης του Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Εγκαταστήστε το Visio από την πύλη "Ο λογαριασμός μου", εάν δεν είναι ήδη εγκατεστημένο. Για βοήθεια, ανατρέξτε στο θέμα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ ms.locfileid: "43722566"
 
 **Visio σε Mac**
 
-Δεν υπάρχει εφαρμογή υπολογιστή Visio για Mac. Ωστόσο, οι χρήστες που διαθέτουν μια έγκυρη [άδεια χρήσης του Visio Online ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), μπορούν να [προβάλλουν, να δημιουργούν και να επεξεργάζονται διαγράμματα](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) στο Visio Online σε ένα πρόγραμμα περιήγησης Web.
+Δεν υπάρχει εφαρμογή υπολογιστή Visio για Mac. Ωστόσο, οι χρήστες που διαθέτουν μια έγκυρη [άδεια χρήσης του Visio Online ](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), μπορούν να [προβάλλουν, να δημιουργούν και να επεξεργάζονται διαγράμματα](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) στο Visio Online σε ένα πρόγραμμα περιήγησης Web.
 
 **Διαγράμματα, πρότυπα, σχήματα και γραμμές σύνδεσης**
 
