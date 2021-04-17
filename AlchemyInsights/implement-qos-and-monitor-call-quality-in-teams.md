@@ -1,8 +1,8 @@
 ---
-title: Εφαρμογή της ποιότητας κλήσεων QoS και παρακολούθηση στο teams
+title: Εφαρμογή QoS και παρακολούθηση της ποιότητας κλήσεων στο Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667950"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829232"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Εφαρμογή της ποιότητας κλήσεων QoS και παρακολούθηση στο teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Εφαρμογή QoS και παρακολούθηση της ποιότητας κλήσεων στο Teams
 
-Η ανάλυση κλήσεων και ο πίνακας εργαλείων ποιότητας κλήσεων μπορούν να χρησιμοποιηθούν για να σας βοηθήσουν στην αντιμετώπιση προβλημάτων ποιότητας κλήσεων στο Microsoft teams. Για να μάθετε περισσότερα σχετικά με την ποιότητα υπηρεσίας (QoS), την ανάλυση κλήσεων και τον πίνακα εργαλείων ποιότητας κλήσεων (CQD), ανατρέξτε [στο θέμα υλοποίηση της ποιότητας κλήσεων QoS και παρακολούθηση στο Microsoft teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Η Ανάλυση κλήσεων και ο Πίνακας εργαλείων ποιότητας κλήσεων μπορούν να χρησιμοποιηθούν για την αντιμετώπιση προβλημάτων ποιότητας κλήσεων στο Microsoft Teams. Για να μάθετε περισσότερα σχετικά με την Ποιότητα υπηρεσίας (QoS), την Ανάλυση κλήσεων και τον Πίνακα εργαλείων ποιότητας κλήσεων (CQD), ανατρέξτε στο θέμα Εφαρμογή QoS και παρακολούθηση της [ποιότητας κλήσεων στο Microsoft Teams.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 

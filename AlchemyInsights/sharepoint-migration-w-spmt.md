@@ -1,8 +1,8 @@
 ---
-title: Μετεγκατάσταση του SharePoint με το SPMT
+title: Μετεγκατάσταση του SharePoint με SPMT
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 33864a5ee90d5947d0a9154f585a502b053ff176
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828296"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>Μετεγκατάσταση του SharePoint με το SPMT
+# <a name="sharepoint-migration-with-spmt"></a>Μετεγκατάσταση του SharePoint με SPMT
 
-Σχεδιασμένα για να χρησιμοποιηθούν για μετεγκαταστάσεις που κυμαίνονται από το μικρότερο πλήθος αρχείων έως μια μετεγκατάσταση μεγάλων επιχειρήσεων, το εργαλείο μετεγκατάστασης του SharePoint θα σας επιτρέψει να μεταφέρετε τις πληροφορίες σας στο cloud και να επωφεληθείτε από τις νεότερες λύσεις συνεργασίας, ευφυΐας και ασφάλειας με το Microsoft 365.
+Σχεδιασμένο για χρήση για μετεγκαταστεύσεις που κυμαίνονται από το μικρότερο σύνολο αρχείων έως μια μεγάλης κλίμακας εταιρική μετεγκατάσταση, το Εργαλείο μετεγκατάστασης του SharePoint θα σας επιτρέψει να μεταφέρετε τις πληροφορίες σας στο cloud και να επωφεληθείτε από τις πιο νέες λύσεις συνεργασίας, ευφυΐας και ασφάλειας με το Microsoft 365.
 
 - [Λήψη και εγκατάσταση του εργαλείου μετεγκατάστασης του SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [Αντιμετώπιση συνηθισμένων ζητημάτων και σφαλμάτων του SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [Αντιμετώπιση προβλημάτων εγκατάστασης του SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [Αντιμετώπιση συνηθισμένων προβλημάτων και σφαλμάτων SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Αντιμετώπιση προβλημάτων εγκατάστασης SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
