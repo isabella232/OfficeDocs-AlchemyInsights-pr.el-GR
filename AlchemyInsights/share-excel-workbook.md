@@ -2,7 +2,7 @@
 title: Κοινή χρήση βιβλίου εργασίας του Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828440"
 ---
-# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="dff3c-102">Συνεργασία σε έγγραφα του Excel</span><span class="sxs-lookup"><span data-stu-id="dff3c-102">Collaborate on Excel documents</span></span>
+# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="b2c36-102">Συνεργασία σε έγγραφα του Excel</span><span class="sxs-lookup"><span data-stu-id="b2c36-102">Collaborate on Excel documents</span></span>
 
-<span data-ttu-id="dff3c-103">Για να συνεργαστείτε με συναδέλφους σε έγγραφα του Excel, χρησιμοποιήστε τη **δυνατότητα σύνταξης από κοινού**.</span><span class="sxs-lookup"><span data-stu-id="dff3c-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
+<span data-ttu-id="b2c36-103">Για να συνεργαστείτε με συναδέλφους σε έγγραφα του Excel, χρησιμοποιήστε **τη δυνατότητα σύνταξης από κοινού.**</span><span class="sxs-lookup"><span data-stu-id="b2c36-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
 
-<span data-ttu-id="dff3c-104">Μάθετε σχετικά με την ενεργοποίηση και τη χρήση αυτής της δυνατότητας, εκτός από το να βλέπετε απαντήσεις σε συνήθεις ερωτήσεις σχετικά με την κοινή χρήση και τη σύνταξη από κοινού σεναρίων, στη [συνεργασία σε βιβλία εργασίας του Excel ταυτόχρονα με τη σύνταξη από κοινού](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span><span class="sxs-lookup"><span data-stu-id="dff3c-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
+<span data-ttu-id="b2c36-104">Μάθετε σχετικά με την ενεργοποίηση και τη χρήση αυτής της δυνατότητας, εκτός από το να βλέπετε απαντήσεις σε συνήθεις ερωτήσεις σχετικά με σενάρια κοινής χρήσης και σύνταξης από κοινού, σε βιβλία εργασίας του Excel συνεργασίας ταυτόχρονα με [τη σύνταξη από κοινού.](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)</span><span class="sxs-lookup"><span data-stu-id="b2c36-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
