@@ -1,8 +1,8 @@
 ---
-title: Ιστορικό συνομιλίας στο Microsoft teams
+title: Ιστορικό συνομιλιών στο Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 3b2821f1ad12db70d5c52cbd8d763fe8a3c9c397
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92f1c902b36b78a8e3399420816c5699e3e0e5af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812439"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817892"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Προβολή ιστορικού συνομιλίας στο Microsoft teams
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Προβολή ιστορικού συνομιλίας στο Microsoft Teams
 
-Για να προβάλετε το ιστορικό των ομάδων συνομιλίας, μπορείτε να χρησιμοποιήσετε την [Αναζήτηση περιεχομένου](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) από το [Κέντρο συμμόρφωσης & ασφαλείας](https://sip.protection.office.com/insightdashboard), όπου μπορείτε να κάνετε αναζήτηση στο γραμματοκιβώτιο που είναι συσχετισμένο με μια ομάδα του Microsoft 365 ή μια ομάδα Microsoft. 
+Για να προβάλετε το [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) ιστορικό συνομιλιών του Teams, μπορείτε να χρησιμοποιήσετε την Αναζήτηση περιεχομένου από το Κέντρο συμμόρφωσης ασφάλειας [&,](https://sip.protection.office.com/insightdashboard)όπου μπορείτε να κάνετε αναζήτηση στο γραμματοκιβώτιο που σχετίζεται με μια Ομάδα Microsoft 365 ή μια ομάδα της Microsoft. 
 
-Ανατρέξτε στο θέμα [Αναζήτηση στο Microsoft teams και στο microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/compliance/content-search) για να μάθετε σχετικά με τις δυνατότητες αναζήτησης από το κέντρο ασφάλειας και συμμόρφωσης. 
+Ανατρέξτε [στο θέμα Αναζήτηση στο Microsoft Teams και στις Ομάδες Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) για να μάθετε περισσότερα σχετικά με τις δυνατότητες αναζήτησης από το Κέντρο ασφάλειας και συμμόρφωσης. 
 
-**Σημείωση:** Η δημιουργία αντιγράφων ασφαλείας, η εξαγωγή, η εκτύπωση και η αρχειοθέτηση του ιστορικού συνομιλίας δεν είναι προς το παρόν διαθέσιμη απευθείας από το Microsoft teams. Παρακαλούμε Ψηφίστε για αυτή τη δυνατότητα στο [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Σημείωση:** Προς το παρόν, η δημιουργία αντίγραφων ασφαλείας, η εξαγωγή, η εκτύπωση και η αρχειοθέτηση του ιστορικού συνομιλιών δεν είναι διαθέσιμα απευθείας από το Microsoft Teams. Ψηφίστε για αυτήν τη δυνατότητα στο [UserVoice.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20) 

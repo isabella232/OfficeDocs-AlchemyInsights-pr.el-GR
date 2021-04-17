@@ -1,8 +1,8 @@
 ---
-title: Η λήψη προσαρμοσμένου module Error δεν αναγνωρίζει αυτό το σφάλμα κατά τη λήψη μιας ανίχνευσης μηνύματος;
+title: Η λήψη προσαρμοσμένης λειτουργικής μονάδας σφάλματος δεν αναγνωρίζει αυτό το σφάλμα κατά τη λήψη μιας ανίχνευσης μηνύματος;
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815759"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Η λήψη "προσαρμοσμένης λειτουργικής μονάδας σφάλματος δεν αναγνωρίζει αυτό το σφάλμα" κατά τη λήψη ενός ίχνους μηνύματος;
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Λήψη της "προσαρμοσμένης λειτουργικής μονάδας σφάλματος δεν αναγνωρίζει αυτό το σφάλμα" κατά τη λήψη μιας ανίχνευσης μηνύματος;
 
-Γνωρίζουμε το πρόβλημα και εργαζόμαστε για την επιδιόρθωση.  Στο μεταξύ, δοκιμάστε να **καταργήσετε το cache του προγράμματος περιήγησης**ή να χρησιμοποιήσετε τη λειτουργία InPrivate για να επιλύσετε αυτό το πρόβλημα.
+Γνωρίζουμε το πρόβλημα και εργαζόμαστε για μια επιδιόρθωση.  Στο μεταξύ, δοκιμάστε να κάνετε **εκκαθάριση του cache του προγράμματος περιήγησης ή** να χρησιμοποιήσετε τη λειτουργία InPrivate για να επιλύσετε αυτό το πρόβλημα.
