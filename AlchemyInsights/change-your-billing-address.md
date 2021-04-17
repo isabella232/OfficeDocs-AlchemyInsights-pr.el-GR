@@ -1,8 +1,8 @@
 ---
-title: Αλλαγή διεύθυνσης χρέωσης
+title: Αλλαγή της διεύθυνσης χρέωσής σας
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714436"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818208"
 ---
-# <a name="change-your-billing-address"></a><span data-ttu-id="172c7-102">Αλλαγή διεύθυνσης χρέωσης</span><span class="sxs-lookup"><span data-stu-id="172c7-102">Change your billing address</span></span>
+# <a name="change-your-billing-address"></a><span data-ttu-id="e0717-102">Αλλαγή της διεύθυνσης χρέωσής σας</span><span class="sxs-lookup"><span data-stu-id="e0717-102">Change your billing address</span></span>
 
-<span data-ttu-id="172c7-103">Ο λογαριασμός ή το τιμολόγιό σας περιέχει τρεις διευθύνσεις.</span><span class="sxs-lookup"><span data-stu-id="172c7-103">Your bill or invoice contains three addresses.</span></span>
+<span data-ttu-id="e0717-103">Ο λογαριασμός ή το τιμολόγιό σας περιέχει τρεις διευθύνσεις.</span><span class="sxs-lookup"><span data-stu-id="e0717-103">Your bill or invoice contains three addresses.</span></span>
 
-<span data-ttu-id="172c7-104">**Αλλαγή της διεύθυνσης χρέωσης για έναν τρόπο πληρωμής**</span><span class="sxs-lookup"><span data-stu-id="172c7-104">**Change the billing address for a payment method**</span></span>
+<span data-ttu-id="e0717-104">**Αλλαγή της διεύθυνσης χρέωσης για μια μέθοδο πληρωμής**</span><span class="sxs-lookup"><span data-stu-id="e0717-104">**Change the billing address for a payment method**</span></span>
 
-1. <span data-ttu-id="172c7-105">Στο κέντρο διαχείρισης, μεταβείτε στην καρτέλα **χρέωση > [μεθόδων πληρωμής](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span><span class="sxs-lookup"><span data-stu-id="172c7-105">In the admin center, go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span></span>
-2. <span data-ttu-id="172c7-106">Επιλέξτε την πιστωτική κάρτα ή τον τραπεζικό λογαριασμό που θέλετε να αλλάξετε.</span><span class="sxs-lookup"><span data-stu-id="172c7-106">Select the credit card or bank account that you want to change.</span></span>
-3. <span data-ttu-id="172c7-107">Στη σελίδα **Λεπτομέρειες μεθόδου πληρωμής** , κάντε κλικ στην επιλογή **Επεξεργασία**.</span><span class="sxs-lookup"><span data-stu-id="172c7-107">On the **Payment method details** page, click **Edit**.</span></span>
-4. <span data-ttu-id="172c7-108">Ενημερώστε τη διεύθυνση χρέωσής σας και, στη συνέχεια, κάντε κλικ στην επιλογή **αποθήκευση > γίνει**.</span><span class="sxs-lookup"><span data-stu-id="172c7-108">Update your billing address, then click **Save > Done**.</span></span>
+1. <span data-ttu-id="e0717-105">Στο κέντρο διαχείρισης, μεταβείτε στην ενότητα **"Χρεώσεις" > [μεθόδους πληρωμής.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**</span><span class="sxs-lookup"><span data-stu-id="e0717-105">In the admin center, go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span></span>
+2. <span data-ttu-id="e0717-106">Επιλέξτε την πιστωτική κάρτα ή τον τραπεζικό λογαριασμό που θέλετε να αλλάξετε.</span><span class="sxs-lookup"><span data-stu-id="e0717-106">Select the credit card or bank account that you want to change.</span></span>
+3. <span data-ttu-id="e0717-107">Στη σελίδα **λεπτομερειών της μεθόδου πληρωμής,** κάντε κλικ στην επιλογή **"Επεξεργασία".**</span><span class="sxs-lookup"><span data-stu-id="e0717-107">On the **Payment method details** page, click **Edit**.</span></span>
+4. <span data-ttu-id="e0717-108">Ενημερώστε τη διεύθυνση χρέωσής σας και, στη **συνέχεια, κάντε κλικ στην επιλογή > Τέλος.**</span><span class="sxs-lookup"><span data-stu-id="e0717-108">Update your billing address, then click **Save > Done**.</span></span>
 
-<span data-ttu-id="172c7-109">Για περισσότερες πληροφορίες σχετικά με τις αλλαγές διεύθυνσης και ειδοποίησης, ανατρέξτε [στο θέμα Αλλαγή των διευθύνσεων χρέωσης για το Microsoft 365 για την επιχείρηση](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="172c7-109">For more info about address and notification changes, see [Change your billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span>
+<span data-ttu-id="e0717-109">Για περισσότερες πληροφορίες σχετικά με τις αλλαγές διεύθυνσης και ειδοποιήσεων, ανατρέξτε στο [θέμα Αλλαγή των διευθύνσεων χρέωσης για το Microsoft 365 για επιχειρήσεις.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="e0717-109">For more info about address and notification changes, see [Change your billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="172c7-110">**Αλλαγή των πληροφοριών λογαριασμού χρέωσης**</span><span class="sxs-lookup"><span data-stu-id="172c7-110">**Change the billing account information**</span></span>
+<span data-ttu-id="e0717-110">**Αλλαγή των πληροφοριών λογαριασμού χρέωσης**</span><span class="sxs-lookup"><span data-stu-id="e0717-110">**Change the billing account information**</span></span>
 
-1. <span data-ttu-id="172c7-111">Στο κέντρο διαχείρισης, μεταβείτε στην καρτέλα **χρέωση > [λογαριασμών χρέωσης](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span><span class="sxs-lookup"><span data-stu-id="172c7-111">In the admin center, go to **Billing > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span></span>
-2. <span data-ttu-id="172c7-112">Επιλέξτε **επεξεργασία πληροφοριών λογαριασμού χρέωσης**.</span><span class="sxs-lookup"><span data-stu-id="172c7-112">Select **Edit billing account information**.</span></span>
-3. <span data-ttu-id="172c7-113">Ενημερώστε τις πληροφορίες του λογαριασμού χρέωσης και, στη συνέχεια, κάντε κλικ στην επιλογή **αποθήκευση > γίνει**.</span><span class="sxs-lookup"><span data-stu-id="172c7-113">Update the billing account information, then click **Save > Done**.</span></span>
+1. <span data-ttu-id="e0717-111">Στο κέντρο διαχείρισης, μεταβείτε στην ενότητα **"Χρεώσεις" > [λογαριασμούς χρέωσης.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**</span><span class="sxs-lookup"><span data-stu-id="e0717-111">In the admin center, go to **Billing > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span></span>
+2. <span data-ttu-id="e0717-112">Επιλέξτε **"Επεξεργασία πληροφοριών λογαριασμού χρέωσης".**</span><span class="sxs-lookup"><span data-stu-id="e0717-112">Select **Edit billing account information**.</span></span>
+3. <span data-ttu-id="e0717-113">Ενημερώστε τις πληροφορίες λογαριασμού χρέωσης και, στη συνέχεια, **κάντε κλικ στην επιλογή > Τέλος.**</span><span class="sxs-lookup"><span data-stu-id="e0717-113">Update the billing account information, then click **Save > Done**.</span></span>
 
-<span data-ttu-id="172c7-114">**Σημείωση**: δεν μπορείτε να αλλάξετε τη χώρα/περιοχή.</span><span class="sxs-lookup"><span data-stu-id="172c7-114">**Note**: You can't change the Country/Region.</span></span> <span data-ttu-id="172c7-115">Εάν αυτό το πεδίο πρέπει να αλλάξει, θα πρέπει να αγοράσετε έναν νέο μισθωτή.</span><span class="sxs-lookup"><span data-stu-id="172c7-115">If this field needs to be changed, you'll need to purchase a new tenant.</span></span>
+<span data-ttu-id="e0717-114">**Σημείωση:** Δεν μπορείτε να αλλάξετε τη χώρα/περιοχή.</span><span class="sxs-lookup"><span data-stu-id="e0717-114">**Note**: You can't change the Country/Region.</span></span> <span data-ttu-id="e0717-115">Εάν αυτό το πεδίο πρέπει να αλλάξει, θα πρέπει να αγοράσετε έναν νέο μισθωτή.</span><span class="sxs-lookup"><span data-stu-id="e0717-115">If this field needs to be changed, you'll need to purchase a new tenant.</span></span>
