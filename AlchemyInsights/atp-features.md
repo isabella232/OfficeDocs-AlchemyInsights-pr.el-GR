@@ -2,7 +2,7 @@
 title: Δυνατότητες ATP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "3455"
-ms.openlocfilehash: 339d0d9342fad9da851ec565f65b95cb53c21716
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf5b9df7f00940c8a3db3fb14f24be61ab2be91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715597"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820970"
 ---
-# <a name="whats-new-in-atp"></a><span data-ttu-id="abe54-102">Τι νέο υπάρχει στο ATP</span><span class="sxs-lookup"><span data-stu-id="abe54-102">What's new in ATP</span></span>
+# <a name="whats-new-in-atp"></a><span data-ttu-id="d1598-102">Τι νέο υπάρχει στην atp</span><span class="sxs-lookup"><span data-stu-id="d1598-102">What's new in ATP</span></span>
 
-<span data-ttu-id="abe54-103">Για να μάθετε περισσότερα σχετικά με τις πιο πρόσφατες βελτιώσεις για την προστασία των προηγμένων απειλών του Windows Defender, ανατρέξτε [στο θέμα Τι νέο υπάρχει στο Windows Defender ATP](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/).</span><span class="sxs-lookup"><span data-stu-id="abe54-103">To learn about the latest enhancements to Windows Defender Advanced Threat Protection, see [What's new in Windows Defender ATP](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/).</span></span>
+<span data-ttu-id="d1598-103">Για να μάθετε περισσότερα σχετικά με τις πιο πρόσφατες βελτιώσεις στην Προηγμένη προστασία από απειλές του Windows Defender, ανατρέξτε στο θέμα [Τι νέο υπάρχει στο ATP του Windows Defender.](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/)</span><span class="sxs-lookup"><span data-stu-id="d1598-103">To learn about the latest enhancements to Windows Defender Advanced Threat Protection, see [What's new in Windows Defender ATP](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/).</span></span>

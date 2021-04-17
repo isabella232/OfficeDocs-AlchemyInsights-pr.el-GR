@@ -2,24 +2,25 @@
 title: Δημιουργία αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: c4d49b7652d81602afa3578a8842aa4bdf0f26a3
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 3368f31c312de15acbfc46a16ef5a989b20cdce9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027987"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820574"
 ---
-# <a name="backing-up-email-in-exchange-online"></a><span data-ttu-id="b4b60-102">Δημιουργία αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online</span><span class="sxs-lookup"><span data-stu-id="b4b60-102">Backing up email in Exchange Online</span></span>
+# <a name="backing-up-email-in-exchange-online"></a><span data-ttu-id="b0124-102">Δημιουργία αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online</span><span class="sxs-lookup"><span data-stu-id="b0124-102">Backing up email in Exchange Online</span></span>
 
-<span data-ttu-id="b4b60-103">Για να διαβάσετε σχετικά με τον τρόπο δημιουργίας αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online, ανατρέξτε στο θέμα [Δημιουργία αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online](https://docs.microsoft.com/exchange/back-up-email).</span><span class="sxs-lookup"><span data-stu-id="b4b60-103">To read about how to backup email in Exchange Online, please see [Backing up email in Exchange Online](https://docs.microsoft.com/exchange/back-up-email).</span></span>
+<span data-ttu-id="b0124-103">Για να διαβάσετε σχετικά με τον τρόπο δημιουργίας αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online, ανατρέξτε στο θέμα [Δημιουργία αντιγράφων ασφαλείας ηλεκτρονικού ταχυδρομείου στο Exchange Online](https://docs.microsoft.com/exchange/back-up-email).</span><span class="sxs-lookup"><span data-stu-id="b0124-103">To read about how to backup email in Exchange Online, please see [Backing up email in Exchange Online](https://docs.microsoft.com/exchange/back-up-email).</span></span>
 
-<span data-ttu-id="b4b60-104">Έχετε υπόψη ότι τα δεδομένα στο Exchange Online προστατεύονται από [ πολλά περιττά αντίγραφα, επομένως, ανάλογα με τις ανάγκες σας, ενδέχεται να μην είναι απαραίτητη η δημιουργία παραδοσιακών λύσεων αντιγράφων ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="b4b60-104">Please note that the data in Exchange Online is protected by [having multiple redundant copies](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity), so depending on your needs, traditional backup solutions might not be needed.</span></span>
+<span data-ttu-id="b0124-104">Έχετε υπόψη ότι τα δεδομένα στο Exchange Online προστατεύονται από [ πολλά περιττά αντίγραφα, επομένως, ανάλογα με τις ανάγκες σας, ενδέχεται να μην είναι απαραίτητη η δημιουργία παραδοσιακών λύσεων αντιγράφων ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="b0124-104">Please note that the data in Exchange Online is protected by [having multiple redundant copies](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity), so depending on your needs, traditional backup solutions might not be needed.</span></span>
