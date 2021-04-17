@@ -1,8 +1,8 @@
 ---
-title: Μετεγκατάσταση από AIP σε ΠΕΠ/ενοποιημένη επισήμανση στο κέντρο συμμόρφωσης
+title: Μετεγκατάσταση από AIP σε MIP/Ενοποιημένη σήμανση στο Κέντρο συμμόρφωσης
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674326"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825371"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Μετεγκατάσταση από AIP σε ΠΕΠ/ενοποιημένη επισήμανση στο κέντρο συμμόρφωσης
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Μετεγκατάσταση από AIP σε MIP/Ενοποιημένη σήμανση στο Κέντρο συμμόρφωσης
 
-Για να κάνετε μετεγκατάσταση από ετικέτες AIP σε ενοποιημένη σήμανση στο κέντρο ασφάλειας και συμμόρφωσης, κάντε τα εξής:
+Για να μετεγκαταστήσετε από ετικέτες AIP σε ενοποιημένες ετικέτες στο κέντρο ασφάλειας και συμμόρφωσης, κάντε τα εξής:
 
 **Ενεργοποίηση προστασίας από την πύλη Azure**
 
-1. Εάν δεν το έχετε κάνει ήδη, ανοίξτε ένα νέο παράθυρο του προγράμματος περιήγησης και [Πραγματοποιήστε είσοδο στην πύλη Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Μεταβείτε στη λεπίδα **προστασίας πληροφοριών Azure** . Για παράδειγμα, στο μενού Hub, κάντε κλικ στην επιλογή **όλες οι υπηρεσίες** και αρχίστε να πληκτρολογείτε **πληροφορίες** στο πλαίσιο φίλτρο. Επιλέξτε **προστασία πληροφοριών Azure**. Εάν δεν έχετε αποκτήσει πρόσβαση στο δίσκο προστασίας πληροφοριών Azure πριν, ανατρέξτε στα [πρόσθετα βήματα](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) εφάπαξ για να προσθέσετε αυτήν τη λεπίδα στην πύλη. Για να ανοίξετε το Blade προστασία πληροφοριών Azure, πρέπει να έχετε ένα [πρόγραμμα προστασίας πληροφοριών Azure Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ή ένα πρόγραμμα του Office 365 που περιλαμβάνει τη διαχείριση δικαιωμάτων. Εάν έχετε μία από αυτές τις συνδρομές, αλλά δείτε ένα μήνυμα ότι δεν είναι δυνατή η εύρεση μιας έγκυρης συνδρομής, [επικοινωνήστε με την υποστήριξη της Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ή χρησιμοποιήστε τα τυπικά κανάλια υποστήριξής σας.
+1. Εάν δεν το έχετε κάνει ήδη, ανοίξτε ένα νέο παράθυρο του προγράμματος περιήγησης [και πραγματοποιήστε είσοδο στην πύλη Azure.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Μεταβείτε στη **λάμα προστασίας πληροφοριών** Azure. Για παράδειγμα, στο μενού διανομέα, κάντε κλικ στην επιλογή "Όλες **οι υπηρεσίες" και** αρχίστε να **πληκτρολογείτε "Πληροφορίες"** στο πλαίσιο "Φίλτρο". Επιλέξτε **"Προστασία πληροφοριών Azure".** Εάν δεν έχετε αποκτήσει ξανά πρόσβαση στη λάμα προστασίας [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) πληροφοριών Azure, ανατρέξτε στα πρόσθετα βήματα που απαιτούνται για την προσθήκη αυτής της λάμας στην πύλη. Για να ανοίξετε τη λάμα προστασίας πληροφοριών Azure, πρέπει να έχετε είτε ένα πρόγραμμα [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) είτε ένα πρόγραμμα του Office 365 που περιλαμβάνει τη Διαχείριση δικαιωμάτων. Εάν έχετε μία από αυτές τις συνδρομές, αλλά βλέπετε ένα μήνυμα ότι δεν είναι δυνατή η βρείτε μια έγκυρη συνδρομή, επικοινωνήστε με την Υποστήριξη [της Microsoft ή](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) χρησιμοποιήστε τα τυπικά κανάλια υποστήριξης.
 
-2. Εντοπίστε τις επιλογές **διαχείρισης** μενού και επιλέξτε **Ενεργοποίηση προστασίας**. Κάντε κλικ στην επιλογή **Ενεργοποίηση**και, στη συνέχεια, επιβεβαιώστε την ενέργειά σας. Όταν ολοκληρωθεί η ενεργοποίηση, η γραμμή πληροφοριών εμφανίζει την **Ενεργοποίηση ολοκληρώθηκε με επιτυχία**.
+2. Εντοπίστε **τις επιλογές** μενού "Διαχείριση" και επιλέξτε **"Ενεργοποίηση προστασίας".** Κάντε κλικ **στην επιλογή "Ενεργοποίηση"** και, στη συνέχεια, επιβεβαιώστε την ενέργεια. Όταν ολοκληρωθεί η ενεργοποίηση, η γραμμή πληροφοριών εμφανίζει ότι η ενεργοποίηση **ολοκληρώθηκε με επιτυχία.**
 
-**Μετεγκατάσταση ετικετών προστασίας πληροφοριών του Azure στο κέντρο συμμόρφωσης & ασφαλείας του Office 365**
+**Μετεγκατάσταση ετικετών προστασίας πληροφοριών Azure στο Κέντρο ασφάλειας του Office 365 & Συμμόρφωσης**
 
 1. Βεβαιωθείτε ότι έχετε συνδεθεί ως χρήστης με δικαιώματα καθολικού διαχειριστή.
 
-2. Μεταβείτε στη λεπίδα **προστασίας πληροφοριών Azure** .
+2. Μεταβείτε στη **λάμα προστασίας πληροφοριών** Azure.
 
-3. Από την επιλογή " **Διαχείριση** μενού", επιλέξτε " **ενοποιημένη επισήμανση**".
+3. Από την **επιλογή μενού** "Διαχείριση", επιλέξτε **"Ενοποιημένη σήμανση".**
 
-4. Στη λάμα **προστασίας πληροφοριών Azure-ενοποιημένη ετικέτα** , κάντε κλικ στην επιλογή **Ενεργοποίηση** και ακολουθήστε τις οδηγίες στο Internet.
+4. Στην Προστασία **πληροφοριών Azure - Ενοποιημένος δίσκος ετικετών,** κάντε κλικ στην επιλογή **"Ενεργοποίηση"** και ακολουθήστε τις οδηγίες στο Internet.
 
-**Σημείωση**: Βεβαιωθείτε ότι έχετε τα κατάλληλα δικαιώματα για να ενεργοποιήσετε τη μετεγκατάσταση του κέντρου συμμόρφωσης & ασφαλείας. Για περισσότερες πληροφορίες, ανατρέξτε στα παρακάτω άρθρα:
+**Σημείωση:** Βεβαιωθείτε ότι έχετε τα κατάλληλα δικαιώματα πριν από την ενεργοποίηση της μετεγκατάστασης του Κέντρου & ασφάλειας. Για περισσότερες πληροφορίες, ανατρέξτε σε αυτά τα άρθρα:
 
-1. [Πρέπει να είστε καθολικός διαχειριστής για να ρυθμίσετε τις παραμέτρους της προστασίας πληροφοριών του Azure ή μπορώ να αναθέτω σε άλλους διαχειριστές;](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Πρέπει να είστε καθολικός διαχειριστής για να ρυθμίσετε τις παραμέτρους της Προστασίας πληροφοριών Azure ή μπορώ να αναθέσω σε άλλους διαχειριστές;](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Σημαντικές πληροφορίες σχετικά με τους ρόλους διαχείρισης μετά τη μετεγκατάσταση στο κέντρο συμμόρφωσης & ασφαλείας.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Σημαντικές πληροφορίες σχετικά με τους ρόλους διαχείρισης μετά τη μετεγκατάσταση στο Κέντρο & ασφάλειας.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Για περισσότερες πληροφορίες σχετικά με το AIP για την ενοποιημένη επισήμανση της μετεγκατάστασης στο κέντρο ασφάλειας και συμμόρφωσης, ανατρέξτε στο θέμα [μετεγκατάσταση ετικετών](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+Για περισσότερες πληροφορίες σχετικά με τη μετεγκατάσταση AIP σε ενοποιημένη σήμανση στο Κέντρο ασφάλειας και συμμόρφωσης, ανατρέξτε στο θέμα [Μετεγκατάσταση ετικετών.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)
