@@ -2,7 +2,7 @@
 title: Συν-διαχείριση
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817712"
 ---
-# <a name="co-management"></a><span data-ttu-id="ce590-102">Συν-διαχείριση</span><span class="sxs-lookup"><span data-stu-id="ce590-102">Co-management</span></span>
+# <a name="co-management"></a><span data-ttu-id="08756-102">Συν-διαχείριση</span><span class="sxs-lookup"><span data-stu-id="08756-102">Co-management</span></span>
 
-<span data-ttu-id="ce590-103">**Προαπαιτούμενα για τη μετεγκατάσταση από την υβριδική διαχείριση παραμέτρων στο Intune**</span><span class="sxs-lookup"><span data-stu-id="ce590-103">**Prerequisites for migrating from Config Manager Hybrid to Intune**</span></span>
+<span data-ttu-id="08756-103">**Προαπαιτούμενα για τη μετεγκατάσταση από την υβριδική διαχείριση παραμέτρων στο Intune**</span><span class="sxs-lookup"><span data-stu-id="08756-103">**Prerequisites for migrating from Config Manager Hybrid to Intune**</span></span>
 
-- <span data-ttu-id="ce590-104">Διαβάστε [αυτό το άρθρο.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)</span><span class="sxs-lookup"><span data-stu-id="ce590-104">Review [this article](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).</span></span>
-- <span data-ttu-id="ce590-105">[Προσθέστε μια άδεια χρήσης intune στους χρήστες σας.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)</span><span class="sxs-lookup"><span data-stu-id="ce590-105">[Add an Intune license to your users](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).</span></span>
-- <span data-ttu-id="ce590-106">Χρησιμοποιήστε το πρόγραμμα [περιήγησης Edge](https://www.microsoft.com/edge) κατά τη ρύθμιση παραμέτρων της συν-διαχείρισης.</span><span class="sxs-lookup"><span data-stu-id="ce590-106">Use the [Edge browser](https://www.microsoft.com/edge) when configuring Co-management.</span></span>
+- <span data-ttu-id="08756-104">Διαβάστε [αυτό το άρθρο.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)</span><span class="sxs-lookup"><span data-stu-id="08756-104">Review [this article](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).</span></span>
+- <span data-ttu-id="08756-105">[Προσθέστε μια άδεια χρήσης intune στους χρήστες σας.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)</span><span class="sxs-lookup"><span data-stu-id="08756-105">[Add an Intune license to your users](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).</span></span>
+- <span data-ttu-id="08756-106">Χρησιμοποιήστε το πρόγραμμα [περιήγησης Edge](https://www.microsoft.com/edge) κατά τη ρύθμιση παραμέτρων της συν-διαχείρισης.</span><span class="sxs-lookup"><span data-stu-id="08756-106">Use the [Edge browser](https://www.microsoft.com/edge) when configuring Co-management.</span></span>
 
-<span data-ttu-id="ce590-107">Μπορείτε να βρείτε μια καθοδηγούμενη εμπειρία ρύθμισης από τη συνεργασία βήμα προς [βήμα εδώ.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)</span><span class="sxs-lookup"><span data-stu-id="ce590-107">A guided, step-by-step Co-management setup experience can be found [here](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).</span></span>
+<span data-ttu-id="08756-107">Μπορείτε να βρείτε μια καθοδηγούμενη εμπειρία ρύθμισης από τη συνεργασία βήμα προς [βήμα εδώ.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)</span><span class="sxs-lookup"><span data-stu-id="08756-107">A guided, step-by-step Co-management setup experience can be found [here](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).</span></span>
 
-<span data-ttu-id="ce590-108">**Πώς μπορώ να εγκαταστήσω το πρόγραμμα-πελάτη Config Manager σε συσκευές που διαχειρίζεται το Intune**</span><span class="sxs-lookup"><span data-stu-id="ce590-108">**How to I install the Config Manager client on Intune-managed devices**</span></span>
+<span data-ttu-id="08756-108">**Πώς μπορώ να εγκαταστήσω το πρόγραμμα-πελάτη Config Manager σε συσκευές που διαχειρίζεται το Intune**</span><span class="sxs-lookup"><span data-stu-id="08756-108">**How to I install the Config Manager client on Intune-managed devices**</span></span>
 
-<span data-ttu-id="ce590-109">Ανατρέξτε [στο θέμα Συσκευές Windows που διαχειρίζεται το Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)</span><span class="sxs-lookup"><span data-stu-id="ce590-109">See [Intune MDM-managed Windows devices](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).</span></span>
+<span data-ttu-id="08756-109">Ανατρέξτε [στο θέμα Συσκευές Windows που διαχειρίζεται το Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)</span><span class="sxs-lookup"><span data-stu-id="08756-109">See [Intune MDM-managed Windows devices](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).</span></span>
 
-<span data-ttu-id="ce590-110">**Τι γίνεται εάν θέλω απλώς να αλλάξω την αρχή MDM;**</span><span class="sxs-lookup"><span data-stu-id="ce590-110">**What if I just want to change MDM authority?**</span></span>
+<span data-ttu-id="08756-110">**Τι γίνεται εάν θέλω απλώς να αλλάξω την αρχή MDM;**</span><span class="sxs-lookup"><span data-stu-id="08756-110">**What if I just want to change MDM authority?**</span></span>
 
-<span data-ttu-id="ce590-111">Η αρχή MDM μπορεί να αλλάξει χωρίς να ανοίξει μια υπόθεση υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="ce590-111">MDM Authority can be changed without opening a support case.</span></span> <span data-ttu-id="ce590-112">Εξετάστε την παρακάτω τεκμηρίωση για να βοηθήσετε στην αλλαγή της αρχής MDM:</span><span class="sxs-lookup"><span data-stu-id="ce590-112">Please review the following documentation to assist in changing your MDM authority:</span></span>
+<span data-ttu-id="08756-111">Η αρχή MDM μπορεί να αλλάξει χωρίς να ανοίξει μια υπόθεση υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="08756-111">MDM Authority can be changed without opening a support case.</span></span> <span data-ttu-id="08756-112">Εξετάστε την παρακάτω τεκμηρίωση για να βοηθήσετε στην αλλαγή της αρχής MDM:</span><span class="sxs-lookup"><span data-stu-id="08756-112">Please review the following documentation to assist in changing your MDM authority:</span></span>
 
-- [<span data-ttu-id="ce590-113">Αλλαγή αρχής MDM από "Διαχείριση παραμέτρων" σε "Αυτόνομη"</span><span class="sxs-lookup"><span data-stu-id="ce590-113">Change MDM Authority from Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [<span data-ttu-id="ce590-114">Αλλαγή της αρχής MDM από αυτόνομη intune στη Διαχείριση παραμέτρων</span><span class="sxs-lookup"><span data-stu-id="ce590-114">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [<span data-ttu-id="08756-113">Αλλαγή αρχής MDM από "Διαχείριση παραμέτρων" σε "Αυτόνομη"</span><span class="sxs-lookup"><span data-stu-id="08756-113">Change MDM Authority from Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [<span data-ttu-id="08756-114">Αλλαγή της αρχής MDM από αυτόνομη intune στη Διαχείριση παραμέτρων</span><span class="sxs-lookup"><span data-stu-id="08756-114">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
