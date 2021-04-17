@@ -2,7 +2,7 @@
 title: Ουρές κλήσεων
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734335"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819836"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Ουρές κλήσεων στο Microsoft teams και το Skype για επιχείρηση 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Ουρές κλήσεων στο Microsoft Teams και το Skype για επιχειρήσεις 
 
-Για να ξεκινήσετε να χρησιμοποιείτε τις ουρές κλήσεων, ανατρέξτε στις παρακάτω συνδέσεις.
+Για να ξεκινήσετε να χρησιμοποιείτε ουρές κλήσεων, ανατρέξτε στις παρακάτω συνδέσεις.
 
 - [Δημιουργία ουράς κλήσεων cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Απάντηση στην αυτόματη συνοδός και κλήση κλήσεων αναμονής απευθείας από τις ομάδες](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Απάντηση σε κλήσεις αυτόματης καταχώρησης και ουράς κλήσεων απευθείας από το Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

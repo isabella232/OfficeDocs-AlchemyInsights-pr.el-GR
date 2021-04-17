@@ -1,8 +1,8 @@
 ---
-title: Σύλληψη όλων των ζητημάτων συγχρονισμού
+title: Catch all sync issues (Όλα τα προβλήματα συγχρονισμού)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757048"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819404"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>Βασική αντιμετώπιση προβλημάτων συγχρονισμού του Outlook
 
 Εάν αντιμετωπίζετε προβλήματα συγχρονισμού, δοκιμάστε τα εξής:
 
-- Εκτελέστε [αυτό το διαγνωστικό εργαλείο](https://aka.ms/sara-outlooksendreceive) στον υπολογιστή που επηρεάζεται.
-- Μειώστε τον αριθμό των φακέλων στο πρωτεύον ή το κοινόχρηστο γραμματοκιβώτιο. Ανατρέξτε [στο θέμα προβλήματα επιδόσεων του Outlook όταν υπάρχουν πάρα πολλά στοιχεία ή φάκελοι σε έναν φάκελο κατάστασης λειτουργίας Cached. ost ή αρχείο. pst](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
+- Εκτελέστε [αυτό το εργαλείο διαγνωστικών](https://aka.ms/sara-outlooksendreceive) στον υπολογιστή που επηρεάζεται.
+- Μειώστε τον αριθμό των φακέλων στο κύριο ή κοινόχρηστο γραμματοκιβώτιο. Ανατρέξτε [στα θέματα επιδόσεων του Outlook όταν υπάρχουν πάρα πολλά στοιχεία ή φάκελοι σε ένα φάκελο αρχείων .ost ή .pst](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)σε κατάσταση cache.
 - Απενεργοποιήστε την προσωρινή αποθήκευση όλων των κοινόχρηστων φακέλων.
-- Αλλάξτε τη ρύθμιση παραμέτρων του δευτερεύοντος γραμματοκιβωτίου του Exchange σε έναν δεύτερο λογαριασμό του Exchange στο προφίλ σας.
+- Αλλάξτε τη ρύθμιση παραμέτρων του δευτερεύοντος γραμματοκιβωτίου του Exchange σε δεύτερο λογαριασμό Exchange στο προφίλ σας.
 - Βεβαιωθείτε ότι ο χρήστης μπορεί να συνδεθεί στο Internet. 
-- [Βεβαιωθείτε ότι είστε συνδεδεμένοι στο Internet](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- [Προσδιορίστε εάν εφαρμόζεται ένας κανόνας](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Βεβαιωθείτε ότι είναι ενεργοποιημένη η επιλογή **Λήψη κοινόχρηστων φακέλων** , μεταβαίνοντας στις ρυθμίσεις λογαριασμού Ρυθμίσεις λογαριασμού **αρχείου**  >  **Account Settings**  >  **Account Settings**  >  **περισσότερες ρυθμίσεις**  >  **για προχωρημένους**.
+- [Βεβαιωθείτε ότι είστε συνδεδεμένοι.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
+- [Προσδιορίστε εάν εφαρμόζεται ένας κανόνας.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
+- Βεβαιωθείτε ότι η **λήψη κοινόχρηστων φακέλων** είναι ενεργοποιημένη, από την επιλογή "Ρυθμίσεις   >  **λογαριασμού αρχείων"**  >  **ρυθμίσεις λογαριασμού**  >  **"Περισσότερες ρυθμίσεις για**  >  **προχωρημένους".**
