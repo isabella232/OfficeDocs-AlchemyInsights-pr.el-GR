@@ -1,45 +1,46 @@
 ---
-title: Η αυτόματη ταξινόμηση δεν συμπεριφέρεται όπως αναμένεται με το πρόγραμμα-πελάτη AIP
+title: Η αυτόματη ταξινόμηση δεν λειτουργεί ως αναμενόταν με το πρόγραμμα-πελάτη AIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820898"
 ---
-# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Η αυτόματη ταξινόμηση δεν συμπεριφέρεται όπως αναμένεται με το πρόγραμμα-πελάτη AIP
+# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Η αυτόματη ταξινόμηση δεν λειτουργεί ως αναμενόταν με το πρόγραμμα-πελάτη AIP
 
-Η αυτόματη ταξινόμηση δεν συμπεριφέρεται όπως αναμένεται, χρησιμοποιήστε τις ακόλουθες συνιστώμενες οδηγίες:
+Η αυτόματη ταξινόμηση δεν λειτουργεί ως αναμενόταν, χρησιμοποιήστε τις παρακάτω προτεινόμενες οδηγίες:
 
-1. Εάν αντιμετωπίζετε προβλήματα με την αυτόματη επισήμανση, ανατρέξτε στο θέμα [Τρόπος ρύθμισης παραμέτρων συνθηκών για την αυτόματη και συνιστώμενη ταξινόμηση για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) και [τι αναζητούν οι τύποι ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-2. Ελέγξτε εάν χρησιμοποιείτε πολιτικές εμβέλειας που δεν έχουν ρυθμιστεί σωστά: [Πώς να ρυθμίσετε τις παραμέτρους της πολιτικής προστασίας πληροφοριών Azure για συγκεκριμένους χρήστες, χρησιμοποιώντας πολιτικές εμβέλειας](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-3. Εάν η αυτόματη επισήμανση δεν λειτουργεί για το Outlook κατά την επισύναψη ενός εγγράφου με ετικέτα, βεβαιωθείτε ότι `DRMEncryptProperty` δεν έχει οριστεί όπως περιγράφεται εδώ: ρυθμίσεις [μητρώου IRM για ασφάλεια](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
-4. Εάν χρησιμοποιήσατε [τους ενσωματωμένους τύπους πληροφοριών](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) για την πολιτική προστασίας πληροφοριών Azure, βεβαιωθείτε ότι το περιεχόμενό σας ταιριάζει με την αναμενόμενη μορφή.
-5. Βεβαιωθείτε ότι η ετικέτα έχει ρυθμιστεί κατάλληλα για **αυτόματη** ή **συνιστώμενη**. (Η**αυτόματη** επισήμανση είναι διαθέσιμη για όλες τις εφαρμογές του Office, ενώ η **συνιστώμενη** είναι διαθέσιμη για όλες τις εφαρμογές του Office εκτός από το Outlook.)
-6. Δεν μπορείτε να χρησιμοποιήσετε την αυτόματη ταξινόμηση για έγγραφα και μηνύματα ηλεκτρονικού ταχυδρομείου που προηγουμένως είχαν επισημανθεί με μη αυτόματο τρόπο ή προηγουμένως έχουν επισημανθεί αυτόματα με υψηλότερη ταξινόμηση.  Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα: [Πώς εφαρμόζονται οι αυτόματες ή οι προτεινόμενες ετικέτες](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, συλλέξτε αρχεία καταγραφής υπολογιστών-πελατών προστασίας πληροφοριών Azure και επισυνάψτε τα αρχεία καταγραφής που έχουν εξαχθεί στο δελτίο υποστήριξης. Για να εξαγάγετε αρχεία καταγραφής προστασίας πληροφοριών Azure:
+1. Εάν αντιμετωπίζετε προβλήματα με την αυτόματη σήμανση, ανατρέξτε στο θέμα [Τρόπος ρύθμισης συνθηκών για την αυτόματη και συνιστώμενη ταξινόμηση για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) και [Τι αναζητούν οι τύποι ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+2. Ελέγξτε εάν χρησιμοποιείτε πολιτικές εμβέλειας που δεν έχουν ρυθμιστεί καταλλήλως: [Τρόπος ρύθμισης της πολιτικής Προστασίας πληροφοριών Azure για συγκεκριμένους χρήστες, χρησιμοποιώντας πολιτικές εμβέλειας](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+3. Αν δεν λειτουργεί η αυτόματη σήμανση για το Outlook κατά την επισύναψη ενός εγγράφου με ετικέτα, βεβαιωθείτε ότι το `DRMEncryptProperty` δεν έχει οριστεί όπως περιγράφεται εδώ: [Ρυθμίσεις μητρώου IRM για την ασφάλεια](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+4. Εάν χρησιμοποιήσατε τους [ενσωματωμένους τύπους πληροφοριών](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) για την πολιτική Προστασίας πληροφοριών Azure, επιβεβαιώστε ότι το περιεχόμενό σας αντιστοιχεί στην αναμενόμενη μορφή.
+5. Βεβαιωθείτε ότι η ετικέτα έχει ρυθμιστεί κατάλληλα για την **Αυτόματη** ή **Συνιστώμενη**. (Η **Αυτόματη** σήμανση είναι διαθέσιμη για όλες τις εφαρμογές του Microsoft 365, ενώ η **Συνιστώμενη** είναι διαθέσιμη για όλες τις εφαρμογές του Microsoft 365 εκτός από το Outlook.)
+6. Δεν μπορείτε να χρησιμοποιήσετε την αυτόματη ταξινόμηση για έγγραφα και μηνύματα ηλεκτρονικού ταχυδρομείου τα οποία είχαν προηγουμένως επισημανθεί με ετικέτες υψηλότερης διαβάθμισης με αυτόματο ή με μη αυτόματο τρόπο.  Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα: [Πώς εφαρμόζονται οι αυτόματες ή οι συνιστώμενες ετικέτες](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
+7. Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, συλλέξτε αρχεία καταγραφής προγράμματος-πελάτη της Προστασίας πληροφοριών Azure και επισυνάψτε τα εξαγόμενα αρχεία καταγραφής στο δελτίο υποστήριξης. Για να εξάγετε αρχεία καταγραφής της Προστασίας πληροφοριών Azure:
     - Ανοίξτε ένα έγγραφο του Office ή δημιουργήστε ένα νέο μήνυμα ηλεκτρονικού ταχυδρομείου στο Outlook.
-    - Κάντε κλικ στην επιλογή **Προστασία/Ευαισθησία**  >  **Βοήθεια και ανατροφοδότηση**.
-    - Κάντε κλικ στην επιλογή **Εξαγωγή αρχείων καταγραφής**.
-    - Αποθηκεύστε τα αρχεία καταγραφής στην επιλογή τοποθεσίας σας και επισυνάψτε τα στο αίτημα εξυπηρέτησης.
+    - Κάντε κλικ στην **Προστασία/Ευαισθησία** > **Βοήθεια και σχόλια**.
+    - Κάντε κλικ στην **Εξαγωγή αρχείων καταγραφής**.
+    - Αποθηκεύστε τα αρχεία καταγραφής στην επιλογή θέσης σας και επισυνάψτε τα στην αίτηση εξυπηρέτησης.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα: 
 
-- [Τρόπος ρύθμισης παραμέτρων συνθηκών για αυτόματη και συνιστώμενη ταξινόμηση για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
-- [Οδηγίες για κοινά σενάρια που χρησιμοποιούν την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)
-- [Αναθεώρηση της τεκμηρίωσης προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Αναθεώρηση συνδρομών και δυνατοτήτων προστασίας πληροφοριών Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [Απαιτήσεις για την προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Πρόγραμμα εκμάθησης γρήγορης εκκίνησης για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Λήψη προγράμματος-πελάτη προστασίας πληροφοριών Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Πώς να ρυθμίσετε τις παραμέτρους συνθηκών για αυτόματη και συνιστώμενη ταξινόμηση για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
+- [Οδηγοί για συνηθισμένα σενάρια που χρησιμοποιούν την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)
+- [Αναθεώρηση τεκμηρίωσης της Προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Αναθεώρηση των συνδρομών και δυνατοτήτων της Προστασίας πληροφοριών Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- [Απαιτήσεις για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Εκμάθηση γρήγορης εκκίνησης για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Λήψη προγράμματος-πελάτη Προστασίας πληροφοριών Azure](https://www.microsoft.com/download/details.aspx?id=53018)
