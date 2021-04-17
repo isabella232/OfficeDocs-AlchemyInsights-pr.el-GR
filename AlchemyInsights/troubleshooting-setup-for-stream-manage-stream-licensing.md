@@ -1,8 +1,8 @@
 ---
-title: Αντιμετώπιση προβλημάτων εγκατάστασης για ροή-διαχείριση αδειών χρήσης ροής
+title: Αντιμετώπιση προβλημάτων εγκατάστασης για ροή - Διαχείριση αδειών χρήσης ροής
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749658"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834767"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Διαχείριση αδειών χρήσης ροής της Microsoft
+# <a name="managing-microsoft-stream-licenses"></a>Διαχείριση αδειών χρήσης του Microsoft Stream
 
-**Σημαντικό:** Πρέπει να βρίσκεστε στο ρόλο διαχειριστή μισθωτών για να εκτελείτε λειτουργίες που περιγράφονται σε αυτό το θέμα.
+**Σημαντικό:** Πρέπει να είστε στο ρόλο διαχειριστή μισθωτή για να εκτελέσετε λειτουργίες που περιγράφονται σε αυτό το θέμα.
 
-Πρέπει να είστε είτε καθολικός διαχειριστής είτε διαχειριστής διαχείρισης χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα σχετικά με τους ρόλους διαχειριστή](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Πρέπει να είστε καθολικός διαχειριστής ή διαχειριστής διαχείρισης χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα "Πληροφορίες για τους ρόλους διαχειριστή".](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-Μπορείτε να εκχωρήσετε [άδειες χρήσης σε λογαριασμούς χρηστών με το Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Μπορείτε να [εκχωρήσετε άδειες χρήσης σε λογαριασμούς χρηστών με το Office 365 PowerShell.](https://go.microsoft.com/fwlink/p/?linkid=850410)

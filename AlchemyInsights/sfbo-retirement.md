@@ -1,8 +1,8 @@
 ---
-title: SFBO συνταξιοδότηση
+title: Απόσυρση από το SFBO
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: 1945a7be3c4b2f4b926f754ff57dd1c25ae6d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6fe8cb8067b5aa121f8cf88ab56d7fbeb7b0b72d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739465"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835451"
 ---
-# <a name="skype-for-business-online-retirement"></a>Συνταξιοδότηση Skype για επαγγελματική online
+# <a name="skype-for-business-online-retirement"></a>Απόσυρση από το Skype για επιχειρήσεις Online
 
-Για πληροφορίες σχετικά με τη συνταξιοδότηση του Skype για ηλεκτρονικές συναλλαγές, ανατρέξτε σε [αυτό το άρθρο](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).
+Για πληροφορίες σχετικά με την απόσυρση του Skype για επιχειρήσεις Online, ανατρέξτε σε [αυτό το άρθρο.](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)
 
-Σημείωση: η ανακοίνωση αυτή δεν επηρεάζεται από το Skype για επιχείρηση στις εγκαταστάσεις. 
+Σημείωση: Το Skype για επιχειρήσεις εσωτερικής εγκατάστασης ΔΕΝ επηρεάζεται από αυτή την ανακοίνωση. 

@@ -2,7 +2,7 @@
 title: Μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από το G Suite στο Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: bb550e259d2acb3456d32f496e678ec6ac071e63
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2940a9667a52b50a502497b716480c50fa3850ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754879"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833723"
 ---
 # <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Μετεγκατάσταση ηλεκτρονικού ταχυδρομείου από το G Suite στο Microsoft 365
 
-Για να μετεγκαταστήσετε το ηλεκτρονικό ταχυδρομείο από το G Suite στο Microsoft 365, χρησιμοποιήστε τα εργαλεία μετεγκατάστασης για τη μετεγκατάσταση του ηλεκτρονικού ταχυδρομείου, του ημερολογίου και των επαφών: [εκτέλεση μιας μετεγκατάστασης της οικογένειας προγραμμάτων g](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Για να μετεγκαταστήσετε μηνύματα ηλεκτρονικού ταχυδρομείου από το G Suite στο Microsoft 365, χρησιμοποιήστε τα εργαλεία μετεγκατάστασης για τη μετεγκατάσταση ηλεκτρονικού ταχυδρομείου, ημερολογίου και επαφών: [Εκτέλεση μετεγκατάστασης του G Suite.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
   

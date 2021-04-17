@@ -1,8 +1,8 @@
 ---
-title: Ενημέρωση των πληροφοριών του προφίλ μου ή αλλαγή της εικόνας μου
+title: Ενημέρωση των πληροφοριών προφίλ μου ή αλλαγή της εικόνας μου
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834443"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Ενημέρωση των πληροφοριών του προφίλ μου ή αλλαγή της εικόνας μου
+# <a name="update-my-profile-information-or-change-my-picture"></a>Ενημέρωση των πληροφοριών προφίλ μου ή αλλαγή της εικόνας μου
 
-Προς το παρόν, δεν είναι δυνατή η επεξεργασία και η ενημέρωση των πληροφοριών του προφίλ σας απευθείας από το Outlook για iOS, αλλά είναι δυνατή η επεξεργασία αυτών των πληροφοριών σε άλλο σημείο. 
+Προς το παρόν, δεν είναι δυνατή η επεξεργασία και η ενημέρωση των πληροφοριών προφίλ σας απευθείας από το Outlook για iOS, αλλά είναι δυνατή η επεξεργασία αυτών των πληροφοριών σε άλλο σημείο. 
 
 Μπορείτε να κάνετε ενημερώσεις στο προφίλ σας είτε στο Outlook για Windows είτε στο Outlook στο Web (OWA). 
 
-**Outlook για Windows**: 
+**Outlook για Windows:** 
 
-- **Αρχείο**  >  **Λογαριασμός**  >  του Office **Πληροφορίες χρήστη**  >  **Σχετικά με εμένα** (σας φέρνει στο Microsoft 365 Profile online) > **ενημερώστε το προφίλ** σας ή κάντε κλικ στο εικονίδιο της κάμερας για να αλλάξετε τη φωτογραφία σας  
+- **Αρχείο**  >  **Λογαριασμός Του**  >  Office **Πληροφορίες χρήστη**  >  **Σχετικά με εμένα** (σας μεταφέρει στο προφίλ του Microsoft 365 online) > **"Ενημέρωση προφίλ"** ή κάντε κλικ στο εικονίδιο της κάμερας για να αλλάξετε τη φωτογραφία σας  
   
-**Το Outlook στο Web (OWA)**: 
+**Outlook στο Web (OWA)**: 
 
 - **Εικόνα προφίλ**  >  **Το προφίλ μου**  >  **Ενημέρωση προφίλ**
