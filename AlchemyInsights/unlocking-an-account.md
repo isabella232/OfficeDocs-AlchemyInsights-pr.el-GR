@@ -2,7 +2,7 @@
 title: Ξεκλείδωμα λογαριασμού
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657897"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827756"
 ---
 # <a name="unlocking-an-account"></a>Ξεκλείδωμα λογαριασμού
 
@@ -29,13 +29,13 @@ ms.locfileid: "47657897"
 
 **Επαναφορά κωδικού πρόσβασης χρήστη**
 
-1. Στο κέντρο διαχείρισης, επιλέξτε **Χρήστες[ > ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Ενεργοί χρήστες**.
+1. Στο κέντρο διαχείρισης, επιλέξτε **Χρήστες [ >](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Ενεργοί χρήστες**.
 
 2. Επιλέξτε τον χρήστη και, στη συνέχεια, κάντε κλικ στην επιλογή **Επαναφορά κωδικού πρόσβασης**.
 
 **Βεβαιωθείτε ότι ο χρήστης έχει το δικαίωμα να συνδεθεί**
 
-1. Στο κέντρο διαχείρισης, επιλέξτε **Χρήστες[ > ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Ενεργοί χρήστες**.
+1. Στο κέντρο διαχείρισης, επιλέξτε **Χρήστες [ >](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Ενεργοί χρήστες**.
 
 2. Επιλέξτε τον χρήστη, κάντε κλικ στην επιλογή **Περισσότερες ενέργειες (...)** και, στη συνέχεια, κάντε κλικ στην επιλογή **Επεξεργασία κατάστασης εισόδου**.
 

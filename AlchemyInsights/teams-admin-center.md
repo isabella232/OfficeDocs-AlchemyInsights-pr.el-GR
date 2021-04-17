@@ -2,7 +2,7 @@
 title: Κέντρο διαχείρισης του Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670364"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826379"
 ---
 # <a name="teams-admin-center"></a>Κέντρο διαχείρισης του Teams
 
@@ -32,5 +32,5 @@ ms.locfileid: "47670364"
 
 - Έχετε δημιουργήσει χρήστες ή έχετε εκχωρήσει άδειες χρήσης τις τελευταίες 24 ώρες; Φροντίστε να περιμένετε τουλάχιστον 24 ώρες πριν ανοίξετε ένα δελτίο υποστήριξης.
 - Είστε βέβαιοι ότι έχετε εκχωρήσει κατάλληλες άδειες χρήσης;
-- Εάν έχετε μια υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης, επαληθεύστε ότι [η τιμή msRTCSIP-PrimaryUserAddress ή η διεύθυνση SIP στο πεδίο proxyAddresses της τοπικής υπηρεσίας καταλόγου Active Directory είναι μοναδική και η μορφή ταιριάζει](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) με SIP: το**όνομα** χρήστη του χρήστη από το [Κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Εάν σκοπεύετε να διατηρήσετε μια ανάπτυξη του Skype για επιχειρήσεις Server και να έχετε χρήστες που διαθέτουν εσωτερικές εγκαταστάσεις και online: ακολουθήστε τις επιλογές **"ρύθμιση υβριδικού με ομάδες και Skype για επιχειρήσεις online"** στον πίνακα ελέγχου του Skype για επιχειρήσεις και μετακινήστε τους χρήστες στο Internet.
+- Εάν έχετε μια υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης, βεβαιωθείτε ότι η τιμή [του msRTCSIP-PrimaryUserAddress ή της διεύθυνσης SIP στο πεδίο ProxyAddresses](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) στην τοπική υπηρεσία καταλόγου Active Directory είναι μοναδική και η μορφή ταιριάζει sip:**Όνομα** χρήστη του χρήστη από το κέντρο διαχείρισης [Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Εάν σκοπεύετε να διατηρήσετε μια ανάπτυξη του Skype για επιχειρήσεις Server και να έχετε χρήστες εσωτερικής εγκατάστασης και Online: ακολουθήστε την "Ρύθμιση υβριδικής λειτουργίας με το Teams και το **Skype για επιχειρήσεις Online"** στον Πίνακα Ελέγχου του Skype για επιχειρήσεις Server και μετακινήστε τους χρήστες online.

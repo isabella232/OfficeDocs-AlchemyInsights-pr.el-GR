@@ -1,8 +1,8 @@
 ---
-title: Αναβάθμιση από το Skype για ηλεκτρονικές συναλλαγές στο teams
+title: Αναβάθμιση από το Skype για επιχειρήσεις Online στο Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734731"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827324"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Αναβάθμιση από το Skype για ηλεκτρονικές συναλλαγές στο teams  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Αναβάθμιση από το Skype για επιχειρήσεις Online στο Teams  
 
-Ακολουθήστε τις οδηγίες στο παρακάτω άρθρο, εάν έχετε αναπτύξει το Skype για ηλεκτρονικές συναλλαγές και θέλετε να αναβαθμίσετε τους χρήστες σας από το Skype για επιχείρηση σε ομάδες. Μπορείτε να αναβαθμίσετε τους χρήστες σε στάδια ή όλα ταυτόχρονα, με βάση το ταξίδι αναβάθμισης που έχει επιλέξει ο οργανισμός σας, αντιστοιχίζοντας την κατάλληλη λειτουργία συνύπαρξης και αναβάθμισης στους χρήστες σας.
+Ακολουθήστε τις οδηγίες στο παρακάτω άρθρο, εάν έχετε αναπτύξει το Skype για επιχειρήσεις Online και θέλετε να αναβαθμίσετε τους χρήστες σας από το Skype για επιχειρήσεις στο Teams. Μπορείτε να αναβαθμίσετε χρήστες σταδιακά ή όλα ταυτόχρονα, με βάση τη διαδρομή αναβάθμισης που έχει επιλέξει ο οργανισμός σας, εκχωρώντας την κατάλληλη λειτουργία συνύπαρξης και αναβάθμισης στους χρήστες σας.
 
-[Αναβάθμιση από το Skype για ηλεκτρονικές συναλλαγές στο teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Αναβάθμιση από το Skype για επιχειρήσεις Online στο Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

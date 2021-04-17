@@ -1,8 +1,8 @@
 ---
-title: Δεν είναι δυνατός ο καθορισμός ή η προβολή της πολιτικής AllowSelfServicePurchase
+title: Δεν είναι δυνατός ο ορισμός ή η προβολή της πολιτικής AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735199"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826091"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Δεν είναι δυνατός ο καθορισμός ή η προβολή της πολιτικής AllowSelfServicePurchase
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Δεν είναι δυνατός ο ορισμός ή η προβολή της πολιτικής AllowSelfServicePurchase
 
-Όταν επιχειρείτε να καθορίσετε ή να προβάλετε την πολιτική AllowSelfServicePurchase, λαμβάνετε το ακόλουθο μήνυμα σφάλματος:
+Όταν προσπαθείτε να ορίσετε ή να προβάλετε την πολιτική AllowSelfServicePurchase, λαμβάνετε το ακόλουθο μήνυμα σφάλματος:
 
-*HandleError: δεν ήταν δυνατή η ανάκτηση της πολιτικής προϊόντος με το PolicyId ' AllowSelfServicePurchase ', μήνυμα-η υποκείμενη σύνδεση έκλεισε: Παρουσιάστηκε μη αναμενόμενο σφάλμα σε μια αποστολή.*
+*HandleError : Απέτυχε η ανάκτηση πολιτικής προϊόντος με το PolicyId "AllowSelfServicePurchase", ErrorMessage - Η υποκείμενη σύνδεση έκλεισε: Παρουσιάστηκε μη αναμενόμενο σφάλμα κατά την αποστολή.*
 
-Αυτό μπορεί να οφείλεται σε μια παλαιότερη έκδοση της ασφάλειας επιπέδου μεταφοράς (TLS). Για να συνδέσετε την υπηρεσία MSCommerce, πρέπει να χρησιμοποιήσετε το TLS 1,2 ή νεότερη.  
+Αυτό μπορεί να οφείλεται σε μια παλαιότερη έκδοση του Transport Layer Security (TLS). Για να συνδέσετε την υπηρεσία MSCommerce, πρέπει να χρησιμοποιήσετε TLS 1.2 ή μεγαλύτερο.  
 
-Δοκιμάστε τα παρακάτω βήματα για να ενεργοποιήσετε/Ορίστε το πρωτόκολλο TLS στο 1,2, επαληθεύστε και προσπαθήστε ξανά.
- 1. Στη γραμμή εντολών PowerShell (PS C: \) Πληκτρολογήστε την ακόλουθη εντολή για να καθορίσετε το πρωτόκολλο TLS στην έκδοση 1,2:
+Δοκιμάστε τα παρακάτω βήματα για να ενεργοποιήσετε/ορίσετε το πρωτόκολλο TLS σε 1,2, να επαληθεύσετε και να επαναλάβετε την προσπάθεια.
+ 1. Στη γραμμή εντολών του PowerShell (PS C: πληκτρολογήστε την ακόλουθη εντολή για να \) ορίσετε το πρωτόκολλο TLS στην έκδοση 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
@@ -36,5 +36,5 @@ ms.locfileid: "47735199"
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Επαναλάβετε τις εντολές λήψη ή ενημέρωση, ανάλογα με τις ανάγκες.
+3. Επαναλάβετε τις εντολές "Λήψη" ή "Ενημέρωση", όπως απαιτείται.
 

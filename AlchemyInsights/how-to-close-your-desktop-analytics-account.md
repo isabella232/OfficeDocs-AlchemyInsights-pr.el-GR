@@ -1,8 +1,8 @@
 ---
-title: Πώς να κλείσετε το λογαριασμό σας στην ανάλυση επιφάνειας εργασίας
+title: Πώς μπορείτε να κλείσετε το λογαριασμό σας Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704714"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825767"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Πώς να κλείσετε το λογαριασμό σας στην ανάλυση επιφάνειας εργασίας
+# <a name="how-to-close-your-desktop-analytics-account"></a>Πώς μπορείτε να κλείσετε το λογαριασμό σας Desktop Analytics
 
-Εάν ρυθμίσετε την ανάλυση επιφάνειας εργασίας στο περιβάλλον σας και, στη συνέχεια, αποφασίσετε ότι πρέπει να την καταργήσετε, χρησιμοποιήστε τη διαδικασία στην παρακάτω σύνδεση:
+Εάν έχετε ρυθμίσει την Ανάλυση επιφάνειας εργασίας στο περιβάλλον σας και, στη συνέχεια, αποφασίσετε ότι πρέπει να την καταργήσετε, χρησιμοποιήστε τη διαδικασία στην παρακάτω σύνδεση:
 
 [Πώς να κλείσετε τον λογαριασμό σας](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Το πρώτο βήμα είναι να επικοινωνήσετε με την υποστήριξη της Microsoft. Ανοίξτε μια υπόθεση υποστήριξης για να κλείσετε το λογαριασμό σας στην ανάλυση επιφάνειας εργασίας. Μην συνεχίσετε με πρόσθετα βήματα μέχρι να λάβετε επιβεβαίωση ότι η Microsoft έκλεισε το λογαριασμό σας.
+Το πρώτο βήμα είναι να επικοινωνήσετε με την υποστήριξη της Microsoft. Ανοίξτε μια υπόθεση υποστήριξης για να κλείσετε το λογαριασμό σας Desktop Analytics. Μην συνεχίσετε με πρόσθετα βήματα μέχρι να λάβετε επιβεβαίωση ότι η Microsoft έκλεισε τον λογαριασμό σας.
