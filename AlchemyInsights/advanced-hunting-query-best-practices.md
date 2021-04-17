@@ -1,8 +1,8 @@
 ---
-title: Προηγμένες βέλτιστες πρακτικές για το κυνηγετικό ερώτημα
+title: Βέλτιστες πρακτικές ερωτημάτων για προχωρημένους
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696657"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821735"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Προηγμένες βέλτιστες πρακτικές για το κυνηγετικό ερώτημα
+# <a name="advanced-hunting-query-best-practices"></a>Βέλτιστες πρακτικές ερωτημάτων για προχωρημένους
 
-Παρακαλούμε δείτε το πλήρες άρθρο [Advanced Hunt Query βέλτιστες πρακτικές](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) για λεπτομερείς συστάσεις και οδηγίες σχετικά με:
-- Βελτιστοποίηση των επιδόσεων του ερωτήματος.
-- Συμβουλές και παγίδες ερωτημάτων.
+Ανατρέξτε στο πλήρες άρθρο [Βέλτιστες πρακτικές ερωτημάτων για προχωρημένους για](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) λεπτομερείς συστάσεις και οδηγίες σχετικά με:
+- Βελτιστοποίηση επιδόσεων ερωτήματος.
+- Συμβουλές και ελλείψεις ερωτημάτων.
 - Ερωτήματα με γραμμές εντολών.
 
 

@@ -1,8 +1,8 @@
 ---
-title: Προσθήκη χρηστών σε ομάδα του SharePoint
+title: Προσθήκη χρηστών σε μια ομάδα του SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: f554591948295215983bafa43f98c201e92e103f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 807d6b9dce934887df65d0a1df6ba73b197e62aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687218"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822203"
 ---
-# <a name="add-users-to-a-sharepoint-group"></a>Προσθήκη χρηστών σε ομάδα του SharePoint
+# <a name="add-users-to-a-sharepoint-group"></a>Προσθήκη χρηστών σε μια ομάδα του SharePoint
 
-Μια ομάδα του SharePoint είναι μια συλλογή χρηστών που έχουν όλοι το ίδιο σύνολο δικαιωμάτων για τις τοποθεσίες και το περιεχόμενο. Αντί να εκχωρείτε δικαιώματα ένα άτομο κάθε φορά, μπορείτε να χρησιμοποιήσετε τις ομάδες για να εκχωρήσετε εύκολα το ίδιο επίπεδο δικαιωμάτων σε πολλά άτομα ταυτόχρονα.
+Μια ομάδα του SharePoint είναι μια συλλογή χρηστών που έχουν όλοι το ίδιο σύνολο δικαιωμάτων σε τοποθεσίες και περιεχόμενο. Αντί να εκχωρήσετε δικαιώματα σε ένα άτομο κάθε φορά, μπορείτε να χρησιμοποιήσετε ομάδες για να εκχωρήσετε εύκολα το ίδιο επίπεδο δικαιωμάτων σε πολλά άτομα ταυτόχρονα.
 
-- [Προσθήκη χρηστών σε ομάδα](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [Προσθήκη ή κατάργηση μελών από ομάδες του Microsoft 365 με χρήση του κέντρου διαχείρισης](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Προσθήκη χρηστών σε μια ομάδα](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
+- [Προσθήκη ή κατάργηση μελών από τις Ομάδες Microsoft 365 χρησιμοποιώντας το κέντρο διαχείρισης](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

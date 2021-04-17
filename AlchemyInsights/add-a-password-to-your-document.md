@@ -2,7 +2,7 @@
 title: Προσθήκη κωδικού πρόσβασης στο έγγραφό σας
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688514"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822707"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Προσθήκη κωδικού πρόσβασης σε έγγραφο του Word
 
-1. Μεταβείτε στις **File**  >  **πληροφορίες**αρχείου  >  **προστασία εγγράφου**  >  **κρυπτογράφηση με κωδικό πρόσβασης**.
-2. Πληκτρολογήστε τον κωδικό πρόσβασης που θέλετε να χρησιμοποιήσετε και, στη συνέχεια, επιλέξτε **OK**.
-3. Πληκτρολογήστε ξανά τον κωδικό πρόσβασης και, στη συνέχεια, επιλέξτε **OK**.
+1. Μεταβείτε στην **"Προστασία**  >  **κρυπτογράφησης**  >  **εγγράφου με κωδικό**  >  **πρόσβασης".**
+2. Πληκτρολογήστε τον κωδικό πρόσβασης που θέλετε να χρησιμοποιήσετε και, στη συνέχεια, **επιλέξτε OK.**
+3. Πληκτρολογήστε εκ νέου τον κωδικό πρόσβασης και, στη συνέχεια, **επιλέξτε OK.**
