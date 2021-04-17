@@ -1,8 +1,8 @@
 ---
-title: Μήνυμα εφαρμογών του Microsoft 365-δεν ήταν δυνατή η εύρεση αδειών χρήσης του Office που σχετίζονται
+title: Μήνυμα εφαρμογών του Microsoft 365 - Δεν ήταν σε θέση να βρει συσχετισμένες άδειες χρήσης του Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802777"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836207"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Μήνυμα εφαρμογών του Microsoft 365-δεν ήταν δυνατή η εύρεση αδειών χρήσης του Office που σχετίζονται
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Μήνυμα εφαρμογών του Microsoft 365 - Δεν ήταν σε θέση να βρει συσχετισμένες άδειες χρήσης του Office
 
 Για να διορθώσετε αυτό το σφάλμα, δοκιμάστε τα εξής:
 
@@ -39,7 +39,7 @@ ms.locfileid: "47802777"
 
 - Επαναφορά κατάστασης ενεργοποίησης του Office. Ανατρέξτε στο θέμα [Επαναφορά κατάστασης ενεργοποίησης των εφαρμογών Microsoft 365 για μεγάλες επιχειρήσεις](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Επιλέξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις του διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι δεν εμποδίζουν τις εφαρμογές της Microsoft 365 να έχουν πρόσβαση στο Internet. 
+- Ελέγξτε το τείχος προστασίας, το λογισμικό προστασίας από ιούς και τις ρυθμίσεις διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι δεν εμποδίζουν την πρόσβαση των εφαρμογών Microsoft 365 στο Internet. 
 
 Για πρόσθετες λύσεις αντιμετώπισης προβλημάτων, ανατρέξτε στα θέματα:
 
