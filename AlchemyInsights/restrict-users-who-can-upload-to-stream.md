@@ -1,8 +1,8 @@
 ---
-title: Περιορισμός των χρηστών που μπορούν να αποστείλουν στη ροή
+title: Περιορισμός χρηστών που μπορούν να αποφορτώνουν στη Ροή
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740835"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831302"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a>Περιορισμός των χρηστών που μπορούν να αποστείλουν στη ροή
+# <a name="restrict-users-who-can-upload-to-stream"></a>Περιορισμός χρηστών που μπορούν να αποφορτώνουν στη Ροή
 
-Ως οργανισμός, μπορεί να θέλετε να περιορίσετε τους υπαλλήλους που μπορούν να αποστείλουν βίντεο. Από προεπιλογή, όλοι οι χρήστες του οργανισμού σας μπορούν να κάνουν αποστολή βίντεο.
+Ως οργανισμός μπορεί να θέλετε να περιορίσετε τους υπαλλήλους που μπορούν να αποφορτώνουν βίντεο. Από προεπιλογή, όλοι οι άλλοι στον οργανισμό σας μπορούν να αποφορτώνουν βίντεο.
 
-- [Περιορισμός των υπαλλήλων που μπορούν να δημιουργήσουν περιεχόμενο στο Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)
+- [Περιορισμός υπαλλήλων που μπορούν να δημιουργήσουν περιεχόμενο στο Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)
