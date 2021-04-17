@@ -1,8 +1,8 @@
 ---
-title: Προηγμένες βέλτιστες πρακτικές για το κυνηγετικό ερώτημα
+title: Βέλτιστες πρακτικές ερωτημάτων για προχωρημένους
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696657"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821735"
 ---
-# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="3241f-102">Προηγμένες βέλτιστες πρακτικές για το κυνηγετικό ερώτημα</span><span class="sxs-lookup"><span data-stu-id="3241f-102">Advanced hunting query best practices</span></span>
+# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="999f1-102">Βέλτιστες πρακτικές ερωτημάτων για προχωρημένους</span><span class="sxs-lookup"><span data-stu-id="999f1-102">Advanced hunting query best practices</span></span>
 
-<span data-ttu-id="3241f-103">Παρακαλούμε δείτε το πλήρες άρθρο [Advanced Hunt Query βέλτιστες πρακτικές](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) για λεπτομερείς συστάσεις και οδηγίες σχετικά με:</span><span class="sxs-lookup"><span data-stu-id="3241f-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
-- <span data-ttu-id="3241f-104">Βελτιστοποίηση των επιδόσεων του ερωτήματος.</span><span class="sxs-lookup"><span data-stu-id="3241f-104">Optimizing query performance.</span></span>
-- <span data-ttu-id="3241f-105">Συμβουλές και παγίδες ερωτημάτων.</span><span class="sxs-lookup"><span data-stu-id="3241f-105">Query tips and pitfalls.</span></span>
-- <span data-ttu-id="3241f-106">Ερωτήματα με γραμμές εντολών.</span><span class="sxs-lookup"><span data-stu-id="3241f-106">Queries with command lines.</span></span>
+<span data-ttu-id="999f1-103">Ανατρέξτε στο πλήρες άρθρο [Βέλτιστες πρακτικές ερωτημάτων για προχωρημένους για](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) λεπτομερείς συστάσεις και οδηγίες σχετικά με:</span><span class="sxs-lookup"><span data-stu-id="999f1-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
+- <span data-ttu-id="999f1-104">Βελτιστοποίηση επιδόσεων ερωτήματος.</span><span class="sxs-lookup"><span data-stu-id="999f1-104">Optimizing query performance.</span></span>
+- <span data-ttu-id="999f1-105">Συμβουλές και ελλείψεις ερωτημάτων.</span><span class="sxs-lookup"><span data-stu-id="999f1-105">Query tips and pitfalls.</span></span>
+- <span data-ttu-id="999f1-106">Ερωτήματα με γραμμές εντολών.</span><span class="sxs-lookup"><span data-stu-id="999f1-106">Queries with command lines.</span></span>
 
 

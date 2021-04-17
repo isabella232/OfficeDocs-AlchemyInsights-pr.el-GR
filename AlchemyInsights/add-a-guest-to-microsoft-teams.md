@@ -1,8 +1,8 @@
 ---
-title: Προσθήκη επισκέπτη στο Microsoft teams (αυτόματη πρόταση)
+title: Προσθήκη επισκέπτη στο Microsoft Teams (Αυτόματη πρόταση)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: f5b70a2a1d462e87ee485da1da417f79dfa95f30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697305"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822779"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a><span data-ttu-id="d6081-102">Προσθήκη επισκέπτη στο Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="d6081-102">Add a guest to Microsoft Teams</span></span>
+# <a name="add-a-guest-to-microsoft-teams"></a><span data-ttu-id="91f03-102">Προσθήκη επισκέπτη στο Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="91f03-102">Add a guest to Microsoft Teams</span></span>
 
-<span data-ttu-id="d6081-103">Ορισμένες φορές, θα θέλετε να συνεργάζεστε με άτομα που δεν ανήκουν στον οργανισμό της ομάδας σας.</span><span class="sxs-lookup"><span data-stu-id="d6081-103">Sometimes you'll want to collaborate with people who aren't in your team’s organization.</span></span> <span data-ttu-id="d6081-104">Συχνά θα το κάνετε αυτό με το ηλεκτρονικό ταχυδρομείο, αλλά εάν θέλετε να συνεργαστείτε μαζί τους στο teams, μπορείτε να τα προσθέσετε ως επισκέπτες.</span><span class="sxs-lookup"><span data-stu-id="d6081-104">Often you'll be doing that in email, but if you want to collaborate with them in Teams, you can add them as guests.</span></span>
+<span data-ttu-id="91f03-103">Μερικές φορές θα θέλετε να συνεργαστείτε με άτομα που δεν είναι στον οργανισμό της ομάδας σας.</span><span class="sxs-lookup"><span data-stu-id="91f03-103">Sometimes you'll want to collaborate with people who aren't in your team’s organization.</span></span> <span data-ttu-id="91f03-104">Συχνά θα το κάνετε αυτό μέσω ηλεκτρονικού ταχυδρομείου, αλλά εάν θέλετε να συνεργαστείτε μαζί τους στο Teams, μπορείτε να τα προσθέσετε ως επισκέπτες.</span><span class="sxs-lookup"><span data-stu-id="91f03-104">Often you'll be doing that in email, but if you want to collaborate with them in Teams, you can add them as guests.</span></span>
 
-<span data-ttu-id="d6081-105">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προσθήκη προσκεκλημένων σε ομάδα στο teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span><span class="sxs-lookup"><span data-stu-id="d6081-105">For more information, see [Add guests to a team in Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span></span>
+<span data-ttu-id="91f03-105">Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προσθήκη επισκεπτών σε μια ομάδα στο Teams.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)</span><span class="sxs-lookup"><span data-stu-id="91f03-105">For more information, see [Add guests to a team in Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span></span>
 
-<span data-ttu-id="d6081-106">**Σημείωση:** Πρέπει να είστε κάτοχος ομάδας για να προσθέσετε έναν επισκέπτη στο teams (ανατρέξτε επίσης στο θέμα [Καθορισμός δικαιωμάτων επισκέπτη](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).</span><span class="sxs-lookup"><span data-stu-id="d6081-106">**Note:** You must be a team owner to add a guest in Teams (also see [Set guest permissions](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).</span></span>
+<span data-ttu-id="91f03-106">**Σημείωση:** Πρέπει να είστε κάτοχος ομάδας για να προσθέσετε έναν επισκέπτη στο Teams (ανατρέξτε επίσης στο θέμα ["Ορισμός δικαιωμάτων επισκέπτη").](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)</span><span class="sxs-lookup"><span data-stu-id="91f03-106">**Note:** You must be a team owner to add a guest in Teams (also see [Set guest permissions](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).</span></span>
