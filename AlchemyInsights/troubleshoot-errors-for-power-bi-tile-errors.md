@@ -1,8 +1,8 @@
 ---
-title: Αντιμετώπιση προβλημάτων με σενάρια ανανέωσης-σφάλματα πλακιδίων
+title: Αντιμετώπιση προβλημάτων σεναρίων ανανέωσης - Σφάλματα πλακιδίων
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690675"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834911"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="24f8a-102">Αντιμετώπιση προβλημάτων με σενάρια ανανέωσης-σφάλματα πλακιδίων</span><span class="sxs-lookup"><span data-stu-id="24f8a-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="fea2e-102">Αντιμετώπιση προβλημάτων σεναρίων ανανέωσης - Σφάλματα πλακιδίων</span><span class="sxs-lookup"><span data-stu-id="fea2e-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
 
-<span data-ttu-id="24f8a-103">Εάν αντιμετωπίζετε σφάλματα ανανέωσης πλακιδίων στην υπηρεσία Power BI, περιμένετε περίπου 10-15 λεπτά για να εμφανιστεί η ανανέωση στα πλακίδια του πίνακα εργαλείων.</span><span class="sxs-lookup"><span data-stu-id="24f8a-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="24f8a-104">Εάν εξακολουθεί να μην εμφανίζεται, Καρφιτσώστε ξανά την απεικόνιση στον πίνακα εργαλείων.</span><span class="sxs-lookup"><span data-stu-id="24f8a-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
+<span data-ttu-id="fea2e-103">Εάν αντιμετωπίσετε σφάλματα ανανέωσης πλακιδίων στην υπηρεσία Power BI, περιμένετε περίπου 10-15 λεπτά για να εμφανιστεί η ανανέωση στα πλακίδια του πίνακα εργαλείων.</span><span class="sxs-lookup"><span data-stu-id="fea2e-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="fea2e-104">Εάν εξακολουθεί να μην εμφανίζεται, καρφιτσώσετε την απεικόνιση στον πίνακα εργαλείων.</span><span class="sxs-lookup"><span data-stu-id="fea2e-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
 
-<span data-ttu-id="24f8a-105">Για περισσότερες πληροφορίες: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="24f8a-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="fea2e-105">Για περισσότερες πληροφορίες: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="fea2e-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>

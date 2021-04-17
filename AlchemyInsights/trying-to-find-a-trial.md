@@ -1,8 +1,8 @@
 ---
-title: Προσπαθείτε να εντοπίσετε μια δοκιμαστική έκδοση;
+title: Προσπαθείτε να βρείτε μια δοκιμαστική έκδοση;
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834695"
 ---
-# <a name="trying-to-find-a-trial"></a><span data-ttu-id="a6687-102">Προσπαθείτε να εντοπίσετε μια δοκιμαστική έκδοση;</span><span class="sxs-lookup"><span data-stu-id="a6687-102">Trying to find a trial?</span></span>
+# <a name="trying-to-find-a-trial"></a><span data-ttu-id="f6e0c-102">Προσπαθείτε να βρείτε μια δοκιμαστική έκδοση;</span><span class="sxs-lookup"><span data-stu-id="f6e0c-102">Trying to find a trial?</span></span>
 
-<span data-ttu-id="a6687-103">Εάν θέλετε να δοκιμάσετε μια νέα υπηρεσία, μπορείτε να βρείτε μια λίστα με τις συνδρομές που είναι διαθέσιμες για δοκιμή στο κέντρο διαχείρισης του Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a6687-103">If you would like to try a new service, you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="f6e0c-103">Εάν θέλετε να δοκιμάσετε μια νέα υπηρεσία, μπορείτε να βρείτε μια λίστα με τις συνδρομές που είναι διαθέσιμες για δοκιμαστική έκδοση στο κέντρο διαχείρισης του Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f6e0c-103">If you would like to try a new service, you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="a6687-104">Στο κέντρο διαχείρισης, μεταβείτε στη **Billing** \> σελίδα [υπηρεσίες αγοράς](https://go.microsoft.com/fwlink/p/?linkid=868433) χρεώσεων.</span><span class="sxs-lookup"><span data-stu-id="a6687-104">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="f6e0c-104">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **υπηρεσιών** \> [αγορών χρέωσης.](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="f6e0c-104">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="a6687-105">Επιλέξτε τη συνδρομή που ικανοποιεί τις ανάγκες σας και, στη συνέχεια, επιλέξτε  **λήψη δωρεάν δοκιμαστικής έκδοσης**.</span><span class="sxs-lookup"><span data-stu-id="a6687-105">Select the subscription that meets your needs, and then select  **Get free trial**.</span></span>
+2. <span data-ttu-id="f6e0c-105">Επιλέξτε τη συνδρομή που ανταποκρίνεται στις ανάγκες σας και, στη συνέχεια, επιλέξτε **Λήψη δωρεάν δοκιμαστικής έκδοσης.**</span><span class="sxs-lookup"><span data-stu-id="f6e0c-105">Select the subscription that meets your needs, and then select  **Get free trial**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="a6687-106">Δεν είναι διαθέσιμες όλες οι συνδρομές ως δοκιμαστική έκδοση.</span><span class="sxs-lookup"><span data-stu-id="a6687-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="a6687-107">Εάν δεν βλέπετε το κουμπί **λήψη δωρεάν δοκιμαστικής έκδοσης** όταν χρησιμοποιείτε το δείκτη του ποντικιού επάνω από μια συνδρομή, αυτό σημαίνει ότι δεν είναι διαθέσιμη μια δοκιμαστική έκδοση.</span><span class="sxs-lookup"><span data-stu-id="a6687-107">If you don't see the **Get free trial** button when you mouse over a subscription, that means a trial is not available.</span></span>
+    > <span data-ttu-id="f6e0c-106">Δεν είναι όλες οι συνδρομές διαθέσιμες ως δοκιμαστική έκδοση.</span><span class="sxs-lookup"><span data-stu-id="f6e0c-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="f6e0c-107">Εάν δεν βλέπετε το κουμπί "Λήψη **δωρεάν** δοκιμαστικής έκδοσης" όταν χρησιμοποιείτε το ποντίκι επάνω από μια συνδρομή, αυτό σημαίνει ότι μια δοκιμαστική έκδοση δεν είναι διαθέσιμη.</span><span class="sxs-lookup"><span data-stu-id="f6e0c-107">If you don't see the **Get free trial** button when you mouse over a subscription, that means a trial is not available.</span></span>
   
-3. <span data-ttu-id="a6687-108">Μπορεί να σας ζητηθεί να εισαγάγετε μια πιστωτική κάρτα ή άλλον τρόπο πληρωμής για να παράσχετε πρόσθετη επαλήθευση ως μέτρο ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="a6687-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="a6687-109">Δεν θα χρεωθείτε για αυτή τη δωρεάν δοκιμαστική έκδοση.</span><span class="sxs-lookup"><span data-stu-id="a6687-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="a6687-110">Θα διατηρήσουμε τα στοιχεία πληρωμής σας σε αρχείο και δεν θα τα χρησιμοποιήσουμε για οποιαδήποτε αγορά χωρίς την έγκρισή σας.</span><span class="sxs-lookup"><span data-stu-id="a6687-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
+3. <span data-ttu-id="f6e0c-108">Ενδέχεται να σας ζητηθεί να εισαγάγετε μια πιστωτική κάρτα ή άλλη μέθοδο πληρωμής για την παροχή πρόσθετης επαλήθευσης ως μέτρο ασφαλείας.</span><span class="sxs-lookup"><span data-stu-id="f6e0c-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="f6e0c-109">Δεν θα χρεωθείτε για αυτήν τη δωρεάν δοκιμαστική έκδοση.</span><span class="sxs-lookup"><span data-stu-id="f6e0c-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="f6e0c-110">Θα κρατήσουμε τα στοιχεία πληρωμής σας στο αρχείο και δεν θα τα χρησιμοποιήσουμε για οποιαδήποτε αγορά χωρίς την έγκρισή σας.</span><span class="sxs-lookup"><span data-stu-id="f6e0c-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
 
-4. <span data-ttu-id="a6687-111">Επιλέξτε **δοκιμή τώρα**.</span><span class="sxs-lookup"><span data-stu-id="a6687-111">Choose **Try now**.</span></span>
+4. <span data-ttu-id="f6e0c-111">Επιλέξτε **"Δοκιμή τώρα".**</span><span class="sxs-lookup"><span data-stu-id="f6e0c-111">Choose **Try now**.</span></span>
