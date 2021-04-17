@@ -1,23 +1,24 @@
 ---
-title: Εγκατάσταση του Teams ως αυτόνομου ή με νέες εγκαταστάσεις του Office
+title: Εγκατάσταση του Teams ως μεμονωμένο πρόγραμμα ή με νέες εγκαταστάσεις του Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: d0e0f2ecace065d9f56b8eebc4bc6eb54879cfc5
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357724"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832022"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Εγκατάσταση του Teams ως αυτόνομου ή με νέες εγκαταστάσεις του Office
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Εγκατάσταση του Teams ως μεμονωμένο πρόγραμμα ή με νέες εγκαταστάσεις του Office
 
-Ανατρέξτε [εδώ](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) για πληροφορίες σχετικά με τον τρόπο ανάπτυξης ομάδων στον οργανισμό σας.
+Ανατρέξτε [εδώ](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) για πληροφορίες σχετικά με τον τρόπο ανάπτυξης του Teams στον οργανισμό σας.

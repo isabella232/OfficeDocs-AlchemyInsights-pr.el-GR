@@ -1,8 +1,8 @@
 ---
-title: OneNote-καταγραφή σφαλμάτων κατά το Άνοιγμα σημειωματαρίων
+title: OneNote - Σφάλματα σύνδεσης κατά το άνοιγμα σημειωματαρίων
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c5800abb7e6446b935551858c6c7864c4d9f0aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832670"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>Προβλήματα κατά την είσοδο σε σημειωματάρια του OneNote
 
 Εάν λάβετε σφάλματα σύνδεσης ή κωδικού πρόσβασης όταν προσπαθείτε να ανοίξετε το σημειωματάριό σας, δοκιμάστε τα εξής:
 
-- Εάν το σημειωματάριο που δεν ανοίγει είναι αποθηκευμένο στο OneDrive ή στο SharePoint Online, δοκιμάστε να ανοίξετε το σημειωματάριο στο OneNote για το Web (στο www.onenote.com). Εάν το σημειωματάριο δεν εμφανίζεται στη λίστα, ενδέχεται να μην έχετε δικαιώματα για αυτό. Εάν πρόκειται για ένα κοινόχρηστο σημειωματάριο, ζητήστε από τον κάτοχο να το μοιραστεί και βεβαιωθείτε ότι χρησιμοποιείτε τον σωστό λογαριασμό για να συνδεθείτε.
+- Εάν το σημειωματάριο που δεν ανοίγει είναι αποθηκευμένο στο OneDrive ή το SharePoint Online, δοκιμάστε να ανοίξετε το σημειωματάριο στο OneNote για το web (στο www.onenote.com). Εάν το σημειωματάριο δεν εμφανίζεται, ενδέχεται να μην έχετε δικαιώματα σε αυτό. Εάν πρόκειται για κοινόχρηστο σημειωματάριο, ζητήστε από τον κάτοχο να κάνει κοινή χρήση του και βεβαιωθείτε ότι χρησιμοποιείτε τον σωστό λογαριασμό για να συνδεθείτε.
 
-- Εάν το σημειωματάριο ανοίγει στο OneNote για το Web, βεβαιωθείτε ότι συνδέεστε με τα τρέχοντα διαπιστευτήρια στο OneNote. 
+- Εάν το σημειωματάριο ανοίξει στο OneNote για το web, βεβαιωθείτε ότι συνδέεστε με τρέχοντα διαπιστευτήρια στο OneNote. 
 
-- Καταργήστε τα [διαπιστευτήρια του Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) χρησιμοποιώντας τη [Διαχείριση διαπιστευτηρίων των Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Καταργήστε [τα διαπιστευτήρια του Office χρησιμοποιώντας](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) τη Διαχείριση [διαπιστευτηρίων των Windows.](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager)
 
-- Στο OneNote 2016, επιλέξτε **File**  >  **λογαριασμός** αρχείου και **αποσυνδεθείτε** από όλους τους λογαριασμούς. Πραγματοποιήστε είσοδο ξανά χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Στο OneNote 2016, επιλέξτε "Λογαριασμός   >  **αρχείου" και** **"Αποσυνδεθείτε" από** όλους τους λογαριασμούς. Πραγματοποιήστε ξανά είσοδο χρησιμοποιώντας ένα λογαριασμό χρήστη με έγκυρη άδεια χρήσης. Για περισσότερες λεπτομέρειες, ανατρέξτε στο θέμα [Λογαριασμοί στο Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Στο OneNote για Windows, επιλέξτε την έλλειψη (**...**) στην επάνω δεξιά γωνία της οθόνης, επιλέξτε λογαριασμοί **ρυθμίσεων**  >  **Accounts**και βεβαιωθείτε ότι εμφανίζεται ένας λογαριασμός εργασίας ή σχολείου.
+- Στο OneNote για Windows, επιλέξτε τα αποσιωπηματα (**...**) στην επάνω δεξιά πλευρά της οθόνης, επιλέξτε "Ρυθμίσεις λογαριασμών" και βεβαιωθείτε ότι υπάρχει ένας λογαριασμός εργασίας   >  ή σχολείου.
