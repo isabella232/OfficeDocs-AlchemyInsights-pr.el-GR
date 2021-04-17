@@ -1,8 +1,8 @@
 ---
-title: Λειτουργίες Intune και συσκευών
+title: Ενέργειες intune και συσκευής
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: ac8b489bc0f1799c13b7861ceb69dfc320cfc297
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982494"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824075"
 ---
-# <a name="intune-and-device-actions"></a><span data-ttu-id="e5d9b-102">Λειτουργίες Intune και συσκευών</span><span class="sxs-lookup"><span data-stu-id="e5d9b-102">Intune and Device Actions</span></span>
+# <a name="intune-and-device-actions"></a><span data-ttu-id="89438-102">Ενέργειες intune και συσκευής</span><span class="sxs-lookup"><span data-stu-id="89438-102">Intune and Device Actions</span></span>
 
-<span data-ttu-id="e5d9b-103">Το Intune παρέχει στους διαχειριστές τη δυνατότητα απομακρυσμένης εκτέλεσης ενεργειών συσκευής.</span><span class="sxs-lookup"><span data-stu-id="e5d9b-103">Intune gives admins the ability to remotely run device actions.</span></span> <span data-ttu-id="e5d9b-104">Με τη χρήση αυτών των απομακρυσμένων ενεργειών από την πύλη του Intune, μπορείτε να επανεκκινήσετε συσκευές, να επαναφέρετε κωδικούς πρόσβασης, να εντοπίσετε χαμένες ή κλεμμένες συσκευές και πολλά άλλα.</span><span class="sxs-lookup"><span data-stu-id="e5d9b-104">By using these remote actions from the Intune portal, you can restart devices, reset passcodes, locate lost or stolen devices, and more.</span></span> <span data-ttu-id="e5d9b-105">Εξετάστε την [πύλη ενεργειών συσκευής](https://docs.microsoft.com/mem/intune/remote-actions/) για να μάθετε περισσότερα.</span><span class="sxs-lookup"><span data-stu-id="e5d9b-105">Review the [Device Action portal](https://docs.microsoft.com/mem/intune/remote-actions/) to learn more.</span></span>
+<span data-ttu-id="89438-103">Το Intune παρέχει στους διαχειριστές τη δυνατότητα απομακρυσμένης εκτέλεσης ενεργειών συσκευής.</span><span class="sxs-lookup"><span data-stu-id="89438-103">Intune gives admins the ability to remotely run device actions.</span></span> <span data-ttu-id="89438-104">Χρησιμοποιώντας αυτές τις απομακρυσμένες ενέργειες από την πύλη Intune, μπορείτε να επανεκκινήσετε συσκευές, να επαναφέρετε κωδικούς πρόσβασης, να εντοπίσετε συσκευές που έχουν χαθεί ή κλαπεί και πολλά άλλα.</span><span class="sxs-lookup"><span data-stu-id="89438-104">By using these remote actions from the Intune portal, you can restart devices, reset passcodes, locate lost or stolen devices, and more.</span></span> <span data-ttu-id="89438-105">Ελέγξτε την πύλη [ενέργειας συσκευής για](https://docs.microsoft.com/mem/intune/remote-actions/) να μάθετε περισσότερα.</span><span class="sxs-lookup"><span data-stu-id="89438-105">Review the [Device Action portal](https://docs.microsoft.com/mem/intune/remote-actions/) to learn more.</span></span>

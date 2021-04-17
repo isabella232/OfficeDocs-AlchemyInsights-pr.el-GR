@@ -2,7 +2,7 @@
 title: Ενεργοποίηση του Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 86be2685a37744bf29ca4fb1221e57906b597368
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5e8b0c5cf948c1a903c178856dad0c524624e7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698502"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823139"
 ---
-# <a name="activate-office"></a><span data-ttu-id="bb30b-102">Ενεργοποίηση του Office</span><span class="sxs-lookup"><span data-stu-id="bb30b-102">Activate Office</span></span>
+# <a name="activate-office"></a><span data-ttu-id="f5348-102">Ενεργοποίηση του Office</span><span class="sxs-lookup"><span data-stu-id="f5348-102">Activate Office</span></span>
 
-<span data-ttu-id="bb30b-103">Μπορείτε να ενεργοποιήσετε το Office πραγματοποιώντας είσοδο χρησιμοποιώντας τον εταιρικό ή σχολικό λογαριασμό σας.</span><span class="sxs-lookup"><span data-stu-id="bb30b-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="bb30b-104">Χρησιμοποιήστε τα βήματα σε αυτό το άρθρο για να ενεργοποιήσετε το Office: [Ενεργοποίηση του Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span><span class="sxs-lookup"><span data-stu-id="bb30b-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
+<span data-ttu-id="f5348-103">Μπορείτε να ενεργοποιήσετε το Office πραγματοποιώντας είσοδο χρησιμοποιώντας τον σχολικό ή τον σχολικό λογαριασμό σας.</span><span class="sxs-lookup"><span data-stu-id="f5348-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="f5348-104">Ακολουθήστε τα βήματα σε αυτό το άρθρο για να ενεργοποιήσετε το Office: [Ενεργοποίηση του Office.](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)</span><span class="sxs-lookup"><span data-stu-id="f5348-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
   
