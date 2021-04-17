@@ -1,8 +1,8 @@
 ---
-title: Εγκατάσταση του Skype για επιχείρηση
+title: Εγκατάσταση του Skype για επιχειρήσεις
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51e9c110fd1874d688b92e1d8098186eddf29953
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778259"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832058"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="cfbd5-102">Εγκατάσταση του Skype για επιχείρηση</span><span class="sxs-lookup"><span data-stu-id="cfbd5-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="c3cb0-102">Εγκατάσταση του Skype για επιχειρήσεις</span><span class="sxs-lookup"><span data-stu-id="c3cb0-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="cfbd5-103">Μπορείτε να εγκαταστήσετε το Skype για επιχείρηση ακολουθώντας τα βήματα  [εδώ](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span><span class="sxs-lookup"><span data-stu-id="cfbd5-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
+<span data-ttu-id="c3cb0-103">Μπορείτε να εγκαταστήσετε το Skype για επιχειρήσεις ακολουθώντας τα βήματα [εδώ.](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="c3cb0-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
 
-<span data-ttu-id="cfbd5-104">Για πληροφορίες σχετικά με την κατάργηση της εγκατάστασης, ανατρέξτε στο θέμα [Κατάργηση εγκατάστασης του Skype για επιχείρηση](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span><span class="sxs-lookup"><span data-stu-id="cfbd5-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
+<span data-ttu-id="c3cb0-104">Για πληροφορίες σχετικά με την κατάργηση εγκατάστασης, ανατρέξτε στο θέμα [Κατάργηση εγκατάστασης του Skype για επιχειρήσεις.](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)</span><span class="sxs-lookup"><span data-stu-id="c3cb0-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
