@@ -2,7 +2,7 @@
 title: Σφάλματα δικαιωμάτων του SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653396"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826595"
 ---
-# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="33e73-102">Σφάλματα δικαιωμάτων του SharePoint</span><span class="sxs-lookup"><span data-stu-id="33e73-102">SharePoint permissions errors</span></span>
+# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="dc780-102">Σφάλματα δικαιωμάτων του SharePoint</span><span class="sxs-lookup"><span data-stu-id="dc780-102">SharePoint permissions errors</span></span>
 
-<span data-ttu-id="33e73-103">Υπάρχουν πολλά σενάρια που μπορούν να προτρέπουν ένα από αυτά τα μηνύματα.</span><span class="sxs-lookup"><span data-stu-id="33e73-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="33e73-104">Πιο συχνά, τα δικαιώματα για το χρήστη ή το διαχειριστή έχουν ρυθμιστεί εσφαλμένα ή δεν έχουν ρυθμιστεί καθόλου.</span><span class="sxs-lookup"><span data-stu-id="33e73-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
+<span data-ttu-id="dc780-103">Υπάρχουν πολλά σενάρια που μπορούν να προτροπούν ένα από αυτά τα μηνύματα.</span><span class="sxs-lookup"><span data-stu-id="dc780-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="dc780-104">Τις περισσότερες φορές, οι παράμετροι των δικαιωμάτων για το χρήστη ή το διαχειριστή δεν έχουν ρυθμιστεί σωστά ή δεν έχουν ρυθμιστεί καθόλου.</span><span class="sxs-lookup"><span data-stu-id="dc780-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
 
-<span data-ttu-id="33e73-105">Για περισσότερες πληροφορίες, ανατρέξτε στο[θέμα "δεν επιτρέπεται η πρόσβαση", "χρειάζεστε άδεια για να αποκτήσετε πρόσβαση σε αυτήν την τοποθεσία" ή "ο χρήστης δεν βρέθηκε στον κατάλογο" σφάλματα στο SharePoint Online και το OneDrive για την επιχείρηση](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span><span class="sxs-lookup"><span data-stu-id="33e73-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
+<span data-ttu-id="dc780-105">Για περισσότερες πληροφορίες, ανατρέξτε στα σφάλματα "Δεν επιτρέπεται η πρόσβαση", "Χρειάζεστε δικαιώματα πρόσβασης σε αυτήν την τοποθεσία" ή "Ο χρήστης δεν βρέθηκε στον κατάλογο" στο[SharePoint Online και το OneDrive για επιχειρήσεις.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)</span><span class="sxs-lookup"><span data-stu-id="dc780-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
