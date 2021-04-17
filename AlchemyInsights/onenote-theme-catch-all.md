@@ -1,8 +1,8 @@
 ---
-title: Το θέμα του OneNote πιάνει όλα
+title: Θέμα του OneNote για όλα
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: d37f114c8349bcd1d6c3c2d896c54f3a31fada66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729151"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831518"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="8ec7a-102">Συνηθισμένα προβλήματα και αναλύσεις με το OneNote</span><span class="sxs-lookup"><span data-stu-id="8ec7a-102">Common issues and resolutions with OneNote</span></span>
+# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="f9a53-102">Συνήθη προβλήματα και λύσεις με το OneNote</span><span class="sxs-lookup"><span data-stu-id="f9a53-102">Common issues and resolutions with OneNote</span></span>
 
-<span data-ttu-id="8ec7a-103">Ακολουθούν ορισμένα θέματα του OneNote που ζητούνται συχνά:</span><span class="sxs-lookup"><span data-stu-id="8ec7a-103">Here are some frequently requested OneNote topics:</span></span>
+<span data-ttu-id="f9a53-103">Ακολουθούν ορισμένα θέματα που ζητούνται συχνά από το OneNote:</span><span class="sxs-lookup"><span data-stu-id="f9a53-103">Here are some frequently requested OneNote topics:</span></span>
 
-- <span data-ttu-id="8ec7a-104">[Επιδιόρθωση προβλημάτων συγχρονισμού](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -για να αντιμετωπίσετε τα πιο συνηθισμένα προβλήματα που σχετίζονται με το συγχρονισμό του OneNote, χρησιμοποιήστε τα βήματα για να [διορθώσετε προβλήματα όταν δεν μπορείτε να συγχρονίσετε το OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span><span class="sxs-lookup"><span data-stu-id="8ec7a-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
+- <span data-ttu-id="f9a53-104">[Διορθώστε προβλήματα συγχρονισμού](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - για να επιλύσετε τα πιο συνηθισμένα προβλήματα που σχετίζονται με το συγχρονισμό του OneNote, ακολουθήστε τα βήματα στην επιλογή "Επιδιόρθωση προβλημάτων" όταν [δεν μπορείτε να συγχρονίσετε το OneNote.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)</span><span class="sxs-lookup"><span data-stu-id="f9a53-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
 
-- <span data-ttu-id="8ec7a-105">Χρήση [του OneNote στο teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span><span class="sxs-lookup"><span data-stu-id="8ec7a-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span></span> 
+- <span data-ttu-id="f9a53-105">Χρήση [του OneNote στο Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span><span class="sxs-lookup"><span data-stu-id="f9a53-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span></span> 
 
-- <span data-ttu-id="8ec7a-106">[Χρησιμοποιήστε το σημειωματάριο τάξης του OneNote στο teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) απαντήσεις σε ερωτήσεις σχετικά με τη ρύθμιση ενός σημειωματάριου τάξης στο teams.</span><span class="sxs-lookup"><span data-stu-id="8ec7a-106">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
+- <span data-ttu-id="f9a53-106">[Χρησιμοποιήστε το Σημειωματάριο τάξης του OneNote στο Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) για να απαντάτε σε ερωτήσεις σχετικά με τη ρύθμιση ενός Σημειωματάριου τάξης στο Teams.</span><span class="sxs-lookup"><span data-stu-id="f9a53-106">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
 
-- <span data-ttu-id="8ec7a-107">[Μετακίνηση σημειωματαρίου στο cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span><span class="sxs-lookup"><span data-stu-id="8ec7a-107">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
+- <span data-ttu-id="f9a53-107">[Μετακίνηση σημειωματαρίου στο cloud.](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)</span><span class="sxs-lookup"><span data-stu-id="f9a53-107">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
 
-- <span data-ttu-id="8ec7a-108">[Αντιμετώπιση προβλημάτων με τη μετακίνηση σημειωματαρίων στο cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span><span class="sxs-lookup"><span data-stu-id="8ec7a-108">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
+- <span data-ttu-id="f9a53-108">[Αντιμετώπιση προβλημάτων μετακίνησης σημειωματαρίων στο cloud.](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)</span><span class="sxs-lookup"><span data-stu-id="f9a53-108">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
 
-- <span data-ttu-id="8ec7a-109">[Εγκατάσταση του onenote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -ξεκινώντας από τον μάρτιο του 2020, όταν εγκαθιστάτε το Office 365 ή το Office 2019, η εφαρμογή υπολογιστή OneNote θα εγκατασταθεί μαζί με τις εφαρμογές του Word, του PowerPoint και του Excel για υπολογιστή.</span><span class="sxs-lookup"><span data-stu-id="8ec7a-109">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
+- <span data-ttu-id="f9a53-109">[Εγκατάσταση του OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) - Από τον Μάρτιο του 2020, όταν εγκαθιστάτε το Office 365 ή το Office 2019, η εφαρμογή υπολογιστή OneNote θα εγκατασταθεί μαζί με τις εφαρμογές υπολογιστή Word, PowerPoint και Excel.</span><span class="sxs-lookup"><span data-stu-id="f9a53-109">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
 
-- <span data-ttu-id="8ec7a-110">[Εξαγωγή και εισαγωγή σημειωματαρίων του OneNote](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span><span class="sxs-lookup"><span data-stu-id="8ec7a-110">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
+- <span data-ttu-id="f9a53-110">[Εξαγωγή και εισαγωγή σημειωματαρίων του OneNote.](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)</span><span class="sxs-lookup"><span data-stu-id="f9a53-110">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
