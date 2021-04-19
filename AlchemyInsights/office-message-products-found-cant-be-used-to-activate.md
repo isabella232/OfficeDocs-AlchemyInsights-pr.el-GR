@@ -1,24 +1,25 @@
 ---
-title: Μήνυμα εφαρμογών του Office - Τα προϊόντα που βρέθηκαν στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για την ενεργοποίηση
+title: Μήνυμα εφαρμογών του Microsoft 365 - Τα προϊόντα που βρέθηκαν στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για ενεργοποίηση
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 6b44c63c3e56b5c748e4d4d4d5bb54a74c32561c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010731"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832922"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Μήνυμα εφαρμογών του Office - Τα προϊόντα που βρέθηκαν στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για την ενεργοποίηση
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Μήνυμα εφαρμογών του Microsoft 365 - Τα προϊόντα που βρέθηκαν στο λογαριασμό σας δεν μπορούν να χρησιμοποιηθούν για ενεργοποίηση
 
 - Βεβαιωθείτε ότι η [κατάσταση της συνδρομής σας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) είναι έγκυρη και ότι ο χρήσης που έχει επηρεαστεί [έχει εκχωρημένη μια έγκυρη άδεια χρήσης](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) και είναι συνδεδεμένος στο Internet. 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44010731"
 
 - Εκτελέστε το πρόγραμμα [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) και επανεκκινήστε τον υπολογιστή.
 
-- Στον υπολογιστή που επηρεάζεται, [Επαναφορά κατάστασης ενεργοποίησης του Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Στον υπολογιστή που επηρεάζεται, [Επαναφορά κατάστασης ενεργοποίησης του Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Για τα σενάρια κοινόχρηστων υπολογιστών, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων σχετικά με την ενεργοποίηση κοινόχρηστων υπολογιστών για τις εφαρμογές Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
