@@ -1,40 +1,41 @@
 ---
-title: Χρήση της SIP SKD
+title: Χρήση του MIP SKD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770955"
 ---
-# <a name="using-mip-skd"></a>Χρήση της SIP SKD
+# <a name="using-mip-skd"></a>Χρήση του MIP SKD
 
-Για να χρησιμοποιήσετε το SDK MIP, υπάρχουν αρκετά βήματα που απαιτούνται για την εγκατάσταση και τη ρύθμιση παραμέτρων της συνδρομής σας στο Office 365 και του σταθμού εργασίας υπολογιστή-πελάτη. Αυτά τα βήματα περιλαμβάνουν:
+Για να χρησιμοποιήσετε το SDK MIP, απαιτούνται διάφορα βήματα για τη ρύθμιση και τη ρύθμιση των παραμέτρων της συνδρομής σας στο Office 365 και του σταθμού εργασίας προγράμματος-πελάτη. Αυτά τα βήματα περιλαμβάνουν τα εξής:
 
 - Εγγραφείτε για μια συνδρομή στο Office 365.
 - Ρύθμιση παραμέτρων ετικετών ευαισθησίας.
-- Ρυθμίστε τις παραμέτρους του σταθμού εργασίας του υπολογιστή-πελάτη.
-- Καταχωρήστε μια εφαρμογή προγράμματος-πελάτη στην υπηρεσία καταλόγου Azure Active Directory.
-- Αίτηση συμφωνίας ενσωμάτωσης στην προστασία των πληροφοριών (IPIA).
+- Ρυθμίστε τις παραμέτρους του σταθμού εργασίας του προγράμματος-πελάτη.
+- Καταχωρήστε μια εφαρμογή-πελάτη με το Azure Active Directory.
+- Αίτηση σύμβασης ενοποίησης προστασίας πληροφοριών (IPIA).
 - Βεβαιωθείτε ότι η εφαρμογή σας έχει τον απαιτούμενο χρόνο εκτέλεσης.
 
-Για περισσότερες πληροφορίες σχετικά με τα βήματα αυτών, [ανατρέξτε στο θέμα Ρύθμιση και Ρύθμιση παραμέτρων SDK MIP](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Για περισσότερες πληροφορίες σχετικά με αυτά τα βήματα, ανατρέξτε στο θέμα [Ρύθμιση και ρύθμιση παραμέτρων MIP SDK.](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 
-Για πρόσθετους πόρους, ανατρέξτε στα θέματα:
+Για πρόσθετους πόρους, ανατρέξτε στο θέμα:
 
 - [Τεκμηρίωση SDK προστασίας πληροφοριών της Microsoft](https://docs.microsoft.com/information-protection/develop/)
-- [Οδηγός προγραμματιστή προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Οδηγός προγραμματιστή για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
 - [Λήψη του Κιτ ανάπτυξης λογισμικού προστασίας πληροφοριών της Microsoft](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Εγκατάσταση και ρύθμιση παραμέτρων SDK προστασίας πληροφοριών της Microsoft (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Ρύθμιση και ρύθμιση παραμέτρων SDK για την Προστασία πληροφοριών της Microsoft (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 - [Δείγματα κώδικα Azure για SDK MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
