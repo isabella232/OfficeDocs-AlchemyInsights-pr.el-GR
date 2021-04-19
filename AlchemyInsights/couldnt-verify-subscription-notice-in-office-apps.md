@@ -1,37 +1,38 @@
 ---
-title: Ειδοποίηση Δεν ήταν δυνατή η επαλήθευση της συνδρομής στις εφαρμογές του Office
+title: Δεν ήταν η επαλήθευση ειδοποίησης συνδρομής σε εφαρμογές του Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788774"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816452"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a><span data-ttu-id="efc5b-102">Ειδοποίηση "Δεν ήταν δυνατή η επαλήθευση της συνδρομής" στις εφαρμογές του Office</span><span class="sxs-lookup"><span data-stu-id="efc5b-102">"Couldn't verify subscription" notice in Office apps</span></span>
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a><span data-ttu-id="37c07-102">Ειδοποίηση "Δεν ήταν επαλήθευση συνδρομής" στις εφαρμογές του Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="37c07-102">"Couldn't verify subscription" notice in Microsoft 365 apps</span></span>
 
-- <span data-ttu-id="efc5b-103">Βεβαιωθείτε ότι η [κατάσταση της συνδρομής σας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) είναι έγκυρη και ότι ο χρήσης που έχει επηρεαστεί [έχει εκχωρημένη μια έγκυρη άδεια χρήσης](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) και είναι συνδεδεμένος στο Internet.</span><span class="sxs-lookup"><span data-stu-id="efc5b-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid, the affected user has [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), and is connected to the Internet.</span></span>
+- <span data-ttu-id="37c07-103">Βεβαιωθείτε ότι η [κατάσταση της συνδρομής σας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) είναι έγκυρη και ότι ο χρήσης που έχει επηρεαστεί [έχει εκχωρημένη μια έγκυρη άδεια χρήσης](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) και είναι συνδεδεμένος στο Internet.</span><span class="sxs-lookup"><span data-stu-id="37c07-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid, the affected user has [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), and is connected to the Internet.</span></span>
 
-- <span data-ttu-id="efc5b-104">Επισκεφθείτε τη [σελίδα εύρυθμης λειτουργίας των υπηρεσιών του Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε αν υπάρχουν γνωστά προβλήματα με την υπηρεσία.</span><span class="sxs-lookup"><span data-stu-id="efc5b-104">Check the [Microsoft 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+- <span data-ttu-id="37c07-104">Επισκεφθείτε τη [σελίδα εύρυθμης λειτουργίας των υπηρεσιών του Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) για να δείτε αν υπάρχουν γνωστά προβλήματα με την υπηρεσία.</span><span class="sxs-lookup"><span data-stu-id="37c07-104">Check the [Microsoft 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
 
-- <span data-ttu-id="efc5b-105">[Ελέγξτε το τείχος προστασίας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Ελέγξτε το λογισμικό προστασίας από ιούς](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Ελέγξτε τις ρυθμίσεις του διακομιστή μεσολάβησης](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) στο μηχάνημα που επηρεάζεται.</span><span class="sxs-lookup"><span data-stu-id="efc5b-105">[Check your firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Check your antivirus software](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Check your proxy settings](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) on the affected machine.</span></span>
+- <span data-ttu-id="37c07-105">[Ελέγξτε το τείχος προστασίας](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Ελέγξτε το λογισμικό προστασίας από ιούς](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Ελέγξτε τις ρυθμίσεις του διακομιστή μεσολάβησης](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) στο μηχάνημα που επηρεάζεται.</span><span class="sxs-lookup"><span data-stu-id="37c07-105">[Check your firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Check your antivirus software](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Check your proxy settings](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) on the affected machine.</span></span>
 
-- <span data-ttu-id="efc5b-106">Εκτελέστε το πρόγραμμα [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) και επανεκκινήστε τον υπολογιστή.</span><span class="sxs-lookup"><span data-stu-id="efc5b-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
+- <span data-ttu-id="37c07-106">Εκτελέστε το πρόγραμμα [Αντιμετώπιση προβλημάτων ενεργοποίησης](https://aka.ms/SARA-OfficeActivation-Alchemy) και επανεκκινήστε τον υπολογιστή.</span><span class="sxs-lookup"><span data-stu-id="37c07-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
 
-- <span data-ttu-id="efc5b-107">Στον υπολογιστή που επηρεάζεται, [Επαναφορά κατάστασης ενεργοποίησης του Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).</span><span class="sxs-lookup"><span data-stu-id="efc5b-107">On the affected machine, [Reset Office activation state](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).</span></span>
+- <span data-ttu-id="37c07-107">Στον υπολογιστή που επηρεάζεται, [Επαναφορά κατάστασης ενεργοποίησης του Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="37c07-107">On the affected machine, [Reset Office activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
 
-<span data-ttu-id="efc5b-108">Για λεπτομερείς οδηγίες, ανατρέξτε στο θέμα:</span><span class="sxs-lookup"><span data-stu-id="efc5b-108">For detailed instructions, see:</span></span> 
+<span data-ttu-id="37c07-108">Για λεπτομερείς οδηγίες, ανατρέξτε στο θέμα:</span><span class="sxs-lookup"><span data-stu-id="37c07-108">For detailed instructions, see:</span></span> 
 
-[<span data-ttu-id="efc5b-109">Εμφανίζεται μια ειδοποίηση συνδρομής όταν ανοίγω μια εφαρμογή του Office 365</span><span class="sxs-lookup"><span data-stu-id="efc5b-109">A subscription notice appears when I open an Office 365 application</span></span>](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[<span data-ttu-id="37c07-109">Εμφανίζεται μια ειδοποίηση συνδρομής όταν ανοίγω μια εφαρμογή του Office 365</span><span class="sxs-lookup"><span data-stu-id="37c07-109">A subscription notice appears when I open an Office 365 application</span></span>](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
-[<span data-ttu-id="efc5b-110">Αντιμετώπιση προβλημάτων με την ενεργοποίηση του Office</span><span class="sxs-lookup"><span data-stu-id="efc5b-110">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+[<span data-ttu-id="37c07-110">Αντιμετώπιση προβλημάτων με την ενεργοποίηση του Office</span><span class="sxs-lookup"><span data-stu-id="37c07-110">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
