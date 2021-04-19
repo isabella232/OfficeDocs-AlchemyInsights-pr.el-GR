@@ -1,8 +1,8 @@
 ---
-title: Εγγραφές σύσκεψης ομάδων στο OneDrive
+title: Εγγραφές συσκέψεων του Teams στο OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807417"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810268"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Εγγραφές σύσκεψης ομάδων στο OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Εγγραφές συσκέψεων του Teams στο OneDrive
 
-Το Microsoft teams διαθέτει μια νέα μέθοδο για την αποθήκευση εγγραφών σύσκεψης. Ως η πρώτη φάση μιας μετάβασης από την κλασική ροή της Microsoft στη [νέα ροή](https://docs.microsoft.com/stream/streamnew/new-stream), αυτή η μέθοδος αποθηκεύει εγγραφές στο Microsoft OneDrive για επιχειρηματικές δραστηριότητες και στο SharePoint στο Microsoft 365 και προσφέρει πολλά πλεονεκτήματα.  
+Το Microsoft Teams διαθέτει μια νέα μέθοδο για την αποθήκευση εγγραφών συσκέψεων. Ως πρώτη φάση μιας μετάβασης από το κλασικό Microsoft Stream στο νέο [Stream,](https://docs.microsoft.com/stream/streamnew/new-stream)αυτή η μέθοδος αποθηκεύει εγγραφές στο Microsoft OneDrive για επιχειρήσεις και το SharePoint στο Microsoft 365 και προσφέρει πολλά πλεονεκτήματα.  
 
-- [Ρύθμιση της επιλογής εγγραφής σύσκεψης για το OneDrive για την επιχείρηση και το SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Εξαίρεση από το OneDrive για την επιχείρηση και το SharePoint για να συνεχίσετε να χρησιμοποιείτε τη ροή](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Ρύθμιση της επιλογής εγγραφής σύσκεψης για το OneDrive για επιχειρήσεις και το SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Εξαίρεση από το OneDrive για επιχειρήσεις και το SharePoint για να συνεχίσετε να χρησιμοποιείτε τη Ροή](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Συνήθεις ερωτήσεις](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)
