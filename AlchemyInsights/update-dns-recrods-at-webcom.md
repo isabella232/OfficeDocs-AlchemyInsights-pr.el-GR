@@ -1,26 +1,27 @@
 ---
-title: Ενημέρωση εγγραφών DNS στο Web.com
+title: Ενημέρωση εγγραφών DNS σε Web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5808"
-ms.openlocfilehash: bbfbdf26a884c2daba819a0e5cb4152f5764e5d6
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 7cf4e49b35efb29076abb2bb02ca83156ec41cef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827517"
 ---
-# <a name="update-dns-records-at-webcom"></a><span data-ttu-id="be9af-102">Ενημέρωση εγγραφών DNS στο Web.com</span><span class="sxs-lookup"><span data-stu-id="be9af-102">Update DNS records at Web.com</span></span>
+# <a name="update-dns-records-at-webcom"></a><span data-ttu-id="e9713-102">Ενημέρωση εγγραφών DNS σε Web.com</span><span class="sxs-lookup"><span data-stu-id="e9713-102">Update DNS records at Web.com</span></span>
 
-<span data-ttu-id="be9af-103">Χρησιμοποιήστε τις παρακάτω συνδέσεις για να ενημερώσετε τις εγγραφές DNS.</span><span class="sxs-lookup"><span data-stu-id="be9af-103">Use the links below to help update your DNS records.</span></span>
+<span data-ttu-id="e9713-103">Χρησιμοποιήστε τις παρακάτω συνδέσεις για να ενημερώσετε τις εγγραφές DNS.</span><span class="sxs-lookup"><span data-stu-id="e9713-103">Use the links below to help update your DNS records.</span></span>
 
-- [<span data-ttu-id="be9af-104">Δημιουργία εγγραφών DNS στο Web.com</span><span class="sxs-lookup"><span data-stu-id="be9af-104">Create DNS records at Web.com</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
-- [<span data-ttu-id="be9af-105">Προσθήκη ή επεξεργασία προσαρμοσμένων εγγραφών DNS στο Office 365</span><span class="sxs-lookup"><span data-stu-id="be9af-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="e9713-104">Δημιουργία εγγραφών DNS στο Web.com</span><span class="sxs-lookup"><span data-stu-id="e9713-104">Create DNS records at Web.com</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
+- [<span data-ttu-id="e9713-105">Προσθήκη ή επεξεργασία προσαρμοσμένων εγγραφών DNS στο Office 365</span><span class="sxs-lookup"><span data-stu-id="e9713-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
