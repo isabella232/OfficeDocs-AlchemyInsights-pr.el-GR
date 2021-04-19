@@ -2,24 +2,25 @@
 title: Αποκλεισμός λήψης σε συνδέσεις κοινής χρήσης
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820250"
 ---
 # <a name="block-download-on-sharing-links"></a>Αποκλεισμός λήψης σε συνδέσεις κοινής χρήσης
 
-**Η λήψη αποκλεισμού** είναι διαθέσιμη για **συνδέσεις μόνο για προβολή σε** έγγραφα του Office. Όταν κάνετε αυτήν την επιλογή, τα άτομα που αποκτούν πρόσβαση στο αρχείο μέσω της σύνδεσης που δημιουργήσατε δεν θα βλέπουν επιλογές λήψης, εκτύπωσης ή αντιγραφής του αρχείου.
+Όταν κάνετε κοινή χρήση στοιχείων με άλλους χρήστες στο OneDrive ή το SharePoint, μπορείτε να τους δώσετε πρόσβαση στην προβολή, αλλά όχι να κάνουν λήψη.
 
-Οι διαχειριστές μπορούν να ελέγξουν εάν η ρύθμιση "αποκλεισμός λήψης" θα εμφανίζεται μόνο για αρχεία του Office ή όχι, αλλάζοντας `BlockDownloadLinksFileType` τη ρύθμιση στα cmdlets [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) ή [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell.
+Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα: Αποκλεισμός λήψεων για](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e) αρχεία μόνο προβολής στο SharePoint και το OneDrive

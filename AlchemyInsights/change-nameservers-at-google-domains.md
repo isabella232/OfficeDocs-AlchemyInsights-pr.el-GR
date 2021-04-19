@@ -1,26 +1,27 @@
 ---
-title: Αλλαγή διακομιστών ονομάτων στους Τομείς Google
+title: Αλλαγή των διακομιστή ονομάτων στους τομείς Google
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5860"
 - "14"
-ms.openlocfilehash: a581bcca954586da38fef0bfc63b7ff03a1a930a
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9f47f0b8c0dff660c75c8fc757c428524e9ed68d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748851"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818792"
 ---
-# <a name="change-nameservers-at-google-domains"></a>Αλλαγή διακομιστών ονομάτων στους Τομείς Google
+# <a name="change-nameservers-at-google-domains"></a>Αλλαγή των διακομιστή ονομάτων στους τομείς Google
 
-[Αλλαγή διακομιστών ονομάτων για την εγκατάσταση του Microsoft 365 με τους Τομείς Google](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
+[Αλλαγή των διακομιστή ονομάτων για ρύθμιση του Microsoft 365 με το Google Domains](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
 
 Για άλλα θέματα τομέων, δοκιμάστε τις [Συνήθεις ερωτήσεις για τους τομείς](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

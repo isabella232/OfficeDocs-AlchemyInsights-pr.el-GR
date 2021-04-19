@@ -2,7 +2,7 @@
 title: Λήψη ή αίτηση αντιγράφου του λογαριασμού μου στο Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: 76f5bd17b93e10bf2325ab1c027b15acf741e90e
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922048"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820862"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Λήψη ή αίτηση αντιγράφου του λογαριασμού μου στο Azure
 
-Για να κατεβάσετε το τιμολόγιό σας, πρέπει να έχετε ένα ρόλο διαχειριστή λογαριασμού για μια συνδρομή. Οι χρήστες με ρόλους κατόχου, συνεργάτη ή αναγνώστη μπορούν να πραγματοποιήσουν λήψη του τιμολογίου του, εάν ο διαχειριστής του λογαριασμού έχει δώσει δικαίωμα. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα να επιτρέπεται στους χρήστες η λήψη τιμολογίων](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in).
+Πρέπει να έχετε ένα ρόλο διαχειριστή λογαριασμού για μια συνδρομή για να κάνετε λήψη του τιμολογίου της. Οι χρήστες με ρόλο κατόχου, συνεργάτη ή αναγνώστη μπορούν να κάνουν λήψη του τιμολογίου, εάν ο διαχειριστής του λογαριασμού έχει δώσει δικαιώματα. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Να επιτρέπεται στους χρήστες η λήψη τιμολογίων.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in)
 
-**Λήψη του τιμολογίου Azure (. pdf)**
+**Λήψη του τιμολογίου Azure (.pdf)**
 
-1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "συνδρομές](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) " στην πύλη Azure ως [χρήστης με πρόσβαση σε τιμολόγια](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) και, στη συνέχεια, επιλέξτε **τιμολόγια**
-2. Κάντε κλικ στην επιλογή **λήψη τιμολογίου** για να δείτε ένα αντίγραφο του τιμολογίου PDF. Εάν η ένδειξη **δεν είναι διαθέσιμη** , ανατρέξτε [στο θέμα Γιατί δεν μπορώ να δω ένα τιμολόγιο για την τελευταία περίοδο χρέωσης;](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Μπορείτε επίσης να δείτε την καθημερινή σας χρήση κάνοντας κλικ στην περίοδο χρέωσης για να αποκτήσετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου ημερήσιας χρήσης (. CSV): [λήψη δεδομένων τιμολογίου και χρήσης](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "Συνδρομές"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) στην πύλη Azure ως χρήστης με πρόσβαση [σε τιμολόγια και, στη](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) συνέχεια, επιλέξτε **"Τιμολόγια"**
+2. Κάντε κλικ **στην επιλογή "Λήψη τιμολογίου"** για να δείτε ένα αντίγραφο του τιμολογίου PDF. Εάν αναφέρεται ότι **δεν είναι διαθέσιμο,** [ανατρέξτε στο θέμα Γιατί δεν βλέπω ένα τιμολόγιο για την τελευταία περίοδο χρέωσης;](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Μπορείτε επίσης να προβάλετε την ημερήσια χρήση κάνοντας κλικ στην περίοδο χρέωσης για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (. CSV): [Λήψη δεδομένων τιμολογίου και χρήσης](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Επιτρέψτε σε άλλους χρήστες να κάνουν λήψη του τιμολογίου συνδρομής σας**
+**Να επιτρέπεται σε άλλους χρήστες η λήψη του τιμολογίου της συνδρομής σας**
 
 1. Πραγματοποιήστε είσοδο στην [πύλη Azure](https://portal.azure.com/) ως διαχειριστής λογαριασμού για τη συνδρομή.
-2. Αναζητήστε διαχείριση κόστους + χρέωση.
-3. Επιλέξτε **τιμολόγια** από την αριστερή πλευρά.
-4. Επιλέξτε τη συνδρομή σας Azure και, στη συνέχεια, κάντε κλικ στην επιλογή **να επιτρέπεται σε άλλους να κάνουν λήψη**
-5. Επιλέξτε **Ενεργοποίηση** και, στη συνέχεια, **Αποθήκευση** στο επάνω μέρος της σελίδας.
+2. Αναζήτηση για Διαχείριση κόστους + Χρεώσεις.
+3. Επιλέξτε **"Τιμολόγια"** από την αριστερή πλευρά.
+4. Επιλέξτε τη συνδρομή σας Azure και, στη συνέχεια, κάντε κλικ στην **επιλογή Να επιτρέπεται σε άλλους χρήστες η λήψη τιμολογίου.**
+5. Επιλέξτε **"Σε"** **και, στη συνέχεια,** "Αποθήκευση" στο επάνω μέρος της σελίδας.

@@ -2,21 +2,22 @@
 title: Συνήθη προβλήματα και λύσεις συμμόρφωσης
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231586"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817352"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Συνήθη προβλήματα και λύσεις συμμόρφωσης
 
@@ -31,5 +32,7 @@ ms.locfileid: "43231586"
 - Έλεγχος στο O365: [Αναζήτηση αρχείου καταγραφής ελέγχου στο O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Αποτροπή απώλειας δεδομένων (DLP): Ανατρέξτε στο άρθρο [Επισκόπηση της αποτροπής απώλειας δεδομένων (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) για περισσότερες πληροφορίες.
+ 
+- Ετικέτες ευαισθησίας: Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Δημιουργία και ρύθμιση παραμέτρων ετικετών ευαισθησίας και των πολιτικών τους.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
 **Σημείωση**: Για μια πιο συγκεκριμένη απάντηση σχετικά με ένα πρόβλημα συμμόρφωσης, αναδιατυπώσετε συνοπτικά την ερώτησή σας και συμπεριλάβετε τυχόν σφάλματα που βλέπετε ή δυνατότητες που χρησιμοποιείτε.

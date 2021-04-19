@@ -1,45 +1,46 @@
 ---
-title: 'Σαρωτής AIP: εγκατάσταση και διαμόρφωση'
+title: 'Σαρωτής AIP: εγκατάσταση και ρύθμιση παραμέτρων'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: d059d411aef03ca57662b71fbd7d27aecd3e0e57
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357664"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821663"
 ---
-# <a name="aip-scanner-installation-and-configuration"></a>Σαρωτής AIP: εγκατάσταση και διαμόρφωση
+# <a name="aip-scanner-installation-and-configuration"></a>Σαρωτής AIP: εγκατάσταση και ρύθμιση παραμέτρων
 
 **Για να εγκαταστήσετε το σαρωτή AIP, ακολουθήστε τις προτεινόμενες οδηγίες:**
 
-1. Εάν κάνετε αναβάθμιση και δεν εκτελείτε μια καθαρή εγκατάσταση, βεβαιωθείτε ότι έχετε ακολουθήσει τις οδηγίες για [την αναβάθμιση του σαρωτή προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) και για ενοποιημένη επισήμανση του υπολογιστή-πελάτη, [ανατρέξτε στο θέμα αναβάθμιση του σαρωτή προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
-2. Βεβαιωθείτε ότι συμμορφώνεστε με [όλες τις απαιτήσεις ρυθμίσεων τείχους προστασίας και υποδομής δικτύου](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).
-3. Βεβαιωθείτε ότι [οι πολιτικές](https://docs.microsoft.com/azure/information-protection/configure-policy) σας έχουν οριστεί σε αυτόματη επισήμανση ή έχουν μια προεπιλεγμένη ετικέτα στην πολιτική.
-4. Βεβαιωθείτε ότι ο σχετικός τύπος αρχείου έχει ρυθμιστεί για ετικέτα/προστασία, όπως περιγράφεται στο [φάκελο "Τύποι αρχείων" που υποστηρίζονται από το πρόγραμμα-πελάτη Προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection). Επιπλέον, εάν θέλετε να αλλάξετε την προεπιλεγμένη συμπεριφορά, ακολουθήστε τις παρακάτω οδηγίες: [Αλλαγή του προεπιλεγμένου επιπέδου προστασίας των αρχείων](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
+1. Εάν κάνετε αναβάθμιση και δεν εκτελείτε καθαρή εγκατάσταση, βεβαιωθείτε ότι έχετε ακολουθήσει τις οδηγίες για την αναβάθμιση του [σαρωτή προστασίας](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) πληροφοριών Azure και για το ενοποιημένο πρόγραμμα-πελάτη σήμανσης, ανατρέξτε στο θέμα αναβάθμιση του σαρωτή Προστασίας [πληροφοριών Azure.](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)
+2. Βεβαιωθείτε ότι συμμορφώνεστε με όλα τα [Τείχη προστασίας και τις απαιτήσεις ρυθμίσεων υποδομής δικτύου.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
+3. Βεβαιωθείτε ότι οι [πολιτικές σας έχουν](https://docs.microsoft.com/azure/information-protection/configure-policy) οριστεί σε αυτόματη σήμανση ή ότι έχουν μια προεπιλεγμένη ετικέτα στην πολιτική.
+4. Βεβαιωθείτε ότι ο σχετικός τύπος αρχείου έχει ρυθμιστεί για ετικέτα/προστασία, όπως περιγράφεται στους τύπους [αρχείων που υποστηρίζονται από το πρόγραμμα-πελάτη Προστασίας πληροφοριών Azure.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Επιπλέον, εάν θέλετε να αλλάξετε την προεπιλεγμένη συμπεριφορά, ακολουθήστε τις παρακάτω οδηγίες: [Αλλαγή του προεπιλεγμένου επιπέδου προστασίας αρχείων.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files)
 5. Βεβαιωθείτε ότι ο λογαριασμός χρήστη που έχει ρυθμιστεί για την εκτέλεση της υπηρεσίας σαρωτή έχει δικαιώματα πρόσβασης σε όλα τα ρυθμισμένα αποθετήρια.
-6. Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, εξαγάγετε τα αρχεία καταγραφής σαρωτή και προσθέστε τα στο δελτίο υποστήριξης.
+6. Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, εξαγάγετε τα αρχεία καταγραφής του σαρωτή και προσθέστε τα στο δελτίο υποστήριξης.
 
-**Εξαγωγή αρχείων καταγραφής σαρωτή προστασίας πληροφοριών Azure**
+**Εξαγωγή αρχείων καταγραφής του Σαρωτή προστασίας πληροφοριών Azure**
 
-1. Μεταβείτε στα %localappdata%\Microsoft\MSIP κάτω από το περιβάλλον χρήστη που εκτελεί την υπηρεσία σαρωτή.
-2. Φερμουάρ όλα τα περιεχόμενα κάτω από το φάκελο MSIP.
-3. Αποθηκεύστε τα αρχεία καταγραφής στην επιλογή τοποθεσίας σας και επισυνάψτε τα στο αίτημα εξυπηρέτησης.
-4. Μπορείτε επίσης να χρησιμοποιήσετε [εξαγωγή-AIPLogs -Εκ μέρους του](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
+1. Μεταβείτε στο %localappdata%\Microsoft\MSIP κάτω από το περιβάλλον χρήστη που εκτελεί την υπηρεσία σαρωτή.
+2. Συμπίεση όλων των περιεχομένων κάτω από το φάκελο MSIP.
+3. Αποθηκεύστε τα αρχεία καταγραφής στην επιλογή θέσης σας και επισυνάψτε τα στην αίτηση εξυπηρέτησης.
+4. Μπορείτε επίσης να χρησιμοποιήσετε [το Export-AIPLogs -OnBehalfOf.](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps)
 
-**Για περισσότερες πληροφορίες, ανατρέξτε**στα θέματα :
-- [Ανάπτυξη του σαρωτή προστασίας πληροφοριών Azure για αυτόματη ταξινόμηση και προστασία αρχείων](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
-- [Καθορισμός και χρήση της παραμέτρου Διακριτικού για set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+**Για πρόσθετες πληροφορίες, ανατρέξτε στο θέμα:**
+- [Ανάπτυξη του σαρωτή προστασίας πληροφοριών Azure για την αυτόματη ταξινόμηση και προστασία αρχείων](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [Καθορισμός και χρήση της παραμέτρου Διακριτικού για το Set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
 - [Εκτέλεση κύκλου εντοπισμού και προβολή αναφορών για το σαρωτή](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
-- [Αναθεώρηση της τεκμηρίωσης προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Απαιτήσεις για την προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Λήψη προγράμματος-πελάτη προστασίας πληροφοριών Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Αναθεώρηση τεκμηρίωσης της Προστασίας πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Απαιτήσεις για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Λήψη προγράμματος-πελάτη Προστασίας πληροφοριών Azure](https://www.microsoft.com/download/details.aspx?id=53018)
