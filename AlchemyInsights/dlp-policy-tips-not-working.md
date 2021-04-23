@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679585"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952192"
 ---
-# <a name="dlp-policy-tip-issues"></a>Θέματα συμβουλών πολιτικής DLP
+# <a name="dlp-policy-tip-issues"></a>Ζητήματα συμβουλής πολιτικής DLP
 
 **Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
 
-**Συμβουλές πολιτικής DLP**
+Για να ρυθμίσετε τις παραμέτρους συμβουλών πολιτικής σχετικά με την πολιτική DLP στο Κέντρο ασφάλειας & συμμόρφωσης σε λειτουργία πλήρους επιβολής, κάντε τα εξής:
 
-Όταν χρησιμοποιείτε τις **πολιτικές DLP**, οι χρήστες μπορούν να ενημερωθούν για μια παραβίαση πολιτικής με **συμβουλές πολιτικής**. Οι διαχειριστές μπορούν να ρυθμίσουν τις παραμέτρους των συμβουλών πολιτικής ώστε να εμφανίζονται κατά τον έλεγχο της πολιτικής τους DLP ή όταν η πολιτική βρίσκεται σε πλήρη λειτουργία επιβολής.
-  
-Για να ρυθμίσετε τις παραμέτρους των συμβουλών πολιτικής για την πολιτική DLP στο κέντρο ασφάλειας και συμμόρφωσης σε λειτουργία πλήρους εκτέλεσης, κάντε τα εξής:
-  
-- Βεβαιωθείτε ότι οι συμβουλές πολιτικής έχουν **ενεργοποιηθεί** στον κανόνα DLP χρησιμοποιώντας τα βήματα [εδώ](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Βεβαιωθείτε ότι οι συμβουλές πολιτικής **έχουν ενεργοποιηθεί** στον κανόνα DLP. Για τα βήματα, ανατρέξτε [στο θέμα Αποστολή ειδοποιήσεων ηλεκτρονικού ταχυδρομείου και εμφάνιση συμβουλών πολιτικής για τις πολιτικές DLP.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Βεβαιωθείτε ότι το **περιεχόμενό σας συμφωνεί** με αυτό που **απαιτείται** για την ενεργοποίηση του κανόνα που περιγράφονται σε αυτό το άρθρο [εδώ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+Βεβαιωθείτε ότι το περιεχόμενό σας ταιριάζει με αυτό που απαιτείται για την ενεργοποίηση του κανόνα που περιγράφεται στους [ορισμούς οντότητας τύπου ευαίσθητων πληροφοριών.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Οι συμβουλές πολιτικής εμφανίζονται τόσο στο OWA όσο και στο Outlook. Ωστόσο, όταν χρησιμοποιείτε το **Outlook 2013 ή νεότερη έκδοση**, οι συμβουλές πολιτικής εμφανίζονται μόνο υπό ορισμένες συνθήκες. Αυτές οι συνθήκες παρατίθενται εδώ: [υποστηριζόμενες συνθήκες για το Outlook 2013 ή νεότερη έκδοση για την εμφάνιση συμβουλών πολιτικής](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Οι συμβουλές πολιτικής εμφανίζονται τόσο στο OWA όσο και στο Outlook. Ωστόσο, όταν χρησιμοποιείτε το Outlook 2013 ή νεότερη έκδοση, οι συμβουλές πολιτικής εμφανίζονται μόνο υπό ορισμένες συνθήκες. Για τη λίστα συγκεκριμένων συνθηκών, ανατρέξτε στο θέμα Υποστηριζόμενες συνθήκες για το [Outlook 2013 ή νεότερη έκδοση για την εμφάνιση συμβουλών πολιτικής.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Για πρόσθετες πληροφορίες σχετικά με τις συμβουλές πολιτικής DLP, ανατρέξτε στο θέμα: [Εμφάνιση συμβουλών πολιτικής για τις ΠΟΛΙΤΙΚΈς DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Για πληροφορίες σχετικά με τις συμβουλές πολιτικής DLP, ανατρέξτε στο θέμα ["Αναφορά συμβουλών πολιτικής DLP"](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) και ["Πίνακας υποστήριξης" για συμβουλές πολιτικής DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
