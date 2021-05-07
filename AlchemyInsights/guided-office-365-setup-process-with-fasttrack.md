@@ -1,5 +1,5 @@
 ---
-title: Καθοδηγούμενη διαδικασία εγκατάστασης του Office 365 με το FastTrack
+title: Καθοδηγούμενη Office 365 διαδικασία ρύθμισης με το FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194540"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233750"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Καθοδηγούμενη διαδικασία εγκατάστασης του Office 365 με το FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Καθοδηγούμενη Office 365 διαδικασία ρύθμισης με το FastTrack
 
-Εάν δικαιούστε βοήθεια Για το Office 365 FastTrack, μπορείτε να ζητήσετε βοήθεια μέσω της πύλης. Εάν αναζητάτε αυτο-καθοδηγούμενη βοήθεια ή καθοδήγηση από ένα συνεργάτη, οι οδηγοί εγκατάστασης του Office 365 ή ένας κατάλληλος συνεργάτης μπορούν να σας βοηθήσουν στη διαδικασία.
+Εάν δικαιούστε βοήθεια Office 365 FastTrack, μπορείτε να ζητήσετε βοήθεια μέσω της πύλης. Εάν αναζητάτε βοήθεια ή καθοδήγηση από έναν συνεργάτη, οι οδηγοί ρύθμισης Office 365 ή ένας κατάλληλος συνεργάτης μπορούν να σας βοηθήσουν στη διαδικασία.
 
-1. Για να λάβετε βοήθεια μέσω της πύλης FastTrack, πραγματοποιήστε είσοδο στην πύλη [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) και ακολουθήστε τα βήματα για να ολοκληρώσετε την αίτηση για βοήθεια με τη φόρμα Microsoft 365.
+- Για να λάβετε βοήθεια μέσω της πύλης FastTrack, πραγματοποιήστε είσοδο στην πύλη [FastTrack και](https://go.microsoft.com/fwlink/?linkid=2125443) ακολουθήστε τα βήματα για να ολοκληρώσετε την αίτηση για βοήθεια Microsoft 365 φόρμας.
 
     > [!NOTE]
     > Εάν έχετε προβλήματα κατά την είσοδο ή χρειάζεστε πρόσθετη βοήθεια, στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου [στο ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-2. Για βοήθεια με καθοδήγηση από το παρόν για το Office 365, ανατρέξτε στις [οδηγίες εγκατάστασης.](https://go.microsoft.com/fwlink/?linkid=2125827)
-3. Για να βρείτε μια υπηρεσία παροχής λύσεων, [ανατρέξτε στο θέμα "Αναζητώ μια υπηρεσία παροχής λύσεων".](https://go.microsoft.com/fwlink/?linkid=2125918)
+- Για βοήθεια με καθοδήγηση από το Office 365, ανατρέξτε στις [οδηγίες ρύθμισης.](https://go.microsoft.com/fwlink/?linkid=2125827)
+- Για να βρείτε μια υπηρεσία παροχής [λύσεων, ανατρέξτε στο θέμα Αναζητώ μια υπηρεσία παροχής λύσεων.](https://go.microsoft.com/fwlink/?linkid=2125918)

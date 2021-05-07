@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125204"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233526"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Ανάπτυξη προσθεμάτων για Εφαρμογές Microsoft 365
 
 Η κεντρική ανάπτυξη είναι ο προτεινόμενος τρόπος για Office πρόσθετα σε χρήστες και ομάδες εντός του οργανισμού σας. Για να αναπτύξετε πρόσθετα, ακολουθήστε τα παρακάτω βήματα:
 
-**Σημείωση:** Για να εγκαταστήσετε πρόσθετα για Office ως μεμονωμένο χρήστη, ανατρέξτε στο θέμα Προβολή, διαχείριση και εγκατάσταση προσθεμάτων [σε Office προγραμμάτων.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Επίσης, βεβαιωθείτε ότι η μεμονωμένη απόκτηση Office του Store είναι ενεργοποιημένη. 
+**Σημείωση:** Για να εγκαταστήσετε πρόσθετα για Office ως μεμονωμένο χρήστη, ανατρέξτε στο θέμα Προβολή, διαχείριση και εγκατάσταση προσθεμάτων [σε Office προγραμμάτων.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Επίσης, βεβαιωθείτε ότι η μεμονωμένη απόκτηση Office του Store είναι ενεργοποιημένη. Για λεπτομέρειες, ανατρέξτε στο θέμα Αποτροπή λήψεων προσθεμάτων απενεργοποιώντας το Office Store σε όλα τα [προγράμματα-πελάτες (εκτός Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Βεβαιωθείτε ότι το περιβάλλον σας πληροί τις απαιτήσεις για την ανάπτυξη προσθεμάτων χρησιμοποιώντας την Κεντρική ανάπτυξη. Για λεπτομέρειες, ανατρέξτε στο θέμα ["Απαιτήσεις".](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. Μεταβείτε **Ρυθμίσεις**  >  **"Λήψη**  >  **εφαρμογών"** στο Microsoft 365 διαχείρισης για να αναπτύξετε πρόσθετα. 

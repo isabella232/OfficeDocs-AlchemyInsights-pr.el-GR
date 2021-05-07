@@ -1,5 +1,5 @@
 ---
-title: Πληροφορίες για τις ενημερώσεις ασφαλείας του Exchange Server
+title: Πληροφορίες Exchange Server ενημερώσεων
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726527"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233462"
 ---
-# <a name="about-exchange-server-security-updates"></a>Πληροφορίες για τις ενημερώσεις ασφαλείας του Exchange Server
+# <a name="about-exchange-server-updates"></a>Πληροφορίες Exchange Server ενημερώσεων
 
-Η Microsoft έχει κυκλοφορήσει μια σειρά κρίσιμων ενημερώσεων ασφαλείας για τον Exchange Server εσωτερικής εγκατάστασης. Οι εκδόσεις διακομιστή που επηρεάζονται είναι τυχόν επίπεδα ενημερώσεων του Exchange Server 2010, 2013, 2016 και 2019. Το Exchange Online ΔΕΝ επηρεάζει, αλλά εάν έχετε ορισμένους διακομιστές Exchange εσωτερικής εγκατάστασης λόγω υβριδικής ρύθμισης παραμέτρων, είναι ενδεχομένως ευάλωτοι.
+Η Microsoft συνήθως κυκλοφορήσει Exchange Server ενημερώσεις την Τρίτη (Ενημερώσεις ασφαλείας) ή ανά τρίμηνο (Αθροιστικές ενημερώσεις). Για να δείτε τις ανακοινώσεις των πιο πρόσφατων ενημερώσεων που κυκλοφόρησαν, ανατρέξτε [στο Exchange ιστολόγιο ομάδας.](https://aka.ms/ehlo)
 
-Ανατρέξτε στην ακόλουθη ανακοίνωση για την τοποθεσία των επιδιορθώσεων: Κυκλοφόρησε: Ενημερώσεις ασφαλείας μαρτίου [2021 του Exchange Server](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Για να κάνετε απογραφή των Exchange, χρησιμοποιήστε τη Exchange Server "Έλεγχος υγείας" [(GitHub, χρησιμοποιήστε την πιο πρόσφατη έκδοση).](https://aka.ms/ExchangeHealthChecker) Η εκτέλεση αυτής της δέσμης ενεργειών σάς ενημερώνει εάν κάποιος από τους διακομιστές Exchange σας βρίσκεται πίσω σε ενημερώσεις (CUs και SUs).
 
-**Σημαντικές σημειώσεις:**
+- Για να κάνετε ενημέρωση στην [](https://aka.ms/ExchangeUpdateWizard) πιο πρόσφατη αθροιστική ενημέρωση, μεταβείτε Exchange "Οδηγός ενημέρωσης" και επιλέξτε το τρέχον τρέχον CU και το CU προορισμού σας. Επιλέξτε **"Πείτε μου" τα βήματα** για να λάβετε οδηγίες για το περιβάλλον σας.
 
-Εάν εγκαταστήσετε ενημερώσεις με μη αυτόματο τρόπο, διαβάστε την ενότητα "Γνωστά θέματα" των άρθρων της Γνωσιακής Βάσης για σημαντικές πληροφορίες. Οι ενημερώσεις ασφαλείας ΠΡΕΠΕΙ να εκτελούνται από το μήνυμα για αναβαθμισμένα CMD/PowerShell!
-
-Μπορείτε να βρείτε πληροφορίες αντιμετώπισης [προβλημάτων για την ενημέρωση εδώ.](https://aka.ms/exupdatefaq)
+- Εάν αντιμετωπίσετε σφάλματα κατά την εγκατάσταση ή μετά την εγκατάσταση Exchange Server ενημερώσεων, ανατρέξτε στο θέμα Επιδιόρθωση αποτυχημένων [εγκαταστάσεων Exchange αθροιστικών ενημερώσεων και ενημερώσεων ασφαλείας.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)
