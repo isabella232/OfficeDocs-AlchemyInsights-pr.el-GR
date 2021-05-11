@@ -1,5 +1,5 @@
 ---
-title: Εκτέλεση του Microsoft Edge σε λειτουργία kiosk
+title: Εκτέλεση Microsoft Edge σε λειτουργία kiosk
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708530"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312404"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Εκτέλεση του Microsoft Edge σε λειτουργία kiosk
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Εκτέλεση Microsoft Edge σε λειτουργία kiosk
 
-Μπορείτε να ρυθμίσετε τις παραμέτρους της λειτουργίας kiosk στις εκδόσεις 77 και νεότερες εκδόσεις του Microsoft Edge, καθώς και στις παλαιότερες εκδόσεις του Microsoft Edge 45 και παλαιότερες εκδόσεις.
+Μπορείτε να ρυθμίσετε τις παραμέτρους της λειτουργίας kiosk Microsoft Edge εκδόσεις 87 και νεότερες, καθώς και στις Microsoft Edge παλαιού τύπου εκδόσεις 45 και προηγούμενες. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Ρύθμιση παραμέτρων Microsoft Edge λειτουργίας kiosk.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Μπορείτε να ρυθμίσετε τις παραμέτρους των συσκευών που εκτελούνται στα Windows 10, ώστε να εκτελούνται σε λειτουργία μεμονωμένης εφαρμογής ή [σε λειτουργία kiosk πολλών εφαρμογών.](https://go.microsoft.com/fwlink/?linkid=2133659)
+Μπορείτε να ρυθμίσετε τις παραμέτρους των συσκευών που εκτελούνται Windows 10 να εκτελούνται σε λειτουργία kiosk μίας [εφαρμογής ή πολλών εφαρμογών.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Για περισσότερες πληροφορίες σχετικά με τη ρύθμιση της λειτουργίας kiosk στην πιο πρόσφατη έκδοση του σταθερού καναλιού του Microsoft Edge και στον Microsoft Edge παλαιού τύπου, ανατρέξτε στα μηνύματα:
+Για περισσότερες πληροφορίες σχετικά με τη ρύθμιση της λειτουργίας kiosk στην πιο πρόσφατη έκδοση του καναλιού Microsoft Edge Stable και στο Microsoft Edge παλαιού τύπου, ανατρέξτε στο θέμα:
 
 - [Microsoft Edge με εκχωρηθεί πρόσβαση](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Παράμετρος γραμμής εντολών "--kiosk" του Microsoft Edge](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Υποστήριξη για τη λειτουργία kiosk Microsoft Edge παλαιού τύπου](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge Παράμετρος γραμμής εντολών "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Υποστήριξη για Microsoft Edge παλαιού τύπου λειτουργίας kiosk](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
