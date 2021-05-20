@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744973"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569728"
 ---
 # <a name="create-user"></a>Δημιουργία χρήστη
 
 **ΑΝΑΚΟΙΝΩΣΗ:**
 
-- [Η απόσβεση της υποστήριξης για είσοδο WebView από την Google από τις 4 Ιανουαρίου 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Ελέγξτε εάν οι εφαρμογές σας ενδέχεται να επηρεαστούν [ακολουθώντας τις οδηγίες της Google σχετικά](https://go.microsoft.com/fwlink/?linkid=2157323) με τη συμβατότητα των δοκιμών.
-- Βεβαιωθείτε ότι χρησιμοποιείτε το webview συστήματος ή το πρόγραμμα περιήγησης συστήματος κατά την είσοδο στους χρήστες σας με λογαριασμούς Google καταναλωτών. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προβλήματα κατά την είσοδο σε εφαρμογές χρησιμοποιώντας μόνο το πρόγραμμα περιήγησης Chrome.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Η απόσβεση της υποστήριξης για είσοδο WebView από την Google από τις 4 Ιανουαρίου 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Ελέγξτε εάν οι εφαρμογές σας ενδέχεται να επηρεαστούν [ακολουθώντας τις οδηγίες της Google σχετικά](https://go.microsoft.com/fwlink/?linkid=2157323) με τη συμβατότητα των δοκιμών.
+- Βεβαιωθείτε ότι χρησιμοποιείτε το webview συστήματος ή το πρόγραμμα περιήγησης συστήματος κατά την είσοδο στους χρήστες σας με λογαριασμούς Google καταναλωτών. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προβλήματα κατά την είσοδο σε εφαρμογές χρησιμοποιώντας μόνο το πρόγραμμα περιήγησης Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Δεν μπορώ να δημιουργήσω έναν νέο χρήστη στον κατάλογο Azure AD**
 
@@ -37,5 +37,5 @@ ms.locfileid: "50744973"
 1. Δείτε τα [ονόματα τομέων](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) για το Azure AD.
 1. Εξετάστε [τα αρχεία καταγραφής](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) ελέγχου για να δείτε πιο λεπτομερείς πληροφορίες σχετικά με έναν χρήστη που δημιουργήθηκε ή διαγράφηκε πρόσφατα, όπως ποιος εκτέλεσε την ενέργεια και πότε.
 1. Για περισσότερες πληροφορίες σχετικά με την προσθήκη νέων χρηστών, ανατρέξτε στο θέμα [Χρήση της πύλης Azure για τη δημιουργία ενός νέου χρήστη στο Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Ρόλοι διαχείρισης Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Δικαιώματα ρόλων διαχειριστή στο Azure Active Directory
-1. Μπορείτε επίσης να [χρησιμοποιήσετε το Azure AD PowerShell για να δημιουργήσετε ένα νέο χρήστη.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. [Ρόλοι διαχείρισης Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)Δικαιώματα ρόλων διαχειριστή σε Azure Active Directory
+1. Μπορείτε επίσης να [χρησιμοποιήσετε το Azure AD PowerShell για να δημιουργήσετε ένα νέο χρήστη.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
