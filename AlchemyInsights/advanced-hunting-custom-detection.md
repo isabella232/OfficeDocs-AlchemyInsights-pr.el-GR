@@ -1,5 +1,5 @@
 ---
-title: 9001220 προηγμένες προσαρμοσμένες ανιχνεύσεις κυνηγιού
+title: Προσαρμοσμένοι εντοπισμόι 9001220 για προχωρημένους
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801515"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543001"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Προηγμένες προσαρμοσμένες ανιχνεύσεις κυνηγιού
+# <a name="advanced-hunting-custom-detections"></a>Προηγμένοι προσαρμοσμένοι εντοπισμόι κυνηγιού
 
-Μπορείτε να μάθετε πώς να δημιουργείτε και να διαχειρίζεστε προσαρμοσμένους κανόνες για τις ανιχνεύσεις βάσει σύνθετων ερωτημάτων κυνηγιού. Με τις προσαρμοσμένες ανιχνεύσεις, μπορείτε να παρακολουθείτε και να απαντάτε προληπτικά σε διάφορα συμβάντα και καταστάσεις συστήματος, συμπεριλαμβανομένης της δραστηριότητας υποψίας παραβίασης και των εσφαλμένων παραμέτρων συσκευών. Αυτό μπορείτε να το κάνετε με προσαρμόσιμους κανόνες εντοπισμού που ενεργοποιούν αυτόματα ειδοποιήσεις και ενέργειες απόκρισης
+Μπορείτε να μάθετε πώς μπορείτε να δημιουργήσετε και να διαχειριστείτε προσαρμοσμένους κανόνες εντοπισμού με βάση σύνθετα ερωτήματα ανίχνευσης. Με τους προσαρμοσμένους εντοπισμούς, μπορείτε να παρακολουθείτε προληπτικά και να απαντάτε σε διάφορα συμβάντα και καταστάσεις συστήματος, συμπεριλαμβανομένης της ύποπτης δραστηριότητας παραβίασης και των εσφαλμένων συσκευών. Μπορείτε να το κάνετε με προσαρμόσιμους κανόνες εντοπισμού που ενεργοποιούν αυτόματα ειδοποιήσεις και ενέργειες απόκρισης
   
 Εάν χρησιμοποιείτε το Microsoft Defender ATP, ανατρέξτε στα παρακάτω θέματα για λεπτομέρειες: 
-- [Επισκόπηση προσαρμοσμένων ανιχνεύσεων](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Δημιουργία προσαρμοσμένων κανόνων εντοπισμού](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Προβολή και διαχείριση προσαρμοσμένων κανόνων εντοπισμού](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+- [Επισκόπηση προσαρμοσμένων ανιχνεύεων](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Δημιουργία προσαρμοσμένων κανόνων εντοπισμού](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Προβολή και διαχείριση προσαρμοσμένων κανόνων εντοπισμού](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Εάν χρησιμοποιείτε το Microsoft 365 Defender, ανατρέξτε στα παρακάτω θέματα για λεπτομέρειες: 
-- [Επισκόπηση προσαρμοσμένων ανιχνεύσεων](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Δημιουργία και διαχείριση προσαρμοσμένων κανόνων για τις ανιχνεύσεις](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Εάν χρησιμοποιείτε τον Microsoft 365 Defender, ανατρέξτε στα παρακάτω θέματα για λεπτομέρειες: 
+- [Επισκόπηση προσαρμοσμένων ανιχνεύεων](/microsoft-365/security/mtp/custom-detections-overview)
+- [Δημιουργία και διαχείριση προσαρμοσμένων κανόνων εντοπισμού](/microsoft-365/security/mtp/custom-detection-rules)

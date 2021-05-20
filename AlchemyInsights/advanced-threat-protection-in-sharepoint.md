@@ -1,5 +1,5 @@
 ---
-title: Προηγμένη προστασία από απειλές στο SharePoint και το OneDrive
+title: Προηγμένη προστασία από απειλές σε SharePoint και OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663333"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542929"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Προηγμένη προστασία από απειλές (ATP) στο SharePoint και το OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender για Office 365 σε SharePoint και OneDrive
 
 Δείτε τα εξής:
-- [ATP για το SharePoint, το OneDrive και τις ομάδες](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Εξερεύνηση απειλών και ανιχνεύσεις πραγματικού χρόνου](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Microsoft Defender για Office 365 για SharePoint, OneDrive και Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Εξερεύνηση απειλών και εντοπισμός σε πραγματικό χρόνο](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Πρόσθετες πληροφορίες:
 
-- [Εντοπισμός ιών στο SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Κρυπτογράφηση δεδομένων στο ODB και το SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Προστασία των δεδομένων σας στο SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Εντοπισμός και ανάκτηση αρχείων από τα λύτρα](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Εντοπισμός ιών στο SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Κρυπτογράφηση δεδομένων σε ODB και SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Προστασία των δεδομένων σας στο SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Εντοπισμός και ανάκτηση αρχείων ransomware](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

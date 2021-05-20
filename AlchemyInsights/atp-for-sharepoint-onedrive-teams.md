@@ -1,5 +1,5 @@
 ---
-title: ATP για το SharePoint, το OneDrive και το Microsoft teams
+title: Microsoft Defender για Office 365 για SharePoint, OneDrive και Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715561"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543577"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP για το SharePoint, το OneDrive και το Microsoft teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender για Office 365 για SharePoint, OneDrive και Microsoft Teams
 
-Ακολουθήστε τα παρακάτω βήματα για να ενεργοποιήσετε την προηγμένη προστασία από απειλές:
+Ακολουθήστε τα παρακάτω βήματα για να ενεργοποιήσετε τον Microsoft Defender για Office 365:
 
-1. Μεταβείτε [https://protection.office.com](https://protection.office.com) και πραγματοποιήστε είσοδο με έναν καθολικό διαχειριστή ή έναν λογαριασμό διαχειριστή ασφαλείας.
+1. Μεταβείτε [https://protection.office.com](https://protection.office.com) και πραγματοποιήστε είσοδο με έναν καθολικό διαχειριστή ή λογαριασμό διαχειριστή ασφαλείας.
 
-2. Στο αριστερό παράθυρο περιήγησης, στην περιοχή **διαχείριση απειλών**, επιλέξτε **Policy** \> **ασφαλή συνημμένα**πολιτικής.
+2. Στο αριστερό παράθυρο περιήγησης στην περιοχή **Διαχείριση απειλών,** επιλέξτε **"Ασφαλή** \> **συνημμένα πολιτικής".**
 
-3. Επιλέξτε **Ενεργοποίηση ATP για το SharePoint, το OneDrive και το Microsoft teams**.
+3. Επιλέξτε **"Ενεργοποίηση του Defender" Office 365 για SharePoint, OneDrive και Microsoft Teams.**
 
-4. [Δημιουργήστε μια πολιτική ειδοποίησης δραστηριότητας](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) για να λαμβάνετε ειδοποιήσεις όταν ανιχνεύουμε κακόβουλα αρχεία.
+4. [Δημιουργήστε μια πολιτική ειδοποίησης δραστηριότητας για](/microsoft-365/compliance/create-activity-alerts) να λαμβάνετε ειδοποιήσεις όταν εντοπίζουμε κακόβουλα αρχεία.
 
-Για πλήρεις οδηγίες, ανατρέξτε σε αυτό το [θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Για πλήρεις οδηγίες, ανατρέξτε στο θέμα "Ενεργοποίηση ασφαλών [συνημμένων για SharePoint, OneDrive και Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Σημείωση**: κατά τη σχεδίαση, το ATP δεν σαρώνει όλα τα αρχεία του SharePoint Online, του OneDrive για την επιχείρηση ή του Microsoft teams. Τα αρχεία σαρώνονται ασύγχρονα από μια διεργασία που χρησιμοποιεί δραστηριότητα κοινής χρήσης, δραστηριότητα επισκέπτη και σήματα απειλών για τον εντοπισμό κακόβουλων αρχείων. Για περισσότερες πληροφορίες, ανατρέξτε σε αυτό το [θέμα](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Σημείωση:** Από τη σχεδίαση, ο Microsoft Defender για Office 365 δεν σαρώνει κάθε αρχείο στο SharePoint Online, OneDrive για επιχειρήσεις ή Microsoft Teams. Τα αρχεία σαρώνονται ασύγχρονα από μια διαδικασία που χρησιμοποιεί τη δραστηριότητα κοινής χρήσης, τη δραστηριότητα επισκεπτών και τα σήματα απειλών για τον εντοπισμό κακόβουλων αρχείων. Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Ασφαλή συνημμένα για SharePoint, OneDrive και Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

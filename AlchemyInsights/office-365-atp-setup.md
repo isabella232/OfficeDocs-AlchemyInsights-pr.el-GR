@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση του Microsoft Defender για Office 365 (ATP)
+title: Ρύθμιση του Microsoft Defender Office 365 εγκατάστασης
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708638"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543613"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender για Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender για Office 365
 
-Το Office 365 ATP περιλαμβάνει [ασφαλή συνημμένα,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)ασφαλείς [συνδέσεις,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [προηγμένη καταπολέμηση του ηλεκτρονικού "ψαρέματος"](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)και πολλά άλλα. 
+Ο Microsoft Defender για Office 365 περιλαμβάνει [ασφαλή συνημμένα,](/microsoft-365/security/office-365-security/atp-safe-attachments) [ασφαλείς συνδέσεις,](/microsoft-365/security/office-365-security/atp-safe-links)προηγμένη προστασία από το ηλεκτρονικό ["ψάρεμα"](/microsoft-365/security/office-365-security/atp-anti-phishing)και πολλά άλλα. 
 
-Η υπηρεσία ATP περιλαμβάνεται στις συνδρομές, όπως το Office 365 για μεγάλες επιχειρήσεις E5, το Office 365 για εκπαιδευτικά ιδρύματα A5 και το Microsoft 365 Premium για Επιχειρήσεις. Εάν η συνδρομή σας δεν περιλαμβάνει ATP, μπορείτε ενδεχομένως να αγοράσετε ATP ως πρόσθετο. Για να μάθετε περισσότερα, ανατρέξτε στην Περιγραφή υπηρεσίας ATP του [Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
+Ο Microsoft Defender Office 365 περιλαμβάνεται σε συνδρομές, όπως Office 365 για μεγάλες επιχειρήσεις E5, Office 365 για εκπαιδευτικά ιδρύματα A5 και Microsoft 365 Premium για Επιχειρήσεις. Εάν η συνδρομή σας δεν την περιλαμβάνει, μπορείτε ενδεχομένως να την αγοράσετε ως πρόσθετο. Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Microsoft Defender για Office 365 Περιγραφή υπηρεσίας.](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>Ρύθμιση του Office 365 ATP
+## <a name="set-up-microsoft-defender-for-office-365"></a>Ρύθμιση του Microsoft Defender για Office 365
 
-Για να ισχύει η προστασία ATP, πρέπει να ρυθμίσετε τις παραμέτρους των πολιτικών. Ανατρέξτε [στον Οδηγό γρήγορης εκκίνησης: Ρύθμιση του Microsoft Defender για το Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+Για να είναι σε ισχύ Office 365 Microsoft Defender, πρέπει να ρυθμίσετε τις παραμέτρους των πολιτικών. Ανατρέξτε [στον Οδηγό γρήγορης εκκίνησης: Ρύθμιση του Microsoft Defender για Office 365.](/microsoft-365/security/office-365-security/office-365-atp)
 
