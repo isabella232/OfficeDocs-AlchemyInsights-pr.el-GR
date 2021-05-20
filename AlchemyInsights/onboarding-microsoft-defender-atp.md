@@ -1,5 +1,5 @@
 ---
-title: Επιβίβαση στο Microsoft Defender ATP
+title: Πίνακας Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673425"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545304"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Επιβίβαση στο Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>Πίνακας Microsoft Defender ATP
 
-Για τους πόρους για την πλακέτα του Microsoft Defender ATP για Windows 10, Windows servers και Mac και Linux, ανατρέξτε στα θέματα: 
+Για πόρους στους Microsoft Defender ATP για Windows 10, Windows και υπολογιστές Mac και Linux, ανατρέξτε στα θέμα: 
 
-- **Μηχανήματα Windows 10** Ανάλογα με τις απαιτήσεις της επιχείρησής σας, μπορείτε να επιλέξετε από τις επιλογές για να επιβιβαστείτε σε έναν υπολογιστή που εκτελεί Windows 10. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εργαλεία και μέθοδοι επιβίβασης για συσκευές με Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 μηχανών** Ανάλογα με τις επιχειρηματικές απαιτήσεις σας, μπορείτε να επιλέξετε από επιλογές σε έναν υπολογιστή που εκτελεί Windows 10. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Εργαλεία και μέθοδοι](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints)για Windows 10 συσκευές . 
 
-- **Διακομιστές των Windows** Για να επιβιβαστείτε στο Microsoft Defender ATP για την έκδοση του Windows Server που έχετε, ανατρέξτε στο θέμα [διακομιστές της πλακέτας στην υπηρεσία Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows διακομιστές** Για να Microsoft Defender ATP για την έκδοση του Windows Server, ανατρέξτε στο θέμα Διακομιστές [onboard στην Microsoft Defender ATP υπηρεσίας.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
-- **Τελικά σημεία εκτός των Windows**  Πριν να επιβιβαστείτε σε ένα σύστημα που δεν είναι Windows, πρέπει να πληρούνται οι απαιτήσεις συστήματος για [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) ή [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **Τελικά σημεία Windows που δεν Windows**  Πριν να εν πλω ένα σύστημα που δεν Windows, πρέπει να πληροίτε τις απαιτήσεις συστήματος για [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) ή [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 
-    Αφού επιβεβαιώσετε τις απαιτήσεις συστήματος, ανατρέξτε στο θέμα [συσκευές που δεν ανήκουν σε Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    Αφού επιβεβαιώσετε τις απαιτήσεις συστήματος, [ανατρέξτε στο θέμα Συσκευές](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)που δεν Windows συσκευές .
