@@ -1,35 +1,33 @@
 ---
 title: Η συνδρομή δεν είναι πλέον ενεργή
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789230"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544254"
 ---
 # <a name="subscription-no-longer-active"></a>Η συνδρομή δεν είναι πλέον ενεργή
 
-Εάν [εμφανιστεί μια ειδοποίηση συνδρομής κατά το άνοιγμα μιας εφαρμογής Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), είναι πιθανό ότι θα χρειαστεί να επανενεργοποιήσετε τη συνδρομή σας.
+Εάν εμφανιστεί [μια ειδοποίηση συνδρομής](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) όταν ανοίγει μια εφαρμογή της Microsoft, είναι πιθανό να χρειαστεί να ενεργοποιήσετε ξανά τη συνδρομή σας.
 
 **Επανενεργοποίηση μιας συνδρομής**
 
-1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση > [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **"Χρέωση**  >  [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".
+2. Στην καρτέλα **"Προϊόντα",** βρείτε τη συνδρομή που θέλετε να ενεργοποιήσετε ξανά. Επιλέξτε τις τρεις τελείες (περισσότερες ενέργειες) και, στη συνέχεια, επιλέξτε **"Επανενεργοποίηση αυτής της συνδρομής".**
+3. Στο παράθυρο **"Επανενεργοποίηση αυτής της** συνδρομής", επιλέξτε μια μέθοδο πληρωμής από την αναπτυσσόμενη λίστα ή επιλέξτε **"Προσθήκη μεθόδου πληρωμής".**
+4. Επιλέξτε **"Αποθήκευση".**
 
-2. Στη σελίδα "Προϊόντα και υπηρεσίες", βρείτε τη συνδρομή που θέλετε να ενεργοποιήσετε εκ νέου.
-
-3. Στην ενότητα "Χρέωση", κάντε κλικ στην επιλογή **Επανενεργοποίηση τώρα**.  Αν βρίσκεστε στην προβολή "Κάρτες", κάντε κλικ στα αποσιωπητικά ανάμεσα στις επιλογές "Όνομα" και "Διαθέσιμη ποσότητα" και επιλέξτε "Επανενεργοποίηση" από το μενού. **Σημείωση**: Αν δεν βλέπετε τη συνδρομή που αναζητάτε, ίσως χρειαστεί να προσαρμόσετε το φίλτρο Κατάσταση συνδρομής κοντά στην επάνω πλευρά της σελίδας σε **Όλες**.
-
-4. Επιβεβαιώστε τα στοιχεία πληρωμής σας για να ενημερώσετε τα υπάρχοντα στοιχεία πληρωμής. Όταν ολοκληρώσετε την εισαγωγή της μεθόδου πληρωμής, κάντε κλικ στην επιλογή **Επανενεργοποίηση**.
-
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
