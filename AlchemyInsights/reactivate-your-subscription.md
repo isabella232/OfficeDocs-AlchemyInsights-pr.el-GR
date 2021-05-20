@@ -1,10 +1,11 @@
 ---
 title: Επανενεργοποίηση της συνδρομής σας
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -14,37 +15,32 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160852"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544434"
 ---
-# <a name="reactivate-your-subscription"></a><span data-ttu-id="3d277-102">Επανενεργοποίηση της συνδρομής σας</span><span class="sxs-lookup"><span data-stu-id="3d277-102">Reactivate your subscription</span></span>
+# <a name="reactivate-your-subscription"></a><span data-ttu-id="d5fe1-102">Επανενεργοποίηση της συνδρομής σας</span><span class="sxs-lookup"><span data-stu-id="d5fe1-102">Reactivate your subscription</span></span>
 
-<span data-ttu-id="3d277-103">Εάν η συνδρομή σας λήξει ή απενεργοποιηθεί από τη Microsoft ή εάν την ακυρώσατε στο μέσο της περιόδου ισχύος, μπορείτε να την ενεργοποιήσετε εκ νέου μέσω του κέντρου διαχείρισης.</span><span class="sxs-lookup"><span data-stu-id="3d277-103">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of the subscription term, you can reactivate it in the admin center.</span></span> 
+<span data-ttu-id="d5fe1-103">Εάν η συνδρομή σας λήξει ή απενεργοποιηθεί από τη Microsoft ή εάν την ακυρώσατε στο μέσο της περιόδου ισχύος, μπορείτε να την ενεργοποιήσετε εκ νέου μέσω του κέντρου διαχείρισης.</span><span class="sxs-lookup"><span data-stu-id="d5fe1-103">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of the subscription term, you can reactivate it in the admin center.</span></span>
 
-1. <span data-ttu-id="3d277-104">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση > [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="3d277-104">In the admin center, go to the **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="d5fe1-104">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **"Χρέωση**  >  [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".</span><span class="sxs-lookup"><span data-stu-id="d5fe1-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d5fe1-105">Στην καρτέλα **"Προϊόντα",** βρείτε τη συνδρομή που θέλετε να ενεργοποιήσετε ξανά.</span><span class="sxs-lookup"><span data-stu-id="d5fe1-105">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="d5fe1-106">Επιλέξτε τις τρεις τελείες (περισσότερες ενέργειες) και, στη συνέχεια, επιλέξτε **"Επανενεργοποίηση αυτής της συνδρομής".**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-106">Select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="d5fe1-107">Στο παράθυρο **"Επανενεργοποίηση αυτής της** συνδρομής", επιλέξτε μια μέθοδο πληρωμής από την αναπτυσσόμενη λίστα ή επιλέξτε **"Προσθήκη μεθόδου πληρωμής".**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-107">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="d5fe1-108">Επιλέξτε **"Αποθήκευση".**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-108">Select **Save**.</span></span>
 
-2. <span data-ttu-id="3d277-105">Στη σελίδα **Προϊόντα και υπηρεσίες**, βρείτε τη συνδρομή που θέλετε να ενεργοποιήσετε εκ νέου.</span><span class="sxs-lookup"><span data-stu-id="3d277-105">On the **Products & services** page, find the subscription that you want to reactivate.</span></span>  <span data-ttu-id="3d277-106">Στην ενότητα **Χρέωση**, επιλέξτε **Επανενεργοποίηση τώρα**.</span><span class="sxs-lookup"><span data-stu-id="3d277-106">In the **Billing** section, click **Reactivate now**.</span></span>  <span data-ttu-id="3d277-107">Αν βρίσκεστε στην προβολή **Κάρτες**, κάντε κλικ στα αποσιωπητικά ανάμεσα στις επιλογές **Όνομα** και **Διαθέσιμη ποσότητα** και έπειτα κλικ στην επιλογή **Επανενεργοποίηση** στο μενού.</span><span class="sxs-lookup"><span data-stu-id="3d277-107">If you are in the **Cards** view, click the ellipsis between the **Name** and **Available quantity** and click **Reactivate** on the menu.</span></span> <span data-ttu-id="3d277-108">**Σημείωση**: Αν δεν βλέπετε τη συνδρομή που αναζητάτε, ίσως χρειαστεί να προσαρμόσετε το φίλτρο **Κατάσταση συνδρομής** κοντά στην επάνω πλευρά της σελίδας σε **Όλες**.</span><span class="sxs-lookup"><span data-stu-id="3d277-108">**Note**: If you don't see the subscription you are looking for, you may need to adjust the **Subscription status** filter near the top of the page to **All**.</span></span>
+<span data-ttu-id="d5fe1-109">Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d5fe1-109">To learn more, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-3. <span data-ttu-id="3d277-109">Επιβεβαιώστε τα στοιχεία πληρωμής σας.</span><span class="sxs-lookup"><span data-stu-id="3d277-109">Confirm your payment details.</span></span>  <span data-ttu-id="3d277-110">Μπορείτε επίσης να ενημερώσετε τα υπάρχοντα στοιχεία πληρωμής εδώ.</span><span class="sxs-lookup"><span data-stu-id="3d277-110">You can also update your existing payment information here.</span></span>  <span data-ttu-id="3d277-111">Όταν ολοκληρώσετε την εισαγωγή της μεθόδου πληρωμής, επιλέξτε **Επανενεργοποίηση**.</span><span class="sxs-lookup"><span data-stu-id="3d277-111">When you're finished entering your payment method, click **Reactivate**.</span></span>
+<span data-ttu-id="d5fe1-110">**Διαχείριση ανανέωσης συνδρομής**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-110">**Manage subscription renewal**</span></span>
 
-<span data-ttu-id="3d277-112">Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="3d277-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="d5fe1-111">Για να διαχειριστείτε τις μηνιαίες ή ετήσιες χρεώσεις, μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε την επιλογή **Επαναλαμβανόμενη χρέωση**.</span><span class="sxs-lookup"><span data-stu-id="d5fe1-111">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
 
-<span data-ttu-id="3d277-113">**Διαχείριση ανανέωσης συνδρομής**</span><span class="sxs-lookup"><span data-stu-id="3d277-113">**Manage subscription renewal**</span></span>
+1. <span data-ttu-id="d5fe1-112">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **"Χρέωση**  >  [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".</span><span class="sxs-lookup"><span data-stu-id="d5fe1-112">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d5fe1-113">Στην καρτέλα **"Προϊόντα",** επιλέξτε τη συνδρομή που θέλετε να αλλάξετε.</span><span class="sxs-lookup"><span data-stu-id="d5fe1-113">On the **Products** tab, select the subscription that you want to change.</span></span>
+3. <span data-ttu-id="d5fe1-114">Στη σελίδα λεπτομερειών συνδρομής, στην περιοχή **"Ρυθμίσεις συνδρομής και πληρωμής",** επιλέξτε **"Επεξεργασία περιοδικής χρέωσης".**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-114">On the subscription details page, under **Subscription and payment settings**, select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="d5fe1-115">Στο παράθυρο **"Επεξεργασία ρυθμίσεων περιοδικής χρέωσης",** επιλέξτε **"Ενεργοποίηση",** **"Ενεργοποίηση" αλλά "Ανανέωση" μία** φορά ή **"Απενεργοποίηση".**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-115">In the **Edit recurring billing settings** pane, select **On**, **On, but renew once**, or **Turn off**.</span></span>
+5. <span data-ttu-id="d5fe1-116">Επιλέξτε **"Αποθήκευση".**</span><span class="sxs-lookup"><span data-stu-id="d5fe1-116">Select **Save**.</span></span>
 
-<span data-ttu-id="3d277-114">Για να διαχειριστείτε τις μηνιαίες ή ετήσιες χρεώσεις, μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε την επιλογή "Επαναλαμβανόμενη χρέωση".</span><span class="sxs-lookup"><span data-stu-id="3d277-114">To manage monthly or yearly billing you can toggle Recurring billing on or off.</span></span>
-
-1. <span data-ttu-id="3d277-115">Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **Χρέωση > [Προϊόντα και υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="3d277-115">In the admin center, go to the **Billing > [Products & Services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-
-2. <span data-ttu-id="3d277-116">Επιλέξτε τη συνδρομή για την οποία θέλετε να διαχειριστείτε την επαναλαμβανόμενη χρέωση.</span><span class="sxs-lookup"><span data-stu-id="3d277-116">Choose the subscription for which you want to manage recurring billing.</span></span> 
-
-3. <span data-ttu-id="3d277-117">Στην περιοχή "Χρέωση", δίπλα στα στοιχεία "Ανανεώνεται στις" ή "Λήγει στις", κάντε κλικ στην επιλογή **Επεξεργασία**.</span><span class="sxs-lookup"><span data-stu-id="3d277-117">Under Billing, next to Renews on or Expiring on, click **edit**.</span></span>
-
-4. <span data-ttu-id="3d277-118">Στο παράθυρο ρυθμίσεων "Επαναλαμβανόμενη χρέωση", επιλέξτε **Απενεργοποίηση** για να το απενεργοποιήσετε.</span><span class="sxs-lookup"><span data-stu-id="3d277-118">In the Recurring billing settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="3d277-119">Εάν η επιλογή "Επαναλαμβανόμενη χρέωση" είναι ήδη απενεργοποιημένη, επιλέξτε **Μηνιαία** ή **Μία φορά** για να την ενεργοποιήσετε.</span><span class="sxs-lookup"><span data-stu-id="3d277-119">If recurring billing is already turned off, click **Monthly** or **Once** to turn it on.</span></span> 
-
-5. <span data-ttu-id="3d277-120">Κάντε κλικ στην επιλογή **Υποβολή αλλαγής**.</span><span class="sxs-lookup"><span data-stu-id="3d277-120">Click **Submit change**.</span></span>
-
-<span data-ttu-id="3d277-121">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της "Επαναλαμβανόμενης χρέωσης](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="3d277-121">For more info, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="d5fe1-117">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της επαναλαμβανόμενης χρέωσης](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="d5fe1-117">For more info, see [Turn recurring billing off or on](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
