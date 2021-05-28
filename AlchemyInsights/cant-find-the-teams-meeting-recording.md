@@ -1,5 +1,5 @@
 ---
-title: Δεν μπορείτε να βρείτε την εγγραφή σύσκεψης του Teams
+title: Δεν μπορείτε να βρείτε την εγγραφή Teams σύσκεψης
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294185"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696936"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Δεν μπορείτε να βρείτε την εγγραφή σύσκεψης του Teams
+# <a name="cant-find-the-teams-meeting-recording"></a>Δεν μπορείτε να βρείτε την εγγραφή Teams σύσκεψης
 
-Εάν δεν μπορείτε να εντοπίσετε ή να βρείτε μια εγγραφή σύσκεψης του Teams, ανατρέξτε στην ακόλουθη τεκμηρίωση αντιμετώπισης προβλημάτων:
+Εάν δεν μπορείτε να εντοπίσετε ή να βρείτε μια εγγραφή Teams σύσκεψης, εκτελέστε πρώτα το Διαγνωστικό καταγραφής σύσκεψης που λείπει πληκτρολογώντας **"Διάγωνο:Λείπει** εγγραφή" στο παραπάνω πλαίσιο. 
 
-[Αντιμετώπιση προβλημάτων εγγραφής σύσκεψης του Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Οι εγγραφές βρίσκονται στο Stream, OneDrive ή SharePoint ανάλογα με τον τρόπο ρύθμισης παραμέτρων του μισθωτή σας και εάν η εγγραφή ήταν για μια σύσκεψη καναλιού. Για οδηγίες σχετικά με τον τρόπο μη αυτόματης εύρεσης της εγγραφής της σύσκεψης, ανατρέξτε στα θέμα: 
 
-Η εγγραφή σύσκεψης θα βρίσκεται στο Stream, το OneDrive ή το SharePoint, ανάλογα με τον τρόπο ρύθμισης των παραμέτρων του μισθωτή σας.
+[Θέμα 2: Η σύνδεση εγγραφής σύσκεψης δεν είναι ορατή σε ένα παράθυρο συνομιλίας](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Για οδηγίες σχετικά με τον τρόπο εύρεσης της εγγραφής σύσκεψης, ανατρέξτε στο θέμα:
-
-**[Θέμα 2: Η σύνδεση εγγραφής σύσκεψης δεν είναι ορατή σε ένα παράθυρο συνομιλίας](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Προβλήματα με τις εγγραφές συσκέψεων.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
