@@ -1,5 +1,5 @@
 ---
-title: η υπηρεσία του 1048 5.7.750 δεν είναι διαθέσιμη. Το πρόγραμμα-πελάτης αποκλειστεί από την αποστολή από μη καταχωρημένους τομείς
+title: 1048 5.7.750 Η υπηρεσία δεν είναι διαθέσιμη. Το πρόγραμμα-πελάτης έχει αποκλειστεί από την αποστολή από μη καταχωρημένους τομείς
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,17 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5879c5996a28e8e9e61c696c51e7c590d1245ba1
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664242"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774251"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="afa2c-103">το πρόγραμμα-πελάτης 5.7.750 αποκλειστεί από την αποστολή από μη καταχωρημένο τομέα</span><span class="sxs-lookup"><span data-stu-id="afa2c-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="d295a-103">5.7.750 Το πρόγραμμα-πελάτης έχει αποκλειστεί από την αποστολή από μη καταχωρημένο τομέα</span><span class="sxs-lookup"><span data-stu-id="d295a-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="afa2c-104">Το σφάλμα παρουσιάζεται όταν ένας μεγάλος όγκος μηνυμάτων αποστέλλονται από τομείς που δεν έχουν παρασχεθεί στον μισθωτή σας (προστίθενται ως αποδεκτοί τομείς και επικυρωμένοι).</span><span class="sxs-lookup"><span data-stu-id="afa2c-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
+<span data-ttu-id="d295a-104">Το σφάλμα παρουσιάζεται όταν ένας μεγάλος όγκος μηνυμάτων αποστέλλεται από τομείς που δεν έχουν προμήθεια στο μισθωτή σας (προστέθηκε ως αποδεκτοί τομείς και επικυρώθηκε).</span><span class="sxs-lookup"><span data-stu-id="d295a-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="afa2c-105">Για να αποφύγετε αυτό το σφάλμα, μπορείτε να χρησιμοποιήσετε μια σύνδεση ροής αλληλογραφίας που βασίζεται σε πιστοποιητικά, όπου ο τομέας του πιστοποιητικού είναι ένας τομέας που έχει παρασχεθεί ή μπορείτε να προβλεφθούν όλοι οι τομείς αποστολής.</span><span class="sxs-lookup"><span data-stu-id="afa2c-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="d295a-105">Για να αποφύγετε αυτό το σφάλμα, μπορείτε να χρησιμοποιήσετε μια γραμμή σύνδεσης ροής αλληλογραφίας που βασίζεται σε πιστοποιητικό όπου ο τομέας του πιστοποιητικού είναι ένας τομέας προμήθειας ή μπορείτε να κάνετε προμήθεια όλων των τομέων αποστολής.</span><span class="sxs-lookup"><span data-stu-id="d295a-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+
+<span data-ttu-id="d295a-106">Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Επιδιόρθωση προβλημάτων παράδοσης ηλεκτρονικού ταχυδρομείου για τους κωδικούς σφάλματος [5.7.700 έως 5.7.750 στο Exchange Online.](https://go.microsoft.com/fwlink/?linkid=2164955)</span><span class="sxs-lookup"><span data-stu-id="d295a-106">For more information, see [Fix email delivery issues for error codes 5.7.700 through 5.7.750 in Exchange Online](https://go.microsoft.com/fwlink/?linkid=2164955).</span></span>
