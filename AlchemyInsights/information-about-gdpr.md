@@ -1,5 +1,5 @@
 ---
-title: Πληροφορίες σχετικά με το ΑΕΓΧΠΠ
+title: Πληροφορίες σχετικά με τον ΓΚΠΔ
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755657"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853869"
 ---
-# <a name="information-about-gdpr"></a>Πληροφορίες σχετικά με το ΑΕΓΧΠΠ
+# <a name="information-about-gdpr"></a>Πληροφορίες σχετικά με τον ΓΚΠΔ
 
-- Γρήγορα αποτελέσματα με την [πύλη αξιοπιστίας υπηρεσίας.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [Απλοποιημένος γκΠΔ: Ένας οδηγός για τη μικρή επιχείρησή σας](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Για οτιδήποτε σχετίζεται με τη **συμφωνία επεξεργασίας δεδομένων** (DPA), εξετάστε το εξής:
+- Γρήγορα αποτελέσματα με την [Πύλη αξιοπιστίας υπηρεσιών.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+
+- Για οτιδήποτε σχετίζεται **με τη Σύμβαση επεξεργασίας δεδομένων** (DPA), ελέγξτε τα εξής:
 
   - [Πόροι προστασίας δεδομένων](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Αναφορές ελέγχου](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Πληροφορίες σχετικά με τις **αιτήσεις για θέματα δεδομένων** (DSR)-εντοπισμός, πρόσβαση, διόρθωση, περιορισμός, διαγραφή, εξαγωγή είναι [εδώ.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Πληροφορίες σχετικά **με αιτήσεις για υποκείμενα** δεδομένων (DSR) - ανακαλύψτε, αποκτήστε πρόσβαση, διορθώστε, περιορίσετε, διαγράψτε, εξαγάγετε είναι [εδώ.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Πληροφορίες σχετικά με την **ειδοποίηση παραβίασης δεδομένων** είναι [εδώ.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Πληροφορίες σχετικά με **την Ειδοποίηση παραβίασης δεδομένων** είναι [εδώ.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Οι πληροφορίες σχετικά με τις **θέσεις δεδομένων** είναι [εδώ.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Οι πληροφορίες σχετικά **με τις θέσεις δεδομένων** είναι [εδώ.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
