@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822851"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930975"
 ---
 # <a name="active-directory-not-syncing"></a>Η υπηρεσία καταλόγου Active Directory δεν συγχρονίζεται
 
 Εάν λαμβάνετε σφάλματα συγχρονισμού, όπως "δεν υπάρχει πρόσφατος συγχρονισμός" ή παρατηρήσετε ότι η κατάσταση συγχρονισμού καταλόγου στην πύλη διαχείρισης του Office αναφέρει "Ο τελευταίος συγχρονισμός έγινε πριν από περισσότερες από 3 ημέρες", μπορεί να είναι ότι το AADConnect έχει εσφαλμένες ρυθμίσεις ή ανεπαρκή δικαιώματα για την εκτέλεση συγχρονισμού.  
 
-Η επανεγκατάσταση του AADConnect με τη χρήση των express ρυθμίσεων μπορεί να επιλύσει το πρόβλημα γρήγορα:
+Η επανεγκατάσταση του AADConnect με χρήση των express ρυθμίσεων μπορεί να επιλύσει το πρόβλημα γρήγορα:
 
 1. [Κάντε λήψη της πιο πρόσφατης έκδοσης του AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Ακολουθήστε τις οδηγίες για τη γρήγορη εγκατάσταση.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Ακολουθήστε τις οδηγίες για τη γρήγορη εγκατάσταση.](/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Για περισσότερες πληροφορίες σχετικά με τους λογαριασμούς υπηρεσιών AADConnect, ανατρέξτε στο [θέμα Azure AD Connect: Λογαριασμοί και δικαιώματα.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+Το Azure AD Connect πρέπει να είναι εγκατεστημένο στον Windows Server 2012 ή σε νεότερες εκδόσεις. Αυτός ο διακομιστής πρέπει να είναι συνδεδεμένος με τομέα και μπορεί να είναι ελεγκτής τομέα ή διακομιστής-μέλος. Για μια πλήρη λίστα με τις απαιτήσεις Σύνδεση Azure AD και τα προαπαιτούμενα, εξετάστε τις [προϋποθέσεις για το Azure AD Σύνδεση.](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+
+Για περισσότερες πληροφορίες σχετικά με τους λογαριασμούς υπηρεσιών AADConnect, ανατρέξτε στο [θέμα Azure AD Σύνδεση: Λογαριασμοί και δικαιώματα.](/azure/active-directory/hybrid/reference-connect-accounts-permissions)
