@@ -1,5 +1,5 @@
 ---
-title: Καθοδήγηση αναβάθμισης ομάδων
+title: Teams αναβάθμισης
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333928"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095400"
 ---
-# <a name="microsoft-teams-upgrade"></a>Αναβάθμιση του Microsoft teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams αναβάθμιση
 
-**Σημαντικό**: Εάν έχετε αναβαθμιστεί από το Skype για ηλεκτρονικές συναλλαγές στο Microsoft teams μόνο σε λειτουργία teams, αλλά διαπιστώσετε ότι δεν είστε ακόμα έτοιμοι, μπορούμε να σας βοηθήσουμε να διορθώσετε αυτό το θέμα για εσάς χρησιμοποιώντας ένα πρόγραμμα υποστήριξης διαγνωστικών. Βεβαιωθείτε ότι χρησιμοποιείτε το νέο κέντρο διαχείρισης, σύροντας το κουμπί εναλλαγής στην επάνω δεξιά γωνία που αναφέρει το **νέο κέντρο διαχείρισης**προς τα δεξιά. Χρησιμοποιώντας το νέο κέντρο διαχείρισης, κάντε κλικ στο widget **χρειάζεστε βοήθεια;** , πληκτρολογήστε "**αναβάθμιση ομάδων**" και, στη συνέχεια, ακολουθήστε τις οδηγίες για να εκτελέσετε το διαγνωστικό.
+Είτε απλώς ξεκινάτε με το Teams, χρησιμοποιείτε ήδη το Teams μαζί με το Skype για επιχειρήσεις είτε είστε έτοιμοι για αναβάθμιση, θέλουμε να εξασφαλίσουμε ότι έχετε όλα όσα χρειάζεστε για να περιηγηθείτε σε ένα επιτυχημένο ταξίδι στο Teams. Για περισσότερες πληροφορίες, επισκεφθείτε τις παρακάτω συνδέσεις.
 
-Ανεξάρτητα από το αν μόλις ξεκινήσατε με τις ομάδες, χρησιμοποιώντας ήδη τις ομάδες μαζί με το Skype για επαγγελματικές ή έτοιμες για αναβάθμιση, θέλουμε να εξασφαλίσουμε ότι έχετε όλα όσα χρειάζεστε για να περιηγηθείτε σε ένα επιτυχημένο ταξίδι στις ομάδες. Για περισσότερες πληροφορίες, παρακαλούμε επισκεφθείτε τους παρακάτω συνδέσμους.
+[Γρήγορα αποτελέσματα με την αναβάθμιση Microsoft Teams σας](/MicrosoftTeams/upgrade-start-here)
 
-[Γρήγορα αποτελέσματα με την αναβάθμιση του Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Σχεδιασμός για την αναβάθμιση](/MicrosoftTeams/upgrade-plan-journey)
 
-[Σχεδιασμός για την αναβάθμισή σας](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Κατανόηση Microsoft Teams και Skype για επιχειρήσεις συνύπαρξης](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Κατανόηση της συνύπαρξης του Microsoft teams και του Skype για επιχειρηματικές δραστηριότητες](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Εκτέλεση της αναβάθμισης από Skype για επιχειρήσεις Online σε Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Εκτέλεση της αναβάθμισης από το Skype για ηλεκτρονικές συναλλαγές στο teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Εκτέλεση της αναβάθμισης από το Skype για επιχείρηση εσωτερικής εγκατάστασης σε ομάδες](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Εκτέλεση της αναβάθμισης από Skype για επιχειρήσεις εσωτερικής εγκατάστασης σε Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Επιλέξτε την κατάσταση του Skype για ηλεκτρονική επιχείρηση για την αναβάθμιση ομάδων με το PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Ελέγξτε την κατάσταση του Skype για επιχειρήσεις Online για Teams αναβάθμιση με το PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
