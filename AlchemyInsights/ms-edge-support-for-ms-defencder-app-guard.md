@@ -1,5 +1,5 @@
 ---
-title: Υποστήριξη του Microsoft Edge για το προστατευτικό εφαρμογής του Microsoft Defender
+title: Microsoft Edge υποστήριξης για Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583584"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346062"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Υποστήριξη του Microsoft Edge για το προστατευτικό εφαρμογής του Microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge υποστήριξης για Microsoft Defender Application Guard
 
-Σχεδιασμένο για Windows 10 και Microsoft Edge, το Guard εφαρμογών χρησιμοποιεί μια προσέγγιση απομόνωσης υλικού, η οποία επιτρέπει στους χρήστες να περιηγηθούν σε μη αξιόπιστες τοποθεσίες μέσα σε ένα απομονωμένο κοντέινερ με δυνατότητα Hyper-V, το οποίο διαχωρίζεται από το λειτουργικό σύστημα του κεντρικού υπολογιστή.
+Ο Microsoft Defender για ταυτότητα παρέχει μια κεντρική θέση όπου οι διαχειριστές μπορούν να εντοπίζουν, να εντοπίζουν και να διερευνούν απειλές ταυτότητας εσωτερικής εγκατάστασης. 
 
-Ένας διαχειριστής εταιρείας ορίζει μια λίστα αξιόπιστων τοποθεσιών Web, πόρων cloud και εσωτερικών δικτύων. Όταν ένας χρήστης επισκέπτεται μια τοποθεσία που δεν υπάρχει στη λίστα, το Microsoft Edge θα ανοίξει την τοποθεσία στο κοντέινερ. Αυτό σημαίνει ότι εάν η τοποθεσία αποδειχθεί κακόβουλη, ο κεντρικός ΥΠΟΛΟΓΙΣΤΉς θα παραμείνει προστατευμένος και ο εισβολέας δεν θα φτάσει στα εταιρικά δεδομένα.
+Χρησιμοποιήστε τον [οδηγό ρύθμισης του Microsoft Defender για ταυτότητα](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) για να επαληθεύσετε ότι έχετε ικανοποιεί όλες τις προϋποθέσεις περιβάλλοντος. δημιουργήστε μια παρουσία, συνδεθείτε στην υπηρεσία καταλόγου Active Directory και εγκαταστήστε τον αισθητήρα σας. 
 
-Η εγκατάσταση των επεκτάσεων στο κοντέινερ υποστηρίζεται από το Microsoft Edge έκδοση 81 και μπορεί να ελεγχθεί μέσω μιας πολιτικής. Η διεύθυνση updateURL που χρησιμοποιείται στην πολιτική ExtensionInstallForcelist θα πρέπει να προστεθεί ως ουδέτερος πόρος στις πολιτικές απομόνωσης δικτύου που χρησιμοποιούνται από το Guard εφαρμογών.
-
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [υποστήριξη του Microsoft Edge για το προστατευτικό εφαρμογής του Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2134229).
+Όταν τελειώσετε, οι ταυτότητες των χρηστών παρακολουθούνται και μπορούν να ληφθούν άμεσα μέτρα κατά τυχόν κακόβουλης δραστηριότητας που υπονομεύσει τον οργανισμό σας.
