@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745822"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532111"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Διαγραφή μιας τοποθεσίας του SharePoint που ανήκει σε μια ομάδα του Microsoft 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Διαγραφή μιας SharePoint που ανήκει σε μια Microsoft 365 ομάδας
 
-Η διαγραφή μιας τοποθεσίας που είναι συνδεδεμένη σε ομάδα θα διαγράψει την ομάδα και όλους τους πόρους της, συμπεριλαμβανομένου του γραμματοκιβωτίου του Outlook και του ημερολογίου, καθώς και οποιωνδήποτε καναλιών των ομάδων.
+Η διαγραφή μιας τοποθεσίας που είναι συνδεδεμένη με ομάδα θα διαγράψει την ομάδα και όλους τους πόρους της, συμπεριλαμβανομένου Outlook γραμματοκιβωτίου και ημερολογίου, καθώς και Teams καναλιών.
   
-Σημαντικό
+Σημαντικό:
 
-- Μπορείτε να ανακτήσετε διαγραμμένες τοποθεσίες για 93 ημέρες. Οι διαγραμμένες ομάδες πρέπει να αποκατασταθούν εντός 30 ημερών. [Προβολή και επαναφορά διαγραμμένων τοποθεσιών](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) απευθείας από το κέντρο διαχείρισης του SharePoint. Για να [προβάλετε και να επαναφέρετε **διαγραμμένες ομάδες**](https://outlook.office.com/people/group/deleted), επιλέξτε **Διαχείριση ομάδων**και, στη συνέχεια, επιλέξτε **Διαγραφή**.
-- Εάν η τοποθεσία αποτελεί μέρος μιας πολιτικής διατήρησης, ενδέχεται να μην μπορείτε να τη διαγράψετε μέχρι να καταργηθεί η τοποθεσία από το [Κέντρο διαχείρισης συμμόρφωσης & ασφαλείας](https://protection.office.com/?rfr=AdminCenter#/retention). Για περισσότερες πληροφορίες, ανατρέξτε στην [Επισκόπηση των πολιτικών διατήρησης](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Μπορείτε να ανακτήσετε διαγραμμένες τοποθεσίες για 93 ημέρες. Οι διαγραμμένες ομάδες πρέπει να αποκατασταθούν εντός 30 ημερών. [Προβάλετε και επαναφέρετε διαγραμμένες](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) τοποθεσίες απευθείας από SharePoint Κέντρο διαχείρισης. Για να [προβάλετε και να **επαναφέρετε διαγραμμένες ομάδες,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)επιλέξτε **"Διαχείριση ομάδων"** και, στη συνέχεια, επιλέξτε **"Διαγράφηκε".**
+- Εάν η τοποθεσία αποτελεί μέρος μιας πολιτικής διατήρησης, ενδέχεται να μην μπορείτε να τη διαγράψετε μέχρι η τοποθεσία να καταργηθεί από το [Κέντρο διαχείρισης ασφάλειας & συμμόρφωσης.](https://protection.office.com/?rfr=AdminCenter#/retention) Για περισσότερες πληροφορίες, ανατρέξτε στην [επισκόπηση των πολιτικών διατήρησης.](/microsoft-365/compliance/retention-policies)
   
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Διαχείριση τοποθεσιών στο νέο κέντρο διαχείρισης του SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Διαχείριση τοποθεσιών στο νέο SharePoint διαχείρισης.](/sharepoint/manage-sites-in-new-admin-center)

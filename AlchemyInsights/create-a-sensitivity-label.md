@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543649"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532183"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Τρόπος δημιουργίας ετικέτας ευαισθησίας
 
-1. Μεταβείτε στο κέντρο Office 365 ασφάλειας & συμμόρφωσης και > **ετικέτες**  >  **ευαισθησίας ταξινόμησης.**
+1. Μεταβείτε στο κέντρο Microsoft 365 συμμόρφωσης > **ετικέτες προστασίας**  >  **πληροφοριών.**
 
 1. Επιλέξτε **+ Δημιουργία ετικέτας για να** ξεκινήσετε τον Οδηγό νέας ετικέτας ευαισθησίας.
 
