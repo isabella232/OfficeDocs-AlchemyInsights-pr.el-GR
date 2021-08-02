@@ -3,6 +3,7 @@ title: Πληροφορίες συνδρομής
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,28 +12,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 7a9f09f559f070759261b261cc52c04af2cd9007
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286994"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680406"
 ---
 # <a name="subscription-information"></a>Πληροφορίες συνδρομής
 
-Για πληροφορίες σχετικά με τις συνδρομές που διαθέτετε, μεταβείτε στη σελίδα **χρέωση** των \> [προϊόντων σας](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Για πληροφορίες σχετικά με τις συνδρομές που έχετε, μεταβείτε στη σελίδα **"Χρέωση** \> [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".
   
 Ο πίνακας εμφανίζει τις ακόλουθες βασικές πληροφορίες σχετικά με κάθε συνδρομή:
   
 - Όνομα προϊόντος
-- Άδειες χρήσης που έχουν εκχωρηθεί
-- Άδειες χρήσης που έχουν αγοραστεί
+- Εκχωρηθηκε αδεια αδειων χρήσης
+- Άδειες χρήσης που αγοράσατε
 - Κατάσταση
-- Ανανέωση ή ημερομηνία λήξης
+- Ημερομηνία ανανέωσης ή λήξης
 - Μέθοδος πληρωμής
 - Λογαριασμός χρέωσης (εάν υπάρχει)
  
-Για να προσθέσετε ή να καταργήσετε στήλες, επιλέξτε **επιλογή στηλών**.
+Για να προσθέσετε ή να καταργήσετε στήλες, **επιλέξτε "Επιλογή στηλών".**
