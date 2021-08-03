@@ -3,6 +3,8 @@ title: Αλλαγή διεύθυνσης χρέωσης ή ειδοποιήσε�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,14 +13,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4dd0257f7dd87cfe3a47c0206aa6225f95fe1770
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819188"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685662"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Αλλαγή διεύθυνσης χρέωσης ή ειδοποιήσεων ηλεκτρονικού ταχυδρομείου χρέωσης
 
@@ -42,4 +45,4 @@ ms.locfileid: "51819188"
 
 4. Στο πλαίσιο **"Εναλλακτική διεύθυνση ηλεκτρονικού** ταχυδρομείου", πληκτρολογήστε την εναλλακτική διεύθυνση ηλεκτρονικού ταχυδρομείου που θέλετε να χρησιμοποιήσετε και, στη συνέχεια, κάντε κλικ στην επιλογή **"Αποθήκευση".**
 
-Για περισσότερες πληροφορίες σχετικά με τις αλλαγές διεύθυνσης και ειδοποιήσεων, ανατρέξτε στο [θέμα Αλλαγή των διευθύνσεων χρέωσης για το Microsoft 365 για επιχειρήσεις.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)
+Για περισσότερες πληροφορίες σχετικά με τις αλλαγές διεύθυνσης και ειδοποιήσεων, ανατρέξτε στο θέμα Αλλαγή των [διευθύνσεων χρέωσης για Microsoft 365 για επιχειρήσεις.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
