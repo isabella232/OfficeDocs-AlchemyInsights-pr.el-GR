@@ -3,6 +3,7 @@ title: Ακύρωση Project συνδρομής
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 8b3890a271acbbd6ccb4811d784d66b9dc7986fa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543397"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688722"
 ---
 # <a name="cancel-project-subscription"></a>Ακύρωση Project συνδρομής
 
-Οι διαχειριστές μπορούν να ακυρώσουν Project συνδρομή για τον οργανισμό τους στο Microsoft 365 διαχείρισης.
+Οι διαχειριστές μπορούν να ακυρώσουν Project συνδρομή για τον οργανισμό τους στο Κέντρο διαχείρισης Microsoft 365.
 
 1. Μεταβείτε στη σελίδα **"Χρέωση** \> [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".
 2. Στην καρτέλα **"Προϊόντα",** βρείτε Project συνδρομή που θέλετε να ακυρώσετε. Επιλέξτε τις τρεις τελείες (περισσότερες ενέργειες) και, στη συνέχεια, επιλέξτε **"Ακύρωση συνδρομής".**

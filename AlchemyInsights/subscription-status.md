@@ -3,6 +3,7 @@ title: Κατάσταση συνδρομής
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542785"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689550"
 ---
 # <a name="subscription-status"></a>Κατάσταση συνδρομής
 
-Μπορείτε να βρείτε την κατάσταση της συνδρομής,  την ημερομηνία λήξης και τον αριθμό των αδειών χρήσης στη σελίδα "Τα προϊόντα σας" Microsoft 365 κέντρο διαχείρισης.
+Μπορείτε να βρείτε την κατάσταση της συνδρομής, την ημερομηνία λήξης και τον αριθμό των αδειών χρήσης στη σελίδα **"Τα** προϊόντα σας" του Κέντρο διαχείρισης Microsoft 365.
 
 1. Στο κέντρο διαχείρισης, μεταβείτε στη σελίδα **"Χρέωση**  >  [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".
 2. Στην καρτέλα **"Προϊόντα",** από προεπιλογή, βλέπετε όλες τις συνδρομές και την κατάστασή τους (Ενεργές, Έληξε, Απενεργοποιημένες ή Διαγραμμένες). Για να δείτε ένα υποσύνολο όλων των συνδρομών, επιλέξτε το εικονίδιο φίλτρου και, στη συνέχεια, επιλέξτε **την** κατάσταση συνδρομής που θέλετε να δείτε.

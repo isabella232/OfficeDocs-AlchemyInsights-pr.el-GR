@@ -1,8 +1,10 @@
 ---
-title: Πώς να κάνετε μια αγορά του Microsoft 365
+title: Πώς μπορείτε να κάνετε μια Microsoft 365 αγορά
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232367"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689082"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Πώς να κάνετε μια αγορά του Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Πώς μπορείτε να κάνετε μια Microsoft 365 αγορά
 
-Μπορείτε να αγοράσετε μια συνδρομή στο Microsoft 365 από το κέντρο διαχείρισης.
+Μπορείτε να αγοράσετε μια Microsoft 365 στο κέντρο διαχείρισης.
   
-- Για να αγοράσετε ένα  πρόγραμμα, μεταβείτε στη σελίδα \> **["Υπηρεσίες αγοράς χρέωσης".](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-- Για να αγοράσετε πρόσθετες άδειες χρήσης, μεταβείτε στη σελίδα **"Χρέωση** \> **[των προϊόντων σας".](https://go.microsoft.com/fwlink/p/?linkid=842054)** Επιλέξτε τη συνδρομή που θέλετε να αλλάξετε και, στη συνέχεια, επιλέξτε **"Αγορά αδειών χρήσης".\**
+- Για να αγοράσετε ένα πρόγραμμα, μεταβείτε στη **σελίδα υπηρεσιών αγορών** \> **[χρέωσης.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Για να αγοράσετε πρόσθετες άδειες χρήσης, μεταβείτε στη σελίδα **"Χρέωση** \> **[των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054)** σας". Επιλέξτε τη συνδρομή που θέλετε να αλλάξετε και, στη συνέχεια, επιλέξτε **"Αγορά αδειών χρήσης".**
 **ΠΑΡΑΚΟΛΟΥΘΉΣτε ένα βίντεο** που δείχνει πώς μπορείτε να το κάνετε αυτό: [Αγορά νέων αδειών χρήσης](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα "Αγορά ή κατάργηση αδειών χρήσης".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Αντιμετώπιση προβλημάτων**
 
@@ -35,5 +38,5 @@ ms.locfileid: "50232367"
 
 **Πρόσθετοι πόροι**
   
-- [Εκχώρηση αδειών χρήσης σε χρήστες του Microsoft 365 για Επιχειρήσεις](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Ακύρωση του Microsoft 365 για Επιχειρήσεις](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Εκχώρηση αδειών χρήσης σε χρήστες του Microsoft 365 για επιχειρήσεις](/microsoft-365/admin/add-users/add-users)
+- [Ακύρωση Microsoft 365 για επιχειρήσεις](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
