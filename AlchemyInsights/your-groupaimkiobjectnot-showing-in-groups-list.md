@@ -1,5 +1,5 @@
 ---
-title: Η ομάδα σας δεν εμφανίζεται στη λίστα "ομάδες"
+title: Η ομάδα σας δεν εμφανίζεται στη λίστα "Ομάδες"
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907630"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Η ομάδα σας "{AimKIObject}" δεν εμφανίζεται στη λίστα "ομάδες"
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Η ομάδα σας "{AimKIObject}" δεν εμφανίζεται στη λίστα ομάδων
 
-Η ομάδα διανομής σας με το όνομα "{AimKIObject}" δημιουργήθηκε {AimKITimeElapsed} λεπτά πριν. Μπορεί να χρειαστούν έως και 60 λεπτά για να εμφανιστεί η νέα σας ομάδα στο κέντρο διαχείρισης.
+Η ομάδα διανομής σας με το όνομα "{AimKIObject}" δημιουργήθηκε πριν από {AimKITimeElapsed}. Μπορεί να διαρκέσει έως και 60 λεπτά μέχρι να εμφανιστεί η νέα ομάδα σας στο Κέντρο διαχείρισης.
   
-Εάν θέλετε να προσθέσετε μέλη ή να κάνετε άλλες αλλαγές αυτή τη στιγμή, χρησιμοποιήστε τη δυνατότητα "ομάδες" στο [Κέντρο διαχείρισης του Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Εάν θέλετε να προσθέσετε μέλη ή να κάνετε άλλες αλλαγές αυτήν τη στιγμή, χρησιμοποιήστε τη δυνατότητα "Ομάδες" [στο Exchange Διαχείρισης.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
   
 

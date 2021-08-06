@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019508"
 ---
 # <a name="authentication-issues"></a>Προβλήματα ελέγχου ταυτότητας
 
@@ -75,14 +75,14 @@ ms.locfileid: "49976849"
 - [Χειρισμός των πρόκλησης πρόσβασης υπό όρους με χρήση του MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Οδηγίες για προγραμματιστές για πρόσβαση υπό όρους στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Τέλος υποστήριξης για τη Βιβλιοθήκη ελέγχου ταυτότητας του Azure Active Directory (ADAL) και του Azure AD Graph API (AAD Graph)_* _
+***Λήξη υποστήριξης για τη Azure Active Directory ελέγχου ταυτότητας (ADAL) και το Azure AD Graph API (AAD Graph)***
 
 - Από τις 30 Ιουνίου 2020, δεν θα προσθέσουμε άλλες νέες δυνατότητες στη Βιβλιοθήκη ελέγχου ταυτότητας του Azure Active Directory (ADAL) και του Azure AD Graph API (AAD Graph). Θα συνεχίσουμε να παρέχουμε ενημερώσεις τεχνικής υποστήριξης και ασφάλειας, αλλά δεν θα παρέχουμε πλέον ενημερώσεις δυνατοτήτων.
 - Από τις 30 Ιουνίου 2022, θα τερματίσουμε την υποστήριξη για το ADAL και το AAD Graph και δεν θα παρέχουμε πλέον τεχνική υποστήριξη ή ενημερώσεις ασφαλείας.
     - Οι εφαρμογές που χρησιμοποιούν το ADAL σε υπάρχουσες εκδόσεις λειτουργικού συστήματος θα συνεχίσουν να λειτουργούν μετά από αυτό το χρονικό διάστημα, αλλά δεν θα λαμβάνουν καμία τεχνική υποστήριξη ή ενημερώσεις ασφαλείας.
     - Οι εφαρμογές που θα χρησιμοποιούν το AAD Graph μετά από αυτό το χρονικό διάστημα ενδέχεται να μην λαμβάνουν πλέον απαντήσεις από το τελικό σημείο του AAD Graph.
 
-_ *Μετεγκατάσταση ADAL**
+**Μετεγκατάσταση ADAL**
 
 Συνιστάται να κάνετε ενημέρωση στη [Βιβλιοθήκη ελέγχου ταυτότητας της Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), η οποία διαθέτει τις πιο πρόσφατες δυνατότητες και ενημερώσεις ασφαλείας. Αυτή η ενέργεια είναι στο πλαίσιο της μετεγκατάστασης των εφαρμογών της Microsoft στο MSAL μέχρι την προθεσμία λήξης της υποστήριξης. Ο στόχος της μετεγκατάστασης των εφαρμογών της Microsoft στο MSAL είναι να εξασφαλιστεί ότι οι εφαρμογές επωφελούνται από τις συνεχείς βελτιώσεις ασφάλειας και δυνατοτήτων του MSAL.
 

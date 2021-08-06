@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 43898bd85dc6d0ffcf3d9146e65583ad9532e64d342fea55fd48e055caf133a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019364"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Λήψη ή αίτηση αντιγράφου του λογαριασμού μου στο Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "51820862"
 
 1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "Συνδρομές"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) στην πύλη Azure ως χρήστης με πρόσβαση [σε τιμολόγια και, στη](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) συνέχεια, επιλέξτε **"Τιμολόγια"**
 2. Κάντε κλικ **στην επιλογή "Λήψη τιμολογίου"** για να δείτε ένα αντίγραφο του τιμολογίου PDF. Εάν αναφέρεται ότι **δεν είναι διαθέσιμο,** [ανατρέξτε στο θέμα Γιατί δεν βλέπω ένα τιμολόγιο για την τελευταία περίοδο χρέωσης;](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Μπορείτε επίσης να προβάλετε την ημερήσια χρήση κάνοντας κλικ στην περίοδο χρέωσης για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (. CSV): [Λήψη δεδομένων τιμολογίου και χρήσης](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+3. Μπορείτε επίσης να προβάλετε την ημερήσια χρήση σας κάνοντας κλικ στην περίοδο χρέωσης για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (.CSV): Λήψη τιμολογίου και [δεδομένων χρήσης](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Να επιτρέπεται σε άλλους χρήστες η λήψη του τιμολογίου της συνδρομής σας**
 

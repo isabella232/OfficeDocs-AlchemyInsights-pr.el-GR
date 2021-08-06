@@ -1,5 +1,5 @@
 ---
-title: Προτείνετε λύσεις για προβλήματα χώρου αποθήκευσης Dynamics 365
+title: Προτείνετε λύσεις για προβλήματα Υπηρεσία αποθήκευσης Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922951"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Προτείνετε λύσεις για προβλήματα χώρου αποθήκευσης Dynamics 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Προτείνετε λύσεις για προβλήματα χώρου αποθήκευσης στο Dynamics 365
 
-* Ως καθολικός διαχειριστής, δείτε την ανάλυση χώρου αποθήκευσης κατά περιβάλλον, τους πρώτους 10 πίνακες και πολλά άλλα
+* Ως καθολικός διαχειριστής, δείτε την ανάλυση χώρου αποθήκευσης κατά περιβάλλον, τους 10 κορυφαίους πίνακες και πολλά άλλα
 
-* [Ερωτήσεις χρέωσης και συνδρομής χώρου αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Υπηρεσία αποθήκευσης χρέωσης και συνδρομής](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Οδηγός τιμολόγησης και αδειοδότησης του Dynamics 365](https://dynamics.microsoft.com/pricing/)
+* [Οδηγός τιμολόγησης και παραχώρησης αδειών χρήσης για το Dynamics 365](https://dynamics.microsoft.com/pricing/)
 
-* [Πώς να αγοράσετε περισσότερο χώρο αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Τρόπος αγοράς περισσότερου χώρου αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Πώς μπορείτε να αποδεσμεύσετε χώρο αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Πώς μπορείτε να ελευθερώσετε χώρο αποθήκευσης](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

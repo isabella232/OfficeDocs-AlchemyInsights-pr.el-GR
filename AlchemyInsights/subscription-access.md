@@ -1,5 +1,5 @@
 ---
-title: Πρόσβαση σε συνδρομή
+title: Πρόσβαση συνδρομής
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999240"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Δεν είναι δυνατή η είσοδος στο Azure λόγω προβλημάτων του προγράμματος περιήγησης (το πρόγραμμα περιήγησης σταματά να ανταποκρίνεται, συνεχίζει να περιστρέφεται, δεν φορτώνεται, κ. λπ.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Δεν είναι δυνατή η είσοδος στο Azure λόγω προβλημάτων του προγράμματος περιήγησης (Το πρόγραμμα περιήγησης σταματά να λειτουργεί, συνεχίζει να περιστρέφεται, δεν φορτώνει κ.λπ.)
 
-Ενδέχεται να επηρεαστείτε από μια διακοπή ρεύματος. Παρακαλούμε ελέγξτε για να δείτε εάν υπάρχει συνεχιζόμενη διακοπή ρεύματος: [κατάσταση εύρυθμης λειτουργίας Azure](https://status.azure.com/status/history/).
+Ενδέχεται να σας επηρεάσει μια εκτός ρεύματος. Ελέγξτε για να δείτε εάν υπάρχει μια τρέχουσα κατάσταση: [Κατάσταση υγείας Azure.](https://status.azure.com/status/history/)
 
-Μπορείτε να αποσυνδεθείτε από όλες τις ενεργές περιόδους λειτουργίας Azure. Ξεκινήστε μια κατάσταση λειτουργίας in-Private ή ινκόγκνιτο του προγράμματος περιήγησής σας στο Web.
+Αποσυνδεθείτε από όλες τις ενεργές περιόδους λειτουργίας Azure. Ξεκινήστε μια λειτουργία in-private ή incognito του προγράμματος περιήγησης Web.
 
-Θα μπορούσατε επίσης να δοκιμάσετε να ανανεώσετε το πρόγραμμα περιήγησης, να χρησιμοποιήσετε ένα άλλο πρόγραμμα περιήγησης, να διαγράψετε τα cookies cache αν δεν λειτουργεί.
+Μπορείτε επίσης να δοκιμάσετε να ανανεώσετε το πρόγραμμα περιήγησης, να χρησιμοποιήσετε ένα άλλο πρόγραμμα περιήγησης, να διαγράψετε τα cookies cache, εάν δεν λειτουργούν τα παραπάνω.
 
-Μάθετε περισσότερα: [αντιμετώπιση ζητημάτων εισόδου](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+Μάθετε περισσότερα: [Αντιμετώπιση προβλημάτων σύνδεσης](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
 **Δεν είναι δυνατή η πρόσβαση σε συνδρομές**
 
-Στην [πύλη Azure](https://portal.azure.com/), βεβαιωθείτε ότι έχει επιλεγεί ο σωστός Κατάλογος Azure από το λογαριασμό στην επάνω δεξιά γωνία.
+Στην πύλη [Azure,](https://portal.azure.com/)βεβαιωθείτε ότι ο σωστός κατάλογος Azure είναι επιλεγμένος από το λογαριασμό στην επάνω δεξιά πλευρά.
 
-Στο [Κέντρο λογαριασμού Azure](https://account.windowsazure.com/Subscriptions), βεβαιωθείτε ότι ο λογαριασμός που χρησιμοποιείται είναι ο διαχειριστής του λογαριασμού.
+Στο κέντρο [λογαριασμών Azure,](https://account.windowsazure.com/Subscriptions)βεβαιωθείτε ότι ο λογαριασμός που χρησιμοποιείται είναι ο διαχειριστής του λογαριασμού.
 
-Μάθετε περισσότερα: [Αντιμετώπιση προβλημάτων χωρίς εύρεση συνδρομών](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Μάθετε περισσότερα: Αντιμετώπιση [προβλημάτων που δεν βρέθηκαν συνδρομές](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Δεν είναι δυνατή η πρόσβαση στο ιστορικό χρεώσεων**
 
-Ο διαχειριστής του λογαριασμού πρέπει να βεβαιωθεί ότι ο χρήστης που έχει πρόσβαση στις πληροφορίες χρέωσης προστίθεται στο Azure Active Directory ως χρήστης επισκέπτη: [Προσθήκη ή διαγραφή νέου χρήστη](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Ο διαχειριστής λογαριασμού πρέπει να βεβαιωθεί ότι ο χρήστης που έχει πρόσβαση στις πληροφορίες χρέωσης προστίθεται στην υπηρεσία καταλόγου Azure Active directory ως χρήστης-επισκέπτης: [Προσθήκη ή διαγραφή νέου χρήστη.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Στη συνέχεια, ο χρήστης πρέπει να αποκτήσει έναν ρόλο καθολικού διαχειριστή: [εκχώρηση ρόλου στους χρήστες](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Στη συνέχεια, ο χρήστης πρέπει να έχει έναν ρόλο καθολικού διαχειριστή: [Αναθέστε ρόλο στους χρήστες.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Δημοσιεύστε αυτό το μήνυμα, ο χρήστης μπορεί να αποκτήσει πρόσβαση χρέωσης χρησιμοποιώντας τις πολιτικές RBAC: [εκχωρήστε πρόσβαση σε χρεώσεις](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Δημοσιεύστε αυτό το μήνυμα, μπορείτε να αποκτήσετε πρόσβαση χρέωσης στο χρήστη χρησιμοποιώντας τις πολιτικές RBAC: [Εκχώρηση πρόσβασης στη χρέωση.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Προτεινόμενα έγγραφα**
 
--   [Δεν μπορώ να συνδεθώ για τη διαχείριση της συνδρομής μου στο Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Δεν μπορώ να πραγματοποιήσω είσοδο για να διαχειριστώ τη συνδρομή μου στο Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

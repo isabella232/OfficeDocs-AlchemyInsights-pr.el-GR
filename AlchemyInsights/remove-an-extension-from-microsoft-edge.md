@@ -1,5 +1,5 @@
 ---
-title: Κατάργηση επέκτασης από τον Microsoft Edge
+title: Κατάργηση επέκτασης από Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "6936"
 - "8311"
 - "9004621"
-ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: efd515d472f0ab99213ffa88709861000bb6536e1d2c10beef8f6d534cc94a7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922411"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>Κατάργηση επέκτασης από τον Microsoft Edge
+# <a name="remove-an-extension-from-microsoft-edge"></a>Κατάργηση επέκτασης από Microsoft Edge
 
-Για να καταργήσετε μια επέκταση από τον Microsoft Edge:
+Για να καταργήσετε μια επέκταση από Microsoft Edge:
 
-1. Ανοίξτε τον Microsoft Edge.
+1. Ανοίξτε Microsoft Edge.
 2. Επιλέξτε **... > επεκτάσεις.**
 3. Στη σελίδα **εγκατεστημένων επεκτάσεων,** βρείτε την επέκταση που θέλετε να καταργήσετε και, στη συνέχεια, επιλέξτε **"Κατάργηση"** δίπλα της.
 4. Στο παράθυρο διαλόγου επιβεβαίωσης, επιλέξτε **"Κατάργηση".**
