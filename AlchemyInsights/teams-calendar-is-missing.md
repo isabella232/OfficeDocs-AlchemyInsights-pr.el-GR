@@ -1,5 +1,5 @@
 ---
-title: Το ημερολόγιο ομάδων λείπει
+title: Teams ημερολόγιο λείπει
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6191"
 - "9003307"
-ms.openlocfilehash: 996f11a9917c09b19e20e5bc54d3ad22a3fe5f48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fc10c6b9a959adb8dd90c710859e82bd086493bd76ef30a9f6239713ec32109
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909025"
 ---
-# <a name="teams-calendar-is-missing"></a>Το ημερολόγιο ομάδων λείπει
+# <a name="teams-calendar-is-missing"></a>Teams ημερολόγιο λείπει
 
-Ο διαχειριστής των ομάδων σας μπορεί να έχει απενεργοποιήσει το ημερολόγιο, επομένως βεβαιωθείτε πρώτα ότι είναι διαθέσιμο για εσάς.
+Ο Teams διαχειριστής μπορεί να έχει απενεργοποιήσει το ημερολόγιο, επομένως πρώτα βεβαιωθείτε ότι είναι διαθέσιμο σε εσάς.
 
-Εάν είναι διαθέσιμη, δοκιμάστε να αλλάξετε την έκδοση των ομάδων σας.
+Εάν είναι διαθέσιμη, δοκιμάστε να αλλάξετε την έκδοση του Teams.
 
 - Εάν χρησιμοποιείτε την έκδοση Web, μεταβείτε στην εγκατεστημένη έκδοση.
-- Εάν χρησιμοποιείτε την εγκατεστημένη έκδοση, δοκιμάστε τις ομάδες στο Web.
+- Εάν χρησιμοποιείτε την εγκατεστημένη έκδοση, δοκιμάστε να Teams στο web.
