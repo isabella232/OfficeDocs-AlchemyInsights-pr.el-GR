@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967477"
 ---
 # <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Συσκευές εν πλω στον Microsoft Defender για τελικό σημείο
 
-Ο Microsoft Defender για τελικό σημείο παρέχει μια κεντρική εμπειρία λειτουργιών ασφαλείας για πλατφόρμες Windows και μη Windows. Σας βοηθά να προστατεύσετε το δίκτυο του οργανισμού σας και να χρησιμοποιήσετε το Κέντρο προστασίας του Microsoft Defender για να ελέγξετε τις ειδοποιήσεις από διάφορα υποστηριζόμενα λειτουργικά συστήματα:
+Ο Microsoft Defender για endpoint παρέχει μια κεντρική εμπειρία λειτουργιών ασφαλείας για Windows και μη Windows πλατφόρμες. Σας βοηθά να προστατεύσετε το δίκτυο του οργανισμού σας και να χρησιμοποιήσετε Κέντρο προστασίας του Microsoft Defender για να ελέγξετε τις ειδοποιήσεις από διάφορα υποστηριζόμενα λειτουργικά συστήματα:
 
-- Για **υπολογιστές Με Windows 10,** ανατρέξτε στο θέμα Εργαλεία και μέθοδοι για συσκευές Windows [10.](https://go.microsoft.com/fwlink/?linkid=2143460)
-- Για **διακομιστές Windows,** ανατρέξτε [στο θέμα Διακομιστές onboard στην υπηρεσία Microsoft Defender για τελικά σημεία.](https://go.microsoft.com/fwlink/?linkid=2143627)
-- Για **τελικά σημεία που δεν είναι windows,** βεβαιωθείτε ότι το σύστημά σας πληροί τις απαιτήσεις για [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) ή [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)και, στη συνέχεια, προχωρήστε [στην προσχώρησή σας.](https://go.microsoft.com/fwlink/?linkid=2143628)
+- Για **Windows 10, ανατρέξτε** στο θέμα Εργαλεία και μέθοδοι για [Windows 10 συσκευές.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Για **Windows διακομιστές, ανατρέξτε** στο θέμα [Διακομιστές onboard στην υπηρεσία Microsoft Defender για τελικά σημεία.](https://go.microsoft.com/fwlink/?linkid=2143627)
+- Για **μη Windows** τελικά σημεία, βεβαιωθείτε ότι το σύστημά σας πληροί τις απαιτήσεις για [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) ή [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)και, στη συνέχεια, προχωρήστε [στην προσχώρησή σας.](https://go.microsoft.com/fwlink/?linkid=2143628)
