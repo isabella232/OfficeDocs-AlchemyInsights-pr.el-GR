@@ -1,5 +1,5 @@
 ---
-title: Τμήματα Web του Yammer στο SharePoint
+title: Yammer τμήματα Web σε SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970331"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Τμήματα Web του Yammer στο SharePoint
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer τμήματα Web σε SharePoint
 
-Το Yammer συνομιλίες και τα τμήματα Web του Yammer επισημαίνουν την ενίσχυση της συνεργασίας σε σύγχρονες και κλασικές σελίδες του SharePoint. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [συνομιλίες Yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  και  [επισημάνσεις Yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
+Yammer Οι συνομιλίες και Yammer επισημάνει τα τμήματα Web βελτιώνουν τη συνεργασία σε σύγχρονες και κλασικές SharePoint σελίδες. Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Yammer συνομιλιών](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) [και Yammer Επισημάνεις.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-Το σύγχρονο τμήμα Web συνομιλίες Yammer ενημερώνεται για τη νέα εμπειρία του Yammer και είναι διαθέσιμο για τους μισθωτές στοχευμένης κυκλοφορίας. Η εγκατάσταση του GA έχει ξεκινήσει. Οι νέες δυνατότητες περιλαμβάνουν τη δυνατότητα να ξεκινήσετε μια συνομιλία με οποιαδήποτε δημοσίευση (ερωτήσεις, δημοσκοπήσεις, επαίνους) και να επισημάνετε τις καλύτερες απαντήσεις απευθείας από το SharePoint. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [νέοι όροι και συνήθεις ερωτήσεις για τους πελάτες του Yammer](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+Το σύγχρονο Yammer Web "Συνομιλίες" ενημερώνεται στη νέα Yammer και είναι διαθέσιμο για μισθωτές στοχευμένης κυκλοφορίας. Η συνάθροιση GA έχει ξεκινήσει. Οι νέες δυνατότητες περιλαμβάνουν τη δυνατότητα να ξεκινήσετε μια συνομιλία με οποιαδήποτε δημοσίευση (Ερωτήσεις, ψηφοφορίες, Επιδοκιμασία) και να επισημάνετε τις καλύτερες απαντήσεις απευθείας από SharePoint. Για περισσότερες πληροφορίες, ανατρέξτε στις [νέες Yammer και συνήθεις ερωτήσεις για τους πελάτες.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
 
- Για να καταλάβετε ποιο τμήματα Web και ποιες παράμετροι είναι σωστές για εσάς, ανατρέξτε [στο θέμα χρήση ενός τμήματος Web του Yammer στο SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
+ Για να κατανοήσετε ποιο τμήμα Web και ποια ρύθμιση παραμέτρων είναι κατάλληλο για εσάς, ανατρέξτε στο θέμα [Χρήση Yammer τμήματος Web στο SharePoint Online.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
-**Χρήση τμημάτων Web με τον SharePoint Server**  
+**Χρήση τμημάτων Web με SharePoint Server**  
 
 Τα τμήματα Web μπορούν να χρησιμοποιηθούν σε σύγχρονες και κλασικές σελίδες μέσα σε περιβάλλοντα εσωτερικής εγκατάστασης.
 
-- Για περισσότερες πληροφορίες σχετικά με τις σύγχρονες σελίδες, ανατρέξτε [στο θέμα Προσθήκη τροφοδοσίας Yammer σε μια σύγχρονη σελίδα του SharePoint Server 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
-- Για περισσότερες πληροφορίες σχετικά με τις κλασικές σελίδες, ανατρέξτε στο θέμα [Προσθήκη τροφοδοσίας Yammer σε κλασική σελίδα των διακομιστών του SharePoint 2013, 2016 και 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
+- Για περισσότερες πληροφορίες σχετικά με τις σύγχρονες σελίδες, ανατρέξτε στο [θέμα Προσθήκη Yammer τροφοδοσίας σε μια σύγχρονη σελίδα SharePoint Server 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019) 
+- Για περισσότερες πληροφορίες σχετικά με τις κλασικές σελίδες, ανατρέξτε στο θέμα Προσθήκη τροφοδοσίας Yammer σε μια κλασική σελίδα στους [διακομιστές SharePoint 2013, 2016 και 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)
 
-**Ενσωμάτωση Yammer**  
+**Yammer Ενσωμάτωση**  
 
-Χρησιμοποιήστε το εργαλείο ενσωμάτωσης παραμέτρων για να ελέγξετε τη χρήση της ενσωμάτωσης. Μια μελλοντική ενημέρωση για ενσωμάτωση θα ενεργοποιήσει τη νέα εμπειρία του Yammer. Για περισσότερες πληροφορίες, ανατρέξτε στο [εργαλείο ενσωμάτωσης παραμέτρων του Yammer](https://aka.ms/YammerEmbedConfigureTool). Για να κατανοήσετε καλύτερα το στοιχείο ενσωμάτωσης του Yammer, ανατρέξτε στο θέμα [ενσωμάτωση τροφοδοσίας](https://aka.ms/YammerDevDocs).
+Χρησιμοποιήστε το εργαλείο "Ενσωμάτωση ρύθμισης παραμέτρων" για να ελέγξετε τη χρήση ενσωμάτωσης. Μια μελλοντική ενημέρωση για την ενσωμάτωση θα ενεργοποιήσει τη νέα Yammer εμπειρίας. Για περισσότερες πληροφορίες, ανατρέξτε στο Yammer ["Ενσωμάτωση ρύθμισης παραμέτρων".](https://aka.ms/YammerEmbedConfigureTool) Για να κατανοήσετε καλύτερα το Yammer "Ενσωμάτωση", ανατρέξτε στο θέμα ["Ενσωμάτωση τροφοδοσίας".](https://aka.ms/YammerDevDocs)
 
-**Γνωστά θέματα και περιορισμοί**
+**Γνωστά προβλήματα και περιορισμοί**
 
-- Τα αναγνωριστικά ομάδων δεν είναι διαθέσιμα από τις νέες διευθύνσεις URL του Yammer, οι οποίες έχουν αλλάξει. Επιστρέψτε στην κλασική λειτουργία για να αποκτήσετε αναγνωριστικά ομάδων ή άλλα αναγνωριστικά από διευθύνσεις URL.
-- Οι προσαρμοσμένοι (ματαιοδοξία) τομείς δεν υποστηρίζονται.
-- Το Yammer Ενσωματώστε δεν έχει βελτιστοποιηθεί για κινητές συσκευές. Χρησιμοποιήστε μοντέρνες σελίδες με το τμήμα Web "συνομιλίες Yammer" για την καλύτερη δυνατή εμπειρία.
-- Τα προσαρμοσμένα θέματα μπορούν να επηρεάσουν την εμφάνιση και τη χρηστικότητα του Τμήματος Web συνομιλιών του Yammer. Ανοίξτε μια υπόθεση υποστήριξης για να αναφέρετε προβλήματα.
+- Τα αναγνωριστικά ομάδας δεν είναι διαθέσιμα από Yammer ΔΙΕΥΘΎΝΣΕΙς URL, οι οποίες έχουν αλλάξει. Επιστροφή στην κλασική λειτουργία για λήψη αναγνωριστικών ομάδας ή άλλων αναγνωριστικών από διευθύνσεις URL.
+- Οι προσαρμοσμένοι τομείς (ματαιοδοξίας) δεν υποστηρίζονται.
+- Yammer Η ενσωμάτωση δεν έχει βελτιστοποιηθεί για κινητές συσκευές. Χρησιμοποιήστε σύγχρονες σελίδες με το Yammer Web "Συνομιλίες" για την καλύτερη δυνατή εμπειρία.
+- Τα προσαρμοσμένα θέματα μπορούν να επηρεάσουν την εμφάνιση και τη χρηστικότητα Yammer Τμήμα Web "Συνομιλίες". Ανοίξτε μια υπόθεση υποστήριξης για να αναφέρετε προβλήματα.

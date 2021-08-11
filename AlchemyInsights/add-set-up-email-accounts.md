@@ -1,5 +1,5 @@
 ---
-title: 1800018 Προσθήκη/ρύθμιση λογαριασμών ηλεκτρονικού ταχυδρομείου
+title: 1800018/ρύθμιση λογαριασμών ηλεκτρονικού ταχυδρομείου
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935553"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>Προβλήματα με τη ρύθμιση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου στο Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Προβλήματα με τη ρύθμιση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου Outlook
 
-Εάν αντιμετωπίζετε προβλήματα με τη ρύθμιση ενός λογαριασμού του Exchange στο Outlook, μπορείτε να εκτελέσετε το [εργαλείο ρύθμισης λογαριασμού του Outlook](https://aka.ms/SaRA-OutlookSetupProfile) στον υπολογιστή που επηρεάζεται. Θα εκτελεί διάφορους ελέγχους και θα παρέχει πιθανές λύσεις για το πρόβλημα εγκατάστασης του λογαριασμού σας.
+Εάν αντιμετωπίζετε προβλήματα με τη ρύθμιση ενός λογαριασμού Exchange στο Outlook, μπορείτε να εκτελέσετε [το εργαλείο Outlook ρύθμισης](https://aka.ms/SaRA-OutlookSetupProfile) λογαριασμού στον υπολογιστή που επηρεάζεται. Θα εκτελεί διάφορους ελέγχους και θα παρέχει πιθανές λύσεις στο πρόβλημα ρύθμισης του λογαριασμού σας.
   
-Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, ανατρέξτε [στο θέμα το Outlook δεν μπορεί να ρυθμίσει ένα νέο προφίλ με χρήση του αυτόματου εντοπισμού του Exchange για ένα γραμματοκιβώτιο του Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Εάν εξακολουθείτε να αντιμετωπίζετε προβλήματα, ανατρέξτε στο θέμα Outlook δεν μπορείτε να ρυθμίσετε ένα νέο προφίλ χρησιμοποιώντας Exchange αυτόματου εντοπισμού [για ένα Exchange Online γραμματοκιβωτίου.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   

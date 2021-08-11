@@ -1,5 +1,5 @@
 ---
-title: Τι νέο υπάρχει στα Windows 10, έκδοση 1903
+title: Τι νέο υπάρχει στην Windows 10, έκδοση 1903
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692050"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970655"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>Τι νέο υπάρχει στα Windows 10, έκδοση 1903
+# <a name="whats-new-in-windows-10-version-1903"></a>Τι νέο υπάρχει στην Windows 10, έκδοση 1903
 
-Εδώ θα βρείτε τις νέες και ενημερωμένες δυνατότητες και το περιεχόμενο για τα Windows 10, έκδοση 1903, γνωστή και ως ενημερωμένη έκδοση του Windows 10 May 2019. Αυτή η ενημέρωση περιέχει επίσης όλες τις δυνατότητες και τις επιδιορθώσεις που περιλαμβάνονται σε προηγούμενες αθροιστικές ενημερώσεις των Windows 10, έκδοση 1809:
+Ακολουθούν οι νέες και ενημερωμένες δυνατότητες και το περιεχόμενο για Windows 10 έκδοση 1903, γνωστές και ως Ενημέρωση Μαΐου 2019 των Windows 10. Αυτή η ενημέρωση περιέχει επίσης όλες τις δυνατότητες και τις επιδιορθώσεις που περιλαμβάνονταν σε προηγούμενες αθροιστικές ενημερώσεις για Windows 10, έκδοση 1809:
 
-1. [Ανάπτυξης](https://go.microsoft.com/fwlink/?linkid=2114296)
+1. [Ανάπτυξη](https://go.microsoft.com/fwlink/?linkid=2114296)
 1. [Συντήρηση](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [Ασφάλεια](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)
