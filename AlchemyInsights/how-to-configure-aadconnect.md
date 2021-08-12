@@ -1,5 +1,5 @@
 ---
-title: 646 πώς μπορείτε να ρυθμίσετε τις παραμέτρους του AADConnect
+title: 646 Τρόπος ρύθμισης παραμέτρων του AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,25 +13,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963643"
 ---
 # <a name="configure-sync-features"></a>Ρύθμιση παραμέτρων δυνατοτήτων συγχρονισμού
 
-Το Azure AD Connect περιλαμβάνει διάφορες δυνατότητες που είναι ενεργοποιημένες από προεπιλογή ή τις οποίες μπορείτε να ενεργοποιήσετε αργότερα. Ορισμένες δυνατότητες απαιτούν πρόσθετες ρυθμίσεις παραμέτρων σε συγκεκριμένα περιβάλλοντα.
+Το Azure AD Σύνδεση περιλαμβάνει διάφορες δυνατότητες που είναι ενεργοποιημένες από προεπιλογή ή που μπορείτε να ενεργοποιήσετε αργότερα. Ορισμένες δυνατότητες απαιτούν πρόσθετες ρυθμίσεις παραμέτρων σε συγκεκριμένα περιβάλλοντα.
 
-- Περιορισμοί [φιλτραρίσματος](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) τα αντικείμενα συγχρονίζονται με το Azure AD. Από προεπιλογή, όλοι οι χρήστες, οι επαφές, οι ομάδες και οι λογαριασμοί υπολογιστή με Windows 10 συγχρονίζονται. Μπορείτε να συμπεριλάβετε ή να εξαιρέσετε αντικείμενα που βασίζονται σε τομείς, οργανικές μονάδες ή άλλα χαρακτηριστικά.
+- [Τα όρια φιλτραρίσματος](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) των αντικειμένων συγχρονίζονται με το Azure AD. Από προεπιλογή, όλοι οι χρήστες, οι επαφές, οι ομάδες και Windows 10 λογαριασμών υπολογιστών συγχρονίζονται. Μπορείτε να συμπεριλάβετε ή να εξαιρέσετε αντικείμενα που βασίζονται σε τομείς, OUs ή άλλα χαρακτηριστικά.
 
-- [Συγχρονισμός κατακερματισμού κωδικού πρόσβασης](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) συγχρονίζει τον κατακερματισμό κωδικού πρόσβασης από την υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης στο Azure AD. Αυτό επιτρέπει τη διαχείριση κωδικών πρόσβασης σε μία θέση, αλλά τη χρήση του ίδιου κωδικού πρόσβασης σε περιβάλλοντα εσωτερικής εγκατάστασης και cloud. Επειδή η υπηρεσία καταλόγου Active Directory είναι η έγκυρη προέλευση, μπορείτε να χρησιμοποιήσετε τις δικές σας πολιτικές κωδικών πρόσβασης.
+- [Ο συγχρονισμός του hash](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) κωδικού πρόσβασης συγχρονίζει τον κωδικό πρόσβασης από την υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης στο Azure AD. Αυτό επιτρέπει τη διαχείριση κωδικών πρόσβασης σε μία θέση, αλλά η χρήση του ίδιου κωδικού πρόσβασης τόσο σε περιβάλλοντα εσωτερικής εγκατάστασης όσο και σε περιβάλλοντα cloud. Επειδή η υπηρεσία καταλόγου Active Directory είναι η έγκυρη προέλευση, μπορείτε να χρησιμοποιήσετε τις δικές σας πολιτικές κωδικού πρόσβασης.
 
-- Η [Επαναφορά κωδικού πρόσβασης από το χρήστη (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) επιτρέπει στους χρήστες να επαναφέρουν τους δικούς τους κωδικούς πρόσβασης στο cloud, ενώ εξακολουθούν να εφαρμόζουν την πολιτική κωδικού πρόσβασης εσωτερικής εγκατάστασης.
+- [Η επαναφορά κωδικού πρόσβασης από το χρήστη (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) επιτρέπει στους χρήστες να επαναφέρουν τους δικούς τους κωδικούς πρόσβασης στο cloud ενώ εξακολουθούν να εφαρμόζουν την πολιτική κωδικών πρόσβασης εσωτερικής εγκατάστασης.
 
-- Το [Device αντιγραφής](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) επιτρέπει την εγγραφή των εγγεγραμμένων συσκευών στο Azure AD στην υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης, ώστε να μπορούν να χρησιμοποιηθούν για πρόσβαση υπό όρους.
+- [Η διαγραφή συσκευής](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) επιτρέπει την εγγραφή των καταχωρημένων συσκευών στο Azure AD στην υπηρεσία καταλόγου Active Directory εσωτερικής εγκατάστασης, ώστε να μπορούν να χρησιμοποιηθούν για πρόσβαση υπό όρους.
 
-- [Αποτροπή τυχαίων](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) διαγραφών είναι ενεργοποιημένη από προεπιλογή για να αποτρέψετε πάρα πολλές ταυτόχρονες διαγραφές αντικειμένων (περισσότερα από 500 αντικείμενα ανά συγχρονισμό). Μπορείτε να αλλάξετε αυτήν τη ρύθμιση για να ικανοποιήσετε τις ανάγκες της εταιρείας σας.
+- [Η αποτροπή τυχαίων διαγραφών](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) είναι ενεργοποιημένη από προεπιλογή για την αποτροπή πάρα πολλών ταυτόχρονων διαγραφών αντικειμένων (περισσότερα από 500 αντικείμενα ανά συγχρονισμό). Μπορείτε να αλλάξετε αυτήν τη ρύθμιση ώστε να ανταποκρίνεται στις ανάγκες της εταιρείας σας.
 
-- Η [Αυτόματη αναβάθμιση](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) είναι ενεργοποιημένη από προεπιλογή για τις γρήγορες εγκαταστάσεις και σας βοηθά να διασφαλίσετε ότι η έκδοση του Azure AD Connect είναι πάντα τρέχουσα.
+- [Η αυτόματη αναβάθμιση](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) είναι ενεργοποιημένη από προεπιλογή για εγκαταστάσεις express και σας βοηθά να εξασφαλίσετε ότι η έκδοση του Azure AD Σύνδεση είναι πάντα ενημερωμένη.

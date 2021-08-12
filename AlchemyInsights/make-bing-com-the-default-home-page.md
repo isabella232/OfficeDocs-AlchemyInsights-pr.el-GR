@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση Bing.com προεπιλεγμένης αρχικής σελίδας
+title: Κάντε Bing.com ως προεπιλεγμένη αρχική σελίδα
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 23229bc6d01a84684d7074e498058e9674221d36
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912418"
 ---
-# <a name="make-bingcom-the-default-home-page"></a>Ρύθμιση Bing.com προεπιλεγμένης αρχικής σελίδας
+# <a name="make-bingcom-the-default-home-page"></a>Κάντε Bing.com ως προεπιλεγμένη αρχική σελίδα
 
-Για να κάνετε το Bing την προεπιλεγμένη αρχική σελίδα στον Microsoft Edge, το Google Chrome και τον Internet Explorer, ακολουθήστε τις οδηγίες [στο Bing.com την προεπιλεγμένη αρχική σελίδα.](https://go.microsoft.com/fwlink/?linkid=2149816)
+Για να Bing την προεπιλεγμένη αρχική σελίδα στο Microsoft Edge, το Google Chrome και τον Internet Explorer, ακολουθήστε τις οδηγίες στο [Bing.com](https://go.microsoft.com/fwlink/?linkid=2149816)ως προεπιλεγμένη αρχική σελίδα.
