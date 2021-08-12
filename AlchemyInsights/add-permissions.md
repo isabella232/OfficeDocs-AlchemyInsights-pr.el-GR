@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7783"
-ms.openlocfilehash: b749278dc8e532ca723da5e6d8e4affc9a9266c7
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 02901b25ca9cd373d1e158cffdffb820b9ba7bb55c90a56aae57807a2e932192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935733"
 ---
 # <a name="add-permissions"></a>Προσθήκη δικαιωμάτων
 
-1. Χρησιμοποιήστε το τελικό σημείο συναίνεσης διαχειριστή για να [ρυθμίσετε τις παραμέτρους της λίστας με στατικά απαιτούμενα δικαιώματα για μια εφαρμογή](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application).
-1. Υπάρχουν δύο δικαιώματα που είναι διαθέσιμα για τη χορήγηση της δυνατότητας δημιουργίας καταχωρήσεων εφαρμογών, το καθένα με διαφορετική συμπεριφορά. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα δικαιώματα δήλωσης εφαρμογής για προσαρμοσμένους ρόλους στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions).
-1. [Δικαιώματα ρόλου](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions): πίνακες που περιγράφουν τα συγκεκριμένα δικαιώματα στην υπηρεσία καταλόγου Active Directory του Azure που δίνονται σε κάθε ρόλο. Ορισμένοι ρόλοι μπορεί να έχουν πρόσθετα δικαιώματα στις υπηρεσίες της Microsoft εκτός του Azure Active Directory.
+1. Χρησιμοποιήστε το τελικό σημείο συγκατάθεσης διαχειριστή για [να ρυθμίσετε τις παραμέτρους της λίστας των στατικών δικαιωμάτων που ζητήθηκαν για μια εφαρμογή.](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application)
+1. Υπάρχουν δύο διαθέσιμα δικαιώματα για την εκχώρηση της δυνατότητας δημιουργίας εγγραφών εφαρμογών, το καθένα με διαφορετική συμπεριφορά. Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Δικαιώματα καταχώρησης εφαρμογών για προσαρμοσμένους ρόλους Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)
+1. [Δικαιώματα ρόλων:](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions)πίνακες που περιγράφουν τα συγκεκριμένα δικαιώματα Azure Active Directory σε κάθε ρόλο. Ορισμένοι ρόλοι μπορεί να έχουν πρόσθετα δικαιώματα σε Υπηρεσίες της Microsoft εκτός Azure Active Directory.

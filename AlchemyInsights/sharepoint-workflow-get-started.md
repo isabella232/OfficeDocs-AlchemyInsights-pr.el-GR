@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910402"
 ---
-# <a name="workflows-in-sharepoint"></a>Ροές εργασιών στο SharePoint
+# <a name="workflows-in-sharepoint"></a>Ροές εργασιών σε SharePoint
 
-Οι ροές εργασίας στο SharePoint επιτρέπουν την μοντελοποίηση και την αυτοματοποίηση επιχειρηματικών διεργασιών. Το SharePoint υποστηρίζει δύο πρωτεύοντα περιβάλλοντα ανάπτυξης ροής εργασίας για τη σύνταξη ροών εργασίας: SharePoint Designer και Visual Studio. 
+Οι ροές εργασιών SharePoint να μοντελοποιήσετε και να αυτοματοποιήσετε επιχειρηματικές διαδικασίες. SharePoint υποστηρίζει δύο κύρια περιβάλλοντα ανάπτυξης ροής εργασίας για τη σύνταξη ροών εργασιών: SharePoint Σχεδίασης και Visual Studio. 
 
-Ανατρέξτε [στο θέμα ανάπτυξη ροών εργασίας του SharePoint στο SharePoint Designer και Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ή [ανάπτυξη ροών εργασίας του SharePoint με τη χρήση του Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) για την αξιολόγηση των πλεονεκτημάτων και μειονεκτημάτων του καθενός. 
+Ανατρέξτε στο [θέμα "SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ροές εργασιών στο SharePoint Σχεδίασης και Visio ή ανάπτυξη [ροών εργασιών SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) χρησιμοποιώντας το Visual Studio για να αξιολογήσετε τα πλεονεκτήματα και τα μειονεκτήματα κάθε μίας. 
 
-Εάν προσπαθείτε να προσδιορίσετε εάν οι ροές εργασίας είναι μια λύση που θα χρησιμοποιηθεί στο περιβάλλον του SharePoint ή εάν αναζητάτε γενικές πληροφορίες σχετικά με τα γρήγορα αποτελέσματα, ανατρέξτε [στο θέμα Επισκόπηση των ροών εργασίας στο SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Εάν προσπαθείτε να προσδιορίσετε εάν οι ροές εργασιών είναι μια λύση για χρήση στο περιβάλλον του SharePoint ή αναζητάτε γενικές πληροφορίες σχετικά με τα γρήγορα αποτελέσματα, ανατρέξτε στο θέμα Επισκόπηση των ροών [εργασιών στο SharePoint.](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint)
