@@ -1,5 +1,5 @@
 ---
-title: Πώς μπορείτε να προσθέσετε και να διαχειριστείτε διαχειριστές-Προτεινόμενα βήματα
+title: Τρόπος προσθήκης και διαχείρισης διαχειριστών - προτεινόμενα βήματα
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963787"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Πώς μπορείτε να προσθέσετε και να διαχειριστείτε διαχειριστές-Προτεινόμενα βήματα
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Τρόπος προσθήκης και διαχείρισης διαχειριστών - προτεινόμενα βήματα
 
-Με βάση την περιγραφή του ζητήματος, βρήκαμε μια λύση για εσάς. Οι περισσότεροι πελάτες μπόρεσαν να επιλύσουν το ζήτημά τους μόνοι τους, αφού ακολούθησαν την τεκμηρίωσή τους.
+Με βάση την περιγραφή του προβλήματος, έχουμε βρει μια λύση για εσάς. Οι περισσότεροι πελάτες είχαν τη δυνατότητα να επιλύσουν το πρόβλημά τους μόνοι τους μετά την τεκμηρίωση.
 
-**Επεξεργασία του διαχειριστή συνδρομής ή του διαχειριστή**
+**Επεξεργασία του διαχειριστή συνδρομής ή του διαχειριστή από συνεργασία**
 
-- Ο διαχειριστής του λογαριασμού μπορεί να επεξεργαστεί και τους δύο ρόλους, ενώ ο διαχειριστής της συνδρομής μπορεί να αλλάξει μόνο τους διαχειριστές στην [πύλη Azure](https://ms.portal.azure.com/#home).
-- [Προσθήκη ή αλλαγή των διαχειριστών συνδρομής Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Ο διαχειριστής λογαριασμού μπορεί να επεξεργαστεί και τους δύο ρόλους, ενώ ο διαχειριστής συνδρομής μπορεί να αλλάξει μόνο τους συν-διαχειριστές [στην πύλη Azure.](https://ms.portal.azure.com/#home)
+- [Προσθήκη ή αλλαγή διαχειριστών συνδρομής Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Ενημέρωση του διαχειριστή συνδρομής ή του Co-Administrator για εσωτερικές συνδρομές (ΑΈΡΗΔες)**
+**Ενημέρωση του διαχειριστή συνδρομής ή Co-Administrator για εσωτερικές συνδρομές (AIRS)**
 
-Ο διαχειριστής της υπηρεσίας ή ο διαχειριστής μπορεί να εξυπηρετήσει αυτή την ενέργεια, χρησιμοποιώντας τα παρακάτω βήματα:
+Ο διαχειριστής της υπηρεσίας ή ο διαχειριστής από συνεργασία μπορεί να κάνει αυτο-εξυπηρέτηση αυτής της ενέργειας, ακολουθώντας τα παρακάτω βήματα:
 
-1. Συνδεθείτε στην [πύλη Azure](https://ms.portal.azure.com/#home) και κάντε κλικ στην επιλογή **Διαχείριση κόστους + χρέωση** στην αριστερή λάμα.
-2. Κάντε κλικ στο στοιχείο γραμμή με τη συνδρομή σας. Αυτό ανοίγει την επισκόπηση για τη συνδρομή σας.
-3. Στη λεπίδα **συνδρομής** , κάντε κλικ στην επιλογή **Ιδιότητες**. 
-4. Κάντε κλικ στο κουμπί **διαχειριστής υπηρεσίας** .
-5. Πληκτρολογήστε το μήνυμα ηλεκτρονικού ταχυδρομείου του χρήστη τον οποίο θέλετε να θέσετε ως διαχειριστή υπηρεσίας και κάντε κλικ στο κουμπί **OK**.
+1. Συνδεθείτε στην πύλη [Azure και κάντε κλικ](https://ms.portal.azure.com/#home) στην επιλογή Διαχείριση κόστους + **Χρέωση** στην αριστερή λάμα.
+2. Κάντε κλικ στο στοιχείο γραμμής με τη συνδρομή σας. Με αυτόν τον τρόπο ανοίγει η Επισκόπηση για τη συνδρομή σας.
+3. Στη blade **της συνδρομής,** κάντε κλικ στην επιλογή **"Ιδιότητες".** 
+4. Κάντε κλικ **στο κουμπί "Διαχείριση υπηρεσίας".**
+5. Πληκτρολογήστε το μήνυμα ηλεκτρονικού ταχυδρομείου του χρήστη τον οποίο θέλετε να ορίσετε ως διαχειριστή υπηρεσίας και κάντε κλικ στο **κουμπί OK.**
 
-**Προσθήκη/Αλλαγή/Κατάργηση από κοινού διαχειριστή**
+**Προσθήκη/Αλλαγή/Κατάργηση διαχειριστή από το co-administrator**
 
-1. Συνδεθείτε στην [πύλη Azure](https://ms.portal.azure.com/#home) ως διαχειριστής υπηρεσίας.
-2. Ανοίξτε τις [συνδρομές](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) και επιλέξτε μια συνδρομή. (Το διαχειριστές μπορεί να εκχωρηθεί μόνο στην εμβέλεια της συνδρομής.)
-3. Περιήγηση στους κλασικούς διαχειριστές του **στοιχείου ελέγχου πρόσβασης (IAM)**  >    >  **Προσθήκη** του στοιχείου "  >  **Προσθήκη διαχειριστή** " για να ανοίξετε το τμήμα παραθύρου " **Προσθήκη** από κοινού διαχείρισης" (εάν η επιλογή "Προσθήκη διαχειριστή" είναι απενεργοποιημένη, υποδηλώνει ότι δεν έχετε δικαιώματα).
-4. Επιλέξτε το χρήστη τον οποίο θέλετε να προσθέσετε και κάντε κλικ στην επιλογή **Προσθήκη**.
+1. Συνδεθείτε στην πύλη [Azure ως](https://ms.portal.azure.com/#home) διαχειριστής υπηρεσίας.
+2. Ανοίξτε [τις Συνδρομές](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) και επιλέξτε μια συνδρομή. (Οι συν-διαχειριστές μπορούν να εκχωρούνται μόνο στο εύρος της συνδρομής.)
+3. Μεταβείτε στην κλασική επιλογή "Έλεγχος **πρόσβασης" (IAM)**"Προσθήκη συν-διαχειριστή" για να ανοίξετε το παράθυρο "Προσθήκη  >    >    >   **συν-διαχειριστή"** (Εάν η επιλογή "Προσθήκη συν-διαχειριστή" είναι απενεργοποιημένη, αυτό σημαίνει ότι δεν έχετε δικαιώματα).
+4. Επιλέξτε το χρήστη που θέλετε να προσθέσετε και κάντε κλικ στην επιλογή **"Προσθήκη".**
 
 **Μάθε περισσότερα:**
-- [Προσθήκη κοινού διαχειριστή](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Κατάργηση κοινού διαχειριστή](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Προσθήκη συν-διαχειριστή](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Κατάργηση διαχειριστή από συνεργασία](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Αλλαγή του διαχειριστή υπηρεσίας](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Προβολή του διαχειριστή λογαριασμού](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Διαχείριση της Access με χρήση του RBAC και του Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Διαχείριση πρόσβασης με χρήση της πύλης RBAC και του Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Προσθήκη/Διαγραφή χρηστών με χρήση του Azure Active Directory (AD)**
+**Προσθήκη/διαγραφή χρηστών με χρήση Azure Active Directory (AD)**
 
 Μπορείτε να προσθέσετε νέους χρήστες ή να διαγράψετε υπάρχοντες χρήστες από τον οργανισμό Azure Active Directory (Azure AD):
 
 1. Για να προσθέσετε έναν νέο χρήστη, συνδεθείτε στην [πύλη Azure](https://ms.portal.azure.com/#home) ως διαχειριστής χρήστη για τον οργανισμό.
-2. Επιλέξτε **Azure Active Directory**, επιλέξτε **χρήστες** και, στη συνέχεια, κάντε κλικ στην επιλογή **νέος χρήστης**.
-3. Στη σελίδα **χρήστη** , συμπληρώστε τις απαιτούμενες πληροφορίες. Κάντε κλικ στην επιλογή **Δημιουργία**. Ο χρήστης δημιουργείται και προστίθεται στον μισθωτή σας Azure AD.
+2. Επιλέξτε **Azure Active Directory , επιλέξτε**"Χρήστες" **και, στη** συνέχεια, κάντε κλικ στην επιλογή **"Νέος χρήστης".**
+3. Στη σελίδα **"Χρήστης",** συμπληρώστε τις απαιτούμενες πληροφορίες. Κάντε κλικ **στην επιλογή "Δημιουργία".** Ο χρήστης δημιουργείται και προστίθεται στο μισθωτή azure AD.
 
-**ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ**:
+**Μάθετε περισσότερα:**
 
 - [Προσθήκη νέου χρήστη](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Διαγραφή χρήστη](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Προσθήκη ή ενημέρωση των πληροφοριών προφίλ ενός χρήστη με χρήση του Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Προσθήκη ή ενημέρωση πληροφοριών προφίλ χρήστη με χρήση Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Προτεινόμενα έγγραφα**
 
 - [Τι είναι ο έλεγχος πρόσβασης βάσει ρόλων (RBAC);](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [Κατανόηση των διαφορετικών ρόλων στο Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Δικαιώματα ρόλου διαχειριστή στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Πρόγραμμα εκμάθησης: εκχώρηση πρόσβασης για ένα χρήστη με χρήση του RBAC και της πύλης Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
-- [Αντιμετώπιση προβλημάτων του RBAC στο Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Οργάνωση των πόρων σας με τις ομάδες διαχείρισης του Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Δικαιώματα ρόλων διαχειριστή σε Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Πρόγραμμα εκμάθησης: Εκχώρηση πρόσβασης για ένα χρήστη που χρησιμοποιεί το RBAC και την πύλη Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Αντιμετώπιση προβλημάτων RBAC στο Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
+- [Οργάνωση των πόρων σας με ομάδες διαχείρισης Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
 - [Πώς μπορείτε να ζητήσετε αντίγραφο του τιμολογίου Azure μέσω ηλεκτρονικού ταχυδρομείου](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Πώς μπορείτε να προσθέσετε, να ενημερώσετε ή να καταργήσετε μια πιστωτική ή χρεωστική κάρτα από το Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Διαχείριση (επανενεργοποίηση/ακύρωση/αλλαγή) συνδρομής](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Τρόπος προσθήκης, ενημέρωσης ή κατάργησης πιστωτικής ή χρεωστικής κάρτας από το Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Διαχείριση (Επανενεργοποίηση/Ακύρωση/Αλλαγή) συνδρομής](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 
