@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για το Office 365
+title: Ρύθμιση πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eb747d3efc137e5b6ae555b62e39b8fa84c20ee6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966793"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Ρύθμιση πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για το Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Ρύθμιση πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για Office 365
 
-1. Μεταβείτε στο [Κέντρο ασφάλειας και & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Επιλέξτε **Πολιτική διαχείρισης**  >  **απειλών.** Στη σελίδα **"Πολιτική",** επιλέξτε [το Microsoft Defender για το Office 365 κατά του ηλεκτρονικού "ψαρέματος".](https://go.microsoft.com/fwlink/?linkid=2101369)
+1. Μεταβείτε στο [κέντρο Office 365 ασφάλειας & συμμόρφωσης.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Επιλέξτε **Πολιτική διαχείρισης**  >  **απειλών.** Στη σελίδα **"Πολιτική",** επιλέξτε [τον Microsoft Defender για Office 365 καταπολέμηση του ηλεκτρονικού "ψαρέματος".](https://go.microsoft.com/fwlink/?linkid=2101369)
 3. Στη σελίδα **"Προστασία από το ηλεκτρονικό "ψάρεμα",** κάντε ένα από τα εξής:
     1. Για να προσθέσετε μια νέα πολιτική, επιλέξτε **+ Δημιουργία.**
     1. Για να επεξεργαστείτε μια υπάρχουσα πολιτική, επιλέξτε το όνομα της πολιτικής από τη λίστα που εμφανίζεται στη σελίδα **"Προστασία από το ηλεκτρονικό "ψάρεμα".** Στη σελίδα που εμφανίζεται, επιλέξτε **"Επεξεργασία"** δίπλα στη ρύθμιση που θέλετε να αλλάξετε. Θα ξεκινήσει ένας οδηγός για να σας βοηθήσει να ορίσετε την πολιτική προστασίας από το ηλεκτρονικό "ψάρεμα".

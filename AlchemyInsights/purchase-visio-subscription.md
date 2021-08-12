@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a908e7887512e78fdd8fc51e4c973989a742265c07eac1731f4d658231cd29e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943483"
 ---
 # <a name="purchase-visio-subscription"></a>Αγορά συνδρομής Visio
 
-Οι διαχειριστές μπορούν να αγοράσουν τη συνδρομή Visio για τον οργανισμό τους από **το Κέντρο διαχείρισης Microsoft 365.**
+Οι διαχειριστές μπορούν να αγοράσουν τη Visio για τον οργανισμό τους από **το Κέντρο διαχείρισης Microsoft 365.**
 
-1. Μεταβείτε στη σελίδα **υπηρεσιών**  >  **[αγοράς χρέωσης για](https://go.microsoft.com/fwlink/p/?linkid=868433)** να προβάλετε τις διαθέσιμες συνδρομές για αγορά για τον οργανισμό σας.
+1. Μεταβείτε στη σελίδα **Χρέωση** > **[Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)** για να δείτε τις διαθέσιμες συνδρομές για αγορά για τον οργανισμό σας.
 
 2. Εντοπίστε τα προγράμματα του Visio πραγματοποιώντας αναζήτηση στο "Visio".
 
