@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972977"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Απαιτούμενες άδειες χρήσης για το Microsoft ToDo
 
@@ -29,29 +29,29 @@ ms.locfileid: "51828764"
   
 - Business Essentials
 
-- Business Premium
+- Επαγγελματικά Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 πρώτης γραμμής F1
 
-- Οποιοδήποτε πρόγραμμα του Office 365 για μεγάλες επιχειρήσεις
+- Οποιοδήποτε Office 365 για μεγάλες επιχειρήσεις πρόγραμμα
 
 - Ασφαλής παραγωγική επιχείρηση
 
 - Secure Productive Enterprise E3
 
-- Ασφαλής παραγωγική επιχείρηση E5
+- Secure Productive Enterprise E5
 
-- Οποιοδήποτε πρόγραμμα του Office 365 για εκπαιδευτικά ιδρύματα
+- Οποιοδήποτε Office 365 για εκπαιδευτικά ιδρύματα πρόγραμμα
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Εκτός από μια έγκυρη άδεια χρήσης προϊόντος, απαιτείται μία από τις ακόλουθες εκδόσεις του Exchange Online για να μπορεί η ToDo να συγχρονίζει τα δεδομένα χρήστη:
+Εκτός από μια έγκυρη άδεια χρήσης προϊόντος, μία από τις ακόλουθες εκδόσεις του Exchange Online είναι απαραίτητη για να μπορεί το ToDo να συγχρονίζει τα δεδομένα χρήστη:
   
-- Exchange Online Plan 1
+- Exchange Online Πρόγραμμα 1
 
-- Exchange Online Plan 2
+- Exchange Online Πρόγραμμα 2
 
 - Exchange Essentials
 
@@ -59,5 +59,5 @@ ms.locfileid: "51828764"
 
 - Exchange Online POP
 
-[Εκχώρηση αδειών χρήσης σε λογαριασμούς χρηστών με το Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Εκχώρηση αδειών χρήσης σε λογαριασμούς χρηστών με Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

@@ -12,18 +12,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 566073563c6159bfa1d5fb2d2b105ce566accac7fc88f4c90ee1d8d41bbd061e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920539"
 ---
 # <a name="trying-to-remove-your-domain"></a>Θέλετε να καταργήσετε τον τομέα σας;
 
 Για να καταργήσετε τον τομέα σας από τη Microsoft, ακολουθήστε τα βήματα σε αυτό το άρθρο: [Κατάργηση τομέα](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Θα πρέπει να ενημερώσετε όλους τους χρήστες ή τις ομάδες που έχουν αντιστοιχιστεί σε αυτό το όνομα τομέα πριν από την κατάργηση του τομέα.
+Θα χρειαστεί να ενημερώσετε τυχόν χρήστες ή ομάδες που έχουν εκχωρηθεί σε αυτό το όνομα τομέα πριν να καταργήσετε τον τομέα.
   
-[Επιλέξτε το άρθρο domains](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) για άλλες συνηθισμένες λύσεις.
+[Ελέγξτε το άρθρο τομέων για](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) άλλες συνηθισμένες λύσεις.
   
