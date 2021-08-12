@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 9f6bbad8b8e3133567ffa5b83120da0c6f07f9b7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85e18428ecda4cb5872238e636e6d51236f716fff84b6a3bb7a84e97eca3bdf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965929"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a>Έλεγχος δημιουργίας ομάδων Microsoft 365
+# <a name="control-creation-of-microsoft-365-groups"></a>Έλεγχος δημιουργίας Microsoft 365 ομάδων
 
-Από προεπιλογή, όλοι οι χρήστες εντός της εταιρείας μπορούν να δημιουργούν ομάδες. Εάν είναι απαραίτητο, μπορείτε να το αλλάξετε και να εκχωρήσετε το δικαίωμα δημιουργίας ομάδων σε ένα σύνολο ατόμων εντός της εταιρείας σας. Σημειώστε ότι αυτό θα επηρεάσει τη δημιουργία ομάδων από οποιαδήποτε υπηρεσία του Microsoft 365 (όπως το Outlook, το Teams, το Planner και άλλα).
+Από προεπιλογή, όλοι οι χρήστες εντός της εταιρείας μπορούν να δημιουργούν ομάδες. Εάν είναι απαραίτητο, μπορείτε να το αλλάξετε και να εκχωρήσετε το δικαίωμα δημιουργίας ομάδων σε ένα σύνολο ατόμων εντός της εταιρείας σας. Σημειώστε ότι αυτό θα έχει επίδραση στη δημιουργία ομάδων από οποιαδήποτε υπηρεσία Microsoft 365 (όπως Outlook, Teams, Planner και άλλα).
   
-Οδηγίες: [Διαχείριση των χρηστών που μπορούν να δημιουργήσουν ομάδες Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Οδηγίες: [Διαχείριση των ατόμων που μπορούν να δημιουργήσουν Microsoft 365 ομάδων](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

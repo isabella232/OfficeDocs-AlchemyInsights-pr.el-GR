@@ -13,19 +13,19 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 8ed373939f82f7f96fd51587210dcc26f28e75f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab6c1e12e750ab8fab046bf3d575a4bfc0d191495e4c8c2c48698dd98106aa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942246"
 ---
 # <a name="service-incident-in-progress"></a>Περιστατικό υπηρεσίας σε εξέλιξη
 
-Ενδέχεται να επηρεαστείτε από ένα περιστατικό υπηρεσίας ή ένα συμβουλευτικό πρόγραμμα το οποίο διερευνάται αυτήν τη στιγμή. Μπορείτε να επιλέξετε την πιο πρόσφατη κατάσταση, μεταβαίνοντας στη σελίδα [εύρυθμη λειτουργία υπηρεσιών](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Ενδέχεται να επηρεαστούν από ένα περιστατικό υπηρεσίας ή μια παροχή συμβουλών που διερευνάται τη συγκεκριμένη στιγμή. Μπορείτε να ελέγξετε την πιο πρόσφατη κατάσταση, στη σελίδα ["Κατάσταση υπηρεσιών".](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Για τη διευκόλυνσή σας, μπορείτε να δείτε μια σύνοψη αυτού του περιστατικού παρακάτω:
+Για τη διευκόλυνσή σας, μπορείτε να βρείτε μια σύνοψη αυτού του περιστατικού παρακάτω:
   
-> **Αριθμός συμβάντος:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Αριθμός περιστατικού:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Περιγραφή αντίκτυπου: {ImpactDescription}

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404773"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951133"
 ---
 # <a name="app-registration-owner-issues"></a>Προβλήματα κατόχου καταχώρησης εφαρμογών
 
@@ -40,4 +40,4 @@ ms.locfileid: "51404773"
 
 **Δεν μπορείτε να προβάλετε την εφαρμογή σας στο App Registrations Blade, παρόλο που είστε ο κάτοχος αυτής της εφαρμογής;**
 
-Ο κάτοχος μιας εφαρμογής δεν είναι διαχειριστικός ρόλος. Εάν η ρύθμιση ["Περιορισμός πρόσβασης στην πύλη](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) διαχείρισης Azure AD" είναι ενεργοποιημένη, τότε μόνο ο διαχειριστής θα μπορεί να δει τις εφαρμογές στην πύλη καταχώρησης εφαρμογών. Για να μπορεί ένας κάτοχος να δει τις εφαρμογές, είτε απενεργοποιήστε αυτήν τη ρύθμιση (Ορίστε αυτήν τη ρύθμιση σε NO) είτε εκχωρήστε ρόλο διαχειριστή στον κάτοχο μόνο για τη συγκεκριμένη εφαρμογή. Ωστόσο, για αυτό, θα χρειαστείτε μια άδεια χρήσης Του Azure AD Premium P2 και θα ενεργοποιήσετε τη [Διαχείριση προνομιακών ταυτοτήτων.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+Ο κάτοχος μιας εφαρμογής δεν είναι διαχειριστικός ρόλος. Εάν η ρύθμιση ["Περιορισμός πρόσβασης στην πύλη](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) διαχείρισης Azure AD" είναι ενεργοποιημένη, τότε μόνο ο διαχειριστής θα μπορεί να δει τις εφαρμογές στην πύλη καταχώρησης εφαρμογών. Για να μπορεί ένας κάτοχος να δει τις εφαρμογές, είτε απενεργοποιήστε αυτήν τη ρύθμιση (Ορίστε αυτήν τη ρύθμιση σε NO) είτε εκχωρήστε ρόλο διαχειριστή στον κάτοχο μόνο για τη συγκεκριμένη εφαρμογή. Ωστόσο, για αυτό, θα χρειαστείτε μια Azure AD Premium P2 και θα ενεργοποιήσετε [Privileged Identity Management.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
