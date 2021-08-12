@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή ορίου χώρου αποθήκευσης του OneDrive για επαγγελματικές δραστηριότητες
+title: Αλλαγή OneDrive για επιχειρήσεις χώρου αποθήκευσης
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968673"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Αλλαγή του προεπιλεγμένου χώρου αποθήκευσης του OneDrive για τους χρήστες σας
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Αλλαγή του προεπιλεγμένου OneDrive χώρου αποθήκευσης για τους χρήστες σας
 
-1. Μεταβείτε στη [σελίδα αποθήκευσης του κέντρου διαχείρισης του OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Μεταβείτε στη [Υπηρεσία αποθήκευσης του κέντρου OneDrive διαχείρισης.](https://admin.onedrive.com/?v=StorageSettings)
     
-2. Εισαγάγετε το προεπιλεγμένο ποσό χώρου αποθήκευσης (σε GB) στο πλαίσιο **προεπιλεγμένος χώρος αποθήκευσης** και, στη συνέχεια, κάντε κλικ στην επιλογή **Αποθήκευση**.
+2. Εισαγάγετε την προεπιλεγμένη ποσότητα χώρου αποθήκευσης (σε GB) στο πλαίσιο **"Προεπιλεγμένος** χώρος αποθήκευσης" και, στη συνέχεια, κάντε κλικ στην επιλογή **"Αποθήκευση".**
     
-Αυτή η ρύθμιση χώρου αποθήκευσης ισχύει για όλους τους χρήστες για τους οποίους δεν έχετε καθορίσει συγκεκριμένα όρια χώρου αποθήκευσης. Για να αλλάξετε το χώρο αποθήκευσης για συγκεκριμένους χρήστες, πρέπει να χρησιμοποιήσετε το Microsoft PowerShell. Για πληροφορίες σχετικά με τον τρόπο για να το κάνετε αυτό, ανατρέξτε στο θέμα [αλλαγή του χώρου αποθήκευσης στο OneDrive των χρηστών με χρήση του PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Αυτή η ρύθμιση χώρου αποθήκευσης ισχύει για όλους τους χρήστες για τους οποίους δεν έχετε ορίσει συγκεκριμένα όρια χώρου αποθήκευσης. Για να αλλάξετε το χώρο αποθήκευσης για συγκεκριμένους χρήστες, πρέπει να χρησιμοποιήσετε το Microsoft PowerShell. Για πληροφορίες σχετικά με το πώς μπορείτε να το κάνετε αυτό, ανατρέξτε στο θέμα [Αλλαγή του χώρου αποθήκευσης OneDrive χρηστών χρησιμοποιώντας το PowerShell.](https://go.microsoft.com/fwlink/?linkid=866402)
   
 
