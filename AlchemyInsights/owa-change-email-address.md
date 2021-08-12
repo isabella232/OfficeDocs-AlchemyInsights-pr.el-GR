@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή διεύθυνσης ηλεκτρονικού ταχυδρομείου στο Outlook στο Web
+title: Αλλαγή διεύθυνσης ηλεκτρονικού ταχυδρομείου στο Outlook στο web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961375"
 ---
 # <a name="change-your-email-address"></a>Αλλαγή της διεύθυνσης ηλεκτρονικού ταχυδρομείου σας 
 
 Για να αλλάξετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας, θα χρειαστείτε δικαιώματα διαχειριστή.
   
-Ακολουθήστε τις οδηγίες στο [άρθρο αλλαγή ονόματος χρήστη και διεύθυνσης ηλεκτρονικού ταχυδρομείου στο Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Ακολουθήστε τις οδηγίες στο πλαίσιο ["Αλλαγή ονόματος χρήστη και διεύθυνσης ηλεκτρονικού ταχυδρομείου" Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)

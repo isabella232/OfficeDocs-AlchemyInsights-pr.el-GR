@@ -1,5 +1,5 @@
 ---
-title: Προσθήκη ή ενημέρωση αριθμού PO-παλαιού τύπου WD-Προτεινόμενα βήματα
+title: Προσθήκη ή ενημέρωση αριθμού po - Παλαιού τύπου WD - προτεινόμενα βήματα
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953869"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Προσθήκη ή ενημέρωση αριθμού PO-παλαιού τύπου WD-Προτεινόμενα βήματα
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Προσθήκη ή ενημέρωση αριθμού po - Παλαιού τύπου WD - προτεινόμενα βήματα
 
-Η προσθήκη ενός αριθμού παραγγελίας αγοράς (PO) υποστηρίζεται μόνο για τους πελάτες που [πληρώνουν με τιμολόγιο](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) μέσω επιταγής ή τραπεζικής μεταφοράς. Οι οδηγίες για να ενημερώσετε τον αριθμό PO εξαρτώνται από τον [τύπο του λογαριασμού χρέωσής](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)σας.
+Η προσθήκη αριθμού παραγγελίας αγοράς (PO) υποστηρίζεται μόνο για τους πελάτες που πληρώνουν με [τιμολόγιο μέσω επιταγής](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) ή τραπεζικού εμβάσματος. Οι οδηγίες για την ενημέρωση του αριθμού ταχυδρομικής εντολής εξαρτώνται από [τον τύπο του λογαριασμού χρέωσης.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Για να επεξεργαστείτε έναν αριθμό PO, πρέπει να έχετε ένα ρόλο [διαχειριστή λογαριασμού](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) .
+Πρέπει να έχετε ένα ρόλο [διαχειριστή λογαριασμού για](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) να επεξεργαστείτε έναν αριθμό ταχυδρομικής εντολής.
 
-1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "συνδρομές](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ".
-2. Κάντε κλικ στην επιλογή **μέθοδοι πληρωμής** στην αριστερή πλευρά.
-3. Από τον πίνακα **μέθοδοι πληρωμής** , κάντε κλικ στην επιλογή **τιμολόγιο**. 
-4. Εισαγάγετε τον νέο αριθμό PO και, στη συνέχεια, κάντε κλικ στην επιλογή **Αποθήκευση**.
+1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "Συνδρομές".](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Κάντε **κλικ στην επιλογή** Μέθοδοι πληρωμής στην αριστερή πλευρά.
+3. Από τον πίνακα **"Μέθοδοι πληρωμής",** κάντε κλικ στην επιλογή **"Τιμολόγιο".** 
+4. Πληκτρολογήστε τον νέο αριθμό ταχυδρομικής καταχώρησης και, στη συνέχεια, κάντε κλικ στην **επιλογή "Αποθήκευση".**
 
 **Προτεινόμενα έγγραφα**
 
-- [Υποστηριζόμενες χώρες/περιοχές και νομισματικές μονάδες](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Πώς να πληρώσετε με τιμολόγιο](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Διαχείριση πληροφοριών επαφών λογαριασμού χρέωσης Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Υποστηριζόμενες χώρες/περιοχές και νομίσματα](https://azure.microsoft.com/en-us/pricing/faq/) 
+- [Τρόπος πληρωμής με τιμολόγιο](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Διαχείριση στοιχείων επικοινωνίας λογαριασμού χρέωσης Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 
