@@ -1,5 +1,5 @@
 ---
-title: Πώς χρησιμοποιεί ο Microsoft Edge το Microsoft Defender SmartScreen;
+title: Πώς Microsoft Edge χρησιμοποιεί Microsoft Defender SmartScreen;
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926929"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Πώς χρησιμοποιεί ο Microsoft Edge το Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Πώς Microsoft Edge χρησιμοποιεί Microsoft Defender SmartScreen
 
-Για να σας διατηρεί ασφαλείς στο web, ο Microsoft Edge χρησιμοποιεί το Microsoft Defender SmartScreen ως σύστημα έγκαιρης προειδοποίησης έναντι τοποθεσιών Web που διαπράττουν επιθέσεις ηλεκτρονικού "ψαρέματος" και διανέμουν λογισμικό κακόβουλης λειτουργίας μέσω εστιασμένων επιθέσεων.
+Για να είστε ασφαλείς στο web, η Microsoft Edge χρησιμοποιεί το Microsoft Defender SmartScreen ως σύστημα έγκαιρης προειδοποίησης έναντι τοποθεσιών Web που διαπράττουν επιθέσεις ηλεκτρονικού "ψαρέματος" και διανέμουν λογισμικό κακόβουλης λειτουργίας μέσω εστιασμένων επιθέσεων.
 
-Οι διαχειριστές μπορούν να ρυθμίσουν τις παραμέτρους του Microsoft Defender SmartScreen χρησιμοποιώντας τις ρυθμίσεις πολιτικής ομάδας, Microsoft Intune ή διαχείρισης κινητών συσκευών (MDM). Με βάση τον τρόπο με τον οποίο έχετε ρυθμίσει το Microsoft Defender SmartScreen, μπορείτε να εμφανίσετε στους χρήστες μια σελίδα προειδοποίησης και να τους επιτρέψετε να συνεχίσουν στην τοποθεσία ή να αποκλείσουν πλήρως την τοποθεσία.
+Οι διαχειριστές μπορούν να ρυθμίσουν τις Microsoft Defender SmartScreen χρησιμοποιώντας τις ρυθμίσεις πολιτικής ομάδας, Microsoft Intune ή διαχείρισης κινητών συσκευών (MDM). Με βάση τον τρόπο με τον οποίο Microsoft Defender SmartScreen, μπορείτε να εμφανίσετε στους χρήστες μια σελίδα προειδοποίησης και να τους επιτρέψετε να συνεχίσουν στην τοποθεσία ή να αποκλείσουν πλήρως την τοποθεσία.
 
-Για να μάθετε περισσότερα, ανατρέξτε στην [υποστήριξη του Microsoft Edge για το Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) και το Microsoft Defender Application [Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)
+Για να μάθετε περισσότερα, [ανατρέξτε Microsoft Edge υποστήριξης για Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) και [Microsoft Defender Application Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)

@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966037"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Ρύθμιση παραμέτρων απρόσκοπτη ενιαία σύνδεση (SSO)
 
@@ -38,11 +38,11 @@ ms.locfileid: "51402267"
 
 **Ρύθμιση παραμέτρων SSO που βασίζεται σε SAML**
 
-1. Γρήγορη εκκίνηση: Ρυθμίστε την ενιαία σύνδεση [(SSO) που](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)βασίζεται σε SAML για μια εφαρμογή στο μισθωτή Azure Active Directory (Azure AD).
+1. Γρήγορη εκκίνηση: Ρυθμίστε την ενιαία σύνδεση [(SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)που βασίζεται σε SAML για μια εφαρμογή στο μισθωτή Azure Active Directory (Azure AD).
 2. Για να μάθετε περισσότερα σχετικά με την επιλογή που βασίζεται σε SAML για μία σύνδεση, ανατρέξτε στο θέμα Κατανόηση της μεμονωμένης sign-on που βασίζεται [σε SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
-3. Για να μάθετε περισσότερα σχετικά με τις αιτήσεις ελέγχου ταυτότητας SAML 2.0 και τις αποκρίσεις που υποστηρίζει το Azure Active Directory (Azure AD) για το Single Sign-On (SSO), ανατρέξτε στο [Sign-On πρωτόκολλο SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-4. Για να μάθετε πώς μπορείτε να δημιουργήσετε και να ρυθμίσετε τις παραμέτρους μιας μεμονωμένης σύνδεσης (SSO) που βασίζεται σε SAML για την εφαρμογή σας στο Azure Active Directory (Azure AD) χρησιμοποιώντας το API του Microsoft Graph, ανατρέξτε στο θέμα Ρύθμιση παραμέτρων μίας σύνδεσης που βασίζεται σε SAML για την εφαρμογή σας χρησιμοποιώντας το [API του Microsoft Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
-5. Για να μάθετε πώς το Azure AD χρησιμοποιεί το πρωτόκολλο SAML, ανατρέξτε στο θέμα [Πώς η πλατφόρμα ταυτότητας της Microsoft χρησιμοποιεί το πρωτόκολλο SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
+3. Για να μάθετε περισσότερα σχετικά με τις αιτήσεις ελέγχου ταυτότητας SAML 2.0 και τις απαντήσεις που υποστηρίζει το Azure Active Directory (Azure AD) για το Single Sign-On (SSO), ανατρέξτε στο [θέμα Μεμονωμένο Sign-On πρωτόκολλο SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Για να μάθετε πώς μπορείτε να δημιουργήσετε και να ρυθμίσετε τις παραμέτρους μιας μεμονωμένης σύνδεσης (SSO) που βασίζεται σε SAML για την εφαρμογή σας στο Azure Active Directory (Azure AD) χρησιμοποιώντας το API του Microsoft Graph, ανατρέξτε στο θέμα Ρύθμιση παραμέτρων μεμονωμένης σύνδεσης που βασίζεται σε SAML για την εφαρμογή σας χρησιμοποιώντας το [API του Microsoft Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
+5. Για να μάθετε πώς το Azure AD χρησιμοποιεί το πρωτόκολλο SAML, ανατρέξτε στο [θέμα Πλατφόρμα ταυτοτήτων της Microsoft χρησιμοποιεί το πρωτόκολλο SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
 **Ρύθμιση παραμέτρων διακριτικών και αξιώσεις**
 
@@ -50,10 +50,10 @@ ms.locfileid: "51402267"
 2. Για να μάθετε πώς μπορείτε να ρυθμίσετε τις παραμέτρους αξιώσεών σας χρησιμοποιώντας το PowerShell, ανατρέξτε στο θέμα Τρόπος: Προσαρμογή αξιώσεών που εκπεμπόμενων σε διακριτικά για μια συγκεκριμένη εφαρμογή σε [ένα μισθωτή (Προεπισκόπηση).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
 3. Για να μάθετε πώς μπορείτε να ρυθμίσετε τις παραμέτρους προαιρετικών αξιώσεις, ανατρέξτε στο θέμα [Πώς να: Παρέχετε προαιρετικές αξιώσεις στην εφαρμογή σας.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
 4. Για να μάθετε πώς μπορείτε να χρησιμοποιήσετε τα χαρακτηριστικά επέκτασης σχήματος καταλόγου για την αποστολή δεδομένων χρήστη σε εφαρμογές σε αξιώσεις διακριτικού, ανατρέξτε στο θέμα Χρήση χαρακτηριστικών επέκτασης [σχήματος καταλόγου σε αξιώσεις.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)
-5. Για να μάθετε πώς μπορείτε να ρυθμίσετε τις παραμέτρους της ζωής διακριτικού, ανατρέξτε στο θέμα "Διάρκεια ζωής διακριτικού με δυνατότητα ρύθμισης παραμέτρων" στην [πλατφόρμα ταυτότητας της Microsoft (προεπισκόπηση).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+5. Για να μάθετε πώς μπορείτε να ρυθμίσετε τις παραμέτρους της ζωής διακριτικού, ανατρέξτε στο θέμα "Διάρκεια ζωής διακριτικού με [δυνατότητα ρύθμισης παραμέτρων" στο Πλατφόρμα ταυτοτήτων της Microsoft (προεπισκόπηση).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 6. [Ρύθμιση παραμέτρων πολιτικών διάρκειας ζωής διακριτικού (προεπισκόπηση)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) - Σε αυτό το άρθρο, θα σας βοηθήσουμε να επιβάλετε νέους κανόνες για τη διάρκεια ζωής του διακριτικού. Στο παράδειγμα, θα μάθετε πώς μπορείτε να δημιουργήσετε μια πολιτική που απαιτεί από τους χρήστες να ελέγχουν τον έλεγχο ταυτότητας πιο συχνά στην εφαρμογή web.
 
 **Αντιμετώπιση προβλημάτων ρύθμισης παραμέτρων SSO**
 
-- Για συνήθεις ερωτήσεις σχετικά με το Azure Active Directory Seamless Single Sign-On (Απρόσκοπτη SSO), ανατρέξτε στο θέμα "Απρόσκοπτη ενιαία σύνδεση" της υπηρεσίας καταλόγου [Azure Active Directory: Συνήθεις ερωτήσεις.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
-- Για πληροφορίες αντιμετώπισης προβλημάτων σχετικά με συνήθη προβλήματα σχετικά με το Azure Active Directory (Azure AD) Απρόσκοπτη ενιαία Sign-On (Απρόσκοπτη SSO), ανατρέξτε στο θέμα Αντιμετώπιση προβλημάτων απρόσκοπτης μεμονωμένης σύνδεσης του [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)
+- Για συνήθεις ερωτήσεις σχετικά με Azure Active Directory απρόσκοπτη μονή Sign-On (Απρόσκοπτη SSO), ανατρέξτε στο θέμα Azure Active Directory Απρόσκοπτη ενιαία [σύνδεση: Συνήθεις ερωτήσεις.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- Για πληροφορίες αντιμετώπισης προβλημάτων σχετικά με συνήθη προβλήματα σχετικά με Azure Active Directory (Azure AD) Απρόσκοπτη μονή Sign-On (Απρόσκοπτη SSO), ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων Azure Active Directory Απρόσκοπτη ενιαία σύνδεση.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

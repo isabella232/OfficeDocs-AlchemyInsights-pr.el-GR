@@ -1,5 +1,5 @@
 ---
-title: Διατήρηση και διαγραφή του OneDrive
+title: OneDrive διατήρησης και διαγραφής
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985361"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Διατήρηση και διαγραφή του OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive διατήρησης και διαγραφής
 
-- Μπορείτε να [επαναφέρετε τους χρήστες που έχουν διαγραφεί από το OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) μόνοι σας. Βρίσκονται στον κάδο ανακύκλωσης για 93 ημέρες.
+- Μπορείτε να [επαναφέρετε ένα διαγραμμένο χρήστη OneDrive σας.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Βρίσκονται στον Κάδο Ανακύκλωσης για 93 ημέρες.
 
-- Ανατρέξτε σε [αυτό το άρθρο](https://docs.microsoft.com/onedrive/retention-and-deletion) για να μάθετε:
-    - Πώς μπορείτε να παρέχετε σε έναν άλλο χρήστη πρόσβαση στο OneDrive ενός διαγραμμένου χρήστη.
-    - Τι συμβαίνει με το OneDrive ενός χρήστη όταν διαγράφετε το λογαριασμό Microsoft 365 του χρήστη για τον οργανισμό σας.
-    - Τρόπος ρύθμισης παραμέτρων της αντιπροσώπευσης αυτόματης πρόσβασης.
-    - Πώς λειτουργεί η διαδικασία διαγραφής του OneDrive.
+- Ανατρέξτε [σε αυτό το άρθρο](https://docs.microsoft.com/onedrive/retention-and-deletion) για να μάθετε τα εξής:
+    - Πώς μπορείτε να δώσετε σε έναν άλλο χρήστη πρόσβαση σε ένα διαγραμμένο αρχείο OneDrive.
+    - Τι συμβαίνει με τις πληροφορίες ενός OneDrive όταν διαγράφετε το λογαριασμό χρήστη Microsoft 365 του οργανισμού σας.
+    - Πώς μπορείτε να ρυθμίσετε τις παραμέτρους της αυτόματης ανάθεσης πρόσβασης.
+    - Πώς OneDrive διαδικασία διαγραφής.
 
-- Για πληροφορίες σχετικά με την επαναφορά στοιχείων από τον κάδο ανακύκλωσης στο OneDrive, ανατρέξτε στο θέμα [Επαναφορά διαγραμμένων αρχείων ή φακέλων](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Για πληροφορίες σχετικά με την επαναφορά στοιχείων από τον Κάδο Ανακύκλωσης στο OneDrive, ανατρέξτε στο θέμα [Επαναφορά διαγραμμένων αρχείων ή φακέλων.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-- Ενδιαφέρεστε για την ασφάλεια και τη διατήρηση και διατήρηση του κέντρου συμμόρφωσης;
-    - [Πολιτικές διατήρησης για τις τοποθεσίες του OneDrive και του SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [αναμονή ανακάλυψης για τις τοποθεσίες του OneDrive και του SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Σας ενδιαφέρει η διατήρηση και διατήρηση του Κέντρου ασφάλειας και συμμόρφωσης;
+    - [Πολιτικές διατήρησης για OneDrive και SharePoint τοποθεσιών](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Διατήρηση eDiscovery για OneDrive και SharePoint τοποθεσιών](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
