@@ -1,5 +1,5 @@
 ---
-title: Αντιμετώπιση προβλημάτων συναίνεσης χρήστη
+title: Αντιμετώπιση προβλημάτων συγκατάθεσης χρήστη
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 7249bafe1b047c66d9351a79f1782cfcc1a936a1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: db784c133fec554604ad09f5b27941879d97ff238f926ff6338d0f3b7c3c4105
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007898"
 ---
-# <a name="troubleshoot-user-consent"></a>Αντιμετώπιση προβλημάτων συναίνεσης χρήστη
+# <a name="troubleshoot-user-consent"></a>Αντιμετώπιση προβλημάτων συγκατάθεσης χρήστη
 
-1. Μπορείτε να ρυθμίσετε τον τρόπο με τον οποίο οι τελικοί χρήστες συναινούν σε εφαρμογές μέσω της πύλης Azure ή του PowerShell. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [ρυθμίσεις συναίνεσης χρήστη](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) .
-1. Ένας διαχειριστής μπορεί επίσης να χρησιμοποιήσει το [Microsoft Graph API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) για να εκχωρήσει τη συγκατάθεσή του για την ανάθεση δικαιωμάτων εκ μέρους ενός μεμονωμένου χρήστη. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Λήψη πρόσβασης εκ μέρους ενός χρήστη](https://docs.microsoft.com/graph/auth-v2-user).
-1. [Σφάλματα συναίνεσης χρήστη](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): αυτό το άρθρο περιγράφει τα σφάλματα που μπορεί να προκύψουν κατά τη διαδικασία της συναίνεσης σε μια εφαρμογή. Εάν αντιμετωπίζετε μη αναμενόμενα μηνύματα συναίνεσης που δεν περιέχουν μηνύματα σφάλματος, ανατρέξτε στο θέμα [σενάρια ελέγχου ταυτότητας για το Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Μπορείτε να ρυθμίσετε τον τρόπο με τον οποίο οι τελικοί χρήστες συναινούν σε εφαρμογές μέσω της Πύλης Azure ή του PowerShell. Ανατρέξτε [στις ρυθμίσεις συγκατάθεσης](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) χρήστη για περισσότερες πληροφορίες.
+1. Ένας διαχειριστής μπορεί επίσης να χρησιμοποιήσει [το MICROSOFT Graph API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) για να εκχωρήσει συγκατάθεση σε δικαιώματα που έχουν ανατεθεί εκ μέρους ενός μεμονωμένου χρήστη. Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Λήψη πρόσβασης εκ μέρους ενός χρήστη.](https://docs.microsoft.com/graph/auth-v2-user)
+1. [Σφάλματα συγκατάθεσης χρήστη:](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)αυτό το άρθρο περιγράφει σφάλματα που μπορεί να προκύψουν κατά τη διαδικασία συγκατάθεσης σε μια εφαρμογή. Εάν αντιμετωπίζετε μη αναμενόμενα μηνύματα συγκατάθεσης που δεν περιέχουν μηνύματα σφάλματος, ανατρέξτε στο θέμα [Σενάρια ελέγχου ταυτότητας για το Azure AD.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

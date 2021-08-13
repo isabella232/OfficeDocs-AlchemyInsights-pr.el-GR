@@ -1,5 +1,5 @@
 ---
-title: Σύνδεση τοποθεσίας του SharePoint σε ομάδα
+title: Σύνδεση μια SharePoint σε μια ομάδα
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915407"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Σύνδεση τοποθεσίας του SharePoint σε ομάδα
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Σύνδεση μια SharePoint σε μια ομάδα
 
-Χρησιμοποιήστε τον οδηγό σύνδεσης ομάδας για να συνδέσετε μια τοποθεσία του SharePoint σε μια Ομάδα Microsoft 365.
+Χρησιμοποιήστε τον οδηγό σύνδεσης ομάδας για να συνδέσετε μια SharePoint σε μια Microsoft 365 ομάδας.
 
 1. Από την τοποθεσία που θέλετε να συνδεθείτε σε μια ομάδα, επιλέξτε **Ρυθμίσεις (εικονίδιο γραναζιού).**
-2. Επιλέξτε **"Σύνδεση με νέα ομάδα Microsoft 365".**
+2. Επιλέξτε **Σύνδεση νέα Microsoft 365 ομάδας.**
 3. Ακολουθήστε τον οδηγό για να ολοκληρώσετε τη σύνδεση.
 
-**Σημείωση:**  Εάν η σύνδεση με τη νέα ομάδα Microsoft 365 δεν είναι διαθέσιμη, η τοποθεσία δεν θα υποστηρίζει μια σύνδεση ομάδας.
+**Σημείωση:**  Εάν Σύνδεση νέα Microsoft 365 δεν είναι διαθέσιμη, η τοποθεσία δεν θα υποστηρίζει σύνδεση ομάδας.
 
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Σύνδεση σε ομάδα του Office 365.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Για περισσότερες πληροφορίες, [ανατρέξτε Σύνδεση σε μια Office 365 ομάδας.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
