@@ -1,5 +1,5 @@
 ---
-title: Επισκόπηση της αναζήτησης της Microsoft
+title: Επισκόπηση Αναζήτηση της Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924530"
 ---
-# <a name="overview-of-microsoft-search"></a>Επισκόπηση της αναζήτησης της Microsoft
+# <a name="overview-of-microsoft-search"></a>Επισκόπηση Αναζήτηση της Microsoft
 
-Για να σχεδιάσετε για το Microsoft Search, ανατρέξτε στο θέμα [Επισκόπηση της αναζήτησης της Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Για να σχεδιάσετε για Αναζήτηση της Microsoft [ανατρέξτε στο θέμα "Επισκόπηση Αναζήτηση της Microsoft".](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
 
-- [Ορίστε το Microsoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- Ανακαλύψτε τις [Συνήθεις ερωτήσεις](https://docs.microsoft.com/microsoftsearch/faqs)για την αναζήτηση της Microsoft.
+- [Ορισμός Αναζήτηση της Microsoft](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- Ανακαλύψτε Αναζήτηση της Microsoft [συνήθεις ερωτήσεις.](https://docs.microsoft.com/microsoftsearch/faqs)
