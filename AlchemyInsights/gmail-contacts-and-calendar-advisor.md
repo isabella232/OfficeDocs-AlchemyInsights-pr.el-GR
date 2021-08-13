@@ -1,5 +1,5 @@
 ---
-title: Μετεγκατάσταση επαφών του Gmail ή ημερολογίων Google στο Office 365 ή στο Outlook
+title: Μετεγκατάσταση επαφών gmail ή ημερολογίων Google σε Office 365 ή Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964300"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Μετεγκατάσταση επαφών του Gmail ή ημερολογίων Google στο Office 365 ή στο Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Μετεγκατάσταση επαφών gmail ή ημερολογίων Google σε Office 365 ή Outlook
 
-Ο ευκολότερος τρόπος για να εισαγάγετε τις επαφές και το ημερολόγιο του Gmail στο Office είναι να χρησιμοποιήσετε τις επαφές και το σύμβουλο ημερολογίου του Gmail.
+Ο ευκολότερος τρόπος για να εισαγάγετε τις επαφές και το ημερολόγιο του Gmail Office είναι να χρησιμοποιήσετε τις επαφές του Gmail και τον σύμβουλο ημερολογίου.
 
-Ο [σύμβουλος επαφών και ημερολογίου του Gmail](https://go.microsoft.com/fwlink/?linkid=2134386) σάς δείχνει τον τρόπο με τον οποίο μπορείτε να συγχρονίσετε τις επαφές και τα στοιχεία ημερολογίου του Gmail στο Office 365, χρησιμοποιώντας διάφορες μεθόδους εισαγωγής και εξαγωγής.
+Οι [επαφές του Gmail και ο σύμβουλος ημερολογίου](https://go.microsoft.com/fwlink/?linkid=2134386) σάς δείχνουν πώς μπορείτε να συγχρονίσετε τις επαφές και τα στοιχεία ημερολογίου σας στο Gmail Office 365, χρησιμοποιώντας διάφορες μεθόδους εισαγωγής και εξαγωγής.
 
-Εάν δεν έχετε μετεγκαταστήσει ακόμα το ηλεκτρονικό ταχυδρομείο σας, ο [σύμβουλος ρύθμισης ηλεκτρονικού ταχυδρομείου](https://go.microsoft.com/fwlink/?linkid=2133951) παρέχει οδηγίες βήμα προς βήμα για να ολοκληρώσετε τη μετεγκατάσταση του γραμματοκιβωτίου σας.
+Εάν δεν έχετε μετεγκατασταθεί [](https://go.microsoft.com/fwlink/?linkid=2133951) ακόμη το ηλεκτρονικό ταχυδρομείο σας, ο σύμβουλος ρύθμισης ηλεκτρονικού ταχυδρομείου παρέχει οδηγίες βήμα προς βήμα για να ολοκληρώσετε τη μετεγκατάσταση του γραμματοκιβωτίου σας.
 
-Για να μάθετε πώς μπορείτε να προβάλετε το ημερολόγιο Google στο Outlook, [ανατρέξτε στο θέμα δείτε το ημερολόγιο Google στο Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Για να μάθετε πώς μπορείτε να προβάλετε το ημερολόγιο Google στο Outlook, ανατρέξτε στο θέμα [Δείτε το Ημερολόγιο Google στο Outlook.](https://go.microsoft.com/fwlink/?linkid=2083939)

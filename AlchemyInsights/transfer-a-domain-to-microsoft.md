@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980969"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Μεταφορά τομέα στη Microsoft
 
-Δεν είναι δυνατή η μεταφορά καταχώρησης και χρέωσης τομέων στη Microsoft.
+Δεν είναι δυνατή η μεταφορά μιας καταχώρησης και χρέωσης τομέων στη Microsoft.
 
-Για να προσθέσετε έναν τομέα που διαθέτετε ήδη, ακολουθήστε τον [Οδηγό προσθήκης τομέα](https://admin.microsoft.com/Adminportal/Domains/Wizard)ή μεταβείτε στις **Ρυθμίσεις**  >  **τομείς**  >  **Προσθήκη τομέα**.
+Για να προσθέσετε έναν τομέα [](https://admin.microsoft.com/Adminportal/Domains/Wizard)που έχετε ήδη στην ιδιοκτησία σας, ακολουθήστε τον "Οδηγό προσθήκης τομέα" ή μεταβείτε **Ρυθμίσεις**  >  **τομέα**  >  **"Προσθήκη τομέων".**
 
-Για περισσότερες πληροφορίες σχετικά με τις αλλαγές DNS που απαιτούνται για την επαλήθευση του τομέα σας, ανατρέξτε [στο θέμα Προσθήκη ΕΓΓΡΑΦΏΝ DNS για τη σύνδεση του τομέα σας](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Για περισσότερες πληροφορίες σχετικά με τις αλλαγές DNS που απαιτούνται για την επαλήθευση του τομέα σας, ανατρέξτε στο θέμα [Προσθήκη εγγραφών DNS για τη σύνδεση του τομέα σας.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Για τυχόν ερωτήσεις σχετικά με τους τομείς, ανατρέξτε στο θέμα [Συνήθεις ερωτήσεις για τομείς](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Για ερωτήσεις σχετικά με τους τομείς, ανατρέξτε στις [Συνήθεις ερωτήσεις για τους τομείς.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

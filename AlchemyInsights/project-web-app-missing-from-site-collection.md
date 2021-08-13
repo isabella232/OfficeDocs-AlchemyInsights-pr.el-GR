@@ -1,5 +1,5 @@
 ---
-title: Το Project Web App λείπει από τη συλλογή τοποθεσιών του SharePoint
+title: Project Web App από τη SharePoint τοποθεσιών
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973085"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Το Project Web App λείπει από τη συλλογή τοποθεσιών του SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App λείπει από τη SharePoint τοποθεσιών
 
-Το Project Web App μπορεί να λείπει από τη συλλογή τοποθεσιών του SharePoint για τους ακόλουθους λόγους:
+Project Web App ενδέχεται να λείπει από τη SharePoint τοποθεσιών για τους ακόλουθους λόγους:
 
-1. Οι εταιρείες έχουν μόνο μια άδεια χρήσης του Project Online Essentials. Οι διαχειριστές θα πρέπει να προσθέσουν μια άδεια χρήσης του Project Online Professional ή/και Premium. Η τοποθεσία θα εξέλθει από μόνο για ανάγνωση σε αυτό το σημείο. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Σύγκριση λύσεων διαχείρισης έργων](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Ο μισθωτής αντιμετώπισε ένα πρόβλημα παροχής στο οποίο η προμήθεια της τοποθεσίας του Project Web App έχει καθυστερήσει. Εάν έχουν περάσει περισσότερες από 24 ώρες και εξακολουθείτε να αντιμετωπίζετε το πρόβλημα, καταγράψτε ένα δελτίο υποστήριξης. Αντιλαμβανόμαστε ότι το 24ωρο μπορεί να φαίνεται πολύ μεγάλο χρονικό διάστημα. Σε πολλές περιπτώσεις, ήδη εργαζόμαστε σε μια λύση. Παρακαλούμε δώστε μας τουλάχιστον 24 ώρες για να ολοκληρώσετε μια λύση.
+1. Οι οργανισμοί διαθέτουν Project Online Essentials μόνο άδειες χρήσης. Οι διαχειριστές θα πρέπει να προσθέσουν μια Project Online Professional ή/και Premium χρήσης. Η τοποθεσία θα είναι μόνο για ανάγνωση σε αυτό το σημείο. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα "Σύγκριση Project λύσεις διαχείρισης".](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Ο μισθωτής αντιμετώπισε ένα πρόβλημα παροχής στο οποίο Project Web App η παροχή τοποθεσίας έχει καθυστερήσει. Εάν έχουν περάσει περισσότερες από 24 ώρες και εξακολουθείτε να αντιμετωπίζετε το πρόβλημα, καταγράψτε ένα δελτίο υποστήριξης. Κατανοούμε ότι οι 24 ώρες μπορεί να φαίνονται πολύ μεγάλες. Σε πολλές περιπτώσεις, εργαζόμαστε ήδη για μια λύση. Δώστε μας τουλάχιστον 24 ώρες για να ολοκληρώσουμε μια λύση.

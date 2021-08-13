@@ -1,5 +1,5 @@
 ---
-title: Αρχειοθέτηση σφαλμάτων του Intune Insider
+title: Αρχειοθέτηση σφαλμάτων Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925921"
 ---
-# <a name="intune-insider-bug-filing"></a>Αρχειοθέτηση σφαλμάτων του Intune Insider
+# <a name="intune-insider-bug-filing"></a>Αρχειοθέτηση σφαλμάτων Intune Insider
 
-Σας ευχαριστούμε για το ενδιαφέρον σας για το πρόγραμμα Insider του Intune. Εάν έχετε ήδη επιβιβαστεί για το πρόγραμμα Insider του Intune και πρέπει να υποβάλετε μια αίτηση υποστήριξης, τότε:
+Σας ευχαριστούμε για το ενδιαφέρον σας για το πρόγραμμα Intune Insider. Εάν έχετε ήδη φορτωθεί στο πρόγραμμα Intune Insider και πρέπει να κάνετε ένα αίτημα υποστήριξης, τότε:
 
-1. Περιγράψτε το ζήτημά σας στο παραπάνω πεδίο.
-2. Δημιουργήστε μια νέα αίτηση εξυπηρέτησης χρησιμοποιώντας τις παρακάτω επιλογές.
+1. Περιγράψτε το πρόβλημα στο παραπάνω πεδίο.
+2. Δημιουργήστε μια νέα αίτηση υπηρεσίας χρησιμοποιώντας τις παρακάτω επιλογές.
 
 Ένας μηχανικός υποστήριξης του Intune θα επικοινωνήσει μαζί σας.
 
-Εάν δεν βρίσκεστε στο πρόγραμμα των Insider του Intune, σας ευχαριστούμε για το ενδιαφέρον σας. Αυτή τη στιγμή δεν προσλαμβάνουμε νέους συμμετέχοντες.
+Εάν δεν είστε στο πρόγραμμα Intune Insider, σας ευχαριστούμε για το ενδιαφέρον σας. Προς το παρόν, δεν προσλαμβάνουμε νέους συμμετέχοντες.

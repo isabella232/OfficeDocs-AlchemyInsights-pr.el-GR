@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955381"
 ---
 # <a name="access-denied-due-to-ip-restriction"></a>Δεν επιτρέπεται η πρόσβαση λόγω περιορισμού IP
 
-Ως διαχειριστής IT, μπορείτε να ελέγχετε την πρόσβαση στους πόρους του SharePoint και του OneDrive στο Microsoft 365 με βάση καθορισμένες θέσεις δικτύου που εμπιστεύεστε. Αυτό είναι επίσης γνωστό ως πολιτική βάσει τοποθεσίας. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Έλεγχος της πρόσβασης με βάση τη θέση του δικτύου](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+Ως διαχειριστής IT, μπορείτε να ελέγχετε την πρόσβαση σε SharePoint και OneDrive πόρων σε Microsoft 365 με βάση καθορισμένες θέσεις δικτύου που εμπιστεύεστε. Αυτό είναι επίσης γνωστό ως πολιτική βάσει τοποθεσίας. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα έλεγχος της πρόσβασης με βάση τη θέση δικτύου.](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
