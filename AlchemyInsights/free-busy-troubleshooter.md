@@ -1,5 +1,5 @@
 ---
-title: 607 αντιμετώπιση προβλημάτων διαθεσιμότητας
+title: 607 Αντιμετώπιση προβλημάτων διαθεσιμότητας
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987683"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Βήματα αντιμετώπισης προβλημάτων για τη διαθεσιμότητα του ημερολογίου (δωρεάν/απασχολημένος)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Βήματα αντιμετώπισης προβλημάτων για τη διαθεσιμότητα του ημερολογίου (Διαθεσιμότητα)
 
-Γενικά, το καλύτερο εργαλείο για την αντιμετώπιση προβλημάτων διαθεσιμότητας είναι η [συσκευή ανάλυσης απομακρυσμένης σύνδεσης του Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) για να δείτε πού αποτυγχάνει. Το RCA θα σας παράσχει μια λεπτομερή καταγραφή του τι λειτούργησε και τι απέτυχε με συγκεκριμένα μηνύματα σφάλματος που μπορείτε να αναζητήσετε για να βρείτε λύσεις. Έχει επίσης μια σύνδεση με τον [Βοηθό υποστήριξης και αποκατάστασης της Microsoft](https://diagnostics.office.com/).
+Γενικά, το καλύτερο εργαλείο για την αντιμετώπιση προβλημάτων διαθεσιμότητας είναι Exchange Ανάλυση απομακρυσμένης συνδεσιμότητας [(RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) για να δείτε πού αποτυγχάνει. Η RCA θα σας δώσει μια λεπτομερή καταγραφή του τι λειτούργησε και τι απέτυχε με συγκεκριμένα μηνύματα σφάλματος που μπορείτε να βρείτε για να βρείτε λύσεις. Διαθέτει επίσης μια σύνδεση προς το [Microsoft Βοηθός υποστήριξης και αποκατάστασης.](https://diagnostics.office.com/)
 
-Ένα άλλο καλό εργαλείο για να δοκιμάσετε είναι το [εργαλείο ελέγχου ημερολογίου για το Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , εάν ο χρήστης έχει το Outlook.
+Ένα άλλο καλό εργαλείο που μπορείτε να δοκιμάσετε είναι [το Εργαλείο ελέγχου ημερολογίου Outlook](https://www.microsoft.com/download/details.aspx?id=28786) εάν ο χρήστης έχει Outlook.

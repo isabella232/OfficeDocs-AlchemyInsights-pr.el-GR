@@ -1,5 +1,5 @@
 ---
-title: Κατανόηση του ποσού χρέωσης
+title: Κατανόηση της ποσότητας χρέωσης
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919639"
 ---
-# <a name="understand-billing-amount"></a>Κατανόηση του ποσού χρέωσης
+# <a name="understand-billing-amount"></a>Κατανόηση της ποσότητας χρέωσης
 
 **Led πελάτη (WD):**
 
 - Για να ελέγξετε και να κατανοήσετε το λογαριασμό σας, ανατρέξτε στο: [Πρόγραμμα εκμάθησης: Αναθεώρηση του μεμονωμένου λογαριασμού Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Κατανοήστε τους όρους στο τιμολόγιό σας: [Επεξήγηση των όρων τιμολογίου Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Κατανόηση των όρων σχετικά με τις χρεώσεις χρήσης Azure: [Επεξήγηση των όρων χρήσης](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (. CSV): [Λήψη δεδομένων τιμολογίου και χρήσης](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (.CSV): [Λήψη τιμολογίου και δεδομένων χρήσης](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Σημείωση:** Εάν ακυρώσετε τη συνδρομή/πόρο σας στο μέσο του κύκλου χρέωσης, ενδέχεται να εξακολουθείτε να βλέπετε μια χρέωση που θα ήταν για οποιαδήποτε χρήση τον προηγούμενο μήνα. Παράδειγμα, εάν ο κύκλος χρέωσής σας ήταν από τις 26 κάθε μήνα έως τις 25 του επόμενου μήνα & ανέστειλε τη συνδρομή στις 23, που είναι 28 ημέρες στον κύκλο χρέωσης για τον Ιούνιο, ενδέχεται να δείτε μια χρέωση για τις 28 ημέρες χρήσης. Εάν δείτε μια χρέωση παρά την ακύρωση μιας συνδρομής, βεβαιωθείτε ότι δεν έχετε άλλα προγράμματα υποστήριξης που προκαλούν τη χρέωση. Εάν το κάνετε, προχωρήστε και ακυρώστε το σχέδιο.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827864"
 - Για να ελέγξετε και να κατανοήσετε τον λογαριασμό σας, ανατρέξτε στο: [Πρόγραμμα εκμάθησης: Ελέγξτε το τιμολόγιο της Σύμβασης συνεργάτη της Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Κατανοήστε τους όρους στο τιμολόγιό σας: [Επεξήγηση των όρων στο τιμολόγιο σύμβασης συνεργάτη της Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Σύμβαση για μεγάλες επιχειρήσεις (EA)**
+**Σύμβαση Enterprise (EA)**
 
-- Για να ελέγξετε και να κατανοήσετε το λογαριασμό σας, ανατρέξτε στο: Κατανόηση του λογαριασμού [σύμβασης azure enterprise](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Εάν είστε πελάτης Azure με σύμβαση enterprise (πελάτης EA), δεν μπορείτε να κάνετε λήψη τιμολογίων του οργανισμού σας. Τα τιμολόγια αποστέλλονται σε όποιον έχει ρυθμιστεί για τη λήψη τιμολογίων για την εγγραφή, μπορείτε να κάνετε λήψη της χρήσης στην [πύλη Azure.](https://portal.azure.com/)
+- Για να ελέγξετε και να κατανοήσετε τη χρέωση, ανατρέξτε στο: Κατανόηση του λογαριασμού [Σύμβαση Enterprise Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Εάν είστε πελάτης Azure με ένα Σύμβαση Enterprise (πελάτης EA), δεν μπορείτε να κάνετε λήψη τιμολογίων του οργανισμού σας. Τα τιμολόγια αποστέλλονται σε όποιον έχει ρυθμιστεί για τη λήψη τιμολογίων για την εγγραφή, μπορείτε να κάνετε λήψη της χρήσης στην [πύλη Azure.](https://portal.azure.com/)
 
 Εξετάστε το τιμολόγιο υπερβολής υπηρεσίας:
 
@@ -69,9 +69,9 @@ ms.locfileid: "51827864"
 - Το **σύνολο του Azure Marketplace** θα πρέπει να συμφωνεί με τη συνολική πώληση **στο** τιμολόγιο του marketplace σας
 - Μεταβείτε **στην "Λήψη χρήσης"** για να λάβετε περισσότερες πληροφορίες σχετικά με τις χρεώσεις που βασίζονται στη χρήση. Στην **περιοχή Χρεώσεις marketplace,** **επιλέξτε "Λήψη** σημείωσης": Αυτή η αναφορά δεν περιλαμβάνει φόρους ή εμφανίζει τις αγορές μίας φοράς 
 
-**Υπηρεσία παροχής λύσεων cloud (CSP)**
+**Υπηρεσία παροχής λύσεων Cloud (CSP)**
 
-- Μάθετε περισσότερα σχετικά με τον τρόπο με τον οποίο λειτουργεί η χρέωση στο πρόγραμμα υπηρεσίας παροχής λύσεων cloud (Azure CSP) [του Azure: Χρέωση CSP azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Μάθετε περισσότερα σχετικά με τον τρόπο με τον οποίο λειτουργεί η χρέωση στο πρόγραμμα Azure Υπηρεσία παροχής λύσεων Cloud (Azure CSP): [Χρεώσεις CSP azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Μάθετε σχετικά με την ανάγνωση και την κατανόηση του λογαριασμού CSP: [Τιμολόγιο CSP Azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Προτεινόμενα έγγραφα**
@@ -81,4 +81,4 @@ ms.locfileid: "51827864"
 - [Κατανόηση του ορίου εξόδων του Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Κατανόηση της χρέωσης azure για χρεώσεις εξωτερικής υπηρεσίας: [Τρόπος χρέωσης εξωτερικών υπηρεσιών](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Συνήθεις ερωτήσεις για τον δωρεάν λογαριασμό Azure](https://azure.microsoft.com/free/free-account-faq/)
-- [Κατανόηση των ρόλων διαχείρισης του Azure Enterprise Agreement στο Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Κατανόηση των ρόλων Σύμβαση Enterprise Azure στο Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
