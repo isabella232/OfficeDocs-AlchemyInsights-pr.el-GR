@@ -1,5 +1,5 @@
 ---
-title: Πρόσβαση σε σχόλια
+title: Κριτικές της Access
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938623"
 ---
-# <a name="access-reviews"></a>Πρόσβαση σε σχόλια
+# <a name="access-reviews"></a>Κριτικές της Access
 
-1. **Ενεργοποίηση σχολίων της Access**: μπορείτε να ενεργοποιήσετε τις αξιολογήσεις όταν δημιουργείτε ένα νέο πακέτο της Access ή επεξεργάζεστε ένα υπάρχον πακέτο της Access. [Δημιουργία μιας αναθεώρησης της Access για ένα πακέτο της Access με τη διαχείριση δικαιωμάτων AD Azure](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) περιγράφει τον τρόπο με τον οποίο μπορείτε να ενεργοποιήσετε την πρόσβαση σε σχόλια των πακέτων της Access.
+1. **Ενεργοποίηση αναθεωρήσεων** της Access: Μπορείτε να ενεργοποιήσετε τις κριτικές όταν δημιουργείτε ένα νέο πακέτο πρόσβασης ή επεξεργάζεστε ένα υπάρχον πακέτο πρόσβασης. [Δημιουργήστε μια αναθεώρηση πρόσβασης ενός πακέτου πρόσβασης στη διαχείριση δικαιωμάτων του Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) που περιγράφει πώς μπορείτε να ενεργοποιήσετε τις αναθεωρήσεις πρόσβασης των πακέτων πρόσβασης.
 
-1. **Αναθεώρηση της Access**: η διαχείριση δικαιωμάτων AD Azure απλοποιεί τον τρόπο με τον οποίο οι επιχειρήσεις διαχειρίζονται την πρόσβαση σε ομάδες, εφαρμογές και τοποθεσίες του SharePoint. [Αναθεώρηση της πρόσβασης ενός πακέτου της Access στη διαχείριση δικαιωμάτων AD Azure](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) περιγράφει τον τρόπο με τον οποίο μπορείτε να πραγματοποιήσετε σχόλια της Access για άλλους χρήστες που έχουν εκχωρηθεί σε ένα πακέτο της Access ως καθορισμένος αναθεωρητής.
+1. **Αναθεώρηση της Access:** Η διαχείριση δικαιωμάτων Azure AD απλοποιεί τον τρόπο με τον οποίο οι επιχειρήσεις διαχειρίζονται την πρόσβαση σε ομάδες, εφαρμογές και SharePoint τοποθεσίες. [Η αναθεώρηση της πρόσβασης σε](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) ένα πακέτο πρόσβασης στη διαχείριση δικαιωμάτων azure AD περιγράφει πώς μπορείτε να εκτελέσετε κριτικές πρόσβασης για άλλους χρήστες στους οποίους έχει εκχωρηθεί ένα πακέτο πρόσβασης ως καθορισμένος αναθεωρτής.
 
-1. **Αναθεώρηση της Access για τον εαυτό σας**: [η αυτο-αναθεώρηση ενός πακέτου της Access στη διαχείριση δικαιωμάτων AD Azure](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) περιγράφει τον τρόπο με τον οποίο ένας χρήστης κάνει μια αυτο-αναθεώρηση των αντιστοιχισμένων πακέτων πρόσβασης (-ων).
+1. **Αναθεώρηση της Access για εσάς**: Η [αυτο-αναθεώρηση](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) ενός πακέτου πρόσβασης στη διαχείριση δικαιωμάτων azure AD περιγράφει τον τρόπο με τον οποίο ένας χρήστης κάνει μια αυτο-αναθεώρηση των πακέτων πρόσβασης που του έχουν εκχωρηθεί.
 
-1. Στις περισσότερες περιπτώσεις, οι τελικοί χρήστες θα εντοπίσουν μια αναθεώρηση εν αναμονή της απάντησής τους στον **πίνακα της Access**. Αυτό ισχύει μόνο για τις αναθεωρήσεις των ομάδων και των εφαρμογών, όχι για τους ρόλους. Για όλες τις κριτικές της Access για ρόλους, οι τελικοί χρήστες πρέπει να μεταβαίνουν στη Διαχείριση ταυτοτήτων Azure AD Privilege (PIM) για να ολοκληρώσουν την αξιολόγησή τους.
+1. Στις περισσότερες περιπτώσεις, οι τελικοί χρήστες θα βρουν μια αναθεώρηση που εκκρεμεί για την απάντησή τους στον **Πίνακα πρόσβασης.** Αυτό ισχύει μόνο για τις αναθεωρήσεις ομάδων και εφαρμογών και όχι για τους ρόλους. Για όλες τις κριτικές ρόλων της Access, οι τελικοί χρήστες πρέπει να μεταβαίνουν στο Azure AD Privileged Identity Management (PIM) για να ολοκληρώσουν την αναθεώρηση.
 
-    1. Συνδεθείτε στην πύλη Azure.
+    1. Σύνδεση στην πύλη Azure.
     2. Μεταβείτε στο Azure AD PIM.
-    3. Στο αριστερό παράθυρο περιήγησης, επιλέξτε **εργασίες**  >  **αναθεώρηση της Access**.
+    3. Στο αριστερό παράθυρο περιήγησης, επιλέξτε "Πρόσβαση   >  **αναθεώρησης εργασιών".**
     
 Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:
 
-- [Εκτέλεση αναθεώρησης της Access για τους ρόλους του καταλόγου μου Azure AD στο PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [Εκτέλεση αναθεώρησης της Access για τους ρόλους των πόρων μου Azure στο PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [Εκτέλεση ελέγχου πρόσβασης των ρόλων καταλόγου Azure AD στο PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [Εκτέλεση ελέγχου πρόσβασης των ρόλων πόρων Azure στο PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
