@@ -1,5 +1,5 @@
 ---
-title: Χρήση της μορφής φίλτρου του Microsoft Edge για πολιτικές που βασίζονται σε λίστα διευθύνσεων URL
+title: Χρήση Microsoft Edge της μορφής φίλτρου για πολιτικές που βασίζονται σε λίστα διευθύνσεων URL
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 440e27e066cb8b2e8ca7d1c9e907a8c9bbd2a8cb23592c231f343442ff9e06d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919459"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Χρήση της μορφής φίλτρου του Microsoft Edge για πολιτικές που βασίζονται σε λίστα διευθύνσεων URL
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Χρήση Microsoft Edge της μορφής φίλτρου για πολιτικές που βασίζονται σε λίστα διευθύνσεων URL
 
-Στις εκδόσεις Microsoft Edge 77 και νεότερες εκδόσεις, μπορείτε να χρησιμοποιήσετε τη μορφή φίλτρου για [πολιτικές που βασίζονται στη λίστα διευθύνσεων URL](https://go.microsoft.com/fwlink/?linkid=2135179).
+Στις Microsoft Edge εκδόσεις 77 και νεότερες, η μορφή φίλτρου μπορεί να χρησιμοποιηθεί για πολιτικές [που βασίζονται σε λίστα διευθύνσεων URL.](https://go.microsoft.com/fwlink/?linkid=2135179)

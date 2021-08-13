@@ -1,5 +1,5 @@
 ---
-title: Τα αρχεία του Excel ή του Word είναι κλειδωμένα για επεξεργασία
+title: Excel αρχεία του Word είναι κλειδωμένα για επεξεργασία
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 6f9d66dc2f4ec4e23972289765abd54888f397cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 42b484c54815df013c292483859e6dcdc20c4fac752f38c5a2820332a5c990ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978053"
 ---
-# <a name="excel-or-word-files-are-locked-for-editing"></a>Τα αρχεία του Excel ή του Word είναι κλειδωμένα για επεξεργασία
+# <a name="excel-or-word-files-are-locked-for-editing"></a>Excel αρχεία του Word είναι κλειδωμένα για επεξεργασία
 
-Για περισσότερες πληροφορίες σχετικά με τα κλειδωμένα αρχεία για το Word ή το Excel, ανατρέξτε στα θέματα:
+Για περισσότερες πληροφορίες σχετικά με τα κλειδωμένα αρχεία για το Word ή Excel, ανατρέξτε στα θέματα:
 
-- [Παρουσιάστηκε σφάλμα "Η αποστολή απέτυχε" ή "Δεν ήταν δυνατή η αυτόματη αποθήκευση" κατά την επεξεργασία ενός αρχείου του Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Παρουσιάστηκε σφάλμα "Η αποστολή απέτυχε" ή "Δεν ήταν δυνατή η αυτόματη αποθήκευση" κατά την επεξεργασία ενός Office αρχείου](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Το αρχείο του Excel είναι κλειδωμένο για επεξεργασία από άλλο χρήστη](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel αρχείο είναι κλειδωμένο για επεξεργασία από άλλο χρήστη](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
 - [Το αρχείο του Word είναι κλειδωμένο για επεξεργασία από άλλο χρήστη](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

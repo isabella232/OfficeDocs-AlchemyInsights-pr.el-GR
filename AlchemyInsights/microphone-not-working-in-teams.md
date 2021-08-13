@@ -1,5 +1,5 @@
 ---
-title: Το μικρόφωνο δεν λειτουργεί στο Teams
+title: Το μικρόφωνο δεν λειτουργεί σε Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 2e734506a97f68509a3b41529bbdde07917472c10a24c1d40305fdad7feff41a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944707"
 ---
-# <a name="microphone-isnt-working-in-teams"></a>Το μικρόφωνο δεν λειτουργεί στο Teams
+# <a name="microphone-isnt-working-in-teams"></a>Το μικρόφωνο δεν λειτουργεί σε Teams
 
 Ξεκινήστε την αντιμετώπιση προβλημάτων κάνοντας τα εξής:
 
-- Έλεγχος για ενημερώσεις των Windows και του Teams.
+- Έλεγχος για Windows και Teams ενημερώσεων.
 - Κλείσιμο τυχόν άλλων εφαρμογών που χρησιμοποιούν το μικρόφωνο.
 - Πραγματοποίηση δοκιμαστικής κλήσης για να ελέγξετε εάν το μικρόφωνο λειτουργεί σωστά.
 
-Για λεπτομέρειες και περισσότερα βήματα αντιμετώπισης προβλημάτων, [ανατρέξτε στο θέμα Το μικρόφωνό μου δεν λειτουργεί στο Teams.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)
+Για λεπτομέρειες και περισσότερα βήματα αντιμετώπισης προβλημάτων, ανατρέξτε στο θέμα Το [μικρόφωνό μου δεν λειτουργεί Teams.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)
