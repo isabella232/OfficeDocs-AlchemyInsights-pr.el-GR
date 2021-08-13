@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913138"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Αλλαγή συνδρομών για αύξηση μεγέθους γραμματοκιβωτίου
 
 Εάν το μέγεθος του γραμματοκιβωτίου σας είναι ήδη 100 GB, δεν υπάρχει τρόπος να το αυξήσετε.
   
-Εάν το μέγεθος του γραμματοκιβωτίου είναι 50 GB, μπορείτε να το αυξήσετε σε 100 GB, μεταβαίνοντας στο [Office 365 για](https://products.office.com/business/office-365-enterprise-e3-business-software) μεγάλες επιχειρήσεις E3 ή [στο Office 365 για μεγάλες επιχειρήσεις E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Ακολουθούν τα βήματα για να μεταβείτε σε διαφορετική συνδρομή:
+Εάν το μέγεθος του γραμματοκιβωτίου είναι 50 GB, μπορείτε να το αυξήσετε σε 100 GB, μεταβαίνοντας σε [Office 365 για μεγάλες επιχειρήσεις E3](https://products.office.com/business/office-365-enterprise-e3-business-software) [ή Office 365 για μεγάλες επιχειρήσεις E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Ακολουθούν τα βήματα για να μεταβείτε σε διαφορετική συνδρομή:
   
-1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα **"Χρέωση** \> **[των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054)** σας".
+1. Στο πλαίσιο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα **"Χρέωση** \> **[των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054)** σας".
 
 2. Επιλέξτε τη συνδρομή που θέλετε να αναβαθμίσετε.
 

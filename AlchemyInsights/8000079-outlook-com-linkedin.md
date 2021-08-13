@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918865"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Προβλήματα με την ανεπιθύμητη ηλεκτρονική αλληλογραφία που ισχυρίζεται ότι είναι από το LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Προβλήματα με τη διεκδίκηση ανεπιθύμητης αλληλογραφίας από το LinkedIn
 
-Εάν λαμβάνετε ανεπιθύμητη αλληλογραφία που ισχυρίζεται ότι είναι από το LinkedIn, μπορείτε να δημιουργήσετε έναν κανόνα για να φιλτράρετε αυτά τα μηνύματα ηλεκτρονικού ταχυδρομείου.
+Εάν λαμβάνετε ανεπιθύμητη αλληλογραφία που ισχυρίζεται ότι προέρχεται από το LinkedIn, μπορείτε να δημιουργήσετε έναν κανόνα για να φιλτράρετε αυτά τα μηνύματα ηλεκτρονικού ταχυδρομείου.
 Ανατρέξτε [στο θέμα Χρήση κανόνων εισερχομένων στο Outlook.com](https://aka.ms/OutlookComInboxRules) για περισσότερες πληροφορίες.
 
 
