@@ -1,5 +1,5 @@
 ---
-title: Συγχρονισμός προφίλ χρήστη του SharePoint Online
+title: SharePoint Συγχρονισμός προφίλ χρήστη στο Internet
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957469"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Συγχρονισμός προφίλ χρήστη του SharePoint Online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Συγχρονισμός προφίλ χρήστη στο Internet
 
-Το Microsoft SharePoint χρησιμοποιεί την εργασία συγχρονισμού της υπηρεσίας καταλόγου Active Directory για την εισαγωγή πληροφοριών χαρακτηριστικών χρηστών και ομάδων στην εφαρμογή προφίλ χρήστη (UPS).Για περισσότερες πληροφορίες, ανατρέξτε στο παρακάτω άρθρο.
+Η SharePoint Microsoft χρησιμοποιεί την εργασία συγχρονισμού της υπηρεσίας καταλόγου Active Directory για την εισαγωγή πληροφοριών χαρακτηριστικών χρήστη και ομάδας στην εφαρμογή προφίλ χρήστη (UPA).Για περισσότερες πληροφορίες, ανατρέξτε στο παρακάτω άρθρο.
 
-- [Συγχρονισμός προφίλ χρήστη του SharePoint Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Συγχρονισμός προφίλ χρήστη στο Internet](https://docs.microsoft.com/sharepoint/user-profile-sync)
