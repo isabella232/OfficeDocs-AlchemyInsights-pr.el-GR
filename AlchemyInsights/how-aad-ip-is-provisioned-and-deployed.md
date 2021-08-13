@@ -1,5 +1,5 @@
 ---
-title: Τρόπος προμήθειας και ανάπτυξης της προστασίας ταυτότητας του Azure Active Directory
+title: Πώς Azure Active Directory προστασία ταυτότητας για προμήθεια και ανάπτυξη
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927859"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Πώς προμηθεύεται και αναπτύσσεται η προστασία ταυτότητας του Azure Active Directory;
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Πώς Azure Active Directory προστασία ταυτότητας γίνεται προμήθεια και ανάπτυξη;
 
-Από προεπιλογή, οι δυνατότητες της προστασίας ταυτότητας του Azure Active Directory είναι ενεργοποιημένες στο επίπεδο μισθωτών για όλους τους χρήστες εντός του μισθωτή.
+Από προεπιλογή, οι δυνατότητες της Azure Active Directory ταυτότητας είναι ενεργοποιημένες σε επίπεδο μισθωτή για όλους τους χρήστες εντός του μισθωτή.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Τι είναι η προστασία ταυτότητας Azure Active Directory;](https://go.microsoft.com/fwlink/?linkid=2130395)
+Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Azure Active Directory Προστασία ταυτότητας;](https://go.microsoft.com/fwlink/?linkid=2130395)
