@@ -1,5 +1,5 @@
 ---
-title: Επικάλυψη ημερολογίου του SharePoint Online
+title: SharePoint Επικάλυψη ημερολογίου στο Internet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bf77ab7ea4fb497b3f2b0317f59d35f260b7b3921433d4d8dc76268db63f0f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093880"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>Επικάλυψη ημερολογίου του SharePoint Online
+# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Επικάλυψη ημερολογίου στο Internet
 
-Μπορείτε να επικαλύψετε ένα άλλο ημερολόγιο του SharePoint, εφόσον και τα δύο ημερολόγια του SharePoint βρίσκονται στην ίδια συλλογή τοποθεσιών. Η δυνατότητα χρήσης της επικάλυψης ημερολογίου σε ένα ημερολόγιο του SharePoint Online ή του SharePoint Server που ανακτάται από το Exchange Online δεν υποστηρίζεται.
+Μπορείτε να επικαλύψετε ένα SharePoint ημερολόγιο, με την προϋ SharePoint και τα δύο ημερολόγια βρίσκονται στην ίδια συλλογή τοποθεσιών. Η δυνατότητα χρήσης της επικάλυψης ημερολογίου σε ένα SharePoint Online ή SharePoint Server που ανακτάται από το Exchange Online δεν υποστηρίζεται.
 
-Το SharePoint Online προσφέρει μια σύγχρονη εμπειρία με τα ημερολόγια ομάδων του Microsoft 365. Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Χρήση του Τμήματος Web ημερολογίου ομάδας.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)
+SharePoint Το Online προσφέρει μια σύγχρονη εμπειρία με Microsoft 365 ημερολόγια ομάδας. Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Χρήση του Τμήματος Web ημερολογίου ομάδας.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)

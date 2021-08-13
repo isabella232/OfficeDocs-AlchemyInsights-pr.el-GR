@@ -1,5 +1,5 @@
 ---
-title: Προβλήματα επιδόσεων-SharePoint ή OneDrive
+title: Ζητήματα επιδόσεων-SharePoint ή OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08bdc2527147279063e3f66a1767203e5ccdc1dd4fd8b871f2800d3f71b9a233
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093733"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>Το SharePoint ή το OneDrive είναι αργά, απρόσιτα ή μη διαθέσιμα για πολλούς χρήστες
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ή OneDrive Slow, Inaccessible ή Unavailable for Multiple Users
 
-Εάν μια τοποθεσία του OneDrive ή του SharePoint δεν είναι διαθέσιμη για πολλούς χρήστες που είχαν προηγουμένως πρόσβαση, μπορεί να υπάρχει κάποιο πρόβλημα προσωρινής υπηρεσίας. [Επιλέξτε τον πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://portal.office.com/adminportal/home#/servicehealth).
+Εάν μια OneDrive ή SharePoint δεν είναι διαθέσιμη σε πολλούς χρήστες που είχαν προηγουμένως πρόσβαση, ενδέχεται να υπάρχει ένα προσωρινό πρόβλημα υπηρεσίας. [Ελέγξτε τον πίνακα εργαλείων της υπηρεσίας υγείας.](https://portal.office.com/adminportal/home#/servicehealth)
 
 **Προσθήκη και άδεια χρήσης του χρήστη**
 
-Βεβαιωθείτε ότι [εκχωρείτε άδειες χρήσης σε χρήστες στο Microsoft 365 για επαγγελματικούς λόγους](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Βεβαιωθείτε ότι έχετε [εκχωρήσει άδειες χρήσης σε χρήστες του Microsoft 365 για επιχειρήσεις.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 
 **Εκχώρηση δικαιωμάτων**
 
-Εάν ο χρήστης έχει εκχωρηθεί μια άδεια χρήσης του SharePoint και εξακολουθεί να λαμβάνει ένα μήνυμα που δεν επιτρέπεται η πρόσβαση, βεβαιωθείτε ότι έχει εκχωρηθεί το [κατάλληλο επίπεδο δικαιωμάτων](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+Εάν στο χρήστη έχει εκχωρηθεί μια άδεια χρήσης του Sharepoint και εξακολουθεί να λαμβάνει ένα μήνυμα άρνησης πρόσβασης, βεβαιωθείτε ότι του έχει εκχωρηθεί [το κατάλληλο επίπεδο](https://docs.microsoft.com/sharepoint/understanding-permission-levels) δικαιωμάτων.
 
-**Εξετάστε το ενδεχόμενο χρήσης της δυνατότητας αίτησης πρόσβασης**
+**Εξετάστε το ενδεχόμενο να χρησιμοποιήσετε τη δυνατότητα αίτησης πρόσβασης**
 
-Η [δυνατότητα αίτησης πρόσβασης](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) επιτρέπει στους χρήστες να ζητούν πρόσβαση σε περιεχόμενο που δεν έχουν προς το παρόν δικαίωμα να βλέπουν.
+Η [δυνατότητα αίτησης πρόσβασης επιτρέπει](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) στους χρήστες να ζητούν πρόσβαση σε περιεχόμενο που δεν έχουν δικαίωμα να δουν τη συγκεκριμένη στιγμή.
 
-**Η προσαρμοσμένη δέσμη ενεργειών μπορεί να προκαλέσει προβλήματα που δεν επιτρέπονται στην Access**
+**Η δυνατότητα προσαρμοσμένης δέσμης ενεργειών μπορεί να προκαλέσει προβλήματα άρνησης πρόσβασης**
 
-Υπάρχουν ορισμένα σενάρια όπου η δυνατότητα "να *επιτρέπεται η προσαρμοσμένη δέσμη ενεργειών* " μπορεί να παρουσιάζει άρνηση πρόσβασης. Για μια λίστα με τις δυνατότητες που επηρεάζονται, θέματα ασφαλείας και τη δυνατότητα να απενεργοποιήσετε τη δυνατότητα. Παρακαλούμε επισκεφθείτε την επιλογή [Αποδοχή ή αποτροπή προσαρμοσμένης δέσμης ενεργειών](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Υπάρχουν ορισμένα σενάρια όπου η δυνατότητα *"Να επιτρέπεται η προσαρμοσμένη δέσμη* ενεργειών" μπορεί να παρουσιάζει μια άρνηση πρόσβασης. Για μια λίστα των δυνατοτήτων που επηρεάζονται, ζητήματα ασφαλείας και τη δυνατότητα απενεργοποίησης της δυνατότητας. Επισκεφτείτε την τοποθεσία ["Αποδοχή" ή αποτρέψτε την προσαρμοσμένη δέσμη ενεργειών.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
