@@ -1,5 +1,5 @@
 ---
-title: 9000233 Outlook.com PIN
+title: 9000233 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983849"
 ---
 # <a name="change-your-pin"></a>Αλλαγή του PIN σας
 
-Το Outlook.com δεν χρησιμοποιεί PIN, αλλά μπορεί να συνδεθείτε στον υπολογιστή σας με έναν κωδικό PIN ή με το Windows Hello. Για να αλλάξετε τον αριθμό PIN στα Windows 10:
+Outlook.com δεν χρησιμοποιεί PIN, αλλά μπορείτε να εισέλθετε στον υπολογιστή σας με PIN ή Windows Hello. Για να αλλάξετε το PIN σας Windows 10:
 
-1. Επιλέξτε το κουμπί Έναρξη ή πατήστε το πλήκτρο των Windows στο πληκτρολόγιό σας και, στη συνέχεια, επιλέξτε **Ρυθμίσεις**  >  **Accounts**  >  **εισόδου**λογαριασμών.
-2. Επιλέξτε το κουμπί **Αλλαγή** στην περιοχή **Καρφίτσωμα**.
-3. Εισαγάγετε τον τρέχοντα αριθμό PIN και, στη συνέχεια, εισαγάγετε και επιβεβαιώστε τον νέο σας αριθμό PIN από κάτω.
+1. Επιλέξτε το κουμπί "Έναρξη" ή πατήστε το πλήκτρο Windows στο πληκτρολόγιό σας και, στη συνέχεια, **Ρυθμίσεις**  >  **επιλογές**  >  **"Είσοδος λογαριασμών".**
+2. Επιλέξτε το κουμπί **"Αλλαγή"** στην περιοχή **PIN.**
+3. Πληκτρολογήστε το τρέχον PIN και, στη συνέχεια, πληκτρολογήστε και επιβεβαιώστε το νέο PIN από κάτω.
 
-[Διαβάστε περισσότερα σχετικά με το Windows Hello.](https://support.microsoft.com/help/17215/)
+[Διαβάστε περισσότερα σχετικά με Windows Hello.](https://support.microsoft.com/help/17215/)

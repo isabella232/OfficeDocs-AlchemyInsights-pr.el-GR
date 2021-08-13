@@ -13,13 +13,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 9180e7f6194d6bd862c2e51ca6459188e4c25134
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68d68a7acfd99174bae5b14d3560fc2e02b580bf62d1bf4f948543708c901a8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926605"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Πώς να αποκτήσετε πρόσβαση στο Outlook.com ενώ ταξιδεύετε
 
-Για να αποκτήσετε πρόσβαση στο Outlook.com ενώ ταξιδεύετε, βεβαιωθείτε ότι οι πληροφορίες ασφαλείας του λογαριασμού Microsoft που διαθέτετε-μια εναλλακτική διεύθυνση ηλεκτρονικού ταχυδρομείου ή ένας αριθμός τηλεφώνου όπου μπορείτε να λάβετε κωδικούς ασφαλείας-είναι ενημερωμένοι. Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Πώς να αποκτήσετε πρόσβαση στο Outlook.com όταν ταξιδεύετε](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
+Για να αποκτήσετε πρόσβαση Outlook.com ενώ ταξιδεύετε, βεβαιωθείτε ότι οι πληροφορίες ασφαλείας του λογαριασμού Microsoft - μια εναλλακτική διεύθυνση ηλεκτρονικού ταχυδρομείου ή ένας αριθμός τηλεφώνου όπου μπορείτε να λάβετε κωδικούς ασφαλείας - είναι ενημερωμένες. Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Πώς μπορείτε να αποκτήσετε πρόσβαση στο Outlook.com όταν ταξιδεύετε.](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy)
