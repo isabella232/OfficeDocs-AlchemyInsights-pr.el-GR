@@ -1,5 +1,5 @@
 ---
-title: Σχήμα XML φόρμας δυναμικής 365
+title: Σχήμα XML φόρμας Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947263"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Περιορισμοί πόρων Web ιστοσελίδων (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>Περιορισμοί πόρων Web ιστοσελίδας (HTML)
 
-* Ένας πόρος Web HTML δεν μπορεί να περιέχει κώδικα που πρέπει να εκτελεστεί στο διακομιστή. Οι σελίδες του ASP.NET δεν μπορούν να αποσταλούν ως πόροι Web HTML.
+* Ένας πόρος Web HTML δεν μπορεί να περιέχει κώδικα που πρέπει να εκτελεστεί στο διακομιστή. ASP.NET σελίδες δεν είναι δυνατό να αποφορτωθεί ως πόροι Web HTML.
 
-* Οι πόροι Web HTML μπορούν να αποδεχθούν μόνο έναν περιορισμένο αριθμό παραμέτρων συμβολοσειράς ερωτήματος. Περισσότερες πληροφορίες: [Παράμετροι διαβίβασης σε πόρους Web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Οι πόροι web HTML μπορούν να αποδεχτούν μόνο έναν περιορισμένο αριθμό παραμέτρων συμβολοσειράς ερωτήματος. Περισσότερες πληροφορίες: [Μεταβιβάστε παραμέτρους σε πόρους Web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Πόροι Web ιστοσελίδων (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Πόροι Web ιστοσελίδας (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

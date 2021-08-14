@@ -1,5 +1,5 @@
 ---
-title: Αποτροπή αυτόματης εκκίνησης ομάδων
+title: Αποτροπή Teams αυτόματη εκκίνηση
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923793"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Αποτροπή αυτόματης εκκίνησης ομάδων
+# <a name="prevent-teams-from-starting-automatically"></a>Αποτροπή Teams αυτόματη εκκίνηση
 
-Από προεπιλογή, οι ομάδες ανοίγουν αυτόματα όταν ξεκινάτε τη συσκευή σας.
+Από προεπιλογή, Teams αυτόματα κατά την εκκίνηση της συσκευής σας.
 
-Για να αλλάξετε αυτήν τη ρύθμιση, επιλέξτε την εικόνα προφίλ των ομάδων σας και, στη συνέχεια, επιλέξτε **Ρυθμίσεις**  >   **Γενικά**. Στην περιοχή  **εφαρμογή**, καταργήστε την επιλογή της  **εφαρμογής αυτόματης εκκίνησης**.
+Για να αλλάξετε αυτήν τη ρύθμιση, επιλέξτε την εικόνα Teams προφίλ σας και, στη **συνέχεια, Ρυθμίσεις**  >   **"Γενικά".** Στην **περιοχή "Εφαρμογή",** κατάργηση ελέγχου της εφαρμογής Αυτόματης **εκκίνησης.**
 
-Για περισσότερες πληροφορίες, ανατρέξτε  [στο θέμα Αλλαγή ρυθμίσεων στο teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα "Αλλαγή ρυθμίσεων" Teams.](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)
