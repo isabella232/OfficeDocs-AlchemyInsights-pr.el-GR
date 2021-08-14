@@ -1,5 +1,5 @@
 ---
-title: Διαγραφή εταιρικών δεδομένων από εφαρμογές διαχειριζόμενες από το Intune
+title: Σβήσιμο εταιρικών δεδομένων από εφαρμογές που διαχειρίζεται το Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997746"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Διαγραφή εταιρικών δεδομένων από εφαρμογές διαχειριζόμενες από το Intune
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Σβήσιμο εταιρικών δεδομένων από εφαρμογές που διαχειρίζεται το Intune
 
 Το Intune υποστηρίζει την κατάργηση εταιρικών δεδομένων από διαχειριζόμενες εφαρμογές πολιτικής προστασίας εφαρμογών (APP). 
 
-Για να μάθετε περισσότερα σχετικά με το σκούπισμα, τη διαγραφή ή την κατάργηση εταιρικών δεδομένων από αυτές τις εφαρμογές, ανατρέξτε στο θέμα [Πώς μπορείτε να σκουπίσετε μόνο εταιρικά δεδομένα από εφαρμογές διαχειριζόμενες από το Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+Για να μάθετε περισσότερα σχετικά με το σκούπισμα, τη διαγραφή ή την κατάργηση εταιρικών δεδομένων από αυτές τις εφαρμογές, ανατρέξτε στο θέμα Πώς μπορείτε να σβήσετε μόνο εταιρικά δεδομένα από εφαρμογές που [διαχειρίζεται το Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

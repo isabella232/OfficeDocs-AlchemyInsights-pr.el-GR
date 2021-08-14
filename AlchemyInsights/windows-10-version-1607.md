@@ -1,5 +1,5 @@
 ---
-title: Τι νέο υπάρχει στα Windows 10, έκδοση 1607
+title: Τι νέο υπάρχει στην Windows 10, έκδοση 1607
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003960"
 - "7016"
-ms.openlocfilehash: 369daf8dfea932746f957d19e2d58e3043cfd135
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: fc4f9cb1b04ae9bdebefe02d2f9d84216295a90f740b7ee8d0d7e92e478f3357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997818"
 ---
-# <a name="whats-new-in-windows-10-version-1607"></a>Τι νέο υπάρχει στα Windows 10, έκδοση 1607
+# <a name="whats-new-in-windows-10-version-1607"></a>Τι νέο υπάρχει στην Windows 10, έκδοση 1607
 
-Ακολουθούν ορισμένες από τις νέες και ενημερωμένες δυνατότητες στα Windows 10, έκδοση 1607, γνωστή και ως ενημέρωση επετείου:
+Ακολουθούν ορισμένες από τις νέες και ενημερωμένες δυνατότητες της Windows 10, έκδοση 1607, γνωστή και ως Επετειακή ενημέρωση:
 
-1. [Ανάπτυξης](https://go.microsoft.com/fwlink/?linkid=2114462)
-2. [Ενημερώσεις των Windows](https://go.microsoft.com/fwlink/?linkid=2114463)
+1. [Ανάπτυξη](https://go.microsoft.com/fwlink/?linkid=2114462)
+2. [Windows ενημερώσεων](https://go.microsoft.com/fwlink/?linkid=2114463)
 3. [Ασφάλεια](https://go.microsoft.com/fwlink/?linkid=2114270)
-4. [Διαχείρισης](https://go.microsoft.com/fwlink/?linkid=2114271)
+4. [Διαχείριση](https://go.microsoft.com/fwlink/?linkid=2114271)
