@@ -1,5 +1,5 @@
 ---
-title: Το πιστοποιητικό push του Apple MDM έχει λήξει
+title: Το πιστοποιητικό push MDM της Apple έχει λήξει
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997422"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Το πιστοποιητικό push του Apple MDM έχει λήξει
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Το πιστοποιητικό push MDM της Apple έχει λήξει
 
-Το πιστοποιητικό Apple MDM Push ισχύει για ένα έτος και πρέπει να ανανεώνεται ετησίως για να διατηρείται η διαχείριση συσκευών iOS και macOS. Εάν το πιστοποιητικό σας λήξει, δεν είναι δυνατή η επικοινωνία με τις εγγεγραμμένες συσκευές Apple και δεν είναι δυνατή η εγγραφή νέων συσκευών.
+Το πιστοποιητικό Apple MDM Push ισχύει για ένα έτος και πρέπει να ανανεώνεται ετησίως για να διατηρείται η διαχείριση συσκευών iOS και macOS. Εάν λήξει το πιστοποιητικό σας, δεν είναι δυνατό να γίνει επικοινωνία με τις εγγεγραμμένες συσκευές Apple και δεν είναι δυνατό να εγγραφούν νέες συσκευές.
 
-Για τα βήματα ανανέωσης του πιστοποιητικού push του Apple MDM, ανατρέξτε στο θέμα [Ανανέωση πιστοποιητικού push του Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Για τα βήματα για την ανανέωση του πιστοποιητικού Apple MDM Push, ανατρέξτε στο θέμα [Ανανέωση πιστοποιητικού push MDM της Apple.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

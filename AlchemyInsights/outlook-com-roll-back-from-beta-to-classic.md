@@ -1,5 +1,5 @@
 ---
-title: Αίτημα για επαναφορά από το Outlook.com beta στο Classic Outlook.com
+title: Αίτηση επαναφοράς από την Outlook.com στην κλασική Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961730"
 ---
-# <a name="the-new-outlookcom"></a>Το νέο Outlook.com
+# <a name="the-new-outlookcom"></a>Η νέα Outlook.com
 
-Δεν μπορείτε πλέον να αφήσετε τη νέα εμπειρία του Outlook.com και να επιστρέψετε στην κλασική έκδοση του Outlook.com.
+Δεν είναι πλέον δυνατό να αφήσετε τη νέα εμπειρία Outlook.com και να επιστρέψετε στην κλασική έκδοση του Outlook.com.
 
-Εάν θέλετε να παράσχετε σχόλια σχετικά με το νέο Outlook.com, μεταβείτε στο [φόρουμ του UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Μπορείτε να ψηφίσετε για τις ιδέες ή τα θέματα που θα θέλατε να δείτε να αντιμετωπίζονται και θα ανταποκριθούμε απευθείας στα πιο δημοφιλή σχόλια και προτάσεις.
+Εάν θέλετε να στείλετε σχόλια σχετικά με το νέο Outlook.com, μεταβείτε στο [φόρουμ userVoice.](https://go.microsoft.com/fwlink/p/?linkid=851599) Μπορείτε να ψηφίσετε για τις ιδέες ή τα θέματα που θέλετε να αντιμετωπιστούν και θα απαντήσουμε απευθείας στα κορυφαία σχόλια και προτάσεις.
 
-[Λήψη βοήθειας για το Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Λάβετε βοήθεια σχετικά με Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

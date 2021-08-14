@@ -14,18 +14,18 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930765"
 ---
 # <a name="check-aad-identity-sync-status"></a>Έλεγχος κατάστασης συγχρονισμού ταυτότητας AAD
 
 Ο έλεγχος της κατάστασης συγχρονισμού είναι εύκολος:
   
-- Πραγματοποιήστε είσοδο στο κέντρο διαχείρισης του Microsoft 365 και επιλέξτε **"Κατάσταση DirSync"** στην αρχική σελίδα.
+- Πραγματοποιήστε είσοδο στην Κέντρο διαχείρισης Microsoft 365 και επιλέξτε **"Κατάσταση DirSync"** στην αρχική σελίδα.
 
 - Εναλλακτικά, μπορείτε να μεταβείτε στους ενεργούς χρήστες χρηστών και, στη \> σελίδα "Ενεργοί χρήστες", επιλέξτε "Περισσότερος \> συγχρονισμός καταλόγου".
 
