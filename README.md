@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Άνοιγμα Microsoft πηγαίο κώδικα δεοντολογίας
-Αυτό το έργο έχει εκδώσει τον [Microsoft ανοιχτό αρχείο προέλευσης κώδικα συμπεριφοράς](https://opensource.microsoft.com/codeofconduct/). Για περισσότερες πληροφορίες δείτε τον [Κώδικα της συμπεριφοράς συνήθεις Ερωτήσεις](https://opensource.microsoft.com/codeofconduct/faq/) ή επικοινωνήστε με [opencode@microsoft.com](mailto:opencode@microsoft.com) με τυχόν πρόσθετες ερωτήσεις ή σχόλια.
+## <a name="microsoft-open-source-code-of-conduct"></a>Κώδικας συμπεριφοράς ανοιχτού κώδικα της Microsoft
+Αυτό το έργο έχει υιοθετήσει τον [Κώδικα συμπεριφοράς ανοιχτού κώδικα της Microsoft.](https://opensource.microsoft.com/codeofconduct/)
+Για περισσότερες πληροφορίες, ανατρέξτε στις [Συνήθεις ερωτήσεις για τον Κώδικα](https://opensource.microsoft.com/codeofconduct/faq/) συμπεριφοράς ή επικοινωνήστε [opencode@microsoft.com](mailto:opencode@microsoft.com) με τυχόν πρόσθετες ερωτήσεις ή σχόλια.

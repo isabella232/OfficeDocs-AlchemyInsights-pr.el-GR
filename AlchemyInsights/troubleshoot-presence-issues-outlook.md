@@ -6,8 +6,8 @@ title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebau
 
 # <a name="troubleshoot-presence-issues-in-outlook"></a>Αντιμετώπιση προβλημάτων παρουσίας στο Outlook
 
-Για να διαγνώσετε και να διορθώσετε προβλήματα με την κατάσταση παρουσίας ενός χρήστη στο Outlook, κάντε λήψη και εκτελέστε τον Βοηθό υποστήριξης και αποκατάστασης της Microsoft > [σενάριο παρουσίας του Teams.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Για να διαγνώσετε και να διορθώσετε προβλήματα με την κατάσταση παρουσίας ενός χρήστη στο Outlook, κάντε λήψη και εκτελέστε το Microsoft Βοηθός υποστήριξης και αποκατάστασης > [Teams Σενάριο παρουσίας.](https://aka.ms/SaRA-TeamsPresenceScenario)
 
-Για να αντιμετωπίσετε με μη αυτόματο τρόπο ένα πρόβλημα με την παρουσία στο Outlook, ακολουθήστε τα βήματα στα [θέματα κατάστασης παρουσίας χρήστη στο Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Για να αντιμετωπίσετε με μη αυτόματο τρόπο ένα πρόβλημα με την παρουσία Outlook, ακολουθήστε τα βήματα στα θέματα [κατάστασης παρουσίας χρήστη στο Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
 
-Εάν η κατάσταση παρουσίας δεν ενημερώνεται στο Teams, ανατρέξτε στο θέμα Η πραγματική κατάσταση [παρουσίας σας δεν αντικατοπτρίζεται στο Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Εάν η κατάσταση παρουσίας δεν ενημερώνεται στο Teams, ανατρέξτε στο θέμα Η πραγματική κατάσταση παρουσίας [σας δεν αντικατοπτρίζεται στο Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
