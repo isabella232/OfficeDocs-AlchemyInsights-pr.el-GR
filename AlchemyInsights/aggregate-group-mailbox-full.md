@@ -1,5 +1,5 @@
 ---
-title: AggregateGroupMailbox πλήρης έκθεση NDR που ελήφθη για το ηλεκτρονικό ταχυδρομείο που στάλθηκε στο Microsoft 365 Group
+title: Η πλήρης NDR του AggregateGroupMailbox λήφθηκε για μηνύματα ηλεκτρονικού ταχυδρομείου που στάλθηκαν Microsoft 365 ομάδα
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951853"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox πλήρης έκθεση NDR που ελήφθη για το ηλεκτρονικό ταχυδρομείο που στάλθηκε στο Microsoft 365 Group
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>Η πλήρης NDR του AggregateGroupMailbox λήφθηκε για μηνύματα ηλεκτρονικού ταχυδρομείου που στάλθηκαν Microsoft 365 ομάδα
 
-Χρησιμοποιήστε την ακόλουθη εντολή έξω κέλυφος για να δημιουργήσετε έναν κανόνα μεταφοράς του Exchange για να αποθέσετε μηνύματα ηλεκτρονικού ταχυδρομείου που αποστέλλονται στο συγκεντρωτικό γραμματοκιβώτιο ομάδας:
+Χρησιμοποιήστε την ακόλουθη εντολή "Κέλυφος EXO" για να δημιουργήσετε έναν Exchange μεταφοράς για σιωπηρή απόθεση μηνυμάτων ηλεκτρονικού ταχυδρομείου που αποστέλλονται στο γραμματοκιβώτιο ομάδας συγκεντρωτικών αποτελεσμάτων:
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> Αντικαταστήστε τη διεύθυνση SMTP in **-SentTo** με τη διεύθυνση SMTP του γραμματοκιβωτίου ομάδας συγκεντρωτικών αποτελεσμάτων στο μισθωτή σας. Μπορείτε να λάβετε τη διεύθυνση SMTP του γραμματοκιβωτίου ομάδας συγκεντρωτικών αποτελεσμάτων από το NDR Received.
+> Αντικαταστήστε τη διεύθυνση SMTP στο **-SentTo με** τη διεύθυνση SMTP του γραμματοκιβωτίου συγκεντρωτικών ομάδων στο μισθωτή σας. Μπορείτε να λάβετε τη διεύθυνση SMTP του γραμματοκιβωτίου ομάδας συγκεντρωτικών αποτελεσμάτων από την NDR που λάβατε.
 
 
 

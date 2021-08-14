@@ -1,5 +1,5 @@
 ---
-title: Πολιτικές δικαιωμάτων εφαρμογής
+title: Πολιτικές δικαιωμάτων εφαρμογών
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564635"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951673"
 ---
-# <a name="app-permission-policies"></a>Πολιτικές δικαιωμάτων εφαρμογής
+# <a name="app-permission-policies"></a>Πολιτικές δικαιωμάτων εφαρμογών
 
-Με τις [πολιτικές δικαιωμάτων εφαρμογής](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), μπορείτε να κάνετε τα εξής:
-- Ως διαχειριστής, μπορείτε να διαχειριστείτε τις πολιτικές ρύθμισης εφαρμογών στο [Κέντρο διαχείρισης του Microsoft teams](https://admin.teams.microsoft.com/policies/app-permission).
-- Να ελέγχετε ποιες εφαρμογές είναι διαθέσιμες στους χρήστες του Microsoft teams στην εταιρεία σας χρησιμοποιώντας την καθολική πολιτική ή να [δημιουργούν και να εκχωρούν προσαρμοσμένες πολιτικές](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) για την προσαρμογή και τον έλεγχο της πρόσβασης χρηστών σε εφαρμογές. 
+Με [τις πολιτικές δικαιωμάτων εφαρμογής,](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)μπορείτε να κάνετε τα εξής:
+- Ως διαχειριστής, μπορείτε να διαχειριστείτε τις πολιτικές ρύθμισης εφαρμογών [στο Microsoft Teams διαχείρισης.](https://admin.teams.microsoft.com/policies/app-permission)
+- Ελέγξτε ποιες εφαρμογές είναι διαθέσιμες σε Microsoft Teams στον οργανισμό σας χρησιμοποιώντας την καθολική πολιτική ή δημιουργήστε και εκχωρήστε προσαρμοσμένες πολιτικές για [την](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) προσαρμογή και τον έλεγχο της πρόσβασης των χρηστών σε εφαρμογές. 
 > [!NOTE]
-> Οι ρυθμίσεις της εφαρμογής org παρακάμπτουν την καθολική πολιτική και τυχόν προσαρμοσμένες πολιτικές που δημιουργείτε και εκχωρείτε σε χρήστες.
-- Μπορείτε να χρησιμοποιήσετε τις [πολιτικές ρύθμισης εφαρμογών](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) για να προσαρμόσετε το Microsoft teams για να επισημάνετε τις εφαρμογές που είναι πιο σημαντικές για τους χρήστες σας. 
+> Οι ρυθμίσεις εφαρμογών σε επίπεδο οργανισμού παρακάμπτουν την καθολική πολιτική και τυχόν προσαρμοσμένες πολιτικές που δημιουργείτε και εκχωρείτε στους χρήστες.
+- Μπορείτε να χρησιμοποιήσετε [πολιτικές ρύθμισης εφαρμογών](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) για να προσαρμόσετε Microsoft Teams να επισημάνετε τις εφαρμογές που είναι πιο σημαντικές για τους χρήστες σας. 
 
 
-Για περισσότερες πληροφορίες σχετικά με τη δημιουργία πολιτικών εφαρμογών για τον μισθωτή σας, ανατρέξτε στα θέματα:
-- [Διαχείριση των εφαρμογών σας στο κέντρο διαχείρισης του Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Διαχείριση πολιτικών δικαιωμάτων εφαρμογής στο Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Διαχείριση προσαρμοσμένων πολιτικών και ρυθμίσεων εφαρμογών στο Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Για περισσότερες πληροφορίες σχετικά με τη δημιουργία πολιτικών εφαρμογών για το μισθωτή σας, ανατρέξτε στα θέμα:
+- [Διαχείριση των εφαρμογών σας στο Microsoft Teams διαχείρισης](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Διαχείριση πολιτικών δικαιωμάτων εφαρμογής στο Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Διαχείριση προσαρμοσμένων πολιτικών και ρυθμίσεων εφαρμογών Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

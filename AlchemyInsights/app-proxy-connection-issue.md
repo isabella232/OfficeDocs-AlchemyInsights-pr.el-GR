@@ -1,5 +1,5 @@
 ---
-title: Πρόβλημα σύνδεσης του διακομιστή μεσολάβησης εφαρμογής
+title: Πρόβλημα σύνδεσης διακομιστή μεσολάβησης εφαρμογών
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951601"
 ---
-# <a name="app-proxy-connection-issue"></a>Πρόβλημα σύνδεσης του διακομιστή μεσολάβησης εφαρμογής
+# <a name="app-proxy-connection-issue"></a>Πρόβλημα σύνδεσης διακομιστή μεσολάβησης εφαρμογών
 
-1. Εάν χρησιμοποιείτε την υπηρεσία διακομιστή μεσολάβησης εφαρμογής για απομακρυσμένη πρόσβαση σε μια εφαρμογή Web εσωτερικής εγκατάστασης, αλλά αντιμετωπίζετε προβλήματα με τη σύνδεση με την εφαρμογή, χρησιμοποιήστε [αυτό το άρθρο](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) για να σας βοηθήσει να αντιμετωπίσετε προβλήματα με τις συνδέσεις διακομιστή μεσολάβησης εφαρμογής Azure Active Directory (Azure AD).
-2. Για βοήθεια σχετικά με την επίλυση συνηθισμένων ζητημάτων που αντιμετωπίζουν όταν δεν ανιχνεύεται μια σύνδεση για μια εφαρμογή διακομιστή μεσολάβησης εφαρμογής που είναι ενοποιημένη με το Azure Active Directory, ακολουθήστε τα βήματα στο άρθρο [δεν βρέθηκε ομάδα σύνδεσης εργασίας για μια εφαρμογή διακομιστή μεσολάβησης εφαρμογής](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) για την αντιμετώπιση προβλημάτων.
+1. Εάν χρησιμοποιείτε την υπηρεσία διακομιστή μεσολάβησης εφαρμογών για απομακρυσμένη πρόσβαση σε μια εφαρμογή Web εσωτερικής [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) εγκατάστασης, αλλά αντιμετωπίζετε προβλήματα κατά τη σύνδεση με την εφαρμογή, χρησιμοποιήστε αυτό το άρθρο για να σας βοηθήσει να αντιμετωπίσετε προβλήματα με τις συνδέσεις διακομιστή μεσολάβησης εφαρμογών του Azure Active Directory (Azure AD).
+2. Για βοήθεια σχετικά με την επίλυση συνηθισμένων προβλημάτων που αντιμετωπίζουν όταν δεν εντοπίζεται μια γραμμή σύνδεσης για μια εφαρμογή διακομιστή μεσολάβησης εφαρμογών που είναι ενσωματωμένη στο Azure Active Directory, ακολουθήστε τα βήματα στο άρθρο Δεν βρέθηκε ομάδα γραμμών σύνδεσης εργασίας για μια εφαρμογή διακομιστή μεσολάβησης εφαρμογής για [την](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) αντιμετώπιση προβλημάτων.
