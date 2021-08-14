@@ -1,5 +1,5 @@
 ---
-title: 763 Αποκλεισμός πρόσβασης του Exchange Online PowerShell για χρήστες
+title: 763 Αποκλεισμός Exchange Online πρόσβασης powerShell για χρήστες
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931413"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Αποκλεισμός πρόσβασης του Exchange Online PowerShell για χρήστες
-Ως διαχειριστής, έχετε τη δυνατότητα να αποκλείσετε την πρόσβαση στο Exchange Online PowerShell για τους χρήστες σας. Για περισσότερες πληροφορίες, ανατρέξτε σε αυτά τα θέματα:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Αποκλεισμός Exchange Online πρόσβασης powerShell για χρήστες
+Ως διαχειριστής, έχετε τη δυνατότητα να αποκλείσετε την πρόσβαση στο Exchange Online PowerShell για τους χρήστες σας. Για περισσότερες πληροφορίες, ανατρέξτε στα παρακάτω θέματα:
 
-- [Ενεργοποίηση ή απενεργοποίηση της πρόσβασης στο Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Ενεργοποίηση ή απενεργοποίηση της πρόσβασης σε Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Κανόνες πρόσβασης προγράμματος-πελάτη στο Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (αναζητήστε το πρωτόκολλο **RemotePowerShell** ) 
+- [Κανόνες πρόσβασης προγράμματος-πελάτη Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (αναζητήστε το **πρωτόκολλο RemotePowerShell)** 
 
-**Σημείωση**: όπως περιγράφεται στο θέμα, προσέξτε να μην αποκλείσετε την πρόσβαση στο Exchange Online PowerShell για διαχειριστές.
+**Σημείωση:** Όπως περιγράφεται στο θέμα, προσέξτε να μην αποκλείσετε την πρόσβαση στο Exchange Online PowerShell για διαχειριστές.
