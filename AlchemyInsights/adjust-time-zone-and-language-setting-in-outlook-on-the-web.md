@@ -1,5 +1,5 @@
 ---
-title: 620 ρύθμιση ζώνης ώρας και γλώσσας στο Outlook στο Web
+title: 620 Προσαρμογή της ζώνης ώρας και της ρύθμισης γλώσσας Outlook στο web
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952933"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Προσαρμογή της ζώνης ώρας και των ρυθμίσεων γλώσσας στο Outlook στο Web
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Προσαρμογή ρυθμίσεων ζώνης ώρας και γλώσσας Outlook στο web
 
-Για να προσαρμόσετε τις ρυθμίσεις ζώνης ώρας και γλώσσας στο Outlook στο Web, στις οποίες έχετε πρόσβαση χρησιμοποιώντας τον εργασιακό ή σχολικό λογαριασμό σας, ανατρέξτε στο [θέμα Αλλαγή της ζώνης ώρας και των ρυθμίσεων γλώσσας στο Outlook στο Web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Για να προσαρμόσετε τις ρυθμίσεις ζώνης ώρας και γλώσσας στο Outlook στο web, στον οποίο έχετε πρόσβαση χρησιμοποιώντας τον λογαριασμό της εργασίας ή του σχολείου σας, ανατρέξτε στο θέμα Αλλαγή των ρυθμίσεων ζώνης ώρας και γλώσσας [στο Outlook στο web.](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)
   
