@@ -1,5 +1,5 @@
 ---
-title: '8000016: Πώς μπορείτε να διαγράψετε ένα φάκελο'
+title: '8000016: Τρόπος διαγραφής ενός φακέλου'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063232"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Πώς μπορείτε να διαγράψετε ένα φάκελο στο Outlook στο Web
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Τρόπος διαγραφής ενός φακέλου στο Outlook στο web
 
 1. Στο παράθυρο φακέλων, κάντε δεξί κλικ στο φάκελο ή τον υποφάκελο που θέλετε να διαγράψετε.
-2. Επιλέξτε **Διαγραφή φακέλου**.
-3. Επιλέξτε **OK** για επιβεβαίωση.
+2. Επιλέξτε **"Διαγραφή φακέλου".**
+3. Επιλέξτε **OK για** επιβεβαίωση.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα εργασία με φακέλους μηνυμάτων στο Outlook στο Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα "Εργασία με φακέλους μηνυμάτων" Outlook στο web.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
 
