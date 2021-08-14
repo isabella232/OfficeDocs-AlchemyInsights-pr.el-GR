@@ -1,5 +1,5 @@
 ---
-title: Τα τμήματα Web του προγράμματος επεξεργασίας περιεχομένου ή του προγράμματος επεξεργασίας δέσμης ενεργειών λείπουν
+title: Λείπουν τμήματα Web προγράμματος επεξεργασίας περιεχομένου ή προγράμματος επεξεργασίας δέσμης ενεργειών
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022607"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Τα τμήματα Web του προγράμματος επεξεργασίας περιεχομένου ή του προγράμματος επεξεργασίας δέσμης ενεργειών λείπουν
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Λείπουν τμήματα Web προγράμματος επεξεργασίας περιεχομένου ή προγράμματος επεξεργασίας δέσμης ενεργειών
 
-Δύο τμήματα Web που δεν είναι διαθέσιμα στο SharePoint για το Microsoft 365 σύγχρονες σελίδες είναι το **Τμήμα Web προγράμματος επεξεργασίας δέσμης ενεργειών** και το **Τμήμα Web προγράμματος επεξεργασίας περιεχομένου**. Ωστόσο, υπάρχουν [σύγχρονα τμήματα Web εκτός του πλαισίου](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) που μπορούν να εκπληρώσουν ορισμένους από τους ίδιους σκοπούς. Εναλλακτικά, μπορείτε να δημιουργήσετε [προσαρμοσμένα τμήματα Web ή να μετεγκαταστήσετε τα υπάρχοντα τμήματα Web του προγράμματος επεξεργασίας δέσμης ενεργειών](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) στο πλαίσιο του SharePoint.  
+Δύο τμήματα Web που δεν είναι διαθέσιμα SharePoint για Microsoft 365 σύγχρονες σελίδες είναι το τμήμα Web του προγράμματος επεξεργασίας **δέσμης ενεργειών** και το **τμήμα Web προγράμματος επεξεργασίας περιεχομένου.** Ωστόσο, υπάρχουν [σύγχρονα τμήματα Web "out-of-the-box"](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) που μπορούν να πληρούν ορισμένους από τους ίδιους σκοπούς. Εναλλακτικά, μπορείτε να δημιουργήσετε [προσαρμοσμένα τμήματα Web ή να μετεγκαταστήσετε](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) τα υπάρχοντα τμήματα Web του προγράμματος επεξεργασίας δέσμης ενεργειών στο SharePoint Framework.  
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [πού βρίσκονται τα τμήματα Web του προγράμματος επεξεργασίας περιεχομένου και του προγράμματος επεξεργασίας δέσμης ενεργειών στο SharePoint;](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Πού βρίσκονται τα τμήματα Web του προγράμματος επεξεργασίας περιεχομένου και [του προγράμματος επεξεργασίας δέσμης ενεργειών SharePoint;](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)

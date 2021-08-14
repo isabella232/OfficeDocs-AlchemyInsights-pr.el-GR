@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962455"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Αλλαγή του ονόματος του προφίλ σας στο Outlook.com
 
-1. Μεταβείτε στις [πληροφορίες του λογαριασμού σας Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Επιλέξτε **Επεξεργασία ονόματος**.
-3. Πληκτρολογήστε όνομα και επώνυμο και επιλέξτε **Αποθήκευση**.
+1. Μεταβείτε στις πληροφορίες του λογαριασμού Microsoft που [διαθέτετε.](https://go.microsoft.com/fwlink/p/?linkid=860841)
+2. Επιλέξτε **"Επεξεργασία ονόματος".**
+3. Πληκτρολογήστε ένα όνομα και επώνυμο και επιλέξτε **"Αποθήκευση".**
 
-Παρακαλείστε να επιτρέψετε έως και 24 ώρες για να τεθούν σε ισχύ οι αλλαγές στο όνομα του προφίλ σας.
+Επιτρέψτε έως και 24 ώρες για να εφαρμοστούν οι αλλαγές στο όνομα του προφίλ σας.
