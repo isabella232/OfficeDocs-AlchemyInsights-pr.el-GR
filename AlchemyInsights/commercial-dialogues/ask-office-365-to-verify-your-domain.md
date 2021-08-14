@@ -1,5 +1,5 @@
 ---
-title: Ζητήστε από το Office 365 να επαληθεύσει τον τομέα σας
+title: Ζητήστε Office 365 επαληθεύσετε τον τομέα σας
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949603"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Ζητήστε από το Office 365 να επαληθεύσει τον τομέα σας
+# <a name="ask-office-365-to-verify-your-domain"></a>Ζητήστε Office 365 επαληθεύσετε τον τομέα σας
 
-Όταν το Office 365 εντοπίσει τη σωστή εγγραφή TXT, ο τομέας σας επαληθεύεται. Για να ζητήσετε από το Office 365 να επαληθεύσει τον τομέα σας, ακολουθήστε τα παρακάτω βήματα:
+Όταν Office 365 τη σωστή εγγραφή TXT, ο τομέας σας επαληθεύεται. Για να ζητήσετε Office 365 να επαληθεύσετε τον τομέα σας, ακολουθήστε τα παρακάτω βήματα:
 
 1. Βεβαιωθείτε ότι είστε στη σελίδα **"Επαλήθευση τομέα".** Εάν δεν είστε αυτήν τη στιγμή σε αυτήν τη σελίδα, επιλέξτε **"Ρύθμιση > τομείς",**  επιλέξτε τον τομέα που επαληθεύετε και, στη συνέχεια, κάντε κλικ στην επιλογή "Έναρξη ρύθμισης" ή **"Συνέχεια ρύθμισης".** Θα προσγειωθείτε στη **σελίδα "Επαλήθευση τομέα".**
 
