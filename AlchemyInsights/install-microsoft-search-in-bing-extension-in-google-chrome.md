@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση της Αναζήτησης της Microsoft στην επέκταση Bing στο Google Chrome
+title: Εγκατάσταση του Αναζήτηση της Microsoft στην Bing στο Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014612"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Εγκατάσταση της Αναζήτησης της Microsoft στην επέκταση Bing στο Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Εγκατάσταση του Αναζήτηση της Microsoft στην Bing στο Google Chrome
 
-Για να εγκαταστήσετε την Αναζήτηση της Microsoft στην επέκταση Bing στο Google Chrome, κάντε τα εξής:
+Για να εγκαταστήσετε Αναζήτηση της Microsoft στην Bing στο Google Chrome, κάντε τα εξής:
 
 1. Βεβαιωθείτε ότι η συσκευή πληροί τα [κριτήρια](https://go.microsoft.com/fwlink/?linkid=2152236) για την εγκατάσταση της επέκτασης.
-2. Επιλέξτε να εγκατασταθεί η επέκταση, ρυθμίζοντας τις κατάλληλες ρυθμίσεις στην ενότητα **"Αναζήτηση microsoft"** του κέντρου διαχείρισης Microsoft 365.
-3. Στη συσκευή του χρήστη, εγκαταστήστε μια υπηρεσία φόντου για την Αναζήτηση της Microsoft στο Bing. Αυτή η υπηρεσία φόντου περιλαμβάνεται στις Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις.
+2. Επιλέξτε να εγκατασταθεί η επέκταση, ρυθμίζοντας τις κατάλληλες ρυθμίσεις στην **Αναζήτηση της Microsoft** της Κέντρο διαχείρισης Microsoft 365.
+3. Στη συσκευή του χρήστη, εγκαταστήστε μια υπηρεσία φόντου για Αναζήτηση της Microsoft στη Bing. Αυτή η υπηρεσία παρασκηνίου περιλαμβάνεται Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Πώς εγκαθίσταται η αναζήτηση της Microsoft στην [επέκταση Bing για το Google Chrome;](https://go.microsoft.com/fwlink/?linkid=2150992)
+Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Πώς εγκαθίσταται η Αναζήτηση της Microsoft στην Bing για το Google Chrome;](https://go.microsoft.com/fwlink/?linkid=2150992)
