@@ -1,5 +1,5 @@
 ---
-title: Εξειδικευμένη υποστήριξη της Microsoft Flow
+title: Microsoft Flow Εξειδικευμένη υποστήριξη
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975929"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Εξειδικευμένη υποστήριξη της Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Εξειδικευμένη υποστήριξη
 
-Για εξειδικευμένη υποστήριξη ροής της Microsoft, παρακαλούμε μεταβείτε στο νέο [Κέντρο διαχείρισης του Power Platform](https://aka.ms/flowadminsupport). Η νέα πύλη παρέχει μια πιο άμεση διαδρομή για την υποβοηθούμενη υποστήριξη που έχει βελτιστοποιηθεί για το Microsoft Flow και άλλα προϊόντα του Power Platform.
+Για εξειδικευμένες Microsoft Flow υποστήριξης, μεταβείτε στο νέο [κέντρο διαχείρισης της πλατφόρμας Power.](https://aka.ms/flowadminsupport) Η νέα πύλη παρέχει μια πιο άμεση διαδρομή για υποστήριξη με βοήθεια που έχει βελτιστοποιηθεί για Microsoft Flow και άλλα προϊόντα πλατφόρμας Power.
 
-Μάθε περισσότερα:
-- [Πληροφορίες σχετικά με τις άδειες χρήσης δωρεάν ροής της Microsoft](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Συνήθεις ερωτήσεις για τη ροή στον οργανισμό σας](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Προγράμματα Microsoft 365 και Dynamics 365 που περιλαμβάνουν το Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Ερωτήσεις χρεώσεων και μετρητών ροής της Microsoft](https://go.microsoft.com/fwlink/?linkid=2072612)
+Μάθετε περισσότερα:
+- [Πληροφορίες σχετικά με τις Microsoft Flow δωρεάν αδειών χρήσης](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow συνήθεις ερωτήσεις για τον οργανισμό σας](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 και dynamics 365 που περιλαμβάνουν Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow χρέωσης και μέτρησης](https://go.microsoft.com/fwlink/?linkid=2072612)
