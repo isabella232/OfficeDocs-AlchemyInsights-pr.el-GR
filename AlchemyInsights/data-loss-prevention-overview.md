@@ -8,24 +8,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005558"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Επισκόπηση αποτροπής απώλειας δεδομένων (DLP)
 
 Με μια πολιτική DLP, μπορείτε να κάνετε τα εξής:
 
-- Προσδιορίστε ευαίσθητες πληροφορίες σε πολλές θέσεις, όπως το Exchange Online, το SharePoint Online και το OneDrive για την επιχείρηση.
+- Προσδιορίστε ευαίσθητες πληροφορίες σε πολλές θέσεις, όπως Exchange Online, SharePoint Online και OneDrive για επιχειρήσεις.
 
 
-Για παράδειγμα, μπορείτε να προσδιορίσετε οποιοδήποτε έγγραφο περιέχει έναν αριθμό πιστωτικής κάρτας που είναι αποθηκευμένο σε οποιαδήποτε τοποθεσία του OneDrive για επαγγελματική ή μπορείτε να παρακολουθείτε μόνο τις τοποθεσίες του OneDrive για συγκεκριμένα άτομα.
+Για παράδειγμα, μπορείτε να προσδιορίσετε οποιοδήποτε έγγραφο που περιέχει έναν αριθμό πιστωτικής κάρτας που είναι αποθηκευμένο σε οποιαδήποτε τοποθεσία του OneDrive για επιχειρήσεις ή μπορείτε να παρακολουθείτε μόνο τις τοποθεσίες OneDrive συγκεκριμένων ατόμων.
 
-- Αποτρέψτε την τυχαία κοινή χρήση ευαίσθητων πληροφοριών.
+- Αποτρέψτε την ακούσια κοινή χρήση ευαίσθητων πληροφοριών.
 
 
-Για περισσότερες πληροφορίες, διαβάστε το παρακάτω [άρθρο](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
+Για περισσότερες πληροφορίες, διαβάστε το παρακάτω [άρθρο.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 
