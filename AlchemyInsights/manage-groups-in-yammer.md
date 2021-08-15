@@ -1,5 +1,5 @@
 ---
-title: Διαχείριση ομάδων στο Yammer
+title: Διαχείριση ομάδων σε Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 5ff325ea3d4b736b115b09bf4d8513938a61b1a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b4348ecb55a8f0dc57e1b51f913f21ccd2e2830fd62a81e4f47a77ef371a226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976649"
 ---
-# <a name="manage-groups-in-yammer"></a>Διαχείριση ομάδων στο Yammer
+# <a name="manage-groups-in-yammer"></a>Διαχείριση ομάδων σε Yammer
 
-- **Δικαίωμα δημιουργίας ομάδας.** Το Yammer δεν ελέγχει ποιος μπορεί να δημιουργήσει μια ομάδα. Ωστόσο, είναι δυνατή η διαχείριση της δημιουργίας ομάδας για συνδεδεμένες ομάδες του Microsoft 365. Ανατρέξτε στο θέμα [Διαχείριση των χρηστών που μπορούν να δημιουργήσουν ομάδες του Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) για περισσότερες πληροφορίες.
+- **Δικαίωμα δημιουργίας ομάδας.** Yammer δεν ελέγχει ποιος μπορεί να δημιουργήσει μια ομάδα. Ωστόσο, μπορείτε να διαχειριστείτε τη δημιουργία ομάδας για συνδεδεμένες Microsoft 365 Ομάδες. Ανατρέξτε [στο θέμα Διαχείριση των ατόμων που μπορούν Microsoft 365 δημιουργία ομάδων](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) για περισσότερες πληροφορίες.
 
-- **Δυναμική συμμετοχή σε ομάδα.** Ανατρέξτε στο θέμα [Δημιουργία δυναμικής ομάδας στο Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) για πληροφορίες σχετικά με τη δημιουργία δυναμικής ιδιότητας μέλους για το Yammer συνδεδεμένες ομάδες του Microsoft 365.
+- **Δυναμική συμμετοχή σε ομάδα.** Ανατρέξτε στο [κουμπί "Δημιουργία δυναμικής ομάδας" Yammer πληροφορίες](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) σχετικά με τη δημιουργία δυναμικών μελών για Yammer συνδεδεμένες Microsoft 365 Ομάδες.
 
-- **Επαναφορά διαγραμμένων ομάδων.** Η επαναφορά των ομάδων του Yammer είναι εφικτή μέσω [της επαναφοράς διαγραμμένων](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) ομάδων μη συνδεδεμένων ομάδων του Microsoft 365 δεν είναι δυνατή η επαναφορά μετά τη διαγραφή.
+- **Επαναφορά διαγραμμένων ομάδων.** Η επαναφορά Yammer ομάδων είναι δυνατή μέσω της επαναφοράς μιας [διαγραμμένης Microsoft 365 δεν](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) είναι δυνατή η επαναφορά ομάδων που δεν είναι συνδεδεμένες μετά τη διαγραφή.
 
-Για περισσότερες πληροφορίες σχετικά με τη διαχείριση μιας ομάδας, ανατρέξτε [στο θέμα Διαχείριση ομάδας στο Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Για πληροφορίες σχετικά με τις συνδεδεμένες ομάδες του Microsoft 365, ανατρέξτε στο θέμα [ομάδες του Yammer και του microsoft 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
+Για περισσότερες πληροφορίες σχετικά με τη διαχείριση μιας ομάδας, [ανατρέξτε στο θέμα Διαχείριση ομάδας στο Yammer.](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) Για πληροφορίες σχετικά με τις συνδεδεμένες Microsoft 365, ανατρέξτε [στο θέμα Yammer και Microsoft 365 Ομάδων.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)
   
