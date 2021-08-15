@@ -1,5 +1,5 @@
 ---
-title: Εισαγωγή στη γραμμή εφαρμογών του SharePoint
+title: Εισαγωγή στη γραμμή SharePoint εφαρμογής
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001436"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>Εισαγωγή στη γραμμή εφαρμογών του SharePoint
+# <a name="introduction-to-the-sharepoint-app-bar"></a>Εισαγωγή στη γραμμή SharePoint εφαρμογής
 
-Η γραμμή εφαρμογών έχει σχεδιαστεί για να βελτιώνει τον καθολικό τρόπο εύρεσης εμπειρίας ενώ παράλληλα εμφανίζει δυναμικά εξατομικευμένο περιεχόμενο. Η γραμμή εφαρμογών θα είναι στην προεπιλογή και μπορεί να απενεργοποιηθεί προσωρινά **(Set-SPOTemporarilyDisableAppBar $true)** χρησιμοποιώντας την πιο πρόσφατη έκδοση του PowerShell.  Η γραμμή εφαρμογών μπορεί να απενεργοποιηθεί μέχρι το τέλος Οκτωβρίου, στο οποίο θα ενεργοποιηθεί αυτόματα.
+Η γραμμή εφαρμογών έχει σχεδιαστεί για να βελτιώνει τον παγκόσμιο τρόπο εύρεσης εμπειρίας ενώ εμφανίζει δυναμικά εξατομικευμένο περιεχόμενο. Η γραμμή εφαρμογών θα είναι σε λειτουργία από προεπιλογή και μπορεί να απενεργοποιηθεί προσωρινά **(Set-SPOTemporarilyDisableAppBar $true)** χρησιμοποιώντας την πιο πρόσφατη έκδοση του PowerShell.  Η γραμμή εφαρμογών μπορεί να απενεργοποιηθεί μέχρι το τέλος Οκτωβρίου, σε ποιο σημείο θα ενεργοποιηθεί αυτόματα.
 
 Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα:
 
-- [Εισαγωγή στη γραμμή εφαρμογών του SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
-- [Ρύθμιση αρχικής τοποθεσίας για την εταιρεία σας](https://docs.microsoft.com/sharepoint/home-site)
-- [Χρήση της γραμμής εφαρμογών του SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+- [Εισαγωγή στη γραμμή SharePoint εφαρμογής](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
+- [Ρύθμιση αρχικής τοποθεσίας για τον οργανισμό σας](https://docs.microsoft.com/sharepoint/home-site)
+- [Χρήση της γραμμής SharePoint εφαρμογής](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)

@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030164"
 ---
 # <a name="are-you-seeing-email-delays-or-queued-mail"></a>Βλέπετε καθυστερήσεις ηλεκτρονικού ταχυδρομείου ή αλληλογραφία σε ουρά;
 
-Πρόσφατα ξεκινήσαμε την αποδοκιμασία παλαιότερων τελικών σημείων SMTP. Αυτές οι τιμές προορισμού ήταν διαθέσιμες για χρήση σε εγγραφές MX και Smart Hosts πριν από το 2012. Εάν εξακολουθείτε να χρησιμοποιείτε μία από αυτές τις παλαιότερες τιμές, θα πρέπει να ενημερώσετε το τελικό σημείο σε μια υποστηριζόμενη τιμή. Για περισσότερες πληροφορίες, ανατρέξτε σε αυτήν την [υποστήριξη KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Πρόσφατα ξεκινήσαμε να αποκαιρέουμε παλαιότερα τελικά σημεία SMTP. Αυτές οι τιμές προορισμού ήταν διαθέσιμες για χρήση σε εγγραφές MX και έξυπνους κεντρικούς υπολογιστές πριν από το 2012. Εάν εξακολουθείτε να χρησιμοποιείτε μία από αυτές τις παλαιότερες τιμές, θα πρέπει να ενημερώσετε το τελικό σημείο σε μια υποστηριζόμενη τιμή. Για περισσότερες πληροφορίες, ανατρέξτε σε αυτό [το KB υποστήριξης.](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)
