@@ -1,5 +1,5 @@
 ---
-title: Εφαρμογές λειτουργίας Azure
+title: Εφαρμογές λειτουργιών Azure
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7843"
-ms.openlocfilehash: 11ccf3d819845383d06d25ff41c647fa456a3de1
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: bd5c16c68e69c8d9739bdc84d6d678681b5395fed3b90420d7b78cc47664eaed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979637"
 ---
-# <a name="azure-function-apps"></a>Εφαρμογές λειτουργίας Azure
+# <a name="azure-function-apps"></a>Εφαρμογές λειτουργιών Azure
 
-[Ρύθμιση παραμέτρων της εφαρμογής υπηρεσία εφαρμογών ή Azure συναρτήσεις για να χρησιμοποιήσετε το Azure AD σύνδεση](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) δείχνει πώς μπορείτε να ρυθμίσετε τις παραμέτρους της υπηρεσίας εφαρμογής Azure ή συναρτήσεις Azure για να χρησιμοποιήσετε Azure Active Directory (Azure AD) ως υπηρεσία παροχής ελέγχου ταυτότητας.
+[Ρυθμίστε τις παραμέτρους](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) της υπηρεσίας εφαρμογών ή της εφαρμογής Συναρτήσεις Azure για να χρησιμοποιήσετε τη σύνδεση Azure AD σάς δείχνει πώς μπορείτε να ρυθμίσετε τις παραμέτρους της υπηρεσίας εφαρμογών Azure ή των συναρτήσεων Azure για να χρησιμοποιήσετε το Azure Active Directory (Azure AD) ως υπηρεσία παροχής ελέγχου ταυτότητας.

@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 549a165914bb8fd89c05f0b41d4b0f1e5c0f59d1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fa0b726fe6df55ff252b1b09208ae07f48a4c8f285901cd34ee356fd842b0507
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001544"
 ---
 # <a name="hybrid-mdm"></a>Υβριδική MDM
 
-Για να μάθετε περισσότερα σχετικά με την υβριδική MDM με τη Διαχείριση παραμέτρων τελικού σημείου της Microsoft και το Microsoft Intune, ανατρέξτε στο θέμα Ρύθμιση υβριδικής MDM με [τη Διαχείριση παραμέτρων και το Microsoft Intune.](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)
+Για να μάθετε περισσότερα σχετικά με την υβριδική MDM με Microsoft Endpoint Configuration Manager και Microsoft Intune, ανατρέξτε στο θέμα Ρύθμιση υβριδικής MDM με [διαχείριση παραμέτρων και Microsoft Intune.](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)
