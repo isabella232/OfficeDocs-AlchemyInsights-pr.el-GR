@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983417"
 ---
 # <a name="read-receipts"></a>Αποδεικτικά ανάγνωσης
 
-Δεν μπορείτε να ζητήσετε αποδεικτικό ανάγνωσης στο Outlook.com, αλλά μπορείτε να ζητήσετε αποδεικτικά ανάγνωσης για τα μηνύματα του Outlook.com που στάλθηκαν με το Outlook για Windows. Για να μάθετε πώς, ανατρέξτε στο θέμα [Προσθήκη και αίτηση αποδεικτικών ανάγνωσης και ειδοποιήσεων παράδοσης](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Δεν μπορείτε να ζητήσετε αποδεικτικό ανάγνωσης στο Outlook.com, αλλά μπορείτε να ζητήσετε αποδεικτικά ανάγνωσης για μηνύματα Outlook.com που αποστέλλονται χρησιμοποιώντας Outlook για Windows. Για να μάθετε πώς γίνεται αυτό, [ανατρέξτε στο θέμα Προσθήκη και αίτηση αποδεικτικών ανάγνωσης και ειδοποιήσεων παράδοσης.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Για να επιλέξετε τον τρόπο απόκρισης του Outlook.com σε αιτήσεις αποδεικτικού ανάγνωσης, μεταβείτε στις [Ρυθμίσεις αποδεικτικού ανάγνωσης](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Για να επιλέξετε τον τρόπο Outlook.com στις αιτήσεις αποδεικτικών ανάγνωσης, μεταβείτε στις [ρυθμίσεις αποδεικτικών ανάγνωσης.](https://outlook.live.com/mail/options/mail/handling/readReceipts)

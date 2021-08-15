@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960115"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Προβλήματα κοινής χρήσης με το Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Προβλήματα κοινής χρήσης με Outlook Customer Manager
 
-Εάν αντιμετωπίζετε προβλήματα κοινής χρήσης με το Outlook Customer Manager, συνιστάται να δοκιμάσετε πρώτα να κάνετε απαλοιφή του cache του προγράμματος περιήγησης. Για παράδειγμα, στον Internet Explorer θα πρέπει να κάνετε τα εξής:
+Εάν αντιμετωπίζετε προβλήματα κοινής χρήσης με το Outlook Customer Manager, συνιστάται να δοκιμάσετε πρώτα να απαλείφετε το cache του προγράμματος περιήγησης. Για παράδειγμα, στον Internet Explorer θα κάνετε τα εξής:
 
-1. Μεταβείτε στις  >  **"Γενικές ρυθμίσεις"** > στην περιοχή "Cache **του ιστορικού περιήγησης"** και στις  >  **βάσεις δεδομένων.**
-2. Διαγράψτε αρχεία cache για την τοποθεσία Web "outlookapps.com".
-3. Επανεκκινήστε το Outlook.
+1. Μεταβείτε στην **Ρυθμίσεις**  >  **"Γενικά** > Ρυθμίσεις" στην περιοχή **"Cache και**  >  **βάσεις δεδομένων ιστορικού περιήγησης".**
+2. Διαγραφή αρχείων cache για την τοποθεσία Web "outlookapps.com".
+3. Επανεκκινήστε Outlook.
 
-Για περισσότερες πληροφορίες σχετικά με την κοινή χρήση, [ανατρέξτε στο θέμα "Κοινή χρήση πληροφοριών στο Outlook Customer Manager".](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
+Για περισσότερες πληροφορίες σχετικά με την κοινή χρήση, [ανατρέξτε στο θέμα Κοινή χρήση πληροφοριών Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
