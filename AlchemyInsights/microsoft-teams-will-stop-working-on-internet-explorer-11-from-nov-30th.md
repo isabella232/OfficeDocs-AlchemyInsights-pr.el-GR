@@ -1,5 +1,5 @@
 ---
-title: Το Microsoft teams θα σταματήσει να λειτουργεί στον Internet Explorer 11 από τις 30 Νοεμβρίου
+title: Microsoft Teams θα σταματήσει να λειτουργεί στον Internet Explorer 11 από τις 30 Νοεμβρίου
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026942"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Το Microsoft teams θα σταματήσει να λειτουργεί στον Internet Explorer 11 από τις 30 Νοεμβρίου
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams θα σταματήσει να λειτουργεί στον Internet Explorer 11 από τις 30 Νοεμβρίου
 
-Όπως ανακοινώθηκε στο MC225570, αρχής γενομένης από τις 30 Νοεμβρίου 2020, το Microsoft teams Web App δεν θα υποστηρίζει πλέον τον Internet Explorer (IE) 11. 
+Όπως κοινοποιήθηκε στο MC225570, ξεκινώντας από τις 30 Νοεμβρίου 2020, η εφαρμογή web του Microsoft Teams δεν θα υποστηρίζει πλέον τον Internet Explorer (IE) 11. 
 
-Συνιστάται να κάνετε ενημέρωση στο νέο [Microsoft Edge](https://www.microsoft.com/edge) για μια ασφαλέστερη και πιο πρωτοποριακή εμπειρία online. 
+Συνιστάται να κάνετε ενημέρωση στο νέο Microsoft Edge [για μια](https://www.microsoft.com/edge) ασφαλέστερη και πιο καινοτόμο εμπειρία στο Internet. 
 
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα οι εφαρμογές του microsoft 365 αποχαιρετούν τον Internet Explorer 11 και τα Windows 10 sunsets Microsoft Edge Legacy-Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Για περισσότερες πληροφορίες, ανατρέξτε Microsoft 365 εφαρμογές λένε αντίο στον [Internet Explorer 11 και Windows 10 ηλιοβασιλέματα Microsoft Edge παλαιού τύπου - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
 

@@ -1,5 +1,5 @@
 ---
-title: Παράδειγμα πολιτικής προστασίας του Microsoft Defender για το Office 365 κατά του ηλεκτρονικού "ψαρέματος"
+title: Παράδειγμα πολιτικής προστασίας του Microsoft Defender για Office 365 ηλεκτρονικού "ψαρέματος"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035006"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Παράδειγμα πολιτικής προστασίας του Microsoft Defender για το Office 365 κατά του ηλεκτρονικού "ψαρέματος"
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Παράδειγμα πολιτικής προστασίας του Microsoft Defender για Office 365 ηλεκτρονικού "ψαρέματος"
 
 Αυτές οι ρυθμίσεις ενεργοποιούν μια πολιτική που *ονομάζεται Τομέας και Διευθύνων Σύμβουλος.* Αυτή η πολιτική παρέχει προστασία χρήστη και τομέα από απομίμηση και, στη συνέχεια, εφαρμόζει την πολιτική σε όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου που λαμβάνονται από τους χρήστες εντός του τομέα. Πρώτα, προσθέστε τις ακόλουθες πληροφορίες για να δημιουργήσετε την πολιτική:
 
@@ -33,4 +33,4 @@ ms.locfileid: "50746853"
   - **Προσθήκη αξιόπιστων αποστολέων και τομέων:** Για αυτό το παράδειγμα, μην ορίσετε παρακάμψεις.
 - Αφού εξετάσετε τις ρυθμίσεις σας, επιλέξτε "Δημιουργία αυτής **της πολιτικής" ή** **"Αποθήκευση",** ανάλογα με την περίπτωση.
 
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Πολιτικές προστασίας από το ηλεκτρονικό "ψάρεμα" στο Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
+Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Πολιτικές προστασίας από το ηλεκτρονικό "ψάρεμα" Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
