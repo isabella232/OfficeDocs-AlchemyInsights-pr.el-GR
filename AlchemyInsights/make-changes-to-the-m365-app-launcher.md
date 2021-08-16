@@ -1,5 +1,5 @@
 ---
-title: Κάντε αλλαγές στην Εκκίνηση εφαρμογών του Microsoft 365
+title: Κάντε αλλαγές στην εκκίνηση Microsoft 365 εφαρμογών
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb7a524171d746f93ab3a15debc321af29cd30578c287f9bb05810491e604517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099142"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Κάντε αλλαγές στην Εκκίνηση εφαρμογών του Microsoft 365
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Κάντε αλλαγές στην εκκίνηση Microsoft 365 εφαρμογών
 
-Μπορείτε να προσθέσετε τα δικά σας προσαρμοσμένα πλακίδια στην εκκίνηση εφαρμογών που έχουν ως σημείο τις τοποθεσίες του SharePoint, τις εξωτερικές τοποθεσίες, τις εφαρμογές παλαιού τύπου και πολλά άλλα.
+Μπορείτε να προσθέσετε τα δικά σας προσαρμοσμένα πλακίδια στην εκκίνηση εφαρμογών που SharePoint τοποθεσίες, εξωτερικές τοποθεσίες, εφαρμογές παλαιού τύπου και πολλά άλλα.
 
-1. [Προσθέστε ένα προσαρμοσμένο πλακίδιο στην](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) εκκίνηση εφαρμογών  στο κέντρο διαχείρισης, > "Ρυθμίσεις οργανισμού" και επιλέξτε την καρτέλα **"Προφίλ οργανισμού".**
+1. [Προσθέστε ένα προσαρμοσμένο πλακίδιο στην](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) εκκίνηση εφαρμογών στο κέντρο διαχείρισης, Ρυθμίσεις > **οργανογράμματος Ρυθμίσεις** και επιλέξτε την καρτέλα **προφίλ οργανισμού.**
 2. [Προβιβάστε το πλακίδιο στην Εκκίνηση](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) **εφαρμογών καρφιτσώνοντας την** εφαρμογή στην εκκίνηση.
 3. [Επεξεργαστείτε ή διαγράψτε ένα προσαρμοσμένο πλακίδιο,](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) εάν έχει αλλάξει κάτι για την εφαρμογή.
 
