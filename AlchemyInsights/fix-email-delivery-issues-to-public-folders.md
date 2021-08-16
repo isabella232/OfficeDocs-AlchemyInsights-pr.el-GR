@@ -1,5 +1,5 @@
 ---
-title: Επιδιόρθωση ζητημάτων παράδοσης ηλεκτρονικού ταχυδρομείου σε δημόσιους φακέλους με δυνατότητα αλληλογραφίας
+title: Επιδιόρθωση προβλημάτων παράδοσης ηλεκτρονικού ταχυδρομείου σε δημόσιους φακέλους με δυνατότητα αλληλογραφίας
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068812"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Επιδιόρθωση ζητημάτων παράδοσης ηλεκτρονικού ταχυδρομείου σε δημόσιους φακέλους με δυνατότητα αλληλογραφίας
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Επιδιόρθωση προβλημάτων παράδοσης ηλεκτρονικού ταχυδρομείου σε δημόσιους φακέλους με δυνατότητα αλληλογραφίας
 
-Εάν οι εξωτερικοί αποστολείς δεν μπορούν να στείλουν μηνύματα στους δημόσιους φακέλους με δυνατότητα αλληλογραφίας και οι αποστολείς λαμβάνουν το σφάλμα: **δεν ήταν δυνατή η εύρεση (550 5.4.1)**, επιβεβαιώστε ότι ο τομέας ηλεκτρονικού ταχυδρομείου για τον δημόσιο φάκελο έχει ρυθμιστεί ως εσωτερικός τομέας αναμετάδοσης αντί για έναν επίσημο τομέα:
+Εάν οι εξωτερικοί αποστολείς δεν μπορούν να στείλουν μηνύματα σε δημόσιους φακέλους με δυνατότητα αλληλογραφίας και οι αποστολείς λάβουν το σφάλμα: δεν ήταν δυνατός ο βρείτε **(550 5.4.1),** επαληθεύστε ότι ο τομέας ηλεκτρονικού ταχυδρομείου για τον δημόσιο φάκελο έχει ρυθμιστεί ως τομέας εσωτερικής αναμετάδοσης αντί για έναν επίσημο τομέα:
 
-1. Ανοίξτε το [Κέντρο διαχείρισης του Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Ανοίξτε το [Exchange διαχείρισης (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Μεταβείτε στις περιοχές με αποδοχή **ροής αλληλογραφίας** \> **Accepted domains**, επιλέξτε τον τομέα που αποδέχτηκε και, στη συνέχεια, κάντε κλικ στην επιλογή **Επεξεργασία**.
+2. Μεταβείτε στην **περιοχή "Αποδεκτοί** \> **τομείς ροής αλληλογραφίας",** επιλέξτε τον αποδεκτό τομέα και, στη συνέχεια, κάντε κλικ στην επιλογή **"Επεξεργασία".**
 
-3. Στη σελίδα ιδιοτήτων που ανοίγει, εάν ο τύπος τομέα έχει την τιμή " **έγκυρη**", αλλάξτε την τιμή σε **εσωτερική αναμετάδοση** και, στη συνέχεια, κάντε κλικ στην επιλογή **Αποθήκευση**.
+3. Στη σελίδα ιδιοτήτων που ανοίγει, εάν ο τύπος τομέα έχει οριστεί σε "Έγκυρα", αλλάξτε την τιμή σε "Εσωτερική αναμετάδοση" και, στη **συνέχεια,** κάντε κλικ στην επιλογή **"Αποθήκευση".** 
 
-Εάν οι εξωτερικοί αποστολείς λάβουν το σφάλμα **που δεν έχετε δικαιώματα (550 5.7.13)**, εκτελέστε την ακόλουθη εντολή στο [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) για να δείτε τα δικαιώματα για ανώνυμους χρήστες στον δημόσιο φάκελο:
+Εάν οι εξωτερικοί αποστολείς λάβουν το σφάλμα που δεν έχετε δικαιώματα **(550 5.7.13),** εκτελέστε την ακόλουθη εντολή στο [Exchange Online PowerShell για να](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) δείτε τα δικαιώματα για ανώνυμους χρήστες στον δημόσιο φάκελο:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Για παράδειγμα, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Για να επιτρέψετε στους εξωτερικούς χρήστες να στέλνουν μηνύματα ηλεκτρονικού ταχυδρομείου σε αυτόν το δημόσιο φάκελο, προσθέστε το δικαίωμα πρόσβασης του CreateItems στο χρήστη ανώνυμο. Για παράδειγμα, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .
+Για να επιτρέψετε σε εξωτερικούς χρήστες να στέλνουν μηνύματα ηλεκτρονικού ταχυδρομείου σε αυτόν τον δημόσιο φάκελο, προσθέστε την πρόσβαση CreateItems δικαίωμα στο χρήστη Ανώνυμος. Για παράδειγμα, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .

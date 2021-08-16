@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48142ab68f3478c9becd51e658bd07255803f47f00611e0f1f8ab1757fdc984d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029480"
 ---
 # <a name="get-started-with-sharepoint-online"></a>Γρήγορα αποτελέσματα με το SharePoint Online
 
-Ξεκινήστε να χρησιμοποιείτε την [εκπαίδευση βίντεο του SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866438) και τον [Οδηγό γρήγορης εκκίνησης](https://go.microsoft.com/fwlink/?linkid=866437). Εάν αναζητάτε έναν πιο περιεκτικό οδηγό βήμα προς βήμα, ακολουθήστε τα βήματα στον [σύμβουλο ανάπτυξης του SharePoint Online.](https://portal.office.com/onboarding/sharepointonline#/)
+Ξεκινήστε να χρησιμοποιείτε την εκπαίδευση βίντεο [SharePoint online και](https://go.microsoft.com/fwlink/?linkid=866438) τον οδηγό [γρήγορης εκκίνησης.](https://go.microsoft.com/fwlink/?linkid=866437) Εάν αναζητάτε έναν πιο ολοκληρωμένο, αναλυτικό οδηγό, ακολουθήστε τα βήματα του [SharePoint online ανάπτυξης.](https://portal.office.com/onboarding/sharepointonline#/)
   
 
