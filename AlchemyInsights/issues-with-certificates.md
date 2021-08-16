@@ -1,5 +1,5 @@
 ---
-title: Ζητήματα με πιστοποιητικά
+title: Προβλήματα με τα πιστοποιητικά
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027896"
 ---
-# <a name="issues-with-certificates"></a>Ζητήματα με πιστοποιητικά
+# <a name="issues-with-certificates"></a>Προβλήματα με τα πιστοποιητικά
 
-Για οδηγίες σχετικά με θέματα αντιμετώπισης προβλημάτων που σχετίζονται με πιστοποιητικά, ανατρέξτε στα ακόλουθα άρθρα:
+Για οδηγίες σχετικά με την αντιμετώπιση προβλημάτων που σχετίζονται με τα πιστοποιητικά, ανατρέξτε στα ακόλουθα άρθρα:
 
-- [Γρήγορα αποτελέσματα με τον έλεγχο ταυτότητας που βασίζεται σε πιστοποιητικά στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  -βήματα για τη ρύθμιση παραμέτρων και την αξιοποίηση του ελέγχου ταυτότητας που βασίζεται σε πιστοποιητικά για τους χρήστες των μισθωτών στο Office 365 για επιχειρήσεις, επιχειρήσεις, εκπαιδευτικά ιδρύματα και κυβερνητικά προγράμματα των ΗΠΑ.
+- [Γρήγορα αποτελέσματα με τον](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) έλεγχο ταυτότητας που βασίζεται σε πιστοποιητικά στο Azure Active Directory - Βήματα για τη ρύθμιση παραμέτρων και τη χρήση ελέγχου ταυτότητας που βασίζεται σε πιστοποιητικά για τους χρήστες μισθωτών σε προγράμματα του Office 365 για μεγάλες επιχειρήσεις, των επιχειρήσεων, της εκπαίδευσης και της κυβέρνησης των Η.Π.Α.
 
-- [Αντιμετώπιση προβλημάτων του Azure AD Certificate-Based θέματα ελέγχου ταυτότητας](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  -πληροφορίες που θα σας βοηθήσουν να αντιμετωπίσετε προβλήματα ελέγχου ταυτότητας που βασίζονται σε πιστοποιητικά.
+- [Αντιμετώπιση προβλημάτων ελέγχου ταυτότητας Certificate-Based Azure AD](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  - Πληροφορίες που θα σας βοηθήσουν να αντιμετωπίσετε προβλήματα ελέγχου ταυτότητας που βασίζονται σε πιστοποιητικά.
 
-- [Διαχείριση πιστοποιητικών για ομόσπονδη καθολικής σύνδεσης στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  -συνήθεις ερωτήσεις και πληροφορίες σχετικά με τα πιστοποιητικά που δημιουργεί το Azure Active Directory (Azure AD) για τη δημιουργία ομόσπονδη καθολικής ΣΎΝΔΕΣΗς (SSO) στο λογισμικό σας ως εφαρμογές υπηρεσίας (SaaS).
+- [Διαχείριση πιστοποιητικών](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) για ομόσπονδη καθολική σύνδεση στο Azure Active Directory - Συνήθεις ερωτήσεις και πληροφορίες σχετικά με τα πιστοποιητικά που δημιουργεί το Azure Active Directory (Azure AD) για τη δημιουργία ομόσπονδης καθολικής σύνδεσης (SSO) στο λογισμικό σας ως εφαρμογές υπηρεσίας (SaaS).
 
-- [Επιλογές υπογραφής πιστοποιητικού για προχωρημένους στο ΔΙΑΚΡΙΤΙΚΌ SAML για τις εφαρμογές συλλογής στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  -μάθετε περισσότερα σχετικά με τις επιλογές υπογραφής για τα τρία πιστοποιητικά του Azure AD.
+- [Επιλογές υπογραφής πιστοποιητικών](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) για προχωρημένους στο διακριτικό SAML για εφαρμογές συλλογής στο Azure Active Directory - Μάθετε σχετικά με τις τρεις επιλογές υπογραφής πιστοποιητικών του Azure AD.
