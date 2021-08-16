@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000356"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Μετεγκατάσταση από AIP σε MIP/Ενοποιημένη σήμανση στο Κέντρο συμμόρφωσης
 
@@ -25,11 +25,11 @@ ms.locfileid: "51825371"
 
 **Ενεργοποίηση προστασίας από την πύλη Azure**
 
-1. Εάν δεν το έχετε κάνει ήδη, ανοίξτε ένα νέο παράθυρο του προγράμματος περιήγησης [και πραγματοποιήστε είσοδο στην πύλη Azure.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Μεταβείτε στη **λάμα προστασίας πληροφοριών** Azure. Για παράδειγμα, στο μενού διανομέα, κάντε κλικ στην επιλογή "Όλες **οι υπηρεσίες" και** αρχίστε να **πληκτρολογείτε "Πληροφορίες"** στο πλαίσιο "Φίλτρο". Επιλέξτε **"Προστασία πληροφοριών Azure".** Εάν δεν έχετε αποκτήσει ξανά πρόσβαση στη λάμα προστασίας [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) πληροφοριών Azure, ανατρέξτε στα πρόσθετα βήματα που απαιτούνται για την προσθήκη αυτής της λάμας στην πύλη. Για να ανοίξετε τη λάμα προστασίας πληροφοριών Azure, πρέπει να έχετε είτε ένα πρόγραμμα [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) είτε ένα πρόγραμμα του Office 365 που περιλαμβάνει τη Διαχείριση δικαιωμάτων. Εάν έχετε μία από αυτές τις συνδρομές, αλλά βλέπετε ένα μήνυμα ότι δεν είναι δυνατή η βρείτε μια έγκυρη συνδρομή, επικοινωνήστε με την Υποστήριξη [της Microsoft ή](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) χρησιμοποιήστε τα τυπικά κανάλια υποστήριξης.
+1. Εάν δεν το έχετε κάνει ήδη, ανοίξτε ένα νέο παράθυρο του προγράμματος περιήγησης [και πραγματοποιήστε είσοδο στην πύλη Azure.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Μεταβείτε στη **λάμα προστασίας πληροφοριών** Azure. Για παράδειγμα, στο μενού διανομέα, κάντε κλικ στην επιλογή "Όλες **οι υπηρεσίες" και** αρχίστε να **πληκτρολογείτε "Πληροφορίες"** στο πλαίσιο "Φίλτρο". Επιλέξτε **"Προστασία πληροφοριών Azure".** Εάν δεν έχετε αποκτήσει ξανά πρόσβαση στη λάμα προστασίας [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) πληροφοριών Azure, ανατρέξτε στα πρόσθετα βήματα που απαιτούνται για την προσθήκη αυτής της λάμας στην πύλη. Για να ανοίξετε τη λάμα προστασίας πληροφοριών Azure, πρέπει να έχετε ένα σχέδιο προστασίας [πληροφοριών Azure Premium ή](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ένα Office 365 που περιλαμβάνει τη Διαχείριση δικαιωμάτων. Εάν έχετε μία από αυτές τις συνδρομές, αλλά βλέπετε ένα μήνυμα ότι δεν είναι δυνατή η βρείτε μια έγκυρη συνδρομή, επικοινωνήστε με την Υποστήριξη [της Microsoft ή](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) χρησιμοποιήστε τα τυπικά κανάλια υποστήριξης.
 
 2. Εντοπίστε **τις επιλογές** μενού "Διαχείριση" και επιλέξτε **"Ενεργοποίηση προστασίας".** Κάντε κλικ **στην επιλογή "Ενεργοποίηση"** και, στη συνέχεια, επιβεβαιώστε την ενέργεια. Όταν ολοκληρωθεί η ενεργοποίηση, η γραμμή πληροφοριών εμφανίζει ότι η ενεργοποίηση **ολοκληρώθηκε με επιτυχία.**
 
-**Μετεγκατάσταση ετικετών προστασίας πληροφοριών Azure στο Κέντρο ασφάλειας του Office 365 & Συμμόρφωσης**
+**Μετεγκατάσταση ετικετών προστασίας πληροφοριών Azure στο κέντρο Office 365 ασφάλειας & συμμόρφωσης**
 
 1. Βεβαιωθείτε ότι έχετε συνδεθεί ως χρήστης με δικαιώματα καθολικού διαχειριστή.
 

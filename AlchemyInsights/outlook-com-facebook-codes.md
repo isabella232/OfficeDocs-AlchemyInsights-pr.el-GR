@@ -1,5 +1,5 @@
 ---
-title: Outlook.com κώδικες Facebook
+title: Outlook.com κωδικοί Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063952"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Δεν λαμβάνετε κωδικούς του Facebook χρησιμοποιώντας το Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Δεν λαμβάνετε κωδικούς Facebook χρησιμοποιώντας Outlook.com
 
-Εάν ζητήσατε έναν νέο κωδικό πρόσβασης από το Facebook, αλλά δεν λάβατε το μήνυμα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης:
+Εάν ζητήσατε έναν νέο κωδικό πρόσβασης από το Facebook, αλλά δεν λάβετε το μήνυμα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης:
 
-- Επιλέξτε το [φάκελο ανεπιθύμητης αλληλογραφίας ή ανεπιθύμητης αλληλογραφίας](https://outlook.live.com/mail/junkemail).
-- Προσπαθήστε [ξανά να επαναφέρετε τον κωδικό πρόσβασής σας στο Facebook](https://aka.ms/facebook-password-reset).
+- Ελέγξτε το φάκελο [ανεπιθύμητης αλληλογραφίας.](https://outlook.live.com/mail/junkemail)
+- Προσπαθήστε να [επαναφέρετε ξανά τον κωδικό πρόσβασης του Facebook.](https://aka.ms/facebook-password-reset)
 
-Εάν δεν μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας, επειδή δεν μπορείτε να αποκτήσετε πρόσβαση στον αριθμό του ηλεκτρονικού ταχυδρομείου ή του κινητού τηλεφώνου στο λογαριασμό σας, δοκιμάστε τις [συμβουλές επαναφοράς κωδικού πρόσβασης του Facebook](https://aka.ms/facebook-password-help).
+Εάν δεν μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας, επειδή δεν μπορείτε να αποκτήσετε πρόσβαση στο μήνυμα ηλεκτρονικού ταχυδρομείου ή τον αριθμό κινητού τηλεφώνου στο λογαριασμό σας, δοκιμάστε το πρόγραμμα [επαναφοράς κωδικού πρόσβασης του Facebook Συμβουλές.](https://aka.ms/facebook-password-help)
