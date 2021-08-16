@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση της δέσμης εφαρμογών Microsoft 365 ή μιας μεμονωμένης εφαρμογής του Office
+title: Εγκατάσταση του Microsoft 365 εφαρμογής ή ενός μεμονωμένου εφαρμογή Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067408"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Εγκατάσταση της δέσμης εφαρμογών Microsoft 365 ή μιας μεμονωμένης εφαρμογής του Office
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Εγκατάσταση του Microsoft 365 εφαρμογής ή ενός μεμονωμένου εφαρμογή Office
 
-Το πακέτο εφαρμογών του Microsoft 365 περιλαμβάνει το Word, το Excel και το PowerPoint. Το πακέτο είναι διαθέσιμο για το iPhone και θα είναι διαθέσιμο για το iPad στο μέλλον. Οι μεμονωμένες εφαρμογές είναι διαθέσιμες για το iPhone, καθώς και για το iPad.
+Το Microsoft 365 πακέτο εφαρμογών περιλαμβάνει το Word, Excel και PowerPoint. Το πακέτο είναι διαθέσιμο για iPhone και θα είναι διαθέσιμο για iPad στο μέλλον. Μεμονωμένες εφαρμογές είναι διαθέσιμες για iPhone καθώς και για iPad.
 
-1. [Εγκατάσταση του πακέτου εφαρμογής](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [Εγκατάσταση του πακέτου εφαρμογών](https://go.microsoft.com/fwlink/?linkid=2136762)
 1. [Εγκατάσταση του Word](https://go.microsoft.com/fwlink/?linkid=2136974)
-1. [Εγκατάσταση του Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
-1. [Εγκατάσταση του PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
-1. [Εγκατάσταση του OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
+1. [Εγκατάσταση Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
+1. [Εγκατάσταση PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
+1. [Εγκατάσταση OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Εγκατάσταση και ρύθμιση του Office σε iPhone ή iPad](https://go.microsoft.com/fwlink/?linkid=2135560).
+Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Εγκατάσταση και ρύθμιση Office σε iPhone ή iPad.](https://go.microsoft.com/fwlink/?linkid=2135560)
