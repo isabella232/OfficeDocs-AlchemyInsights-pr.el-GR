@@ -1,5 +1,5 @@
 ---
-title: Υπηρεσία σύνδεσης Exchange εσωτερικής εγκατάστασης του Intune
+title: Intune Exchange σύνδεσης εσωτερικής εγκατάστασης
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013964"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Υπηρεσία σύνδεσης Exchange εσωτερικής εγκατάστασης του Intune
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange σύνδεσης εσωτερικής εγκατάστασης
 
-Για λεπτομέρειες σχετικά με τη ρύθμιση της σύνδεσης μεταξύ του Intune και του Exchange που φιλοξενείται εσωτερικής εγκατάστασης, ανατρέξτε στην παρακάτω τεκμηρίωση:
+Για λεπτομέρειες σχετικά με τη ρύθμιση της γραμμής σύνδεσης μεταξύ του Intune και Exchange που φιλοξενείται στην εσωτερική εγκατάσταση, ανατρέξτε στην παρακάτω τεκμηρίωση:
 
-[Ρύθμιση της σύνδεσης του Exchange εσωτερικής εγκατάστασης του Intune στο Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Ρύθμιση της γραμμής σύνδεσης εσωτερικής εγκατάστασης του Intune Exchange στο Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**ΣΥΝΉΘΕΙς ΕΡΩΤΉΣΕΙς**
+**Συνήθεις ερωτήσεις:**
 
-Ε: εμφανίζεται ένα σφάλμα, όπως "η έκδοση σύνδεσης του Exchange δεν υποστηρίζεται" κατά την προσπάθεια ρύθμισης της σύνδεσης του Exchange. Ποια θα μπορούσε να είναι η αιτία;
+Ε: Εμφανίζεται ένα σφάλμα όπως "Η έκδοση Exchange σύνδεσης δεν υποστηρίζεται" όταν επιχειρώ να ρυθμίσω τη Exchange σύνδεσης. Ποια μπορεί να είναι η αιτία;
 
-Α: ο λογαριασμός που χρησιμοποιείτε έχει άδεια χρήσης κατάλληλα-πρέπει να έχει ενεργή άδεια χρήσης Intune
+Α: Ο λογαριασμός που χρησιμοποιείτε διαθέτει κατάλληλη άδεια χρήσης - πρέπει να έχει μια ενεργή άδεια χρήσης του Intune
 
-Ε: είναι δυνατόν να υπάρχουν πολλές γραμμές σύνδεσης του Exchange;
+Ε: Είναι δυνατό να έχετε πολλές Exchange σύνδεσης;
 
-Α: μπορείτε να ρυθμίσετε μόνο μία σύνδεση Exchange ανά μισθωτή του Intune ανά οργανισμό του Exchange. Η γραμμή σύνδεσης μπορεί να εγκατασταθεί μόνο σε ένα διακομιστή σε έναν οργανισμό πολλαπλών διακομιστών Exchange.
+Α: Μπορείτε να ρυθμίσετε μόνο μία Exchange ανά μισθωτή Intune ανά Exchange οργανισμό. Η γραμμή σύνδεσης μπορεί να εγκατασταθεί μόνο σε έναν διακομιστή σε έναν οργανισμό ανταλλαγής διακομιστών πολλών διακομιστών.
 
-Επίσης, δεν μπορείτε να έχετε ρυθμισμένες γραμμές σύνδεσης τόσο για το Exchange εσωτερικής εγκατάστασης όσο και για το Exchange Online που έχει ρυθμιστεί στον ίδιο μισθωτή.
+Επίσης, δεν μπορείτε να ρυθμίσετε τις παραμέτρους των γραμμών σύνδεσης τόσο για Exchange εσωτερικής εγκατάστασης όσο και Exchange Online έχουν ρυθμιστεί στον ίδιο μισθωτή.
 
-Ε: μπορεί η γραμμή σύνδεσης να χρησιμοποιήσει έναν πίνακα CAS ως σύνδεσή του με το Exchange;
+Ε: Μπορεί η γραμμή σύνδεσης να χρησιμοποιήσει έναν πίνακα CAS ως σύνδεση με Exchange;
 
-Α: ο καθορισμός ενός πίνακα CAS δεν είναι υποστηριζόμενη ρύθμιση παραμέτρων στη ρύθμιση σύνδεσης. Μόνο ένας διακομιστής πρέπει να καθοριστεί και θα πρέπει να καθορίζεται στο αρχείο ρύθμισης παραμέτρων σύνδεσης που μπορεί να βρεθεί στο
+Α: Ο καθορισμός ενός πίνακα CAS δεν είναι υποστηριζόμενη ρύθμιση παραμέτρων στη ρύθμιση της γραμμής σύνδεσης. Θα πρέπει να καθοριστεί μόνο ένας διακομιστής και θα πρέπει να κωδικοποιηθεί στο αρχείο ρύθμισης παραμέτρων της γραμμής σύνδεσης, το οποίο μπορείτε να βρείτε στο
 
-πρόγραμμα data\microsoft\microsoft Intune στη σύνδεση του Exchange εσωτερικής εγκατάστασης \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Εντοπίστε την ακόλουθη καταχώρηση ```<ExchangeWebServiceURL />``` και αντικαταστήστε τη διεύθυνση URL με το διακομιστή Exchange.
+Εντοπίστε την ακόλουθη καταχώρηση ```<ExchangeWebServiceURL />``` και αντικαταστήστε τη διεύθυνση URL με το διακομιστή exchange.
 
-**Παράδειγμα**
+**Παράδειγμα:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Ανατρέξτε στην παρακάτω τεκμηρίωση για πρόσθετες αντιμετώπιση προβλημάτων: [Αντιμετώπιση προβλημάτων της σύνδεσης του Exchange εσωτερικής εγκατάστασης του Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Ανατρέξτε στην παρακάτω τεκμηρίωση για πρόσθετη αντιμετώπιση προβλημάτων: Αντιμετώπιση προβλημάτων στη γραμμή σύνδεσης εσωτερικής [εγκατάστασης του Intune Exchange σύνδεσης](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Ενεργοποίηση της λεπτομερούς καταγραφής για τη σύνδεση του Exchange**
+**Ενεργοποίηση λεπτομερής καταγραφής για τη Exchange σύνδεσης**
 
-1. Ανοίξτε το αρχείο ρύθμισης παραμέτρων ανίχνευσης σύνδεσης του Exchange για επεξεργασία.  
-Το αρχείο βρίσκεται στη διεύθυνση:%ProgramData%\Microsoft\Windows του Exchange Intune Connector\TracingConfiguration.xml  
+1. Ανοίξτε το αρχείο Exchange ανίχνευσης σύνδεσης για επεξεργασία.  
+Το αρχείο βρίσκεται στη θέση : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Παράδειγμα**
+**Παράδειγμα:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Εντοπίστε το TraceSourceLine με το ακόλουθο κλειδί: OnPremisesExchangeConnectorService  
+2. Εντοπίστε την TraceSourceLine με το ακόλουθο κλειδί: OnPremisesExchangeConnectorService  
   
-3. Αλλαγή της τιμής κόμβου SourceLevel από τις πληροφορίες ActivityTracing (προεπιλογή) σε λεπτομερή ActivityTracing  
+3. Αλλαγή της τιμής κόμβου SourceLevel από "Πληροφορίες activityTracing" (προεπιλογή) σε "Λεπτομερής activityTracing"  
 
-**Παράδειγμα**
+**Παράδειγμα:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ ms.locfileid: "48807649"
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Επανεκκινήστε την υπηρεσία Microsoft Intune Exchange  
-5. Πλήρης συγχρονισμός στην πύλη του Intune μέχρι να ολοκληρωθεί και, στη συνέχεια, αλλάξτε ξανά την XML σε "πληροφορίες ActivityTracing" και επανεκκινήστε την υπηρεσία Microsoft Intune Exchange.  
+4. Επανεκκίνηση της Microsoft Intune Exchange Υπηρεσίας  
+5. Πλήρης συγχρονισμός στην πύλη Intune μέχρι να ολοκληρωθεί και, στη συνέχεια, αλλάξτε ξανά την XML σε "Πληροφορίες ActivityTracing" και επανεκκινήστε την Microsoft Intune Exchange υπηρεσίας.  
 6. Η θέση των αρχείων καταγραφής είναι: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

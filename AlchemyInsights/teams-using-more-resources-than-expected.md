@@ -1,5 +1,5 @@
 ---
-title: Καθοδήγηση αναβάθμισης ομάδων
+title: Teams αναβάθμισης
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998691"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Οι ομάδες χρησιμοποιούν περισσότερους πόρους υπολογιστή από τους αναμενόμενους
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams χρησιμοποιεί περισσότερους πόρους υπολογιστή από το αναμενόμενο
 
-Οι εξαιρετικές επιδόσεις και η εμπειρία των χρηστών αποτελούν κορυφαίες ανησυχίες στη Microsoft. Ο χρόνος εκτόξευσης των ομάδων έχει βελτιωθεί και θα συνεχίσουμε να βελτιώνουμε τις ομάδες, συμπεριλαμβανομένης της συνολικής κατανάλωσης πόρων.  
+Οι εξαιρετικές επιδόσεις και η εμπειρία χρήστη αποτελούν κορυφαίες ανησυχίες στη Microsoft. Teams χρόνο κυκλοφορίας έχει βελτιωθεί και θα συνεχίσουμε να βελτιώνουμε τις Teams, συμπεριλαμβανομένης της συνολικής κατανάλωσης πόρων.  
 
-Για πληροφορίες σχετικά με τις ομάδες και τη χρήση πόρων, ανατρέξτε στο θέμα [Πώς το Microsoft teams χρησιμοποιεί τη μνήμη](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  και οι  [ομάδες είναι αργές κατά τη διάρκεια συσκέψεων βίντεο σε φορητούς υπολογιστές που έχουν συνδεθεί σε ΟΘΌΝΕς 4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Για πληροφορίες σχετικά με Teams και τη χρήση πόρων, ανατρέξτε στο θέμα [Πώς η Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) χρησιμοποιεί μνήμη και το Teams είναι αργό κατά τη διάρκεια συσκέψεων βίντεο σε φορητούς υπολογιστές που είναι αγκυρωμένοι σε οθόνες [4K/HDR.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)

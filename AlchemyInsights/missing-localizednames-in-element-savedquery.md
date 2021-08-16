@@ -1,5 +1,5 @@
 ---
-title: Λείπει το ' LocalizedNames ' στο στοιχείο ' αποθηκευμένο '
+title: Λείπουν 'LocalizedNames' στο στοιχείο 'savedquery'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065608"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Λείπει το ' LocalizedNames ' στο στοιχείο ' αποθηκευμένο '
+# <a name="missing-localizednames-in-element-savedquery"></a>Λείπουν 'LocalizedNames' στο στοιχείο 'savedquery'
 
-Για βοήθεια σχετικά με την απουσία "LocalizedNames", ανατρέξτε [στο θέμα "το στοιχείο ' αποθηκευμένο ' έχει ελλιπές περιεχόμενο. Λίστα πιθανών στοιχείων που αναμενόταν: εμφανίζεται το μήνυμα σφάλματος "LocalizedNames" κατά την εισαγωγή μιας λύσης δυναμικής 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Για βοήθεια σχετικά με τα 'LocalizedNames' που λείπουν, ανατρέξτε στο θέμα ["Το στοιχείο 'αποθηκευμένο θέμα' έχει μη ολοκληρωμένο περιεχόμενο. Λίστα πιθανών στοιχείων που αναμένονται: Σφάλμα 'LocalizedNames'" κατά την εισαγωγή μιας λύσης Του Dynamics 365.](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
 Αναζητήστε ειδικούς χαρακτήρες στο όνομα της προβολής που μπορεί να προκαλέσουν το πρόβλημα. Καταργήστε τυχόν ειδικούς χαρακτήρες στο όνομα της προβολής και εξαγάγετε ξανά τη λύση.
