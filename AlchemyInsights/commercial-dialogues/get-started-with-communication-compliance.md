@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034682"
 ---
 # <a name="get-started-with-communication-compliance"></a>Γρήγορα αποτελέσματα με τη συμμόρφωση επικοινωνίας
 
 Πριν ξεκινήσετε, ο οργανισμός σας πρέπει να έχει μία από τις ακόλουθες συνδρομές ή πρόσθετα:
 
-* Συνδρομή στο Microsoft 365 E5 (επί πληρωμή ή δοκιμαστική έκδοση)
-* Συνδρομή στο Microsoft 365 E3 + το πρόσθετο συμμόρφωσης του Microsoft 365 E5
-* Συνδρομή στο Microsoft 365 E3 + το πρόσθετο Microsoft 365 E5 Insider Risk Management
-* Συνδρομή στο Microsoft 365 A5 (επί πληρωμή ή δοκιμαστική έκδοση)
-* Συνδρομή στο Microsoft 365 A3 + το πρόσθετο "Συμμόρφωση" του Microsoft 365 A5
-* Συνδρομή στο Microsoft 365 A3 + το πρόσθετο Microsoft 365 A5 Insider Risk Management
-* Συνδρομή στο Microsoft 365 G5 (επί πληρωμή ή δοκιμαστική έκδοση)
-* Συνδρομή στο Microsoft 365 G5 + το πρόσθετο συμμόρφωσης του Microsoft 365 G5
-* Συνδρομή στο Microsoft 365 G5 + το πρόσθετο Microsoft 365 G5 Insider Risk Management
-* Συνδρομή στο Office 365 για μεγάλες επιχειρήσεις E5 (επί πληρωμή ή δοκιμαστική έκδοση)
-* Συνδρομή στο Office 365 για μεγάλες επιχειρήσεις E3 + το πρόσθετο Office 365 για προχωρημένους συμμόρφωσης (δεν είναι πλέον διαθέσιμο για νέες συνδρομές, ανατρέξτε στη σημείωση)
+* Microsoft 365 E5 συνδρομής (επί πληρωμή ή δοκιμαστική έκδοση)
+* Microsoft 365 E3 συνδρομή + Συμμόρφωση Microsoft 365 E5 πρόσθετο
+* Microsoft 365 E3 συνδρομή + το πρόσθετο Microsoft 365 E5 Insider Risk Management
+* Microsoft 365 A5 συνδρομή (επί πληρωμή ή δοκιμαστική έκδοση)
+* Microsoft 365 A3 + το πρόσθετο Microsoft 365 A5 συμμόρφωσης
+* Microsoft 365 A3 συνδρομή + το πρόσθετο Microsoft 365 A5 Insider Risk Management
+* Microsoft 365 Συνδρομή G5 (επί πληρωμή ή δοκιμαστική έκδοση)
+* Microsoft 365 Συνδρομή G5 + Microsoft 365 πρόσθετο συμμόρφωσης G5
+* Microsoft 365 Συνδρομή G5 + το πρόσθετο Microsoft 365 G5 Insider Risk Management
+* Office 365 για μεγάλες επιχειρήσεις Συνδρομή E5 (επί πληρωμή ή δοκιμαστική έκδοση)
+* Office 365 για μεγάλες επιχειρήσεις Συνδρομή E3 + το Office 365 Advanced Compliance πρόσθετο (δεν είναι πλέον διαθέσιμο για νέες συνδρομές, ανατρέξτε στη σημείωση)
 
     > [!NOTE]
-    > Εάν δεν έχετε ένα υπάρχον πρόγραμμα του Office 365 για μεγάλες επιχειρήσεις E5 και θέλετε να δοκιμάσετε τη διαχείριση κινδύνου insider, μπορείτε να προσθέσετε το [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) στην υπάρχουσα συνδρομή σας ή να εγγραφείτε για μια δοκιμαστική έκδοση του Office 365 για μεγάλες επιχειρήσεις E5.
+    > Εάν δεν έχετε ένα υπάρχον πρόγραμμα Office 365 για μεγάλες επιχειρήσεις E5 και θέλετε να δοκιμάσετε τη διαχείριση κινδύνων insider, μπορείτε να προσθέσετε [το Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) στην υπάρχουσα συνδρομή σας ή να εγγραφείτε για μια δοκιμαστική έκδοση Office 365 για μεγάλες επιχειρήσεις E5.

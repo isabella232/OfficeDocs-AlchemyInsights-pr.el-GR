@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034718"
 ---
 # <a name="fix-user-policymailbox-settings"></a>Επιδιόρθωση ρυθμίσεων πολιτικής χρήστη/γραμματοκιβωτίου
 
 Οι ρυθμίσεις ανεπιθύμητης αλληλογραφίας στο γραμματοκιβώτιο επηρέασαν αυτό το μήνυμα. Για να ελέγξετε τις ρυθμίσεις, κάντε τα εξής:
 
-1. Εκκινεί το κέλυφος διαχείρισης του Exchange. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Άνοιγμα του κελύφους διαχείρισης του Exchange.](https://go.microsoft.com/fwlink/?linkid=2101432)
+1. Εκκίνηση Exchange κελύφους διαχείρισης. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα "Άνοιγμα Exchange κελύφους διαχείρισης".](https://go.microsoft.com/fwlink/?linkid=2101432)
 2. Εκτελέστε αυτή την εντολή (χρησιμοποιώντας τη διεύθυνση ηλεκτρονικού ταχυδρομείου του χρήστη):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
 3. Ελέγξτε εάν η διεύθυνση ηλεκτρονικού ταχυδρομείου του αποστολέα αποτελεί μέρος **του TrustedSendersAndDomains** ή **του BlockedSendersAndDomains.** Εάν η διεύθυνση ηλεκτρονικού ταχυδρομείου βρίσκεται σε μία από τις λίστες, ίσως χρειαστεί να την καταργήσετε. Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Set-MailboxJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)

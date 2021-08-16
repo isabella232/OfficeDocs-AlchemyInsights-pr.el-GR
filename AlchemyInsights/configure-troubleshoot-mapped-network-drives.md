@@ -1,5 +1,5 @@
 ---
-title: Τρόπος ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένων μονάδων δίσκου δικτύου
+title: Τρόπος ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένες μονάδες δίσκου δικτύου
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,15 +14,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1e9d007024fa3edce359123425df2b8209a5e131162832a16c651ff3fd6b5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044448"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Τρόπος ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένων μονάδων δίσκου δικτύου
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Τρόπος ρύθμισης παραμέτρων και αντιμετώπισης προβλημάτων αντιστοιχισμένες μονάδες δίσκου δικτύου
 
-Η αντιστοίχιση μιας βιβλιοθήκης ως μονάδας δίσκου δικτύου είναι προσωρινή και υποστηρίζεται μόνο μέσω του Internet Explorer. Αντί για αυτό, [Συγχρονίστε αρχεία του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού του OneDrive, το](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) οποίο παρέχει [αρχεία κατ ' απαίτηση](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Αποκτήστε πρόσβαση σε όλα τα αρχεία σας στο OneDrive χωρίς να χρησιμοποιήσετε τον τοπικό χώρο αποθήκευσης.
+Η αντιστοίχιση μιας βιβλιοθήκης ως μονάδας δίσκου δικτύου είναι προσωρινή και υποστηρίζεται μόνο μέσω του Internet Explorer. Αντί για [αυτό, SharePoint αρχεία με το νέο συγχρονισμός του OneDrive που](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) παρέχει αρχεία [κατ' απαίτηση.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Αποκτήστε πρόσβαση σε όλα τα αρχεία OneDrive χωρίς να χρησιμοποιήσετε τοπικό χώρο αποθήκευσης.
 
-* [Αντιμετώπιση προβλημάτων αντιστοιχισμένων μονάδων δίσκου δικτύου που συνδέονται στο SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+* [Αντιμετώπιση προβλημάτων αντιστοιχισμένες μονάδες δίσκου δικτύου που συνδέονται SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
