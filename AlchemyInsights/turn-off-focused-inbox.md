@@ -1,5 +1,5 @@
 ---
-title: 8000001 απενεργοποίηση των εστιασμένων εισερχομένων
+title: 8000001 απενεργοποίηση των Εστιασμένων Εισερχομένων
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038697"
 ---
-# <a name="turn-off-focused-inbox"></a>Απενεργοποίηση των εστιασμένων εισερχομένων
+# <a name="turn-off-focused-inbox"></a>Απενεργοποίηση των Εστιασμένων Εισερχομένων
 
-1. Επιλέξτε **Ρυθμίσεις** \> **εστιασμένα εισερχόμενα**.  
+1. Επιλέξτε **Ρυθμίσεις** \> **Εστιασμένα Εισερχόμενα.**  
 
-2. Στην περιοχή **κατά τη λήψη ηλεκτρονικού ταχυδρομείου**, επιλέξτε να **μην ταξινομούνται τα μηνύματα**.
+2. Στην **περιοχή "Κατά τη λήψη μηνυμάτων ηλεκτρονικού** ταχυδρομείου", επιλέξτε **"Να μην γίνεται ταξινόμηση μηνυμάτων".**
 
-3. Επιλέξτε **OK**.
+3. Επιλέξτε **OK.**
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [εστιασμένα Εισερχόμενα για το Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Εστιασμένα Εισερχόμενα για Outlook.](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)

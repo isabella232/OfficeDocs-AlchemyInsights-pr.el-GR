@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996486"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Δεν είναι δυνατή η προσθήκη ή η δημιουργία νέας υπογραφής στο Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Δεν είναι δυνατή η προσθήκη ή η δημιουργία νέας υπογραφής σε Outlook
 
-Αυτό είναι ένα γνωστό πρόβλημα. Εργαζόμαστε για να το διορθώσουμε και η κατάσταση θα ενημερωθεί στο [Outlook παγώνει κάνοντας κλικ στο κουμπί υπογραφή](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Αυτό είναι ένα γνωστό πρόβλημα. Εργαζόμαστε για να το διορθώσουμε και η κατάσταση θα ενημερωθεί [Outlook κλικ στο κουμπί "Υπογραφή".](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
 
-Για να επιλύσετε αυτό το ζήτημα, [Δοκιμάστε πρώτα τα βήματα](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) για να καταργήσετε την εγκατάσταση των προεγκατεστημένων εφαρμογών υπολογιστή του Microsoft Office. 
+Για να επιλύσετε αυτό το πρόβλημα, δοκιμάστε [πρώτα τα βήματα για να](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) καταργήσετε την εγκατάσταση των προεγκατεστημενών Microsoft Office εφαρμογές υπολογιστή. 
 
-Εάν αυτό δεν έχει αποτέλεσμα για τον υπολογιστή που επηρεάζεται, δοκιμάστε να δοκιμάσετε τη [λύση που βασίζεται στο μητρώο](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Εάν αυτό δεν λειτουργεί για τον υπολογιστή που επηρεάζεται, δοκιμάστε τη λύση [που βασίζεται στο μητρώο.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
