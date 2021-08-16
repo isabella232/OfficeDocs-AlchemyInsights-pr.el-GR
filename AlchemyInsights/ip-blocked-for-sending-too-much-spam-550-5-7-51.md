@@ -1,5 +1,5 @@
 ---
-title: το 1264 IP έχει αποκλειστεί για την αποστολή πάρα πολύ ανεπιθύμητης αλληλογραφίας (550 5.7.51)
+title: Η διεύθυνση IP 1264 αποκλείσθηκε για την αποστολή πολύ ανεπιθύμητης αλληλογραφίας (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099250"
 ---
-# <a name="access-denied-banned-sender"></a>Δεν επιτρέπεται η πρόσβαση, αποκλεισμένος Αποστολέας
+# <a name="access-denied-banned-sender"></a>Δεν επιτρέπεται η πρόσβαση, έχει αποκλειστεί ο αποστολέας
 
- **ΣΦΑΛΜΑ**: σφάλμα SMTP από τον απομακρυσμένο διακομιστή για Αρ στην εντολή, Host: *xxxx*-com.mail.Protection.Outlook.com (*xxx.xxx.xxx.xxx*) Αιτιολογία: 550 5.7.511 δεν επιτρέπεται η πρόσβαση, αποκλεισμένος Αποστολέας [*xx.xxx.x.xxx*]. 
+ **Σφάλμα**: Σφάλμα SMTP από απομακρυσμένο διακομιστή για εντολή RCPT TO, κεντρικός υπολογιστής: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) αιτία: 550 5.7.511 Δεν επιτρέπεται η πρόσβαση, απαγορευμένος αποστολέας [*xx.xxx.x.xxx*]. 
 
-Εάν λάβετε αυτό το μήνυμα σφάλματος κατά την αποστολή ηλεκτρονικού ταχυδρομείου σε έναν παραλήπτη του Microsoft 365, καταργήστε τον επηρεαζόμενο λογαριασμό από τη λίστα Αποκλεισμένοι αποστολείς στο [https://sender.office.com](https://sender.office.com) .
+Εάν λάβετε αυτό το σφάλμα κατά την αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου σε Microsoft 365 παραλήπτη, καταργήστε το λογαριασμό που επηρεάζεται από τη λίστα αποκλεισμένων αποστολέων στη διεύθυνση [https://sender.office.com](https://sender.office.com) .

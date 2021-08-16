@@ -1,5 +1,5 @@
 ---
-title: Αύξηση ορίων περιορισμού EWS για τη μετεγκατάσταση αλληλογραφίας
+title: Αύξηση των ορίων περιορισμού EWS για τη μετεγκατάσταση αλληλογραφίας
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 88b739e5e59ada7fb33cfc076181ba397af21f4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24194ccb4ef4d981001ebf1c0c911eb881a53a5f178529b783ee9114af944e90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099358"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Αύξηση ορίων περιορισμού EWS για τη μετεγκατάσταση αλληλογραφίας
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Αύξηση των ορίων περιορισμού EWS για τη μετεγκατάσταση αλληλογραφίας
 
-Για να αυξήσετε τα όρια επιτάχυνσης EWS του μισθωτή σας για μια μετεγκατάσταση ηλεκτρονικού ταχυδρομείου, προχωρήστε και ανοίξτε ένα δελτίο υποστήριξης.
+Για να αυξήσετε τα όρια περιορισμού EWS του μισθωτή σας για μια μετεγκατάσταση ηλεκτρονικού ταχυδρομείου, προχωρήστε και ανοίξτε ένα δελτίο υποστήριξης.
