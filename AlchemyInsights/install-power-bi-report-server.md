@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση του Power BI Report Server
+title: Εγκατάσταση Power BI Report Server
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028580"
 ---
-# <a name="install-power-bi-report-server"></a>Εγκατάσταση του Power BI Report Server
+# <a name="install-power-bi-report-server"></a>Εγκατάσταση Power BI Report Server
 
 1. Βρείτε τη θέση του PowerBIReportServer.exe και εκκινήσει το πρόγραμμα εγκατάστασης.
 
-2. Επιλέξτε **"Εγκατάσταση του Power BI Report Server".**
+2. Επιλέξτε **"Εγκατάσταση Power BI Report Server".**
 
 3. Επιλέξτε μια έκδοση για εγκατάσταση και, στη συνέχεια, **επιλέξτε "Επόμενο".**
 
@@ -35,6 +35,6 @@ ms.locfileid: "51832094"
 
 7. Μετά από μια επιτυχημένη ρύθμιση, επιλέξτε "Ρύθμιση **παραμέτρων διακομιστή αναφορών" για** να εκκινήσετε τη Διαχείριση παραμέτρων των υπηρεσιών αναφοράς.
 
-Δεν χρειάζεστε ένα διακομιστή μηχανισμού βάσεων δεδομένων SQL Server που είναι διαθέσιμος τη στιγμή της εγκατάστασης. Θα χρειαστείτε έναν για να ρυθμίσετε τις παραμέτρους των υπηρεσιών αναφοράς μετά την εγκατάσταση.
+Δεν χρειάζεστε ένα διακομιστή μηχανισμού SQL Server βάσεων δεδομένων που είναι διαθέσιμος τη στιγμή της εγκατάστασης. Θα χρειαστείτε έναν για να ρυθμίσετε τις παραμέτρους των υπηρεσιών αναφοράς μετά την εγκατάσταση.
 
 Για περισσότερες πληροφορίες: https://docs.microsoft.com/power-bi/report-server/install-report-server

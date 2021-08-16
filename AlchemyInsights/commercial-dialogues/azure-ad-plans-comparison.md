@@ -1,5 +1,5 @@
 ---
-title: Σύγκριση προγραμμάτων του Azure AD
+title: Σύγκριση προγραμμάτων ad azure
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045636"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Σύγκριση προγραμμάτων του Azure Active Directory
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory σύγκριση προγραμμάτων
 
-Το Azure Active Directory παρέχεται σε τέσσερις εκδόσεις: Δωρεάν, Εφαρμογές του Office 365, Premium P1 και Premium P2.
+Azure Active Directory διατίθεται σε τέσσερις εκδόσεις: Δωρεάν, Office 365 εφαρμογές, Premium P1 και Premium P2.
 
-Η δωρεάν έκδοση περιλαμβάνεται με μια συνδρομή Azure. Οι εκδόσεις Premium είναι διαθέσιμες μέσω του εκπροσώπου της Microsoft, του Προγράμματος [open Volume License και](https://go.microsoft.com/fwlink/?linkid=2110873)των προγραμμάτων υπηρεσιών [παροχής λύσεων Cloud.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+Η δωρεάν έκδοση περιλαμβάνεται σε μια συνδρομή Azure. Οι Premium είναι διαθέσιμες μέσω του εκπροσώπου της Microsoft, του [Προγράμματος open volume license και](https://go.microsoft.com/fwlink/?linkid=2110873)των προγραμμάτων υπηρεσιών παροχής [λύσεων cloud.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Οι συνδρομητές του Azure και του Office 365 μπορούν επίσης να αγοράσουν online το Azure Active Directory Premium P1 και P2. Για να μάθετε περισσότερα, ανατρέξτε [στις δυνατότητες και τις τιμές του Azure Active Directory.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Το Azure και Office 365 συνδρομητές μπορούν επίσης να αγοράσουν Azure Active Directory Premium P1 και P2 online. Για να μάθετε περισσότερα, ανατρέξτε [Azure Active Directory δυνατότητες και τις τιμές.](https://go.microsoft.com/fwlink/?linkid=2081447)
