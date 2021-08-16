@@ -1,5 +1,5 @@
 ---
-title: Άδειες χρήσης για τον Microsoft 365 Defender
+title: Άδειες χρήσης για Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967981"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Άδειες χρήσης για τον Microsoft 365 Defender
+# <a name="licenses-for-microsoft-365-defender"></a>Άδειες χρήσης για Microsoft 365 Defender
 
-Οι ακόλουθες άδειες χρήσης παρέχουν δωρεάν πρόσβαση στις δυνατότητες του Microsoft 365 Defender στο Κέντρο ασφαλείας του Microsoft 365:
+Οι ακόλουθες άδειες χρήσης παρέχουν δωρεάν πρόσβαση Microsoft 365 Defender δυνατότητες στο Microsoft 365 ασφαλείας:
 
 - Microsoft 365 E5 ή A5
-- Ασφάλεια του Microsoft 365 E5 ή ασφάλεια A5
-- Windows 10 για μεγάλες επιχειρήσεις E5 ή A5
-- Κινητικότητα για μεγάλες επιχειρήσεις + Ασφάλεια (EMS) E5 ή A5
+- Ασφάλεια Microsoft 365 E5 ή A5 Security
+- Windows 10 Enterprise E5 ή A5
+- Φορητότητα για μεγάλες επιχειρήσεις + Ασφάλεια (EMS) E5 ή A5
 - Office 365 E5 ή A5
 - Microsoft Defender για τελικό σημείο
 - Microsoft Defender για ταυτότητα
-- Ασφάλεια εφαρμογής Cloud της Microsoft
+- Microsoft Cloud App Security
 - Microsoft Defender για Office 365 (Πρόγραμμα 2)
 
     > [!NOTE]
-    > Αυτή τη στιγμή, οι δοκιμαστικές άδειες χρήσης για το Office 365 δεν παρέχουν πρόσβαση στο Microsoft 365 Defender.
+    > Αυτή τη στιγμή, οι δοκιμαστικές άδειες χρήσης για Office 365 δεν παρέχουν πρόσβαση σε Microsoft 365 Defender.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στη σύγκριση [προγραμμάτων του Microsoft 365 για μεγάλες επιχειρήσεις.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Για περισσότερες πληροφορίες, ανατρέξτε στη [σύγκριση Microsoft 365 για μεγάλες επιχειρήσεις προγραμμάτων.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Δεν έχετε ακόμα άδεια χρήσης; [Δοκιμάστε ή αγοράστε μια συνδρομή στο Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Δεν έχετε ακόμα άδεια χρήσης; [Δοκιμάστε ή αγοράστε μια Microsoft 365 σας.](https://go.microsoft.com/fwlink/?linkid=2143625)
