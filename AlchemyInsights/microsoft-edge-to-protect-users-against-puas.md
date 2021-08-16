@@ -1,5 +1,5 @@
 ---
-title: Χρήση του Microsoft Edge για την προστασία των χρηστών από το PUAs
+title: Χρήση Microsoft Edge για την προστασία των χρηστών από ΤΙς PUAs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000500"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Χρήση του Microsoft Edge για την προστασία των χρηστών από το PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Χρήση Microsoft Edge για την προστασία των χρηστών από ΤΙς PUAs
 
-Οι εκδόσεις Microsoft Edge 80.0.361.50 και νεότερες εκδόσεις αποδεσμεύουν τα στοιχεία λήψης πιθανών ανεπιθύμητων εφαρμογών (PUAs) και συσχετισμένων διευθύνσεων URL. Για να ενεργοποιήσετε αυτήν τη δυνατότητα, κάντε τα εξής:
+Microsoft Edge εκδόσεις 80.0.361.50 και νεότερες μπλοκ λήψης πιθανώς ανεπιθύμητων εφαρμογών (PUAs) και συσχετισμένων διευθύνσεων URL. Για να ενεργοποιήσετε αυτήν τη δυνατότητα, κάντε τα εξής:
 
-1. Μεταβείτε στις **Ρυθμίσεις**  >  **προστασία προσωπικών δεδομένων και υπηρεσιών** στο πρόγραμμα περιήγησης.
+1. Μεταβείτε στην **Ρυθμίσεις**  >  **προστασίας προσωπικών δεδομένων και υπηρεσιών** στο πρόγραμμα περιήγησης.
 
-2. Κάντε κύλιση προς τα κάτω στην ενότητα **υπηρεσίες** και βεβαιωθείτε ότι οι **πιθανές ανεπιθύμητες εφαρμογές** του **Microsoft Defender SmartScreen** και Block είναι ενεργοποιημένες.
+2. Κάντε κύλιση προς τα κάτω **στην ενότητα** "Υπηρεσίες" και βεβαιωθείτε **ότι Microsoft Defender SmartScreen** και **αποκλεισμός πιθανώς ανεπιθύμητων** εφαρμογών είναι ενεργοποιημένες.
 
-    Την επόμενη φορά που το Microsoft Defender SmartScreen εντοπίσει ένα PUA, θα το εμποδίσει και θα σας ειδοποιήσει αναλόγως.
+    Την επόμενη φορά Microsoft Defender SmartScreen εντοπίσει μια PUA, θα την αποκλείσει και θα σας ειδοποιήσει ανάλογα.
 
-    Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Πώς μπορείτε να αποκλείσετε τις διευθύνσεις URL που σχετίζονται](https://go.microsoft.com/fwlink/?linkid=2133024)με το PUA.
+    Για να μάθετε περισσότερα, δείτε [πώς μπορείτε να αποκλείσετε τις διευθύνσεις URL που σχετίζονται με PUA.](https://go.microsoft.com/fwlink/?linkid=2133024)

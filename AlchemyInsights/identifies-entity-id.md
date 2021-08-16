@@ -1,5 +1,5 @@
 ---
-title: Αναγνωριστικά (αναγνωριστικό οντότητας)
+title: Αναγνωριστικά (Αναγνωριστικό οντότητας)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7757"
-ms.openlocfilehash: 9a5887799f5297ec73ebda644ae668e2dee49675
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: abe68137e917ef568d9c8902a16df304040bbfc3b3ea5d04e45a5247bd639130
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028738"
 ---
-# <a name="identifiers-entity-id"></a>Αναγνωριστικά (αναγνωριστικό οντότητας)
+# <a name="identifiers-entity-id"></a>Αναγνωριστικά (Αναγνωριστικό οντότητας)
 
-Για να προβάλετε ή να επεξεργαστείτε τις αξιώσεις που εκδίδονται στο διακριτικό SAML για την εφαρμογή, ανοίξτε την εφαρμογή στην πύλη Azure. Στη συνέχεια, ανοίξτε την ενότητα " **χαρακτηριστικά χρήστη & απαιτήσεις** ". Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προσαρμογή αξιώσεων που εκδίδονται στο ΔΙΑΚΡΙΤΙΚΌ SAML για εταιρικές εφαρμογές](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid).
+Για να προβάλετε ή να επεξεργαστείτε τις αξιώσεις που εκδίδονται στο διακριτικό SAML στην εφαρμογή, ανοίξτε την εφαρμογή στην πύλη Azure. Στη συνέχεια, **ανοίξτε την ενότητα "Χαρακτηριστικά χρήστη" & "Αξιώσεις".** Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα προσαρμογή αξιώ σεων που εκδίδονται στο διακριτικό SAML για εταιρικές εφαρμογές.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid)
