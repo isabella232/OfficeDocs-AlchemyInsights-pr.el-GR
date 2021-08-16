@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ειδοποιήσεις Facebook
+title: Outlook.com ειδοποιήσεις facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010976"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Ειδοποιήσεις του Facebook με χρήση του Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Ειδοποιήσεις του Facebook χρησιμοποιώντας Outlook.com
 
-Εάν δεν θέλετε να λαμβάνετε ειδοποιήσεις από το Facebook, μπορείτε να αλλάξετε τις [ρυθμίσεις του Facebook](https://aka.ms/facebook-notifications-settings) ή να ρυθμίσετε έναν κανόνα εισερχομένων.
+Εάν δεν θέλετε να λαμβάνετε ειδοποιήσεις από το Facebook, μπορείτε να αλλάξετε τις ρυθμίσεις [του Facebook ή](https://aka.ms/facebook-notifications-settings) να ρυθμίσετε έναν κανόνα εισερχομένων.
 
-1. Μεταβείτε στις [ρυθμίσεις κανόνων](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Επιλέξτε **Προσθήκη νέου κανόνα**.
+1. Μεταβείτε στις [ρυθμίσεις κανόνων.](https://outlook.live.com/mail/options/mail/rules/inboxRules)
+1. Επιλέξτε **"Προσθήκη νέου κανόνα".**
 1. Ονομάστε τον κανόνα σας "Facebook".
-1. Προσθέστε μια συνθήκη "από" και πληκτρολογήστε "notification@facebookmail.com"
-1. Προσθήκη ενέργειας "Διαγραφή". Η επιλογή "Διαγραφή" σημαίνει ότι τα μηνύματα παραμένουν στα διαγραμμένα στοιχεία και ότι είναι δυνατή η ανάκτησή τους. Εάν επιλέξετε "σήμανση ως ανεπιθύμητη αλληλογραφία", τα μηνύματα θα διαγραφούν αυτόματα και δεν θα είναι δυνατή η ανάκτησή τους.
-1. Επιλέξτε **Αποθήκευση**.
+1. Προσθέστε μια συνθήκη "Από" και πληκτρολογήστε "notification@facebookmail.com"
+1. Προσθέστε μια ενέργεια "Διαγραφή". Η επιλογή "Διαγραφή" σημαίνει ότι τα μηνύματα παραμένουν στα Διαγραμμένα και μπορούν να ανακτηθούν. Εάν επιλέξετε "Σήμανση ως ανεπιθύμητης αλληλογραφίας", τα μηνύματα θα διαγραφούν αυτόματα και δεν θα είναι δυνατό να ανακτηθούν.
+1. Επιλέξτε **"Αποθήκευση".**

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com δεν είναι δυνατή η λήψη κωδικών επαλήθευσης
+title: Outlook.com δεν μπορεί να λάβει κωδικούς επαλήθευσης
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064204"
 ---
-# <a name="cant-get-verification-codes"></a>Δεν είναι δυνατή η λήψη κωδικών επαλήθευσης
+# <a name="cant-get-verification-codes"></a>Δεν μπορείτε να λάβετε κωδικούς επαλήθευσης
 
-Εάν δεν μπορείτε να αποκτήσετε πρόσβαση στην εναλλακτική διεύθυνση ηλεκτρονικού ταχυδρομείου ή τον αριθμό τηλεφώνου σας, μεταβείτε στη σελίδα [Βασικά στοιχεία ασφαλείας](https://account.microsoft.com/security) του λογαριασμού Microsoft, επιλέξτε **δεν έχω κανένα από αυτά** στη σελίδα εισόδου και ακολουθήστε τις οδηγίες για να αντικαταστήσετε τις πληροφορίες ασφάλειάς σας.
+Εάν δεν μπορείτε να αποκτήσετε πρόσβαση στο εναλλακτικό ηλεκτρονικό [](https://account.microsoft.com/security) ταχυδρομείο ή τον  αριθμό τηλεφώνου σας, μεταβείτε στη σελίδα βασικών στοιχείων ασφαλείας του λογαριασμού Microsoft, επιλέξτε δεν έχω κανένα από αυτά στη σελίδα σύνδεσης και ακολουθήστε τις οδηγίες για να αντικαταστήσετε τις πληροφορίες ασφαλείας σας.
 
-*Σημείωση:* Η [εφαρμογή πιστοποίησης ταυτότητας της Microsoft](https://go.microsoft.com/fwlink/?linkid=2016117) δεν απαιτεί σύνδεση στο Internet για να σας παρέχει έναν κωδικό επαλήθευσης.
+*Σημείωση:* Η [Microsoft Authenticator δεν](https://go.microsoft.com/fwlink/?linkid=2016117) απαιτεί σύνδεση στο Internet για να σας παρέχει έναν κωδικό επαλήθευσης.
 
-Για να μάθετε περισσότερα, διαβάστε τις [πληροφορίες ασφάλειας του λογαριασμού Microsoft και τους κωδικούς επαλήθευσης](https://support.microsoft.com/help/12428/).
+Για να μάθετε περισσότερα, διαβάστε τις [πληροφορίες ασφάλειας λογαριασμού Microsoft και τους κωδικούς επαλήθευσης.](https://support.microsoft.com/help/12428/)

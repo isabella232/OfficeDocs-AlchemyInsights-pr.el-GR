@@ -1,5 +1,5 @@
 ---
-title: Ασυμφωνία PUID του OneDrive
+title: OneDrive Ασυμφωνία PUID
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096730"
 ---
-# <a name="onedrive-puid-mismatch"></a>Ασυμφωνία PUID του OneDrive
+# <a name="onedrive-puid-mismatch"></a>OneDrive Ασυμφωνία PUID
 
-Φαίνεται ότι αντιμετωπίζετε μια [ασυμφωνία αναγνωριστικού](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) στο OneDrive για την επιχείρηση. Για να μας επιτρέψετε να σας βοηθήσουμε το νωρίτερο, ακολουθήστε τα παρακάτω βήματα:
+Φαίνεται ότι αντιμετωπίζετε ασυμφωνία [αναγνωριστικών](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) σε OneDrive για επιχειρήσεις. Για να σας βοηθήσουμε το νωρίτερο, ακολουθήστε τα παρακάτω βήματα:
 
-1. Κάντε κλικ στην επιλογή  **επικοινωνία με την υποστήριξη** και, στη συνέχεια,  **νέα αίτηση υπηρεσίας**.
-2. Αφήστε τον τίτλο και την περιγραφή ως  **ΑΣΥΜΦΩΝΊΑ αναγνωριστικού χρήστη τοποθεσίας OneDrive**.
-3. Μετά την υποβολή του εισιτηρίου, ενημερώστε το με τις ακόλουθες πληροφορίες:
-    - Διεύθυνση URL τοποθεσίας του OneDrive που επηρεάζεται.
+1. Κάντε κλικ **στην επιλογή "Επικοινωνία με την** υποστήριξη" και, στη **συνέχεια, κάντε κλικ στην επιλογή "Νέα αίτηση υπηρεσίας".**
+2. Αφήστε τον τίτλο και την περιγραφή **ως OneDrive Ασυμφωνία αναγνωριστικού χρήστη τοποθεσίας.**
+3. Αφού υποβληθεί το δελτίο, ενημερώστε το με τις ακόλουθες πληροφορίες:
+    - OneDrive διεύθυνση URL τοποθεσίας που επηρεάζεται.
     - Κύριο όνομα χρήστη (UPN) του χρήστη που επηρεάζεται.
