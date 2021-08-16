@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058506"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Ρύθμιση προστασίας από ανεπιθύμητη αλληλογραφία
 
 Δείτε πώς μπορείτε να το κάνετε αυτό:
 
-1. Μεταβείτε στο [Κέντρο ασφάλειας και & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Μεταβείτε στο [κέντρο Office 365 ασφάλειας & συμμόρφωσης.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. Μεταβείτε στην **Πολιτική διαχείρισης**  >  **απειλών και** κάντε κλικ στην **[επιλογή "Αντιμετώπιση ανεπιθύμητης αλληλογραφίας".](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
 1. Στην καρτέλα **"Προσαρμογή",** ενεργοποιήστε τις **Προσαρμοσμένες** ρυθμίσεις.
 1. Αναπτύξτε την **προεπιλεγμένη πολιτική φίλτρου ανεπιθύμητης αλληλογραφίας,** κάντε κλικ **στην επιλογή "Επεξεργασία πολιτικής"** και, στη συνέχεια, καθορίστε τις ακόλουθες ρυθμίσεις:
