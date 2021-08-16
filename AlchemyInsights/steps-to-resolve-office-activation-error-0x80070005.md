@@ -1,5 +1,5 @@
 ---
-title: Βήματα για την επίλυση του σφάλματος ενεργοποίησης του Office 0x80070005
+title: Βήματα για την επίλυση του σφάλματος ενεργοποίησης του office 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021416"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Βήματα για την επίλυση του σφάλματος ενεργοποίησης του Office 0x80070005
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Βήματα για την επίλυση του σφάλματος ενεργοποίησης του office 0x80070005
 
-Εάν το σφάλμα 0x80070005 ξεκίνησε μετά την ενημέρωση των Windows, μπορείτε να διορθώσετε το πρόβλημα ενημερώνοντας το μητρώο.
+Εάν το 0x80070005 μετά την ενημέρωση του Windows, μπορείτε να διορθώσετε το πρόβλημα ενημερώνοντας το μητρώο.
   
-Πραγματοποιήστε λήψη και εγκατάσταση του [βοηθού υποστήριξης και αποκατάστασης](https://aka.ms/SARA-OfficeActivation-Alchemy) και εκτελέστε την **Αντιμετώπιση προβλημάτων ενεργοποίησης**.
+Κάντε λήψη και εγκατάσταση του [Βοηθός υποστήριξης και αποκατάστασης και](https://aka.ms/SARA-OfficeActivation-Alchemy) εκτελέστε την Αντιμετώπιση **προβλημάτων ενεργοποίησης.**
   
-Για πρόσθετη βοήθεια, ανατρέξτε στο θέμα: [Κωδικός σφάλματος του Office 0x80070005 κατά την ενεργοποίηση του Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Για επιπλέον βοήθεια, ανατρέξτε στο [θέμα: Office κωδικό σφάλματος 0x80070005 κατά την ενεργοποίηση Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   

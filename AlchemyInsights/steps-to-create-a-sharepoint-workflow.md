@@ -1,5 +1,5 @@
 ---
-title: Βήματα για τη δημιουργία μιας ροής εργασίας του SharePoint
+title: Βήματα για τη δημιουργία μιας SharePoint εργασίας
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,29 +13,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 0d3ffde45f32224632b1b9e29b7e798aadd1a6b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c90ba1467e3259334932938e7d647b7054970a75a78f86e76e503d7295670df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021380"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a>Βήματα για τη δημιουργία μιας ροής εργασίας του SharePoint
+# <a name="steps-to-create-a-sharepoint-workflow"></a>Βήματα για τη δημιουργία μιας SharePoint εργασίας
 
-- Εάν δεν μπορείτε να προσθέσετε μια ροή εργασίας έγκρισης του SharePoint 2010, ανατρέξτε στο θέμα δεν είναι δυνατή η [Προσθήκη προεπιλεγμένης ροής εργασίας έγκρισης του 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
-- Πώς μπορείτε να δημιουργήσετε ροές εργασίας:
-    - [ροή εργασίας του 2013 από το SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [ροή εργασίας του 2010 από το SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Εισαγωγή στη ροή εργασίας του SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+- Εάν δεν μπορείτε να προσθέσετε μια ροή SharePoint 2010 "Έγκριση", ανατρέξτε στο θέμα Δεν είναι δυνατή η προσθήκη προεπιλεγμένης ροής εργασίας έγκρισης [2010.](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)
+- Τρόπος δημιουργίας ροών εργασιών:
+    - [Ροή εργασιών 2013 από το SharePoint Σχεδίασης](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [Ροή εργασιών 2010 από το SharePoint Σχεδίασης](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [Εισαγωγή στη ροή SharePoint εργασίας](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
 - Αντιμετώπιση προβλημάτων και εντοπισμός σφαλμάτων ροής εργασίας:
-    - Οι ροές εργασίας εντοπισμού σφαλμάτων μοιάζουν με αυτές των προηγούμενων εκδόσεων.  Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εντοπισμός σφαλμάτων ροών εργασίας του SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Για περισσότερες πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων, ανατρέξτε στο θέμα [αντιμετώπιση σφαλμάτων επικύρωσης ροής εργασίας του SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+    - Ο εντοπισμός σφαλμάτων ροών εργασιών μοιάζει με αυτόν των προηγούμενων εκδόσεων.  Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Εντοπισμός σφαλμάτων SharePoint ροές εργασιών.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+    - Για περισσότερες πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων, ανατρέξτε [στο θέμα Αντιμετώπιση προβλημάτων SharePoint σφάλματα επικύρωσης ροής εργασίας διακομιστή.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Σχετικά θέματα
-Θέλετε να δοκιμάσετε το Microsoft Flow στο SharePoint Online;
-- [Δημιουργία ροής](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Θέλετε να δοκιμάσετε Microsoft Flow στο SharePoint Online;
+- [Δημιουργία Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint και Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
