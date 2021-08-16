@@ -1,5 +1,5 @@
 ---
-title: Αντιμετωπίζετε επαναλαμβανόμενα μηνύματα κωδικού πρόσβασης στο Outlook για Mac;
+title: Αντιμετωπίζετε επαναλαμβανόμενα μηνύματα κωδικού πρόσβασης Outlook για Mac;
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 5b3c42eaa4af881235ee5029063fa741ee4e952c451a6b87085f2294d2cd3f71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069172"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Αντιμετωπίζετε επαναλαμβανόμενα μηνύματα κωδικού πρόσβασης στο Outlook για Mac;
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Αντιμετωπίζετε επαναλαμβανόμενα μηνύματα κωδικού πρόσβασης Outlook για Mac;
 
-Μπορούμε να σας βοηθήσουμε να παρέχετε πιο εξειδικευμένη βοήθεια για το Outlook για Mac απευθείας από την εφαρμογή.
+Μπορούμε να σας βοηθήσουμε να παρέχετε πιο εξειδικευμένες Outlook για Mac βοήθεια απευθείας από την εφαρμογή.
   
-Μεταβείτε στον Mac του χρήστη που επηρεάζεται,  ανοίξτε το Outlook και κάντε κλικ στην επιλογή "Επικοινωνία με \> **την υποστήριξη".**
+Μεταβείτε στο Mac του χρήστη που επηρεάζεται, ανοίξτε το Outlook και κάντε κλικ στην επιλογή "Επικοινωνία με **την** \> **υποστήριξη" της Βοήθειας.**
   
-Για να μάθετε περισσότερα σχετικά με τη χρήση της υποστήριξης πελατών εντός της εφαρμογής του Outlook για Mac, ανατρέξτε σε αυτό το άρθρο: Νέα δυνατότητα επικοινωνίας με την υποστήριξη στο [Outlook 2016 για Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Για να μάθετε περισσότερα σχετικά με τη Outlook για Mac υποστήριξης πελατών εντός της εφαρμογής, ανατρέξτε σε αυτό το άρθρο: Νέα δυνατότητα επικοινωνίας [με την υποστήριξη Outlook 2016 για Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 
