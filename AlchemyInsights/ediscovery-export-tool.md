@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101302"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Δεν μπορείτε να εγκαταστήσετε ή να εκτελέσετε το Εργαλείο εξαγωγής eDiscovery;
 
@@ -28,7 +28,7 @@ ms.locfileid: "51814588"
   
 - Ο υπολογιστής που χρησιμοποιείτε πληροί τα εξής προαπαιτούμενα:
 
-  - Εκδόσεις 32 ή 64 bit των Windows 7 και νεότερες εκδόσεις
+  - Εκδόσεις 32 ή 64 bit του Windows 7 και νεότερες εκδόσεις
 
   - Microsoft .NET Framework 4.7
 
@@ -44,7 +44,7 @@ ms.locfileid: "51814588"
 
 - Ο οργανισμός σας μπορεί να συνδεθεί με το τελικό σημείο στο Azure, το οποίο είναι **\* .blob.core.windows.net** (ο χαρακτήρες μπαλαντέρ αντιπροσωπεύει ένα μοναδικό αναγνωριστικό για την εργασία εξαγωγής).
 
-- Σας έχει εκχωρηθεί ο ρόλος "Εξαγωγή" στο Κέντρο συμμόρφωσης ασφαλείας του Microsoft &amp; 365. Από προεπιλογή, αυτός ο ρόλος εκχωρείται μόνο στην ομάδα ρόλων της Διαχείρισης eDiscovery. Ανατρέξτε [στο θέμα Εκχώρηση δικαιωμάτων eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Σας έχει εκχωρηθεί ο ρόλος "Εξαγωγή" στο κέντρο Microsoft 365 &amp; συμμόρφωσης ασφαλείας. Από προεπιλογή, αυτός ο ρόλος εκχωρείται μόνο στην ομάδα ρόλων της Διαχείρισης eDiscovery. Ανατρέξτε [στο θέμα Εκχώρηση δικαιωμάτων eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα "Εξαγωγή αποτελεσμάτων αναζήτησης περιεχομένου".](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

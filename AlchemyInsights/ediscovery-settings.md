@@ -1,5 +1,5 @@
 ---
-title: Ρυθμίσεις ανακάλυψης
+title: Ρυθμίσεις Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101230"
 ---
-# <a name="ediscovery-settings"></a>Ρυθμίσεις ανακάλυψης
+# <a name="ediscovery-settings"></a>Ρυθμίσεις Ediscovery
 
-η ηλεκτρονική ανακάλυψη/αναζητήσεις περιεχομένου σάς επιτρέπουν να πραγματοποιείτε αναζήτηση, διατήρηση και εξαγωγή περιεχομένου από γραμματοκιβώτια του Exchange Online, τοποθεσίες του SharePoint Online και OneDrive για επαγγελματικές τοποθεσίες, συνομιλίες για το Skype για επαγγελματικές συνομιλίες, Microsoft teams και Microsoft 365 groups.
+Οι αναζητήσεις eDiscovery/περιεχομένου σάς επιτρέπουν να κάνετε αναζήτηση, διατήρηση και εξαγωγή περιεχομένου από γραμματοκιβώτια του Exchange Online, τοποθεσίες SharePoint Online και OneDrive για επιχειρήσεις, συνομιλίες Skype για επιχειρήσεις, Microsoft Teams και Microsoft 365 Ομάδες.
 
-- Εάν αναζητάτε τις επιλογές του μενού "ανακάλυψη" ή "Αναζήτηση περιεχομένου", ανατρέξτε στο [θέμα θέματα ανακάλυψης](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Μάθετε περισσότερα σχετικά με τα δικαιώματα που απαιτούνται για την εκτέλεση αναζητήσεων ανακάλυψης από τα [δικαιώματα που απαιτούνται για αναζητήσεις ανακάλυψης](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Εάν η αναζήτησή σας δεν επιστρέφει τα αναμενόμενα αποτελέσματα, ανατρέξτε στο θέμα η [Αναζήτηση δεν επιστρέφει τα αναμενόμενα αποτελέσματα](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Εάν αναζητάτε τις επιλογές μενού eDiscovery ή αναζήτησης περιεχομένου, ανατρέξτε στο θέμα [Θέματα eDiscovery.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Μάθετε σχετικά με τα δικαιώματα που απαιτούνται για την εκτέλεση αναζητήσεων eDiscovery από δικαιώματα που απαιτούνται για [αναζητήσεις eDiscovery.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Εάν η αναζήτησή σας δεν επιστρέφει τα αναμενόμενα αποτελέσματα, ανατρέξτε στο θέμα [Η αναζήτηση δεν επιστρέφει τα αναμενόμενα αποτελέσματα.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Για περισσότερες πληροφορίες σχετικά με την ηλεκτρονική ανακάλυψη, ανατρέξτε στο θέμα [ηλεκτρονική ανακάλυψη](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Για περισσότερες πληροφορίες σχετικά με το ediscovery, ανατρέξτε [στο θέμα Ediscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032270"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Δημιουργία πολιτικής κοινής χρήσης για να επιτρέψετε στους χρήστες σας να κάνουν κοινή χρήση του ημερολογίου τους με άτομα εκτός του οργανισμού σας
 
-1. Από τον πίνακα εργαλείων του Κέντρου διαχείρισης Microsoft 365, μεταβείτε στο **Admin**  >  **Exchange.**
+1. Από τον πίνακα Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην **Exchange.**  >  
 2. Μεταβείτε στην **κοινή χρήση**  >  **του οργανισμού.**
 3. Στην προβολή λίστας, στην περιοχή "Μεμονωμένη **κοινή χρήση",** κάντε κλικ στην επιλογή **"Δημιουργία".**
 4. Στη **νέα πολιτική κοινής χρήσης,** πληκτρολογήστε ένα φιλικό όνομα για την πολιτική κοινής χρήσης στο **πλαίσιο "Όνομα πολιτικής".**
@@ -40,6 +40,6 @@ ms.locfileid: "51816272"
 
 **Για να κατανοήσετε πλήρως αυτό το θέμα, διαβάστε:**
 
-- [Δημιουργία πολιτικής κοινής χρήσης στο Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Εφαρμογή πολιτικής κοινής χρήσης σε γραμματοκιβώτια στο Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Τροποποίηση, απενεργοποίηση ή κατάργηση μιας πολιτικής κοινής χρήσης στο Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Δημιουργία πολιτικής κοινής χρήσης σε Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
+- [Εφαρμογή πολιτικής κοινής χρήσης σε γραμματοκιβώτια σε Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Τροποποίηση, απενεργοποίηση ή κατάργηση μιας πολιτικής κοινής χρήσης σε Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

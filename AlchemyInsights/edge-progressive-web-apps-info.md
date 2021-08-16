@@ -1,5 +1,5 @@
 ---
-title: Μάθετε σχετικά με τις προοδευτικές εφαρμογές Web (PWAs) στο Microsoft Edge (χρώμιο)
+title: Μάθετε περισσότερα σχετικά με τις Προοδευτικές εφαρμογές Web (PWAs) Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101446"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Μάθετε σχετικά με τις προοδευτικές εφαρμογές Web (PWAs) στο Microsoft Edge (χρώμιο)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Μάθετε περισσότερα σχετικά με τις Προοδευτικές εφαρμογές Web (PWAs) Microsoft Edge (Chromium)
 
-PWAs οι τοποθεσίες Web έχουν βελτιωθεί προοδευτικά ώστε να λειτουργούν όπως οι εγγενείς εφαρμογές σε πλατφόρμες που τους υποστηρίζουν. Το PWAs συνδυάζει τις καλύτερες ιδιότητες του Web και των εγγενών εφαρμογών.
+Οι PWAs είναι τοποθεσίες Web που έχουν βελτιωθεί σταδιακά ώστε να λειτουργούν όπως οι εγγενείς εφαρμογές σε πλατφόρμες που τις υποστηρίζουν. Οι PWAs συνδυάζουν τις καλύτερες ιδιότητες των εφαρμογών Web και εγγενών εφαρμογών.
 
-Από την προοπτική μιας πλατφόρμας Web, το [PWAs στο Microsoft Edge (χρώμιο)](https://go.microsoft.com/fwlink/?linkid=2135193) βασίζεται σε πρότυπα. Επιτρέπουν στους χρήστες να εγκαταστήσουν εφαρμογές απευθείας μέσα από το πρόγραμμα περιήγησης και δεν απαιτούν ανάπτυξη ή καταχώρηση με βάση το Microsoft Store. Οι επιτραπέζιοι PWAs υποστηρίζονται σε οποιαδήποτε πλατφόρμα όπου είναι διαθέσιμο το Microsoft Edge (χρώμιο).
+Από την πλευρά μιας πλατφόρμας Web, οι [PWAs Microsoft Edge (Chromium) βασίζονται](https://go.microsoft.com/fwlink/?linkid=2135193) σε πρότυπα. Επιτρέπουν στους χρήστες να εγκαθιστούν εφαρμογές απευθείας από το πρόγραμμα περιήγησης και δεν απαιτούν Microsoft Store ανάπτυξη ή καταχώρηση βάσει περιεχομένου. Οι PWAs υπολογιστή υποστηρίζονται σε οποιαδήποτε πλατφόρμα όπου Microsoft Edge (Chromium) είναι διαθέσιμη.
