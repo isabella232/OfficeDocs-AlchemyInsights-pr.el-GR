@@ -1,5 +1,5 @@
 ---
-title: Το Outlook.com δεν μπορεί να αποσυνδεθεί
+title: Outlook.com δεν μπορεί να αποσυνδεθεί
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984641"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Δεν είναι δυνατή η έξοδος από το Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Δεν είναι δυνατή η αποσυνδεθείτε από Outlook.com
 
-Για να αποσυνδεθείτε από το Outlook.com **, επιλέξτε το**όνομα ή την εικόνα σας στην επάνω δεξιά γωνία της οθόνης και, στη συνέχεια, επιλέξτε Έξοδος.
+Για να αποσυνδεθείτε από το Outlook.com, επιλέξτε το όνομα ή την εικόνα σας στην επάνω δεξιά γωνία της οθόνης και, στη συνέχεια, επιλέξτε **"Αποσυνδεθείτε".**
 
-Εάν δεν βλέπετε την εικόνα σας στο επάνω μέρος της οθόνης, επιλέξτε για να δείτε αν είναι ενεργοποιημένος ο αποκλεισμός διαφημίσεων. Μερικές φορές αυτό εμποδίζει την εμφάνιση της εικόνας.
+Εάν δεν βλέπετε την εικόνα σας στο επάνω μέρος της οθόνης, ελέγξτε εάν ο αποκλεισμός διαφημίσεων είναι ενεργοποιημένος. Μερικές φορές αυτό εμποδίζει την εμφάνιση της εικόνας.
 
-Εάν εξακολουθείτε να μην μπορείτε να αποσυνδεθείτε από το Outlook.com, κάντε κλικ στην επιλογή  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Κλείσιμο όλων των παραθύρων του προγράμματος περιήγησης.
+Εάν εξακολουθείτε να μην μπορείτε να αποσυνδεθείτε από το Outlook.com, κάντε κλικ και, στη συνέχεια, κλείστε [https://login.live.com/logout.srf](https://login.live.com/logout.srf) όλα τα παράθυρα του προγράμματος περιήγησης.

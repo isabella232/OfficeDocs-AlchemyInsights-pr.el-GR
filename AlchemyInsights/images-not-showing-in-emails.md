@@ -1,5 +1,5 @@
 ---
-title: Εικόνες που δεν εμφανίζονται στα μηνύματα ηλεκτρονικού ταχυδρομείου
+title: Εικόνες που δεν εμφανίζονται σε μηνύματα ηλεκτρονικού ταχυδρομείου
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987503"
 ---
-# <a name="images-not-showing-in-emails"></a>Εικόνες που δεν εμφανίζονται στα μηνύματα ηλεκτρονικού ταχυδρομείου
+# <a name="images-not-showing-in-emails"></a>Εικόνες που δεν εμφανίζονται σε μηνύματα ηλεκτρονικού ταχυδρομείου
 
-Γνωρίζουμε ένα πρόβλημα όπου ορισμένοι πελάτες δεν μπορούν να δουν εικόνες ή εικόνες στα μηνύματα ηλεκτρονικού ταχυδρομείου τους. Ζητούμε συγγνώμη για την αναστάτωση.
+Γνωρίζουμε ένα πρόβλημα κατά το οποίο ορισμένοι πελάτες δεν μπορούν να δουν εικόνες ή εικόνες στα μηνύματα ηλεκτρονικού ταχυδρομείου τους. Ζητούμε συγγνώμη για την αναστάτωση.
