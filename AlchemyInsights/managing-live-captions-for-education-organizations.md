@@ -1,5 +1,5 @@
 ---
-title: Διαχείριση ζωντανών λεζάντων για εκπαιδευτικούς οργανισμούς
+title: Διαχείριση ζωντανών λεζαντών για οργανισμούς εκπαίδευσης
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066694"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Διαχείριση ζωντανών λεζάντων για εκπαιδευτικούς οργανισμούς
+# <a name="managing-live-captions-for-education-organizations"></a>Διαχείριση ζωντανών λεζαντών για οργανισμούς εκπαίδευσης
 
-Συνιστούμε ότι οι διαχειριστές εκπαιδευτικών οργανισμών εξετάζουν τη χρήση πακέτων πολιτικής για την ασφάλεια και τους εκπαιδευτικούς των σπουδαστών και παιδαγωγών. Για περισσότερες πληροφορίες, ανατρέξτε στα παρακάτω θέματα:  
+Συνιστάται στους διαχειριστές των εκπαιδευτικών οργανισμών να εξετάσουν το ενδεχόμενο χρήσης πακέτων πολιτικής για την ασφάλεια των σπουδαστών και των εκπαιδευτικών και τους εκπαιδευτικούς. Για περισσότερες πληροφορίες, ανατρέξτε στα παρακάτω θέματα:  
 
-- [Πακέτα πολιτικής στο Microsoft teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Πακέτα πολιτικής στο Microsoft Teams.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
     
-- [Πολιτικές που θα πρέπει να εκχωρηθούν για την ασφάλεια των φοιτητών](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Πολιτικές που πρέπει να αντιστοιχιστεί για την ασφάλεια των σπουδαστών.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Πολιτικές που θα πρέπει να εκχωρηθούν για εκπαιδευτικούς](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Πολιτικές που πρέπει να ανατεθεί για εκπαιδευτικούς.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Εάν θέλετε να διαχειριστείτε μόνο τη δυνατότητα να ενεργοποιείτε ζωντανές λεζάντες, ανατρέξτε στο θέμα [Ενεργοποίηση δυναμικών λεζάντων](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Διαχείριση πολιτικών συσκέψεων στο teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Εάν θέλετε να διαχειριστείτε μόνο τη δυνατότητα ενεργοποίησης ζωντανών λεζαντών, ανατρέξτε στο θέμα [Ενεργοποίηση ζωντανών λεζαντών.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Διαχείριση πολιτικών σύσκεψης Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048804"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Θα ήθελα να εγγραφείτε στο Teams δωρεάν
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Θα ήθελα να εγγραφείτε για Teams δωρεάν
 
-Το Teams διατίθεται δωρεάν μέσω δύο διαφορετικών προγραμμάτων. Εφόσον επικοινωνείτε με την υποστήριξη για αυτό το αίτημα, έχετε ήδη έναν υπάρχοντα μισθωτή του Microsoft 365, γεγονός που σημαίνει ότι έχετε ήδη το Microsoft Teams.
+Teams διατίθεται δωρεάν μέσω δύο διαφορετικών προγραμμάτων. Εφόσον επικοινωνείτε με την υποστήριξη με αυτό το αίτημα, έχετε ήδη έναν υπάρχοντα Microsoft 365, το οποίο σημαίνει ότι έχετε ήδη Microsoft Teams.
 
-Στις περισσότερες περιπτώσεις, το Teams είναι ενεργοποιημένο από προεπιλογή για όλους τους χρήστες σας. Αφού ενεργοποιηθεί, οι χρήστες σας μπορούν να εκτελέσουν [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)το Teams, είτε εγκαθιστώντας προγράμματα-πελάτες επιτραπέζιου υπολογιστή και κινητής συσκευής είτε από το   πρόγραμμα [περιήγησης](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)στο Microsoft [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)    [Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
+Στις περισσότερες περιπτώσεις, Teams είναι ενεργοποιημένη από προεπιλογή για όλους τους χρήστες σας. Όταν ενεργοποιηθεί, οι χρήστες σας μπορούν να εκτελέσουν τις [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)Teams, είτε εγκαθιστώντας προγράμματα-πελάτες για υπολογιστές και κινητές συσκευές είτε από το πρόγραμμα    [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)   περιήγησης [στο Microsoft Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-Εξαίρεση σε αυτό είναι το Microsoft Teams για εκπαιδευτικά ιδρύματα (EDU). Εάν έχετε μια άδεια χρήσης EDU, πρέπει να ενεργοποιήσετε το Microsoft Teams με μη αυτόματο τρόπο. Για να το κάνετε αυτό, μεταβείτε στο Κέντρο διαχείρισης Microsoft 365> Υπηρεσίες και πρόσθετα **για το > Microsoft Teams.** Εάν χρησιμοποιείτε το νέο κέντρο διαχείρισης του Teams, θα **** πρέπει να απενεργοποιήσετε την επιλογή "Δοκιμή του νέου κέντρου διαχείρισης", για να βρείτε υπηρεσίες   και **πρόσθετα.** ΣΗΜΑΝΤΙΚΟ: Ίσως χρειαστεί να περιμένετε έως και 24 ώρες για να εφαρμοστούν οι αλλαγές σας.
+Η εξαίρεση σε αυτό είναι Microsoft Teams για εκπαιδευτικά ιδρύματα (EDU). Εάν έχετε μια άδεια χρήσης EDU, πρέπει να ενεργοποιήσετε το Microsoft Teams με μη αυτόματο τρόπο. Για να το κάνετε αυτό, μεταβείτε στην Κέντρο διαχείρισης Microsoft 365 **> υπηρεσιών και των > Microsoft Teams.** Εάν χρησιμοποιείτε το νέο κέντρο διαχείρισης Teams, θα πρέπει να **** απενεργοποιήσετε την επιλογή "Δοκιμή του νέου κέντρου διαχείρισης" για να βρείτε υπηρεσίες   και **πρόσθετα.** ΣΗΜΑΝΤΙΚΟ: Ίσως χρειαστεί να περιμένετε έως και 24 ώρες για να εφαρμοστούν οι αλλαγές σας.
 
-Μην χάσετε όλες τις οδηγίες μας για την [υποστήριξη απομακρυσμένων εργαζομένων με το Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
+Μην χάσετε όλες τις οδηγίες μας για την [υποστήριξη απομακρυσμένων εργαζομένων με Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)

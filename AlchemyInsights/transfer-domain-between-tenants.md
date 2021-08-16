@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048624"
 ---
 # <a name="transfer-domain-between-tenants"></a>Μεταφορά τομέα μεταξύ μισθωτών
 
-Ένας προσαρμοσμένος τομέας, όπως το forthcoffee.com, μπορεί να καταργηθεί με μη αυτόματο τρόπο από έναν μισθωτή και, στη συνέχεια, να επαληθευτεί σε έναν νέο μισθωτή.
+Ένας προσαρμοσμένος τομέας, όπως forthcoffee.com μπορεί να καταργηθεί με μη αυτόματο τρόπο από έναν μισθωτή και, στη συνέχεια, να επαληθευτεί σε έναν νέο μισθωτή.
 
-Ακολουθήστε τα παρακάτω βήματα για να [καταργήσετε έναν τομέα](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Στη συνέχεια, στο νέο μισθωτή, μεταβείτε στις **Ρυθμίσεις**  >  **τομείς**  >  **Προσθήκη τομέα**.
+Ακολουθήστε αυτά τα βήματα για να [καταργήσετε έναν τομέα.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Στη συνέχεια, στον νέο μισθωτή, μεταβείτε **Ρυθμίσεις**  >  **τομέα**  >  **"Προσθήκη τομέων".**
 
-Για πιο σύνθετα σενάρια, ανατρέξτε [στο θέμα μετεγκαταστάσεις μισθωτών-προς-μισθωτών της Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Για πιο σύνθετα σενάρια, [ανατρέξτε Microsoft 365 μετεγκατάστασης](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)από μισθωτή σε μισθωτή.
 
-**Επίσης, σημειώστε**:
-- Ο αρχικός τομέας onmicrosoft.com δεν μπορεί να διαγραφεί ή να μετακινηθεί μεταξύ των μισθωτών.
-- Ένας προσαρμοσμένος τομέας που αγοράστηκε από τη Microsoft δεν μπορεί να μετακινηθεί μεταξύ των μισθωτών.
+**Σημειώστε επίσης:**
+- Η αρχική onmicrosoft.com τομέα δεν είναι δυνατό να διαγραφεί ή να μετακινηθεί μεταξύ μισθωτών.
+- Ένας προσαρμοσμένος τομέας που αγοράστηκε από τη Microsoft δεν μπορεί να μετακινηθεί μεταξύ μισθωτών.

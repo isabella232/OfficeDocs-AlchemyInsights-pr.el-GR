@@ -1,5 +1,5 @@
 ---
-title: Περισσότερες πληροφορίες σχετικά με τα θέματα DLP
+title: Περισσότερες πληροφορίες σχετικά με προβλήματα DLP
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030830"
 ---
-# <a name="information-about-dlp-issues"></a>Πληροφορίες σχετικά με τα θέματα DLP
+# <a name="information-about-dlp-issues"></a>Πληροφορίες σχετικά με ζητήματα DLP
 
 **Σημαντικό**: Σε αυτή την πρωτοφανή χρονική στιγμή, θα πρέπει να διασφαλίσουμε ότι οι υπηρεσίες του SharePoint Online και του OneDrive θα παραμείνουν διαθέσιμες στον μέγιστο βαθμό. Επισκεφτείτε το θέμα [Προσωρινές ρυθμίσεις δυνατοτήτων του SharePoint Online](https://aka.ms/ODSPAdjustments) για περισσότερες πληροφορίες.
 
 **Πληροφορίες σχετικά με την πολιτική DLP**
 
-Με μια πολιτική DLP, μπορείτε να αναγνωρίζετε, να εποπτεύετε και να προστατεύετε αυτόματα τις ευαίσθητες πληροφορίες σε όλο το Microsoft 365.
+Με μια πολιτική DLP, μπορείτε να αναγνωρίζετε, να παρακολουθείτε και να προστατεύετε αυτόματα ευαίσθητες πληροφορίες σε Microsoft 365.
 
-Παρακαλούμε επισκεφθείτε αυτές τις συνδέσεις για περισσότερες πληροφορίες:
+Επισκεφθείτε αυτές τις συνδέσεις για περισσότερες πληροφορίες:
 
 - [Επισκόπηση της αποτροπής απώλειας δεδομένων](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Τι αναζητούν οι τύποι ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Τι θα αναζητήσουν οι τύποι ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 - [Δημιουργία προσαρμοσμένου τύπου ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 - [Αποστολή ειδοποιήσεων ηλεκτρονικού ταχυδρομείου και εμφάνιση συμβουλών πολιτικής](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Προστασία αρχείων του SharePoint Online με ετικέτες διατήρησης και τεχνολογία DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [Τεχνολογία DLP και Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [Προστασία SharePoint online αρχείων με ετικέτες διατήρησης και DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP και Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Για να ελέγξετε τα δεδομένα σας με έναν ενσωματωμένο ή προσαρμοσμένο ευαίσθητο τύπο πληροφοριών, χρησιμοποιήστε την επιλογή **Έλεγχος τύπου** στην περιοχή **ταξινομήσεις**  >  **ευαίσθητων τύπων**πληροφοριών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [δοκιμή τύπων προσαρμοσμένων ευαίσθητων πληροφοριών](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Για να ελέγξετε τα δεδομένα σας με έναν ενσωματωμένο ή προσαρμοσμένο τύπο ευαίσθητων πληροφοριών, χρησιμοποιήστε την επιλογή **"Τύπος δοκιμής"** στην περιοχή **"Ταξινομήσεις**  >  **ευαίσθητων τύπων πληροφοριών".** Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Δοκιμή προσαρμοσμένων ευαίσθητων τύπων πληροφοριών.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

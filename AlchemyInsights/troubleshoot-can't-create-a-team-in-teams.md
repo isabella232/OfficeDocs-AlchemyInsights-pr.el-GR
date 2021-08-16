@@ -1,5 +1,5 @@
 ---
-title: Τι πρέπει να κάνετε εάν δεν μπορείτε να δημιουργήσετε μια ομάδα στο Microsoft teams
+title: Τι πρέπει να κάνετε εάν δεν μπορείτε να δημιουργήσετε μια ομάδα στο Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: 287416aac9034104272b4ddb453be04b2488f2f7
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: 439f00147f7d643fbb77fc4107c3664a4f4e0d6a58d31d2a5a33599fab16185f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048588"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Τι πρέπει να κάνετε εάν δεν μπορείτε να δημιουργήσετε μια ομάδα στο Microsoft teams
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Τι πρέπει να κάνετε εάν δεν μπορείτε να δημιουργήσετε μια ομάδα στο Microsoft Teams
 
-Ζητήστε από το διαχειριστή των ομάδων σας να κάνει τα εξής:
+Ζητήστε από Teams διαχειριστή σας να κάνει τα εξής:
 
-1. Δημιουργήστε ή αλλάξτε τις ρυθμίσεις της ομάδας ασφαλείας του οργανισμού στο Microsoft 365.
+1. Δημιουργήστε ή αλλάξτε τις ρυθμίσεις ομάδας ασφαλείας του οργανισμού στο Microsoft 365.
 2. Προσθέστε εσάς σε αυτήν την ομάδα ασφαλείας.

@@ -1,5 +1,5 @@
 ---
-title: Λήψη και εγκατάσταση του Office
+title: Λήψη και εγκατάσταση Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004813"
 ---
-# <a name="download-and-install-office"></a>Λήψη και εγκατάσταση του Office
+# <a name="download-and-install-office"></a>Λήψη και εγκατάσταση Office
 
-Η **συνδρομή σας στο Business Essentials** δεν περιλαμβάνει τις εφαρμογές του Microsoft 365. Για να λάβετε το Office, θα πρέπει να κάνετε αναβάθμιση στη συνδρομή **Business** ή **Business Premium.** Δείτε τις διαθέσιμες συνδρομές με το Office εδώ: [Microsoft 365 για Επιχειρήσεις](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Η **συνδρομή σας στο Business Essentials** δεν περιλαμβάνει τις Microsoft 365 σας. Για να λάβετε Office, θα πρέπει να κάνετε αναβάθμιση στη συνδρομή **business** ή **business Premium** σας. Δείτε τις διαθέσιμες συνδρομές με Office εδώ: [Microsoft 365 για επιχειρήσεις](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 
