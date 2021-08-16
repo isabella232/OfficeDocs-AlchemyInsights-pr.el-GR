@@ -1,5 +1,5 @@
 ---
-title: Επαναφορά συσκευής
+title: Επαναφορά εγγραφής συσκευής
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101950"
 ---
-# <a name="device-writeback"></a>Επαναφορά συσκευής
+# <a name="device-writeback"></a>Επαναφορά εγγραφής συσκευής
 
-Η Writeback συσκευής χρησιμοποιείται στα ακόλουθα σενάρια:
+Η εγγραφή συσκευής χρησιμοποιείται στα ακόλουθα σενάρια:
 
-- Ενεργοποίηση του [Windows Hello για επιχειρήσεις με χρήση ανάπτυξης υβριδικής αξιοπιστίας πιστοποιητικών](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Ενεργοποίηση της πρόσβασης υπό όρους με βάση συσκευές σε προστατευμένες εφαρμογές ADFS (2012 R2 ή ανώτερες) (που βασίζονται σε αξιόπιστες ομάδες)
+- Ενεργοποίηση [Windows Hello για επιχειρήσεις με χρήση υβριδικής ανάπτυξης αξιοπιστίας πιστοποιητικών](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Ενεργοποίηση πρόσβασης υπό όρους με βάση συσκευές σε προστατευμένες εφαρμογές ADFS (2012 R2 ή μεγαλύτερες) (που βασίζονται σε αξιόπιστες ομάδες)
 
     > [!NOTE]
-    > Απαιτείται συνδρομή στο Azure AD Premium για την επαναφορά της συσκευής.
+    > Μια συνδρομή σε Azure AD Premium απαιτείται για την επιστροφή της εγγραφής συσκευής.
 
-Αυτό παρέχει πρόσθετη ασφάλεια και διασφάλιση ότι η πρόσβαση σε εφαρμογές παρέχεται μόνο σε αξιόπιστες συσκευές. Για περισσότερες πληροφορίες σχετικά [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) με την πρόσβαση υπό όρους, ανατρέξτε στο θέμα "Διαχείριση κινδύνου με πρόσβαση υπό όρους" και ρύθμιση της πρόσβασης υπό όρους εσωτερικής εγκατάστασης με χρήση της καταχώρησης [συσκευών του Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Αυτό παρέχει πρόσθετη ασφάλεια και διασφάλιση ότι η πρόσβαση σε εφαρμογές παρέχεται μόνο σε αξιόπιστες συσκευές. Για περισσότερες πληροφορίες σχετικά [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) με την πρόσβαση υπό όρους, ανατρέξτε στο θέμα Διαχείριση κινδύνου με πρόσβαση υπό όρους και ρύθμιση της πρόσβασης υπό όρους εσωτερικής [εγκατάστασης χρησιμοποιώντας Azure Active Directory καταχώρηση συσκευής.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Για περισσότερες πληροφορίες σχετικά με την ενεργοποίηση της Writeback συσκευής για συσκευές, ανατρέξτε στο θέμα ["Ενεργοποίηση writeback συσκευής".](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
+Για περισσότερες πληροφορίες σχετικά με την ενεργοποίηση της δυνατότητας "Επαναφορά εγγραφής συσκευής" για συσκευές, ανατρέξτε στο θέμα ["Ενεργοποίηση εγγραφής συσκευής".](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)

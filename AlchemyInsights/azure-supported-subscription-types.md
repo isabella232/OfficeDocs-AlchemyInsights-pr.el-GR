@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f11eabdc18f708e34a6a10c67bc3e7416330cbf34aec20209b42252ffa0ab018
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072160"
 ---
 # <a name="supported-subscription-types"></a>Υποστηριζόμενοι τύποι συνδρομών
 
@@ -41,17 +41,17 @@ ms.locfileid: "51820682"
 Η δυνατότητα "Μεταφορά κυριότητας συνδρομής" προαπαιτούμενη πρόσβαση βάσει ρόλων (RBAC) για τη διαχείριση πόρων στη συνδρομή χάνει την πρόσβασή τους. Για περισσότερες πληροφορίες σχετικά με την προσθήκη μιας υπάρχουσας συνδρομής σε ένα μισθωτή, ανατρέξτε στο θέμα Συσχέτιση [ή προσθήκη συνδρομής Azure στο Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 - Η Μεταφορά συνδρομής με ένα υπάρχον ανεξόφλητο ποσό από τον τρέχοντα κύκλο χρέωσης δεν θα μεταφερθεί στο νέο μέσο πληρωμής του νέου λογαριασμού. Οι μόνες πληροφορίες που είναι διαθέσιμες στους χρήστες του νέου λογαριασμού είναι το κόστος του τελευταίου μήνα για τη συνδρομή σας. Το υπόλοιπο του ιστορικού χρήσης και χρέωσης δεν μεταφέρεται με τη συνδρομή.
-- Η μεταβίβαση της κυριότητας χρεώσεων των συνδρομών εταιρικών συμφώνων (EA) υποστηρίζεται προς το παρόν μόνο στην Πύλη εταιρικών συμφώνων
-- Η μεταφορά μιας συνδρομής με πιστωτικό προσανατολισμό, όπως το Visual Studio, το BizSpark, το Δίκτυο συνεργατών της Microsoft σε έναν νέο χρήστη, απαιτεί να έχετε μια άδεια χρήσης δικτύου συνεργατών του Visual Studio/Microsoft για να αποδεχτείτε την αίτηση μεταφοράς
+- Η μεταβίβαση της κυριότητας Σύμβαση Enterprise συνδρομών (EA) υποστηρίζεται προς το παρόν μόνο στην Σύμβαση Enterprise πύλης
+- Η μεταφορά μιας συνδρομής με πιστωτικό προσανατολισμό, όπως Visual Studio, BizSpark, Δίκτυο συνεργατών της Microsoft σε έναν νέο χρήστη απαιτεί να έχετε μια άδεια χρήσης δικτύου συνεργατών της Visual Studio/Microsoft για να αποδεχτείτε την αίτηση μεταφοράς
 - Όλοι οι πόροι, όπως οι εικονικές μηχανές, οι δίσκοι και οι τοποθεσίες Web, μεταβιβάστε στον νέο λογαριασμό με επιτυχία. Οι ακόλουθοι πόροι μπορεί να επηρεαστούν σε μια μεταφορά συνδρομής μεταξύ μισθωτών:
 
 **Υπηρεσίες τομέα Azure AD**
 
 Θησαυροφυλάκια πλήκτρων Azure
 
-- [Οι χρήστες και οι βάσεις δεδομένων που](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) σχετίζονται με SQL θα μπορούσαν να επηρεάσουν, ειδικά εάν ο πελάτης χρησιμοποιεί έναν σχετικό έλεγχο ταυτότητας του Azure Active Directory
-- **Οι υπηρεσίες εφαρμογών** που έχουν ρυθμιστεί με έλεγχο ταυτότητας του Azure Active Directory μπορεί να επηρεάσουν
-- **Ομάδα του Visual Studio** Οι λογαριασμοί υπηρεσιών που είναι συνδεδεμένοι σε συνδρομές Azure ενδέχεται να χάσουν προσωρινά την πρόσβαση όταν ακυρωθεί η συνδεδεμένη συνδρομή Azure
+- [SQL σχετικών χρηστών και βάσεων δεδομένων](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) θα μπορούσε να επηρεάσει, ειδικά εάν ο πελάτης χρησιμοποιεί έναν Azure Active Directory έλεγχο ταυτότητας
+- **Οι υπηρεσίες εφαρμογών** που έχουν ρυθμιστεί με Azure Active Directory ελέγχου ταυτότητας μπορεί να επηρεάσουν
+- **Visual Studio ομάδας** Οι λογαριασμοί υπηρεσιών που είναι συνδεδεμένοι σε συνδρομές Azure ενδέχεται να χάσουν προσωρινά την πρόσβαση όταν ακυρωθεί η συνδεδεμένη συνδρομή Azure
 
 **Προτεινόμενα έγγραφα**
 
@@ -59,6 +59,6 @@ ms.locfileid: "51820682"
 
 - Για να διατηρήσετε την κατοχή χρεώσεων, αλλά να αλλάξετε τον τύπο της συνδρομής σας, ανατρέξτε στο εξής: [Αλλαγή της συνδρομής Azure σε άλλη προσφορά](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Μεταβίβαση των συνδρομών Visual Studio, του Δικτύου συνεργατών της Microsoft (MPN) και της "Ανάπτυξης/δοκιμής με πληρωμή ανάλογα με τη χρήση"](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Μεταβίβαση κυριότητας χρεώσεων για συνδρομές εταιρικών συμφώνων (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [Μεταβίβαση κυριότητας χρεώσεων Σύμβαση Enterprise συνδρομών (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
 - [Συνήθεις ερωτήσεις για τη Μεταβίβαση κυριότητας](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
 - [Αντιμετώπιση προβλημάτων μεταβίβασης κυριότητας](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

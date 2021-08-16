@@ -1,5 +1,5 @@
 ---
-title: Προσδιορίστε γιατί ένα αρχείο του Microsoft Word δεν ανοίγει σε μια κινητή συσκευή
+title: Προσδιορίστε γιατί ένα Microsoft Word δεν ανοίγει σε κινητή συσκευή
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003959"
 - "7015"
-ms.openlocfilehash: 5113a847fea0b839d78b25eaec481e4d5a7fc713
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 356816ce8b6197023742e33280d7cf883f79492d071935c3024ea0d136e2b790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102022"
 ---
-# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>Προσδιορίστε γιατί ένα αρχείο του Microsoft Word δεν ανοίγει σε μια κινητή συσκευή
+# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>Προσδιορίστε γιατί ένα Microsoft Word δεν ανοίγει σε κινητή συσκευή
 
-Είναι πιθανό ότι το Microsoft Word δεν υποστηρίζει αυτήν τη μορφή αρχείου στη συσκευή σας. Για λεπτομέρειες, ανατρέξτε [στο θέμα Γιατί δεν μπορώ να ανοίξω το αρχείο μου στο Word σε μια κινητή συσκευή;](https://go.microsoft.com/fwlink/?linkid=2135663)
+Είναι πιθανό ότι Microsoft Word υποστηρίζει αυτήν τη μορφή αρχείου στη συσκευή σας. Για λεπτομέρειες, [ανατρέξτε στο θέμα Γιατί δεν μπορώ να ανοίξω το αρχείο μου στο Word σε κινητή συσκευή;](https://go.microsoft.com/fwlink/?linkid=2135663)
