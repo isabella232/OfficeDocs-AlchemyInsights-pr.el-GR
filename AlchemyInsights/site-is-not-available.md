@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69d039e67a29dd11c1f9a3a8388420836808c447b4670768abd3dae36d80f8a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022100"
 ---
 # <a name="site-is-not-available"></a>Η τοποθεσία δεν είναι διαθέσιμη
 
-Εάν η τοποθεσία σας στο SharePoint ή στο OneDrive δεν είναι διαθέσιμη για πολλούς χρήστες, μπορεί να υπάρχει κάποιο πρόβλημα προσωρινής υπηρεσίας. Επιλέξτε τον [πίνακα εργαλείων εύρυθμης λειτουργίας υπηρεσίας](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) για να δείτε εάν ο μισθωτής σας έχει αντίκτυπο. 
+Εάν η SharePoint ή OneDrive σας δεν είναι διαθέσιμη σε πολλούς χρήστες, ενδέχεται να υπάρχει ένα προσωρινό πρόβλημα υπηρεσίας. Ελέγξτε τον [πίνακα εργαλείων "Υγεία υπηρεσιών"](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) για να δείτε εάν ο μισθωτής σας έχει επιπτώσεις. 
   
 
