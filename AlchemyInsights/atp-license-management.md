@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender για Office 365 διαχείρισης αδειών χρήσης
+title: Διαχείριση αδειών χρήσης Office 365 Microsoft Defender
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,20 +15,20 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 515263d56b147f0f0e0f47b779394f5bec50df89ab1ea93fc1042384270a2ba3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313888"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894595"
 ---
-# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender για Office 365 διαχείρισης αδειών χρήσης
+# <a name="microsoft-defender-for-office-365-license-management"></a>Διαχείριση αδειών χρήσης Office 365 Microsoft Defender
 
 Ο Microsoft Defender Office 365 διαχείρισης αδειών χρήσης μπορεί να ολοκληρωθεί στο Κέντρο διαχείρισης Microsoft 365.
 
 - Για να αγοράσετε τον Microsoft Defender για Office 365:
     1. Μεταβείτε στις **υπηρεσίες**  >  [αγορών χρέωσης.](https://go.microsoft.com/fwlink/p/?linkid=868433)
     2. Στο κάτω μέρος της σελίδας, **επιλέξτε "Πρόσθετα".**
-    3. Στη σελίδα **"Αγορά υπηρεσιών",** επιλέξτε το πρόγραμμα microsoft Defender για Office 365 που θέλετε να αγοράσετε, εισαγάγετε τον αριθμό των χρηστών που χρειάζονται μια άδεια χρήσης και, στη συνέχεια, επιλέξτε **"Check out now".** Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα "Αγορά προσθέτου".](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+    3. Στη σελίδα **"Αγορά υπηρεσιών",** επιλέξτε το πρόγραμμα Microsoft Defender για Office 365 που θέλετε να αγοράσετε, εισαγάγετε τον αριθμό των χρηστών που χρειάζονται μια άδεια χρήσης και, στη συνέχεια, επιλέξτε **"Check out now".** Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα "Αγορά προσθέτου".](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
 - Για να εκχωρήσετε στον Microsoft Defender Office 365 άδειες χρήσης, μεταβείτε στην ενότητα **Άδειες**  >  **χρήσης χρέωσης.** Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Εκχώρηση αδειών χρήσης σε χρήστες.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
-- Για να προσθέσετε ή να καταργήσετε άδειες χρήσης από το Microsoft Defender για Office 365, μεταβείτε στην ενότητα **"Χρέωση**  >  **των προϊόντων σας".** Επιλέξτε τη συνδρομή που θέλετε να ενημερώσετε και, στη συνέχεια, επιλέξτε **"Αγορά αδειών χρήσης"** ή **"Κατάργηση αδειών χρήσης".** Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης συνδρομής.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- Για να προσθέσετε ή να καταργήσετε άδειες χρήσης από το Microsoft Defender για Office 365, μεταβείτε στην ενότητα **Χρέωση των**  >  **προϊόντων σας.** Επιλέξτε τη συνδρομή που θέλετε να ενημερώσετε και, στη συνέχεια, επιλέξτε **"Αγορά αδειών χρήσης"** ή **"Κατάργηση αδειών χρήσης".** Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης συνδρομής.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
