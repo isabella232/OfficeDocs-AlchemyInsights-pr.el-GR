@@ -1,5 +1,5 @@
 ---
-title: Αποστολή αρχείων στο OneDrive ή στο SharePoint
+title: Αποστολή αρχείων σε OneDrive ή SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90767dbcbac08f109b33bfed474cf53829f1e553e5973477796b951acf5c8d28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073276"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Αποστολή αρχείων στο OneDrive ή στο SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Αποστολή αρχείων σε OneDrive ή SharePoint
 
-1. Στο πρόγραμμα περιήγησής σας στο Web, μεταβείτε στη θέση όπου θέλετε να αποστείλετε αρχεία.
+1. Στο πρόγραμμα περιήγησης Web, μεταβείτε στη θέση όπου θέλετε να αποστείλετε αρχεία.
     
-2. Ανοίξτε την Εξερεύνηση αρχείων και αναζητήστε τα αρχεία που θέλετε να αποστείλετε.
+2. Ανοίξτε την Εξερεύνηση αρχείων και μεταβείτε στα αρχεία που θέλετε να αποστείλετε.
     
-3. Επιλέξτε τα αρχεία και σύρετέ τα στη θέση τους στο OneDrive ή στο SharePoint. Σημείωση: Εάν χρησιμοποιείτε το Microsoft Edge, το Mozilla FireFox ή το Google Chrome, μπορείτε επίσης να αποστείλετε ένα φάκελο και όλα τα αρχεία του.
+3. Επιλέξτε τα αρχεία και σύρετέ τα στη θέση OneDrive ή SharePoint. Σημείωση: Εάν χρησιμοποιείτε το Microsoft Edge, το Mozilla FireFox ή το Google Chrome, μπορείτε επίσης να αποστείλετε ένα φάκελο και όλα τα αρχεία σε αυτόν.
     
-**Σημειώσεις**
-- Μπορείτε να αποστείλετε αρχεία μεγέθους έως και 15 GB. 
+**Σημειώσεις:**
+- Μπορείτε να αποστείλετε αρχεία με μέγεθος έως 15 GB. 
 - Η πλήρης διαδρομή για ένα αρχείο (συμπεριλαμβανομένου του ονόματος αρχείου) δεν μπορεί να έχει μήκος μεγαλύτερο από 400 χαρακτήρες. 
-- Εάν θέλετε να αποστείλετε περισσότερα από 100 αρχεία, [Χρησιμοποιήστε το πρόγραμμα-πελάτη συγχρονισμού του OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Εάν θέλετε να αποστείλετε περισσότερα από 100 αρχεία, χρησιμοποιήστε [το συγχρονισμός του OneDrive πελάτη.](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 
