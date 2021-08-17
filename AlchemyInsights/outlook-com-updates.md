@@ -1,5 +1,5 @@
 ---
-title: Ενημερώσεις του Outlook.com
+title: Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053502"
 ---
-# <a name="outlookcom-updates"></a>Ενημερώσεις του Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com
 
 **Πιο πρόσφατες ενημερώσεις**
 
-- Αποκτήστε περισσότερα από το ηλεκτρονικό ταχυδρομείο σας με το νέο Outlook.com. Βελτιώσαμε την αναζήτηση για να διευκολύνουμε περισσότερο από ποτέ την εύρεση αυτού που αναζητάτε. Οι νέες δυνατότητες, όπως οι φωτογραφίες και οι προεπισκοπήσεις συνημμένων, σας επιτρέπουν να βλέπετε τις εικόνες και τα αρχεία σας χωρίς να εγκαταλείπετε τα Εισερχόμενά σας. Και τώρα μπορείτε να προσθέσετε emoji και εικόνες GIF στα μηνύματά σας.  [Μάθετε περισσότερα σχετικά με το νέο Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Αποκτήστε περισσότερες πληροφορίες από το ηλεκτρονικό ταχυδρομείο σας με το νέο Outlook.com. Έχουμε βελτιστοποιήσει την αναζήτηση για να διευκολύνουμε από ποτέ να βρείτε αυτό που αναζητάτε. Οι νέες δυνατότητες, όπως οι Φωτογραφίες και οι προεπισκοπήσεις συνημμένων, σας επιτρέψουν να βλέπετε τις εικόνες και τα αρχεία σας χωρίς να φεύγετε από τα Εισερχόμενά σας. Και τώρα μπορείτε να προσθέσετε emoji και GIF στα μηνύματά σας. [Μάθετε περισσότερα σχετικά με τη νέα Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **Ενημερώσεις ηλεκτρονικού ταχυδρομείου**
 
-- Εάν το γραμματοκιβώτιό σας στο Outlook.com δεν ενημερώνεται, ανατρέξτε στο [θέμα Επιδιόρθωση ζητημάτων συγχρονισμού ηλεκτρονικού ταχυδρομείου του Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Εάν το γραμματοκιβώτιο Outlook.com δεν ενημερώνεται, ανατρέξτε στο θέμα [Επιδιόρθωση προβλημάτων συγχρονισμού ηλεκτρονικού ταχυδρομείου Outlook.com.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

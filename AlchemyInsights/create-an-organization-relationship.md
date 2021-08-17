@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080350"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Δημιουργία μιας σχέσης οργανισμού για να επιτρέψετε στους χρήστες σας να συνεργάζονται με άλλον οργανισμό
 
-1. Από τον πίνακα εργαλείων του Κέντρου διαχείρισης Microsoft 365, μεταβείτε στο **Admin**  >  **Exchange.**
+1. Από τον πίνακα Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην **Exchange.**  >  
 2. Μεταβείτε στην **κοινή χρήση**  >  **του οργανισμού.**
 3. Στην περιοχή **"Κοινή χρήση οργανισμού",** κάντε κλικ στην **επιλογή "Δημιουργία".**
 4. Στη **νέα σχέση οργανισμού,** στο πλαίσιο **"Όνομα σχέσης",** πληκτρολογήστε ένα φιλικό όνομα για τη σχέση οργανισμού.
-5. Στο πλαίσιο "Τομείς για κοινή **χρήση",** πληκτρολογήστε τον τομέα για τον εξωτερικό οργανισμό του Office 365 ή του Exchange εσωτερικής εγκατάστασης που θέλετε να επιτρέψετε να βλέπουν τα ημερολόγιά σας. Εάν θέλετε να εισαγάγετε περισσότερους από έναν τομείς, διαχωρίστε τα ονόματα τομέων με κόμμα. Για παράδειγμα, contoso.com, service.contoso.com.
+5. Στο πλαίσιο **"Τομείς για** κοινή χρήση με", πληκτρολογήστε τον τομέα για τον εξωτερικό οργανισμό Office 365 ή Exchange εσωτερικής εγκατάστασης που θέλετε να επιτρέψετε να βλέπουν τα ημερολόγιά σας. Εάν θέλετε να εισαγάγετε περισσότερους από έναν τομείς, διαχωρίστε τα ονόματα τομέων με κόμμα. Για παράδειγμα, contoso.com, service.contoso.com.
 6. Επιλέξτε το **πλαίσιο ελέγχου "Ενεργοποίηση κοινής χρήσης πληροφοριών διαθεσιμότητας ημερολογίου"** για να ενεργοποιήσετε την κοινή χρήση ημερολογίου με τους τομείς που παρατίθενται. Ορίστε το επίπεδο κοινής χρήσης για τις πληροφορίες διαθεσιμότητας ημερολογίου και ορίστε ποιοι χρήστες μπορούν να κάνουν κοινή χρήση πληροφοριών διαθεσιμότητας ημερολογίου.  
 
 Για να ορίσετε το επίπεδο πρόσβασης διαθεσιμότητας, επιλέξτε ένα από τα εξής:
@@ -46,6 +46,6 @@ ms.locfileid: "51816128"
 
 **Για να κατανοήσετε πλήρως αυτό το θέμα, διαβάστε:**
 
-- [Δημιουργία σχέσης οργανισμού στο Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Τροποποίηση μιας σχέσης οργανισμού στο Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Κατάργηση μιας σχέσης οργανισμού στο Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Δημιουργία σχέσης οργανισμού σε Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Τροποποίηση μιας σχέσης οργανισμού σε Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Κατάργηση μιας σχέσης οργανισμού σε Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

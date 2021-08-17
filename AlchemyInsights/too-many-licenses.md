@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886291"
 ---
 # <a name="too-many-licenses"></a>Πάρα πολλές άδειες χρήσης;
 
@@ -36,4 +36,4 @@ ms.locfileid: "54499548"
 4. Στο παράθυρο **"Κατάργηση αδειών** χρήσης",  στην περιοχή "Νέα ποσότητα" στο πλαίσιο "Συνολικές άδειες χρήσης", εισαγάγετε τον συνολικό αριθμό των αδειών χρήσης που θέλετε για αυτήν τη συνδρομή.  Για παράδειγμα, εάν έχετε 100 άδειες χρήσης και θέλετε να καταργήσετε 25 από αυτές, πληκτρολογήστε 75.
 5. Επιλέξτε **"Αποθήκευση".**
 
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης.](/microsoft-365/commerce/licenses/buy-licenses)
+Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

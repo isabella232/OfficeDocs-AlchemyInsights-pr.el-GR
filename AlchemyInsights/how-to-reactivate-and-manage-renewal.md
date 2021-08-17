@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689046"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887536"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Τρόπος επανενεργοποίησης μιας συνδρομής και διαχείρισης περιοδικής χρέωσης
 
@@ -32,7 +32,7 @@ ms.locfileid: "53689046"
 3. Στο παράθυρο **"Επανενεργοποίηση αυτής της** συνδρομής", επιλέξτε μια μέθοδο πληρωμής από την αναπτυσσόμενη λίστα ή επιλέξτε **"Προσθήκη μεθόδου πληρωμής".**
 4. Επιλέξτε **"Αποθήκευση".**
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Για να διαχειριστείτε τις μηνιαίες ή ετήσιες χρεώσεις, μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε την επιλογή **Επαναλαμβανόμενη χρέωση**.
   
@@ -42,4 +42,4 @@ ms.locfileid: "53689046"
 4. Στο παράθυρο **"Επεξεργασία ρυθμίσεων περιοδικής χρέωσης",** επιλέξτε **"Ενεργοποίηση",** **"Ενεργοποίηση" αλλά "Ανανέωση" μία** φορά ή **"Απενεργοποίηση".**
 5. Επιλέξτε **"Αποθήκευση".**
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της επαναλαμβανόμενης χρέωσης](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της επαναλαμβανόμενης χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

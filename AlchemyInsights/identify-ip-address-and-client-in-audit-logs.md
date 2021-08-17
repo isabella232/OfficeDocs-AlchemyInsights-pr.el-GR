@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014900"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887500"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Προσδιορισμός διεύθυνσης IP και προγράμματος-πελάτη σε αρχεία καταγραφής ελέγχου
 
@@ -36,4 +36,4 @@ ms.locfileid: "54014900"
 
 Στα αποτελέσματα, μπορείτε να δείτε τη διεύθυνση IP για τη δραστηριότητα αυτή στο παράθυρο αποτελεσμάτων. Επιλέξτε την εγγραφή ελέγχου για  να δείτε λεπτομερείς πληροφορίες στο αναδυόμενο στοιχείο "Λεπτομέρειες" (για παράδειγμα, πρόγραμμα-πελάτης, χρήστης που εκτέλεσε ενέργεια κ.λπ.).
 
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Εύρεση της διεύθυνσης IP του υπολογιστή που χρησιμοποιείται για την πρόσβαση σε έναν λογαριασμό που έχει παραβιαστεί.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Εύρεση της διεύθυνσης IP του υπολογιστή που χρησιμοποιείται για την πρόσβαση σε ένα λογαριασμό που έχει παραβιαστεί.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

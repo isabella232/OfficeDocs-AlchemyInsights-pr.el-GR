@@ -1,5 +1,5 @@
 ---
-title: 1800009 υποστήριξη του Outlook για Mac εντός εφαρμογής
+title: 1800009 Outlook για Mac υποστήριξης εντός εφαρμογής
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33ec262ed3f6bd45424476fded5d88b62f59cdf31542e675923a030f1d6b8fa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053466"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Υποστήριξη εντός εφαρμογής στο Outlook για Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Υποστήριξη εντός εφαρμογής σε Outlook για Mac
 
-Για να λάβετε υποστήριξη στην εφαρμογή για θέματα του Outlook για Mac, ανοίξτε το Outlook και κάντε κλικ στην επιλογή **Βοήθεια** \> **με την υποστήριξη επαφών**. Πληκτρολογήστε την ερώτησή σας και ένα μέλος της ομάδας υποστήριξης του Outlook για Mac θα επικοινωνήσει μαζί σας. 
+Για να λάβετε υποστήριξη εντός εφαρμογής για προβλήματα Outlook για Mac, ανοίξτε το Outlook και κάντε κλικ στην επιλογή "Επικοινωνία με **την** \> **υποστήριξη".** Πληκτρολογήστε την ερώτησή σας και ένα μέλος της Outlook για Mac υποστήριξης θα σας βοηθήσει. 
 
-Μάθετε περισσότερα: [επικοινωνήστε με την υποστήριξη στο Outlook για Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Μάθετε περισσότερα: [Επικοινωνήστε με την υποστήριξη εντός Outlook για Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
