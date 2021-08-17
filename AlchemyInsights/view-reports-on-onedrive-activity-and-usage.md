@@ -1,5 +1,5 @@
 ---
-title: Προβολή αναφορών σχετικά με τη δραστηριότητα και τη χρήση του OneDrive
+title: Προβολή αναφορών σχετικά OneDrive δραστηριότητας και χρήσης
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037320"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Προβολή αναφορών σχετικά με τη δραστηριότητα και τη χρήση του OneDrive
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Προβολή αναφορών σχετικά OneDrive δραστηριότητας και χρήσης
 
-Μεταβείτε στη [σελίδα αναφορές χρήσης στο κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Στην περιοχή **Επιλέξτε μια αναφορά**, επιλέξτε τη δραστηριότητα του OneDrive ή την αναφορά χρήσης.
+Μεταβείτε στη [σελίδα "Αναφορές χρήσης" στο Κέντρο διαχείρισης Microsoft 365.](https://admin.microsoft.com/AdminPortal/Home) Στην **περιοχή "Επιλογή αναφοράς",** επιλέξτε το OneDrive δραστηριότητας ή της αναφοράς χρήσης.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα πληροφορίες για τις αναφορές του OneDrive](https://go.microsoft.com/fwlink/?linkid=875239).
+Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα "Πληροφορίες OneDrive αναφορών".](https://go.microsoft.com/fwlink/?linkid=875239)
