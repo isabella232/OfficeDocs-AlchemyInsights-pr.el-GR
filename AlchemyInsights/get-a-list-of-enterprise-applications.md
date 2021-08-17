@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116728"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Λήψη λίστας εταιρικών εφαρμογών
 
@@ -52,9 +52,9 @@ ms.locfileid: "51404932"
 
 7. **Πρέπει να εξαγάγετε μια λίστα των εφαρμογών Azure που δεν τίθενται σε χρήση** – Αναφορά ελέγχου
 
-    Το Azure AD μπορεί να εμφανίζει αρχεία καταγραφής εφαρμογών μόνο για έως και 30 ημέρες, με την προϋπόθεση ότι έχετε άδεια χρήσης Azure AD Premium.
+    Το Azure AD μπορεί να εμφανίζει αρχεία καταγραφής εφαρμογών μόνο για έως και 30 ημέρες, με την προϋπόθεση ότι έχετε Azure AD Premium άδεια χρήσης.
     Έχετε δύο επιλογές για να διατηρήσετε τα δεδομένα για περισσότερο από 30 ημέρες. Μπορείτε να χρησιμοποιήσετε τα [API αναφοράς AZURE AD για](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) να ανακτήσετε τα δεδομένα μέσω προγραμματισμού και να τα αποθηκεύσετε σε μια βάση δεδομένων. Εναλλακτικά, μπορείτε να ενσωματώσετε αρχεία καταγραφής ελέγχου σε ένα σύστημα SIEM άλλου κατασκευαστή.
 
     Μπορείτε επίσης να κάνετε λήψη της λίστας εφαρμογών για όλες τις εφαρμογές και τις εφαρμογές που ανήκουν στο Azure Active Directory>Καταχωρήσεις εφαρμογών>Λήψη>Όλες οι εφαρμογές/οι εφαρμογές που ανήκουν.
 
-    Για να λάβετε μια λίστα εφαρμογών μέσω του MS Graph, ανατρέξτε στο θέμα Εφαρμογές λίστας [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) και τύπος πόρου [εφαρμογής - Microsoft Graph v1.0.](https://docs.microsoft.com/graph/api/resources/application)
+    Για να λάβετε μια λίστα εφαρμογών μέσω του ΠΡΟΓΡΆΜΜΑΤΟς MS Graph, ανατρέξτε στο θέμα Εφαρμογές λίστας [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) και τύπος πόρου [εφαρμογής - Microsoft Graph v1.0.](https://docs.microsoft.com/graph/api/resources/application)
