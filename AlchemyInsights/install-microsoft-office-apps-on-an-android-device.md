@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση εφαρμογών του Microsoft Office σε συσκευή Android
+title: Εγκατάσταση Microsoft Office εφαρμογών σε συσκευή Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078046"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Εγκατάσταση εφαρμογών του Microsoft Office σε συσκευή Android
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Εγκατάσταση Microsoft Office εφαρμογών σε συσκευή Android
 
-Στο τηλέφωνο ή το tablet του Chromebook ή του Android, μπορείτε να εγκαταστήσετε τις εφαρμογές του Microsoft Office ως ξεχωριστές εφαρμογές ή ως δέσμη.
+Στο Chromebook ή το τηλέφωνο ή το tablet Android, μπορείτε να εγκαταστήσετε Microsoft Office εφαρμογές ως ξεχωριστές εφαρμογές ή ως πακέτο.
 
-- [Εγκατάσταση της εφαρμογής Office (πακέτο) από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Εγκατάσταση της εφαρμογής Office (δέσμη) από το Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Εγκατάσταση του Microsoft Word από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Εγκατάσταση του Microsoft Excel από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Εγκατάσταση του εφαρμογή Office (πακέτο) από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Εγκαταστήστε το εφαρμογή Office (πακέτο) από το Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Εγκατάσταση Microsoft Word από το Κατάστημα του Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Εγκατάσταση Microsoft Excel από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137120)
 - [Εγκατάσταση του Microsoft PowerPoint από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Εγκατάσταση του Microsoft OneNote από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Εγκατάσταση Microsoft OneNote από το Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Εγκατάσταση και ρύθμιση του Office σε Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Εγκατάσταση και ρύθμιση Office σε Android.](https://go.microsoft.com/fwlink/?linkid=2135287)

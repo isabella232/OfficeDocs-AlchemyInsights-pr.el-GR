@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047220"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Επίλυση προβλημάτων μετατροπής ενός εγγράφου του Word σε XPS ή PDF
 
@@ -41,4 +41,4 @@ ms.locfileid: "51834191"
 
 2. Στο παράθυρο **"Δημοσίευση ως PDF" ή "XPS",** επιλέξτε "Επιλογές" για   >  **ετικέτες δομής εγγράφου για προσβασιμότητα.** Ορίστε οποιεσδήποτε άλλες επιλογές θέλετε και επιλέξτε **OK.**
 
-Για περισσότερες πληροφορίες σχετικά με τις επιλογές για τη μετατροπή αρχείων του Office σε XPS ή PDF, ανατρέξτε στο θέμα [Αποθήκευση ή μετατροπή σε PDF ή XPS.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)
+Για περισσότερες πληροφορίες σχετικά με τις επιλογές μετατροπής Office αρχείων σε XPS ή PDF, ανατρέξτε στο θέμα [Αποθήκευση ή μετατροπή σε PDF ή XPS.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

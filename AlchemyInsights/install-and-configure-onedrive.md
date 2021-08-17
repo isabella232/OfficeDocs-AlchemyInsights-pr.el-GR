@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση και ρύθμιση παραμέτρων του OneDrive
+title: Εγκατάσταση και ρύθμιση παραμέτρων OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078118"
 ---
-# <a name="install-and-configure-onedrive"></a>Εγκατάσταση και ρύθμιση παραμέτρων του OneDrive
+# <a name="install-and-configure-onedrive"></a>Εγκατάσταση και ρύθμιση παραμέτρων OneDrive
 
-Το πρόγραμμα-πελάτης συγχρονισμού του OneDrive είναι προεγκατεστημένο με τα Windows 10. Για να εγκαταστήσετε το OneDrive για Windows 7 ή Mac ή για να αποκτήσετε την εφαρμογή για κινητές συσκευές για το τηλέφωνο ή το tablet σας, μεταβείτε στο [https://onedrive.com/download](https://onedrive.com/download) .
+Το συγχρονισμός του OneDrive προγράμματος-πελάτη είναι προεγκατεστη Windows 10. Για να εγκαταστήσετε OneDrive για Windows 7 ή Mac ή για να λάβετε την εφαρμογή για κινητές συσκευές για το τηλέφωνο ή το tablet σας, μεταβείτε στο [https://onedrive.com/download](https://onedrive.com/download) .
   
-Για να ρυθμίσετε το πρόγραμμα-πελάτη συγχρονισμού του OneDrive στα Windows, ανατρέξτε στα θέματα:
+Για να ρυθμίσετε το συγχρονισμός του OneDrive πελάτη στο Windows, ανατρέξτε στα θέμα:
   
-- Ο [Οδηγός ρύθμισης του OneDrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) για να ξεκινήσετε με το χώρο αποθήκευσης αρχείων του OneDrive, την κοινή χρήση, τη συνεργασία και τις δυνατότητες συγχρονισμού.
+- [OneDrive ρυθμίσετε τον Οδηγό](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) για να ξεκινήσετε με OneDrive αποθήκευσης αρχείων, κοινής χρήσης, συνεργασίας και συγχρονισμού δυνατοτήτων.
 
-- [Ρύθμιση του υπολογιστή σας για το συγχρονισμό των αρχείων του OneDrive για την επιχείρησή σας](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Ρύθμιση του υπολογιστή σας ώστε να συγχρονίζει τα OneDrive για επιχειρήσεις σας](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Συγχρονισμός αρχείων του SharePoint με το νέο πρόγραμμα-πελάτη συγχρονισμού για το OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)
