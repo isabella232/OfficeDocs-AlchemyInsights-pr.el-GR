@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp προηγμένα κοινόχρηστα ερωτήματα κυνηγιού
+title: 9001220 κοινόχρηστων ερωτημάτων για προχωρημένους του mdatp
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042126"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Κοινή χρήση σύνθετων ερωτημάτων κυνηγιού
+# <a name="sharing-advanced-hunting-queries"></a>Κοινή χρήση ερωτημάτων προηγμένου κυνηγιού
 
-Τα προηγμένα ερωτήματα κυνηγιού μπορούν να μοιραστούν μεταξύ των χρηστών στον ίδιο οργανισμό. Μπορείτε επίσης να εντοπίσετε ερωτήματα που έχουν μοιραστεί δημόσια στο GitHub. Αυτά τα ερωτήματα σάς επιτρέπουν να ακολουθείτε γρήγορα συγκεκριμένα σενάρια κυνηγιού απειλών χωρίς να χρειάζεται να συντάσσετε ερωτήματα από την αρχή.
+Τα σύνθετα ερωτήματα κυνηγιού μπορούν να χρησιμοποιηθούν από κοινού μεταξύ των χρηστών στον ίδιο οργανισμό. Μπορείτε επίσης να βρείτε ερωτήματα που έχουν μοιραστεί δημόσια σε GitHub. Αυτά τα ερωτήματα σας let you quickly pursue specific threat hunting scenarios without having to write queries from scratch.
   
-Για λεπτομέρειες, ανατρέξτε [στο θέμα χρήση κοινόχρηστων ερωτημάτων στο Advanced Hunting](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Για λεπτομέρειες, ανατρέξτε στο θέμα ["Χρήση κοινόχρηστων ερωτημάτων για προχωρημένους".](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)
