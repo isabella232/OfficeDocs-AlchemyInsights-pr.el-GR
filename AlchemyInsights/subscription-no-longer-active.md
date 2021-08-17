@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890398"
 ---
 # <a name="subscription-no-longer-active"></a>Η συνδρομή δεν είναι πλέον ενεργή
 
@@ -32,4 +32,4 @@ ms.locfileid: "53909682"
 3. Στο παράθυρο **"Επανενεργοποίηση αυτής της** συνδρομής", επιλέξτε μια μέθοδο πληρωμής από την αναπτυσσόμενη λίστα ή επιλέξτε **"Προσθήκη μεθόδου πληρωμής".**
 4. Επιλέξτε **"Αποθήκευση".**
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -1,5 +1,5 @@
 ---
-title: Μάθετε σχετικά με την αντιστοίχιση μεταξύ των πολιτικών παλαιού τύπου Microsoft Edge και των πολιτικών του Microsoft Edge
+title: Μάθετε σχετικά με την αντιστοίχιση μεταξύ Microsoft Edge παλαιού τύπου πολιτικών και Microsoft Edge πολιτικών
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087388"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Μάθετε σχετικά με την αντιστοίχιση μεταξύ των πολιτικών παλαιού τύπου Microsoft Edge και των πολιτικών του Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Μάθετε σχετικά με την αντιστοίχιση μεταξύ Microsoft Edge παλαιού τύπου πολιτικών και Microsoft Edge πολιτικών
 
-Οι πολιτικές ομάδας του Microsoft Edge Legacy (εκδόσεις 45 και παλαιότερες εκδόσεις) και η αντιστοίχιση ρυθμίσεων διαχείρισης κινητών συσκευών (MDM) στις αντίστοιχες πολιτικές της έκδοσης 80 του Microsoft Edge. Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα παλαιού τύπου Microsoft Edge στην αντιστοίχιση πολιτικής του Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Οι πολιτικές ομάδας Microsoft Edge παλαιού τύπου (εκδόσεις 45 και παλαιότερες) και οι ρυθμίσεις διαχείρισης κινητών συσκευών (MDM) αντιστοιχούν στις σχετικές πολιτικές του Microsoft Edge έκδοση 80. Για να μάθετε περισσότερα, [ανατρέξτε στο θέμα Microsoft Edge παλαιού τύπου να Microsoft Edge αντιστοίχιση πολιτικής.](https://go.microsoft.com/fwlink/?linkid=2141665)

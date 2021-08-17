@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500016"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895491"
 ---
 # <a name="change-payment-method"></a>Αλλαγή μεθόδου πληρωμής
 
@@ -36,6 +36,6 @@ ms.locfileid: "54500016"
 6. Στο παράθυρο **"Προσθήκη μεθόδου πληρωμής", εισαγάγετε** τις πληροφορίες λογαριασμού και, στη συνέχεια, επιλέξτε **"Αποθήκευση".** Πρέπει να χρησιμοποιήσετε μια μέθοδο πληρωμής από την ίδια χώρα με τον μισθωτή σας.
 7. Η νέα μέθοδος πληρωμής είναι ήδη επιλεγμένη στην αναπτυσσόμενη λίστα. Επιλέξτε **"Αντικατάσταση".**
 
-Για να μάθετε πώς μπορείτε να προσθέσετε, να ενημερώσετε, να αντικαταστήσετε ή να διαγράψετε μεθόδους πληρωμής, ανατρέξτε στο [θέμα Διαχείριση μεθόδων πληρωμής.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Για να μάθετε πώς μπορείτε να προσθέσετε, να ενημερώσετε, να αντικαταστήσετε ή να διαγράψετε μεθόδους πληρωμής, ανατρέξτε στο [θέμα Διαχείριση μεθόδων πληρωμής.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Για να μάθετε πώς μπορείτε να αλλάξετε μεταξύ των μεθόδων πληρωμής, ανατρέξτε στο θέμα [Τρόπος πληρωμής για τη συνδρομή σας.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Για να μάθετε πώς μπορείτε να αλλάξετε μεταξύ των μεθόδων πληρωμής, ανατρέξτε στο θέμα [Τρόπος πληρωμής για τη συνδρομή σας.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

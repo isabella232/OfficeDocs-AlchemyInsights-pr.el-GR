@@ -1,5 +1,5 @@
 ---
-title: Μάθετε σχετικά με τη συνδρομή του Microsoft 365 με βάση τη διαθεσιμότητα των δυνατοτήτων των εφαρμογών του Office σε κινητές συσκευές
+title: Μάθετε σχετικά Microsoft 365 διαθεσιμότητα των δυνατοτήτων Office εφαρμογών σε κινητές συσκευές βάσει συνδρομής
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087424"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Μάθετε σχετικά με τη συνδρομή του Microsoft 365 με βάση τη διαθεσιμότητα των δυνατοτήτων των εφαρμογών του Office σε κινητές συσκευές
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Μάθετε σχετικά Microsoft 365 διαθεσιμότητα των δυνατοτήτων Office εφαρμογών σε κινητές συσκευές βάσει συνδρομής
 
-Όλα τα προγράμματα του Microsoft 365 σάς επιτρέπουν να προβάλετε έγγραφα στο Word, το Excel, το PowerPoint και το OneNote σε συσκευές iOS, Android και Windows Mobile. Ωστόσο, η διαθεσιμότητα των δυνατοτήτων και των αρχείων αυτών των εφαρμογών εξαρτάται από τη συνδρομή σας — ένα πρόγραμμα ειδικής χρήσης του Microsoft 365 ή ένα μη κατάλληλο πρόγραμμα ή μια εφάπαξ αγορά του Office — και το μέγεθος οθόνης μιας κινητής συσκευής.
+Όλα Microsoft 365 προγράμματα σας επιτρέψουν να προβάλετε έγγραφα στο Word, Excel, PowerPoint και OneNote σε κινητές συσκευές iOS, Android και Windows κινητές συσκευές. Ωστόσο, η διαθεσιμότητα των δυνατοτήτων και των αρχείων αυτών των εφαρμογών εξαρτάται από τη συνδρομή σας — ένα κατάλληλο πρόγραμμα του Microsoft 365 ή ένα πρόγραμμα που δεν πληροί τις προϋποθέσεις ή μια έκδοση μίας φοράς αγοράς του Office — και το μέγεθος οθόνης μιας κινητής συσκευής.
 
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα τι μπορείτε να κάνετε στις εφαρμογές του Office σε κινητές συσκευές με μια συνδρομή του Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα Τι μπορείτε να κάνετε στο Office σας σε [κινητές συσκευές με μια Microsoft 365 συνδρομή.](https://go.microsoft.com/fwlink/?linkid=2135575) 
