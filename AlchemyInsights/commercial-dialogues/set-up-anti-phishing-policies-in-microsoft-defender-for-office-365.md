@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313427"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895083"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Ρύθμιση πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για Office 365
 
-1. Στην πύλη Microsoft 365 Defender, μεταβείτε στην ενότητα "Ηλεκτρονικό ταχυδρομείο" & "Πολιτικές συνεργασίας" & "Απειλές κανόνων" στην <https://security.microsoft.com/>  \>  \>  \>  ενότητα **"Πολιτικές".**
+1. Στην πύλη Microsoft 365 Defender, μεταβείτε στην ενότητα <https://security.microsoft.com/> **"Ηλεκτρονικό ταχυδρομείο& πολιτικές** συνεργασίας & πολιτικές απειλής κανόνων \>  \>  \> **κατά του ηλεκτρονικού "ψαρέματος"** στην ενότητα **"Πολιτικές".**
 
    Για να μεταβείτε απευθείας στη **σελίδα "Προστασία από το ηλεκτρονικό "ψάρεμα",** χρησιμοποιήστε <https://security.microsoft.com/antiphishing> το .
 
@@ -31,4 +31,4 @@ ms.locfileid: "58313427"
 
 3. Αφού εξετάσετε τις ρυθμίσεις σας, επιλέξτε **"Υποβολή** (δημιουργία) ή **Αποθήκευση** (επεξεργασία).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Ρύθμιση παραμέτρων πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων πολιτικών καταπολέμησης του ηλεκτρονικού "ψαρέματος" στο Microsoft Defender για Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)

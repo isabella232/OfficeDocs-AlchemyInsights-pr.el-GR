@@ -14,15 +14,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: e07a8ee44e3133ce230fc8697c2f268dd628f380ae856a1ca479d6da7bde7e4b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 68873026cee7870e7a225a1f5be022bae8e51e1d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890846"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315160"
 ---
 # <a name="add-contacts-to-a-microsoft-365-group"></a>Προσθήκη επαφών σε μια Microsoft 365 ομάδας
 
-Οι κάτοχοι ομάδων μπορούν να προσθέσουν εξωτερικούς χρήστες και επαφές Outlook, ακολουθώντας αυτές τις οδηγίες: [Προσθήκη και κατάργηση μελών ομάδας στο Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
+Οι κάτοχοι ομάδων μπορούν να προσθέσουν εξωτερικούς χρήστες και επαφές αλληλογραφίας Outlook, ακολουθώντας αυτές τις οδηγίες: Προσθήκη και κατάργηση [μελών ομάδας Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
   
-Μπορείτε επίσης να προσθέσετε ή να καταργήσετε μέλη ομάδων στην Πύλη διαχείρισης: Προσθήκη ή [κατάργηση μελών από Microsoft 365 ομάδες χρησιμοποιώντας το Κέντρο διαχείρισης Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+Μπορείτε επίσης να προσθέσετε ή να καταργήσετε μέλη ομάδας στην Πύλη διαχείρισης: Προσθήκη ή κατάργηση [μελών από Microsoft 365 ομάδες χρησιμοποιώντας το Κέντρο διαχείρισης Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

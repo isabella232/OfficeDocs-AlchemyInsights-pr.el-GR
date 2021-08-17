@@ -1,5 +1,5 @@
 ---
-title: Επίπεδα δικαιωμάτων του SharePoint Online
+title: SharePoint Επίπεδα δικαιωμάτων στο Internet
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 3657a3f01b362fbe8877c342ec59f10b9a1b63ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13f71d0eac4a1895061b75968437fe32e4f5f9109ab9c9f0edfe371d7d0c995c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085156"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Επίπεδα δικαιωμάτων του SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Επίπεδα δικαιωμάτων στο Internet
 
-Το SharePoint διαθέτει ορισμένα προεπιλεγμένα επίπεδα δικαιωμάτων που μπορείτε να χρησιμοποιήσετε, όπως το Contribute και η προβολή μόνο. Εάν δεν ικανοποιούν τις ανάγκες σας, μπορείτε να δημιουργήσετε πρόσθετα επίπεδα δικαιωμάτων. Είναι πιο εύκολο να παρακολουθείτε τα δικαιώματα, εάν δεν επεξεργαστείτε ή διαγράψετε τα προεπιλεγμένα επίπεδα και εάν προσθέσετε άτομα σε ομάδες και εκχωρήσετε επίπεδα δικαιωμάτων σε αυτές τις ομάδες αντί να εκχωρήσετε επίπεδα δικαιωμάτων σε μεμονωμένους χρήστες.
+SharePoint ορισμένα προεπιλεγμένα επίπεδα δικαιωμάτων που μπορείτε να χρησιμοποιήσετε, όπως "Συμβολή" και "Μόνο προβολή". Εάν δεν ανταποκρίνονται στις ανάγκες σας, μπορείτε να δημιουργήσετε πρόσθετα επίπεδα δικαιωμάτων. Είναι ευκολότερο να παρακολουθείτε τα δικαιώματα εάν δεν επεξεργαστείτε ή διαγράψετε τα προεπιλεγμένα επίπεδα και εάν προσθέσετε άτομα σε ομάδες και εκχωρήσετε επίπεδα δικαιωμάτων σε αυτές τις ομάδες αντί να εκχωρήσετε επίπεδα δικαιωμάτων σε μεμονωμένους χρήστες.
   
 - [Κατανόηση των επιπέδων δικαιωμάτων](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Πώς μπορείτε να δημιουργήσετε και να επεξεργαστείτε επίπεδα δικαιωμάτων](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Τρόπος δημιουργίας και επεξεργασίας επιπέδων δικαιωμάτων](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

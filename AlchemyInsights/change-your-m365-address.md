@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11543"
 - "9001671"
-ms.openlocfilehash: 10b8e2aba5703cb4995eed521a1d57bbf272b564
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 9428d8d5ffafb551e36a5da0b9231543143b5115404944806bed3e985aac8679
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52793680"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895267"
 ---
 # <a name="change-your-microsoft-365-address"></a>Αλλαγή της διεύθυνσης Microsoft 365 σας
 
-Για να αλλάξετε τις λεπτομέρειες της διεύθυνσης του οργανισμού σας, ανατρέξτε στο θέμα Αλλαγή της διεύθυνσης του οργανισμού [σας, της τεχνικής επαφής και πολλά άλλα.](/microsoft-365/admin/manage/change-address-contact-and-more) Για να αλλάξετε τη συσχετισμένη διεύθυνση χρέωσης ή συνδρομής, ανατρέξτε στο θέμα "Αλλαγή για [διευθύνσεις χρέωσης Microsoft 365 για επιχειρήσεις".](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) 
+Για να αλλάξετε τις λεπτομέρειες της διεύθυνσης του οργανισμού σας, ανατρέξτε στο θέμα Αλλαγή της διεύθυνσης του οργανισμού [σας, της τεχνικής επαφής και πολλά άλλα.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Για να αλλάξετε τη συσχετισμένη διεύθυνση χρέωσης ή συνδρομής, ανατρέξτε στο θέμα "Αλλαγή για [διευθύνσεις χρέωσης Microsoft 365 για επιχειρήσεις".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) 
 
 **Σημαντικό:** Δεν μπορείτε να αλλάξετε τη χώρα, την περιοχή, τους φόρους, τη νομισματική μονάδα χρέωσης ή τη θέση του κέντρου δεδομένων. Για να αλλάξετε αυτές τις πληροφορίες, πρέπει να εγγραφείτε για έναν νέο λογαριασμό, να επιλέξετε τη χώρα ή την περιοχή που θέλετε και να αγοράσετε μια νέα συνδρομή. 
