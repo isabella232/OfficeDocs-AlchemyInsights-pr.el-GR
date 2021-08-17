@@ -1,5 +1,5 @@
 ---
-title: Να επιτρέπεται ή να αποτρέπεται η συμμετοχή ανώνυμων χρηστών σε συσκέψεις του Teams
+title: Να επιτρέπεται ή να αποτρέπεται η συμμετοχή ανώνυμων χρηστών Teams συσκέψεων
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106945"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Να επιτρέπεται ή να αποτρέπεται η συμμετοχή ανώνυμων χρηστών σε συσκέψεις του Teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Να επιτρέπεται ή να αποτρέπεται η συμμετοχή ανώνυμων χρηστών Teams συσκέψεων
 
-Μπορείτε να ελέγξετε τις ρυθμίσεις ανώνυμης συμμετοχής σε σύσκεψη στο Κέντρο διαχείρισης του Teams.
+Μπορείτε να ελέγξετε τις ρυθμίσεις ανώνυμης συμμετοχής σε σύσκεψη στο Teams Διαχείρισης.
 
 **Ενδέχεται να χρειαστεί έως και 24 ώρες για να ισχύει αυτή η αλλαγή.**
 
-1.  Μετάβαση στο [κέντρο διαχείρισης του Teams](https://admin.teams.microsoft.com)
+1.  Μετάβαση στο [Teams διαχείρισης](https://admin.teams.microsoft.com)
 2.  Στο αριστερό παράθυρο περιήγησης, μεταβείτε στις **ρυθμίσεις**   >   **σύσκεψης συσκέψεων.**
 3.  Στην περιοχή **"Συμμετέχοντες",** ενεργοποιήστε **τη δυνατότητα "Ανώνυμοι χρήστες" να συμμετάσχουν σε μια σύσκεψη.**
