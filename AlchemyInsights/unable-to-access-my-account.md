@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002449"
 - "4748"
-ms.openlocfilehash: 756672d6fc04226c8036bf649a4bf79ad9849799361f34d7472015300e59abda
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08c39ca6b0e56bb6856bc214121d8c39e028f828a54ec47694bdec06667b4456
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020552"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883095"
 ---
 # <a name="unable-to-access-my-account"></a>Δεν είναι δυνατή η πρόσβαση στο λογαριασμό μου
 
@@ -32,4 +32,4 @@ ms.locfileid: "54020552"
 3. Στο παράθυρο **"Επανενεργοποίηση αυτής της** συνδρομής", επιλέξτε μια μέθοδο πληρωμής από την αναπτυσσόμενη λίστα ή επιλέξτε **"Προσθήκη μεθόδου πληρωμής".**
 4. Επιλέξτε **"Αποθήκευση".**
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
