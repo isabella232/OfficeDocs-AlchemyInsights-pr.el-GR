@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889254"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314240"
 ---
 # <a name="activating-microsoft-365-apps"></a>Ενεργοποίηση Microsoft 365 εφαρμογών
 
-**Σημείωση:** Εάν χρησιμοποιείτε μια παλαιότερη έκδοση του Windows (Για παράδειγμα, Windows 7), βεβαιωθείτε ότι το TLS 1.2 είναι ενεργοποιημένο ως προεπιλογή. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Ενημέρωση για την ενεργοποίηση [των TLS 1.1 και TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ως προεπιλεγμένων ασφαλών πρωτοκόλλων στο WinHTTP στο Windows.
+**Σημείωση:** Εάν χρησιμοποιείτε μια παλαιότερη έκδοση του Windows (π.χ. Windows 7 SP1, Windows Server 2008 R2), ενεργοποιήστε το TLS 1.2 ως προεπιλογή χρησιμοποιώντας την [εύκολη επιδιόρθωση.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα Ενημέρωση για την ενεργοποίηση [των TLS 1.1 και TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ως προεπιλεγμένων ασφαλών πρωτοκόλλων στο WinHTTP στο Windows.
 
 Για να ενεργοποιήσετε το Office, ανατρέξτε στο θέμα:
 
@@ -29,7 +29,7 @@ ms.locfileid: "57889254"
 
 - [Ενεργοποίηση του Office σε Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Σημείωση:**  Βεβαιωθείτε ότι έχετε μια Office 365 ή Microsoft 365 που [περιλαμβάνει εφαρμογές προγράμματος-πελάτη Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)π.χ., Microsoft 365 Standard για Επιχειρήσεις, Εφαρμογές Microsoft 365 για επιχειρήσεις ή Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις. Επιπλέον, βεβαιωθείτε ότι ο λογαριασμός χρήστη που χρησιμοποιείτε για να εισέλθετε σε Office εφαρμογές [έχει εκχωρηθεί άδεια χρήσης.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Σημείωση:**  Βεβαιωθείτε ότι έχετε μια Office 365 ή Microsoft 365 που [περιλαμβάνει εφαρμογές προγράμματος-πελάτη Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)π.χ., Microsoft 365 Standard για Επιχειρήσεις, Εφαρμογές Microsoft 365 για επιχειρήσεις ή Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις. Επιπλέον, βεβαιωθείτε ότι ο λογαριασμός χρήστη που χρησιμοποιείτε για να εισέλθετε σε Office εφαρμογές έχει [εκχωρηθεί άδεια χρήσης.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Για να διορθώσετε τα προβλήματα ενεργοποίησης του Office, ανατρέξτε στο θέμα:
 
@@ -38,7 +38,7 @@ ms.locfileid: "57889254"
 
 - [Τι να δοκιμάσετε εάν δεν μπορείτε να εγκαταστήσετε ή να ενεργοποιήσετε το Office για Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Συμβουλή** Σε υπολογιστές με Windows, μπορούμε να διαγνώσουμε και να διορθώσουμε αυτόματα αρκετά κοινά προβλήματα εισόδου του Office για εσάς. Κατεβάστε και εκτελέστε τον **[Βοηθό υποστήριξης και αποκατάστασης για το Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** για να χρησιμοποιήσετε το αυτοματοποιημένο εργαλείο μας.
+**Συμβουλή:** Σε Windows, μπορούμε να διαγνώσουμε και να διορθώσουμε αυτόματα Office προβλήματα σύνδεσης για εσάς. Κατεβάστε και εκτελέστε τον **[Βοηθό υποστήριξης και αποκατάστασης για το Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** για να χρησιμοποιήσετε το αυτοματοποιημένο εργαλείο μας.
 
 Εάν δεν μπορείτε να εισέλθετε σε Microsoft 365, ακολουθήστε τα παρακάτω βήματα:
 

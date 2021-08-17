@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d63158872c817ea6b856378367acc6f41f41e055
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893099"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313842"
 ---
 # <a name="auditing-results-are-blank"></a>Τα αποτελέσματα ελέγχου είναι κενά
 
@@ -27,6 +27,6 @@ ms.locfileid: "57893099"
   
 **Αναζήτηση στο αρχείο καταγραφής ελέγχου**
   
-Πρέπει να είστε καθολικός διαχειριστής για να εργαστείτε με το αρχείο καταγραφής ελέγχου στο Κέντρο συμμόρφωσης Microsoft 365 ή <https://compliance.microsoft.com/auditlogsearch> στην Microsoft 365 Defender στην τοποθεσία <https://security.microsoft.com/auditlogsearch> . Πριν ξεκινήσετε, ενεργοποιήστε την καταγραφή ελέγχου. Στη συνέχεια, μπορείτε να εκτελέσετε μια αναζήτηση αρχείου καταγραφής ελέγχου.
+Πρέπει να είστε καθολικός διαχειριστής για να εργαστείτε με το αρχείο καταγραφής ελέγχου στο Κέντρο συμμόρφωσης Microsoft 365 ή στην <https://compliance.microsoft.com/auditlogsearch> Microsoft 365 Defender στην τοποθεσία <https://security.microsoft.com/auditlogsearch> . Πριν ξεκινήσετε, ενεργοποιήστε την καταγραφή ελέγχου. Στη συνέχεια, μπορείτε να εκτελέσετε μια αναζήτηση αρχείου καταγραφής ελέγχου.
   
 [Μάθετε πώς μπορείτε να κάνετε αναζήτηση στο αρχείο καταγραφής ελέγχου.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)

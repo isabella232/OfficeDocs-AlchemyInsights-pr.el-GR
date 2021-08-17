@@ -1,5 +1,5 @@
 ---
-title: Ενεργοποίηση του Microsoft Defender για Office 365 για SharePoint Online, OneDrive και Microsoft Teams
+title: Ενεργοποίηση Θυρίδα συνημμένων για SharePoint Online, OneDrive και Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058866"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894463"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Ενεργοποίηση του Microsoft Defender για Office 365 για SharePoint Online, OneDrive και Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Ενεργοποίηση Θυρίδα συνημμένων για SharePoint Online, OneDrive και Microsoft Teams
 
-1. Χρησιμοποιώντας τα διαπιστευτήρια καθολικού διαχειριστή ή διαχειριστή ασφαλείας, συνδεθείτε στο [κέντρο Office 365 ασφάλειας και συμμόρφωσης.](https://protection.office.com/)
-2. Επιλέξτε **"Διαχείριση απειλών"** στο αριστερό τμήμα παραθύρου και, στη συνέχεια, **επιλέξτε**  >  ["Πολιτική Θυρίδα συνημμένα".](https://protection.office.com/safeattachment)
-3. Επιλέξτε **"Ενεργοποίηση του Microsoft Defender" Office 365 για SharePoint, OneDrive και Microsoft Teams και, στη** συνέχεια, επιλέξτε **"Αποθήκευση".**
+1. Χρησιμοποιώντας τα διαπιστευτήρια καθολικού διαχειριστή ή διαχειριστή ασφαλείας, ανοίξτε την πύλη Microsoft 365 Defender στην τοποθεσία και, στη συνέχεια, μεταβείτε στην ενότητα "Πολιτικές & κανόνες απειλών <https://security.microsoft.com>  \>  \> **Θυρίδα Συνημμένα"** στην ενότητα **"Πολιτικές"**
+
+   Για να μεταβείτε απευθείας **στη Θυρίδα "Συνημμένα",** χρησιμοποιήστε <https://security.microsoft.com/safeattachmentv2> το .
+
+2. Στη σελίδα **Θυρίδα συνημμένα, κάντε** κλικ στην επιλογή **"Καθολικές ρυθμίσεις".**
+3. Στο αναδυόμενο στοιχείο που εμφανίζεται, επιλέξτε "Ενεργοποίηση του Microsoft Defender" για **Office 365 για SharePoint, OneDrive** και Microsoft Teams και, στη συνέχεια, επιλέξτε **"Αποθήκευση".**
+
     > [!TIP]
     >
-    > - Ως καθολικός διαχειριστής ή διαχειριστής του SharePoint Online, εκτελέστε το ακόλουθο cmdlet του PowerShell με την παράμετρο **DisallowInfectedFileDownload** να έχει οριστεί σε *true:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Ρύθμιση ειδοποιήσεων για αρχεία που εντοπίστηκαν](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Ακολουθήστε τα παρακάτω βήματα για να βελτιώσετε την προστασία Θυρίδα συνημμένα για SharePoint, OneDrive και Microsoft Teams:
+    >
+    > - Για να αποτρέψετε τη λήψη κακόβουλων αρχείων από τους χρήστες, χρησιμοποιήστε την τιμή για την παράμετρο `$true` *DisallowInfectedFileDownload* στο **[cmdlet Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** στο SharePoint Online PowerShell. Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα SharePoint PowerShell online για να αποτρέψετε τη λήψη κακόβουλων αρχείων από τους χρήστες.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Δημιουργία πολιτικής ειδοποίησης για αρχεία που εντοπίστηκαν](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Microsoft Defender για Office 365 για SharePoint, OneDrive και Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+Για περισσότερες πληροφορίες, [ανατρέξτε Θυρίδα συνημμένα για Office 365 για SharePoint, OneDrive και Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
