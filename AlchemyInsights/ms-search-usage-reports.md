@@ -1,5 +1,5 @@
 ---
-title: Γρήγορα αποτελέσματα με τη χρήση αναφορών χρήσης της Αναζήτησης της Microsoft
+title: Γρήγορα αποτελέσματα με τη χρήση Αναζήτηση της Microsoft αναφορών χρήσης
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077290"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Γρήγορα αποτελέσματα με τη χρήση αναφορών χρήσης της Αναζήτησης της Microsoft
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Γρήγορα αποτελέσματα με τη χρήση Αναζήτηση της Microsoft αναφορών χρήσης
 
-Οι αναφορές χρήσης της Αναζήτησης της Microsoft παρέχουν πληροφορίες σχετικά με τον τρόπο λειτουργίας της αναζήτησης στον οργανισμό σας. Αυτές οι πληροφορίες θα σας βοηθήσουν να βρείτε περιεχόμενο και να κάνετε την αναζήτηση μια πιο χρήσιμη και ευχάριστη εμπειρία για τους χρήστες στους οργανισμούς σας.
+Αναζήτηση της Microsoft αναφορές χρήσης παρέχουν πληροφορίες σχετικά με τον τρόπο λειτουργίας της αναζήτησης στον οργανισμό σας. Αυτές οι πληροφορίες θα σας βοηθήσουν να βρείτε περιεχόμενο και να κάνετε την αναζήτηση μια πιο χρήσιμη και ευχάριστη εμπειρία για τους χρήστες στους οργανισμούς σας.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Αναφορές χρήσης αναζήτησης της Microsoft.](https://go.microsoft.com/fwlink/?linkid=2152048)
+Για να μάθετε περισσότερα, [ανατρέξτε Αναζήτηση της Microsoft αναφορές χρήσης.](https://go.microsoft.com/fwlink/?linkid=2152048)

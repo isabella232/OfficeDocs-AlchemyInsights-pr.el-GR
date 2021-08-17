@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046104"
 ---
 # <a name="calendar-permissions"></a>Δικαιώματα ημερολογίου
 
-Οι χρήστες μπορούν να αλλάξουν τα δικά τους δικαιώματα ημερολογίου με το Outlook στο Web ή άλλα προγράμματα-πελάτες, αλλά ως διαχειριστής ίσως χρειαστεί να διερευνήσετε επίσης.  
-Με το cmdlet του Exchange PowerShell θα εμφανιστεί το δικαίωμα στο ημερολόγιο ενός χρήστη:
+Οι χρήστες μπορούν να αλλάξουν τα δικά τους δικαιώματα ημερολογίου Outlook στο Web ή σε άλλα προγράμματα-πελάτες, αλλά ως διαχειριστής μπορεί να χρειαστεί να διερευνήσετε επίσης.  
+Με Exchange cmdlet του PowerShell θα εμφανιστεί το δικαίωμα στο ημερολόγιο ενός χρήστη:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
@@ -34,9 +34,9 @@ ms.locfileid: "51819908"
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Τα δικαιώματα ημερολογίου χρησιμοποιούνται στην κοινή χρήση ημερολογίων, για να δείτε περισσότερες πληροφορίες σχετικά με την κοινή χρήση ενός ημερολογίου του Outlook, ανατρέξτε στα παρακάτω άρθρα:
+Τα δικαιώματα ημερολογίου χρησιμοποιούνται στην κοινή χρήση ημερολογίων, για να δείτε περισσότερες πληροφορίες σχετικά με την κοινή χρήση Outlook ημερολογίου, ανατρέξτε στα παρακάτω άρθρα:
 
 - [Κοινή χρήση ημερολογίου του Outlook με άλλους](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 - [Κοινή χρήση του ημερολογίου σας στο Outlook στο web για επιχειρήσεις](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Για να αντιμετωπίσετε προβλήματα με τα δικαιώματα ημερολογίου, μπορείτε [να χρησιμοποιήσετε το εργαλείο "Βοηθός υποστήριξης και αποκατάστασης".](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)
+Για να αντιμετωπίσετε προβλήματα με τα δικαιώματα ημερολογίου, μπορείτε [να χρησιμοποιήσετε Βοηθός υποστήριξης και αποκατάστασης](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) εργαλείο.
