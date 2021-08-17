@@ -1,5 +1,5 @@
 ---
-title: Γενικές πληροφορίες για τα πρόσθετα του Outlook
+title: Γενικές Outlook πληροφορίες για πρόσθετα
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116944"
 ---
-# <a name="general-outlook-add-ins-information"></a>Γενικές πληροφορίες για τα πρόσθετα του Outlook
+# <a name="general-outlook-add-ins-information"></a>Γενικές Outlook πληροφορίες για πρόσθετα
 
-Επισκεφθείτε αυτήν την τοποθεσία Web για όλους τους πόρους τεκμηρίωσης σχετικά με τη [δημιουργία πρόσθετων του Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Επισκεφθείτε αυτή την τοποθεσία Web για τους πόρους τεκμηρίωσης για όλα τα [μέσα σχετικά Outlook τη δημιουργία προσθεμάτων.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Για πρόσθετους πόρους σχετικά με τη διαχείριση, την ανάπτυξη και την Ενεργοποίηση προσθέτων, ανατρέξτε στα θέματα:
+Για πρόσθετους πόρους σχετικά με τη διαχείριση, την ανάπτυξη και την ενεργοποίηση πρόσθετων, ανατρέξτε στα θέματα:
 
-- [Προσδιορίστε εάν η κεντρική ανάπτυξη των πρόσθετων λειτουργεί για την εταιρεία σας](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Προσδιορίστε εάν η Κεντρική ανάπτυξη προσθεμάτων λειτουργεί για τον οργανισμό σας.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Διαχείριση της ανάπτυξης προσθέτων στο κέντρο διαχείρισης του Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Καθορισμός των διαχειριστών και των χρηστών που μπορούν να εγκαταστήσουν και να διαχειριστούν πρόσθετα για το Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Καθορίστε τους διαχειριστές και τους χρήστες που μπορούν να εγκαταστήσουν και να διαχειριστούν πρόσθετα για Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

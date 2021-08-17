@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 7eaeff630a31d4e8ce5a3a92ff40be9211a0cdaa
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129839"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890146"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>Ρύθμιση παραμέτρων πολιτικών διατήρησης για Teams θέσεις
 
@@ -28,7 +28,7 @@ ms.locfileid: "53129839"
 
 1. Στην **περιοχή "Πολιτικές** διατήρησης", **επιλέξτε "Νέα πολιτική διατήρησης",** ονομάστε την πολιτική σας και, στη συνέχεια, **επιλέξτε "Επόμενο".**
 
-1. Επιλέξτε τις επιλογές που θέλετε: **Teams συνομιλίες** ή **Teams** ή και τα δύο και, στη συνέχεια, επιλέξτε **"Επόμενο".**
+1. Επιλέξτε τις επιλογές που θέλετε: **Teams συνομιλίες** ή **Teams** μηνύματα καναλιού ή και τα δύο και, στη συνέχεια, επιλέξτε **"Επόμενο".**
 
 1. Ρυθμίστε τις παραμέτρους διατήρησης. 
 
@@ -36,5 +36,5 @@ ms.locfileid: "53129839"
 
 Σημείωση: Προς το παρόν, τα μηνύματα ιδιωτικού καναλιού δεν υποστηρίζονται από πολιτικές διατήρησης.
 
-Για περισσότερες πληροφορίες σχετικά με τη διατήρηση ομάδας και γνωστά ζητήματα ρύθμισης παραμέτρων, ανατρέξτε στο θέμα ["Πολιτικές διατήρησης" Teams θέσεις](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+Για περισσότερες πληροφορίες σχετικά με τη διατήρηση ομάδας και γνωστά ζητήματα ρύθμισης παραμέτρων, ανατρέξτε στο θέμα ["Πολιτικές διατήρησης" για Teams θέσεις](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 

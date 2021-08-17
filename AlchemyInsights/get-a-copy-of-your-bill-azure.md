@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116908"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Λήψη αντιγράφου του λογαριασμού ή της χρήσης σας
 
@@ -25,16 +25,16 @@ ms.locfileid: "51812386"
 
 1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "Συνδρομές"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) στην πύλη Azure ως χρήστης με πρόσβαση [σε τιμολόγια και, στη](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) συνέχεια, επιλέξτε **"Τιμολόγια"**
 2. Κάντε κλικ **στην επιλογή "Λήψη τιμολογίου"** για να δείτε ένα αντίγραφο του τιμολογίου PDF. Εάν αναφέρεται ότι **δεν είναι διαθέσιμο,** [ανατρέξτε στο θέμα Γιατί δεν βλέπω ένα τιμολόγιο για την τελευταία περίοδο χρέωσης;](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Μπορείτε επίσης να προβάλετε την ημερήσια χρήση κάνοντας κλικ στην περίοδο χρέωσης για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (. CSV): [Λήψη δεδομένων τιμολογίου και χρήσης](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. Μπορείτε επίσης να προβάλετε την ημερήσια χρήση σας κάνοντας κλικ στην περίοδο χρέωσης για να λάβετε ένα PDF του τιμολογίου σας και ένα αντίγραφο του λεπτομερούς αρχείου καθημερινής χρήσης (.CSV): Λήψη τιμολογίου και [δεδομένων χρήσης](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Λήψη του τιμολογίου σας μέσω ηλεκτρονικού ταχυδρομείου (.pdf)**
+**Λήψη τιμολογίου μέσω ηλεκτρονικού ταχυδρομείου (.pdf)**
 
 1. Επιλέξτε τη συνδρομή σας από τη [σελίδα "Συνδρομές".](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Κάντε κλικ **στην επιλογή "Τιμολόγια" και, στη** συνέχεια, στείλτε μήνυμα ηλεκτρονικού ταχυδρομείου στο **τιμολόγιό μου**
 2. Κάντε **κλικ στην επιλογή συμμετοχής** και αποδεχτείτε τους όρους. Θα πρέπει να επιλέξετε κάθε συνδρομή που έχετε στην ιδιοκτησία σας. Σημείωση: Εάν δεν λάβετε μήνυμα ηλεκτρονικού ταχυδρομείου αφού ακολουθήστε τα βήματα, βεβαιωθείτε ότι η διεύθυνση ηλεκτρονικού ταχυδρομείου σας είναι σωστή στις [προτιμήσεις επικοινωνίας στο προφίλ σας](https://account.windowsazure.com/profile)
 3. [Τιμολόγια Azure που μηνύματα ηλεκτρονικού ταχυδρομείου απευθείας στα Εισερχόμενά σας](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Κατανόηση της καθημερινής χρήσης:**  
- [Κατανόηση του λογαριασμού σας για το Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+ [Κατανόηση του λογαριασμού σας για Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Διαχείριση κόστους: Αποτροπή** [μη αναμενόμενου κόστους με τη χρέωση και τη διαχείριση κόστους του Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
@@ -47,10 +47,10 @@ ms.locfileid: "51812386"
 
 Εάν έχετε σύμβαση πελάτη της Microsoft, μπορείτε να επιλέξετε να λάβετε το τιμολόγιό σας σε ένα μήνυμα ηλεκτρονικού ταχυδρομείου. Όλοι οι κάτοχοι προφίλ χρέωσης, οι συνεργάτες, οι αναγνώστες και οι διαχειριστές τιμολογίων θα ούν το τιμολόγιο μέσω ηλεκτρονικού ταχυδρομείου. Οι αναγνώστες δεν μπορούν να ενημερώσουν την προτίμηση τιμολογίου ηλεκτρονικού ταχυδρομείου
 
-- Αναζήτηση για **Διαχείριση κόστους + Χρεώσεις**. Επιλέξτε ένα **προφίλ χρέωσης.** Στην περιοχή "Ρυθμίσεις", επιλέξτε **"Ιδιότητες"**
+- Αναζήτηση για **Διαχείριση κόστους + Χρεώσεις**. Επιλέξτε ένα **προφίλ χρέωσης.** Στην Ρυθμίσεις, επιλέξτε **"Ιδιότητες"**
 - Στην περιοχή "Τιμολόγιο ηλεκτρονικού ταχυδρομείου", επιλέξτε **"Ενημέρωση προτίμησης τιμολογίου ηλεκτρονικού ταχυδρομείου".** Επιλέξτε "opt in". Κάντε κλικ στην **επιλογή "Ενημέρωση"**
 
-**Σύμβαση για μεγάλες επιχειρήσεις (EA)**
+**Σύμβαση Enterprise (EA)**
 
 Για να προβάλετε και να κάνετε λήψη δεδομένων χρήσης ως πελάτης EA, πρέπει να είστε διαχειριστής εταιρείας, κάτοχος λογαριασμού ή διαχειριστής τμήματος με ενεργοποιημένη την πολιτική χρεώσεων προβολής.
 
