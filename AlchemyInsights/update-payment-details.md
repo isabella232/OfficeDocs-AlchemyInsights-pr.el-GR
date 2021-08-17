@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 849edc87c56b902a514cf3546eac3719bdadf55470a3011b694182b1e22e2433
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498828"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892427"
 ---
 # <a name="update-credit-card-information"></a>Ενημέρωση πληροφοριών πιστωτικής κάρτας
 
@@ -44,4 +44,4 @@ ms.locfileid: "54498828"
 
 Εάν αντιμετωπίζετε προβλήματα με τη φόρτωση της σελίδας, δοκιμάστε να ανοίξετε την ιστοσελίδα με ένα διαφορετικό πρόγραμμα περιήγησης ή δοκιμάστε να ανοίξετε τη σελίδα σε ένα παράθυρο ιδιωτικής περιήγησης, όπως ένα παράθυρο InPrivate στο Microsoft Edge ή ένα παράθυρο ανώνυμης περιήγησης στο Google Chrome. 
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση μεθόδων πληρωμής](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Διαχείριση μεθόδων πληρωμής](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

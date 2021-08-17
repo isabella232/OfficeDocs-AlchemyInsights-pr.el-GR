@@ -15,22 +15,22 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: 483eb266d2804d22f722c7972c8f220bef08267474098fa63441dbaf19c5716c
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c0066a325ebea3173fc2d4b76e6494c2fb05e2bf2af941e7e48ee78461063021
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892315"
 ---
 # <a name="visio-license-management"></a>Διαχείριση άδειας χρήσης του Visio
 
 Η διαχείριση αδειών χρήστης του Visio μπορεί να ολοκληρωθεί στο **Κέντρο διαχείρισης του Microsoft 365**.
 
 - [Σύγκριση επιλογών του Visio](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1) για να μάθετε για τις διαφορές μεταξύ του Visio πρόγραμμα 1 και πρόγραμμα 2.
-- Για να **αλλάξετε πρόγραμμα**, ανατρέξτε στο θέμα [Αναβάθμιση σε διαφορετικό πρόγραμμα](/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Για να **αγοράσετε** το Visio, επιλέξτε **Χρεώσεις > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο "Αναζήτηση" για να πραγματοποιήσετε αναζήτηση για το "Visio" και επιλέξτε πρόγραμμα και αριθμό χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά διαφορετικής συνδρομής](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- Για **εκχώρηση** αδειών χρήσης του Visio, επιλέξτε **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης](/microsoft-365/admin/manage/assign-licenses-to-users).
-- Για να **αγορά ή κατάργηση** αδειών χρήσης του Visio, επιλέξτε **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
-- Για να **ακυρώσετε** μια συνδρομή του Visio, μεταβείτε στην επιλογή **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**, επιλέξτε τη συνδρομή Visio και, στην ενότητα **Ρυθμίσεις συνδρομής και πληρωμής**, επιλέξτε **Ακύρωση συνδρομής**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ακύρωση της συνδρομής σας](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Για να **αλλάξετε πρόγραμμα**, ανατρέξτε στο θέμα [Αναβάθμιση σε διαφορετικό πρόγραμμα](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Για να **αγοράσετε** το Visio, επιλέξτε **Χρεώσεις > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Χρησιμοποιήστε το πλαίσιο "Αναζήτηση" για να πραγματοποιήσετε αναζήτηση για το "Visio" και επιλέξτε πρόγραμμα και αριθμό χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά διαφορετικής συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Για **εκχώρηση** αδειών χρήσης του Visio, επιλέξτε **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Για να **αγορά ή κατάργηση** αδειών χρήσης του Visio, επιλέξτε **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Για να **ακυρώσετε** μια συνδρομή του Visio, μεταβείτε στην επιλογή **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**, επιλέξτε τη συνδρομή Visio και, στην ενότητα **Ρυθμίσεις συνδρομής και πληρωμής**, επιλέξτε **Ακύρωση συνδρομής**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](/microsoft-365/commerce/licenses/buy-licenses).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

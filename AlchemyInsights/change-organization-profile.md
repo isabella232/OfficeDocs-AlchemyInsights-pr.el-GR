@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2527e9e6a88c033816479ea745c86121ca0887ec
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313626"
 ---
 # <a name="change-organization-profile"></a>Αλλαγή προφίλ οργανισμού
 
-Αλλάξτε το όνομα της εταιρείας σας, τη διεύθυνση, τα τεχνικά στοιχεία επικοινωνίας και πολλά άλλα στο κέντρο **διαχείρισης στην Ρυθμίσεις**  >  **"Οργανισμός Ρυθμίσεις προφίλ**  >  [οργανισμού".](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+Αλλάξτε το όνομα της εταιρείας σας, τη διεύθυνση, τα τεχνικά στοιχεία επικοινωνίας και πολλά άλλα στο κέντρο **διαχείρισης στην Ρυθμίσεις**  >  **"Οργανισμός Ρυθμίσεις καρτέλα προφίλ**  >  [οργανισμού".](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
 Φροντίστε να συμπληρώσετε όλα τα απαιτούμενα πεδία με * για να ενεργοποιήσετε την αποθήκευση των αλλαγών σας.
 

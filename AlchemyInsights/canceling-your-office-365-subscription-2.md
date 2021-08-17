@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686922"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893955"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Ακύρωση της συνδρομής Microsoft 365 σας;
 
@@ -33,4 +33,4 @@ ms.locfileid: "53686922"
 
 **Επιστροφή χρημάτων:** Οποιαδήποτε πίστωση με χαρακτηρισμό θα σας επιστραφεί εντός του επόμενου κύκλου χρέωσης.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

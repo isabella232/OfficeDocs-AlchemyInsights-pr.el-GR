@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037176"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892383"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Προβολή της κατάστασης διαχείρισης των εφαρμογών της Microsoft με χρήση Microsoft Edge για συσκευές iOS ή Android
 
 Για να αποκτήσετε πρόσβαση στα αρχεία καταγραφής εφαρμογών για χρήση στην αντιμετώπιση προβλημάτων των διαχειριζόμενων εφαρμογών iOS ή Android, ανοίξτε το Microsoft Edge και πληκτρολογήστε **about:intunehelp** στο πλαίσιο διεύθυνσης. Microsoft Edge ξεκινά σε λειτουργία αντιμετώπισης προβλημάτων.
 
-Για μια λίστα με τις ρυθμίσεις που είναι αποθηκευμένες στα αρχεία καταγραφής εφαρμογών, ανατρέξτε στο θέμα "Αναθεώρηση [αρχείων καταγραφής προστασίας εφαρμογών-πελατών".](/mem/intune/apps/app-protection-policy-settings-log)
+Για μια λίστα με τις ρυθμίσεις που είναι αποθηκευμένες στα αρχεία καταγραφής εφαρμογών, ανατρέξτε στο θέμα "Αναθεώρηση [αρχείων καταγραφής προστασίας εφαρμογών προγράμματος-πελάτη".](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)
 
-Για να μάθετε πώς μπορείτε να προβάλετε αρχεία καταγραφής εφαρμογών σε συσκευές Android, ανατρέξτε στο [θέμα Αποστολή και αρχεία καταγραφής ηλεκτρονικού ταχυδρομείου.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Για να μάθετε πώς μπορείτε να προβάλετε αρχεία καταγραφής εφαρμογών σε συσκευές Android, ανατρέξτε στο [θέμα Αποστολή και αρχεία καταγραφής ηλεκτρονικού ταχυδρομείου.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

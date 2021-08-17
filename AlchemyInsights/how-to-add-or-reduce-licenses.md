@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501816"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892195"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Προσθήκη ή κατάργηση αδειών χρήσης για τη συνδρομή σας
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501816"
 4. Για να αγοράσετε ή  να καταργήσετε  άδειες χρήσης, στην περιοχή "Νέα ποσότητα" στο πλαίσιο "Συνολικές άδειες χρήσης", εισαγάγετε τον συνολικό αριθμό των αδειών χρήσης που θέλετε για αυτήν τη συνδρομή. Για παράδειγμα, εάν έχετε 100 άδειες χρήσης και θέλετε να προσθέσετε άλλες 25, πληκτρολογήστε 125. Εάν θέλετε να καταργήσετε 25 άδειες χρήσης, πληκτρολογήστε 75.
 5. Επιλέξτε **"Αποθήκευση".**
 
-Για πληροφορίες σχετικά με τον τρόπο εκχώρησης αδειών χρήσης, ανατρέξτε [στο θέμα Εκχώρηση αδειών χρήσης σε χρήστες.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Για πληροφορίες σχετικά με τον τρόπο εκχώρησης αδειών χρήσης, ανατρέξτε [στο θέμα Εκχώρηση αδειών χρήσης σε χρήστες.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Πόροι**
   
-- [Αγορά ή κατάργηση αδειών χρήσης](/microsoft-365/commerce/licenses/buy-licenses)
-- [Ακύρωση Microsoft 365 για επιχειρήσεις](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Δοκιμάστε ή αγοράστε μια Microsoft 365 για επιχειρήσεις](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Ακύρωση Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Δοκιμάστε ή αγοράστε μια Microsoft 365 συνδρομή για επιχειρήσεις](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
