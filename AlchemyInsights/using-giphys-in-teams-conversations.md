@@ -1,5 +1,5 @@
 ---
-title: Χρήση του GIPHY σε συνομιλίες ομάδων
+title: Χρήση giphy σε Teams συνομιλιών
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104308"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Χρήση του GIPHY σε συνομιλίες ομάδων
+# <a name="using-giphys-in-teams-conversations"></a>Χρήση giphy σε Teams συνομιλιών
 
-Η πρόσβαση GIPHY στη συνομιλία teams είναι ενεργοποιημένη από προεπιλογή. Ως διαχειριστής, μπορείτε να ελέγξετε εάν τα GIPHY είναι διαθέσιμα στους χρήστες Ορίζοντας [μια πολιτική ανταλλαγής μηνυμάτων](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) και εξασφαλίζοντας ότι η **χρήση του GIPHY στις συνομιλίες** είναι **ενεργοποιημένη**.
+Η πρόσβαση giphys Teams συνομιλίας είναι ενεργοποιημένη από προεπιλογή. Ως διαχειριστής, μπορείτε να ελέγξετε εάν το [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) Giphy είναι διαθέσιμο στους χρήστες, ορίζοντας μια πολιτική ανταλλαγής μηνυμάτων και εξασφαλίζοντας ότι η **δυνατότητα "Χρήση Giphys σε συνομιλίες"** είναι **"Σε"**.
 
-Εάν τα αρχεία GIF δεν λειτουργούν όπως αναμένεται στις συνομιλίες ομάδων, επαληθεύστε τα εξής:
+Εάν τα GIF δεν λειτουργούν όπως αναμένεται σε Teams συνομιλιών, επαληθεύστε:
 
-Η [πολιτική ανταλλαγής μηνυμάτων](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) πρέπει να επιτρέπει το GIPHY. Για επαλήθευση με τη χρήση cmdlet PowerShell:
+Η [πολιτική ανταλλαγής μηνυμάτων πρέπει](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) να επιτρέπει giphy. Για να το επαληθεύσετε χρησιμοποιώντας cmdlet του PowerShell:
 
-- Βεβαιωθείτε ότι μπορείτε να [διαχειριστείτε ομάδες με το PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Εκτελέστε την εντολή PowerShell [Get-CsTeamsMessagingPolicy-Identity global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) και βεβαιωθείτε ότι το **AllowGiphy** έχει την τιμή **True**.
-- Εάν το **AllowGiphy** έχει καθοριστεί σε **False** , εκτελέστε την ακόλουθη εντολή PowerShell- [CsTeamsMessagingPolicy-ταυτότητα global-AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Βεβαιωθείτε ότι μπορείτε να [διαχειριστείτε Teams το PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- Εκτελέστε την εντολή PowerShell [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) και βεβαιωθείτε ότι **το AllowGiphy** έχει οριστεί σε **TRUE.**
+- Εάν **το AllowGiphy** έχει οριστεί σε **FALSE,** εκτελέστε την ακόλουθη εντολή PowerShell [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True.](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
 
-Οι [προαιρετικές συνδεδεμένες εμπειρίες](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) πρέπει να είναι ενεργοποιημένες για να επιτρέπουν την πρόσβαση στη διεύθυνση URL του GIPHY.
+[Οι προαιρετικές συνδεδεμένες](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) εμπειρίες πρέπει να είναι ενεργοποιημένες για να επιτρέπεται η πρόσβαση στη διεύθυνση URL giphy.
 
 > [!NOTE]
-> Εάν έχετε ρυθμίσει πολλές πολιτικές ανταλλαγής μηνυμάτων ομάδων για τον μισθωτή σας, μπορείτε να προσδιορίσετε την ταυτότητα της πολιτικής που έχει εκχωρηθεί στον χρήστη με την εντολή PowerShell [Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Επιλέξτε TeamsMessagingPolicy.
+> Εάν έχετε ρυθμίσει πολλές πολιτικές ανταλλαγής Teams μηνυμάτων για το μισθωτή σας, μπορείτε να προσδιορίσετε την ταυτότητα της πολιτικής που έχει εκχωρηθεί στον χρήστη που έχει επιπτώσεις με την εντολή ["Λήψη CsOnlineUser- Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Επιλέξτε TeamsMessagingPolicy.

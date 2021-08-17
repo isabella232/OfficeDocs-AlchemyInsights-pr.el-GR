@@ -1,5 +1,5 @@
 ---
-title: Προβλήματα με τα χαρακτηριστικά SAML
+title: Προβλήματα με χαρακτηριστικά SAML
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7838"
-ms.openlocfilehash: a0bff21ccac29c7e0ae8369a5a8dc0ba9685cb63
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: d02dd5d019cc68b49b019dee2928924deca181a87e3d5c5f5e7689a8eb5664e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042882"
 ---
-# <a name="issues-with-saml-attributes"></a>Προβλήματα με τα χαρακτηριστικά SAML
+# <a name="issues-with-saml-attributes"></a>Προβλήματα με χαρακτηριστικά SAML
 
-1. Ακολουθήστε τα βήματα σε [αυτό το άρθρο](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) για να καταλάβετε πώς να χρησιμοποιείτε προσαρμοσμένα χαρακτηριστικά στο SAML Response.
-2. [Επιλέξτε τις τιμές χαρακτηριστικού που έχουν εγκριθεί και οι οποίες μπορούν να αναφερθούν για αξιώσεις](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) για έγκυρες τιμές αναγνωριστικού ανά προέλευση.
+1. Ακολουθήστε τα βήματα σε αυτό [το άρθρο για](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) να κατανοήσετε πώς μπορείτε να χρησιμοποιήσετε προσαρμοσμένα χαρακτηριστικά στην απόκριση SAML.
+2. [Ελέγξτε τις εγκεκριμένες τιμές χαρακτηριστικών που μπορούν να χρησιμοποιηθούν για αξιώσεις για](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) έγκυρες τιμές αναγνωριστικού ανά προέλευση.
