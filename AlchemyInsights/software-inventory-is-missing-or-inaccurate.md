@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107125"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Το απόθεμα λογισμικού λείπει ή δεν είναι ακριβές
 
-Το απόθεμα λογισμικού στην Microsoft Defender ATP υπηρεσίας παρέχει το όνομα ή τον προμηθευτή του προϊόντος, τον αριθμό τελευταίας έκδοσης και εντόπισε ελλείψεις και ευπάθειες. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Απόθεμα λογισμικού - Διαχείριση απειλών και ευπαθειών.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
+Το απόθεμα λογισμικού στην υπηρεσία ATP του Microsoft Defender παρέχει το όνομα ή τον προμηθευτή του προϊόντος, τον αριθμό της τελευταίας έκδοσης και εντόπισε ελλείψεις και ευπάθειες. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Απόθεμα λογισμικού - Διαχείριση απειλών και ευπαθειών.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
 Μπορείτε να αναφέρετε ασαφείς ή ελλιπείς πληροφορίες, ανακριβείς αριθμούς εκδόσεων ή πληροφορίες αποκατάστασης αποθέματος λογισμικού, ακολουθώντας τα παρακάτω βήματα.  
 
