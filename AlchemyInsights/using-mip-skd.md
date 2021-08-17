@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b5216f9ab67f50d0adffeac9154ef4ce2b28a8178e5857c64fbbd78884d77b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083986"
 ---
 # <a name="using-mip-skd"></a>Χρήση του MIP SKD
 
-Για να χρησιμοποιήσετε το SDK MIP, απαιτούνται διάφορα βήματα για τη ρύθμιση και τη ρύθμιση των παραμέτρων της συνδρομής σας στο Office 365 και του σταθμού εργασίας προγράμματος-πελάτη. Αυτά τα βήματα περιλαμβάνουν τα εξής:
+Για να χρησιμοποιήσετε το SDK MIP, απαιτούνται διάφορα βήματα για τη ρύθμιση και τη ρύθμιση των παραμέτρων της Office 365 και του σταθμού εργασίας του προγράμματος-πελάτη. Αυτά τα βήματα περιλαμβάνουν τα εξής:
 
-- Εγγραφείτε για μια συνδρομή στο Office 365.
+- Εγγραφείτε για μια Office 365 σας.
 - Ρύθμιση παραμέτρων ετικετών ευαισθησίας.
 - Ρυθμίστε τις παραμέτρους του σταθμού εργασίας του προγράμματος-πελάτη.
-- Καταχωρήστε μια εφαρμογή-πελάτη με το Azure Active Directory.
+- Καταχωρήστε μια εφαρμογή-πελάτη με Azure Active Directory.
 - Αίτηση σύμβασης ενοποίησης προστασίας πληροφοριών (IPIA).
 - Βεβαιωθείτε ότι η εφαρμογή σας έχει τον απαιτούμενο χρόνο εκτέλεσης.
 
@@ -34,8 +34,8 @@ ms.locfileid: "51770955"
 
 Για πρόσθετους πόρους, ανατρέξτε στο θέμα:
 
-- [Τεκμηρίωση SDK προστασίας πληροφοριών της Microsoft](https://docs.microsoft.com/information-protection/develop/)
+- [προστασία πληροφοριών Microsoft Τεκμηρίωση SDK](https://docs.microsoft.com/information-protection/develop/)
 - [Οδηγός προγραμματιστή για την Προστασία πληροφοριών Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Λήψη του Κιτ ανάπτυξης λογισμικού προστασίας πληροφοριών της Microsoft](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Ρύθμιση και ρύθμιση παραμέτρων SDK για την Προστασία πληροφοριών της Microsoft (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Λήψη προστασία πληροφοριών Microsoft Software Development Kit](https://www.microsoft.com/download/details.aspx?id=57392)
+- [προστασία πληροφοριών Microsoft εγκατάστασης και ρύθμισης παραμέτρων SDK (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 - [Δείγματα κώδικα Azure για SDK MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)

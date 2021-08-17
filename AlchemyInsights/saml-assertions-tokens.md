@@ -1,5 +1,5 @@
 ---
-title: Ισχυρισμοί SAML (tokens)
+title: Διεκδίκηση SAML (Διακριτικά)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109240"
 ---
-# <a name="saml-assertions-tokens"></a>Ισχυρισμοί SAML (tokens)
+# <a name="saml-assertions-tokens"></a>Διεκδίκηση SAML (Διακριτικά)
 
-1. Τα κουπόνια ισχυρισμών της γλώσσας σήμανσης ασφαλείας (SAML) είναι παραστάσεις XML για αξιώσεις. Από προεπιλογή, τα διακριτικά SAML που χρησιμοποιούνται για τα Windows Communication Foundation (WCF) στα ομόσπονδα σενάρια ασφαλείας εκδίδονται ως διακριτικά. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [διακριτικά και αξιώσεις του SAML](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
-2. Η πλατφόρμα ταυτοτήτων της Microsoft εκπέμπει διάφορους τύπους διακριτικών ασφαλείας κατά την επεξεργασία κάθε ροής ελέγχου ταυτότητας. [Αναφορά απαιτήσεων διακριτικού SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) περιγράφει τη μορφή, τα χαρακτηριστικά ασφαλείας και τα περιεχόμενα των διακριτικών του SAML 2,0.
-3. Ακολουθήστε τις οδηγίες στη [διάρκεια ζωής διακριτικού με δυνατότητα ρύθμισης παραμέτρων στην πλατφόρμα ταυτοτήτων της Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) , για να καταλάβετε πώς να ρυθμίσετε τις παραμέτρους των διακριτικών ζωών.
-4. Ακολουθήστε τα βήματα που περιγράφονται σε [αυτό το άρθρο](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) για να καταλάβετε πώς να ρυθμίσετε τις παραμέτρους της κρυπτογράφησης του διακριτικού Azure AD SAML.
-5. Στο Azure AD, μπορείτε να ρυθμίσετε τις επιλογές υπογραφής πιστοποιητικών και τον αλγόριθμο υπογραφής πιστοποιητικού. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [επιλογές υπογραφής πιστοποιητικών για προχωρημένους στο ΔΙΑΚΡΙΤΙΚΌ SAML για τις εφαρμογές συλλογής στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
+1. Τα διακριτικά γλώσσας σήμανσης διεκδίκων ασφαλείας (SAML) είναι παραστάσεις απαιτήσεων XML. Από προεπιλογή, τα διακριτικά SAML Windows επικοινωνίας (WCF) που χρησιμοποιούνται σε ομόσπονδα σενάρια ασφαλείας εκδίδονται διακριτικά. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Διακριτικά SAML και Αξιώσεις.](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims)
+2. Η Πλατφόρμα ταυτοτήτων της Microsoft εκπέμπει διάφορους τύπους διακριτικών ασφαλείας κατά την επεξεργασία κάθε ροής ελέγχου ταυτότητας. [Η αναφορά αξιώσεις διακριτικού SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) περιγράφει τη μορφή, τα χαρακτηριστικά ασφαλείας και τα περιεχόμενα των διακριτικών SAML 2.0.
+3. Ακολουθήστε τις οδηγίες στο πλαίσιο ["Διάρκεια ζωής διακριτικού](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) με δυνατότητα ρύθμισης παραμέτρων" Πλατφόρμα ταυτοτήτων της Microsoft για να κατανοήσετε πώς μπορείτε να ρυθμίσετε τις παραμέτρους της ζωής διακριτικών.
+4. Ακολουθήστε τα βήματα που περιγράφονται σε αυτό [το άρθρο για να](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) κατανοήσετε πώς μπορείτε να ρυθμίσετε τις παραμέτρους κρυπτογράφησης διακριτικού Azure AD SAML.
+5. Στο Azure AD, μπορείτε να ρυθμίσετε επιλογές υπογραφής πιστοποιητικού και τον αλγόριθμο υπογραφής πιστοποιητικού. Για περισσότερες πληροφορίες, [ανατρέξτε στο θέμα Επιλογές υπογραφής πιστοποιητικών](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)για προχωρημένους στο διακριτικό SAML για εφαρμογές συλλογής στο Azure Active Directory.

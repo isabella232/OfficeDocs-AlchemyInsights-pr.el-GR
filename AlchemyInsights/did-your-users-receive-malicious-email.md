@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929197"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893403"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Έλαβαν οι χρήστες σας κακόβουλα μηνύματα ηλεκτρονικού ταχυδρομείου;
 
-- Μπορείτε πλέον να αναφέρετε το κακόβουλο μήνυμα ηλεκτρονικού ταχυδρομείου στη Microsoft χρησιμοποιώντας τις [Υποβολές διαχειριστών στο κέντρο ασφάλειας και συμμόρφωσης](https://sip.protection.office.com/reportsubmission).
+Τώρα μπορείτε να αναφέρετε το κακόβουλο μήνυμα ηλεκτρονικού ταχυδρομείου στη Microsoft [χρησιμοποιώντας τις υποβολές Microsoft 365 Defender πύλη.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-Τα μηνύματα που υποβάλλονται στις [Υποβολές διαχειριστών](https://sip.protection.office.com/reportsubmission) σαρώνονται και τα ακόλουθα αποτελέσματα εμφανίζονται στο αναδυόμενο μήνυμα **λεπτομέρειες**:
+Τα μηνύματα που υποβάλλονται [σε υποβολές διαχειριστών](https://security.microsoft.com/reportsubmission?viewid=admin) σαρώνονται και τα ακόλουθα αποτελέσματα εμφανίζονται στο αναδυόμενο αναδυόμενο πλαίσιο λεπτομερειών:
 
 - Εάν υπήρξε αποτυχία στον έλεγχο ταυτότητας ηλεκτρονικού ταχυδρομείου του αποστολέα τη στιγμή της παράδοσης.
 - Πληροφορίες σχετικά με τυχόν πολιτικές που θα μπορούσαν να έχουν επηρεάσει ή να παρακάμψει την κρίση ενός μηνύματος.
@@ -39,9 +39,9 @@ ms.locfileid: "53929197"
 Στο μεταξύ, μπορείτε να καταργήσετε κακόβουλα μηνύματα ηλεκτρονικού ταχυδρομείου από τα εισερχόμενα των χρηστών, ακολουθώντας τις οδηγίες σε[αυτό το άρθρο](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Οι πελάτες που έχουν το Microsoft Defender για Office 365 μπορούν να:
-    - χρησιμοποιήσουν την [Εξερεύνηση απειλών για εύρεση και διαγραφή ύποπτων μηνυμάτων ηλεκτρονικού ταχυδρομείου](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [χρησιμοποιήσουν τις Ασφαλείς συνδέσεις για τον αποκλεισμό της προσβασιμότητας](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) κακόβουλων διευθύνσεων URL
-    - παρακολουθούν χρήστες που έχουν κάνει κλικ και έχουν εισέλθει σε κακόβουλες διευθύνσεις URL: [Προβολή διευθύνσεων URL ηλεκτρονικού "ψαρέματος" και κλικ σε δεδομένα κρίσεων](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - [εκκινήσουν μια Αυτοματοποιημένη έρευνα](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office) χειροκίνητα
+  - Χρήση της [Εξερεύνησης απειλών για εύρεση και διαγραφή ύποπτων μηνυμάτων ηλεκτρονικού ταχυδρομείου](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Χρήση Θυρίδα συνδέσεων για τον αποκλεισμό της πρόσβασης σε](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) μια κακόβουλη διεύθυνση URL
+  - Παρακολούθηση χρηστών που έχουν κάνει κλικ και έχουν πρόσβαση σε κακόβουλες διευθύνσεις URL: Προβολή διεύθυνσης [URL ηλεκτρονικού "ψαρέματος"](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)και κλικ στα δεδομένα  &  [ετυμηγορίας Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Έναρξη [αυτοματοποιημένης έρευνας με μη αυτόματο τρόπο](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Επίσης, μπορείτε να προστατεύεστε από κακόβουλα αρχεία και διευθύνσεις URL, ακολουθώντας τις οδηγίες στο άρθρο [Προστασία από κακόβουλες διευθύνσεις URL και αρχεία](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).

@@ -12,23 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917711"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893099"
 ---
 # <a name="auditing-results-are-blank"></a>Τα αποτελέσματα ελέγχου είναι κενά
 
- **Αναφορές ελέγχου για κλασικές τοποθεσίες**
+**Αναφορές ελέγχου για κλασικές τοποθεσίες**
   
-Για να προβάλετε μια αναφορά ελέγχου για μια SharePoint συλλογής τοποθεσιών, πρέπει να είστε διαχειριστής για τη συλλογή τοποθεσιών. Για να προσθέσετε τον εαυτό σας ως διαχειριστή, ανατρέξτε στο θέμα Προσθήκη διαχειριστών συλλογής τοποθεσιών [ως καθολικού ή SharePoint διαχειριστή.](https://go.microsoft.com/fwlink/?linkid=869390) Για πληροφορίες σχετικά με την εργασία με το αρχείο καταγραφής ελέγχου, ανατρέξτε στο θέμα [Προβολή αναφορών αρχείου καταγραφής ελέγχου.](https://go.microsoft.com/fwlink/?linkid=395237) 
+Για να προβάλετε μια αναφορά ελέγχου για μια SharePoint συλλογής τοποθεσιών, πρέπει να είστε διαχειριστής για τη συλλογή τοποθεσιών. Για να προσθέσετε τον εαυτό σας ως διαχειριστή, [ανατρέξτε στο θέμα Διαχείριση διαχειριστών τοποθεσίας.](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) Για πληροφορίες σχετικά με την εργασία με το αρχείο καταγραφής ελέγχου, ανατρέξτε στο θέμα [Προβολή αναφορών αρχείου καταγραφής ελέγχου.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
   
- **Αναζήτηση στο αρχείο καταγραφής ελέγχου**
+**Αναζήτηση στο αρχείο καταγραφής ελέγχου**
   
-Πρέπει να είστε καθολικός διαχειριστής για να εργαστείτε με το αρχείο καταγραφής ελέγχου στο [Κέντρο &amp; συμμόρφωσης ασφαλείας.](https://protection.office.com) Πριν ξεκινήσετε, ενεργοποιήστε την καταγραφή ελέγχου. Στη συνέχεια, μπορείτε να εκτελέσετε μια αναζήτηση αρχείου καταγραφής ελέγχου. 
+Πρέπει να είστε καθολικός διαχειριστής για να εργαστείτε με το αρχείο καταγραφής ελέγχου στο Κέντρο συμμόρφωσης Microsoft 365 ή <https://compliance.microsoft.com/auditlogsearch> στην Microsoft 365 Defender στην τοποθεσία <https://security.microsoft.com/auditlogsearch> . Πριν ξεκινήσετε, ενεργοποιήστε την καταγραφή ελέγχου. Στη συνέχεια, μπορείτε να εκτελέσετε μια αναζήτηση αρχείου καταγραφής ελέγχου.
   
-[Μάθετε πώς μπορείτε να κάνετε αναζήτηση στο αρχείο καταγραφής ελέγχου.](https://go.microsoft.com/fwlink/?linkid=708432)
-  
-
+[Μάθετε πώς μπορείτε να κάνετε αναζήτηση στο αρχείο καταγραφής ελέγχου.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)

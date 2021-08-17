@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082402"
 ---
 # <a name="change-a-users-email-address"></a>Αλλαγή της διεύθυνσης ηλεκτρονικού ταχυδρομείου ενός χρήστη
 
 Η αλλαγή της διεύθυνσης ηλεκτρονικού ταχυδρομείου κάποιου είναι εύκολη! Απλώς ακολουθήστε τα παρακάτω βήματα:
   
-1. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στη σελίδα ["Χρήστες"](https://go.microsoft.com/fwlink/p/?linkid=834822) ή επιλέξτε **"Χρήστες** \> **ενεργοί χρήστες".**
+1. Στο πλαίσιο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα ["Χρήστες"](https://go.microsoft.com/fwlink/p/?linkid=834822) ή επιλέξτε **"Χρήστες** \> **ενεργοί χρήστες".**
     
 2. Επιλέξτε το χρήστη.
     

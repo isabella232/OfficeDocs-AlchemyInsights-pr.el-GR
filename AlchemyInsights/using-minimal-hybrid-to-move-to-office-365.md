@@ -1,5 +1,5 @@
 ---
-title: Χρήση του ελάχιστου υβριδικού για μετακίνηση στη Microsoft
+title: Χρήση της Ελάχιστης υβριδικής λειτουργίας για μετακίνηση στη Microsoft
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 78906cf95cbb9e6cccc9f960d44fb5d3dad29eec
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: ec20bb87441462f2d14fa3d59633a9739535e838b06ef45ca33082a9c018d55c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084022"
 ---
-# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Χρήση του ελάχιστου υβριδικού για μετακίνηση στο Microsoft 365
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Χρήση της Ελάχιστης υβριδικής λειτουργίας για μετακίνηση Microsoft 365
 
-Για να μάθετε περισσότερα σχετικά με το ελάχιστο υβριδικό, γνωστό και ως Εξπρές μετεγκατάσταση, ανατρέξτε στο θέμα [χρήση του ελάχιστου υβριδικού για γρήγορη μετεγκατάσταση γραμματοκιβωτίων του Exchange στο Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Για να μάθετε περισσότερα σχετικά με την Ελάχιστη υβριδική, γνωστή και ως Γρήγορη μετεγκατάσταση, ανατρέξτε στο θέμα Χρήση ελάχιστης υβριδικής λειτουργίας για γρήγορη [μετεγκατάσταση Exchange γραμματοκιβωτίων σε Microsoft 365.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate)
