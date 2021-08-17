@@ -1,5 +1,5 @@
 ---
-title: Αναδυόμενο τεύχος
+title: Αναδυόμενο πρόβλημα
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108952"
 ---
-# <a name="emerging-issue"></a>Αναδυόμενο τεύχος
+# <a name="emerging-issue"></a>Αναδυόμενο πρόβλημα
 
-Αρκετοί πελάτες έχουν παραπονεθεί για ένα πρόβλημα παρόμοιο με αυτό που αναφέρετε. Εξετάζουμε αυτό το ζήτημα.
+Αρκετοί πελάτες έχουν παραπονεθεί για ένα πρόβλημα παρόμοιο με αυτό που αναφέρετε. Αυτό το πρόβλημα το κοιτάμε.
 
-Παρακαλούμε ελέγξτε τον [πίνακα εργαλείων εύρυθμης](https://admin.microsoft.com/adminportal/home#/servicehealth) λειτουργίας της υπηρεσίας για να παραμείνετε ενημερωμένοι για οποιαδήποτε συμβάντα που επηρεάζουν την υπηρεσία.
+Ελέγξτε τον πίνακα [εργαλείων υγείας υπηρεσιών](https://admin.microsoft.com/adminportal/home#/servicehealth) για να παραμείνετε ενημερωμένοι σχετικά με τυχόν περιστατικά που επηρεάζουν την υπηρεσία.

@@ -1,5 +1,5 @@
 ---
-title: Αναφορά προώθησης ηλεκτρονικού ταχυδρομείου
+title: Αναφορά αυτόματης προώθησης μηνυμάτων
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030128"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891451"
 ---
-# <a name="email-forwarding-report"></a>Αναφορά προώθησης ηλεκτρονικού ταχυδρομείου
+# <a name="auto-forwarded-messages-report"></a>Αναφορά αυτόματης προώθησης μηνυμάτων
 
-Για να προβάλετε μια αναφορά σχετικά με το πόσα αυτόματα προωθημένα μηνύματα υπάρχουν στον οργανισμό σας, ελέγξτε το θέμα [Πληροφορίες για τα αυτόματα προωθημένα μηνύματα στο Κέντρο συμμόρφωσης και ασφαλείας](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) στην περιοχή [Κέντρο συμμόρφωσης&amp; της Ασφάλειας Microsoft 365](https://protection.office.com/#/homepage).
-  
-ΣΗΜΕΙΩΣΗ: Εάν αυτή είναι η πρώτη φορά που συνδέεστε στο Κέντρο ασφαλείας &amp; συμμόρφωσης, ίσως, μετά από μερικά λεπτά, να χρειαστεί να ανανεώσετε το πρόγραμμα περιήγησης για να δείτε όλες τις διαθέσιμες επιλογές.
+Για να δείτε μια αναφορά σχετικά με τον πόσα μηνύματα [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) αυτόματης προώθησης υπάρχουν στην εταιρεία σας, ελέγξτε την αναφορά μηνυμάτων αυτόματης προώθησης στο κέντρο διαχείρισης του Exchange (EAC) στη ροή αλληλογραφίας <https://admin.exchange.microsoft.com/> \>  \> **αναφορών.** Εναλλακτικά, για να μεταβείτε απευθείας στη **σελίδα "Αυτόματη προώθηση μηνυμάτων",** χρησιμοποιήστε <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> το .
   
