@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931197"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890758"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Ακύρωση της συνδρομής Microsoft 365 σας;
 
@@ -31,6 +31,6 @@ ms.locfileid: "53931197"
 3. Στο παράθυρο **"Ακύρωση** συνδρομής", επιλέξτε έναν λόγο για τον οποίο ακυρώνετε. Προαιρετικά, παράσχετε τυχόν σχόλια.
 4. Επιλέξτε **"Αποθήκευση".**
 
-Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή τις επιλογές, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Για να μάθετε περισσότερα σχετικά με την ακύρωση μιας συνδρομής ή τις επιλογές, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Εάν θέλετε να συνεχίσετε να χρησιμοποιείτε τη συνδρομή σας κατά τη διάρκεια της δοκιμαστικής έκδοσης, μπορείτε να απενεργοποιήσετε την περιοδική χρέωση για τη συνδρομή. Για να μάθετε πώς γίνεται αυτό, [ανατρέξτε στο θέμα "Ανανέωση Microsoft 365 για επιχειρήσεις".](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Εάν θέλετε να συνεχίσετε να χρησιμοποιείτε τη συνδρομή σας κατά τη διάρκεια της δοκιμαστικής έκδοσης, μπορείτε να απενεργοποιήσετε την περιοδική χρέωση για τη συνδρομή. Για να μάθετε πώς γίνεται αυτό, [ανατρέξτε στο θέμα "Ανανέωση Microsoft 365 για επιχειρήσεις".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

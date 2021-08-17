@@ -1,5 +1,5 @@
 ---
-title: Πώς να ενεργοποιήσετε το φιλοξενούμενο φωνητικό ταχυδρομείο
+title: Τρόπος ενεργοποίησης του Φιλοξενούμενου φωνητικού ταχυδρομείου
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055554"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Πώς να ενεργοποιήσετε το φιλοξενούμενο φωνητικό ταχυδρομείο
+# <a name="how-to-enable-hosted-voicemail"></a>Τρόπος ενεργοποίησης του Φιλοξενούμενου φωνητικού ταχυδρομείου
 
-Για να ενεργοποιήσετε το φωνητικό ταχυδρομείο, το **HostedVoicemail** πρέπει να έχει $True.
+Για να ενεργοποιήσετε το Φωνητικό **ταχυδρομείο, το HostedVoicemail** πρέπει να έχει οριστεί σε $true.
 
-Η ιδιότητα **HostedVoicemail** στο χρήστη που χρησιμοποιεί το Remote POWERSHELL (RPS).
+Η **ιδιότητα HostedVoicemail** στο χρήστη που χρησιμοποιεί το Απομακρυσμένο PowerShell (RPS).
 
-Για περισσότερες πληροφορίες σχετικά με τη σύνδεση στο RPS, ανατρέξτε στο θέμα [Επισκόπηση του Microsoft teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) για περισσότερες πληροφορίες σχετικά με τη σύνδεση στο RPS.
+Για περισσότερες πληροφορίες σχετικά με τη σύνδεση στο RPS, ανατρέξτε Microsoft Teams επισκόπηση του [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) για περισσότερες πληροφορίες σχετικά με τη σύνδεση στο RPS.
 
-1. Ο διαχειριστής των ομάδων θα πρέπει να συνδεθεί στο απομακρυσμένο PowerShell για ομάδες.
-1. Από την ερώτηση PowerShell, ο διαχειριστής των ομάδων μπορεί να εκτελέσει το πρόγραμμα **csuser user@contoso.com-HostedVoiceMail $True** όπου το URI SIP είναι του εν λόγω χρήστη.
+1. Ο Teams διαχειριστής θα πρέπει να συνδεθεί στο Απομακρυσμένο PowerShell για Teams.
+1. Από το PowerShell, ο διαχειριστής του Teams μπορεί να εκτελέσει το **set-csuser user@contoso.com -HostedVoiceMail $true** όπου το sip uri είναι του εν λόγω χρήστη.
 
 > [!NOTE]
-> Οι αλλαγές στις πολιτικές μπορεί να χρειαστούν έως και 24 ώρες για την αναπαραγωγή.
+> Οι αλλαγές στις πολιτικές μπορεί να διαρκέσει έως και 24 ώρες για την αναπαραγωγή.

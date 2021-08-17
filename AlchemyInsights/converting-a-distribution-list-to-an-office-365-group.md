@@ -1,5 +1,5 @@
 ---
-title: 712 Μετατροπή λίστας διανομής σε ομάδα του Microsoft 365
+title: 712 Μετατροπή μιας λίστας διανομής σε Microsoft 365 ομάδας
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
+ms.openlocfilehash: 3193dfa1223f91533e17f31f6db4061d09266a6f2e4f1b46fffc40f8fb50fda1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51897313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081142"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Μετατροπή ομάδας διανομής σε ομάδα Microsoft 365
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Μετατροπή μιας ομάδας διανομής σε Microsoft 365 ομάδας
 
-Μπορείτε να μετατρέψετε ομάδες διανομής σε Ομάδες Microsoft 365, εάν πληρούν συγκεκριμένα κριτήρια. Για να μετατρέψετε μια ομάδα ή να αντιμετωπίσετε προβλήματα μετατροπής, ανατρέξτε στο θέμα Αναβάθμιση λιστών διανομής σε [Ομάδες Microsoft 365 στο Outlook.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)
+Μπορείτε να μετατρέψετε ομάδες διανομής σε Microsoft 365 ομάδες, εάν πληρούν συγκεκριμένα κριτήρια. Για να μετατρέψετε μια ομάδα ή να αντιμετωπίσετε προβλήματα μετατροπής, ανατρέξτε στο θέμα Αναβάθμιση λιστών [διανομής σε Microsoft 365 ομάδων στο Outlook.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)
 
-Έχουμε επίσης μια δέσμη ενεργειών που μπορείτε να εκτελέσετε για να σας βοηθήσει με την επικύρωση καταλληλότητας ομάδας διανομής για [αναβάθμιση σε Ομάδα Microsoft 365.](https://aka.ms/DLToM365Group)
+Έχουμε επίσης μια δέσμη ενεργειών που μπορείτε να εκτελέσετε για να σας βοηθήσει με την επικύρωση της καταλληλότητας της ομάδας διανομής για [αναβάθμιση σε Microsoft 365 Ομάδας.](https://aka.ms/DLToM365Group)
