@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918431"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891755"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Υπηρεσία εισαγωγής
 
@@ -31,11 +31,11 @@ ms.locfileid: "53918431"
 
 1. Στη σελίδα **"Εισαγωγή",** επιλέξτε **"Νέα εργασία εισαγωγής".** Πληκτρολογήστε ένα όνομα εργασίας και επιλέξτε **"Επόμενο".**
 
-1. Επιλέξτε **"Αποστολή των δεδομένων σας"** για να χρησιμοποιήσετε την επιλογή αποστολής δικτύου για **την "Εισαγωγή τύπου εργασίας".** Για λεπτομερείς οδηγίες, [ανατρέξτε στο θέμα Χρήση αποστολής](/compliance/use-network-upload-to-import-pst-files)δικτύου για την εισαγωγή αρχείων PST του οργανισμού σας Microsoft 365.
+1. Επιλέξτε **"Αποστολή των δεδομένων σας"** για να χρησιμοποιήσετε την επιλογή αποστολής δικτύου για **την "Εισαγωγή τύπου εργασίας".** Για λεπτομερείς οδηγίες, [ανατρέξτε στο θέμα Χρήση αποστολής](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)δικτύου για την εισαγωγή αρχείων PST του οργανισμού σας Microsoft 365.
 
-Για να **αποκτήσετε πρόσβαση** στη σελίδα "Εισαγωγή", βεβαιωθείτε ότι σας έχουν εκχωρηθεί τα κατάλληλα δικαιώματα. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Χρήση αποστολής δικτύου για την εισαγωγή αρχείων PST.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
+Για να **αποκτήσετε πρόσβαση** στη σελίδα "Εισαγωγή", βεβαιωθείτε ότι σας έχουν εκχωρηθεί τα κατάλληλα δικαιώματα. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Χρήση αποστολής δικτύου για την εισαγωγή αρχείων PST.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
 Εάν θέλετε να εισαγάγετε ένα ΑΡΧΕΊΟ PST στο γραμματοκιβώτιό σας, ανατρέξτε στο θέμα Εισαγωγή ηλεκτρονικού ταχυδρομείου, επαφών και [ημερολογίου από ένα Outlook αρχείο .pst.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
 
-Εάν αντιμετωπίζετε πρόβλημα με μια εισαγωγή, ανατρέξτε στο θέμα Θέματα [που επηρεάζουν τις εργασίες εισαγωγής PST.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Εάν αντιμετωπίζετε πρόβλημα με μια εισαγωγή, ανατρέξτε στο θέμα Θέματα [που επηρεάζουν τις εργασίες εισαγωγής PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

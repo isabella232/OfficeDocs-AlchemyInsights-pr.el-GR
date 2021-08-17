@@ -1,5 +1,5 @@
 ---
-title: Πού μπορείτε να εγκαταστήσετε το Office από
+title: Από πού να εγκαταστήσετε Office από
 ms.author: janellem
 author: janellem
 ms.audience: ITPro
@@ -11,25 +11,25 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 38eb63760ecb16480b140e026565c7323473e8cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b38246a350fb0a2ad0c73ed7e126e8addf97eb008a3130954a2c01ecc8f4eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083266"
 ---
-# <a name="install-office"></a>Εγκατάσταση του Office
+# <a name="install-office"></a>Εγκατάσταση Office
 
-Για να εγκαταστήσετε το Office, οι χρήστες πρέπει να διαθέτουν ένα [προϊόν Microsoft 365 για επαγγελματικές](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) εφαρμογές που περιλαμβάνει τις εφαρμογές υπολογιστή και μια [άδεια χρήσης που έχει εκχωρηθεί](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Για να εγκαταστήσουν Office, οι χρήστες πρέπει [να έχουν ένα Microsoft 365 για](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) επαγγελματικό προϊόν που περιλαμβάνει τις εφαρμογές υπολογιστή και μια [εκχωρηθείσα άδεια χρήσης.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
   
-Στη συνέχεια, μπορείτε να εγκαταστήσετε το Office ακολουθώντας τα παρακάτω βήματα:
+Office να εγκατασταθεί, ακολουθώντας τα παρακάτω βήματα:
   
-1. Μετάβαση στο [Portal.Office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
+1. Μετάβαση στο [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
 
-2. Στην αρχική σελίδα του Office, επιλέξτε τη γλώσσα που θέλετε και, στη συνέχεια, επιλέξτε για **προχωρημένους** για να επιλέξετε μεταξύ της έκδοσης 64 bit ή του 32-bit.
+2. Στην αρχική Office, επιλέξτε τη γλώσσα που θέλετε  και, στη συνέχεια, επιλέξτε "Για προχωρημένους" για να επιλέξετε μεταξύ της έκδοσης 64 bit ή 32 bit.
 
-3. Επιλέξτε **εγκατάσταση του Office**.
+3. Επιλέξτε **"Εγκατάσταση Office".**
 
-Για περισσότερες λεπτομέρειες, ανατρέξτε [στο θέμα λήψη και εγκατάσταση ή επανεγκατάσταση του Office σε PC ή Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Για περισσότερες λεπτομέρειες, ανατρέξτε στο [θέμα Λήψη και εγκατάσταση ή επανεγκατάσταση Office σε PC ή Mac.](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
-Για συγκεκριμένες οδηγίες σχετικά με το Visio ή το Project, ανατρέξτε στο θέμα [εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ή [εγκατάσταση του Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
+Για συγκεκριμένες οδηγίες σχετικά με το Visio ή το Project, ανατρέξτε στο θέμα [Εγκατάσταση του Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ή [Εγκατάσταση του Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).

@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009176"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891899"
 ---
 # <a name="subscription-expired"></a>Η συνδρομή έληξε
 
@@ -35,7 +35,7 @@ ms.locfileid: "54009176"
 3. Στο παράθυρο **"Επανενεργοποίηση αυτής της** συνδρομής", επιλέξτε μια μέθοδο πληρωμής από την αναπτυσσόμενη λίστα ή επιλέξτε **"Προσθήκη μεθόδου πληρωμής".**
 4. Επιλέξτε **"Αποθήκευση".**
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Επανενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Διαχείριση ανανέωσης συνδρομής**
 
@@ -47,4 +47,4 @@ ms.locfileid: "54009176"
 4. Στο παράθυρο **"Επεξεργασία ρυθμίσεων περιοδικής χρέωσης",** επιλέξτε **"Ενεργοποίηση",** **"Ενεργοποίηση" αλλά "Ανανέωση" μία** φορά ή **"Απενεργοποίηση".**
 5. Επιλέξτε **"Αποθήκευση".**
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της επαναλαμβανόμενης χρέωσης](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Απενεργοποίηση ή ενεργοποίηση της επαναλαμβανόμενης χρέωσης](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

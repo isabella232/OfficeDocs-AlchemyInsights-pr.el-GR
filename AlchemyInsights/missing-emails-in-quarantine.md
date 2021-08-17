@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026222"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892047"
 ---
-# <a name="missing-emails-in-quarantine"></a>Μηνύματα ηλεκτρονικού ταχυδρομείου που λείπουν σε καραντίνα"
+# <a name="missing-emails-in-quarantine"></a>Μηνύματα ηλεκτρονικού ταχυδρομείου που λείπουν σε καραντίνα
 
-Οι διαχειριστές μπορούν να [προβάλουν, να κυκλοφορούν ή να διαγράψουν αυτά τα μηνύματα.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Οι διαχειριστές μπορούν να [προβάλουν, να κυκλοφορούν ή να διαγράψουν αυτά τα μηνύματα](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Για να ανοίξετε το Κέντρο & ασφαλείας, μεταβείτε στο [https://protection.office.com](https://protection.office.com/) . Για να ανοίξετε απευθείας τη σελίδα καραντίνας, μεταβείτε στην περιοχή [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Στην πύλη Microsoft 365 Defender, μεταβείτε <https://security.microsoft.com> στην περιοχή "Αναθεώρηση  \> **καραντίνας".** Εναλλακτικά, για να μεταβείτε απευθείας στη **σελίδα "Καραντίνα",** χρησιμοποιήστε <https://security.microsoft.com/quarantine> το .  
 
-Μπορείτε να κάνετε αναζήτηση με τις ακόλουθες τιμές:  
-
-- **Αναγνωριστικό μηνύματος:** Το καθολικά μοναδικό αναγνωριστικό του μηνύματος. Εάν επιλέξετε ένα μήνυμα στη λίστα, η τιμή αναγνωριστικού  **μηνύματος**  εμφανίζεται στο αναδυόμενο  **παράθυρο**  λεπτομερειών που εμφανίζεται. Οι διαχειριστές μπορούν να χρησιμοποιήσουν [την ανίχνευση μηνύματος](/microsoft-365/security/office-365-security/message-trace-scc) για να εντοπίσουν τα μηνύματα και τις αντίστοιχες τιμές αναγνωριστικού μηνύματος.
-- **Διεύθυνση ηλεκτρονικού ταχυδρομείου αποστολέα:** Η διεύθυνση ηλεκτρονικού ταχυδρομείου ενός αποστολέα.
-- **Διεύθυνση ηλεκτρονικού ταχυδρομείου παραλήπτη:** Η διεύθυνση ηλεκτρονικού ταχυδρομείου ενός παραλήπτη.
-- **Θέμα:** Χρησιμοποιήστε ολόκληρο το θέμα του μηνύματος. Η αναζήτηση δεν κάνει διάκριση πεζών-κεφαλαίων.
-
-Αφού εισάγετε τα κριτήρια αναζήτησης, κάντε κλικ στο κουμπί ![ "Ανανέωση" ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **ανανέωσης για** να φιλτράρετε τα αποτελέσματα.
+Για περισσότερες πληροφορίες σχετικά με τις τιμές αναζήτησης/φίλτρου που μπορείτε να χρησιμοποιήσετε, ανατρέξτε στο θέμα Διαχείριση μηνυμάτων και αρχείων σε καραντίνα [ως διαχειριστής στο EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
 Τα cmdlet που χρησιμοποιείτε για να προβάλετε και να διαχειριστείτε μηνύματα και αρχεία σε καραντίνα είναι τα εξής:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage:](/powershell/module/exchange/preview-quarantinemessage)Σημειώστε ότι αυτό το cmdlet αφορά μόνο μηνύματα και όχι αρχεία κακόβουλης λειτουργίας από το Microsoft Defender για Office 365 για SharePoint Online, OneDrive για επιχειρήσεις ή Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Σημειώστε ότι αυτό το cmdlet είναι μόνο για μηνύματα και όχι για αρχεία από Θυρίδα Συνημμένα για SharePoint, OneDrive ή Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

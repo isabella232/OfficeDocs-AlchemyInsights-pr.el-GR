@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057858"
 ---
 # <a name="domain-service-synchronization"></a>Συγχρονισμός υπηρεσίας τομέα
 
-Τα αντικείμενα και τα διαπιστευτήρια σε έναν διαχειριζόμενο τομέα των υπηρεσιών τομέα Azure Active Directory (Azure AD DS) μπορούν να δημιουργηθούν τοπικά μέσα στον τομέα ή να συγχρονιστούν από έναν μισθωτή του Azure Active Directory (Azure AD). Όταν αναπτύσσετε για πρώτη φορά το Azure AD DS, ένας αυτόματος μονόδρομος συγχρονισμός έχει ρυθμιστεί και ξεκινά για την αναπαραγωγή των αντικειμένων από το Azure AD. Αυτός ο μονόδρομος συγχρονισμός εξακολουθεί να εκτελείται στο παρασκήνιο για να διατηρεί τον τομέα διαχείρισης του Azure AD DS ενημερωμένο με τυχόν αλλαγές από το Azure AD. Δεν γίνεται συγχρονισμός από το Azure AD DS ξανά στο Azure AD.
+Τα αντικείμενα και τα διαπιστευτήρια σε έναν διαχειριζόμενο τομέα των υπηρεσιών τομέα Azure Active Directory (Azure AD DS) μπορούν να δημιουργηθούν τοπικά εντός του τομέα ή να συγχρονιστούν από ένα μισθωτή Azure Active Directory (Azure AD). Όταν αναπτύσσετε για πρώτη φορά το Azure AD DS, ρυθμίζεται ένας αυτόματος συγχρονισμός μίας διαδρομής και ξεκινά η αναπαραγωγή των αντικειμένων από το Azure AD. Αυτός ο συγχρονισμός μίας διαδρομής συνεχίζει να εκτελείται στο παρασκήνιο για να διατηρεί τον τομέα του Azure AD DS ενημερωμένο με τυχόν αλλαγές από το Azure AD. Δεν πραγματοποιείται συγχρονισμός από το Azure AD DS πίσω στο Azure AD.
 
-Για περισσότερες λεπτομέρειες σχετικά με το συγχρονισμό υπηρεσίας τομέα του Azure Active Directory, ανατρέξτε στο θέμα [Συγχρονισμός υπηρεσίας τομέα](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Για περισσότερες λεπτομέρειες σχετικά με Azure Active Directory συγχρονισμού υπηρεσίας τομέα, ανατρέξτε στο θέμα [Συγχρονισμός υπηρεσίας τομέα.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 
