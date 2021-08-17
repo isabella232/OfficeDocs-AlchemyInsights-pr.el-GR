@@ -1,5 +1,5 @@
 ---
-title: 614 πώς να δημιουργήσετε και να διαχειριστείτε γραμματοκιβώτια αιθουσών
+title: 614 Τρόπος δημιουργίας και διαχείρισης γραμματοκιβωτίων αίθουσας
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: a691361dd3025fc207d555629fbb6f9f10cb3cf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76c4ec598acfd81e7aef7485429b0d325fe14a5a454ac4349ed3c8f90f930a89
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043503"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Πώς μπορείτε να δημιουργήσετε και να διαχειριστείτε γραμματοκιβώτια αιθουσών
+# <a name="how-to-create-and-manage-room-mailboxes"></a>Τρόπος δημιουργίας και διαχείρισης γραμματοκιβωτίων αίθουσας
 
-Για να δημιουργήσετε και να τροποποιήσετε γραμματοκιβώτια αιθουσών, ανατρέξτε στο θέμα [δημιουργία και διαχείριση γραμματοκιβωτίων αιθουσών](https://technet.microsoft.com/library/jj215781.aspx).
+Για να δημιουργήσετε και να τροποποιήσετε γραμματοκιβώτια αίθουσας, ανατρέξτε στο [θέμα Δημιουργία και διαχείριση γραμματοκιβωτίων αίθουσας.](https://technet.microsoft.com/library/jj215781.aspx)
 
-Για να μάθετε περισσότερα σχετικά με τα γραμματοκιβώτια αίθουσας και εξοπλισμού (γνωστά και ως γραμματοκιβώτια πόρων), ανατρέξτε στο θέμα [γραμματοκιβώτια αιθουσών και εξοπλισμού](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Για να μάθετε περισσότερα σχετικά με τα γραμματοκιβώτια αίθουσας και εξοπλισμού (γνωστά και ως γραμματοκιβώτια πόρων), ανατρέξτε στο θέμα [Γραμματοκιβώτια αίθουσας και εξοπλισμού.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
