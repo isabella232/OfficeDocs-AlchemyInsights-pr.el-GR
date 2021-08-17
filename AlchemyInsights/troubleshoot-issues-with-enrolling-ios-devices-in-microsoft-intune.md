@@ -1,5 +1,5 @@
 ---
-title: Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών iOS στο Microsoft Intune
+title: Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών iOS σε Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047976"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών iOS στο Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Αντιμετώπιση προβλημάτων με την εγγραφή συσκευών iOS σε Microsoft Intune
 
 Εξετάστε τους πόρους που αναφέρονται παρακάτω για να επιλύσετε το πρόβλημά σας τώρα. 
   
@@ -27,7 +27,7 @@ ms.locfileid: "51823463"
     
 - **Αυτή η υπηρεσία δεν υποστηρίζεται. Δεν υπάρχει πολιτική εγγραφής: Η** Υπηρεσία ειδοποιήσεων push της Apple (APNS) πρέπει να ρυθμιστεί ή να ανανεωθεί. Διαβάστε [αυτό το έγγραφο](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) για οδηγίες σχετικά με τον τρόπο για να το κάνετε αυτό. 
     
-- **Ο τύπος άδειας χρήσης δεν είναι έγκυρος ή το όνομα χρήστη δεν αναγνωρίζεται:** Στον χρήστη πρέπει να εκχωρηθεί μια άδεια χρήσης Intune ή EMS. Εξετάστε αυτά τα έγγραφα για να εκχωρήσετε μια άδεια χρήσης μέσω: [Του Κέντρου διαχείρισης του Office](https://docs.microsoft.com/intune/licenses-assign) ή της [πύλης Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Ο τύπος άδειας χρήσης δεν είναι έγκυρος ή το όνομα χρήστη δεν αναγνωρίζεται:** Στον χρήστη πρέπει να εκχωρηθεί μια άδεια χρήσης Intune ή EMS. Εξετάστε αυτά τα έγγραφα για να εκχωρήσετε μια άδεια χρήσης μέσω: [Office Κέντρο διαχείρισης ή](https://docs.microsoft.com/intune/licenses-assign) πύλη [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Πρόσθετοι πόροι για την επίλυση του προβλήματος:
   
