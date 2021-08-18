@@ -11,16 +11,16 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055158"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321999"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Εγκατάσταση Office σε έναν Terminal Server
 
-Για την ανάπτυξη Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις σε έναν Windows χρησιμοποιώντας υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS), που ονομάζονταν παλαιότερα υπηρεσίες Terminal Services:
+Για την ανάπτυξη Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις σε έναν Windows χρησιμοποιώντας τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS), που ονομάζονταν παλαιότερα υπηρεσίες Terminal Services:
   
 - Πρέπει να έχετε μια Microsoft 365 που περιλαμβάνει Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις, όπως Office 365 για μεγάλες επιχειρήσεις E3 ή για μεγάλες επιχειρήσεις E5. Τα Εφαρμογές Microsoft 365 για επιχειρήσεις και Εφαρμογές Microsoft 365 για επιχειρήσεις Premium δεν περιλαμβάνουν Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις.
 
@@ -28,10 +28,9 @@ ms.locfileid: "54055158"
 
 Εάν θέλετε να εγκαταστήσετε Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις RDS από το Κέντρο διαχείρισης Microsoft 365, το οποίο χρησιμοποιεί προεπιλεγμένες ρυθμίσεις ***εγκατάστασης,*** ακολουθήστε τα παρακάτω βήματα.
 
-> [!TIP]
-> Μπορείτε επίσης να κάνετε λήψη και να εκτελέσετε το [Microsoft Βοηθός υποστήριξης και αποκατάστασης](https://aka.ms/SaRA_OfficeSCA_M365Portal) για να εγκαταστήσετε Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις σε λειτουργία ενεργοποίησης κοινόχρηστου υπολογιστή.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
-1. Ελέγξτε τι Microsoft 365 συνδρομή που έχετε. [Μάθετε πώς](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+1. Ελέγξτε τι Microsoft 365 συνδρομή σας. [Μάθετε πώς](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
 2. Εάν είναι απαραίτητο, μεταβείτε σε διαφορετική Microsoft 365 συνδρομής. [Μάθετε πώς](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
@@ -39,7 +38,7 @@ ms.locfileid: "54055158"
 
 4. Στο διακομιστή RDS, πραγματοποιήστε είσοδο στο Κέντρο διαχείρισης Microsoft 365 λογαριασμό διαχειριστή και [εγκαταστήστε το Εφαρμογές Microsoft 365 για μεγάλες επιχειρήσεις.](https://portal.office.com/OLS/MySoftware.aspx)
 
-5. Αφού Office, μην ***ανοίγετε ή να*** μην εισέλθετε σε καμία Office εφαρμογών.
+5. Αφού Office, μην ***ανοίγετε ή να*** μην συνδεθείτε σε καμία Office εφαρμογών.
 
 6. Στο διακομιστή RDS, ενεργοποιήστε την ενεργοποίηση κοινόχρηστου υπολογιστή, κάνοντας επεξεργασία του μητρώου, ακολουθώντας τα παρακάτω βήματα:
 

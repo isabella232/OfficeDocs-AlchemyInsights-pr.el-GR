@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ab88a72c265be411350e50756f5b2e1e3337c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090140"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322131"
 ---
 # <a name="endpoint-dlp-licensing-error"></a>Σφάλμα παραχώρησης αδειών χρήσης DLP τελικού σημείου
 
@@ -35,7 +35,6 @@ ms.locfileid: "54090140"
 - Microsoft 365 E5 προστασίας και διακυβέρνησης των πληροφοριών
 - Microsoft 365 A5 προστασίας και διακυβέρνησης των πληροφοριών
 
-> [!NOTE]
-> Αυτό δεν θα λειτουργεί για συνδυασμούς αδειών χρήσης, όπως: Win E5 + O365 E5 + EMS E5. Για να ρυθμίσετε αυτήν τη δυνατότητα, πρέπει να έχετε μια καθαρή άδεια χρήσης M365 E5.
+**Σημείωση:** Αυτό δεν θα λειτουργεί για συνδυασμούς αδειών χρήσης, όπως: Win E5 + O365 E5 + EMS E5. Για να ρυθμίσετε αυτήν τη δυνατότητα, πρέπει να έχετε μια καθαρή άδεια χρήσης M365 E5.
 
 Για περισσότερες πληροφορίες παραχώρησης αδειών χρήσης DLP τελικού σημείου, ανατρέξτε στο [θέμα Άδειες χρήσης DLP τελικού σημείου.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
