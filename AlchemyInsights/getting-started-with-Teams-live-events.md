@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088864"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333159"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Έναρξη χρήσης με τα ζωντανά συμβάντα του Teams
 
@@ -27,7 +27,9 @@ ms.locfileid: "54088864"
 
 - Πρώτα, επιβεβαιώστε ότι Teams ζωντανές εκδηλώσεις [είναι διαθέσιμες στη χώρα και την περιοχή σας.](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Οι ζωντανές εκδηλώσεις δεν υποστηρίζονται ακόμη σε ορισμένες χώρες.  Εάν έχετε εκχωρήσει άδειες χρήσης και έχετε ορίσει πολιτικές, αλλά εξακολουθείτε να μην μπορείτε να δημιουργήσετε ένα ζωντανό συμβάν Teams, είναι πιθανό να είστε σε μια χώρα ή περιοχή όπου τα ζωντανά συμβάντα δεν είναι ακόμη διαθέσιμα.
 
-- Μια [άδεια χρήσης του Office 365 για μεγάλες επιχειρήσεις E1, E3 ή E5 ή μια άδεια χρήσης του Office 365 A3 ή A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Σημείωση**: λόγω της πρόσφατης αύξησης της χρήσης του Teams, όταν εκχωρείτε μια άδεια χρήσης του Teams σε ένα χρήστη, μπορεί να χρειαστούν περίπου 24 ώρες για να ρυθμιστεί πλήρως. Έως τότε, δεν θα μπορείτε να τους εκχωρήσετε πολιτικές του Teams και ενδέχεται να μην έχουν πρόσβαση σε ορισμένες δυνατότητες όπως οι κλήσεις και οι διασκέψεις μέσω ήχου.
+- Μια [άδεια χρήσης του Office 365 για μεγάλες επιχειρήσεις E1, E3 ή E5 ή μια άδεια χρήσης του Office 365 A3 ή A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Σημείωση**: λόγω της πρόσφατης αύξησης της χρήσης του Teams, όταν εκχωρείτε μια άδεια χρήσης του Teams σε ένα χρήστη, μπορεί να χρειαστούν περίπου 24 ώρες για να ρυθμιστεί πλήρως. Έως τότε, δεν θα μπορείτε να τους εκχωρήσετε πολιτικές του Teams και ενδέχεται να μην έχουν πρόσβαση σε ορισμένες δυνατότητες όπως οι κλήσεις και οι διασκέψεις μέσω ήχου.
 
 - Δικαίωμα στη [δημιουργία ζωντανών συμβάντων στο κέντρο διαχείρισης του Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

@@ -1,5 +1,5 @@
 ---
-title: Χρήση Microsoft Intune γραμμών βάσης ασφαλείας για τη ρύθμιση Windows 10 συσκευών
+title: Χρήση Microsoft Intune γραμμών βάσης ασφαλείας για τη ρύθμιση παραμέτρων Windows 10 συσκευών
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 911c6b1860e4f44e6d88897f73173cdd11060562
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886632"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331985"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Χρήση Microsoft Intune γραμμών βάσης ασφαλείας για τη ρύθμιση Windows 10 συσκευών
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Χρήση Microsoft Intune γραμμών βάσης ασφαλείας για τη ρύθμιση παραμέτρων Windows 10 συσκευών
 
 Οι γραμμές βάσης ασφαλείας intune βοηθούν στην προστασία χρηστών και συσκευών. Οι γραμμές βάσης ασφαλείας Windows προκαθορισμένες ρυθμίσεις που χρησιμοποιούνται για την εφαρμογή μιας γνωστής ομάδας ρυθμίσεων και προεπιλεγμένων τιμών που συνιστώνται από τις σχετικές ομάδες ασφαλείας. Με τη δημιουργία ενός προφίλ γραμμής βάσης ασφαλείας στο Intune, δημιουργείτε ένα πρότυπο που αποτελείται από πολλά προφίλ ρύθμισης παραμέτρων συσκευής.
 
@@ -30,5 +30,5 @@ ms.locfileid: "57886632"
 
 Εάν είστε νέος στο Intune και δεν είστε βέβαιοι από πού να ξεκινήσετε, οι γραμμές βάσης ασφαλείας σας βοηθούν να δημιουργήσετε και να αναπτύξετε γρήγορα ένα ασφαλές προφίλ. Εάν χρησιμοποιείτε αυτήν τη στιγμή μια πολιτική ομάδας, η μετεγκατάσταση στο Intune για σκοπούς διαχείρισης είναι πολύ πιο εύκολη με τις γραμμές βάσης ασφαλείας, επειδή είναι ενσωματωμένες στο Intune και περιλαμβάνουν δυνατότητες διαχείρισης αιχμής.
 
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Windows γραμμές βάσης ασφαλείας και](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) διαχείριση [κινητών συσκευών.](https://docs.microsoft.com/windows/client-management/mdm/)
+Για να μάθετε περισσότερα, ανατρέξτε [Windows γραμμές βάσης ασφαλείας και](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) διαχείριση [κινητών συσκευών.](https://docs.microsoft.com/windows/client-management/mdm/)
 

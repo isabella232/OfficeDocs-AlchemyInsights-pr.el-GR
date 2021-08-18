@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895627"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331459"
 ---
 # <a name="cancel-visio-subscription"></a>Ακύρωση Visio συνδρομής
 
-Οι διαχειριστές μπορούν να ακυρώσουν Visio συνδρομή για τον οργανισμό τους στο Κέντρο διαχείρισης Microsoft 365.
+Οι διαχειριστές μπορούν να ακυρώσουν Visio συνδρομής για τον οργανισμό τους στο Κέντρο διαχείρισης Microsoft 365.
 
 1. Μεταβείτε στη σελίδα **"Χρέωση** \> [των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054) σας".
 2. Στην καρτέλα **"Προϊόντα",** βρείτε Visio συνδρομή που θέλετε να ακυρώσετε. Επιλέξτε τις τρεις τελείες (περισσότερες ενέργειες) και, στη συνέχεια, επιλέξτε **"Ακύρωση συνδρομής".**

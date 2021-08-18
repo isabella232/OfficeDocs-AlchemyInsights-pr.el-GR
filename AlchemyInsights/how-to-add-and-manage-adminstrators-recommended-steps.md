@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963787"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339032"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Τρόπος προσθήκης και διαχείρισης διαχειριστών - προτεινόμενα βήματα
 
@@ -31,7 +31,7 @@ ms.locfileid: "53963787"
 
 **Ενημέρωση του διαχειριστή συνδρομής ή Co-Administrator για εσωτερικές συνδρομές (AIRS)**
 
-Ο διαχειριστής της υπηρεσίας ή ο διαχειριστής από συνεργασία μπορεί να κάνει αυτο-εξυπηρέτηση αυτής της ενέργειας, ακολουθώντας τα παρακάτω βήματα:
+Ο διαχειριστής της υπηρεσίας ή ο διαχειριστής από τον ίδιο τον διαχειριστή μπορεί να κάνει αυτο-εξυπηρέτηση αυτής της ενέργειας, ακολουθώντας τα παρακάτω βήματα:
 
 1. Συνδεθείτε στην πύλη [Azure και κάντε κλικ](https://ms.portal.azure.com/#home) στην επιλογή Διαχείριση κόστους + **Χρέωση** στην αριστερή λάμα.
 2. Κάντε κλικ στο στοιχείο γραμμής με τη συνδρομή σας. Με αυτόν τον τρόπο ανοίγει η Επισκόπηση για τη συνδρομή σας.
@@ -58,7 +58,7 @@ ms.locfileid: "53963787"
 Μπορείτε να προσθέσετε νέους χρήστες ή να διαγράψετε υπάρχοντες χρήστες από τον οργανισμό Azure Active Directory (Azure AD):
 
 1. Για να προσθέσετε έναν νέο χρήστη, συνδεθείτε στην [πύλη Azure](https://ms.portal.azure.com/#home) ως διαχειριστής χρήστη για τον οργανισμό.
-2. Επιλέξτε **Azure Active Directory , επιλέξτε**"Χρήστες" **και, στη** συνέχεια, κάντε κλικ στην επιλογή **"Νέος χρήστης".**
+2. Επιλέξτε **Azure Active Directory, επιλέξτε**"Χρήστες" **και, στη** συνέχεια, κάντε κλικ στην επιλογή **"Νέος χρήστης".**
 3. Στη σελίδα **"Χρήστης",** συμπληρώστε τις απαιτούμενες πληροφορίες. Κάντε κλικ **στην επιλογή "Δημιουργία".** Ο χρήστης δημιουργείται και προστίθεται στο μισθωτή azure AD.
 
 **Μάθετε περισσότερα:**
@@ -71,11 +71,11 @@ ms.locfileid: "53963787"
 
 - [Τι είναι ο έλεγχος πρόσβασης βάσει ρόλων (RBAC);](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [Κατανόηση των διαφορετικών ρόλων στο Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Δικαιώματα ρόλων διαχειριστή σε Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Δικαιώματα ρόλων διαχειριστή στο Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
 - [Πρόγραμμα εκμάθησης: Εκχώρηση πρόσβασης για ένα χρήστη που χρησιμοποιεί το RBAC και την πύλη Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Αντιμετώπιση προβλημάτων RBAC στο Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Οργάνωση των πόρων σας με ομάδες διαχείρισης Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Πώς μπορείτε να ζητήσετε αντίγραφο του τιμολογίου Azure μέσω ηλεκτρονικού ταχυδρομείου](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Πώς μπορείτε να ζητήσετε αντίγραφο του τιμολογίου Azure μέσω ηλεκτρονικού ταχυδρομείου](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Τρόπος προσθήκης, ενημέρωσης ή κατάργησης πιστωτικής ή χρεωστικής κάρτας από το Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Διαχείριση (Επανενεργοποίηση/Ακύρωση/Αλλαγή) συνδρομής](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
