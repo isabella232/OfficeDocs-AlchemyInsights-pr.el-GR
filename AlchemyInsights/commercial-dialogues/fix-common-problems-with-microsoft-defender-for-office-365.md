@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898244"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330060"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Επιδιόρθωση συνηθισμένων προβλημάτων με τον Microsoft Defender για Office 365
 
@@ -25,7 +25,7 @@ ms.locfileid: "57898244"
 
 - **Καθυστέρηση μηνύματος:**
 
-  Οι καθυστερήσεις στην παράδοση ηλεκτρονικού ταχυδρομείου μπορεί να προκαλέσουν Θυρίδα συνημμένα σάρωσης μηνυμάτων. Για περισσότερες πληροφορίες, ανατρέξτε [Θυρίδα ρυθμίσεις πολιτικής συνημμένων.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Οι καθυστερήσεις στην παράδοση ηλεκτρονικού ταχυδρομείου μπορεί να προκαλέσουν Θυρίδα συνημμένα σάρωσης μηνυμάτων. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Θυρίδα ρυθμίσεις πολιτικής συνημμένων.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Αναφορά ψευδών θετικών ή αρνητικών αποτελεσμάτων:**
 
@@ -33,7 +33,7 @@ ms.locfileid: "57898244"
 
 - **Ενεργοποίηση Θυρίδα σύνδεσης:**
 
-  1. Στην πύλη Microsoft 365 Defender, μεταβείτε στην ενότητα <https://security.microsoft.com/> **"Πολιτικές συνεργασίας &** ηλεκτρονικού ταχυδρομείου" & "Κανόνες απειλής" \>  \>  \> **Θυρίδα συνδέσεις** στην ενότητα **"Πολιτικές".**
+  1. Στην πύλη Microsoft 365 Defender, μεταβείτε στην ενότητα "Ηλεκτρονικό ταχυδρομείο& πολιτικές συνεργασίας & πολιτικές απειλής <https://security.microsoft.com/>  \>  \>  \> **κανόνων Θυρίδα συνδέσεις** στην ενότητα **"Πολιτικές".**
 
      Για να μεταβείτε απευθείας στη **Θυρίδα "Συνδέσεις",** χρησιμοποιήστε <https://security.microsoft.com/safelinksv2> το .
 
