@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 612fcc70848e1e57897b1de63cf66bde89911208
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b4a62aa776391f858ae73327fbded1069c9a1955792dfe1ab1e1f7384d2db3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116476"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Αποκτήστε πρόσβαση στο Microsoft Bookings
 
@@ -27,6 +27,6 @@ ms.locfileid: "51812379"
 2. Κάντε κλικ στο πλαίσιο ελέγχου ούτως ώστε να ενεργοποιήσετε ή να απενεργοποιήσετε τις κρατήσεις για τον οργανισμό σας μέσω της εντολής **Να επιτρέπεται στον οργανισμό σας να χρησιμοποιεί το Bookings**.
 3. Κάντε κλικ στην επιλογή **Αποθήκευση αλλαγών**.
 
-**Σημαντικό:** Η εφαρμογή Microsoft Booking είναι διαθέσιμη για χρήση από προεπιλογή για τα **Microsoft 365 Education A3, A5,** **Microsoft 365 Business Standard (πρώην Business Premium)** και **Microsoft 365 Business Premium (πρώην Business)**. Οι κρατήσεις είναι διαθέσιμες στους πελάτες για μεγάλες επιχειρήσεις E3 και **E5** ως πρόσθετο μέχρι τις 12 Μαΐου 2020, σε ποιο σημείο θα είναι ενεργοποιημένη από προεπιλογή.
+**Σημαντικό:** Η εφαρμογή Microsoft Booking είναι διαθέσιμη για χρήση από προεπιλογή για **τα Microsoft 365 για εκπαιδευτικά ιδρύματα A3, A5,** **Microsoft 365 Standard για Επιχειρήσεις (πρώην Business Premium)** και **Microsoft 365 Premium για Επιχειρήσεις (πρώην Business).** Οι κρατήσεις είναι διαθέσιμες στους πελάτες για μεγάλες επιχειρήσεις E3 και **E5** ως πρόσθετο μέχρι τις 12 Μαΐου 2020, σε ποιο σημείο θα είναι ενεργοποιημένη από προεπιλογή.
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αποκτήστε πρόσβαση στο Microsoft Bookings](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).

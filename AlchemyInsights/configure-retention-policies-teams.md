@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4f7c7ad539a90204256911017bfd68a1f77b0072
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890146"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321193"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>Ρύθμιση παραμέτρων πολιτικών διατήρησης για Teams θέσεις
 
@@ -28,7 +28,7 @@ ms.locfileid: "57890146"
 
 1. Στην **περιοχή "Πολιτικές** διατήρησης", **επιλέξτε "Νέα πολιτική διατήρησης",** ονομάστε την πολιτική σας και, στη συνέχεια, **επιλέξτε "Επόμενο".**
 
-1. Επιλέξτε τις επιλογές που θέλετε: **Teams συνομιλίες** ή **Teams** μηνύματα καναλιού ή και τα δύο και, στη συνέχεια, επιλέξτε **"Επόμενο".**
+1. Ορίστε τις επιλογές που θέλετε: **Teams συνομιλίες** ή **Teams** μηνύματα καναλιού ή και τα δύο και, στη συνέχεια, επιλέξτε **"Επόμενο".**
 
 1. Ρυθμίστε τις παραμέτρους διατήρησης. 
 
