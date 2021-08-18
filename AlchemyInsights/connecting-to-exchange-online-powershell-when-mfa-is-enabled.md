@@ -1,5 +1,5 @@
 ---
-title: 761 σύνδεση με το Exchange Online PowerShell όταν είναι ενεργοποιημένο το ΣΠΙ
+title: 761 Σύνδεση στο Exchange Online PowerShell όταν είναι ενεργοποιημένο το MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090268"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Σύνδεση με το Exchange Online PowerShell όταν είναι ενεργοποιημένο το ΣΠΙ
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Σύνδεση να Exchange Online PowerShell όταν είναι ενεργοποιημένο το MFA
 
-Εάν ο λογαριασμός σας έχει ενεργοποιημένο τον έλεγχο ταυτότητας πολλών παραγόντων (ΣΠΙ), πρέπει να ακολουθήσετε αυτές τις οδηγίες για να συνδεθείτε στο Exchange Online PowerShell: [Χρησιμοποιήστε το Exchange Online PowerShell με σύγχρονο έλεγχο ταυτότητας με τη χρήση της λειτουργικής μονάδας v2](https://aka.ms/exops-docs). Αναζητήστε οδηγίες ελέγχου ταυτότητας ΣΠΙ/πολλών παραγόντων σε αυτή τη σελίδα.
+Εάν ο λογαριασμός σας έχει ενεργοποιημένο τον έλεγχο ταυτότητας πολλών παραγόντων (MFA), πρέπει να ακολουθήσετε αυτές τις οδηγίες για να συνδεθείτε στο Exchange Online PowerShell: Χρησιμοποιήστε το Exchange Online PowerShell με σύγχρονο έλεγχο ταυτότητας χρησιμοποιώντας [τη λειτουργική μονάδα V2.](https://aka.ms/exops-docs) Αναζητήστε οδηγίες MFA / Multi Factor Authentication σε αυτή τη σελίδα.

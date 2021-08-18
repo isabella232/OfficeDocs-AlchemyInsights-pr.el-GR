@@ -1,5 +1,5 @@
 ---
-title: Ρύθμιση παραμέτρων προστασίας προσωπικών δεδομένων στον Microsoft Edge
+title: Ρύθμιση παραμέτρων προστασίας προσωπικών δεδομένων στο Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004632"
 - "8367"
-ms.openlocfilehash: 2367a7a55d1837fa7c7095fd0ac10ff1cf7ae72d
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 991f323249e15abd137c3e69b400e40503ed30dec6507cc5071a0b1af7f72bb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090304"
 ---
-# <a name="configure-privacy-settings-in-microsoft-edge"></a>Ρύθμιση παραμέτρων προστασίας προσωπικών δεδομένων στον Microsoft Edge
+# <a name="configure-privacy-settings-in-microsoft-edge"></a>Ρύθμιση παραμέτρων προστασίας προσωπικών δεδομένων στο Microsoft Edge
 
-Από προεπιλογή, εάν ο Microsoft Edge έχει αναπτυχθεί σε πλατφόρμες που δεν είναι windows, τα διαγνωστικά δεδομένα και οι πληροφορίες τοποθεσίας δεν αποστέλλονται στη Microsoft. Ωστόσο, εάν ο Microsoft Edge έχει αναπτυχθεί στα Windows 10, τα διαγνωστικά δεδομένα και οι πληροφορίες τοποθεσίας αποστέλλονται σύμφωνα με τις ρυθμίσεις δεδομένων [διαγνωστικών των Windows των χρηστών.](https://go.microsoft.com/fwlink/?linkid=2132472)
+Από προεπιλογή, εάν Microsoft Edge ανάπτυξη σε πλατφόρμες που δεν Windows, τα διαγνωστικά δεδομένα και οι πληροφορίες τοποθεσίας δεν αποστέλλονται στη Microsoft. Ωστόσο, εάν Microsoft Edge αναπτυχθεί σε Windows 10, τα διαγνωστικά δεδομένα και οι πληροφορίες τοποθεσίας αποστέλλονται σύμφωνα με τις ρυθμίσεις [διαγνωστικών δεδομένων Windows χρηστών.](https://go.microsoft.com/fwlink/?linkid=2132472)
 
-Για να ρυθμίσετε τον τρόπο με τον οποίο ο Microsoft Edge χειρίζεται τη συλλογή δεδομένων για τον οργανισμό σας, χρησιμοποιήστε τις ακόλουθες πολιτικές ομάδας:
+Για να ρυθμίσετε Microsoft Edge χειρίζεται τη συλλογή δεδομένων για τον οργανισμό σας, χρησιμοποιήστε τις ακόλουθες πολιτικές ομάδας:
 - [Η δυνατότητα MetricsReportingEnabled ενεργοποιεί](https://go.microsoft.com/fwlink/?linkid=2132470) την αναφορά της χρήσης και των δεδομένων που σχετίζονται με σφάλμα.
-- [Η sendSiteInfoToImproveServices στέλνει πληροφορίες τοποθεσίας](https://go.microsoft.com/fwlink/?linkid=2132470) που χρησιμοποιούνται για τη βελτίωση των υπηρεσιών της Microsoft.
+- [Το SendSiteInfoToImproveServices στέλνει πληροφορίες τοποθεσίας](https://go.microsoft.com/fwlink/?linkid=2132470) που χρησιμοποιούνται για τη βελτίωση Υπηρεσίες της Microsoft.
 
 Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων πολιτικής.](https://go.microsoft.com/fwlink/?linkid=2132577)

@@ -1,5 +1,5 @@
 ---
-title: Σφάλμα άδειας χρήσης τελικού σημείου DLP
+title: Σφάλμα παραχώρησης αδειών χρήσης DLP τελικού σημείου
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090140"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Σφάλμα άδειας χρήσης τελικού σημείου DLP
+# <a name="endpoint-dlp-licensing-error"></a>Σφάλμα παραχώρησης αδειών χρήσης DLP τελικού σημείου
 
-Όταν προσπαθείτε να ρυθμίσετε το τελικό σημείο DLP, εάν εμφανιστεί το ακόλουθο σφάλμα:
+Όταν προσπαθείτε να ρυθμίσετε το DLP τελικού σημείου, εάν εμφανιστεί το ακόλουθο σφάλμα:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Βεβαιωθείτε ότι έχετε μία από τις παρακάτω συνδρομές ή πρόσθετα:
+Βεβαιωθείτε ότι έχετε μία από τις ακόλουθες συνδρομές ή πρόσθετα:
 
 - Microsoft 365 E5
-- Microsoft 365 a5 (EDU)
-- Συμμόρφωση με το Microsoft 365 E5
-- Συμμόρφωση με το Microsoft 365 a5
-- Microsoft 365 E5 προστασία και διακυβέρνηση πληροφοριών
-- Προστασία και διακυβέρνηση πληροφοριών για το Microsoft 365 a5
+- Microsoft 365 A5 (EDU)
+- Microsoft 365 E5 συμμόρφωσης
+- Microsoft 365 A5 συμμόρφωσης
+- Microsoft 365 E5 προστασίας και διακυβέρνησης των πληροφοριών
+- Microsoft 365 A5 προστασίας και διακυβέρνησης των πληροφοριών
 
 > [!NOTE]
-> Αυτό δεν θα λειτουργήσει για συνδυασμούς αδειών χρήσης, όπως: Win E5 + O365 E5 + EMS E5. Για να ρυθμίσετε αυτή τη δυνατότητα, πρέπει να έχετε μια καθαρή άδεια χρήσης M365 E5.
+> Αυτό δεν θα λειτουργεί για συνδυασμούς αδειών χρήσης, όπως: Win E5 + O365 E5 + EMS E5. Για να ρυθμίσετε αυτήν τη δυνατότητα, πρέπει να έχετε μια καθαρή άδεια χρήσης M365 E5.
 
-Για περισσότερες πληροφορίες σχετικά με τις άδειες χρήσης τελικού σημείου DLP, ανατρέξτε στο θέμα [Αδειοδότηση τελικού σημείου DLP.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Για περισσότερες πληροφορίες παραχώρησης αδειών χρήσης DLP τελικού σημείου, ανατρέξτε στο [θέμα Άδειες χρήσης DLP τελικού σημείου.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

@@ -1,5 +1,5 @@
 ---
-title: 723 να δημιουργήσετε ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου ως κύριο μήνυμα ηλεκτρονικού ταχυδρομείου για το χρήστη
+title: 723 Δημιουργία ψευδώνυμου ηλεκτρονικού ταχυδρομείου ως κύριου μηνύματος ηλεκτρονικού ταχυδρομείου για το χρήστη
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 497eae2b73aef78d6e6782f4302e5c30b173139b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d63112808ceaf2cfa66006ca7d734a78831a8593242af0a9e5ad86787e67cf1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114892"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Δημιουργία ψευδωνύμου ηλεκτρονικού ταχυδρομείου ως κύριας διεύθυνσης για ένα χρήστη
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Κάντε ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου την κύρια διεύθυνση για ένα χρήστη
 
-Για οδηγίες, ανατρέξτε [στο θέμα Προσθήκη άλλου ψευδωνύμου ηλεκτρονικού ταχυδρομείου για ένα χρήστη](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user).
+Για οδηγίες, ανατρέξτε [στο θέμα Προσθήκη άλλου ψευδώνυμου ηλεκτρονικού ταχυδρομείου για ένα χρήστη.](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
 
-**Σημείωση**: Εάν η εταιρεία σας βρίσκεται σε υβριδική λειτουργία, πρέπει να αλλάξετε την κύρια διεύθυνση ηλεκτρονικού ταχυδρομείου στον οργανισμό Exchange εσωτερικής εγκατάστασης. Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Προσθήκη ή Κατάργηση διευθύνσεων ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο](https://technet.microsoft.com/library/bb123794.aspx).
+**Σημείωση:** Εάν η εταιρεία σας βρίσκεται σε υβριδική λειτουργία, πρέπει να αλλάξετε την κύρια διεύθυνση ηλεκτρονικού ταχυδρομείου στην εσωτερική εγκατάσταση Exchange εταιρείας. Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Προσθήκη ή κατάργηση διευθύνσεων ηλεκτρονικού ταχυδρομείου για ένα γραμματοκιβώτιο.](https://technet.microsoft.com/library/bb123794.aspx)
