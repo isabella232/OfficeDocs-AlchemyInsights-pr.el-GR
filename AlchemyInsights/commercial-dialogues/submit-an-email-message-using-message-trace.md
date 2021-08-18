@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874539"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324525"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Υποβολή μηνύματος ηλεκτρονικού ταχυδρομείου με χρήση ανίχνευσης μηνύματος
 
-1. Μεταβείτε στο Exchange διαχείρισης αλληλογραφίας (EAC) στην ανίχνευση <https://admin.exchange.microsoft.com> \> **μηνύματος ροής** \> **αλληλογραφίας.**
+1. Μεταβείτε στο Exchange διαχείρισης (EAC) στην ανίχνευση μηνύματος <https://admin.exchange.microsoft.com> \> **ροής** \> **αλληλογραφίας.**
 
    Για να μεταβείτε απευθείας στη **σελίδα ανίχνευσης μηνύματος,** χρησιμοποιήστε <https://admin.exchange.microsoft.com/#/messagetrace> το .
 

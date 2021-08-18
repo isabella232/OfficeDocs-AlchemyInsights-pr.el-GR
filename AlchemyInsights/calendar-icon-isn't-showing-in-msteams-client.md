@@ -1,5 +1,5 @@
 ---
-title: Το εικονίδιο ημερολογίου δεν εμφανίζεται στο πρόγραμμα-πελάτη του Microsoft teams
+title: Το εικονίδιο ημερολογίου δεν εμφανίζεται στο Microsoft Teams πελάτη
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120004"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Το εικονίδιο ημερολογίου δεν εμφανίζεται στο πρόγραμμα-πελάτη του Microsoft teams
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Το εικονίδιο ημερολογίου δεν εμφανίζεται στο Microsoft Teams πελάτη
 
-Η καρτέλα " **ημερολόγιο** " στο teams απαιτεί πρόσβαση σε ένα γραμματοκιβώτιο του Exchange μέσω των υπηρεσιών Web του Exchange. Το γραμματοκιβώτιο του Exchange μπορεί να είναι online ή εσωτερικής εγκατάστασης. Για τους online χρήστες που δεν βλέπουν την καρτέλα **ημερολόγιο** , βεβαιωθείτε ότι έχουν [άδεια χρήσης για ένα γραμματοκιβώτιο του Exchange Online και ότι το γραμματοκιβώτιο είναι ενεργοποιημένο](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Εάν οι χρήστες σας διαθέτουν εσωτερική εγκατάσταση, πρέπει να επιβεβαιώσετε ότι η υβριδική ρύθμιση παραμέτρων σας είναι υγιής. Χρησιμοποιήστε τον [Οδηγό υβριδικής ρύθμισης παραμέτρων](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) για να αντιμετωπίσετε το πρόβλημα.. Λάβετε υπόψη ότι το [Teams απαιτεί το Exchange 2016 CU3 ή νεότερη έκδοση](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+Η **καρτέλα "Ημερολόγιο"** Teams απαιτεί πρόσβαση σε ένα γραμματοκιβώτιο Exchange μέσω Exchange Web Services. Το Exchange μπορεί να είναι online ή εσωτερικής εγκατάστασης. Για τους χρήστες στο  Internet που δεν βλέπουν την καρτέλα "Ημερολόγιο", βεβαιωθείτε ότι έχουν άδεια χρήσης για [ένα γραμματοκιβώτιο Exchange Online και ότι το γραμματοκιβώτιο είναι ενεργοποιημένο.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Εάν οι χρήστες σας είναι οικιακοί χρήστες εσωτερικής εγκατάστασης, πρέπει να επιβεβαιώσετε ότι η υβριδική ρύθμιση παραμέτρων είναι σε καλή κατάσταση. Χρησιμοποιήστε τον [Οδηγό υβριδικής ρύθμισης παραμέτρων](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) για να αντιμετωπίσετε το πρόβλημα.. Λάβετε υπόψη ότι το [Teams απαιτεί το Exchange 2016 CU3 ή νεότερη έκδοση](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Για περισσότερες πληροφορίες και βήματα αντιμετώπισης προβλημάτων, ανατρέξτε στο [θέμα Αντιμετώπιση προβλημάτων αλληλεπίδρασης του Microsoft teams και του Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Για περισσότερες πληροφορίες και βήματα αντιμετώπισης προβλημάτων, ανατρέξτε στο θέμα [Αντιμετώπιση προβλημάτων Microsoft Teams και Exchange Server αλληλεπιδράσεων.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
