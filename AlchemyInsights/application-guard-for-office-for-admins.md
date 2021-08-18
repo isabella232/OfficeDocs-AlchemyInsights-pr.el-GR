@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0e67fd327eeb6c802180be2cc5baa422ff69ebd5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970115"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319062"
 ---
 # <a name="application-guard-for-office-for-admins"></a>Application Guard για Office για διαχειριστές
 
-Το Application Guard για Office είναι διαθέσιμο σε οργανισμούς που έχουν Microsoft 365 E5 ή Microsoft 365 E5 κινητικότητα + άδειες χρήσης ασφαλείας. Οι χρήστες σε αυτούς τους οργανισμούς πρέπει να χρησιμοποιούν Microsoft 365 για επιχειρήσεις στο τρέχον κανάλι ή στο μηνιαίο εταιρικό κανάλι.
+Το Application Guard για Office είναι διαθέσιμο σε οργανισμούς που έχουν Microsoft 365 E5 ή Microsoft 365 E5 κινητικότητα + άδειες χρήσης ασφαλείας. Οι χρήστες σε αυτούς τους οργανισμούς πρέπει να χρησιμοποιούν Microsoft 365 για επιχειρήσεις στο κανάλι τρεχουσών ή μηνιαίων εταιρικών καναλιών.
 
-> [!NOTE]
-> Το Application Guard Office απαιτεί να Microsoft Defender Application Guard (MDAG) πρώτα στη συσκευή. Για την ανάπτυξη του MDAG σε πολλές συσκευές, ανατρέξτε στο θέμα [Προετοιμασία για εγκατάσταση Microsoft Defender Application Guard.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
+**Σημείωση:** Το Application Guard για Office απαιτεί Microsoft Defender Application Guard (MDAG) είναι ενεργοποιημένο πρώτα στη συσκευή. Για την ανάπτυξη του MDAG σε πολλές συσκευές, ανατρέξτε στο θέμα [Προετοιμασία για εγκατάσταση Microsoft Defender Application Guard.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
 
 Για λεπτομερείς πληροφορίες σχετικά με τα προαπαιτούμενα, τη ρύθμιση, τους περιορισμούς και την αντιμετώπιση προβλημάτων του Application Guard για Office, ανατρέξτε στα θέματα:
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899540"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318950"
 ---
 # <a name="cancel-power-bi"></a>Ακύρωση Power BI
 
@@ -33,7 +33,6 @@ Power BI μπορείτε να ακυρώσετε στο Κέντρο διαχε
 
 **Επιστροφή χρημάτων: Οποιαδήποτε πίστωση με χαρακτηρισμό θα σας επιστραφεί εντός του επόμενου κύκλου χρέωσης.**
 
-> [!NOTE]
-> Εάν δεν βλέπετε την επιλογή ακύρωσης, επιλέξτε τη συνδρομή για να δείτε τη σελίδα λεπτομερειών. Στην ενότητα **"Συνδρομή και ρυθμίσεις πληρωμής",** επιλέξτε **"Ακύρωση συνδρομής".**
+**Σημείωση:** Εάν δεν βλέπετε την επιλογή ακύρωσης, επιλέξτε τη συνδρομή για να δείτε τη σελίδα λεπτομερειών. Στην ενότητα **"Συνδρομή και ρυθμίσεις πληρωμής",** επιλέξτε **"Ακύρωση συνδρομής".**
 
 Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα "Ακύρωση της συνδρομής σας".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
