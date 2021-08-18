@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896075"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326797"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Επιδιόρθωση πολιτικής μισθωτή (παράκαμψη ενέργειας)
 
 Μία από τις πολιτικές καταπολέμησης της ανεπιθύμητης αλληλογραφίας επηρέασε αυτό το μήνυμα. Για να αναθεωρήσετε τις πολιτικές, ακολουθήστε τα παρακάτω βήματα:
 
-1. Στην πύλη Microsoft 365 Defender, μεταβείτε στην ενότητα "Πολιτικές & συνεργασίας" & "Κανόνες απειλές" στην <https://security.microsoft.com/>  \>  \>  \>  ενότητα **"Πολιτικές".**
+1. Στην πύλη Microsoft 365 Defender, μεταβείτε στην ενότητα <https://security.microsoft.com/> **"Ηλεκτρονικό ταχυδρομείο& πολιτικές** συνεργασίας & πολιτικές απειλής κανόνων \>  \>  \> **κατά της ανεπιθύμητης αλληλογραφίας"** στην ενότητα **"Πολιτικές".**
 
    Για να μεταβείτε απευθείας στη σελίδα **πολιτικών καταπολέμησης της ανεπιθύμητης** αλληλογραφίας, χρησιμοποιήστε <https://security.microsoft.com/antispam> το .
 
@@ -36,6 +36,6 @@ ms.locfileid: "57896075"
    - **Διαγραφή μηνύματος**
    - **Καμία ενέργεια**
 
-   Είναι πιθανό οι τυπικές ρυθμίσεις **που εφαρμόστηκαν** σε όλους Exchange Online Protection πελάτες να επηρέασαν το μήνυμα.
+   Είναι πιθανό οι τυπικές ρυθμίσεις που **εφαρμόστηκαν** σε όλους Exchange Online Protection πελάτες να επηρέασαν το μήνυμα.
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων πολιτικών καταπολέμησης της ανεπιθύμητης αλληλογραφίας στο EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883131"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326077"
 ---
 # <a name="outbound-relay-pool"></a>Χώρος συγκέντρωσης εξερχομένων αναμετάδοσης
 
@@ -27,7 +27,7 @@ ms.locfileid: "57883131"
 Για να αποφύγετε ένα σενάριο που χρησιμοποιεί το χώρο συγκέντρωσης αναμετάδοσης, βεβαιωθείτε ότι τα μηνύματα προώθησης/αναμετάδοσης πληρούν ένα από τα ακόλουθα κριτήρια:
 
 - Ο εξερχόμενος αποστολέας είναι ένας αποδεκτός τομέας του μισθωτή.
-- Το Πλαίσιο πολιτικής αποστολέα (SPF) περνά όταν το μήνυμα Microsoft 365.
+- Το Πλαίσιο πολιτικής αποστολέα (SPF) περνά όταν το μήνυμα έρχεται Microsoft 365.
 - Το DomainKeys Identified Mail (DKIM) στον τομέα αποστολέα P2 περνά όταν το μήνυμα έρχεται Microsoft 365.
  
 Τα μηνύματα που πληρούν τα παραπάνω κριτήρια δεν μεταδίδονται μέσω του χώρου συγκέντρωσης αναμετάδοσης.

@@ -1,5 +1,5 @@
 ---
-title: Κατάλληλες υπηρεσίες και προγράμματα για το FastTrack
+title: Κατάλληλες υπηρεσίες και προγράμματα για FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4698a2eaaca196673dcf227405dcca1bfa441ea7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030236"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326541"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Κατάλληλες υπηρεσίες και προγράμματα για το FastTrack
+# <a name="eligible-services-and-plans-for-fasttrack"></a>Κατάλληλες υπηρεσίες και προγράμματα για FastTrack
 
-Με το Πλεονέκτημα Του Κέντρου FastTrack για Office 365, εργάζεστε από απόσταση με τους Ειδικούς FastTrack, χωρίς επιπλέον κόστος, για να ετοιμάσετε το περιβάλλον Office 365 σας για χρήση. Οι ειδικοί FastTrack μπορούν να σας βοηθήσουν όταν αγοράσετε τουλάχιστον 150 άδειες χρήσης.
+Με το FastTrack Center Benefit για Office 365, εργάζεστε από απόσταση με τους ειδικούς της FastTrack ,χωρίς επιπλέον κόστος, για να ετοιμάσετε το περιβάλλον Office 365 σας για χρήση. FastTrack Οι ειδικοί μπορούν να σας βοηθήσουν όταν αγοράσετε τουλάχιστον 150 άδειες χρήσης.
 
-Για να λάβετε βοήθεια μέσω της πύλης FastTrack, πραγματοποιήστε είσοδο στην πύλη [FastTrack και](https://go.microsoft.com/fwlink/?linkid=2125443) ακολουθήστε τα βήματα για να ολοκληρώσετε την αίτηση για **βοήθεια Microsoft 365** φόρμας.
+Για να λάβετε βοήθεια μέσω FastTrack πύλης, πραγματοποιήστε είσοδο στην [FastTrack και](https://go.microsoft.com/fwlink/?linkid=2125443) ακολουθήστε τα βήματα για να ολοκληρώσετε την αίτηση για βοήθεια **με Microsoft 365** φόρμας.
 
-> [!NOTE]
-> Εάν έχετε προβλήματα κατά την είσοδο ή χρειάζεστε πρόσθετη βοήθεια, στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου [στο ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
+**Σημείωση:** Εάν έχετε προβλήματα κατά την είσοδο ή χρειάζεστε πρόσθετη βοήθεια, στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-Υπάρχουν διάφορα προγράμματα που πληρούν τις προϋποθέσεις fastTrack για διαφορετικούς κλάδους, από επιχειρήσεις επιχειρήσεων έως εκπαιδευτικά ιδρύματα.
+Υπάρχουν διάφορα προγράμματα που FastTrack για διαφορετικούς κλάδους, από επιχειρήσεις επιχειρήσεων έως εκπαιδευτικά ιδρύματα.
 
 Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Microsoft 365 προγραμμάτων.](https://go.microsoft.com/fwlink/?linkid=2125459)
 

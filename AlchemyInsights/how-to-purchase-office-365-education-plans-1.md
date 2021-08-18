@@ -16,15 +16,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 62ab2fc121658b106eee4807edae6f291269cab3e4c844565acc3dbce949b3c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 450734781a0db054082535aff9b6af8417aeb24b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326297"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Τρόπος αγοράς Office 365 για εκπαιδευτικά ιδρύματα προγραμμάτων
 
-Αναθεωρήσαμε το αίτημά σας και προσδιορίσαμε ότι αυτός ο οργανισμός δεν είναι κατάλληλος για ακαδημαϊκό ίδρυμα με τα κατάλληλα προσόντα της Microsoft. Οι τρέχουσες προσφορές ακαδημαϊκής δοκιμής θα λήξουν στο τέλος της δοκιμαστικής περιόδου.
+Επανεξετάσαμε το αίτημά σας και προσδιορίσαμε ότι αυτός ο οργανισμός δεν είναι κατάλληλος για ακαδημαϊκό ίδρυμα της Microsoft. Οι τρέχουσες προσφορές ακαδημαϊκής δοκιμής θα λήξουν στο τέλος της δοκιμαστικής περιόδου.
   
 Για να αγοράσετε Microsoft 365 εμπορικά, ανατρέξτε στις [διαθέσιμες προσφορές.](https://go.microsoft.com/fwlink/p/?linkid=868433)  
