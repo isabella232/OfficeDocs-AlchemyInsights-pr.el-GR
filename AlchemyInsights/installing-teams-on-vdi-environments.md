@@ -1,5 +1,5 @@
 ---
-title: Εγκατάσταση του Teams σε περιβάλλοντα VDI
+title: Εγκατάσταση Teams σε περιβάλλοντα VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1843caac062824ee531abda8e443903b98d94b4948759a0f63741ae17062bf8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088144"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Εγκατάσταση του Teams σε περιβάλλοντα VDI
+# <a name="installing-teams-on-vdi-environments"></a>Εγκατάσταση Teams σε περιβάλλοντα VDI
 
-Για πληροφορίες σχετικά με την ανάπτυξη του Teams σε κοινόχρηστους υπολογιστές, υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) ή υποδομή εικονικής επιφάνειας εργασίας (VDI), ανατρέξτε στο θέμα Κοινόχρηστα περιβάλλοντα [υπολογιστή και VDI με το Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+Για πληροφορίες σχετικά με την ανάπτυξη Teams σε κοινόχρηστους υπολογιστές, υπηρεσίες απομακρυσμένης επιφάνειας εργασίας (RDS) ή υποδομή εικονικής επιφάνειας εργασίας (VDI), ανατρέξτε στο θέμα Κοινόχρηστα περιβάλλοντα υπολογιστή και [VDI με Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)

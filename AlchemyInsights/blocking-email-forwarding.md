@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897468"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315874"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Αποκλεισμός ή κατάργηση αποκλεισμού της αιωνίου αυτόματης προώθησης μηνυμάτων ηλεκτρονικού ταχυδρομείου
 
 Για να ενεργοποιήσετε ή να απενεργοποιήσετε την προώθηση ηλεκτρονικού ταχυδρομείου για ένα συγκεκριμένο γραμματοκιβώτιο, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων προώθησης ηλεκτρονικού ταχυδρομείου.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Οι διαχειριστές μπορούν να ελέγχουν την εξωτερική προώθηση για τον οργανισμό χρησιμοποιώντας πολιτικές [εξερχόμενης ανεπιθύμητης αλληλογραφίας.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Μπορείτε να διαχειριστείτε τις πολιτικές εξερχόμενης ανεπιθύμητης αλληλογραφίας στην πύλη Microsoft 365 Defender ή χρησιμοποιώντας το <https://security.microsoft.com/antispam> [cmdlet Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) στο Exchange Online PowerShell.
+Οι διαχειριστές μπορούν να ελέγχουν την εξωτερική προώθηση για τον οργανισμό χρησιμοποιώντας πολιτικές [εξερχόμενης ανεπιθύμητης αλληλογραφίας.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Διαχειρίζεστε πολιτικές εξερχόμενης ανεπιθύμητης αλληλογραφίας στην πύλη Microsoft 365 Defender ή χρησιμοποιώντας το <https://security.microsoft.com/antispam> [cmdlet Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) στο Exchange Online PowerShell.
 
 Εάν εμφανιστεί το ακόλουθο σφάλμα: "Δεν επιτρέπεται η πρόσβαση **550 5.7.520,** ο οργανισμός σας δεν επιτρέπει την εξωτερική προώθηση", βεβαιωθείτε ότι η πολιτική έχει ρυθμιστεί ώστε να ενεργοποιεί εξωτερικά μηνύματα αυτόματης προώθησης.
 

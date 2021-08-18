@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897796"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316292"
 ---
 # <a name="set-up-exchange-online-protection"></a>Ρύθμιση Exchange Online Protection
 
@@ -30,4 +30,4 @@ Microsoft Exchange Online Η προστασία (EOP) είναι μια υπηρ
 - Υβριδική (συνδυασμός γραμματοκιβωτίων εσωτερικής εγκατάστασης και cloud
 - Όλα τα γραμματοκιβώτια cloud — που ταιριάζουν στον οργανισμό σας.
 
-Ο οδηγός παρέχει πληροφορίες και πόρους για να ρυθμίσετε το EOP και να ελέγξετε τις άδειες χρήσης του χρήστη σας, να εκχωρήσετε δικαιώματα στο Κέντρο διαχείρισης Microsoft 365 και να ρυθμίσετε τις παραμέτρους των πολιτικών ασφαλείας του οργανισμού σας.
+Ο οδηγός παρέχει πληροφορίες και πόρους για να ρυθμίσετε το EOP και να εξετάσετε τις άδειες χρήσης του χρήστη σας, να εκχωρήσετε δικαιώματα στο Κέντρο διαχείρισης Microsoft 365 και να ρυθμίσετε τις παραμέτρους των πολιτικών ασφαλείας του οργανισμού σας.

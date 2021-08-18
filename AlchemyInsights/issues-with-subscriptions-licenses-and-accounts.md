@@ -1,5 +1,5 @@
 ---
-title: Προβλήματα με τις συνδρομές, τις άδειες χρήσης και τους λογαριασμούς
+title: Προβλήματα με συνδρομές, άδειες χρήσης και λογαριασμούς
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087964"
 ---
-# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Προβλήματα με τις συνδρομές, τις άδειες χρήσης και τους λογαριασμούς
+# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Προβλήματα με συνδρομές, άδειες χρήσης και λογαριασμούς
 
-1. Όλοι οι χρήστες σε έναν μισθωτή του Azure AD Free μπορούν να χρησιμοποιούν τον έλεγχο ταυτότητας πολλών παραγόντων Azure με χρήση των [προεπιλογών ασφαλείας](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
-1. Κατανόηση [των δυνατοτήτων και των αδειών χρήσης για τον έλεγχο ταυτότητας πολλών παραγόντων του Azure AD](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Μάθετε πώς μπορείτε να [συσχετίσετε ή να προσθέσετε μια συνδρομή Azure στο μισθωτή του Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Ακολουθήστε τα παρακάτω βήματα για να [μεταφέρετε μια συνδρομή Azure σε έναν διαφορετικό κατάλογο Azure AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription).
-1. Ανατρέξτε στο θέμα [εκχώρηση ή κατάργηση αδειών χρήσης στην πύλη Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) για οδηγίες σχετικά με το πώς μπορείτε να εκχωρήσετε ή να καταργήσετε άδειες χρήσης από τους χρήστες.
+1. Όλοι οι χρήστες σε ένα μισθωτή Δωρεάν έκδοση του Azure AD μπορούν να χρησιμοποιήσουν τον έλεγχο ταυτότητας πολλών παραγόντων Azure χρησιμοποιώντας [προεπιλογές ασφαλείας.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Κατανοήστε [τις δυνατότητες και τις άδειες χρήσης για τον έλεγχο ταυτότητας πολλών παραγόντων του Azure AD.](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. Μάθετε πώς μπορείτε να [συσχετίσετε ή να προσθέσετε μια συνδρομή Azure στον Azure Active Directory σας.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. Ακολουθήστε αυτά τα βήματα για [να μεταφέρετε μια συνδρομή Azure σε διαφορετικό κατάλογο Azure AD.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Ανατρέξτε [στο θέμα Εκχώρηση ή κατάργηση αδειών χρήσης στην Azure Active Directory για](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) οδηγίες σχετικά με τον τρόπο εκχώρησης ή κατάργησης αδειών χρήσης από τους χρήστες.
