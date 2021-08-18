@@ -1,5 +1,5 @@
 ---
-title: Σφάλμα σύνδεσης στο OneDrive AADSTS50011
+title: OneDrive σφάλματος σύνδεσης AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112912"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Σφάλμα σύνδεσης στο OneDrive AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive σφάλματος σύνδεσης AADSTS50011
 
-Εάν εμφανιστεί ένα σφάλμα "AADSTS50011: η διεύθυνση URL απάντησης που καθορίζεται στην αίτηση δεν συμφωνεί με την απάντηση" κατά την είσοδο στην εφαρμογή OneDrive, επιλέξτε τα εξής:
+Εάν εμφανιστεί το σφάλμα "AADSTS50011: Η διεύθυνση URL απάντησης που καθορίζεται στην αίτηση δεν συμφωνεί με την απάντηση" κατά την είσοδο στην εφαρμογή OneDrive, ελέγξτε για τα εξής:
 
-Η έκδοση του OneDrive πρέπει να είναι ίση ή μεγαλύτερη από την έκδοση 20.052. XXXX. XXXX. Για να εξετάσετε την έκδοσή σας, κάντε κλικ στο μπλε εικονίδιο του OneDrive στην περιοχή ειδοποιήσεων, επιλέξτε **βοήθεια & ρυθμίσεις > ρυθμίσεις > σχετικά με**.
+Η OneDrive έκδοση πρέπει να είναι ίση ή μεγαλύτερη από την έκδοση 20.052.XXXX.XXXX. Για να ελέγξετε την έκδοση, κάντε κλικ στο μπλε OneDrive στην περιοχή ειδοποιήσεων, επιλέξτε **"Βοήθεια" & Ρυθμίσεις > Ρυθμίσεις > Πληροφορίες.**
 
-Το δίκτυό σας ενδέχεται να αποκλείει την κυκλοφορία στο **g.Live.com** και το **oneclient.SFX.MS**. Εάν αυτή η κίνηση έχει αποκλειστεί, το OneDrive δεν μπορεί να ενημερωθεί. Εργαστείτε με το διαχειριστή του δικτύου σας για να βεβαιωθείτε ότι έχετε πρόσβαση σε αυτές τις διευθύνσεις URL. [Αυτά τα τελικά σημεία](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) θα πρέπει να είναι προσβάσιμα για τους πελάτες που χρησιμοποιούν προγράμματα του Microsoft 365.
+Το δίκτυό σας ενδέχεται να αποκλείσει **την κυκλοφορία g.live.com** και **oneclient.sfx.ms.** Εάν αυτή η κυκλοφορία έχει αποκλειστεί, OneDrive να ενημερωθεί. Συνεργαστείτε με το διαχειριστή του δικτύου σας για να βεβαιωθείτε ότι έχετε πρόσβαση σε αυτές τις διευθύνσεις URL. [Αυτά τα τελικά σημεία θα πρέπει](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) να είναι προσιτά για τους πελάτες που χρησιμοποιούν Microsoft 365 προγραμμάτων.
 
-Εάν θέλετε να λάβετε μια τρέχουσα έκδοση του OneDrive με μη αυτόματο τρόπο, επισκεφθείτε την [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Εάν θέλετε να λάβετε με μη αυτόματο τρόπο μια τρέχουσα έκδοση του OneDrive, επισκεφθείτε την τοποθεσία [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .

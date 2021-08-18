@@ -1,5 +1,5 @@
 ---
-title: 898 μάθετε σχετικά με τις επιλογές κοινής χρήσης εξωτερικού ημερολογίου
+title: 898 Μάθετε σχετικά με τις επιλογές κοινής χρήσης εξωτερικού ημερολογίου
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1512892d0712c9a00b4a105d95a39ddbff55333b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe9bdc4a341017529460dacd349f00aec8b5626142ef6b164fc61ae2581d5584
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087676"
 ---
-# <a name="exchange-online-collaboration-options"></a>Επιλογές συνεργασίας του Exchange Online
+# <a name="exchange-online-collaboration-options"></a>Exchange Online επιλογές συνεργασίας
 
-- Για να λάβετε μια **Επισκόπηση της κοινής χρήσης εξωτερικού ημερολογίου**, ανατρέξτε [στο θέμα κοινή χρήση στο Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+- Για να δείτε μια **επισκόπηση της εξωτερικής κοινής χρήσης ημερολογίου,** [ανατρέξτε στο θέμα Κοινή χρήση Exchange Online.](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)
 
-- Για να **κάνετε κοινή χρήση ημερολογίων με μια άλλη εταιρεία του Office 365**, ανατρέξτε [στο θέμα σχέσεις οργανισμού στο Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+- Για **να κάνετε κοινή χρήση ημερολογίων με Office 365 οργανισμό,** ανατρέξτε στο θέμα Σχέσεις οργανισμού [Exchange Online.](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx)
 
-- Για να ελέγξετε τον τρόπο με τον οποίο οι **χρήστες σας μοιράζονται τα ημερολόγιά τους με άτομα εκτός της εταιρείας σας**, ανατρέξτε [στο θέμα κοινή χρήση πολιτικών στο Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+- Για να **ελέγξετε τον τρόπο με τον οποίο οι χρήστες σας κάνουν κοινή χρήση των** ημερολογίων τους με άτομα εκτός της εταιρείας σας, [ανατρέξτε στο θέμα Πολιτικές κοινής χρήσης Exchange Online.](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx)
 
-- Για να δείτε τις **βελτιώσεις** που γίνονται στην κοινή χρήση ημερολογίου, ανατρέξτε [στο θέμα κοινή χρήση ημερολογίου στο Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
+- Για να δείτε **τις βελτιώσεις** που γίνονται στην κοινή χρήση ημερολογίου, ανατρέξτε στο θέμα [Κοινή χρήση ημερολογίου Microsoft 365.](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967981"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315686"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Άδειες χρήσης για Microsoft 365 Defender
 
@@ -33,9 +33,8 @@ ms.locfileid: "53967981"
 - Microsoft Cloud App Security
 - Microsoft Defender για Office 365 (Πρόγραμμα 2)
 
-    > [!NOTE]
-    > Αυτή τη στιγμή, οι δοκιμαστικές άδειες χρήσης για Office 365 δεν παρέχουν πρόσβαση σε Microsoft 365 Defender.
+    **Σημείωση:** Αυτή τη στιγμή, οι δοκιμαστικές άδειες χρήσης για Office 365 δεν παρέχουν πρόσβαση σε Microsoft 365 Defender.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στη [σύγκριση Microsoft 365 για μεγάλες επιχειρήσεις προγραμμάτων.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Microsoft 365 για μεγάλες επιχειρήσεις Σύγκριση προγραμμάτων.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
 Δεν έχετε ακόμα άδεια χρήσης; [Δοκιμάστε ή αγοράστε μια Microsoft 365 σας.](https://go.microsoft.com/fwlink/?linkid=2143625)
