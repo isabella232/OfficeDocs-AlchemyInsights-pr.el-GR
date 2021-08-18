@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001508"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320030"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Ενημέρωση διεύθυνσης πώλησης και χρέωσης που σχετίζεται με την MCA σας - προτεινόμενα βήματα
 
 Μπορείτε να ενημερώσετε τη διεύθυνση πώλησης και τιμολόγησης που σχετίζεται με τη Σύμβαση πελάτη της Microsoft (MCA). 
 
-> [!NOTE]
-> Μόνο ένας διαχειριστής χρήστη μπορεί να κάνει αλλαγές Azure Active Directory πληροφορίες προφίλ χρήστη. Εάν δεν σας έχει εκχωρηθεί ο ρόλος διαχειριστή χρήστη, επικοινωνήστε με το διαχειριστή χρήστη. Για περισσότερες πληροφορίες σχετικά με την αλλαγή του προφίλ ενός χρήστη, ανατρέξτε στο θέμα Προσθήκη ή ενημέρωση [των πληροφοριών προφίλ ενός χρήστη χρησιμοποιώντας Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Σημείωση:** Μόνο ένας διαχειριστής χρήστη μπορεί να κάνει αλλαγές στις Azure Active Directory του προφίλ χρήστη. Εάν δεν σας έχει εκχωρηθεί ο ρόλος διαχειριστή χρήστη, επικοινωνήστε με το διαχειριστή χρήστη. Για περισσότερες πληροφορίες σχετικά με την αλλαγή του προφίλ ενός χρήστη, ανατρέξτε στο θέμα Προσθήκη ή ενημέρωση των πληροφοριών [προφίλ ενός χρήστη χρησιμοποιώντας Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Διεύθυνση πώλησης** - Η διεύθυνση πώλησης είναι η διεύθυνση και τα στοιχεία επικοινωνίας του οργανισμού ή του ατόμου, ο οποίος είναι υπεύθυνος για έναν λογαριασμό χρέωσης. Εμφανίζεται σε όλα τα τιμολόγια που δημιουργούνται για το λογαριασμό χρέωσης.
 

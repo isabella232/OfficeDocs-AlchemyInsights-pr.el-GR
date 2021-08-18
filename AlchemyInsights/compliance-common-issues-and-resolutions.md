@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893523"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319628"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Συνήθη προβλήματα και λύσεις συμμόρφωσης
 
@@ -39,6 +39,6 @@ ms.locfileid: "57893523"
 
 - Προβολή πολιτικών ειδοποιήσεων: [Ανατρέξτε στις πολιτικές ειδοποιήσεων στο Κέντρο συμμόρφωσης Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-- Άδειες κέντρου περινάκτων: [Ανατρέξτε στο θέμα "Δικαιώματα" στο Κέντρο συμμόρφωσης Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
+- Δικαιώματα κέντρου περιπλέκσεων: [Ανατρέξτε στο θέμα "Δικαιώματα" Κέντρο συμμόρφωσης Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **Σημείωση**: Για μια πιο συγκεκριμένη απάντηση σχετικά με ένα πρόβλημα συμμόρφωσης, αναδιατυπώσετε συνοπτικά την ερώτησή σας και συμπεριλάβετε τυχόν σφάλματα που βλέπετε ή δυνατότητες που χρησιμοποιείτε.

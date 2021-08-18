@@ -1,5 +1,5 @@
 ---
-title: 911 απενεργοποίηση των εστιασμένων εισερχομένων στο πρόγραμμα-πελάτη
+title: 911 Απενεργοποίηση εστιασμένων εισερχομένων στο πρόγραμμα-πελάτη
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092482"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Απενεργοποίηση των εστιασμένων εισερχομένων στα προγράμματα-πελάτες ηλεκτρονικού ταχυδρομείου
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Απενεργοποίηση των Εστιασμένων Εισερχομένων σε προγράμματα-πελάτες ηλεκτρονικού ταχυδρομείου
 
-Για να απενεργοποιήσετε τα εστιασμένα Εισερχόμενα στο Outlook 2016, το Outlook στο Web, το Outlook.com/Hotmail.com, το Outlook 2016 για Mac ή την αλληλογραφία για Windows 10, ανατρέξτε στο θέμα [Απενεργοποίηση εστιασμένων εισερχομένων](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Για να απενεργοποιήσετε τα Εστιασμένα Εισερχόμενα σε Outlook 2016, Outlook στο web, Outlook.com/Hotmail.com, Outlook 2016 για Mac ή Αλληλογραφία για Windows 10, ανατρέξτε στο θέμα Απενεργοποίηση των Εστιασμένων [Εισερχομένων.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)
 
-Για να απενεργοποιήσετε τα εστιασμένα Εισερχόμενα για όλους τους χρήστες του οργανισμού, ανατρέξτε στο θέμα [Ρύθμιση παραμέτρων εστιασμένων εισερχομένων για όλους τους χρήστες στον οργανισμό σας](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Για να απενεργοποιήσετε τα Εστιασμένα Εισερχόμενα για όλους τους οργανισμούς, ανατρέξτε στο θέμα Ρύθμιση παραμέτρων [εστιασμένων εισερχομένων για όλους τους οργανισμούς σας.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)

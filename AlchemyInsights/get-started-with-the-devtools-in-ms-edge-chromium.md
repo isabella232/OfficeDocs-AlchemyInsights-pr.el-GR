@@ -1,5 +1,5 @@
 ---
-title: Γρήγορα αποτελέσματα με τα εργαλεία προγραμματιστή στο Microsoft Edge (χρώμιο)
+title: Γρήγορα αποτελέσματα με τα εργαλεία προγραμματιστή στο Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116368"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Γρήγορα αποτελέσματα με τα εργαλεία προγραμματιστή στο Microsoft Edge (χρώμιο)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Γρήγορα αποτελέσματα με τα εργαλεία προγραμματιστή στο Microsoft Edge (Chromium)
 
-Το Microsoft Edge υιοθέτησε το έργο Open-Source του χρωμίου, το οποίο έχει ως στόχο να καταστήσει το Web λιγότερο κατακερματισμένο και πλατφόρμες Web πιο συμβατά. Αυτή η αλλαγή θα σας εξουσιοδοτήσει να χρησιμοποιήσετε το Microsoft Edge για να δημιουργήσετε και να ελέγξετε τις τοποθεσίες Web που λειτουργούν σε άλλα προγράμματα περιήγησης που βασίζονται στο χρώμιο.
+Microsoft Edge έχει εγκρίνει το Chromium ανοιχτού κώδικα, το οποίο έχει ως στόχο να κάνει το web λιγότερο κατακερματισμένο και τις πλατφόρμες Web πιο συμβατές. Αυτή η αλλαγή θα σας βοηθήσει να χρησιμοποιήσετε Microsoft Edge για να δημιουργήσετε και να ελέγξετε τις τοποθεσίες Web που λειτουργούν σε Chromium προγράμματα περιήγησης που βασίζονται σε Chromium.
 
-Το Microsoft Edge (χρώμιο) παρέχει επίσης τα [καλύτερα εργαλεία προγραμματιστή](https://go.microsoft.com/fwlink/?linkid=2134941) που θα πρέπει να σας είναι γνωστά και συμβατά με τα εργαλεία που χρησιμοποιείτε ήδη.
+Microsoft Edge (Chromium) παρέχει επίσης τα [](https://go.microsoft.com/fwlink/?linkid=2134941) καλύτερα στην κατηγορία εργαλεία προγραμματιστή που θα πρέπει να είναι οικεία σε εσάς και συμβατά με τα εργαλεία που χρησιμοποιείτε ήδη.
 
-Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Τι νέο υπάρχει στο DevTools του Microsoft Edge (χρώμιο)](https://go.microsoft.com/fwlink/?linkid=2135020).
+Για να μάθετε περισσότερα, ανατρέξτε στο θέμα Τι νέο υπάρχει [στο Microsoft Edge (Chromium) DevTools.](https://go.microsoft.com/fwlink/?linkid=2135020)

@@ -1,5 +1,5 @@
 ---
-title: Βοήθεια με τη δυνατότητα DEP της Apple
+title: Βοήθεια για το Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116332"
 ---
-# <a name="help-with-apple-dep"></a>Βοήθεια με τη δυνατότητα DEP της Apple
+# <a name="help-with-apple-dep"></a>Βοήθεια για το Apple DEP
 
-Εάν δεν είναι δυνατή η εγγραφή μιας συσκευής DEP και είναι ενεργοποιημένη η δυνατότητα ΣΠΙ (έλεγχος ταυτότητας πολλών παραγόντων), απενεργοποιήστε το ΣΠΙ. Το ΣΠΙ δεν υποστηρίζεται αυτήν τη στιγμή για την εγγραφή στο DEP.
+Εάν δεν είναι δυνατή η εγγραφή μιας συσκευής DEP και είναι ενεργοποιημένη η δυνατότητα MFA (Έλεγχος ταυτότητας πολλών παραγόντων), απενεργοποιήστε το MFA. Προς το παρόν, το MFA δεν υποστηρίζεται για την εγγραφή DEP.
 
-[Γρήγορα αποτελέσματα με το πρόγραμμα εγγραφής συσκευών του Intune και της Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Γρήγορα αποτελέσματα με το Intune και το Πρόγραμμα εγγραφής συσκευών της Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Συνηθισμένα σφάλματα και λύσεις εγγραφής στο iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Συνήθη σφάλματα και λύσεις εγγραφής iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Σενάρια δημιουργίας αντιγράφων ασφαλείας και επαναφοράς για εγγεγραμμένες συσκευές iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Σενάρια δημιουργίας αντιγράφων ασφαλείας και επαναφοράς για συσκευές iOS / iPadOS που έχουν εγγραφεί](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
 [Αντιμετώπιση προβλημάτων γενικής εγγραφής](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Χρησιμοποιήστε την πύλη αντιμετώπισης προβλημάτων του Intune για να διαγνώσετε και να επιλύσετε συνηθισμένες αποτυχίες εγγραφής](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Χρήση της πύλης αντιμετώπισης προβλημάτων intune για τη διάγνωση και την επίλυση συνηθισμένων αποτυχιών εγγραφής](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
