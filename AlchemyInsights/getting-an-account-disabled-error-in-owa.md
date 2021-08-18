@@ -1,5 +1,5 @@
 ---
-title: 123 λήψη ενός σφάλματος απενεργοποίησης λογαριασμού στο OWA;
+title: 123 Εμφανίζεται ένα σφάλμα απενεργοποίησης λογαριασμού στο OWA;
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089332"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Λαμβάνετε ένα σφάλμα απενεργοποίησης λογαριασμού στο Outlook στο Web;
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Εμφανίζεται ένα σφάλμα απενεργοποίησης λογαριασμού Outlook στο web;
 
-Εάν λάβετε το σφάλμα κατά το οποίο ο **λογαριασμός σας έχει απενεργοποιηθεί**  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` όταν προσπαθείτε να ανοίξετε το Outlook στο Web (παλαιότερα γνωστό ως Outlook Web App), ο διαχειριστής του οργανισμού σας μπορεί να έχει απενεργοποιήσει την πρόσβασή σας στο Outlook στο Web. Ο διαχειριστής σας μπορεί να διορθώσει αυτό το σφάλμα, ακολουθώντας τα βήματα στο θέμα [Ενεργοποίηση ή απενεργοποίηση του Outlook Web App για ένα γραμματοκιβώτιο](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Εάν εμφανιστεί το  σφάλμα με το οποίο ο λογαριασμός σας έχει απενεργοποιηθεί όταν προσπαθείτε να ανοίξετε το Outlook στο web (παλαιότερα γνωστό ως Outlook Web App), ο διαχειριστής του οργανισμού σας ενδέχεται να έχει απενεργοποιήσει την πρόσβασή σας `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` στο Outlook στο web. Ο διαχειριστής σας μπορεί να διορθώσει αυτό το σφάλμα ακολουθώντας τα βήματα στο θέμα Ενεργοποίηση [ή απενεργοποίηση Outlook Web App για ένα γραμματοκιβώτιο.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

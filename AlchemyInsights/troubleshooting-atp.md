@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038805"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900652"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Αντιμετώπιση προβλημάτων του Microsoft Defender για Office 365
 
-- **Παρατηρήσατε καθυστερήσεις στην παράδοση μηνυμάτων;** Χρησιμοποιήστε την [επιλογή δυναμικής παράδοσης](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) στην πολιτική "Συνημμένα" του Microsoft Defender Office 365 Θυρίδα συνημμένα. Αυτό θα σας βοηθήσει να αποφύγετε καθυστερήσεις μηνυμάτων κατά την προστασία των παραληπτών από κακόβουλα αρχεία.
+- **Παρατηρήσατε καθυστερήσεις στην παράδοση μηνυμάτων;** Χρησιμοποιήστε την [επιλογή δυναμικής παράδοσης](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) στην πολιτική "Συνημμένα" του Microsoft Defender Office 365 Θυρίδα συνημμένα. Αυτό θα σας βοηθήσει να αποφύγετε καθυστερήσεις μηνυμάτων κατά την προστασία των παραληπτών από κακόβουλα αρχεία.
 
 - **Θέλετε να αναφέρετε ψευδή θετικά ή ψευδή αρνητικά στη Microsoft;** Χρησιμοποιήστε [την Εξερεύνηση υποβολών.](https://protection.office.com/reportsubmission)
 
@@ -28,7 +28,7 @@ ms.locfileid: "54038805"
 
   1. Μεταβείτε [https://protection.office.com](https://protection.office.com) και πραγματοποιήστε είσοδο με έναν καθολικό διαχειριστή ή λογαριασμό διαχειριστή ασφαλείας.
 
-  2. Στο αριστερό παράθυρο περιήγησης στην περιοχή **Διαχείριση απειλών,** επιλέξτε **"Πολιτική"** \> **Θυρίδα "Συνδέσεις".**
+  2. Στο αριστερό παράθυρο περιήγησης, στην περιοχή **Διαχείριση απειλών,** επιλέξτε **"Πολιτική** \> **Θυρίδα Συνδέσεις".**
 
   3. Στις **πολιτικές που ισχύουν για ολόκληρη την ενότητα του οργανισμού,** επιλέξτε την πολιτική και κάντε κλικ στην επιλογή **"Επεξεργασία".**
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888242"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317650"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Γρήγορα αποτελέσματα με Teams Webinars
 
@@ -25,6 +25,6 @@ ms.locfileid: "57888242"
 
 Μετά τη ρύθμιση των webinar στον οργανισμό σας, οι χρήστες σας μπορούν να προγραμματίσουν webinar και να ανοίξουν την εγγραφή στους συμμετέχοντες. Σε αντίθεση με τις παραδοσιακές συσκέψεις που περιλαμβάνουν πολλές συζητήσεις και αναθέσεις εργασιών, τα webinar προορίζονται για αλληλεπιδραστικές παρουσιάσεις και για την παροχή εργαλείων για την ανάλυση των συμμετέχοντες.
 
-**Σημείωση:** Η λειτουργία Webinar εξακολουθεί να βρίσκεται σε διαδικασία ανάπτυξης σε Microsoft 365 μισθωτές. 
+**Σημείωση:** Η λειτουργία Webinar βρίσκεται ακόμη σε διαδικασία να γίνει η Microsoft 365 μισθωτών. 
 
 Για περισσότερες πληροφορίες σχετικά με τον τρόπο ρύθμισης και ρύθμισης Teams webinar, ανατρέξτε στο θέμα "Ρύθμιση για [webinars" Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)
