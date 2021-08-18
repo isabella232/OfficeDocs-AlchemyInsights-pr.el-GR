@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503688"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896975"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Εκχώρηση ή κατάργηση εκχώρησης αδειών χρήσης σε χρήστες
 
@@ -30,7 +30,7 @@ ms.locfileid: "54503688"
   
 1. Στο κέντρο διαχείρισης,  μεταβείτε στο στοιχείο Χρήστες \> [ενεργοί χρήστες.](https://go.microsoft.com/fwlink/p/?linkid=834822)
 2. Επιλέξτε τη γραμμή του χρήστη στον οποίο θέλετε να εκχωρήσετε μια άδεια χρήσης.
-3. Στο δεξιό τμήμα παραθύρου, επιλέξτε **"Άδειες χρήσης και εφαρμογές".**
+3. Στο δεξιό τμήμα παραθύρου, επιλέξτε **Άδειες χρήσης και εφαρμογές.**
 4. Αναπτύξτε **την ενότητα "Άδειες χρήσης",** επιλέξτε ή καταργήστε την επιλογή των πλαισίων για τις άδειες χρήσης που θέλετε να εκχωρήσετε ή να καταργήσετε την εκχώρηση και, στη συνέχεια, επιλέξτε **"Αποθήκευση αλλαγών".**
 
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Εκχώρηση αδειών χρήσης σε](/microsoft-365/admin/manage/assign-licenses-to-users)χρήστες και Κατάργηση [εκχώρησης αδειών χρήσης από τους χρήστες.](/microsoft-365/admin/manage/remove-licenses-from-users)
+Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Εκχώρηση αδειών χρήσης σε](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)χρήστες και Κατάργηση [εκχώρησης αδειών χρήσης από τους χρήστες.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)

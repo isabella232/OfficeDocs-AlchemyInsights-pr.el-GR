@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499034"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896931"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Πώς μπορείτε να κάνετε μια Microsoft 365 αγορά
 
@@ -30,7 +30,7 @@ ms.locfileid: "54499034"
 - Για να αγοράσετε πρόσθετες άδειες χρήσης, μεταβείτε στη σελίδα **"Χρέωση** \> **[των προϊόντων](https://go.microsoft.com/fwlink/p/?linkid=842054)** σας". Επιλέξτε τη συνδρομή που θέλετε να αλλάξετε και, στη συνέχεια, επιλέξτε **"Αγορά αδειών χρήσης".**
 **ΠΑΡΑΚΟΛΟΥΘΉΣτε ένα βίντεο** που δείχνει πώς μπορείτε να το κάνετε αυτό: [Αγορά νέων αδειών χρήσης](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης.](/microsoft-365/commerce/licenses/buy-licenses)
+Για να μάθετε περισσότερα, ανατρέξτε στο [θέμα Αγορά ή κατάργηση αδειών χρήσης.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Αντιμετώπιση προβλημάτων**
 
@@ -38,5 +38,5 @@ ms.locfileid: "54499034"
 
 **Πρόσθετοι πόροι**
   
-- [Εκχώρηση αδειών χρήσης σε χρήστες του Microsoft 365 για επιχειρήσεις](/microsoft-365/admin/add-users/add-users)
-- [Ακύρωση Microsoft 365 για επιχειρήσεις](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Εκχώρηση αδειών χρήσης σε χρήστες του Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Ακύρωση Microsoft 365 για επιχειρήσεις](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

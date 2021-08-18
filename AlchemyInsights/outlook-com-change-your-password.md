@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή του κωδικού πρόσβασής σας στο Outlook.com
+title: Αλλαγή του κωδικού πρόσβασης στο Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112192"
 ---
 # <a name="change-your-password"></a>Αλλαγή του κωδικού πρόσβασής σας
 
-Ο κωδικός πρόσβασής σας στο Outlook.com είναι ο ίδιος με τον κωδικό πρόσβασης του λογαριασμού Microsoft.
+Ο Outlook.com είναι ίδιος με τον κωδικό πρόσβασης του λογαριασμού Microsoft.
   
-Για να αλλάξετε τον κωδικό πρόσβασής σας, μεταβείτε στην [ασφάλεια του λογαριασμού Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) και επιλέξτε **ασφάλεια κωδικού πρόσβασης**.
+Για να αλλάξετε τον κωδικό πρόσβασής σας, μεταβείτε στην ασφάλεια [του λογαριασμού Microsoft και](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) επιλέξτε **"Ασφάλεια κωδικού πρόσβασης".**
   
-Εάν ξεχάσατε τον κωδικό πρόσβασής σας, μεταβείτε στη σελίδα [ανάκτηση του λογαριασμού σας](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Εάν ξεχάσατε τον κωδικό πρόσβασής σας, μεταβείτε στη [σελίδα "Ανάκτηση του λογαριασμού](https://go.microsoft.com/fwlink/p/?linkid=841909) σας".
   
-Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα Αλλαγή του κωδικού πρόσβασής σας στο Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Για να μάθετε περισσότερα, ανατρέξτε [στο θέμα "Αλλαγή κωδικού πρόσβασης" στο Outlook.com.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)

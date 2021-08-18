@@ -1,5 +1,5 @@
 ---
-title: Εκτέλεση σχολίων της Access στο Azure Active Directory
+title: Εκτέλεση αναθεωρή σεων πρόσβασης Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086776"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Εκτέλεση σχολίων της Access στο Azure Active Directory
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Εκτέλεση αναθεωρή σεων πρόσβασης Azure Active Directory
 
-Οι καθορισμένοι αναθεωρητές μπορούν να πραγματοποιούν σχόλια πρόσβασης του Azure Active Directory για τα μέλη της ομάδας, την πρόσβαση σε εφαρμογές και τις αναθέσεις ρόλων. Αυτά τα σχόλια συμβάλλουν στη μείωση των κινδύνων ασφαλείας που μπορεί να αντιμετωπίσει η εταιρεία σας όταν οι χρήστες έχουν περισσότερη πρόσβαση από όση χρειάζονται. Μπορείτε να πραγματοποιήσετε σχόλια της Access χρησιμοποιώντας [τις εφαρμογές μου](https://go.microsoft.com/fwlink/?linkid=2134605) ή [την πρόσβασή μου](https://go.microsoft.com/fwlink/?linkid=2134505).
+Οι καθορισμένοι αναθεωρητές μπορούν να εκτελούν Azure Active Directory πρόσβαση στις συνδρομές ομάδων, την πρόσβαση εφαρμογών και τις αναθέσεις ρόλων. Αυτές οι κριτικές βοηθούν στη μείωση των κινδύνων ασφαλείας που ενδέχεται να αντιμετωπίσει ο οργανισμός σας όταν οι χρήστες έχουν μεγαλύτερη πρόσβαση από ό,τι χρειάζονται. Μπορείτε να εκτελέσετε κριτικές πρόσβασης χρησιμοποιώντας την εφαρμογή "Οι [εφαρμογές μου" ή](https://go.microsoft.com/fwlink/?linkid=2134605) ["Η πρόσβαση μου".](https://go.microsoft.com/fwlink/?linkid=2134505)
