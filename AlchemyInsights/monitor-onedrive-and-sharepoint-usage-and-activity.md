@@ -1,5 +1,5 @@
 ---
-title: Παρακολούθηση της χρήσης και της δραστηριότητας του OneDrive και του SharePoint
+title: Παρακολούθηση OneDrive και SharePoint χρήσης και δραστηριότητας
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113344"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Προβολή αναφορών σχετικά με τη δραστηριότητα και τη χρήση του OneDrive και του SharePoint
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Προβολή αναφορών σχετικά με OneDrive και SharePoint και χρήση
 
-Μεταβείτε στη [σελίδα αναφορές χρήσης στο κέντρο διαχείρισης του Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Στην περιοχή **Επιλογή αναφοράς**, επιλέξτε τη δραστηριότητα του OneDrive ή του SharePoint ή την αναφορά χρήσης.
+Μεταβείτε στη [σελίδα "Αναφορές χρήσης" στο Κέντρο διαχείρισης Microsoft 365.](https://admin.microsoft.com/AdminPortal/Home) Στην **περιοχή "Επιλογή αναφοράς",** επιλέξτε OneDrive ή SharePoint δραστηριότητας ή χρήσης.
   
-[Περισσότερες πληροφορίες σχετικά με τις αναφορές του OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[Περισσότερες πληροφορίες σχετικά με OneDrive αναφορών](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[Περισσότερες πληροφορίες σχετικά με τις αναφορές του SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
+[Περισσότερες πληροφορίες σχετικά με SharePoint αναφορών](https://go.microsoft.com/fwlink/?linkid=875240)
   
