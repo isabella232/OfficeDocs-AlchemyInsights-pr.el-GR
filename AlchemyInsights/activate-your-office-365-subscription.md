@@ -3,6 +3,7 @@ title: Ενεργοποίηση συνδρομής Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314276"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450914"
 ---
 # <a name="activate-your-subscription"></a>Ενεργοποίηση συνδρομής
 
@@ -25,7 +28,7 @@ ms.locfileid: "58314276"
 
 - Για να παραχωρήσετε στους χρήστες πρόσβαση σε μια υπηρεσία, εκχωρήστε τους μια άδεια χρήσης. Για να μάθετε πώς γίνεται αυτό, [ανατρέξτε στο θέμα Εκχώρηση αδειών χρήσης σε χρήστες.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Εάν έχετε ήδη εκχωρήσει μια άδεια χρήσης, μπορείτε να βρείτε τις εφαρμογές που μπορείτε να κατεβάσετε από τη σελίδα "Ο [λογαριασμός μου".](https://portal.office.com/account/#installs) Η σελίδα αυτή διαθέτει μια λίστα εφαρμογών που είναι διαθέσιμες για λήψη, με βάση τις άδειες χρήσης που έχουν εκχωρηθεί. 
-- Εάν έχετε ήδη κάνει λήψη των Office, ίσως χρειαστεί να πραγματοποιήσετε είσοδο στις εφαρμογές με τον σχολικό ή τον σχολικό λογαριασμό σας. Αυτό μπορείτε να το κάνετε σε Office εφαρμογή (Word, Excel κ.λπ.) επιλέγοντας **"Αρχείο > λογαριασμού"** (κοντά στο κάτω μέρος). Στην περιοχή "Πληροφορίες χρήστη", **επιλέξτε "Εναλλαγή λογαριασμού".** Για περισσότερες πληροφορίες, διαβάστε [Εγκατάσταση εφαρμογών του Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Εάν έχετε ήδη κάνει λήψη των Office εφαρμογών, ίσως χρειαστεί να εισέλθετε στις εφαρμογές με τον σχολικό ή τον σχολικό λογαριασμό σας. Αυτό μπορείτε να το κάνετε σε Office εφαρμογή (Word, Excel κ.λπ.) επιλέγοντας **"Αρχείο" > λογαριασμό** (κοντά στο κάτω μέρος). Στην περιοχή "Πληροφορίες χρήστη", **επιλέξτε "Εναλλαγή λογαριασμού".** Για περισσότερες πληροφορίες, διαβάστε [Εγκατάσταση εφαρμογών του Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Επανενεργοποίηση μιας συνδρομής**
 
