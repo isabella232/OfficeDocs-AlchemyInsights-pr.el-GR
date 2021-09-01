@@ -3,7 +3,6 @@ title: Αλλαγή προφίλ οργανισμού
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 2527e9e6a88c033816479ea745c86121ca0887ec
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 04/21/2020
+ms.openlocfilehash: 23f382c75dbe95582b75ebf232f5d65db08fd1d0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313626"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845898"
 ---
 # <a name="change-organization-profile"></a>Αλλαγή προφίλ οργανισμού
 
-Αλλάξτε το όνομα της εταιρείας σας, τη διεύθυνση, τα τεχνικά στοιχεία επικοινωνίας και πολλά άλλα στο κέντρο **διαχείρισης στην Ρυθμίσεις**  >  **"Οργανισμός Ρυθμίσεις καρτέλα προφίλ**  >  [οργανισμού".](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+Αλλάξτε την επωνυμία, τη διεύθυνση, τα στοιχεία επικοινωνίας για τεχνικά θέματα και πολλά άλλα στο κέντρο διαχείρισης της καρτέλας **Ρυθμίσεις**  >  **Οργανισμός Ρυθμίσεις** Εταιρικό  >  [προφίλ.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
-Φροντίστε να συμπληρώσετε όλα τα απαιτούμενα πεδία με * για να ενεργοποιήσετε την αποθήκευση των αλλαγών σας.
+Φροντίστε να συμπληρώσετε όλα τα απαιτούμενα πεδία που έχουν επισημανθεί με ένα * για να ενεργοποιήσετε την αποθήκευση των αλλαγών σας.
 
-[Δείτε περισσότερες πληροφορίες σχετικά με τις αλλαγές διεύθυνσης ή διεύθυνσης χρέωσης.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)
+[Δείτε περισσότερες πληροφορίες σχετικά με τις αλλαγές στη διεύθυνση ή τη διεύθυνση χρέωσης.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

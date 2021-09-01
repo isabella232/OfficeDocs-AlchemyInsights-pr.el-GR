@@ -1,9 +1,8 @@
 ---
-title: Τρόπος αγοράς Office 365 για εκπαιδευτικά ιδρύματα προγραμμάτων
+title: Πώς μπορείτε να αγοράσετε προγράμματα Office 365 για εκπαιδευτικά ιδρύματα
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_purchase
 - "332"
 - "1500009"
+ms.date: 04/21/2020
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 31166812577892d984d91ff6d361d0849dd14c51
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bec8e8bcbf08d51f7e06e4b735dd112551d1bb0c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332995"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845358"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Τρόπος αγοράς Office 365 για εκπαιδευτικά ιδρύματα προγραμμάτων
+# <a name="how-to-purchase-office-365-education-plans"></a>Πώς μπορείτε να αγοράσετε προγράμματα Office 365 για εκπαιδευτικά ιδρύματα
 
-Η Office 365 για εκπαιδευτικά ιδρύματα σας είναι υπό εξέταση. Μπορείτε να αναμένετε να λάβετε μια ειδοποίηση σχετικά με τον προσδιορισμό της καταλληλότητας πριν από τη λήξη της δοκιμαστικής έκδοσης.
+Η κατειχήν Office 365 για εκπαιδευτικά ιδρύματα σας είναι υπό εξέταση. Θα λάβετε μια ειδοποίηση για τον προσδιορισμό της καταλληλότητάς σας πριν από τη λήξη της δοκιμαστικής σας έκδοσης.

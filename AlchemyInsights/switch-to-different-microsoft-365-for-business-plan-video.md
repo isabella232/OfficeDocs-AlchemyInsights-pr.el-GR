@@ -1,5 +1,5 @@
 ---
-title: Αλλαγή σε ένα διαφορετικό πρόγραμμα του Microsoft 365 για Επιχειρήσεις
+title: Αλλαγή σε διαφορετικό πρόγραμμα
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,15 @@ ms.custom:
 - commerce_subscriptions
 - "9002608"
 - "7594"
-ms.openlocfilehash: a1aaea58fb28ec6c25343a46047086e87fddf9f8
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 7c534709b959d36abc15dc845bca55d3a41e0b1e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450806"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845610"
 ---
-# <a name="switch-to-a-different-plan"></a>Αλλαγή σε ένα διαφορετικό πρόγραμμα του Microsoft 365 για Επιχειρήσεις
+# <a name="switch-to-a-different-plan"></a>Αλλαγή σε διαφορετικό πρόγραμμα
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SBE2?autoplay=false]
 
