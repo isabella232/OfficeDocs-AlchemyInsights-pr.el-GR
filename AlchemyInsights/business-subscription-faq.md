@@ -22,19 +22,20 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 4f059459ea1c0867ae972f154f082b183040f4040a81e7cb42cf00e493bfcf6b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/31/2021
+ms.openlocfilehash: 7a97f2fba9f033ecca4a0fcd62361facc9c3c9f8
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072124"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843162"
 ---
 # <a name="business-subscription-faq"></a>Συνήθεις ερωτήσεις για τη συνδρομή για επιχειρήσεις
 
 - Για να δείτε τις επιλογές του Microsoft 365 για επιχειρήσεις, ανατρέξτε στο θέμα [Σύγκριση προγραμμάτων για επιχειρήσεις](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Για περισσότερες πληροφορίες, επικοινωνήστε με τις πωλήσεις στο 1-855-270-0615.
 - Για να **αγοράσετε** ένα πρόγραμμα, επιλέξτε **Χρέωση > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Επιλέξτε το πρόγραμμα και τον αριθμό των χρηστών. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά διαφορετικής συνδρομής](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Για να **αλλάξετε πρόγραμμα**, ανατρέξτε στο θέμα [Αναβάθμιση σε διαφορετικό πρόγραμμα](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Για **εκχώρηση** αδειών χρήσης στους χρήστες, επιλέξτε **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα [Εκχώρηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Για **εκχώρηση** αδειών χρήσης στους χρήστες, επιλέξτε **Χρεώσεις > [Άδειες χρήσης](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Εκχώρηση αδειών χρήσης σε χρήστες](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Για **αγορά ή κατάργηση** αδειών χρήσης, επιλέξτε **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Αγορά ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Για **ακύρωση** μιας συνδρομής, μεταβείτε στην περιοχή **Χρεώσεις > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054)**, επιλέξτε τη συνδρομή και στην ενότητα **Ρυθμίσεις συνδρομής και πληρωμής**, επιλέξτε **Ακύρωση συνδρομής**. Για να μάθετε περισσότερα, ανατρέξτε στο θέμα [Ακύρωση της συνδρομής σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Για **Ενεργοποίηση** της συνδρομής, ανατρέξτε στο θέμα [Ενεργοποίηση της συνδρομής σας](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).

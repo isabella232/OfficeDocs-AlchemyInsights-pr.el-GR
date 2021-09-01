@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "3748"
-ms.openlocfilehash: 4a2c26c3850d99aeb19cc3c47116faffa879edfa
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 0f6e5cdfb678642b11c1375db47f0a988e4beb24
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450950"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842838"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Προσθήκη, αλλαγή ή κατάργηση σχέσης συνεργάτη
 
-Ως διαχειριστής, μπορείτε να εργαστείτε με έναν συνεργάτη για να αγοράσετε, να ενεργοποιήσετε και να ανανεώσετε Microsoft 365 συνδρομές. 
+Ως διαχειριστής, μπορείτε να συνεργαστείτε με έναν συνεργάτη για να αγοράσετε, να ενεργοποιήσετε και να ανανεώσετε συνδρομές Microsoft 365. 
 
-- Εάν θέλετε να επεξεργαστείτε την υπάρχουσα σχέση συνεργάτη σας, ανατρέξτε στο θέμα [Προσθήκη, αλλαγή ή διαγραφή ενός συνεργάτη παροχής συμβουλών συνδρομής.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)
+- Εάν θέλετε να επεξεργαστείτε την υπάρχουσα σχέση συνεργάτη, ανατρέξτε στο θέμα [Προσθήκη, αλλαγή ή διαγραφή ενός συμβουλευτικού συνεργάτη συνδρομής.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)
 
-- Εάν θέλετε να βρείτε έναν συνεργάτη της Microsoft, ανατρέξτε στο θέμα ["Εύρεση του συνεργάτη Microsoft 365 ή μεταπωλητή σας".](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
+- Αν θέλετε να βρείτε έναν συνεργάτη της Microsoft, ανατρέξτε στο θέμα [Εύρεση συνεργάτη ή μεταπωλητή της Microsoft 365 σας.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
 
-Εάν είστε ένας υπάρχων συνεργάτης της Microsoft ή θέλετε να γίνετε, ανατρέξτε στο Κέντρο συνεργατών της [Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) για περισσότερες πληροφορίες σχετικά με τα πλεονεκτήματα ή τον τρόπο λήψης βοήθειας από την [υποστήριξη συνεργατών της Microsoft.](https://aka.ms/partnersupport)
+Αν είστε υπάρχων συνεργάτης της Microsoft ή θέλετε να γίνετε, ανατρέξτε στο [Κέντρο συνεργατών](https://support.microsoft.com/help/4499930/partner-center-overview) της Microsoft για περισσότερες πληροφορίες σχετικά με τα οφέλη ή για το πώς μπορείτε να λάβετε βοήθεια από [την υποστήριξη συνεργατών](https://aka.ms/partnersupport)της Microsoft.
