@@ -1,31 +1,32 @@
 ---
 title: Αλλαγή προγραμμάτων του Exchange Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706863"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841973"
 ---
 # <a name="change-exchange-online-plans"></a>Αλλαγή προγραμμάτων του Exchange Online
 
-Οι διαχειριστές πρέπει να αλλάξουν τα προγράμματα με μη αυτόματο τρόπο. Για πλήρη βήματα, ανατρέξτε στο θέμα [Αλλαγή των προγραμμάτων του Microsoft 365 για επιχειρήσεις με μη αυτόματο τρόπο](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Οι διαχειριστές πρέπει να αλλάξουν σχέδια με μη αυτόματο τρόπο στο Κέντρο διαχείρισης Microsoft 365. Για πλήρη βήματα, δείτε[Αλλαγή προγραμμάτων με μη αυτόματο τρόπο](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. Αγοράστε το νέο πρόγραμμα συνδρομής. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στην ενότητα **Χρέωση > [Αγορά υπηρεσιών](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Είναι πιο εύκολο να χρησιμοποιήσετε το πλαίσιο αναζήτησης για να βρείτε τα προγράμματα του Exchange.
-
-2. Ελέγξτε τη νέα συνδρομή και τις άδειες χρήσης σας. Στο κέντρο διαχείρισης του Microsoft 365, μεταβείτε στην ενότητα **Χρέωση > [Συνδρομές](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Εάν η νέα συνδρομή δεν εμφανίζεται στη λίστα ή δεν είναι ενεργή, ελέγξτε [εδώ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Εκ νέου εκχώρηση αδειών χρήσης στους χρήστες. Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στην ενότητα **Χρήστες > [Ενεργοί χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822)** και εκχωρήστε άδειες χρήσης.
-
-4. [Ακύρωση συνδρομών ή κατάργηση αδειών χρήσης](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) που δεν χρειάζεστε πλέον.
+1. **Αγοράστε το νέο Πρόγραμμα συνδρομής.** Μεταβείτε στη σελίδα **Χρέωσης** > [Αγοράστε Υπηρεσίες](https://go.microsoft.com/fwlink/p/?linkid=868433) και αγοράστε την νέα συνδρομή.
+2. **Ελέγξτε την νέα συνδρομή και τις άδειες χρήσης σας.** Μεταβείτε στη σελίδα **Χρέωσης** > [Τα προϊόντα σας](https://go.microsoft.com/fwlink/p/?linkid=842054) σελίδα και βεβαιωθείτε ότι η νέα συνδρομή παρατίθεται και ότι έχει τον σωστό αριθμό αδειών χρήσης.
+3. **Εκ νέου Εκχώρηση αδειών χρήσης στους χρήστες.** Μεταβείτε στη σελίδα **Χρήστες** > [Ενεργοί Χρήστες](https://go.microsoft.com/fwlink/p/?linkid=834822) και εκχωρήστε άδειες χρήσης.
+4. [Ακυρώστε την συνδρομή σας](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) ή [καταργήσετε άδειες χρήσης](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) που δεν χρειάζεστε πλέον.
