@@ -1,9 +1,8 @@
 ---
-title: Προβολή του τιμολογίου ή του τιμολογίου μου
+title: Προβολή λογαριασμού ή τιμολογίου
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,20 +14,21 @@ ms.custom:
 - commerce_billing
 - "437"
 - "1500005"
+ms.date: 08/10/2021
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 1cbd1e84557fcba3b5192ed06cd4b1162ba4e4ce
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 60cf150fee1b6e097173e417eff56625ead420e8
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330586"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843990"
 ---
-# <a name="view-my-bill-or-invoice"></a>Προβολή του τιμολογίου ή του τιμολογίου μου
+# <a name="view-my-bill-or-invoice"></a>Προβολή λογαριασμού ή τιμολογίου
 
-1. Στο πλαίσιο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη σελίδα **"Χρεώσεις** \> [& πληρωμών".](https://go.microsoft.com/fwlink/p/?linkid=848039)
+1. Στο Κέντρο διαχείρισης Microsoft 365, μεταβείτε στη  \> σελίδα [Χρεώσεις & πληρωμές.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. Επιλέξτε ένα εύρος ημερομηνιών από την αναπτυσσόμενη λίστα και, στη συνέχεια, επιλέξτε τη σειρά που θέλετε να προβάλετε.
+2. Επιλέξτε μια περιοχή ημερομηνιών από την αναπτυσσόμενη λίστα και, στη συνέχεια, επιλέξτε τη σειρά που θέλετε να προβάλετε.
 
-3. Για να εκτυπώσετε το λογαριασμό, κάντε λήψη του λογαριασμού ως αρχείο PDF και κάντε κλικ στην επιλογή **"Εκτύπωση".**
+3. Για να εκτυπώσετε το τιμολόγιο χρέωσης, κάντε λήψη του λογαριασμού ως αρχείου PDF και κάντε κλικ στην επιλογή **Εκτύπωση.**
 
 Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Προβολή λογαριασμού ή τιμολογίου](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
