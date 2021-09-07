@@ -1,5 +1,5 @@
 ---
-title: Συνδέσεις Microsoft Viva Διαθεσιμότητα
+title: Ρύθμιση της εφαρμογής υπολογιστή Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000464"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923698"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Συνδέσεις Microsoft Viva Διαθεσιμότητα
+# <a name="set-up-the-viva-connections-desktop-app"></a>Ρύθμιση της εφαρμογής υπολογιστή Viva Connections
 
-Συνδέσεις Microsoft Viva θα είναι διαθέσιμη για υπολογιστή το πρώτο μισό του 2021 και για κινητές συσκευές το καλοκαίρι του 2021. Πρόσθετες δυνατότητες θα είναι διαθέσιμες στη διάρκεια του 2022.
+Υπάρχουν δύο κύριες απαιτήσεις για τις συνδέσεις Viva για το Teams Desktop. 
 
-Για περισσότερες πληροφορίες, ανατρέξτε στο [θέμα Συνδέσεις Microsoft Viva βοηθά όλους τους χρήστες να παραμείνουν δεσμευμένοι και ενημερωμένοι.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Η γραμμή εφαρμογής SharePoint πρέπει να κυκλοφορήσει και να ενεργοποιηθεί ώστε ο μισθωτής να επωφεληθεί από τα πλήρη πλεονεκτήματα των συνδέσεων Viva. Συνιστάται ιδιαίτερα να χρησιμοποιήσετε την αρχική τοποθεσία ως την εμπειρία προορισμού στο Teams. 
+- Η πρώτη έκδοση των συνδέσεων Viva μπορεί να παρατεθεί μέσω του κέντρου λήψης αρχείων της Microsoft με χρήση του PowerShell (χρησιμοποιήστε την πιο ενημερωμένη έκδοση του [SharePoint PowerShell).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Στη συνέχεια, οι Συνδέσεις Viva αποστέλλονται ως εφαρμογή στο κέντρο διαχείρισης Teams. Η δέσμη ενεργειών του PowerShell είναι διαθέσιμη από τις 31 Μαρτίου 2021. Κάντε λήψη της εφαρμογής Viva Connections Desktop από το επίσημο [Κέντρο λήψης αρχείων της Microsoft.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Για περισσότερες πληροφορίες, ανατρέξτε στα θέματα [Προσθήκη συνδέσεων Viva για Microsoft Teams υπολογιστή](https://docs.microsoft.com/SharePoint/viva-connections) και Microsoft Teams επισκόπηση του [PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)

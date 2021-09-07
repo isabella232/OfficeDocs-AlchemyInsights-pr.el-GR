@@ -9,33 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea00bfb368cca514c2b4732667cfb55509f9a3f5
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985586"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923734"
 ---
 # <a name="sync-a-users-profile-picture"></a>Συγχρονισμός εικόνας προφίλ χρήστη
 
-Μπορείτε να προσθέσετε ή να αλλάξετε τη φωτογραφία προφίλ σας στο Microsoft 365 από το Office.com ή κατά τη χρήση εφαρμογών της Microsoft στον υπολογιστή σας ή σε ένα πρόγραμμα περιήγησης στο τηλέφωνό σας. Η φωτογραφία σας εμφανίζεται παντού όπου υπάρχει ένας κύκλος φωτογραφιών προφίλ Microsoft 365.
+Η εικόνα προφίλ του SharePoint Online δεν εμφανίζεται σε τοποθεσίες SharePoint ή σε τμήματα Web "Άτομα". Για να εμφανίσετε την εικόνα προφίλ σας, ακολουθήστε τα βήματα στην ενότητα [Η εικόνα προφίλ δεν εμφανίζεται στο SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/administration/profile-picture-not-showing).
 
-Για να προσθέσετε τη φωτογραφία προφίλ σας Microsoft 365 για επιχειρήσεις:
-
-1. Βρείτε μια φωτογραφία που θέλετε να χρησιμοποιήσετε και αποθηκεύστε την στον υπολογιστή σας, OneDrive ή σε άλλη θέση στην οποία μπορείτε να έχετε πρόσβαση.
-
-2. Πραγματοποιήστε είσοδο Microsoft 365 με τον σχολικό ή τον σχολικό λογαριασμό σας [στο office.com.](https://www.office.com)
-
-3. Επιλέξτε τον κύκλο στην επάνω δεξιά γωνία της σελίδας που εμφανίζει τα αρχικά σας ή ένα εικονίδιο ενός ατόμου.
-
-4. Στο παράθυρο "Οι λογαριασμοί μου", επιλέξτε τον κύκλο που εμφανίζει τα αρχικά σας ή ένα εικονίδιο ενός ατόμου. Αλλάξτε τη φωτογραφία σας στο αναδυόμενο παράθυρο που εμφανίζεται.
-
-**Σημείωση:** Εάν μια εικόνα προφίλ χρηστών εμφανίζεται διαφορετική σε SharePoint σε σύγκριση με άλλες εφαρμογές της Microsoft, πρέπει ο χρήστης να ολοκληρώσει τα παρακάτω βήματα:
-
-1. Ανοίξτε μια ιδιωτική περίοδο λειτουργίας προγράμματος περιήγησης (InPrivate/incognito).
-1. Μεταβείτε [στην Microsoft Office 365.](https://www.office.com)
-1. Επιλέξτε το SharePoint σας.
-1. Μεταβείτε σε μια τοποθεσία ή σελίδα όπου η φωτογραφία δεν ενημερώνεται ή σε μια σελίδα όπου ο χρήστης περιλαμβάνεται σε ένα Τμήμα Web ατόμων.
-
-Για περισσότερες πληροφορίες, ανατρέξτε [στο θέμα Πληροφορίες σχετικά με το συγχρονισμό εικόνων προφίλ Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Πληροφορίες σχετικά με το συγχρονισμό εικόνας προφίλ στο Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
 
